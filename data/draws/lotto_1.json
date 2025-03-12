@@ -1,0 +1,48 @@
+{
+  "draw_no": 1,
+  "draw_date": "2002-12-07",
+  "numbers": [
+    10,
+    23,
+    29,
+    33,
+    37,
+    40
+  ],
+  "bonus_number": 16,
+  "prize_info": [
+    {
+      "rank": "1등",
+      "total_prize": "0원",
+      "winner_count": "0",
+      "prize_per_winner": "0원"
+    },
+    {
+      "rank": "2등",
+      "total_prize": "143,934,100원",
+      "winner_count": "1",
+      "prize_per_winner": "143,934,100원"
+    },
+    {
+      "rank": "3등",
+      "total_prize": "143,934,000원",
+      "winner_count": "28",
+      "prize_per_winner": "5,140,500원"
+    },
+    {
+      "rank": "4등",
+      "total_prize": "287,695,800원",
+      "winner_count": "2,537",
+      "prize_per_winner": "113,400원"
+    },
+    {
+      "rank": "5등",
+      "total_prize": "401,550,000원",
+      "winner_count": "40,155",
+      "prize_per_winner": "10,000원"
+    }
+  ],
+  "total_sales_amount": "3,681,782,000원",
+  "first_prize_store_info": [],
+  "updated_at": "2025-03-10T21:10:34.174622"
+}

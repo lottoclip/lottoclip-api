@@ -1,0 +1,109 @@
+{
+  "draw_no": 690,
+  "draw_date": "2016-02-20",
+  "numbers": [
+    24,
+    25,
+    33,
+    34,
+    38,
+    39
+  ],
+  "bonus_number": 43,
+  "prize_info": [
+    {
+      "rank": "1등",
+      "total_prize": "16,897,614,375원",
+      "winner_count": "15",
+      "prize_per_winner": "1,126,507,625원"
+    },
+    {
+      "rank": "2등",
+      "total_prize": "2,816,269,096원",
+      "winner_count": "34",
+      "prize_per_winner": "82,831,444원"
+    },
+    {
+      "rank": "3등",
+      "total_prize": "2,816,269,724원",
+      "winner_count": "1,772",
+      "prize_per_winner": "1,589,317원"
+    },
+    {
+      "rank": "4등",
+      "total_prize": "4,398,500,000원",
+      "winner_count": "87,970",
+      "prize_per_winner": "50,000원"
+    },
+    {
+      "rank": "5등",
+      "total_prize": "7,642,360,000원",
+      "winner_count": "1,528,472",
+      "prize_per_winner": "5,000원"
+    }
+  ],
+  "total_sales_amount": "69,142,025,000원",
+  "first_prize_store_info": [
+    {
+      "store_id": "11100244",
+      "type": "자동"
+    },
+    {
+      "store_id": "11110634",
+      "type": "자동"
+    },
+    {
+      "store_id": "11100637",
+      "type": "수동"
+    },
+    {
+      "store_id": "12610230",
+      "type": "수동"
+    },
+    {
+      "store_id": "22600016",
+      "type": "수동"
+    },
+    {
+      "store_id": "12800025",
+      "type": "수동"
+    },
+    {
+      "store_id": "13110054",
+      "type": "자동"
+    },
+    {
+      "store_id": "14110441",
+      "type": "수동"
+    },
+    {
+      "store_id": "14100105",
+      "type": "수동"
+    },
+    {
+      "store_id": "14110283",
+      "type": "수동"
+    },
+    {
+      "store_id": "14390011",
+      "type": "수동"
+    },
+    {
+      "store_id": "14500055",
+      "type": "수동"
+    },
+    {
+      "store_id": "14610073",
+      "type": "수동"
+    },
+    {
+      "store_id": "14700167",
+      "type": "수동"
+    },
+    {
+      "store_id": "24800046",
+      "type": "수동"
+    }
+  ],
+  "updated_at": "2025-03-10T23:06:30.802009"
+}

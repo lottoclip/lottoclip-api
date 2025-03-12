@@ -1,0 +1,48 @@
+{
+  "draw_no": 220,
+  "draw_date": "2007-02-17",
+  "numbers": [
+    5,
+    11,
+    19,
+    21,
+    34,
+    43
+  ],
+  "bonus_number": 31,
+  "prize_info": [
+    {
+      "rank": "1등",
+      "total_prize": "11,748,569,700원",
+      "winner_count": "6",
+      "prize_per_winner": "1,958,094,950원"
+    },
+    {
+      "rank": "2등",
+      "total_prize": "1,958,094,964원",
+      "winner_count": "28",
+      "prize_per_winner": "69,931,963원"
+    },
+    {
+      "rank": "3등",
+      "total_prize": "1,958,095,845원",
+      "winner_count": "1,317",
+      "prize_per_winner": "1,486,785원"
+    },
+    {
+      "rank": "4등",
+      "total_prize": "3,916,248,536원",
+      "winner_count": "67,271",
+      "prize_per_winner": "58,216원"
+    },
+    {
+      "rank": "5등",
+      "total_prize": "5,610,750,000원",
+      "winner_count": "1,122,150",
+      "prize_per_winner": "5,000원"
+    }
+  ],
+  "total_sales_amount": "50,383,399,000원",
+  "first_prize_store_info": [],
+  "updated_at": "2025-03-10T21:11:17.692897"
+}

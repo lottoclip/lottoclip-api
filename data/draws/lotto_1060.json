@@ -1,0 +1,161 @@
+{
+  "draw_no": 1060,
+  "draw_date": "2023-03-25",
+  "numbers": [
+    3,
+    10,
+    24,
+    33,
+    38,
+    45
+  ],
+  "bonus_number": 36,
+  "prize_info": [
+    {
+      "rank": "1등",
+      "total_prize": "25,150,689,396원",
+      "winner_count": "28",
+      "prize_per_winner": "898,238,907원"
+    },
+    {
+      "rank": "2등",
+      "total_prize": "4,191,781,632원",
+      "winner_count": "96",
+      "prize_per_winner": "43,664,392원"
+    },
+    {
+      "rank": "3등",
+      "total_prize": "4,191,783,078원",
+      "winner_count": "4,593",
+      "prize_per_winner": "912,646원"
+    },
+    {
+      "rank": "4등",
+      "total_prize": "8,973,750,000원",
+      "winner_count": "179,475",
+      "prize_per_winner": "50,000원"
+    },
+    {
+      "rank": "5등",
+      "total_prize": "12,830,590,000원",
+      "winner_count": "2,566,118",
+      "prize_per_winner": "5,000원"
+    }
+  ],
+  "total_sales_amount": "110,677,185,000원",
+  "first_prize_store_info": [
+    {
+      "store_id": "11100250",
+      "type": "자동"
+    },
+    {
+      "store_id": "11130011",
+      "type": "자동"
+    },
+    {
+      "store_id": "11101432",
+      "type": "수동"
+    },
+    {
+      "store_id": "11100278",
+      "type": "수동"
+    },
+    {
+      "store_id": "11140678",
+      "type": "수동"
+    },
+    {
+      "store_id": "12600128",
+      "type": "수동"
+    },
+    {
+      "store_id": "12600054",
+      "type": "반자동"
+    },
+    {
+      "store_id": "12600094",
+      "type": "자동"
+    },
+    {
+      "store_id": "12690069",
+      "type": "수동"
+    },
+    {
+      "store_id": "12800209",
+      "type": "자동"
+    },
+    {
+      "store_id": "12890004",
+      "type": "자동"
+    },
+    {
+      "store_id": "12840088",
+      "type": "수동"
+    },
+    {
+      "store_id": "12810030",
+      "type": "자동"
+    },
+    {
+      "store_id": "13040120",
+      "type": "자동"
+    },
+    {
+      "store_id": "13190001",
+      "type": "수동"
+    },
+    {
+      "store_id": "14110086",
+      "type": "수동"
+    },
+    {
+      "store_id": "14110652",
+      "type": "수동"
+    },
+    {
+      "store_id": "14130169",
+      "type": "수동"
+    },
+    {
+      "store_id": "14110302",
+      "type": "수동"
+    },
+    {
+      "store_id": "14140509",
+      "type": "자동"
+    },
+    {
+      "store_id": "14440354",
+      "type": "수동"
+    },
+    {
+      "store_id": "14500103",
+      "type": "자동"
+    },
+    {
+      "store_id": "14540028",
+      "type": "자동"
+    },
+    {
+      "store_id": "14500030",
+      "type": "자동"
+    },
+    {
+      "store_id": "14710087",
+      "type": "수동"
+    },
+    {
+      "store_id": "14800031",
+      "type": "수동"
+    },
+    {
+      "store_id": "14830016",
+      "type": "자동"
+    },
+    {
+      "store_id": "14800077",
+      "type": "수동"
+    }
+  ],
+  "updated_at": "2025-03-10T23:19:18.774852"
+}

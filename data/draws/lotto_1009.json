@@ -1,0 +1,109 @@
+{
+  "draw_no": 1009,
+  "draw_date": "2022-04-02",
+  "numbers": [
+    15,
+    23,
+    29,
+    34,
+    40,
+    44
+  ],
+  "bonus_number": 20,
+  "prize_info": [
+    {
+      "rank": "1등",
+      "total_prize": "25,536,942,375원",
+      "winner_count": "15",
+      "prize_per_winner": "1,702,462,825원"
+    },
+    {
+      "rank": "2등",
+      "total_prize": "4,256,157,084원",
+      "winner_count": "69",
+      "prize_per_winner": "61,683,436원"
+    },
+    {
+      "rank": "3등",
+      "total_prize": "4,256,157,192원",
+      "winner_count": "2,632",
+      "prize_per_winner": "1,617,081원"
+    },
+    {
+      "rank": "4등",
+      "total_prize": "6,673,800,000원",
+      "winner_count": "133,476",
+      "prize_per_winner": "50,000원"
+    },
+    {
+      "rank": "5등",
+      "total_prize": "11,162,625,000원",
+      "winner_count": "2,232,525",
+      "prize_per_winner": "5,000원"
+    }
+  ],
+  "total_sales_amount": "103,771,363,000원",
+  "first_prize_store_info": [
+    {
+      "store_id": "11101681",
+      "type": "자동"
+    },
+    {
+      "store_id": "12640108",
+      "type": "자동"
+    },
+    {
+      "store_id": "12600089",
+      "type": "수동"
+    },
+    {
+      "store_id": "12600126",
+      "type": "자동"
+    },
+    {
+      "store_id": "14140229",
+      "type": "자동"
+    },
+    {
+      "store_id": "14140027",
+      "type": "수동"
+    },
+    {
+      "store_id": "14141332",
+      "type": "자동"
+    },
+    {
+      "store_id": "14120133",
+      "type": "자동"
+    },
+    {
+      "store_id": "14130183",
+      "type": "수동"
+    },
+    {
+      "store_id": "14290047",
+      "type": "자동"
+    },
+    {
+      "store_id": "14540030",
+      "type": "자동"
+    },
+    {
+      "store_id": "14700078",
+      "type": "자동"
+    },
+    {
+      "store_id": "14830033",
+      "type": "수동"
+    },
+    {
+      "store_id": "14840084",
+      "type": "수동"
+    },
+    {
+      "store_id": "14900009",
+      "type": "자동"
+    }
+  ],
+  "updated_at": "2025-03-10T23:19:06.237920"
+}

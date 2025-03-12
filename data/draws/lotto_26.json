@@ -1,0 +1,48 @@
+{
+  "draw_no": 26,
+  "draw_date": "2003-05-31",
+  "numbers": [
+    4,
+    5,
+    7,
+    18,
+    20,
+    25
+  ],
+  "bonus_number": 31,
+  "prize_info": [
+    {
+      "rank": "1등",
+      "total_prize": "17,475,349,500원",
+      "winner_count": "5",
+      "prize_per_winner": "3,495,069,900원"
+    },
+    {
+      "rank": "2등",
+      "total_prize": "2,912,555,100원",
+      "winner_count": "39",
+      "prize_per_winner": "74,680,900원"
+    },
+    {
+      "rank": "3등",
+      "total_prize": "2,912,490,000원",
+      "winner_count": "1,340",
+      "prize_per_winner": "2,173,500원"
+    },
+    {
+      "rank": "4등",
+      "total_prize": "5,823,511,200원",
+      "winner_count": "72,252",
+      "prize_per_winner": "80,600원"
+    },
+    {
+      "rank": "5등",
+      "total_prize": "10,970,930,000원",
+      "winner_count": "1,097,093",
+      "prize_per_winner": "10,000원"
+    }
+  ],
+  "total_sales_amount": "80,193,026,000원",
+  "first_prize_store_info": [],
+  "updated_at": "2025-03-10T21:10:39.350560"
+}

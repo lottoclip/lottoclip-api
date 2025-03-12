@@ -1,0 +1,48 @@
+{
+  "draw_no": 230,
+  "draw_date": "2007-04-28",
+  "numbers": [
+    5,
+    11,
+    14,
+    29,
+    32,
+    33
+  ],
+  "bonus_number": 12,
+  "prize_info": [
+    {
+      "rank": "1등",
+      "total_prize": "10,343,433,304원",
+      "winner_count": "8",
+      "prize_per_winner": "1,292,929,163원"
+    },
+    {
+      "rank": "2등",
+      "total_prize": "1,723,905,550원",
+      "winner_count": "25",
+      "prize_per_winner": "68,956,222원"
+    },
+    {
+      "rank": "3등",
+      "total_prize": "1,723,905,689원",
+      "winner_count": "1,037",
+      "prize_per_winner": "1,662,397원"
+    },
+    {
+      "rank": "4등",
+      "total_prize": "3,447,811,740원",
+      "winner_count": "56,346",
+      "prize_per_winner": "61,190원"
+    },
+    {
+      "rank": "5등",
+      "total_prize": "4,856,620,000원",
+      "winner_count": "971,324",
+      "prize_per_winner": "5,000원"
+    }
+  ],
+  "total_sales_amount": "44,191,351,000원",
+  "first_prize_store_info": [],
+  "updated_at": "2025-03-10T21:11:19.730391"
+}

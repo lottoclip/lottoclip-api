@@ -1,0 +1,61 @@
+{
+  "draw_no": 419,
+  "draw_date": "2010-12-11",
+  "numbers": [
+    2,
+    11,
+    13,
+    14,
+    28,
+    30
+  ],
+  "bonus_number": 7,
+  "prize_info": [
+    {
+      "rank": "1등",
+      "total_prize": "11,389,472,250원",
+      "winner_count": "3",
+      "prize_per_winner": "3,796,490,750원"
+    },
+    {
+      "rank": "2등",
+      "total_prize": "1,898,245,404원",
+      "winner_count": "33",
+      "prize_per_winner": "57,522,588원"
+    },
+    {
+      "rank": "3등",
+      "total_prize": "1,898,246,274원",
+      "winner_count": "1,194",
+      "prize_per_winner": "1,589,821원"
+    },
+    {
+      "rank": "4등",
+      "total_prize": "3,005,000,000원",
+      "winner_count": "60,100",
+      "prize_per_winner": "50,000원"
+    },
+    {
+      "rank": "5등",
+      "total_prize": "5,063,185,000원",
+      "winner_count": "1,012,637",
+      "prize_per_winner": "5,000원"
+    }
+  ],
+  "total_sales_amount": "46,508,296,000원",
+  "first_prize_store_info": [
+    {
+      "store_id": "11101524",
+      "type": "자동"
+    },
+    {
+      "store_id": "12900125",
+      "type": "자동"
+    },
+    {
+      "store_id": "14200134",
+      "type": "자동"
+    }
+  ],
+  "updated_at": "2025-03-10T23:05:30.203146"
+}

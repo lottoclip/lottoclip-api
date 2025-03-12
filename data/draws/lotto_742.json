@@ -1,0 +1,113 @@
+{
+  "draw_no": 742,
+  "draw_date": "2017-02-18",
+  "numbers": [
+    8,
+    10,
+    13,
+    36,
+    37,
+    40
+  ],
+  "bonus_number": 6,
+  "prize_info": [
+    {
+      "rank": "1등",
+      "total_prize": "17,789,037,008원",
+      "winner_count": "16",
+      "prize_per_winner": "1,111,814,813원"
+    },
+    {
+      "rank": "2등",
+      "total_prize": "2,964,839,504원",
+      "winner_count": "44",
+      "prize_per_winner": "67,382,716원"
+    },
+    {
+      "rank": "3등",
+      "total_prize": "2,964,839,820원",
+      "winner_count": "1,986",
+      "prize_per_winner": "1,492,870원"
+    },
+    {
+      "rank": "4등",
+      "total_prize": "4,917,400,000원",
+      "winner_count": "98,348",
+      "prize_per_winner": "50,000원"
+    },
+    {
+      "rank": "5등",
+      "total_prize": "8,292,780,000원",
+      "winner_count": "1,658,556",
+      "prize_per_winner": "5,000원"
+    }
+  ],
+  "total_sales_amount": "73,857,792,000원",
+  "first_prize_store_info": [
+    {
+      "store_id": "11100263",
+      "type": "자동"
+    },
+    {
+      "store_id": "11101001",
+      "type": "자동"
+    },
+    {
+      "store_id": "11100558",
+      "type": "자동"
+    },
+    {
+      "store_id": "12600097",
+      "type": "자동"
+    },
+    {
+      "store_id": "12700270",
+      "type": "자동"
+    },
+    {
+      "store_id": "13040008",
+      "type": "수동"
+    },
+    {
+      "store_id": "13000100",
+      "type": "수동"
+    },
+    {
+      "store_id": "14190247",
+      "type": "자동"
+    },
+    {
+      "store_id": "14100582",
+      "type": "자동"
+    },
+    {
+      "store_id": "14120075",
+      "type": "수동"
+    },
+    {
+      "store_id": "14190159",
+      "type": "자동"
+    },
+    {
+      "store_id": "14110320",
+      "type": "자동"
+    },
+    {
+      "store_id": "14340013",
+      "type": "수동"
+    },
+    {
+      "store_id": "14490004",
+      "type": "자동"
+    },
+    {
+      "store_id": "14410008",
+      "type": "반자동"
+    },
+    {
+      "store_id": "14900002",
+      "type": "자동"
+    }
+  ],
+  "updated_at": "2025-03-10T23:06:42.534212"
+}

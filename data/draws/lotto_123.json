@@ -1,0 +1,48 @@
+{
+  "draw_no": 123,
+  "draw_date": "2005-04-09",
+  "numbers": [
+    7,
+    17,
+    18,
+    28,
+    30,
+    45
+  ],
+  "bonus_number": 27,
+  "prize_info": [
+    {
+      "rank": "1등",
+      "total_prize": "12,664,913,400원",
+      "winner_count": "5",
+      "prize_per_winner": "2,532,982,680원"
+    },
+    {
+      "rank": "2등",
+      "total_prize": "2,110,818,908원",
+      "winner_count": "38",
+      "prize_per_winner": "55,547,866원"
+    },
+    {
+      "rank": "3등",
+      "total_prize": "2,110,819,102원",
+      "winner_count": "1,477",
+      "prize_per_winner": "1,429,126원"
+    },
+    {
+      "rank": "4등",
+      "total_prize": "4,221,654,712원",
+      "winner_count": "72,742",
+      "prize_per_winner": "58,036원"
+    },
+    {
+      "rank": "5등",
+      "total_prize": "5,940,535,000원",
+      "winner_count": "1,188,107",
+      "prize_per_winner": "5,000원"
+    }
+  ],
+  "total_sales_amount": "54,097,448,000원",
+  "first_prize_store_info": [],
+  "updated_at": "2025-03-10T21:10:58.630275"
+}

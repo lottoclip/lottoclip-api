@@ -1,0 +1,48 @@
+{
+  "draw_no": 204,
+  "draw_date": "2006-10-28",
+  "numbers": [
+    3,
+    12,
+    14,
+    35,
+    40,
+    45
+  ],
+  "bonus_number": 5,
+  "prize_info": [
+    {
+      "rank": "1등",
+      "total_prize": "10,866,777,000원",
+      "winner_count": "8",
+      "prize_per_winner": "1,358,347,125원"
+    },
+    {
+      "rank": "2등",
+      "total_prize": "1,811,129,503원",
+      "winner_count": "23",
+      "prize_per_winner": "78,744,761원"
+    },
+    {
+      "rank": "3등",
+      "total_prize": "1,811,130,080원",
+      "winner_count": "1,180",
+      "prize_per_winner": "1,534,856원"
+    },
+    {
+      "rank": "4등",
+      "total_prize": "3,622,301,702원",
+      "winner_count": "57,646",
+      "prize_per_winner": "62,837원"
+    },
+    {
+      "rank": "5등",
+      "total_prize": "4,927,580,000원",
+      "winner_count": "985,516",
+      "prize_per_winner": "5,000원"
+    }
+  ],
+  "total_sales_amount": "46,077,750,000원",
+  "first_prize_store_info": [],
+  "updated_at": "2025-03-10T21:11:14.533538"
+}

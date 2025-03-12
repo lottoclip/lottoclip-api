@@ -1,0 +1,137 @@
+{
+  "draw_no": 1000,
+  "draw_date": "2022-01-29",
+  "numbers": [
+    2,
+    8,
+    19,
+    22,
+    32,
+    42
+  ],
+  "bonus_number": 39,
+  "prize_info": [
+    {
+      "rank": "1등",
+      "total_prize": "27,430,031,640원",
+      "winner_count": "22",
+      "prize_per_winner": "1,246,819,620원"
+    },
+    {
+      "rank": "2등",
+      "total_prize": "4,571,672,005원",
+      "winner_count": "109",
+      "prize_per_winner": "41,941,945원"
+    },
+    {
+      "rank": "3등",
+      "total_prize": "4,571,672,364원",
+      "winner_count": "4,018",
+      "prize_per_winner": "1,137,798원"
+    },
+    {
+      "rank": "4등",
+      "total_prize": "9,002,600,000원",
+      "winner_count": "180,052",
+      "prize_per_winner": "50,000원"
+    },
+    {
+      "rank": "5등",
+      "total_prize": "13,738,430,000원",
+      "winner_count": "2,747,686",
+      "prize_per_winner": "5,000원"
+    }
+  ],
+  "total_sales_amount": "118,628,811,000원",
+  "first_prize_store_info": [
+    {
+      "store_id": "11120016",
+      "type": "자동"
+    },
+    {
+      "store_id": "11140275",
+      "type": "수동"
+    },
+    {
+      "store_id": "51100000",
+      "type": "수동"
+    },
+    {
+      "store_id": "11190007",
+      "type": "수동"
+    },
+    {
+      "store_id": "11140351",
+      "type": "자동"
+    },
+    {
+      "store_id": "12640292",
+      "type": "자동"
+    },
+    {
+      "store_id": "12610161",
+      "type": "수동"
+    },
+    {
+      "store_id": "12610161",
+      "type": "수동"
+    },
+    {
+      "store_id": "12840194",
+      "type": "수동"
+    },
+    {
+      "store_id": "13040007",
+      "type": "수동"
+    },
+    {
+      "store_id": "13040065",
+      "type": "자동"
+    },
+    {
+      "store_id": "14110486",
+      "type": "수동"
+    },
+    {
+      "store_id": "14140320",
+      "type": "반자동"
+    },
+    {
+      "store_id": "14190185",
+      "type": "자동"
+    },
+    {
+      "store_id": "14110027",
+      "type": "자동"
+    },
+    {
+      "store_id": "14110266",
+      "type": "수동"
+    },
+    {
+      "store_id": "14110329",
+      "type": "수동"
+    },
+    {
+      "store_id": "14140248",
+      "type": "자동"
+    },
+    {
+      "store_id": "14240093",
+      "type": "수동"
+    },
+    {
+      "store_id": "14390019",
+      "type": "수동"
+    },
+    {
+      "store_id": "14590017",
+      "type": "수동"
+    },
+    {
+      "store_id": "14910004",
+      "type": "수동"
+    }
+  ],
+  "updated_at": "2025-03-10T23:19:03.990374"
+}

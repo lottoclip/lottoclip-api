@@ -1,0 +1,113 @@
+{
+  "draw_no": 598,
+  "draw_date": "2014-05-17",
+  "numbers": [
+    4,
+    12,
+    24,
+    33,
+    38,
+    45
+  ],
+  "bonus_number": 22,
+  "prize_info": [
+    {
+      "rank": "1등",
+      "total_prize": "13,343,977,504원",
+      "winner_count": "16",
+      "prize_per_winner": "833,998,594원"
+    },
+    {
+      "rank": "2등",
+      "total_prize": "2,223,996,250원",
+      "winner_count": "50",
+      "prize_per_winner": "44,479,925원"
+    },
+    {
+      "rank": "3등",
+      "total_prize": "2,223,996,423원",
+      "winner_count": "2,053",
+      "prize_per_winner": "1,083,291원"
+    },
+    {
+      "rank": "4등",
+      "total_prize": "4,300,250,000원",
+      "winner_count": "86,005",
+      "prize_per_winner": "50,000원"
+    },
+    {
+      "rank": "5등",
+      "total_prize": "6,667,055,000원",
+      "winner_count": "1,333,411",
+      "prize_per_winner": "5,000원"
+    }
+  ],
+  "total_sales_amount": "57,518,550,000원",
+  "first_prize_store_info": [
+    {
+      "store_id": "11110179",
+      "type": "수동"
+    },
+    {
+      "store_id": "11100773",
+      "type": "자동"
+    },
+    {
+      "store_id": "11100437",
+      "type": "수동"
+    },
+    {
+      "store_id": "11100948",
+      "type": "수동"
+    },
+    {
+      "store_id": "11100493",
+      "type": "수동"
+    },
+    {
+      "store_id": "11110621",
+      "type": "수동"
+    },
+    {
+      "store_id": "12600054",
+      "type": "자동"
+    },
+    {
+      "store_id": "12600253",
+      "type": "수동"
+    },
+    {
+      "store_id": "12600050",
+      "type": "수동"
+    },
+    {
+      "store_id": "22600066",
+      "type": "자동"
+    },
+    {
+      "store_id": "12700335",
+      "type": "수동"
+    },
+    {
+      "store_id": "22800078",
+      "type": "수동"
+    },
+    {
+      "store_id": "13000096",
+      "type": "수동"
+    },
+    {
+      "store_id": "14110263",
+      "type": "자동"
+    },
+    {
+      "store_id": "14400013",
+      "type": "자동"
+    },
+    {
+      "store_id": "24800045",
+      "type": "수동"
+    }
+  ],
+  "updated_at": "2025-03-10T23:06:10.242275"
+}

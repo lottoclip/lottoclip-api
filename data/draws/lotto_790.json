@@ -1,0 +1,113 @@
+{
+  "draw_no": 790,
+  "draw_date": "2018-01-20",
+  "numbers": [
+    3,
+    8,
+    19,
+    27,
+    30,
+    41
+  ],
+  "bonus_number": 12,
+  "prize_info": [
+    {
+      "rank": "1등",
+      "total_prize": "18,568,260,384원",
+      "winner_count": "16",
+      "prize_per_winner": "1,160,516,274원"
+    },
+    {
+      "rank": "2등",
+      "total_prize": "3,094,710,067원",
+      "winner_count": "59",
+      "prize_per_winner": "52,452,713원"
+    },
+    {
+      "rank": "3등",
+      "total_prize": "3,094,712,298원",
+      "winner_count": "2,417",
+      "prize_per_winner": "1,280,394원"
+    },
+    {
+      "rank": "4등",
+      "total_prize": "5,666,800,000원",
+      "winner_count": "113,336",
+      "prize_per_winner": "50,000원"
+    },
+    {
+      "rank": "5등",
+      "total_prize": "9,064,960,000원",
+      "winner_count": "1,812,992",
+      "prize_per_winner": "5,000원"
+    }
+  ],
+  "total_sales_amount": "78,978,881,000원",
+  "first_prize_store_info": [
+    {
+      "store_id": "11101189",
+      "type": "수동"
+    },
+    {
+      "store_id": "11190079",
+      "type": "자동"
+    },
+    {
+      "store_id": "11190203",
+      "type": "수동"
+    },
+    {
+      "store_id": "11190203",
+      "type": "수동"
+    },
+    {
+      "store_id": "22720003",
+      "type": "수동"
+    },
+    {
+      "store_id": "12810002",
+      "type": "수동"
+    },
+    {
+      "store_id": "12800056",
+      "type": "수동"
+    },
+    {
+      "store_id": "13090030",
+      "type": "수동"
+    },
+    {
+      "store_id": "13190041",
+      "type": "자동"
+    },
+    {
+      "store_id": "14110417",
+      "type": "수동"
+    },
+    {
+      "store_id": "14110114",
+      "type": "수동"
+    },
+    {
+      "store_id": "14430009",
+      "type": "자동"
+    },
+    {
+      "store_id": "14690035",
+      "type": "자동"
+    },
+    {
+      "store_id": "14820010",
+      "type": "반자동"
+    },
+    {
+      "store_id": "14810094",
+      "type": "수동"
+    },
+    {
+      "store_id": "14890058",
+      "type": "수동"
+    }
+  ],
+  "updated_at": "2025-03-10T23:06:53.560657"
+}

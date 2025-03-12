@@ -1,0 +1,48 @@
+{
+  "draw_no": 213,
+  "draw_date": "2006-12-30",
+  "numbers": [
+    2,
+    3,
+    4,
+    5,
+    20,
+    24
+  ],
+  "bonus_number": 42,
+  "prize_info": [
+    {
+      "rank": "1등",
+      "total_prize": "11,013,424,200원",
+      "winner_count": "8",
+      "prize_per_winner": "1,376,678,025원"
+    },
+    {
+      "rank": "2등",
+      "total_prize": "1,835,570,715원",
+      "winner_count": "33",
+      "prize_per_winner": "55,623,355원"
+    },
+    {
+      "rank": "3등",
+      "total_prize": "1,835,571,351원",
+      "winner_count": "1,977",
+      "prize_per_winner": "928,463원"
+    },
+    {
+      "rank": "4등",
+      "total_prize": "3,671,236,362원",
+      "winner_count": "95,451",
+      "prize_per_winner": "38,462원"
+    },
+    {
+      "rank": "5등",
+      "total_prize": "6,016,840,000원",
+      "winner_count": "1,203,368",
+      "prize_per_winner": "5,000원"
+    }
+  ],
+  "total_sales_amount": "48,745,094,000원",
+  "first_prize_store_info": [],
+  "updated_at": "2025-03-10T21:11:16.337824"
+}

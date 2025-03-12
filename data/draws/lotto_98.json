@@ -1,0 +1,48 @@
+{
+  "draw_no": 98,
+  "draw_date": "2004-10-16",
+  "numbers": [
+    6,
+    9,
+    16,
+    23,
+    24,
+    32
+  ],
+  "bonus_number": 43,
+  "prize_info": [
+    {
+      "rank": "1등",
+      "total_prize": "12,711,889,200원",
+      "winner_count": "4",
+      "prize_per_winner": "3,177,972,300원"
+    },
+    {
+      "rank": "2등",
+      "total_prize": "2,118,648,240원",
+      "winner_count": "45",
+      "prize_per_winner": "47,081,072원"
+    },
+    {
+      "rank": "3등",
+      "total_prize": "2,118,649,080원",
+      "winner_count": "1,880",
+      "prize_per_winner": "1,126,941원"
+    },
+    {
+      "rank": "4등",
+      "total_prize": "4,237,306,318원",
+      "winner_count": "87,818",
+      "prize_per_winner": "48,251원"
+    },
+    {
+      "rank": "5등",
+      "total_prize": "6,929,060,000원",
+      "winner_count": "1,385,812",
+      "prize_per_winner": "5,000원"
+    }
+  ],
+  "total_sales_amount": "56,231,084,000원",
+  "first_prize_store_info": [],
+  "updated_at": "2025-03-10T21:10:53.561636"
+}

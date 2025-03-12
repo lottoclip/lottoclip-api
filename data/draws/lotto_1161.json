@@ -1,0 +1,113 @@
+{
+  "draw_no": 1161,
+  "draw_date": "2025-03-01",
+  "numbers": [
+    2,
+    12,
+    20,
+    24,
+    34,
+    42
+  ],
+  "bonus_number": 37,
+  "prize_info": [
+    {
+      "rank": "1등",
+      "total_prize": "28,682,527,504원",
+      "winner_count": "16",
+      "prize_per_winner": "1,792,657,969원"
+    },
+    {
+      "rank": "2등",
+      "total_prize": "4,780,421,334원",
+      "winner_count": "117",
+      "prize_per_winner": "40,858,302원"
+    },
+    {
+      "rank": "3등",
+      "total_prize": "4,780,424,790원",
+      "winner_count": "4,107",
+      "prize_per_winner": "1,163,970원"
+    },
+    {
+      "rank": "4등",
+      "total_prize": "9,072,850,000원",
+      "winner_count": "181,457",
+      "prize_per_winner": "50,000원"
+    },
+    {
+      "rank": "5등",
+      "total_prize": "14,299,075,000원",
+      "winner_count": "2,859,815",
+      "prize_per_winner": "5,000원"
+    }
+  ],
+  "total_sales_amount": "123,230,590,000원",
+  "first_prize_store_info": [
+    {
+      "store_id": "11110012",
+      "type": "자동"
+    },
+    {
+      "store_id": "12840241",
+      "type": "자동"
+    },
+    {
+      "store_id": "12840509",
+      "type": "수동"
+    },
+    {
+      "store_id": "12890030",
+      "type": "자동"
+    },
+    {
+      "store_id": "12840524",
+      "type": "자동"
+    },
+    {
+      "store_id": "13100061",
+      "type": "수동"
+    },
+    {
+      "store_id": "14141809",
+      "type": "자동"
+    },
+    {
+      "store_id": "14141377",
+      "type": "수동"
+    },
+    {
+      "store_id": "14190102",
+      "type": "자동"
+    },
+    {
+      "store_id": "14190102",
+      "type": "자동"
+    },
+    {
+      "store_id": "14110441",
+      "type": "수동"
+    },
+    {
+      "store_id": "14142628",
+      "type": "자동"
+    },
+    {
+      "store_id": "14100783",
+      "type": "수동"
+    },
+    {
+      "store_id": "14340295",
+      "type": "수동"
+    },
+    {
+      "store_id": "14510111",
+      "type": "자동"
+    },
+    {
+      "store_id": "14740132",
+      "type": "자동"
+    }
+  ],
+  "updated_at": "2025-03-11T16:58:50.920020"
+}

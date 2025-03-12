@@ -1,0 +1,77 @@
+{
+  "draw_no": 571,
+  "draw_date": "2013-11-09",
+  "numbers": [
+    11,
+    18,
+    21,
+    26,
+    38,
+    43
+  ],
+  "bonus_number": 29,
+  "prize_info": [
+    {
+      "rank": "1등",
+      "total_prize": "13,765,769,255원",
+      "winner_count": "7",
+      "prize_per_winner": "1,966,538,465원"
+    },
+    {
+      "rank": "2등",
+      "total_prize": "2,294,294,904원",
+      "winner_count": "33",
+      "prize_per_winner": "69,524,088원"
+    },
+    {
+      "rank": "3등",
+      "total_prize": "2,294,296,122원",
+      "winner_count": "1,506",
+      "prize_per_winner": "1,523,437원"
+    },
+    {
+      "rank": "4등",
+      "total_prize": "3,702,100,000원",
+      "winner_count": "74,042",
+      "prize_per_winner": "50,000원"
+    },
+    {
+      "rank": "5등",
+      "total_prize": "6,190,305,000원",
+      "winner_count": "1,238,061",
+      "prize_per_winner": "5,000원"
+    }
+  ],
+  "total_sales_amount": "56,493,528,000원",
+  "first_prize_store_info": [
+    {
+      "store_id": "11100101",
+      "type": "자동"
+    },
+    {
+      "store_id": "12700194",
+      "type": "자동"
+    },
+    {
+      "store_id": "14110322",
+      "type": "자동"
+    },
+    {
+      "store_id": "14810056",
+      "type": "자동"
+    },
+    {
+      "store_id": "24800023",
+      "type": "자동"
+    },
+    {
+      "store_id": "24800028",
+      "type": "자동"
+    },
+    {
+      "store_id": "14900013",
+      "type": "자동"
+    }
+  ],
+  "updated_at": "2025-03-10T23:06:04.310336"
+}

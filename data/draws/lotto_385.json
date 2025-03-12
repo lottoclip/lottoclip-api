@@ -1,0 +1,77 @@
+{
+  "draw_no": 385,
+  "draw_date": "2010-04-17",
+  "numbers": [
+    7,
+    12,
+    19,
+    21,
+    29,
+    32
+  ],
+  "bonus_number": 9,
+  "prize_info": [
+    {
+      "rank": "1등",
+      "total_prize": "10,794,228,900원",
+      "winner_count": "7",
+      "prize_per_winner": "1,542,032,700원"
+    },
+    {
+      "rank": "2등",
+      "total_prize": "1,799,038,152원",
+      "winner_count": "36",
+      "prize_per_winner": "49,973,282원"
+    },
+    {
+      "rank": "3등",
+      "total_prize": "1,799,039,320원",
+      "winner_count": "1,235",
+      "prize_per_winner": "1,456,712원"
+    },
+    {
+      "rank": "4등",
+      "total_prize": "3,598,090,624원",
+      "winner_count": "62,096",
+      "prize_per_winner": "57,944원"
+    },
+    {
+      "rank": "5등",
+      "total_prize": "5,131,360,000원",
+      "winner_count": "1,026,272",
+      "prize_per_winner": "5,000원"
+    }
+  ],
+  "total_sales_amount": "46,243,483,000원",
+  "first_prize_store_info": [
+    {
+      "store_id": "11101559",
+      "type": "수동"
+    },
+    {
+      "store_id": "21100336",
+      "type": "수동"
+    },
+    {
+      "store_id": "21100466",
+      "type": "수동"
+    },
+    {
+      "store_id": "12600054",
+      "type": "수동"
+    },
+    {
+      "store_id": "23000060",
+      "type": "자동"
+    },
+    {
+      "store_id": "14100741",
+      "type": "자동"
+    },
+    {
+      "store_id": "14610091",
+      "type": "수동"
+    }
+  ],
+  "updated_at": "2025-03-10T21:11:51.934402"
+}

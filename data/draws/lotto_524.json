@@ -1,0 +1,65 @@
+{
+  "draw_no": 524,
+  "draw_date": "2012-12-15",
+  "numbers": [
+    10,
+    11,
+    29,
+    38,
+    41,
+    45
+  ],
+  "bonus_number": 21,
+  "prize_info": [
+    {
+      "rank": "1등",
+      "total_prize": "13,966,782,376원",
+      "winner_count": "4",
+      "prize_per_winner": "3,491,695,594원"
+    },
+    {
+      "rank": "2등",
+      "total_prize": "2,327,797,080원",
+      "winner_count": "36",
+      "prize_per_winner": "64,661,030원"
+    },
+    {
+      "rank": "3등",
+      "total_prize": "2,327,797,542원",
+      "winner_count": "1,338",
+      "prize_per_winner": "1,739,759원"
+    },
+    {
+      "rank": "4등",
+      "total_prize": "3,393,300,000원",
+      "winner_count": "67,866",
+      "prize_per_winner": "50,000원"
+    },
+    {
+      "rank": "5등",
+      "total_prize": "5,815,375,000원",
+      "winner_count": "1,163,075",
+      "prize_per_winner": "5,000원"
+    }
+  ],
+  "total_sales_amount": "55,662,103,000원",
+  "first_prize_store_info": [
+    {
+      "store_id": "11100959",
+      "type": "수동"
+    },
+    {
+      "store_id": "12710122",
+      "type": "자동"
+    },
+    {
+      "store_id": "14310017",
+      "type": "자동"
+    },
+    {
+      "store_id": "14500040",
+      "type": "자동"
+    }
+  ],
+  "updated_at": "2025-03-10T23:05:53.767265"
+}

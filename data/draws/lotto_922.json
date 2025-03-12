@@ -1,0 +1,73 @@
+{
+  "draw_no": 922,
+  "draw_date": "2020-08-01",
+  "numbers": [
+    2,
+    6,
+    13,
+    17,
+    27,
+    43
+  ],
+  "bonus_number": 36,
+  "prize_info": [
+    {
+      "rank": "1등",
+      "total_prize": "20,507,427,000원",
+      "winner_count": "6",
+      "prize_per_winner": "3,417,904,500원"
+    },
+    {
+      "rank": "2등",
+      "total_prize": "3,417,904,558원",
+      "winner_count": "89",
+      "prize_per_winner": "38,403,422원"
+    },
+    {
+      "rank": "3등",
+      "total_prize": "3,417,904,548원",
+      "winner_count": "2,876",
+      "prize_per_winner": "1,188,423원"
+    },
+    {
+      "rank": "4등",
+      "total_prize": "6,802,600,000원",
+      "winner_count": "136,052",
+      "prize_per_winner": "50,000원"
+    },
+    {
+      "rank": "5등",
+      "total_prize": "10,487,505,000원",
+      "winner_count": "2,097,501",
+      "prize_per_winner": "5,000원"
+    }
+  ],
+  "total_sales_amount": "89,266,682,000원",
+  "first_prize_store_info": [
+    {
+      "store_id": "11110217",
+      "type": "수동"
+    },
+    {
+      "store_id": "12700030",
+      "type": "수동"
+    },
+    {
+      "store_id": "14190023",
+      "type": "자동"
+    },
+    {
+      "store_id": "14410085",
+      "type": "자동"
+    },
+    {
+      "store_id": "14410015",
+      "type": "수동"
+    },
+    {
+      "store_id": "24700019",
+      "type": "자동"
+    }
+  ],
+  "updated_at": "2025-03-10T23:18:45.084563"
+}

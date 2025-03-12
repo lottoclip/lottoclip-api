@@ -1,0 +1,113 @@
+{
+  "draw_no": 872,
+  "draw_date": "2019-08-17",
+  "numbers": [
+    2,
+    4,
+    30,
+    32,
+    33,
+    43
+  ],
+  "bonus_number": 29,
+  "prize_info": [
+    {
+      "rank": "1등",
+      "total_prize": "20,203,289,264원",
+      "winner_count": "16",
+      "prize_per_winner": "1,262,705,579원"
+    },
+    {
+      "rank": "2등",
+      "total_prize": "3,367,214,904원",
+      "winner_count": "46",
+      "prize_per_winner": "73,200,324원"
+    },
+    {
+      "rank": "3등",
+      "total_prize": "3,367,216,638원",
+      "winner_count": "2,018",
+      "prize_per_winner": "1,668,591원"
+    },
+    {
+      "rank": "4등",
+      "total_prize": "4,984,050,000원",
+      "winner_count": "99,681",
+      "prize_per_winner": "50,000원"
+    },
+    {
+      "rank": "5등",
+      "total_prize": "8,579,490,000원",
+      "winner_count": "1,715,898",
+      "prize_per_winner": "5,000원"
+    }
+  ],
+  "total_sales_amount": "81,002,518,000원",
+  "first_prize_store_info": [
+    {
+      "store_id": "11101548",
+      "type": "자동"
+    },
+    {
+      "store_id": "51100000",
+      "type": "자동"
+    },
+    {
+      "store_id": "11101653",
+      "type": "자동"
+    },
+    {
+      "store_id": "12840006",
+      "type": "반자동"
+    },
+    {
+      "store_id": "13090040",
+      "type": "자동"
+    },
+    {
+      "store_id": "14110237",
+      "type": "자동"
+    },
+    {
+      "store_id": "14100745",
+      "type": "수동"
+    },
+    {
+      "store_id": "24100108",
+      "type": "수동"
+    },
+    {
+      "store_id": "14140226",
+      "type": "자동"
+    },
+    {
+      "store_id": "14110552",
+      "type": "수동"
+    },
+    {
+      "store_id": "14200093",
+      "type": "자동"
+    },
+    {
+      "store_id": "14590006",
+      "type": "자동"
+    },
+    {
+      "store_id": "14510111",
+      "type": "자동"
+    },
+    {
+      "store_id": "14600100",
+      "type": "자동"
+    },
+    {
+      "store_id": "14600042",
+      "type": "자동"
+    },
+    {
+      "store_id": "14840044",
+      "type": "수동"
+    }
+  ],
+  "updated_at": "2025-03-10T23:18:32.903573"
+}

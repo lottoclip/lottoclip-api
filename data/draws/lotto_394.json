@@ -1,0 +1,53 @@
+{
+  "draw_no": 394,
+  "draw_date": "2010-06-19",
+  "numbers": [
+    1,
+    13,
+    20,
+    22,
+    25,
+    28
+  ],
+  "bonus_number": 15,
+  "prize_info": [
+    {
+      "rank": "1등",
+      "total_prize": "10,654,349,100원",
+      "winner_count": "1",
+      "prize_per_winner": "10,654,349,100원"
+    },
+    {
+      "rank": "2등",
+      "total_prize": "1,775,724,852원",
+      "winner_count": "33",
+      "prize_per_winner": "53,809,844원"
+    },
+    {
+      "rank": "3등",
+      "total_prize": "1,775,725,420원",
+      "winner_count": "1,204",
+      "prize_per_winner": "1,474,855원"
+    },
+    {
+      "rank": "4등",
+      "total_prize": "3,551,460,300원",
+      "winner_count": "56,300",
+      "prize_per_winner": "63,081원"
+    },
+    {
+      "rank": "5등",
+      "total_prize": "4,838,920,000원",
+      "winner_count": "967,784",
+      "prize_per_winner": "5,000원"
+    }
+  ],
+  "total_sales_amount": "45,192,337,000원",
+  "first_prize_store_info": [
+    {
+      "store_id": "11100773",
+      "type": "자동"
+    }
+  ],
+  "updated_at": "2025-03-10T21:11:53.847692"
+}

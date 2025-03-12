@@ -1,0 +1,53 @@
+{
+  "draw_no": 298,
+  "draw_date": "2008-08-16",
+  "numbers": [
+    5,
+    9,
+    27,
+    29,
+    37,
+    40
+  ],
+  "bonus_number": 19,
+  "prize_info": [
+    {
+      "rank": "1등",
+      "total_prize": "9,909,778,500원",
+      "winner_count": "1",
+      "prize_per_winner": "9,909,778,500원"
+    },
+    {
+      "rank": "2등",
+      "total_prize": "1,651,629,760원",
+      "winner_count": "40",
+      "prize_per_winner": "41,290,744원"
+    },
+    {
+      "rank": "3등",
+      "total_prize": "1,651,630,101원",
+      "winner_count": "1,353",
+      "prize_per_winner": "1,220,717원"
+    },
+    {
+      "rank": "4등",
+      "total_prize": "3,303,265,170원",
+      "winner_count": "63,561",
+      "prize_per_winner": "51,970원"
+    },
+    {
+      "rank": "5등",
+      "total_prize": "5,059,540,000원",
+      "winner_count": "1,011,908",
+      "prize_per_winner": "5,000원"
+    }
+  ],
+  "total_sales_amount": "43,151,675,000원",
+  "first_prize_store_info": [
+    {
+      "store_id": "14900022",
+      "type": "수동"
+    }
+  ],
+  "updated_at": "2025-03-10T21:11:33.475976"
+}

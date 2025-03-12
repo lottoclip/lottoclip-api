@@ -1,0 +1,61 @@
+{
+  "draw_no": 444,
+  "draw_date": "2011-06-04",
+  "numbers": [
+    11,
+    13,
+    23,
+    35,
+    43,
+    45
+  ],
+  "bonus_number": 17,
+  "prize_info": [
+    {
+      "rank": "1등",
+      "total_prize": "12,462,565,875원",
+      "winner_count": "3",
+      "prize_per_winner": "4,154,188,625원"
+    },
+    {
+      "rank": "2등",
+      "total_prize": "2,077,094,318원",
+      "winner_count": "26",
+      "prize_per_winner": "79,888,243원"
+    },
+    {
+      "rank": "3등",
+      "total_prize": "2,077,095,160원",
+      "winner_count": "1,270",
+      "prize_per_winner": "1,635,508원"
+    },
+    {
+      "rank": "4등",
+      "total_prize": "3,280,550,000원",
+      "winner_count": "65,611",
+      "prize_per_winner": "50,000원"
+    },
+    {
+      "rank": "5등",
+      "total_prize": "5,439,460,000원",
+      "winner_count": "1,087,892",
+      "prize_per_winner": "5,000원"
+    }
+  ],
+  "total_sales_amount": "50,673,529,000원",
+  "first_prize_store_info": [
+    {
+      "store_id": "14110364",
+      "type": "자동"
+    },
+    {
+      "store_id": "14100495",
+      "type": "자동"
+    },
+    {
+      "store_id": "14500091",
+      "type": "수동"
+    }
+  ],
+  "updated_at": "2025-03-10T23:05:35.714418"
+}

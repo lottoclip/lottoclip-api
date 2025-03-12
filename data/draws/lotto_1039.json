@@ -1,0 +1,113 @@
+{
+  "draw_no": 1039,
+  "draw_date": "2022-10-29",
+  "numbers": [
+    2,
+    3,
+    6,
+    19,
+    36,
+    39
+  ],
+  "bonus_number": 26,
+  "prize_info": [
+    {
+      "rank": "1등",
+      "total_prize": "25,360,314,752원",
+      "winner_count": "16",
+      "prize_per_winner": "1,585,019,672원"
+    },
+    {
+      "rank": "2등",
+      "total_prize": "4,226,719,200원",
+      "winner_count": "80",
+      "prize_per_winner": "52,833,990원"
+    },
+    {
+      "rank": "3등",
+      "total_prize": "4,226,720,293원",
+      "winner_count": "2,773",
+      "prize_per_winner": "1,524,241원"
+    },
+    {
+      "rank": "4등",
+      "total_prize": "7,020,150,000원",
+      "winner_count": "140,403",
+      "prize_per_winner": "50,000원"
+    },
+    {
+      "rank": "5등",
+      "total_prize": "11,795,630,000원",
+      "winner_count": "2,359,126",
+      "prize_per_winner": "5,000원"
+    }
+  ],
+  "total_sales_amount": "105,259,066,000원",
+  "first_prize_store_info": [
+    {
+      "store_id": "11100130",
+      "type": "반자동"
+    },
+    {
+      "store_id": "11101248",
+      "type": "자동"
+    },
+    {
+      "store_id": "12640010",
+      "type": "자동"
+    },
+    {
+      "store_id": "12840017",
+      "type": "자동"
+    },
+    {
+      "store_id": "12890069",
+      "type": "자동"
+    },
+    {
+      "store_id": "12900150",
+      "type": "자동"
+    },
+    {
+      "store_id": "14100524",
+      "type": "자동"
+    },
+    {
+      "store_id": "14110025",
+      "type": "자동"
+    },
+    {
+      "store_id": "14110512",
+      "type": "자동"
+    },
+    {
+      "store_id": "14140860",
+      "type": "자동"
+    },
+    {
+      "store_id": "14390020",
+      "type": "자동"
+    },
+    {
+      "store_id": "14430011",
+      "type": "자동"
+    },
+    {
+      "store_id": "14590055",
+      "type": "자동"
+    },
+    {
+      "store_id": "14600083",
+      "type": "자동"
+    },
+    {
+      "store_id": "14600083",
+      "type": "자동"
+    },
+    {
+      "store_id": "14900004",
+      "type": "자동"
+    }
+  ],
+  "updated_at": "2025-03-10T23:19:13.649226"
+}

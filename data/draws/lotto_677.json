@@ -1,0 +1,81 @@
+{
+  "draw_no": 677,
+  "draw_date": "2015-11-21",
+  "numbers": [
+    12,
+    15,
+    24,
+    36,
+    41,
+    44
+  ],
+  "bonus_number": 42,
+  "prize_info": [
+    {
+      "rank": "1등",
+      "total_prize": "15,368,915,256원",
+      "winner_count": "8",
+      "prize_per_winner": "1,921,114,407원"
+    },
+    {
+      "rank": "2등",
+      "total_prize": "2,561,485,876원",
+      "winner_count": "37",
+      "prize_per_winner": "69,229,348원"
+    },
+    {
+      "rank": "3등",
+      "total_prize": "2,561,486,571원",
+      "winner_count": "1,701",
+      "prize_per_winner": "1,505,871원"
+    },
+    {
+      "rank": "4등",
+      "total_prize": "3,991,350,000원",
+      "winner_count": "79,827",
+      "prize_per_winner": "50,000원"
+    },
+    {
+      "rank": "5등",
+      "total_prize": "6,650,575,000원",
+      "winner_count": "1,330,115",
+      "prize_per_winner": "5,000원"
+    }
+  ],
+  "total_sales_amount": "62,267,624,000원",
+  "first_prize_store_info": [
+    {
+      "store_id": "11101027",
+      "type": "수동"
+    },
+    {
+      "store_id": "11100911",
+      "type": "자동"
+    },
+    {
+      "store_id": "11101287",
+      "type": "수동"
+    },
+    {
+      "store_id": "12710002",
+      "type": "수동"
+    },
+    {
+      "store_id": "22800040",
+      "type": "자동"
+    },
+    {
+      "store_id": "14110311",
+      "type": "수동"
+    },
+    {
+      "store_id": "24300016",
+      "type": "수동"
+    },
+    {
+      "store_id": "14310076",
+      "type": "수동"
+    }
+  ],
+  "updated_at": "2025-03-10T23:06:27.834176"
+}
