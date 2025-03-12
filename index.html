@@ -622,6 +622,118 @@
 }</code></pre>
                 </div>
 
+                <h2>연금복권 API 엔드포인트</h2>
+
+                <div class="endpoint">
+                    <h3>전체 회차 목록</h3>
+                    <p><code>GET /pension/index.json</code></p>
+                    <p>모든 연금복권 회차의 목록을 제공합니다.</p>
+                    <pre><code>{
+  "draws": [
+    {
+      "draw_no": 253,
+      "draw_date": "2025-03-06",
+      "file": "draws/pension_253.json"
+    },
+    ...
+  ],
+  "last_updated": "2025-03-12T14:06:50.793067"
+}</code></pre>
+                </div>
+
+                <div class="endpoint">
+                    <h3>특정 회차 상세 정보</h3>
+                    <p><code>GET /pension/draws/pension_{회차번호}.json</code></p>
+                    <p>특정 회차의 당첨 번호 정보를 제공합니다.</p>
+                    <pre><code>{
+  "draw_no": 253,
+  "draw_date": "2025-03-06",
+  "group": "4",
+  "numbers": [
+    "4",
+    "8",
+    "4",
+    "0",
+    "1",
+    "0"
+  ],
+  "bonus_group": "각",
+  "bonus_numbers": [
+    "9",
+    "2",
+    "1",
+    "0",
+    "6",
+    "9"
+  ],
+  "prize_info": [
+    {
+      "rank": "1",
+      "winner_count": "1"
+    },
+    {
+      "rank": "2",
+      "winner_count": "4"
+    },
+    ...
+  ],
+  "updated_at": "2025-03-12T14:06:50.793067"
+}</code></pre>
+                </div>
+
+                <div class="endpoint">
+                    <h3>판매점 정보</h3>
+                    <p><code>GET /pension/stores/stores_{회차번호}.json</code></p>
+                    <p>특정 회차의 1등, 2등, 보너스 당첨 판매점 정보를 제공합니다.</p>
+                    <pre><code>{
+  "first_prize_store_info": [
+    {
+      "name": "행운의집로또",
+      "address": "충남 아산시 배방읍 북수북길 7-4 1층 101,102호"
+    }
+  ],
+  "second_prize_store_info": [
+    {
+      "name": "행운의집로또",
+      "address": "충남 아산시 배방읍 북수북길 7-4 1층 101,102호"
+    },
+    ...
+  ],
+  "bonus_prize_store_info": [
+    {
+      "name": "인생여섯컷",
+      "address": "경기 수원시 권선구 정조로384번길 2 (세류동) 1층"
+    },
+    ...
+  ]
+}</code></pre>
+                </div>
+
+                <div class="endpoint">
+                    <h3>통계 분석 데이터</h3>
+                    <p><code>GET /pension/statistics.json</code></p>
+                    <p>번호별 출현 빈도, 등수별 당첨자 수, 판매점 통계 등 다양한 통계 정보를 제공합니다.</p>
+                    <pre><code>{
+  "total_draws": 253,
+  "first_draw": 1,
+  "last_draw": 253,
+  "frequency_stats": {
+    "group_frequency": [...],
+    "position_frequency": [...],
+    "bonus_frequency": [...],
+    "total_draws": 253
+  },
+  "prize_stats": {
+    "rank_stats": [...]
+  },
+  "store_stats": {
+    "region_stats": [...],
+    "top_stores": [...]
+  },
+  "updated_at": "2025-03-12T14:06:50.793067"
+}</code></pre>
+                </div>
+
                 <h2>사용 예시</h2>
                 <p>JavaScript를 사용한 API 호출 예시:</p>
                 <pre><code>// 최신 회차 목록 가져오기

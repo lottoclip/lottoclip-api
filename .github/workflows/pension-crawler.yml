@@ -1,0 +1,163 @@
+name: 연금복권 데이터 수집 및 분석
+
+on:
+  schedule:
+    # 매주 목요일 오후 10시 30분(UTC+9 기준 오후 10시 30분, UTC 기준 13시 30분)에 실행 (1차)
+    - cron: '30 13 * * 4'
+    # 매주 목요일 오후 11시 30분(UTC+9 기준 오후 11시 30분, UTC 기준 14시 30분)에 실행 (2차)
+    - cron: '30 14 * * 4'
+    # 매주 금요일 오후 12시(UTC+9 기준 오후 12시, UTC 기준 3시)에 실행 (추가 확인)
+    - cron: '0 3 * * 5'
+  workflow_dispatch:
+    # 수동 실행 옵션
+    inputs:
+      crawl_type:
+        description: '크롤링 유형'
+        required: true
+        default: 'latest'
+        type: choice
+        options:
+          - latest
+          - all
+          - range
+      range:
+        description: '크롤링 범위 (예: 1-10, crawl_type이 range일 때만 사용)'
+        required: false
+        type: string
+      retry:
+        description: '재시도 여부 (1등 당첨 배출점 정보가 없을 경우)'
+        required: false
+        default: 'true'
+        type: choice
+        options:
+          - 'true'
+          - 'false'
+
+jobs:
+  crawl-and-analyze:
+    runs-on: ubuntu-latest
+    
+    # GitHub 저장소에 대한 권한 설정
+    permissions:
+      contents: write
+    
+    steps:
+      - name: 저장소 체크아웃
+        uses: actions/checkout@v3
+      
+      - name: Python 설정
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+          cache: 'pip'
+      
+      - name: 의존성 설치
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      
+      - name: 데이터 디렉토리 확인
+        run: |
+          mkdir -p pension
+          mkdir -p pension/draws
+          mkdir -p pension/stores
+      
+      - name: 연금복권 데이터 크롤링
+        id: crawl_data
+        run: |
+          if [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
+            if [ "${{ github.event.inputs.crawl_type }}" == "latest" ]; then
+              python src/pension_crawler.py --latest
+            elif [ "${{ github.event.inputs.crawl_type }}" == "all" ]; then
+              python src/pension_crawler.py --all
+            elif [ "${{ github.event.inputs.crawl_type }}" == "range" ]; then
+              python src/pension_crawler.py --range "${{ github.event.inputs.range }}"
+            fi
+          else
+            # 스케줄 실행 시 최신 회차만 크롤링
+            python src/pension_crawler.py --latest
+          fi
+      
+      - name: 1등 당첨 배출점 정보 확인
+        id: check_store_info
+        run: |
+          # 최신 회차 번호 가져오기
+          if [ -f "pension/index.json" ]; then
+            LATEST_DRAW=$(python -c "import json; print(json.load(open('pension/index.json'))['draws'][0]['draw_no'])")
+            
+            # 해당 회차의 판매점 정보 파일 경로
+            STORE_FILE="pension/stores/stores_${LATEST_DRAW}.json"
+            
+            # 1등 당첨 배출점 정보 확인
+            if [ -f "$STORE_FILE" ]; then
+              STORE_COUNT=$(python -c "import json; data=json.load(open('$STORE_FILE')); print(len(data.get('first_prize_store_info', [])))")
+              echo "store_count=$STORE_COUNT" >> $GITHUB_OUTPUT
+              
+              if [ "$STORE_COUNT" -eq 0 ]; then
+                echo "1등 당첨 배출점 정보가 없습니다. 재시도가 필요합니다."
+                echo "need_retry=true" >> $GITHUB_OUTPUT
+              else
+                echo "1등 당첨 배출점 정보가 있습니다. 총 $STORE_COUNT 개의 판매점 정보가 확인되었습니다."
+                echo "need_retry=false" >> $GITHUB_OUTPUT
+              fi
+            else
+              echo "판매점 정보 파일이 없습니다."
+              echo "need_retry=true" >> $GITHUB_OUTPUT
+            fi
+          else
+            echo "인덱스 파일이 없습니다."
+            echo "need_retry=true" >> $GITHUB_OUTPUT
+          fi
+      
+      - name: 재시도 여부 결정
+        id: decide_retry
+        run: |
+          # 현재 시간이 목요일 오후 11시 30분(14:30 UTC)인지 확인
+          CURRENT_HOUR=$(date -u +%H)
+          CURRENT_MINUTE=$(date -u +%M)
+          CURRENT_DAY=$(date -u +%u)  # 1(월) ~ 7(일)
+          
+          if [ "${{ steps.check_store_info.outputs.need_retry }}" == "true" ] && [ "$CURRENT_DAY" == "4" ] && [ "$CURRENT_HOUR" == "14" ] && [ "$CURRENT_MINUTE" -ge "30" ]; then
+            # 목요일 오후 11시 30분 이후에 실행되었고, 1등 당첨 배출점 정보가 없으면 재시도 필요
+            echo "재시도가 필요합니다. 금요일 오후 12시에 자동으로 재시도됩니다."
+            echo "skip_commit=true" >> $GITHUB_OUTPUT
+          elif [ "${{ github.event.inputs.retry }}" == "false" ]; then
+            # 수동 실행 시 재시도 옵션이 false면 커밋 진행
+            echo "skip_commit=false" >> $GITHUB_OUTPUT
+          else
+            # 그 외의 경우 정상적으로 커밋 진행
+            echo "skip_commit=false" >> $GITHUB_OUTPUT
+          fi
+      
+      - name: 통계 분석 실행
+        if: steps.decide_retry.outputs.skip_commit != 'true'
+        run: |
+          python src/pension_statistics.py
+      
+      - name: 변경사항 확인
+        if: steps.decide_retry.outputs.skip_commit != 'true'
+        id: check_changes
+        run: |
+          git status --porcelain pension/
+          if [ -n "$(git status --porcelain pension/)" ]; then
+            echo "changes=true" >> $GITHUB_OUTPUT
+          else
+            echo "changes=false" >> $GITHUB_OUTPUT
+          fi
+      
+      - name: 변경사항 커밋 및 푸시
+        if: steps.check_changes.outputs.changes == 'true' && steps.decide_retry.outputs.skip_commit != 'true'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add pension/
+          
+          # 1등 당첨 배출점 정보 상태에 따라 커밋 메시지 변경
+          if [ "${{ steps.check_store_info.outputs.store_count }}" -gt 0 ]; then
+            git commit -m "연금복권 데이터 업데이트: $(date +'%Y-%m-%d') - 1등 당첨 배출점 정보 포함"
+          else
+            git commit -m "연금복권 데이터 업데이트: $(date +'%Y-%m-%d') - 1등 당첨 배출점 정보 없음"
+          fi
+          
+          # GitHub 토큰을 사용하여 푸시
+          git push https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref }} 
