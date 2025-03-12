@@ -18,7 +18,7 @@ logging.basicConfig(
 logger = logging.getLogger('lotto_statistics')
 
 # 상수 정의
-DATA_DIR = Path("data")
+DATA_DIR = Path("lotto")
 DRAWS_DIR = DATA_DIR / "draws"  # 회차별 데이터 디렉토리 추가
 STATISTICS_FILE = DATA_DIR / "statistics.json"
 
@@ -37,7 +37,7 @@ class LottoStatistics:
     
     def load_all_draw_data(self):
         """
-        data/draws 디렉토리에서 모든 로또 추첨 데이터를 로드합니다.
+        lotto/draws 디렉토리에서 모든 로또 추첨 데이터를 로드합니다.
         """
         all_data = []
         for file_path in glob.glob(os.path.join(self.draws_dir, "lotto_*.json")):

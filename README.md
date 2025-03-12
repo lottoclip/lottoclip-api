@@ -11,11 +11,11 @@
 
 ## 데이터 API
 
-- 전체 회차 목록: `/data/index.json`
-- 특정 회차 상세 정보: `/data/draws/lotto_{회차번호}.json`
-- 통계 분석 데이터: `/data/statistics.json`
-- 판매점 정보: `/data/stores/{판매점ID}.json`
-- 통합 판매점 정보: `/data/lotto_stores.json`
+- 전체 회차 목록: `/lotto/index.json`
+- 특정 회차 상세 정보: `/lotto/draws/lotto_{회차번호}.json`
+- 통계 분석 데이터: `/lotto/statistics.json`
+- 판매점 정보: `/lotto/stores/{판매점ID}.json`
+- 통합 판매점 정보: `/lotto/lotto_stores.json`
 
 ## 데이터 구조
 

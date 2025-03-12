@@ -56,7 +56,7 @@ jobs:
       
       - name: 데이터 디렉토리 확인
         run: |
-          mkdir -p data
+          mkdir -p lotto
       
       - name: 로또 데이터 크롤링
         id: crawl_data
@@ -78,10 +78,10 @@ jobs:
         id: check_store_info
         run: |
           # 최신 회차 번호 가져오기
-          LATEST_DRAW=$(python -c "import json; print(json.load(open('data/index.json'))['draws'][0]['draw_no'])")
+          LATEST_DRAW=$(python -c "import json; print(json.load(open('lotto/index.json'))['draws'][0]['draw_no'])")
           
           # 해당 회차의 JSON 파일 경로
-          DRAW_FILE="data/lotto_${LATEST_DRAW}.json"
+          DRAW_FILE="lotto/lotto_${LATEST_DRAW}.json"
           
           # 1등 당첨 배출점 정보 확인
           if [ -f "$DRAW_FILE" ]; then
@@ -127,8 +127,8 @@ jobs:
         if: steps.decide_retry.outputs.skip_commit != 'true'
         id: check_changes
         run: |
-          git status --porcelain data/
-          if [ -n "$(git status --porcelain data/)" ]; then
+          git status --porcelain lotto/
+          if [ -n "$(git status --porcelain lotto/)" ]; then
             echo "changes=true" >> $GITHUB_OUTPUT
           else
             echo "changes=false" >> $GITHUB_OUTPUT
@@ -139,7 +139,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add data/
+          git add lotto/
           
           # 1등 당첨 배출점 정보 상태에 따라 커밋 메시지 변경
           if [ "${{ steps.check_store_info.outputs.store_count }}" -gt 0 ]; then

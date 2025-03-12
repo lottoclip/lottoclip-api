@@ -526,7 +526,7 @@
 
                 <div class="endpoint">
                     <h3>전체 회차 목록</h3>
-                    <p><code>GET /data/index.json</code></p>
+                    <p><code>GET /lotto/index.json</code></p>
                     <p>모든 로또 회차의 목록을 제공합니다.</p>
                     <pre><code>{
   "draws": [
@@ -543,7 +543,7 @@
 
                 <div class="endpoint">
                     <h3>특정 회차 상세 정보</h3>
-                    <p><code>GET /data/draws/lotto_{회차번호}.json</code></p>
+                    <p><code>GET /lotto/draws/lotto_{회차번호}.json</code></p>
                     <p>특정 회차의 당첨 번호 및 1등 판매점 정보를 제공합니다.</p>
                     <pre><code>{
   "draw_no": 1162,
@@ -573,7 +573,7 @@
 
                 <div class="endpoint">
                     <h3>통계 분석 데이터</h3>
-                    <p><code>GET /data/statistics.json</code></p>
+                    <p><code>GET /lotto/statistics.json</code></p>
                     <p>번호별 출현 빈도, 패턴 분석, 판매점 통계 등 다양한 통계 정보를 제공합니다.</p>
                     <pre><code>{
   "total_draws": 1,
@@ -625,7 +625,7 @@
                 <h2>사용 예시</h2>
                 <p>JavaScript를 사용한 API 호출 예시:</p>
                 <pre><code>// 최신 회차 목록 가져오기
-fetch('data/index.json')
+fetch('lotto/index.json')
   .then(response => response.json())
   .then(data => {
     // 최신 회차 번호
@@ -634,7 +634,7 @@ fetch('data/index.json')
     console.log(`추첨일: ${data.draws[0].draw_date}`);
     
     // 최신 회차 상세 정보 가져오기
-    return fetch(`data/${data.draws[0].file}`);
+    return fetch(`lotto/${data.draws[0].file}`);
   })
   .then(response => response.json())
   .then(drawData => {
@@ -647,7 +647,7 @@ fetch('data/index.json')
   });
 
 // 통계 데이터 로드
-fetch('data/statistics.json')
+fetch('lotto/statistics.json')
   .then(response => {
     if (!response.ok) {
       throw new Error(`HTTP error! Status: ${response.status}`);
@@ -712,7 +712,7 @@ loadStatistics();
     <script>
         $(document).ready(function() {
             // 데이터 로드 및 차트 생성
-            fetch('data/index.json')
+            fetch('lotto/index.json')
                 .then(response => response.json())
                 .then(data => {
                     // 최신 회차 번호
@@ -721,7 +721,7 @@ loadStatistics();
                     console.log(`추첨일: ${data.draws[0].draw_date}`);
                     
                     // 최신 회차 상세 정보 가져오기
-                    return fetch(`data/${data.draws[0].file}`);
+                    return fetch(`lotto/${data.draws[0].file}`);
                 })
                 .then(response => response.json())
                 .then(drawData => {
@@ -739,7 +739,7 @@ loadStatistics();
                 });
             
             // 통계 데이터 로드
-            fetch('data/statistics.json')
+            fetch('lotto/statistics.json')
                 .then(response => {
                     if (!response.ok) {
                         throw new Error(`HTTP error! Status: ${response.status}`);
@@ -837,7 +837,7 @@ loadStatistics();
                 for (const store of data.first_prize_store_info) {
                     try {
                         // 판매점 상세 정보 가져오기
-                        const storeResponse = await fetch(`data/stores/${store.store_id}.json`);
+                        const storeResponse = await fetch(`lotto/stores/${store.store_id}.json`);
                         let storeInfo = { name: '정보 없음', address: '정보 없음' };
                         
                         if (storeResponse.ok) {
@@ -1071,7 +1071,7 @@ loadStatistics();
         
         // 통계 데이터 로드 및 표시 함수
         function loadStatistics() {
-            fetch('data/statistics.json')
+            fetch('lotto/statistics.json')
                 .then(response => {
                     if (!response.ok) {
                         throw new Error(`HTTP error! Status: ${response.status}`);

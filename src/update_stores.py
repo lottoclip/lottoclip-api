@@ -6,8 +6,8 @@ import json
 from pathlib import Path
 
 # 상수 정의
-DATA_DIR = Path("data")
-STORES_DIR = Path("data/stores")
+DATA_DIR = Path("lotto")
+STORES_DIR = Path("lotto/stores")
 STORES_FILE = DATA_DIR / "lotto_stores.json"
 
 def update_store_files():

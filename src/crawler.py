@@ -22,9 +22,9 @@ logger = logging.getLogger('lotto_crawler')
 BASE_URL = "https://dhlottery.co.kr"
 LOTTO_DRAW_URL = f"{BASE_URL}/gameResult.do?method=byWin&drwNo="
 LOTTO_STORE_URL = f"{BASE_URL}/store.do?method=topStore&pageGubun=L645&drwNo="
-DATA_DIR = Path("data")
+DATA_DIR = Path("lotto")
 DRAWS_DIR = DATA_DIR / "draws"  # 회차별 데이터 디렉토리 추가
-STORES_DIR = Path("data/stores")
+STORES_DIR = Path("lotto/stores")
 STORES_FILE = DATA_DIR / "lotto_stores.json"
 
 class LottoCrawler:
