@@ -20,6 +20,7 @@ on:
           - latest
           - all
           - range
+          - update-latest-store
       range:
         description: '크롤링 범위 (예: 1-10, crawl_type이 range일 때만 사용)'
         required: false
@@ -72,6 +73,8 @@ jobs:
               python src/pension_crawler.py --all
             elif [ "${{ github.event.inputs.crawl_type }}" == "range" ]; then
               python src/pension_crawler.py --range "${{ github.event.inputs.range }}"
+            elif [ "${{ github.event.inputs.crawl_type }}" == "update-latest-store" ]; then
+              python src/pension_crawler.py --update-latest-store
             fi
           else
             # 스케줄 실행 시 최신 회차만 크롤링
@@ -109,6 +112,40 @@ jobs:
             echo "need_retry=true" >> $GITHUB_OUTPUT
           fi
       
+      - name: 판매점 정보 재시도
+        id: retry_store_info
+        if: steps.check_store_info.outputs.need_retry == 'true' && github.event_name != 'workflow_dispatch'
+        run: |
+          # 금요일 실행 시 판매점 정보만 업데이트
+          CURRENT_DAY=$(date -u +%u)  # 1(월) ~ 7(일)
+          
+          if [ "$CURRENT_DAY" == "5" ]; then
+            echo "판매점 정보만 업데이트합니다."
+            python src/pension_crawler.py --update-latest-store
+            
+            # 업데이트 후 다시 확인
+            if [ -f "pension/index.json" ]; then
+              LATEST_DRAW=$(python -c "import json; print(json.load(open('pension/index.json'))['draws'][0]['draw_no'])")
+              STORE_FILE="pension/stores/stores_${LATEST_DRAW}.json"
+              
+              if [ -f "$STORE_FILE" ]; then
+                STORE_COUNT=$(python -c "import json; data=json.load(open('$STORE_FILE')); print(len(data.get('first_prize_store_info', [])))")
+                echo "store_count=$STORE_COUNT" >> $GITHUB_OUTPUT
+                
+                if [ "$STORE_COUNT" -gt 0 ]; then
+                  echo "1등 당첨 배출점 정보가 업데이트되었습니다. 총 $STORE_COUNT 개의 판매점 정보가 확인되었습니다."
+                  echo "retry_success=true" >> $GITHUB_OUTPUT
+                else
+                  echo "1등 당첨 배출점 정보가 여전히 없습니다."
+                  echo "retry_success=false" >> $GITHUB_OUTPUT
+                fi
+              fi
+            fi
+          else
+            echo "목요일 실행 시에는 판매점 정보 재시도를 건너뜁니다. 금요일에 자동으로 재시도됩니다."
+            echo "retry_success=false" >> $GITHUB_OUTPUT
+          fi
+      
       - name: 재시도 여부 결정
         id: decide_retry
         run: |
@@ -117,7 +154,7 @@ jobs:
           CURRENT_MINUTE=$(date -u +%M)
           CURRENT_DAY=$(date -u +%u)  # 1(월) ~ 7(일)
           
-          if [ "${{ steps.check_store_info.outputs.need_retry }}" == "true" ] && [ "$CURRENT_DAY" == "4" ] && [ "$CURRENT_HOUR" == "14" ] && [ "$CURRENT_MINUTE" -ge "30" ]; then
+          if [ "${{ steps.check_store_info.outputs.need_retry }}" == "true" ] && [ "${{ steps.retry_store_info.outputs.retry_success }}" != "true" ] && [ "$CURRENT_DAY" == "4" ] && [ "$CURRENT_HOUR" == "14" ] && [ "$CURRENT_MINUTE" -ge "30" ]; then
             # 목요일 오후 11시 30분 이후에 실행되었고, 1등 당첨 배출점 정보가 없으면 재시도 필요
             echo "재시도가 필요합니다. 금요일 오후 12시에 자동으로 재시도됩니다."
             echo "skip_commit=true" >> $GITHUB_OUTPUT
@@ -153,7 +190,7 @@ jobs:
           git add pension/
           
           # 1등 당첨 배출점 정보 상태에 따라 커밋 메시지 변경
-          if [ "${{ steps.check_store_info.outputs.store_count }}" -gt 0 ]; then
+          if [ "${{ steps.check_store_info.outputs.store_count }}" -gt 0 ] || [ "${{ steps.retry_store_info.outputs.store_count }}" -gt 0 ]; then
             git commit -m "연금복권 데이터 업데이트: $(date +'%Y-%m-%d') - 1등 당첨 배출점 정보 포함"
           else
             git commit -m "연금복권 데이터 업데이트: $(date +'%Y-%m-%d') - 1등 당첨 배출점 정보 없음"

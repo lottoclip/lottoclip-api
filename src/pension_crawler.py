@@ -357,6 +357,52 @@ class PensionCrawler:
             
         logger.info(f"범위 크롤링 완료: {success_count}/{end_draw - start_draw + 1}개 성공")
         return success_count
+    
+    def update_store_info(self, draw_no):
+        """특정 회차의 판매점 정보만 업데이트합니다."""
+        # 해당 회차 파일이 존재하는지 확인
+        file_path = DRAWS_DIR / f"pension_{draw_no}.json"
+        if not file_path.exists():
+            logger.error(f"회차 {draw_no}의 데이터 파일이 존재하지 않습니다.")
+            return False
+            
+        # 판매점 정보 크롤링
+        store_info = self.get_store_info(draw_no)
+        
+        # 1등 당첨 판매점 정보가 있는지 확인
+        if len(store_info["first_prize_store_info"]) > 0:
+            logger.info(f"회차 {draw_no}의 1등 당첨 판매점 정보 업데이트 완료: {len(store_info['first_prize_store_info'])}개")
+            return True
+        else:
+            logger.warning(f"회차 {draw_no}의 1등 당첨 판매점 정보가 아직 없습니다.")
+            return False
+    
+    def update_latest_store_info(self):
+        """최신 회차의 판매점 정보만 업데이트합니다."""
+        # 인덱스 파일에서 최신 회차 번호 가져오기
+        index_path = DATA_DIR / "index.json"
+        if not index_path.exists():
+            logger.error("인덱스 파일이 존재하지 않습니다.")
+            return False
+            
+        try:
+            with open(index_path, 'r', encoding='utf-8') as f:
+                index_data = json.load(f)
+                
+            if not index_data.get('draws'):
+                logger.error("인덱스 파일에 회차 정보가 없습니다.")
+                return False
+                
+            # 회차 번호 기준 내림차순 정렬
+            draws = sorted(index_data['draws'], key=lambda x: x['draw_no'], reverse=True)
+            latest_draw_no = draws[0]['draw_no']
+            
+            logger.info(f"최신 회차 번호: {latest_draw_no}")
+            return self.update_store_info(latest_draw_no)
+            
+        except Exception as e:
+            logger.error(f"최신 회차 판매점 정보 업데이트 실패: {e}")
+            return False
 
 def main():
     """메인 함수"""
@@ -367,6 +413,8 @@ def main():
     parser.add_argument('--draw', type=int, help='특정 회차 크롤링')
     parser.add_argument('--range', type=str, help='회차 범위 크롤링 (시작-끝)')
     parser.add_argument('--all', action='store_true', help='모든 회차 크롤링 (1회부터 최신까지)')
+    parser.add_argument('--update-store', type=int, help='특정 회차의 판매점 정보만 업데이트')
+    parser.add_argument('--update-latest-store', action='store_true', help='최신 회차의 판매점 정보만 업데이트')
     
     args = parser.parse_args()
     crawler = PensionCrawler()
@@ -389,6 +437,10 @@ def main():
         latest = crawler.get_latest_draw_number()
         if latest:
             crawler.crawl_range(1, latest)
+    elif args.update_store:
+        crawler.update_store_info(args.update_store)
+    elif args.update_latest_store:
+        crawler.update_latest_store_info()
     else:
         # 기본값: 최신 회차 크롤링
         crawler.crawl_latest()
