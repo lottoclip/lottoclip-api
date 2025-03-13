@@ -8,6 +8,7 @@
 - 번호별 출현 빈도 등 통계 데이터 제공
 - GitHub Actions를 통한 자동화된 데이터 수집
 - GitHub Pages를 통한 API 서비스 제공
+- 회차 번호(`draw_no`) 기준 내림차순 정렬된 데이터 제공
 
 ## 데이터 API
 
@@ -54,6 +55,25 @@
 }
 ```
 
+### 인덱스 파일 (index.json)
+```json
+{
+  "draws": [
+    {
+      "draw_no": 1162,
+      "draw_date": "2025-03-08",
+      "file": "draws/lotto_1162.json"
+    },
+    {
+      "draw_no": 1161,
+      "draw_date": "2025-03-01",
+      "file": "draws/lotto_1161.json"
+    }
+  ],
+  "last_updated": "2025-03-10T17:32:57.390631"
+}
+```
+
 ## 기술 스택
 
 - **언어**: Python 3.9+
@@ -76,6 +96,9 @@ pip install -r requirements.txt
 # 최신 로또 데이터 수집
 python src/crawler.py
 
+# 연금복권 데이터 수집
+python src/pension_crawler.py
+
 # 통계 분석 실행
 python src/analyze_statistics.py
 
@@ -83,8 +106,13 @@ python src/analyze_statistics.py
 python src/update_stores.py
 ```
 
+## 데이터 정렬 방식
+
+모든 회차 목록은 회차 번호(`draw_no`) 기준으로 내림차순 정렬되어 있어 최신 회차가 항상 배열의 첫 번째 요소로 제공됩니다. 이를 통해 클라이언트에서 최신 데이터에 쉽게 접근할 수 있습니다.
+
 ## 업데이트 내역
 
+- 2025-03-15: 데이터 정렬 방식 변경 (모든 회차 목록을 draw_no 기준 내림차순 정렬)
 - 2025-03-10: 데이터 구조 변경 (날짜 형식 변경, 판매점 정보에 구매 방식 추가)
 - 2025-03-01: 프로젝트 초기 버전 릴리스
 

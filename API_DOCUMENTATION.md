@@ -7,6 +7,7 @@
 - 기본 URL: `https://api.lottoclip.com`
 - 모든 응답은 JSON 형식으로 제공됩니다.
 - 데이터는 매주 자동으로 업데이트됩니다.
+- 모든 회차 목록은 회차 번호(`draw_no`) 기준으로 내림차순 정렬되어 제공됩니다.
 
 ## 로또 6/45 API
 
@@ -14,7 +15,7 @@
 
 **엔드포인트:** `GET /lotto/index.json`
 
-**설명:** 모든 로또 회차의 목록을 제공합니다.
+**설명:** 모든 로또 회차의 목록을 제공합니다. 회차 번호(`draw_no`) 기준으로 내림차순 정렬되어 있어 최신 회차가 항상 배열의 첫 번째 요소로 제공됩니다.
 
 **응답 예시:**
 ```json
@@ -23,12 +24,12 @@
     {
       "draw_no": 1162,
       "draw_date": "2025-03-08",
-      "file": "lotto_1162.json"
+      "file": "draws/lotto_1162.json"
     },
     {
       "draw_no": 1161,
       "draw_date": "2025-03-01",
-      "file": "lotto_1161.json"
+      "file": "draws/lotto_1161.json"
     }
   ],
   "last_updated": "2025-03-10T17:32:57.390631"
@@ -126,15 +127,7 @@
 {
   "store_id": "11110012",
   "name": "신일",
-  "address": "서울 강서구 까치산로 177 1층 101호",
-  "wins": [
-    {
-      "draw_no": 1162,
-      "draw_date": "2025-03-08",
-      "rank": "1등",
-      "type": "자동"
-    }
-  ]
+  "address": "서울 강서구 까치산로 177 1층 101호"
 }
 ```
 
@@ -147,21 +140,16 @@
 **응답 예시:**
 ```json
 {
-  "stores": [
-    {
-      "store_id": "11110012",
-      "name": "신일",
-      "address": "서울 강서구 까치산로 177 1층 101호",
-      "wins_count": 1
-    },
-    {
-      "store_id": "22220034",
-      "name": "로또명당",
-      "address": "경기도 수원시 영통구 매탄동 1234-5",
-      "wins_count": 2
-    }
-  ],
-  "updated_at": "2025-03-10T17:32:57.390631"
+  "11110012": {
+    "store_id": "11110012",
+    "name": "신일",
+    "address": "서울 강서구 까치산로 177 1층 101호"
+  },
+  "22220034": {
+    "store_id": "22220034",
+    "name": "로또명당",
+    "address": "경기도 수원시 영통구 매탄동 1234-5"
+  }
 }
 ```
 
@@ -171,7 +159,7 @@
 
 **엔드포인트:** `GET /pension/index.json`
 
-**설명:** 모든 연금복권 회차의 목록을 제공합니다.
+**설명:** 모든 연금복권 회차의 목록을 제공합니다. 회차 번호(`draw_no`) 기준으로 내림차순 정렬되어 있어 최신 회차가 항상 배열의 첫 번째 요소로 제공됩니다.
 
 **응답 예시:**
 ```json
@@ -364,12 +352,12 @@ async function getLatestLottoDraw() {
     const indexResponse = await fetch('https://api.lottoclip.com/lotto/index.json');
     const indexData = await indexResponse.json();
     
-    // 2. 최신 회차 정보 추출
+    // 2. 최신 회차 정보 추출 (내림차순 정렬되어 있으므로 첫 번째 항목이 최신)
     const latestDraw = indexData.draws[0];
     console.log(`최신 회차: ${latestDraw.draw_no}, 날짜: ${latestDraw.draw_date}`);
     
     // 3. 최신 회차 상세 정보 가져오기
-    const drawResponse = await fetch(`https://api.lottoclip.com/lotto/draws/${latestDraw.file}`);
+    const drawResponse = await fetch(`https://api.lottoclip.com/lotto/${latestDraw.file}`);
     const drawData = await drawResponse.json();
     
     // 4. 당첨 번호 출력
@@ -407,7 +395,6 @@ async function getStoreInfo(storeId) {
     
     console.log(`판매점명: ${data.name}`);
     console.log(`주소: ${data.address}`);
-    console.log(`당첨 횟수: ${data.wins.length}회`);
     
     return data;
   } catch (error) {
@@ -433,9 +420,9 @@ function LatestLottoNumbers() {
         const indexResponse = await fetch('https://api.lottoclip.com/lotto/index.json');
         const indexData = await indexResponse.json();
         
-        // 최신 회차 정보 가져오기
-        const latestDrawFile = indexData.draws[0].file;
-        const drawResponse = await fetch(`https://api.lottoclip.com/lotto/draws/${latestDrawFile}`);
+        // 최신 회차 정보 가져오기 (내림차순 정렬되어 있으므로 첫 번째 항목이 최신)
+        const latestDrawInfo = indexData.draws[0];
+        const drawResponse = await fetch(`https://api.lottoclip.com/lotto/${latestDrawInfo.file}`);
         const drawData = await drawResponse.json();
         
         setLatestDraw(drawData);
@@ -481,4 +468,5 @@ export default LatestLottoNumbers;
 
 1. API 호출 시 CORS 정책을 고려하여 적절한 설정이 필요할 수 있습니다.
 2. 데이터는 매주 자동으로 업데이트되며, 업데이트 시간은 로또 추첨 후 약 1-2시간 이내입니다.
-3. 대량의 API 호출은 서비스에 부하를 줄 수 있으므로, 적절한 캐싱 전략을 사용하는 것이 좋습니다. 
+3. 대량의 API 호출은 서비스에 부하를 줄 수 있으므로, 적절한 캐싱 전략을 사용하는 것이 좋습니다.
+4. 모든 회차 목록은 회차 번호(`draw_no`) 기준으로 내림차순 정렬되어 있어 최신 회차가 항상 배열의 첫 번째 요소로 제공됩니다. 

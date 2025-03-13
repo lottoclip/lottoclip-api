@@ -332,7 +332,7 @@ class LottoCrawler:
         draws = []
         
         # 모든 로또 데이터 파일 검색
-        for file_path in sorted(DRAWS_DIR.glob("lotto_*.json"), reverse=True):
+        for file_path in DRAWS_DIR.glob("lotto_*.json"):
             try:
                 with open(file_path, 'r', encoding='utf-8') as f:
                     data = json.load(f)
@@ -343,6 +343,9 @@ class LottoCrawler:
                     })
             except Exception as e:
                 logger.error(f"파일 읽기 실패: {file_path} - {e}")
+        
+        # 회차 번호(draw_no)를 기준으로 내림차순 정렬
+        draws = sorted(draws, key=lambda x: x['draw_no'], reverse=True)
         
         # 인덱스 파일 저장
         try:
