@@ -221,27 +221,86 @@ class LottoCrawler:
     def save_store_info(self, store_id, name, address, store_type):
         """판매점 정보를 저장합니다."""
         try:
+            # 상세 정보 가져오기 (전화번호, 취급복권)
+            detail_info = self.get_store_detail_info(store_id)
+            
             # 개별 파일로 저장
             store_file = STORES_DIR / f"{store_id}.json"
             
-            store_data = {
-                "store_id": store_id,
-                "name": name,
-                "address": address
-                # type 정보 제거
-            }
+            # 기존 파일이 있으면 로드
+            if os.path.exists(store_file):
+                with open(store_file, 'r', encoding='utf-8') as f:
+                    store_data = json.load(f)
+                # 기본 정보 업데이트
+                store_data.update({
+                    "store_id": store_id,
+                    "name": name,
+                    "address": address
+                })
+            else:
+                # 새 파일 생성
+                store_data = {
+                    "store_id": store_id,
+                    "name": name,
+                    "address": address
+                }
             
-            # 이미 존재하는 파일이 아닐 경우에만 저장
-            if not os.path.exists(store_file):
-                with open(store_file, 'w', encoding='utf-8') as f:
-                    json.dump(store_data, f, ensure_ascii=False, indent=2)
-                logger.info(f"판매점 정보 저장 완료: {store_id}")
+            # 상세 정보가 있으면 추가
+            if detail_info:
+                store_data.update(detail_info)
+            
+            # 파일 저장
+            with open(store_file, 'w', encoding='utf-8') as f:
+                json.dump(store_data, f, ensure_ascii=False, indent=2)
+            logger.info(f"판매점 정보 저장 완료: {store_id}")
             
             # 통합 파일에 추가
             self.stores_data[store_id] = store_data
             
         except Exception as e:
             logger.error(f"판매점 정보 저장 실패: {store_id} - {e}")
+    
+    def get_store_detail_info(self, store_id):
+        """판매점 상세 정보 페이지에서 전화번호와 취급복권 정보를 크롤링합니다."""
+        try:
+            url = f"{BASE_URL}/store.do?method=topStoreLocation&gbn=lotto&rtlrId={store_id}"
+            response = self.session.get(url, headers=self.headers)
+            response.raise_for_status()
+            
+            # EUC-KR 인코딩 처리
+            content = response.content.decode('euc-kr', errors='replace')
+            soup = BeautifulSoup(content, 'lxml')
+            
+            # 판매점 정보 추출
+            store_info = {}
+            
+            # 전화번호 추출
+            phone_elem = soup.select_one('th:contains("전화번호") + td')
+            if phone_elem:
+                store_info['phone'] = phone_elem.text.strip()
+            
+            # 취급복권 추출
+            lottery_types = []
+            lottery_elems = soup.select('td img[src*="ico_seller"]')
+            
+            for elem in lottery_elems:
+                src = elem.get('src', '')
+                if '645' in src:
+                    lottery_types.append('lotto645')
+                elif '720' in src:
+                    lottery_types.append('pension720')
+                elif 'speetto' in src:
+                    lottery_types.append('speetto')
+            
+            if lottery_types:
+                store_info['lottery_types'] = lottery_types
+            
+            logger.info(f"판매점 {store_id} 상세 정보 크롤링 완료: {store_info}")
+            return store_info
+            
+        except Exception as e:
+            logger.error(f"판매점 {store_id} 상세 정보 크롤링 실패: {e}")
+            return None
     
     def crawl_draw(self, draw_no):
         """특정 회차의 로또 당첨 정보를 크롤링합니다."""
