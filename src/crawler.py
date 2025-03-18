@@ -390,16 +390,37 @@ class LottoCrawler:
         index_path = DATA_DIR / "index.json"
         draws = []
         
+        # 기존 인덱스 파일이 있으면 로드
+        existing_draws = {}
+        if os.path.exists(index_path):
+            try:
+                with open(index_path, 'r', encoding='utf-8') as f:
+                    index_data = json.load(f)
+                    # 기존 회차 정보를 딕셔너리로 변환 (draw_no를 키로 사용)
+                    existing_draws = {draw['draw_no']: draw for draw in index_data.get('draws', [])}
+            except Exception as e:
+                logger.error(f"기존 인덱스 파일 로드 실패: {e}")
+        
         # 모든 로또 데이터 파일 검색
         for file_path in DRAWS_DIR.glob("lotto_*.json"):
             try:
                 with open(file_path, 'r', encoding='utf-8') as f:
                     data = json.load(f)
-                    draws.append({
-                        'draw_no': data['draw_no'],
+                    draw_no = data['draw_no']
+                    
+                    # 새로운 회차 정보
+                    new_draw = {
+                        'draw_no': draw_no,
                         'draw_date': data['draw_date'],
                         'file': f"draws/{file_path.name}"  # 상대 경로 포함
-                    })
+                    }
+                    
+                    # 기존 정보가 있으면 유지, 없으면 새로 추가
+                    if draw_no in existing_draws:
+                        draws.append(existing_draws[draw_no])
+                    else:
+                        draws.append(new_draw)
+                        
             except Exception as e:
                 logger.error(f"파일 읽기 실패: {file_path} - {e}")
         
