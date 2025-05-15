@@ -1,33 +1,33 @@
 {
-  "total_draws": 262,
+  "total_draws": 263,
   "first_draw": 1,
-  "last_draw": 262,
+  "last_draw": 263,
   "frequency_stats": {
     "group_frequency": [
       {
         "group": "4",
         "count": 62,
-        "percentage": 23.66
+        "percentage": 23.57
       },
       {
         "group": "1",
         "count": 58,
-        "percentage": 22.14
+        "percentage": 22.05
+      },
+      {
+        "group": "5",
+        "count": 51,
+        "percentage": 19.39
       },
       {
         "group": "3",
         "count": 51,
-        "percentage": 19.47
-      },
-      {
-        "group": "5",
-        "count": 50,
-        "percentage": 19.08
+        "percentage": 19.39
       },
       {
         "group": "2",
         "count": 41,
-        "percentage": 15.65
+        "percentage": 15.59
       }
     ],
     "position_frequency": [
@@ -37,52 +37,52 @@
           {
             "number": "4",
             "count": 35,
-            "percentage": 13.36
+            "percentage": 13.31
           },
           {
             "number": "8",
             "count": 32,
-            "percentage": 12.21
+            "percentage": 12.17
           },
           {
             "number": "1",
-            "count": 28,
-            "percentage": 10.69
+            "count": 29,
+            "percentage": 11.03
           },
           {
             "number": "9",
             "count": 28,
-            "percentage": 10.69
+            "percentage": 10.65
           },
           {
             "number": "5",
             "count": 27,
-            "percentage": 10.31
+            "percentage": 10.27
           },
           {
             "number": "2",
             "count": 24,
-            "percentage": 9.16
+            "percentage": 9.13
           },
           {
             "number": "0",
             "count": 24,
-            "percentage": 9.16
+            "percentage": 9.13
           },
           {
             "number": "3",
             "count": 23,
-            "percentage": 8.78
+            "percentage": 8.75
           },
           {
             "number": "7",
             "count": 22,
-            "percentage": 8.4
+            "percentage": 8.37
           },
           {
             "number": "6",
             "count": 19,
-            "percentage": 7.25
+            "percentage": 7.22
           }
         ]
       },
@@ -92,52 +92,52 @@
           {
             "number": "4",
             "count": 37,
-            "percentage": 14.12
+            "percentage": 14.07
           },
           {
             "number": "7",
             "count": 31,
-            "percentage": 11.83
+            "percentage": 11.79
           },
           {
             "number": "3",
             "count": 30,
-            "percentage": 11.45
+            "percentage": 11.41
           },
           {
             "number": "0",
             "count": 28,
-            "percentage": 10.69
+            "percentage": 10.65
           },
           {
             "number": "1",
             "count": 27,
-            "percentage": 10.31
+            "percentage": 10.27
+          },
+          {
+            "number": "6",
+            "count": 26,
+            "percentage": 9.89
           },
           {
             "number": "5",
             "count": 26,
-            "percentage": 9.92
-          },
-          {
-            "number": "6",
-            "count": 25,
-            "percentage": 9.54
+            "percentage": 9.89
           },
           {
             "number": "9",
             "count": 24,
-            "percentage": 9.16
+            "percentage": 9.13
           },
           {
             "number": "8",
             "count": 19,
-            "percentage": 7.25
+            "percentage": 7.22
           },
           {
             "number": "2",
             "count": 15,
-            "percentage": 5.73
+            "percentage": 5.7
           }
         ]
       },
@@ -147,52 +147,52 @@
           {
             "number": "7",
             "count": 31,
-            "percentage": 11.83
+            "percentage": 11.79
           },
           {
             "number": "9",
             "count": 31,
-            "percentage": 11.83
+            "percentage": 11.79
           },
           {
             "number": "6",
             "count": 30,
-            "percentage": 11.45
+            "percentage": 11.41
           },
           {
             "number": "2",
-            "count": 26,
-            "percentage": 9.92
+            "count": 27,
+            "percentage": 10.27
           },
           {
             "number": "8",
             "count": 26,
-            "percentage": 9.92
+            "percentage": 9.89
           },
           {
             "number": "5",
             "count": 26,
-            "percentage": 9.92
+            "percentage": 9.89
           },
           {
             "number": "0",
             "count": 25,
-            "percentage": 9.54
+            "percentage": 9.51
           },
           {
             "number": "1",
             "count": 23,
-            "percentage": 8.78
+            "percentage": 8.75
           },
           {
             "number": "4",
             "count": 22,
-            "percentage": 8.4
+            "percentage": 8.37
           },
           {
             "number": "3",
             "count": 22,
-            "percentage": 8.4
+            "percentage": 8.37
           }
         ]
       },
@@ -200,54 +200,54 @@
         "position": 4,
         "stats": [
           {
-            "number": "0",
+            "number": "2",
             "count": 32,
-            "percentage": 12.21
+            "percentage": 12.17
           },
           {
-            "number": "2",
-            "count": 31,
-            "percentage": 11.83
+            "number": "0",
+            "count": 32,
+            "percentage": 12.17
           },
           {
             "number": "3",
             "count": 31,
-            "percentage": 11.83
+            "percentage": 11.79
           },
           {
             "number": "5",
             "count": 29,
-            "percentage": 11.07
+            "percentage": 11.03
           },
           {
             "number": "1",
             "count": 26,
-            "percentage": 9.92
+            "percentage": 9.89
           },
           {
             "number": "8",
             "count": 25,
-            "percentage": 9.54
+            "percentage": 9.51
           },
           {
             "number": "9",
             "count": 24,
-            "percentage": 9.16
+            "percentage": 9.13
           },
           {
             "number": "6",
             "count": 24,
-            "percentage": 9.16
+            "percentage": 9.13
           },
           {
             "number": "7",
             "count": 21,
-            "percentage": 8.02
+            "percentage": 7.98
           },
           {
             "number": "4",
             "count": 19,
-            "percentage": 7.25
+            "percentage": 7.22
           }
         ]
       },
@@ -257,52 +257,52 @@
           {
             "number": "7",
             "count": 32,
-            "percentage": 12.21
+            "percentage": 12.17
           },
           {
             "number": "3",
             "count": 31,
-            "percentage": 11.83
+            "percentage": 11.79
           },
           {
             "number": "5",
             "count": 31,
-            "percentage": 11.83
+            "percentage": 11.79
           },
           {
             "number": "8",
             "count": 30,
-            "percentage": 11.45
+            "percentage": 11.41
           },
           {
             "number": "1",
             "count": 28,
-            "percentage": 10.69
+            "percentage": 10.65
           },
           {
             "number": "2",
             "count": 26,
-            "percentage": 9.92
+            "percentage": 9.89
           },
           {
             "number": "6",
-            "count": 25,
-            "percentage": 9.54
+            "count": 26,
+            "percentage": 9.89
           },
           {
             "number": "9",
             "count": 20,
-            "percentage": 7.63
+            "percentage": 7.6
           },
           {
             "number": "4",
             "count": 20,
-            "percentage": 7.63
+            "percentage": 7.6
           },
           {
             "number": "0",
             "count": 19,
-            "percentage": 7.25
+            "percentage": 7.22
           }
         ]
       },
@@ -312,52 +312,52 @@
           {
             "number": "6",
             "count": 35,
-            "percentage": 13.36
+            "percentage": 13.31
           },
           {
             "number": "8",
             "count": 33,
-            "percentage": 12.6
+            "percentage": 12.55
           },
           {
             "number": "7",
             "count": 30,
-            "percentage": 11.45
+            "percentage": 11.41
           },
           {
             "number": "3",
             "count": 28,
-            "percentage": 10.69
+            "percentage": 10.65
           },
           {
             "number": "0",
             "count": 26,
-            "percentage": 9.92
+            "percentage": 9.89
           },
           {
             "number": "2",
             "count": 25,
-            "percentage": 9.54
+            "percentage": 9.51
           },
           {
             "number": "5",
-            "count": 23,
-            "percentage": 8.78
+            "count": 24,
+            "percentage": 9.13
           },
           {
             "number": "9",
             "count": 22,
-            "percentage": 8.4
+            "percentage": 8.37
           },
           {
             "number": "1",
             "count": 22,
-            "percentage": 8.4
+            "percentage": 8.37
           },
           {
             "number": "4",
             "count": 18,
-            "percentage": 6.87
+            "percentage": 6.84
           }
         ]
       }
@@ -368,53 +368,53 @@
         "stats": [
           {
             "number": "2",
-            "count": 30,
-            "percentage": 11.45
+            "count": 31,
+            "percentage": 11.79
           },
           {
             "number": "1",
             "count": 29,
-            "percentage": 11.07
+            "percentage": 11.03
           },
           {
             "number": "8",
             "count": 29,
-            "percentage": 11.07
+            "percentage": 11.03
           },
           {
             "number": "9",
             "count": 29,
-            "percentage": 11.07
+            "percentage": 11.03
           },
           {
             "number": "0",
             "count": 27,
-            "percentage": 10.31
+            "percentage": 10.27
           },
           {
             "number": "4",
             "count": 25,
-            "percentage": 9.54
+            "percentage": 9.51
           },
           {
             "number": "3",
             "count": 25,
-            "percentage": 9.54
+            "percentage": 9.51
           },
           {
             "number": "7",
             "count": 24,
-            "percentage": 9.16
+            "percentage": 9.13
           },
           {
             "number": "5",
             "count": 23,
-            "percentage": 8.78
+            "percentage": 8.75
           },
           {
             "number": "6",
             "count": 21,
-            "percentage": 8.02
+            "percentage": 7.98
           }
         ]
       },
@@ -424,52 +424,52 @@
           {
             "number": "8",
             "count": 35,
-            "percentage": 13.36
+            "percentage": 13.31
+          },
+          {
+            "number": "1",
+            "count": 31,
+            "percentage": 11.79
           },
           {
             "number": "6",
             "count": 31,
-            "percentage": 11.83
-          },
-          {
-            "number": "1",
-            "count": 30,
-            "percentage": 11.45
+            "percentage": 11.79
           },
           {
             "number": "9",
             "count": 28,
-            "percentage": 10.69
+            "percentage": 10.65
           },
           {
             "number": "5",
             "count": 26,
-            "percentage": 9.92
+            "percentage": 9.89
           },
           {
             "number": "3",
             "count": 25,
-            "percentage": 9.54
+            "percentage": 9.51
           },
           {
             "number": "7",
             "count": 24,
-            "percentage": 9.16
+            "percentage": 9.13
           },
           {
             "number": "4",
             "count": 23,
-            "percentage": 8.78
+            "percentage": 8.75
           },
           {
             "number": "0",
             "count": 22,
-            "percentage": 8.4
+            "percentage": 8.37
           },
           {
             "number": "2",
             "count": 18,
-            "percentage": 6.87
+            "percentage": 6.84
           }
         ]
       },
@@ -479,52 +479,52 @@
           {
             "number": "1",
             "count": 32,
-            "percentage": 12.21
+            "percentage": 12.17
           },
           {
             "number": "0",
             "count": 31,
-            "percentage": 11.83
+            "percentage": 11.79
           },
           {
             "number": "7",
             "count": 30,
-            "percentage": 11.45
+            "percentage": 11.41
           },
           {
             "number": "6",
             "count": 28,
-            "percentage": 10.69
+            "percentage": 10.65
           },
           {
             "number": "2",
             "count": 28,
-            "percentage": 10.69
+            "percentage": 10.65
           },
           {
             "number": "4",
             "count": 27,
-            "percentage": 10.31
+            "percentage": 10.27
           },
           {
             "number": "8",
             "count": 24,
-            "percentage": 9.16
+            "percentage": 9.13
           },
           {
             "number": "5",
             "count": 24,
-            "percentage": 9.16
+            "percentage": 9.13
           },
           {
             "number": "9",
             "count": 23,
-            "percentage": 8.78
+            "percentage": 8.75
           },
           {
             "number": "3",
-            "count": 15,
-            "percentage": 5.73
+            "count": 16,
+            "percentage": 6.08
           }
         ]
       },
@@ -534,52 +534,52 @@
           {
             "number": "1",
             "count": 31,
-            "percentage": 11.83
+            "percentage": 11.79
           },
           {
             "number": "2",
             "count": 30,
-            "percentage": 11.45
+            "percentage": 11.41
           },
           {
             "number": "7",
             "count": 30,
-            "percentage": 11.45
+            "percentage": 11.41
           },
           {
             "number": "6",
             "count": 29,
-            "percentage": 11.07
+            "percentage": 11.03
           },
           {
             "number": "5",
             "count": 28,
-            "percentage": 10.69
+            "percentage": 10.65
           },
           {
             "number": "3",
-            "count": 26,
-            "percentage": 9.92
+            "count": 27,
+            "percentage": 10.27
           },
           {
             "number": "8",
             "count": 26,
-            "percentage": 9.92
+            "percentage": 9.89
           },
           {
             "number": "9",
             "count": 24,
-            "percentage": 9.16
+            "percentage": 9.13
           },
           {
             "number": "4",
             "count": 19,
-            "percentage": 7.25
+            "percentage": 7.22
           },
           {
             "number": "0",
             "count": 19,
-            "percentage": 7.25
+            "percentage": 7.22
           }
         ]
       },
@@ -589,52 +589,52 @@
           {
             "number": "1",
             "count": 32,
-            "percentage": 12.21
+            "percentage": 12.17
           },
           {
             "number": "6",
             "count": 31,
-            "percentage": 11.83
+            "percentage": 11.79
           },
           {
             "number": "4",
             "count": 30,
-            "percentage": 11.45
+            "percentage": 11.41
           },
           {
             "number": "5",
             "count": 27,
-            "percentage": 10.31
+            "percentage": 10.27
           },
           {
             "number": "9",
             "count": 27,
-            "percentage": 10.31
+            "percentage": 10.27
           },
           {
             "number": "8",
             "count": 27,
-            "percentage": 10.31
+            "percentage": 10.27
           },
           {
             "number": "7",
-            "count": 24,
-            "percentage": 9.16
+            "count": 25,
+            "percentage": 9.51
           },
           {
             "number": "2",
             "count": 24,
-            "percentage": 9.16
+            "percentage": 9.13
           },
           {
             "number": "0",
             "count": 21,
-            "percentage": 8.02
+            "percentage": 7.98
           },
           {
             "number": "3",
             "count": 19,
-            "percentage": 7.25
+            "percentage": 7.22
           }
         ]
       },
@@ -644,57 +644,57 @@
           {
             "number": "0",
             "count": 39,
-            "percentage": 14.89
+            "percentage": 14.83
           },
           {
             "number": "4",
             "count": 32,
-            "percentage": 12.21
+            "percentage": 12.17
           },
           {
             "number": "5",
             "count": 30,
-            "percentage": 11.45
+            "percentage": 11.41
           },
           {
             "number": "3",
             "count": 27,
-            "percentage": 10.31
+            "percentage": 10.27
+          },
+          {
+            "number": "7",
+            "count": 26,
+            "percentage": 9.89
           },
           {
             "number": "9",
             "count": 25,
-            "percentage": 9.54
-          },
-          {
-            "number": "7",
-            "count": 25,
-            "percentage": 9.54
+            "percentage": 9.51
           },
           {
             "number": "6",
             "count": 25,
-            "percentage": 9.54
+            "percentage": 9.51
           },
           {
             "number": "2",
             "count": 21,
-            "percentage": 8.02
+            "percentage": 7.98
           },
           {
             "number": "8",
             "count": 19,
-            "percentage": 7.25
+            "percentage": 7.22
           },
           {
             "number": "1",
             "count": 19,
-            "percentage": 7.25
+            "percentage": 7.22
           }
         ]
       }
     ],
-    "total_draws": 262
+    "total_draws": 263
   },
   "prize_stats": {
     "rank_stats": [
@@ -703,56 +703,56 @@
         "average_winners": 1.16,
         "max_winners": 2,
         "min_winners": 0,
-        "total_winners": 304
+        "total_winners": 305
       },
       {
         "rank": "2등",
         "average_winners": 4.67,
         "max_winners": 8,
         "min_winners": 0,
-        "total_winners": 1224
+        "total_winners": 1229
       },
       {
         "rank": "3등",
-        "average_winners": 52.92,
+        "average_winners": 52.94,
         "max_winners": 80,
         "min_winners": 8,
-        "total_winners": 13864
+        "total_winners": 13922
       },
       {
         "rank": "4등",
-        "average_winners": 531.54,
+        "average_winners": 531.35,
         "max_winners": 677,
         "min_winners": 193,
-        "total_winners": 139264
+        "total_winners": 139746
       },
       {
         "rank": "5등",
-        "average_winners": 5329.41,
+        "average_winners": 5331.78,
         "max_winners": 6518,
         "min_winners": 2397,
-        "total_winners": 1396306
+        "total_winners": 1402257
       },
       {
         "rank": "6등",
-        "average_winners": 53218.95,
+        "average_winners": 53234.73,
         "max_winners": 66970,
         "min_winners": 41083,
-        "total_winners": 13943365
+        "total_winners": 14000734
       },
       {
         "rank": "7등",
-        "average_winners": 531380.01,
+        "average_winners": 531556.59,
         "max_winners": 640419,
         "min_winners": 413619,
-        "total_winners": 139221563
+        "total_winners": 139799383
       },
       {
         "rank": "보너스",
-        "average_winners": 6.02,
+        "average_winners": 6.0,
         "max_winners": 10,
         "min_winners": 0,
-        "total_winners": 1578
+        "total_winners": 1579
       }
     ]
   },
@@ -760,23 +760,23 @@
     "region_stats": [
       {
         "region": "동행복권(dhlottery.co.kr)",
-        "count": 1199,
-        "percentage": 38.66
+        "count": 1201,
+        "percentage": 38.64
       },
       {
         "region": "서울특별시",
         "count": 420,
-        "percentage": 13.54
+        "percentage": 13.51
       },
       {
         "region": "경기도",
         "count": 391,
-        "percentage": 12.61
+        "percentage": 12.58
       },
       {
         "region": "경기",
         "count": 105,
-        "percentage": 3.39
+        "percentage": 3.38
       },
       {
         "region": "경남",
@@ -786,7 +786,7 @@
       {
         "region": "충남",
         "count": 92,
-        "percentage": 2.97
+        "percentage": 2.96
       },
       {
         "region": "인천광역시",
@@ -849,19 +849,19 @@
         "percentage": 1.19
       },
       {
+        "region": "서울",
+        "count": 32,
+        "percentage": 1.03
+      },
+      {
         "region": "경상북도",
         "count": 30,
         "percentage": 0.97
       },
       {
-        "region": "서울",
-        "count": 27,
-        "percentage": 0.87
-      },
-      {
         "region": "울산",
         "count": 25,
-        "percentage": 0.81
+        "percentage": 0.8
       },
       {
         "region": "광주",
@@ -922,7 +922,7 @@
     "top_stores": [
       {
         "name": "인터넷 복권판매사이트",
-        "count": 1199
+        "count": 1201
       },
       {
         "name": "복권방",
@@ -962,5 +962,5 @@
       }
     ]
   },
-  "updated_at": "2025-05-09T03:34:23.318796"
+  "updated_at": "2025-05-15T13:47:23.190184"
 }
