@@ -1,6 +1,11 @@
 {
   "draws": [
     {
+      "draw_no": 1201,
+      "draw_date": "2025-12-06",
+      "file": "draws/lotto_1201.json"
+    },
+    {
       "draw_no": 1200,
       "draw_date": "2025-11-29",
       "file": "draws/lotto_1200.json"
@@ -6001,5 +6006,5 @@
       "file": "draws/lotto_1.json"
     }
   ],
-  "last_updated": "2025-11-29T14:07:55.037021"
+  "last_updated": "2025-12-06T14:07:54.426240"
 }
