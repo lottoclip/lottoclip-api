@@ -2,8 +2,12 @@
   "store_id": "12610013",
   "name": "승리 로또당리점",
   "address": "부산 사하구 당리동  324-19",
-  "phone": "",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 35.096387,
+  "longitude": 128.994009,
+  "updated_at": "2026-01-04T15:51:25.667852"
 }

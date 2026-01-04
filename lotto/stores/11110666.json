@@ -1,9 +1,14 @@
 {
   "store_id": "11110666",
   "name": "코코주",
-  "address": "서울 중구 을지로6가  18-79",
-  "phone": "",
+  "address": "서울 중구 을지로6가 18-79번지 ",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.567972,
+  "longitude": 127.008873,
+  "updated_at": "2026-01-04T15:52:23.188432"
 }

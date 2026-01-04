@@ -1,9 +1,14 @@
 {
   "store_id": "14500113",
   "name": "신일마트",
-  "address": "전북 군산시 의료원로 159",
+  "address": "전북 군산시 의료원로 159 의료원로 159",
   "phone": "063-463-7510",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.958419,
+  "longitude": 126.698123,
+  "updated_at": "2026-01-04T15:51:52.302692"
 }

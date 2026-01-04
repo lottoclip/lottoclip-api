@@ -1,9 +1,14 @@
 {
   "store_id": "14110131",
   "name": "천하명당",
-  "address": "경기 이천시 경충대로 3145",
+  "address": "경기 이천시 경충대로 3145 경충대로 3145",
   "phone": "031-631-5080",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.307138,
+  "longitude": 127.402137,
+  "updated_at": "2026-01-04T15:52:05.253713"
 }

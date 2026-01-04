@@ -1,9 +1,14 @@
 {
   "store_id": "14130093",
   "name": "일산탑복권",
-  "address": "경기 고양시 일산서구 일산로 517 107호",
+  "address": "경기 고양시 일산서구 일산로 517 일산로 517",
   "phone": "031-914-7575",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.676411,
+  "longitude": 126.77,
+  "updated_at": "2026-01-04T15:53:40.625815"
 }

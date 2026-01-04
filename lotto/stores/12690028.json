@@ -1,9 +1,14 @@
 {
   "store_id": "12690028",
   "name": "복권천국(덕포점)",
-  "address": "부산 사상구 사상로309번길 39",
+  "address": "부산 사상구 사상로309번길 39 사상로309번길 39",
   "phone": "051-304-7135",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.172451,
+  "longitude": 128.981193,
+  "updated_at": "2026-01-04T15:52:43.287123"
 }

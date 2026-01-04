@@ -1,9 +1,14 @@
 {
   "store_id": "12600007",
   "name": "노다지복권방",
-  "address": "부산 북구 덕천로 287",
+  "address": "부산 북구 덕천로 287 덕천로 287",
   "phone": "051-337-2134",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.20986,
+  "longitude": 129.035352,
+  "updated_at": "2026-01-04T15:53:43.685557"
 }

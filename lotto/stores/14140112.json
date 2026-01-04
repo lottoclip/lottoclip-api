@@ -1,9 +1,14 @@
 {
   "store_id": "14140112",
   "name": "복권사랑",
-  "address": "경기 안산시 단원구 와동 112-8",
-  "phone": "",
+  "address": "경기 안산시 단원구 와동 112-8 ",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.340342,
+  "longitude": 126.826882,
+  "updated_at": "2026-01-04T15:52:38.842256"
 }

@@ -1,9 +1,14 @@
 {
   "store_id": "11100958",
   "name": "우리은행금호동지점앞가판",
-  "address": "서울 성동구 장터길 46",
+  "address": "서울 성동구 장터길 46 장터길 46",
   "phone": "02-2297-8965",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.548143,
+  "longitude": 127.020975,
+  "updated_at": "2026-01-04T15:53:29.448421"
 }

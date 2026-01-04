@@ -1,9 +1,13 @@
 {
   "store_id": "12910063",
   "name": "로또삼각점",
-  "address": "광주 북구 삼각동 755-16",
+  "address": "광주 북구 삼각동 755-16 ",
   "phone": "062-263-6045",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 35.19388,
+  "longitude": 126.900886,
+  "updated_at": "2026-01-04T15:52:22.503771"
 }

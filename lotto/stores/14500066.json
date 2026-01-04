@@ -1,9 +1,14 @@
 {
   "store_id": "14500066",
   "name": "천하명당복권방",
-  "address": "전북 익산시 선화로 130",
+  "address": "전북 익산시 선화로 130 선화로 130",
   "phone": "063-858-3274",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.947891,
+  "longitude": 126.945004,
+  "updated_at": "2026-01-04T15:52:24.561467"
 }

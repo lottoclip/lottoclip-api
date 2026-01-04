@@ -1,9 +1,14 @@
 {
   "store_id": "14190055",
   "name": "티켓몰",
-  "address": "경기 김포시 사우중로 15",
+  "address": "경기 김포시 사우중로 15 사우중로 15",
   "phone": "031-996-1112",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.61704,
+  "longitude": 126.716757,
+  "updated_at": "2026-01-04T15:52:36.587541"
 }

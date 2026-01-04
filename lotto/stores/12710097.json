@@ -1,9 +1,13 @@
 {
   "store_id": "12710097",
   "name": "로또3공단",
-  "address": "대구 북구 노원동3가  1038-3",
+  "address": "대구 북구 노원동3가 1038-3번지 ",
   "phone": "053-357-2199",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 35.894454,
+  "longitude": 128.571872,
+  "updated_at": "2026-01-04T15:52:33.261728"
 }

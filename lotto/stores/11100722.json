@@ -1,9 +1,13 @@
 {
   "store_id": "11100722",
   "name": "행운마트",
-  "address": "서울 송파구 오금동  85-8번지1층",
+  "address": "서울 송파구 오금동  85-8번지 1층",
   "phone": "02-400-4317",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 37.50558,
+  "longitude": 127.13482,
+  "updated_at": "2026-01-04T15:52:12.367655"
 }

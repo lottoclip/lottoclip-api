@@ -1,9 +1,14 @@
 {
   "store_id": "12610104",
   "name": "복터졌네 대박로또",
-  "address": "부산 사상구 광장로21번길 46",
+  "address": "부산 사상구 광장로21번길 46 광장로21번길 46",
   "phone": "070-5227-1696",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.1653,
+  "longitude": 128.979768,
+  "updated_at": "2026-01-04T15:53:03.457481"
 }

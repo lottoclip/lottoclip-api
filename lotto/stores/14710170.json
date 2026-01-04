@@ -1,9 +1,14 @@
 {
   "store_id": "14710170",
   "name": "지에스GS오천두배점",
-  "address": "경북 포항시 남구 원동로 98 1층,좌측첫번째상가,GS25오천두배점",
+  "address": "경북 포항시 남구 원동로 98 원동로 98",
   "phone": "054-000-0000",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.971854,
+  "longitude": 129.402805,
+  "updated_at": "2026-01-04T15:53:48.861552"
 }

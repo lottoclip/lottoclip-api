@@ -1,9 +1,14 @@
 {
   "store_id": "14100294",
   "name": "메가마트",
-  "address": "경기 시흥시 정왕대로 64 메가쇼핑몰1층123호",
+  "address": "경기 시흥시 정왕대로 64 정왕대로 64",
   "phone": "031-498-7224",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.354102,
+  "longitude": 126.72363,
+  "updated_at": "2026-01-04T15:53:47.098598"
 }

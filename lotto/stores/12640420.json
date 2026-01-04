@@ -1,9 +1,14 @@
 {
   "store_id": "12640420",
   "name": "황금복권방",
-  "address": "부산 부산진구 가야대로 613 상가동1층114호",
-  "phone": "",
+  "address": "부산 부산진구 가야대로 613 가야대로 613",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.155706,
+  "longitude": 129.039113,
+  "updated_at": "2026-01-04T15:53:31.867664"
 }

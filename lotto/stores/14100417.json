@@ -1,9 +1,14 @@
 {
   "store_id": "14100417",
   "name": "성진마트",
-  "address": "경기 부천시 오정구 수도로 121 105호",
+  "address": "경기 부천시 오정구 수도로 121 수도로 121",
   "phone": "032-678-3224",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.516726,
+  "longitude": 126.779074,
+  "updated_at": "2026-01-04T15:53:28.051678"
 }

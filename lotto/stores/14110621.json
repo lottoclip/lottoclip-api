@@ -1,9 +1,14 @@
 {
   "store_id": "14110621",
-  "name": "로또복권",
-  "address": "경기 평택시 중앙2로 42",
+  "name": "다터져복권방",
+  "address": "경기 평택시 중앙2로 42 중앙2로 42",
   "phone": "070-8210-8705",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.991208,
+  "longitude": 127.091525,
+  "updated_at": "2026-01-04T15:52:57.101693"
 }

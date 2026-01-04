@@ -1,9 +1,14 @@
 {
   "store_id": "12810029",
   "name": "로또복권방",
-  "address": "인천 연수구 독배로40번길 7 103호",
+  "address": "인천 연수구 인천타워대로 323 인천타워대로 323",
   "phone": "032-831-0645",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.399138,
+  "longitude": 126.630363,
+  "updated_at": "2026-01-04T15:52:46.101718"
 }

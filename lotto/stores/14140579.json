@@ -1,9 +1,14 @@
 {
   "store_id": "14140579",
   "name": "꽃길로또방",
-  "address": "경기 고양시 덕양구 꽃내음1길 21 1층 110호(향동동, 청우프라자)",
-  "phone": "",
+  "address": "경기 고양시 덕양구 꽃마을로 27 꽃마을로 27",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.600208,
+  "longitude": 126.890504,
+  "updated_at": "2026-01-04T15:53:49.468430"
 }

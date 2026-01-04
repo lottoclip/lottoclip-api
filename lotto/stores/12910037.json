@@ -1,9 +1,14 @@
 {
   "store_id": "12910037",
   "name": "지산로또방",
-  "address": "광주 동구 지호로 25-2",
+  "address": "광주 동구 지호로 25-2 지호로 25-2",
   "phone": "062-232-3824",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.148321,
+  "longitude": 126.932056,
+  "updated_at": "2026-01-04T15:52:50.698849"
 }

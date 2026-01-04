@@ -1,9 +1,14 @@
 {
   "store_id": "12700202",
   "name": "토큰박스(아카데미)",
-  "address": "대구 중구 중앙대로 390 승강장옆",
-  "phone": "053-427-0641",
+  "address": "대구 중구 중앙대로 390 중앙대로 390",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.867778,
+  "longitude": 128.593914,
+  "updated_at": "2026-01-04T15:51:30.796963"
 }

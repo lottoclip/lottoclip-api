@@ -1,9 +1,14 @@
 {
   "store_id": "14310089",
   "name": "로또천국",
-  "address": "충북 충주시 칠금동  849번지 충주공영버스터미널1층 터미널매점",
-  "phone": "",
+  "address": "충북 충주시  충원대로 626 충주공영버스터미널1층 터미널매점",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.981763,
+  "longitude": 127.914587,
+  "updated_at": "2026-01-04T15:53:02.650813"
 }

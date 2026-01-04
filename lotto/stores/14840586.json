@@ -1,9 +1,14 @@
 {
   "store_id": "14840586",
   "name": "가족복권방",
-  "address": "경남 창원시 진해구 용원동로 255 1층",
-  "phone": "",
+  "address": "경남 창원시 진해구 용원동로 255 용원동로 255",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.095737,
+  "longitude": 128.819698,
+  "updated_at": "2026-01-04T15:53:38.453692"
 }

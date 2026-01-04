@@ -1,9 +1,14 @@
 {
   "store_id": "13100017",
   "name": "대박이네",
-  "address": "울산 중구 구교로 163",
+  "address": "울산 중구 구교로 163 구교로 163",
   "phone": "052-292-1250",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.55929,
+  "longitude": 129.340083,
+  "updated_at": "2026-01-04T15:51:48.902755"
 }

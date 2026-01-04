@@ -1,9 +1,14 @@
 {
   "store_id": "14120040",
   "name": "태일이엔지",
-  "address": "경기 수원시 권선구 경수대로302번길 22 상가동 107호(권선동, 권선한양아파트)",
-  "phone": "",
+  "address": "경기 수원시 권선구 경수대로302번길 22 경수대로302번길 22",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.25341,
+  "longitude": 127.0213,
+  "updated_at": "2026-01-04T15:52:25.761700"
 }

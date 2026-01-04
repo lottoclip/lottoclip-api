@@ -1,9 +1,14 @@
 {
   "store_id": "14240083",
   "name": "럭키복권점",
-  "address": "강원 강릉시 강릉대로 305",
-  "phone": "",
+  "address": "강원 강릉시 강릉대로 305 강릉대로 305",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.763883,
+  "longitude": 128.901554,
+  "updated_at": "2026-01-04T15:53:50.855674"
 }

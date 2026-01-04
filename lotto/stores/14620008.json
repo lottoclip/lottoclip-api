@@ -1,9 +1,14 @@
 {
   "store_id": "14620008",
   "name": "빛가람나눔슈퍼",
-  "address": "전남 나주시 호수로 74 103호",
-  "phone": "",
+  "address": "전남 나주시 호수로 74 호수로 74",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.013306,
+  "longitude": 126.790552,
+  "updated_at": "2026-01-04T15:53:11.557447"
 }

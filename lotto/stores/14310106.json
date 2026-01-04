@@ -1,9 +1,14 @@
 {
   "store_id": "14310106",
   "name": "로또명당",
-  "address": "충북 진천군 중앙북로 61",
-  "phone": "043-753-7942",
+  "address": "충북 진천군 생거진천로 1401 생거진천로 1401",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.871677,
+  "longitude": 127.433159,
+  "updated_at": "2026-01-04T15:51:27.306914"
 }

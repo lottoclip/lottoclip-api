@@ -2,8 +2,13 @@
   "store_id": "13040120",
   "name": "열매로또복권",
   "address": "대전 유성구  은구비서로 31-1 102호 지족동",
-  "phone": "",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.375039,
+  "longitude": 127.320481,
+  "updated_at": "2026-01-04T15:53:34.750015"
 }

@@ -1,9 +1,14 @@
 {
   "store_id": "11100324",
   "name": "현대슈퍼",
-  "address": "서울 강남구 개포로 508 107호 소망빌딩",
+  "address": "서울 강남구 개포로 508 개포로 508",
   "phone": "02-564-6117",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.489233,
+  "longitude": 127.067956,
+  "updated_at": "2026-01-04T15:51:48.331158"
 }

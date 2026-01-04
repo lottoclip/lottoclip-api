@@ -1,9 +1,14 @@
 {
   "store_id": "14190132",
   "name": "대박복권방",
-  "address": "경기 양주시 가래비길 33",
+  "address": "경기 양주시 가래비길 33 가래비길 33",
   "phone": "031-855-8560",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.822462,
+  "longitude": 126.986694,
+  "updated_at": "2026-01-04T15:52:58.355628"
 }

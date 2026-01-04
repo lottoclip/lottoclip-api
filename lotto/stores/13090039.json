@@ -1,9 +1,14 @@
 {
   "store_id": "13090039",
   "name": "아이마트",
-  "address": "대전 서구 둔산로 230",
+  "address": "대전 서구 둔산로 230 둔산로 230",
   "phone": "042-485-6579",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.351065,
+  "longitude": 127.399605,
+  "updated_at": "2026-01-04T15:53:18.328628"
 }

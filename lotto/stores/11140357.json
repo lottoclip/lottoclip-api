@@ -1,9 +1,14 @@
 {
   "store_id": "11140357",
   "name": "갑부복권판매점",
-  "address": "서울 용산구 대사관로 80",
-  "phone": "",
+  "address": "서울 용산구 대사관로 80 대사관로 80",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.533059,
+  "longitude": 127.006836,
+  "updated_at": "2026-01-04T15:53:10.251442"
 }

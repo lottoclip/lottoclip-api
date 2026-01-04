@@ -1,9 +1,14 @@
 {
   "store_id": "14610089",
   "name": "굿데이복권방",
-  "address": "전남 목포시 백년대로337번길 20 CU편의점",
+  "address": "전남 목포시 백년대로337번길 20 백년대로337번길 20",
   "phone": "061-287-6606",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 34.807205,
+  "longitude": 126.423166,
+  "updated_at": "2026-01-04T15:51:48.244934"
 }

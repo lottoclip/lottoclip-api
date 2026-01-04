@@ -1,9 +1,14 @@
 {
   "store_id": "14810173",
   "name": "외동복권",
-  "address": "경남 김해시 동남로49번길 83 GS25 김해대동점",
+  "address": "경남 김해시 동남로49번길 83 동남로49번길 83",
   "phone": "055-328-2508",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.236356,
+  "longitude": 128.985981,
+  "updated_at": "2026-01-04T15:53:27.267377"
 }

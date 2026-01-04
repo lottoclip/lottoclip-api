@@ -1,9 +1,14 @@
 {
   "store_id": "14290006",
   "name": "주택복권방",
-  "address": "강원 원주시 우산초교길 29 1층",
+  "address": "강원 원주시 우산초교길 29 우산초교길 29",
   "phone": "033-744-0410",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.367352,
+  "longitude": 127.937901,
+  "updated_at": "2026-01-04T15:53:43.552724"
 }

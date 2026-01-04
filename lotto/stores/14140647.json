@@ -1,9 +1,14 @@
 {
   "store_id": "14140647",
   "name": "행운로또",
-  "address": "경기 김포시 약암로 911",
-  "phone": "",
+  "address": "경기 김포시 약암로 911 약암로 911",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.635001,
+  "longitude": 126.55378,
+  "updated_at": "2026-01-04T15:53:43.333387"
 }

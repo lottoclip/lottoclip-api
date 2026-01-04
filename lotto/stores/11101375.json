@@ -1,9 +1,14 @@
 {
   "store_id": "11101375",
   "name": "한양복권",
-  "address": "서울 성동구 용답중앙길 78-1",
-  "phone": "02-2213-6822",
+  "address": "서울 성동구 용답중앙길 78-1 용답중앙길 78-1",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.562802,
+  "longitude": 127.053898,
+  "updated_at": "2026-01-04T15:53:36.809671"
 }

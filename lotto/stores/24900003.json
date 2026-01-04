@@ -1,9 +1,13 @@
 {
   "store_id": "24900003",
   "name": "GS25(노형런던점)",
-  "address": "제주 제주시 노형동 1045-15",
+  "address": "제주 제주시 노형동 1045-15 ",
   "phone": "064-748-3933",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 33.491116,
+  "longitude": 126.478615,
+  "updated_at": "2026-01-04T15:52:31.305585"
 }

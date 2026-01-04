@@ -1,9 +1,14 @@
 {
   "store_id": "14300042",
   "name": "승일유통",
-  "address": "충북 청주시 흥덕구 월명로 42",
+  "address": "충북 청주시 흥덕구 월명로 42 월명로 42",
   "phone": "043-272-6569",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.638322,
+  "longitude": 127.453753,
+  "updated_at": "2026-01-04T15:52:55.817350"
 }

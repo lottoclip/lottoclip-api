@@ -1,9 +1,14 @@
 {
   "store_id": "11110143",
   "name": "축복마트",
-  "address": "서울 중랑구 동일로 616",
+  "address": "서울 중랑구 동일로 616 동일로 616",
   "phone": "02-437-1813",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.58539,
+  "longitude": 127.080064,
+  "updated_at": "2026-01-04T15:53:05.302806"
 }

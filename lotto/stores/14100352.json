@@ -1,9 +1,14 @@
 {
   "store_id": "14100352",
   "name": "준마트",
-  "address": "경기 고양시 덕양구 향기로 136 1층 101호",
+  "address": "경기 고양시 덕양구 향기로 136 향기로 136",
   "phone": "031-972-5078",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.601167,
+  "longitude": 126.895548,
+  "updated_at": "2026-01-04T15:52:17.652678"
 }

@@ -1,9 +1,14 @@
 {
   "store_id": "14100841",
   "name": "송내매표소",
-  "address": "경기 부천시 송내대로 37 104호",
+  "address": "경기 부천시 송내대로 37 송내대로 37",
   "phone": "032-654-3320",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.48689,
+  "longitude": 126.752828,
+  "updated_at": "2026-01-04T15:53:48.141220"
 }

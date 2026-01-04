@@ -1,9 +1,14 @@
 {
   "store_id": "14110561",
   "name": "마두5번출구가판로또",
-  "address": "경기 고양시 일산동구 중앙로 1200",
-  "phone": "",
+  "address": "경기 고양시 일산동구 중앙로 1200 중앙로 1200",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.653871,
+  "longitude": 126.777106,
+  "updated_at": "2026-01-04T15:53:54.083544"
 }

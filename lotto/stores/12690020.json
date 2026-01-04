@@ -2,8 +2,13 @@
   "store_id": "12690020",
   "name": "슈퍼복권나라",
   "address": "부산 부산진구 범천동  845-95",
-  "phone": "",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.165071,
+  "longitude": 129.041241,
+  "updated_at": "2026-01-04T15:51:29.090477"
 }

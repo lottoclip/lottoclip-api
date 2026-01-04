@@ -1,9 +1,14 @@
 {
   "store_id": "14610013",
   "name": "복권천국",
-  "address": "전남 여수시 선소로 62 부영아파트상가4동1-2호",
+  "address": "전남 여수시 선소로 62 선소로 62",
   "phone": "061-685-5844",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 34.757568,
+  "longitude": 127.667567,
+  "updated_at": "2026-01-04T15:53:20.810436"
 }

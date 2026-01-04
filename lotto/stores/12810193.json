@@ -1,9 +1,14 @@
 {
   "store_id": "12810193",
   "name": "로또복권",
-  "address": "인천 서구 중봉대로612번길 10-16 109호(청라동, 마르씨엘)",
+  "address": "인천 서구 파랑로 495 파랑로 495",
   "phone": "070-7737-5128",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.524882,
+  "longitude": 126.65115,
+  "updated_at": "2026-01-04T15:52:19.520002"
 }

@@ -1,9 +1,14 @@
 {
   "store_id": "14100768",
-  "name": "웅진코웨이",
-  "address": "경기 수원시 팔달구 효원로 257 4층(홈플러스 동수원점)",
+  "name": "웅진",
+  "address": "경기 수원시 영통구 효원로 393 효원로 393",
   "phone": "031-231-8095",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.259116,
+  "longitude": 127.044694,
+  "updated_at": "2026-01-04T15:52:57.053827"
 }

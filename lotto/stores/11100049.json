@@ -1,9 +1,13 @@
 {
   "store_id": "11100049",
   "name": "복권나라",
-  "address": "서울 중구 남대문로5가  12-5",
+  "address": "서울 중구 남대문로5가(회현동) 21-1 ",
   "phone": "02-319-5519",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 37.558619,
+  "longitude": 126.974996,
+  "updated_at": "2026-01-04T15:52:34.603579"
 }

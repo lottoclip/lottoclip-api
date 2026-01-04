@@ -1,9 +1,14 @@
 {
   "store_id": "13140116",
   "name": "돼지상회",
-  "address": "울산 북구 매산로 92 1층",
-  "phone": "",
+  "address": "울산 북구 매산로 92 매산로 92",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.640141,
+  "longitude": 129.359196,
+  "updated_at": "2026-01-04T15:53:50.207647"
 }

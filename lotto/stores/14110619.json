@@ -1,9 +1,14 @@
 {
   "store_id": "14110619",
   "name": "태극로또전문점",
-  "address": "경기 이천시 애련정로 124-2",
+  "address": "경기 이천시 애련정로 124-2 애련정로 124-2",
   "phone": "031-631-6906",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.281477,
+  "longitude": 127.450299,
+  "updated_at": "2026-01-04T15:51:30.350954"
 }

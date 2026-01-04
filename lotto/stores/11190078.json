@@ -1,9 +1,14 @@
 {
   "store_id": "11190078",
   "name": "대박나라",
-  "address": "서울 마포구 망원로 86",
+  "address": "서울 마포구 망원로 86 망원로 86",
   "phone": "02-714-0325",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.557459,
+  "longitude": 126.906244,
+  "updated_at": "2026-01-04T15:52:43.271654"
 }

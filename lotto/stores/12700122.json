@@ -1,9 +1,13 @@
 {
   "store_id": "12700122",
   "name": "땡큐마트",
-  "address": "대구 수성구 만촌1동 636-21번지",
+  "address": "대구 수성구 만촌1동 636-21번지 ",
   "phone": "053-742-2533",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 35.872863,
+  "longitude": 128.647192,
+  "updated_at": "2026-01-04T15:52:20.280072"
 }

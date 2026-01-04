@@ -1,9 +1,14 @@
 {
   "store_id": "14410113",
   "name": "대박슈퍼",
-  "address": "세종   행복10길 3 1층 101호",
-  "phone": "",
+  "address": "세종   행복10길 3 행복10길 3",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.603515,
+  "longitude": 127.291206,
+  "updated_at": "2026-01-04T15:53:23.358711"
 }

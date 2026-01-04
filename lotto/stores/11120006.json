@@ -1,9 +1,14 @@
 {
   "store_id": "11120006",
   "name": "행복나눔복권방",
-  "address": "서울 강서구 가양동 155-8번지",
+  "address": "서울 강서구 가양동 155-8번지 ",
   "phone": "02-3664-6473",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.568861,
+  "longitude": 126.841089,
+  "updated_at": "2026-01-04T15:52:21.959599"
 }

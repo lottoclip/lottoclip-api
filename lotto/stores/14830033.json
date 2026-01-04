@@ -1,9 +1,14 @@
 {
   "store_id": "14830033",
   "name": "삼정상회",
-  "address": "경남 김해시 활천로 23 가동 109호 복권판매점",
-  "phone": "",
+  "address": "경남 김해시 활천로 23 활천로 23",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.229937,
+  "longitude": 128.893511,
+  "updated_at": "2026-01-04T15:53:21.004561"
 }

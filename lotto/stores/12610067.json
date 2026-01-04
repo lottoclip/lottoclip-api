@@ -1,9 +1,14 @@
 {
   "store_id": "12610067",
   "name": "로또복권",
-  "address": "부산 남구 신선로 317-1",
+  "address": "부산 남구 신선로 317-1 신선로 317-1",
   "phone": "070-4401-0316",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.114423,
+  "longitude": 129.095231,
+  "updated_at": "2026-01-04T15:52:04.635730"
 }

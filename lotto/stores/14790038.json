@@ -1,9 +1,14 @@
 {
   "store_id": "14790038",
   "name": "환희복권방",
-  "address": "경북 포항시 남구 상공로 243 1층 복권방",
+  "address": "경북 포항시 남구 상공로 243 상공로 243",
   "phone": "054-284-6045",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.023319,
+  "longitude": 129.372229,
+  "updated_at": "2026-01-04T15:52:03.721670"
 }

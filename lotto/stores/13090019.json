@@ -1,9 +1,13 @@
 {
   "store_id": "13090019",
   "name": "복권왕국",
-  "address": "대전 서구 정림동 594번지",
+  "address": "대전 서구 정림동 594번지 ",
   "phone": "042-583-1282",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 36.306315,
+  "longitude": 127.365856,
+  "updated_at": "2026-01-04T15:52:34.717164"
 }

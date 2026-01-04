@@ -1,9 +1,14 @@
 {
   "store_id": "14240095",
   "name": "금강산로또",
-  "address": "강원 양구군 춘양로 2888 1층",
-  "phone": "",
+  "address": "강원 양구군 춘양로 2888 춘양로 2888",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 38.084655,
+  "longitude": 127.995509,
+  "updated_at": "2026-01-04T15:53:26.843328"
 }

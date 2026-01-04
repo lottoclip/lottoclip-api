@@ -2,8 +2,13 @@
   "store_id": "14141828",
   "name": "사랑복권방",
   "address": "경기 시흥시  장현능곡로 155 지하1층 B1055호",
-  "phone": "",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.371052,
+  "longitude": 126.807314,
+  "updated_at": "2026-01-04T15:53:22.775953"
 }

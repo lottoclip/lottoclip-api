@@ -1,9 +1,14 @@
 {
   "store_id": "13000107",
   "name": "타임마트",
-  "address": "대전 서구 동서대로 696 프라임빌딩2차 1층 102호",
+  "address": "대전 서구 동서대로 696 동서대로 696",
   "phone": "042-822-0344",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.331818,
+  "longitude": 127.3402,
+  "updated_at": "2026-01-04T15:53:30.349073"
 }

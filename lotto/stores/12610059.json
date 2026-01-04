@@ -2,8 +2,12 @@
   "store_id": "12610059",
   "name": "대연3호점로또판매",
   "address": "부산 남구 대연4동  1168-14",
-  "phone": "",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 35.123677,
+  "longitude": 129.079903,
+  "updated_at": "2026-01-04T15:51:36.284749"
 }

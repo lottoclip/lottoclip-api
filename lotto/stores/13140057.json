@@ -1,9 +1,14 @@
 {
   "store_id": "13140057",
   "name": "나라복권",
-  "address": "울산 북구 명촌17길 23 8102동115호",
-  "phone": "",
+  "address": "울산 북구 명촌17길 23 명촌17길 23",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.558797,
+  "longitude": 129.354321,
+  "updated_at": "2026-01-04T15:53:05.767271"
 }

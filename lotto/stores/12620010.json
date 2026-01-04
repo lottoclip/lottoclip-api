@@ -1,9 +1,13 @@
 {
   "store_id": "12620010",
   "name": "참좋은마트(복권방)",
-  "address": "부산 영도구 영선동1가 78-1번지",
+  "address": "부산 영도구 영선동1가 78-1번지 ",
   "phone": "051-947-2237",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 35.091348,
+  "longitude": 129.04464,
+  "updated_at": "2026-01-04T15:52:39.738129"
 }

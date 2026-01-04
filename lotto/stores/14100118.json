@@ -1,9 +1,14 @@
 {
   "store_id": "14100118",
   "name": "천하명당복권방",
-  "address": "경기 수원시 팔달구 매산로 2",
+  "address": "경기 수원시 팔달구 매산로 2 매산로 2",
   "phone": "031-246-1266",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.266611,
+  "longitude": 127.001847,
+  "updated_at": "2026-01-04T15:53:53.501596"
 }

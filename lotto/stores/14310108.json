@@ -1,9 +1,13 @@
 {
   "store_id": "14310108",
   "name": "인생역전로또",
-  "address": "충북 청주시 상당구 용암동 1795번지",
+  "address": "충북 청주시 상당구 용암동 1795번지 ",
   "phone": "043-294-5954",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 36.606074,
+  "longitude": 127.505028,
+  "updated_at": "2026-01-04T15:52:17.283654"
 }

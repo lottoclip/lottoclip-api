@@ -1,9 +1,14 @@
 {
   "store_id": "14420009",
   "name": "로또판매점",
-  "address": "충남 당진시 당진중앙1로 129",
+  "address": "충남 당진시 당진중앙1로 129 당진중앙1로 129",
   "phone": "041-352-0329",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.895455,
+  "longitude": 126.630887,
+  "updated_at": "2026-01-04T15:52:37.619956"
 }

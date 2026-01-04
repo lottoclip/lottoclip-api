@@ -1,9 +1,14 @@
 {
   "store_id": "11190036",
   "name": "잉크와복권",
-  "address": "서울 강서구 가로공원로76가길 12",
-  "phone": "02-2695-8825",
+  "address": "서울 강서구 가로공원로76가길 12 가로공원로76가길 12",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.533069,
+  "longitude": 126.839625,
+  "updated_at": "2026-01-04T15:52:30.541643"
 }

@@ -1,9 +1,14 @@
 {
   "store_id": "11130021",
   "name": "행운마트",
-  "address": "서울 구로구 개봉동(개봉제3동) 359-40",
-  "phone": "",
+  "address": "서울 구로구 개봉동(개봉제3동) 359-40 ",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.486472,
+  "longitude": 126.855011,
+  "updated_at": "2026-01-04T15:52:27.571865"
 }

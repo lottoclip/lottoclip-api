@@ -1,9 +1,14 @@
 {
   "store_id": "14410009",
   "name": "로또복권방",
-  "address": "충남 아산시 모산로 121 1층",
+  "address": "충남 아산시  모산로 124 PGA스크린골프연습장내",
   "phone": "041-533-0645",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.774602,
+  "longitude": 127.055876,
+  "updated_at": "2026-01-04T15:53:40.358206"
 }

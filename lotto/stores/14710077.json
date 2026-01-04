@@ -1,9 +1,14 @@
 {
   "store_id": "14710077",
   "name": "로또복권판매",
-  "address": "경북 상주시 삼백로 159",
+  "address": "경북 상주시 삼백로 159 삼백로 159",
   "phone": "054-534-6777",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.418948,
+  "longitude": 128.161133,
+  "updated_at": "2026-01-04T15:53:34.794012"
 }

@@ -1,9 +1,14 @@
 {
   "store_id": "14290002",
   "name": "복권나라",
-  "address": "강원 원주시 평원로 23 1층",
+  "address": "강원 원주시 평원로 23 평원로 23",
   "phone": "033-732-8082",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.348928,
+  "longitude": 127.952646,
+  "updated_at": "2026-01-04T15:53:39.605494"
 }

@@ -1,9 +1,14 @@
 {
   "store_id": "14540157",
   "name": "전국구로또복권방",
-  "address": "전북 전주시 완산구 장승배기로 397 1층",
-  "phone": "",
+  "address": "전북 전주시 완산구 장승배기로 397 장승배기로 397",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.806083,
+  "longitude": 127.152237,
+  "updated_at": "2026-01-04T15:53:45.767555"
 }

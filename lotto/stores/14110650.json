@@ -1,9 +1,14 @@
 {
   "store_id": "14110650",
   "name": "복권방",
-  "address": "경기 수원시 팔달구 권광로 213",
+  "address": "경기 수원시 팔달구 권광로 213 권광로 213",
   "phone": "031-239-0128",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.266621,
+  "longitude": 127.033202,
+  "updated_at": "2026-01-04T15:53:29.682074"
 }

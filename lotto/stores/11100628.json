@@ -1,9 +1,14 @@
 {
   "store_id": "11100628",
   "name": "삼원미니슈퍼",
-  "address": "서울 동작구 상도로 93 1층",
+  "address": "서울 동작구 상도로 93 상도로 93",
   "phone": "02-815-1631",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.500118,
+  "longitude": 126.930783,
+  "updated_at": "2026-01-04T15:53:44.561669"
 }

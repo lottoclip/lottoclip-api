@@ -1,9 +1,14 @@
 {
   "store_id": "14130187",
   "name": "동탄 반송 복권방",
-  "address": "경기 화성시 동탄반송3길 68 103호",
+  "address": "경기 화성시 동탄반송3길 68 동탄반송3길 68",
   "phone": "031-613-1489",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.210547,
+  "longitude": 127.06815,
+  "updated_at": "2026-01-04T15:52:46.292389"
 }

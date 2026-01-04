@@ -1,9 +1,14 @@
 {
   "store_id": "11140641",
   "name": "로또복권판매점",
-  "address": "서울 양천구 남부순환로79길 11 1층 103호",
-  "phone": "",
+  "address": "서울 양천구 남부순환로79길 11 남부순환로79길 11",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.516993,
+  "longitude": 126.841109,
+  "updated_at": "2026-01-04T15:53:45.581503"
 }

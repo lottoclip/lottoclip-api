@@ -1,9 +1,14 @@
 {
   "store_id": "12840049",
   "name": "가온공인중개사무소",
-  "address": "인천 강화군 중앙로 27 104호",
+  "address": "인천 강화군 중앙로 27 중앙로 27",
   "phone": "032-934-0370",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.74064,
+  "longitude": 126.49073,
+  "updated_at": "2026-01-04T15:53:10.437141"
 }

@@ -1,9 +1,14 @@
 {
   "store_id": "14840373",
   "name": "창원로또명당",
-  "address": "경남 창원시 성산구 용지로113번길 8",
-  "phone": "",
+  "address": "경남 창원시 성산구 용지로113번길 8 용지로113번길 8",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.226367,
+  "longitude": 128.678266,
+  "updated_at": "2026-01-04T15:53:52.917166"
 }

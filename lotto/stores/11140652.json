@@ -1,9 +1,14 @@
 {
   "store_id": "11140652",
   "name": "예지행복",
-  "address": "서울 양천구 월정로 59 가동 101호",
-  "phone": "",
+  "address": "서울 양천구 월정로 59 월정로 59",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.524852,
+  "longitude": 126.841315,
+  "updated_at": "2026-01-04T15:53:46.836941"
 }

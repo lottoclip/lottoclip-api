@@ -1,9 +1,14 @@
 {
   "store_id": "12600111",
   "name": "오렌지마트",
-  "address": "부산 사하구 장림번영로 96 105동 101호",
+  "address": "부산 사하구 장림번영로 96 장림번영로 96",
   "phone": "051-264-0277",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.080119,
+  "longitude": 128.975735,
+  "updated_at": "2026-01-04T15:52:05.486960"
 }

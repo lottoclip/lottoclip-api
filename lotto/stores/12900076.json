@@ -1,9 +1,14 @@
 {
   "store_id": "12900076",
   "name": "백송마트",
-  "address": "광주 광산구 월계로 110 104호",
+  "address": "광주 광산구 월계로 110 월계로 110",
   "phone": "062-972-7766",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.21345,
+  "longitude": 126.837435,
+  "updated_at": "2026-01-04T15:53:33.492029"
 }

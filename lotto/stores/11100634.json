@@ -1,9 +1,14 @@
 {
   "store_id": "11100634",
   "name": "한냉매점",
-  "address": "서울 동작구 노들로 674 2층 10호",
+  "address": "서울 동작구 노들로 674 노들로 674",
   "phone": "02-2254-8550",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.514609,
+  "longitude": 126.936813,
+  "updated_at": "2026-01-04T15:51:35.663324"
 }

@@ -1,9 +1,14 @@
 {
   "store_id": "11100756",
   "name": "피터팬",
-  "address": "서울 은평구 은평로 193",
+  "address": "서울 은평구 은평로 193 은평로 193",
   "phone": "02-387-6478",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.601766,
+  "longitude": 126.929117,
+  "updated_at": "2026-01-04T15:53:32.666273"
 }

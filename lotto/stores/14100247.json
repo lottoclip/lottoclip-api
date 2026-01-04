@@ -1,9 +1,14 @@
 {
   "store_id": "14100247",
   "name": "명당일세",
-  "address": "경기 평택시 평택로 80",
+  "address": "경기 평택시 평택로 80 평택로 80",
   "phone": "031-655-2979",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.994066,
+  "longitude": 127.084864,
+  "updated_at": "2026-01-04T15:52:59.913613"
 }

@@ -1,9 +1,14 @@
 {
   "store_id": "14141701",
   "name": "광민 노다지 복권방",
-  "address": "경기 광명시 하안로287번길 9 제1층 7호(하안동, 대하빌딩)",
-  "phone": "",
+  "address": "경기 광명시 하안로287번길 9 하안로287번길 9",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.460874,
+  "longitude": 126.87975,
+  "updated_at": "2026-01-04T15:53:42.472029"
 }

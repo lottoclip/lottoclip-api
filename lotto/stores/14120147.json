@@ -1,9 +1,14 @@
 {
   "store_id": "14120147",
   "name": "광장복권판매점",
-  "address": "경기 화성시 동탄중심상가2길 37 106호",
+  "address": "경기 화성시 동탄중심상가2길 37 동탄중심상가2길 37",
   "phone": "031-374-0066",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.206591,
+  "longitude": 127.074234,
+  "updated_at": "2026-01-04T15:52:27.738238"
 }

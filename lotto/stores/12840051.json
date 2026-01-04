@@ -1,9 +1,14 @@
 {
   "store_id": "12840051",
   "name": "노다지복권",
-  "address": "인천 계양구 장제로 916 1층, 일부호",
-  "phone": "",
+  "address": "인천 계양구 장제로 916 장제로 916",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.548107,
+  "longitude": 126.741567,
+  "updated_at": "2026-01-04T15:53:03.835145"
 }

@@ -1,9 +1,14 @@
 {
   "store_id": "14100329",
   "name": "대박",
-  "address": "경기 고양시 덕양구 권율대로 892 101호",
-  "phone": "",
+  "address": "경기 고양시 덕양구 권율대로 892 권율대로 892",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.663201,
+  "longitude": 126.890136,
+  "updated_at": "2026-01-04T15:52:56.552719"
 }

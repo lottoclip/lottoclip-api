@@ -1,9 +1,14 @@
 {
   "store_id": "13000073",
   "name": "대전하이퍼",
-  "address": "대전 중구 보문산로 76",
+  "address": "대전 중구 보문산로 76 보문산로 76",
   "phone": "042-585-4817",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.305204,
+  "longitude": 127.388824,
+  "updated_at": "2026-01-04T15:53:45.133663"
 }

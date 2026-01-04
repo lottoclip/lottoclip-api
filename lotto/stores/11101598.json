@@ -1,9 +1,13 @@
 {
   "store_id": "11101598",
   "name": "천하명당복권방",
-  "address": "서울 성북구 정릉로 268",
+  "address": "서울 성북구 정릉로 268 정릉로 268",
   "phone": "02-914-1708",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720"
+  ],
+  "latitude": 37.603365,
+  "longitude": 127.012938,
+  "updated_at": "2026-01-04T15:53:39.745009"
 }

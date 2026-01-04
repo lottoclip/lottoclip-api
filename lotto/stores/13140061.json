@@ -1,9 +1,14 @@
 {
   "store_id": "13140061",
   "name": "황금열쇠복권방",
-  "address": "울산 북구 신기15길 2",
-  "phone": "",
+  "address": "울산 북구 신기15길 2 신기15길 2",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.645831,
+  "longitude": 129.354846,
+  "updated_at": "2026-01-04T15:53:54.461810"
 }

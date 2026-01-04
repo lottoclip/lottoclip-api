@@ -1,9 +1,14 @@
 {
   "store_id": "11140426",
   "name": "운좋은날",
-  "address": "서울 강동구 풍성로 187 102호",
-  "phone": "",
+  "address": "서울 강동구 풍성로 187 풍성로 187",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.53006,
+  "longitude": 127.132873,
+  "updated_at": "2026-01-04T15:53:53.851522"
 }

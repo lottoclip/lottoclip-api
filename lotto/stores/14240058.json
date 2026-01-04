@@ -1,9 +1,14 @@
 {
   "store_id": "14240058",
   "name": "로또수현점",
-  "address": "강원 원주시 강변로 315 1층",
-  "phone": "",
+  "address": "강원 원주시 강변로 315 강변로 315",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.335837,
+  "longitude": 127.961796,
+  "updated_at": "2026-01-04T15:53:55.308712"
 }

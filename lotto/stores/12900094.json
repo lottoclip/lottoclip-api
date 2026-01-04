@@ -1,9 +1,14 @@
 {
   "store_id": "12900094",
   "name": "역전복권방",
-  "address": "광주 광산구 상무대로 208 1층",
+  "address": "광주 광산구 상무대로 208 상무대로 208",
   "phone": "062-941-9737",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.137742,
+  "longitude": 126.79203,
+  "updated_at": "2026-01-04T15:53:52.015471"
 }

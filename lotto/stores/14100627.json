@@ -1,9 +1,14 @@
 {
   "store_id": "14100627",
   "name": "영통매표소",
-  "address": "경기 수원시 영통구 청명북로 61 청명역3번출구 매표소",
+  "address": "경기 수원시 영통구 청명북로 61 청명북로 61",
   "phone": "031-202-3010",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.257995,
+  "longitude": 127.079382,
+  "updated_at": "2026-01-04T15:51:41.992700"
 }

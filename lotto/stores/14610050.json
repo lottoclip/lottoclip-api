@@ -1,9 +1,14 @@
 {
   "store_id": "14610050",
   "name": "새론마트내로또복권",
-  "address": "전남 순천시 북문5길 5 새론마트",
+  "address": "전남 순천시 북문5길 5 북문5길 5",
   "phone": "061-755-6469",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 34.961627,
+  "longitude": 127.48701,
+  "updated_at": "2026-01-04T15:53:13.102606"
 }

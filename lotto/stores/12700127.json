@@ -1,9 +1,14 @@
 {
   "store_id": "12700127",
   "name": "코사마트금강점",
-  "address": "대구 달서구 용산로 204 1층 코사마트",
+  "address": "대구 달서구 용산로 204 용산로 204",
   "phone": "053-565-8367",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.855707,
+  "longitude": 128.530795,
+  "updated_at": "2026-01-04T15:53:40.617432"
 }

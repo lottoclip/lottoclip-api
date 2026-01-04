@@ -1,9 +1,13 @@
 {
   "store_id": "14700028",
   "name": "그랜드로또",
-  "address": "경북 구미시  비산로5길 23",
+  "address": "경북 구미시  비산로5길 23 ",
   "phone": "054-463-0081",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 36.121512,
+  "longitude": 128.379774,
+  "updated_at": "2026-01-04T15:53:00.660463"
 }

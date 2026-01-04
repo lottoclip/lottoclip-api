@@ -1,9 +1,14 @@
 {
   "store_id": "14410074",
   "name": "영약국",
-  "address": "충남 금산군 인삼로 104",
+  "address": "충남 금산군 인삼로 104 인삼로 104",
   "phone": "041-752-1463",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.10224,
+  "longitude": 127.493086,
+  "updated_at": "2026-01-04T15:53:55.309737"
 }

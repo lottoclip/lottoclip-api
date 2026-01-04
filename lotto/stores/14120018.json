@@ -1,9 +1,14 @@
 {
   "store_id": "14120018",
   "name": "100억로또점",
-  "address": "경기 김포시 김포대로 1610 나동 6호",
+  "address": "경기 김포시 김포대로 1610 김포대로 1610",
   "phone": "031-988-2368",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.663147,
+  "longitude": 126.658934,
+  "updated_at": "2026-01-04T15:53:54.875830"
 }

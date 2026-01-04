@@ -1,9 +1,13 @@
 {
   "store_id": "12700305",
   "name": "공항게임방",
-  "address": "대구 동구 지저동 669-41번지",
+  "address": "대구 동구 지저동 669-41번지 ",
   "phone": "053-985-5155",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 35.896888,
+  "longitude": 128.637631,
+  "updated_at": "2026-01-04T15:52:40.988216"
 }

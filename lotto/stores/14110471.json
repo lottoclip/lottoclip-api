@@ -1,9 +1,14 @@
 {
   "store_id": "14110471",
   "name": "복권방",
-  "address": "경기 평택시 평택항로 1-6 1층 개그스토리편의점",
+  "address": "경기 평택시 평택항로 1-6 평택항로 1-6",
   "phone": "070-8861-3698",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.961808,
+  "longitude": 126.853733,
+  "updated_at": "2026-01-04T15:51:44.915902"
 }

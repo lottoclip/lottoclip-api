@@ -1,9 +1,14 @@
 {
   "store_id": "14110332",
   "name": "파란만장복권방",
-  "address": "경기 화성시 진안동  878-4번지 101호",
+  "address": "경기 화성시 진안동 878-4 101호",
   "phone": "031-224-1696",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.21241,
+  "longitude": 127.038823,
+  "updated_at": "2026-01-04T15:52:39.389148"
 }

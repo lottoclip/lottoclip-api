@@ -1,9 +1,14 @@
 {
   "store_id": "11190125",
   "name": "노다지복권방",
-  "address": "서울 중구 다산로44길 15",
+  "address": "서울 중구 다산로44길 15 다산로44길 15",
   "phone": "02-2233-6331",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.565046,
+  "longitude": 127.017759,
+  "updated_at": "2026-01-04T15:52:57.875347"
 }

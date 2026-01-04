@@ -1,9 +1,14 @@
 {
   "store_id": "14990004",
   "name": "제일복권",
-  "address": "제주 제주시 서광로 257",
+  "address": "제주 제주시 서광로 257 서광로 257",
   "phone": "064-758-9311",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 33.500101,
+  "longitude": 126.524055,
+  "updated_at": "2026-01-04T15:53:46.915102"
 }

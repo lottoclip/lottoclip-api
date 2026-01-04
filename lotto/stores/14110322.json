@@ -1,9 +1,14 @@
 {
   "store_id": "14110322",
   "name": "잘찍어로또방",
-  "address": "경기 평택시 안현로서5길 64",
+  "address": "경기 평택시 안현로서5길 64 안현로서5길 64",
   "phone": "031-683-0708",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.988481,
+  "longitude": 126.927991,
+  "updated_at": "2026-01-04T15:53:33.884804"
 }

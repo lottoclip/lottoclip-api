@@ -1,9 +1,14 @@
 {
   "store_id": "12740205",
   "name": "꿈하나",
-  "address": "대구 서구 팔달로 142 1층 복권방",
-  "phone": "",
+  "address": "대구 서구 팔달로 142 팔달로 142",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.889157,
+  "longitude": 128.565829,
+  "updated_at": "2026-01-04T15:53:49.042004"
 }

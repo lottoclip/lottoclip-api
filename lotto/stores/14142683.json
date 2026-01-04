@@ -1,9 +1,14 @@
 {
   "store_id": "14142683",
   "name": "오늘의로또",
-  "address": "경기 오산시 궐리사로 75",
-  "phone": "",
+  "address": "경기 오산시 궐리사로 75 궐리사로 75",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.15869,
+  "longitude": 127.060625,
+  "updated_at": "2026-01-04T15:53:45.403754"
 }

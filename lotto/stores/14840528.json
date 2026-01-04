@@ -1,9 +1,14 @@
 {
   "store_id": "14840528",
   "name": "씨스페이스 어방점",
-  "address": "경남 김해시 인제로170번길 15-6 편의점 내",
-  "phone": "",
+  "address": "경남 김해시 인제로170번길 15-6 인제로170번길 15-6",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.244052,
+  "longitude": 128.905816,
+  "updated_at": "2026-01-04T15:53:56.026711"
 }

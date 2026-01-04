@@ -2,8 +2,12 @@
   "store_id": "14140373",
   "name": "새로나마트",
   "address": "경기 부천시 심곡동 437-1 새로나마트",
-  "phone": "",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 37.492664,
+  "longitude": 126.780936,
+  "updated_at": "2026-01-04T15:52:58.575613"
 }

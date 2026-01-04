@@ -1,9 +1,13 @@
 {
   "store_id": "14310005",
   "name": "돼지복권",
-  "address": "충북 청주시 흥덕구 사직동 236-17 청주대교 앞",
-  "phone": "",
+  "address": "충북 청주시 흥덕구 사직동 236-17번지청주대교 앞",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 36.636571,
+  "longitude": 127.482654,
+  "updated_at": "2026-01-04T15:52:01.604444"
 }

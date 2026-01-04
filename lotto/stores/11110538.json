@@ -1,9 +1,13 @@
 {
   "store_id": "11110538",
   "name": "로또",
-  "address": "서울 중구 신당동  133-14",
+  "address": "서울 중구  퇴계로86길 42 ",
   "phone": "02-2233-3885",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 37.56378,
+  "longitude": 127.019404,
+  "updated_at": "2026-01-04T15:53:11.832134"
 }

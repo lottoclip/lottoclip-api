@@ -1,9 +1,14 @@
 {
   "store_id": "11110549",
   "name": "몽유호가(夢有好家)",
-  "address": "서울 강동구 올림픽로 552 1층5호",
+  "address": "서울 강동구 올림픽로 552 올림픽로 552",
   "phone": "02-476-1007",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.530837,
+  "longitude": 127.121028,
+  "updated_at": "2026-01-04T15:53:30.510608"
 }

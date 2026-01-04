@@ -1,9 +1,14 @@
 {
   "store_id": "14141827",
   "name": "로또명당카페",
-  "address": "경기 시흥시 거북섬2길 21 1층 103호",
-  "phone": "",
+  "address": "경기 시흥시 거북섬2길 21 거북섬2길 21",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.326875,
+  "longitude": 126.677055,
+  "updated_at": "2026-01-04T15:53:48.433432"
 }

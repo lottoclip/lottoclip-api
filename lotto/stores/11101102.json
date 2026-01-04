@@ -1,9 +1,14 @@
 {
   "store_id": "11101102",
   "name": "가로매점",
-  "address": "서울 마포구 마포대로 61-1",
+  "address": "서울 마포구 마포대로 61-1 마포대로 61-1",
   "phone": "02-714-7863",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.541647,
+  "longitude": 126.948014,
+  "updated_at": "2026-01-04T15:52:57.657044"
 }

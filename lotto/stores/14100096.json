@@ -1,9 +1,14 @@
 {
   "store_id": "14100096",
   "name": "공단슈퍼",
-  "address": "경기 평택시 산단로52번길 3",
+  "address": "경기 평택시 산단로52번길 3 산단로52번길 3",
   "phone": "031-665-4406",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.036741,
+  "longitude": 127.076041,
+  "updated_at": "2026-01-04T15:52:12.240967"
 }

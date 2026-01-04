@@ -1,9 +1,14 @@
 {
   "store_id": "14840319",
   "name": "무지개로또복권",
-  "address": "경남 양산시 덕계2길 17 좌측 복권판매점",
-  "phone": "",
+  "address": "경남 양산시 덕계2길 17 덕계2길 17",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.37062,
+  "longitude": 129.14658,
+  "updated_at": "2026-01-04T15:53:47.632029"
 }

@@ -1,9 +1,14 @@
 {
   "store_id": "12840117",
   "name": "탑로또",
-  "address": "인천 남동구 서창남로 81 1층 105호",
-  "phone": "",
+  "address": "인천 남동구 서창남로 81 서창남로 81",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.426415,
+  "longitude": 126.748024,
+  "updated_at": "2026-01-04T15:53:39.573386"
 }

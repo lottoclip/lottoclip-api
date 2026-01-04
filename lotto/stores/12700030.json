@@ -1,9 +1,14 @@
 {
   "store_id": "12700030",
   "name": "복권천국",
-  "address": "대구 중구 달구벌대로 2206",
+  "address": "대구 중구 달구벌대로 2206 달구벌대로 2206",
   "phone": "053-423-8497",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.862551,
+  "longitude": 128.604388,
+  "updated_at": "2026-01-04T15:52:59.239668"
 }

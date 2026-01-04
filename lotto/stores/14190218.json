@@ -1,9 +1,14 @@
 {
   "store_id": "14190218",
   "name": "서울문구팬시",
-  "address": "경기 안산시 상록구 부곡로 21 301호",
+  "address": "경기 안산시 상록구 부곡로 21 부곡로 21",
   "phone": "031-417-7816",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.324386,
+  "longitude": 126.859394,
+  "updated_at": "2026-01-04T15:51:38.873481"
 }

@@ -1,9 +1,14 @@
 {
   "store_id": "14190187",
   "name": "행운복권방",
-  "address": "경기 김포시 서암로 139 101호",
-  "phone": "",
+  "address": "경기 김포시 서암로 139 서암로 139",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.697229,
+  "longitude": 126.601538,
+  "updated_at": "2026-01-04T15:52:36.595056"
 }

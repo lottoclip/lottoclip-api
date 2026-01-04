@@ -1,9 +1,14 @@
 {
   "store_id": "12890039",
   "name": "노다지복권방",
-  "address": "인천 연수구 앵고개로 256",
+  "address": "인천 연수구 앵고개로 256 앵고개로 256",
   "phone": "032-819-6338",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.407825,
+  "longitude": 126.672021,
+  "updated_at": "2026-01-04T15:53:14.199069"
 }

@@ -2,8 +2,12 @@
   "store_id": "14130100",
   "name": "대박로또점",
   "address": "경기 구리시 갈매동 604-2 1층 세븐일레븐",
-  "phone": "",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 37.632302,
+  "longitude": 127.117384,
+  "updated_at": "2026-01-04T15:52:46.284963"
 }

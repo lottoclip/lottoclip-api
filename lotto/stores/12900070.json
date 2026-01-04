@@ -1,9 +1,14 @@
 {
   "store_id": "12900070",
   "name": "동양마트일곡점",
-  "address": "광주 북구 일곡마을로 55 현대아파트 2차상가 102-2호",
+  "address": "광주 북구 일곡마을로 55 일곡마을로 55",
   "phone": "062-573-8849",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.20459,
+  "longitude": 126.895258,
+  "updated_at": "2026-01-04T15:53:20.684314"
 }

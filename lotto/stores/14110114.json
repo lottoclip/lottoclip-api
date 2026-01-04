@@ -1,9 +1,14 @@
 {
   "store_id": "14110114",
   "name": "희망을주는사람",
-  "address": "경기 용인시 처인구 양지로 111 1층 상가",
+  "address": "경기 용인시 처인구 양지로 111 양지로 111",
   "phone": "031-338-5933",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.23453,
+  "longitude": 127.28051,
+  "updated_at": "2026-01-04T15:53:50.443853"
 }

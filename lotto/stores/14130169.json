@@ -1,9 +1,14 @@
 {
   "store_id": "14130169",
   "name": "지우시스템",
-  "address": "경기 안성시 덕봉서원로 43 1층",
+  "address": "경기 안성시 덕봉서원로 43 덕봉서원로 43",
   "phone": "031-656-1215",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.007586,
+  "longitude": 127.169856,
+  "updated_at": "2026-01-04T15:53:26.033434"
 }

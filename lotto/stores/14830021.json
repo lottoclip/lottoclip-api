@@ -1,9 +1,14 @@
 {
   "store_id": "14830021",
-  "name": "e마트24(진양호점)",
-  "address": "경남 진주시 남강로 58 1층",
-  "phone": "",
+  "name": "진양호",
+  "address": "경남 진주시 남강로 58 남강로 58",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.162824,
+  "longitude": 128.039569,
+  "updated_at": "2026-01-04T15:53:22.448988"
 }

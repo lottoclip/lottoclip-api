@@ -1,9 +1,14 @@
 {
   "store_id": "14140154",
   "name": "배곧로또판매점",
-  "address": "경기 시흥시 은계번영길 7 112호",
-  "phone": "",
+  "address": "경기 시흥시 은계번영길 7 은계번영길 7",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.437098,
+  "longitude": 126.80162,
+  "updated_at": "2026-01-04T15:52:57.697085"
 }

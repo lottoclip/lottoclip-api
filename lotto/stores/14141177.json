@@ -1,9 +1,14 @@
 {
   "store_id": "14141177",
   "name": "영앤로또",
-  "address": "경기 남양주시 다산중앙로123번길 47 메트로3단지 상기 106호",
-  "phone": "",
+  "address": "경기 남양주시 다산중앙로123번길 47 다산중앙로123번길 47",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.622903,
+  "longitude": 127.147575,
+  "updated_at": "2026-01-04T15:53:56.300984"
 }

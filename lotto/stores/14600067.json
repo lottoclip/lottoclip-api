@@ -1,9 +1,14 @@
 {
   "store_id": "14600067",
   "name": "도소매복권방",
-  "address": "전남 광양시 광영로 146",
+  "address": "전남 광양시 광영로 146 광영로 146",
   "phone": "061-793-5111",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 34.965643,
+  "longitude": 127.717042,
+  "updated_at": "2026-01-04T15:52:43.698445"
 }

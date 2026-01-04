@@ -1,9 +1,14 @@
 {
   "store_id": "14790016",
   "name": "행운복권",
-  "address": "경북 구미시 야은로 763",
+  "address": "경북 구미시 야은로 763 야은로 763",
   "phone": "054-608-7360",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.123885,
+  "longitude": 128.362649,
+  "updated_at": "2026-01-04T15:53:40.439633"
 }

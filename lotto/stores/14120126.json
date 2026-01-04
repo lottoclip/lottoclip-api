@@ -2,8 +2,12 @@
   "store_id": "14120126",
   "name": "행운복권방",
   "address": "경기 평택시 청북면 후사리 271-5 자연휴게소 내",
-  "phone": "",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 37.029662,
+  "longitude": 126.94141,
+  "updated_at": "2026-01-04T15:52:33.628323"
 }

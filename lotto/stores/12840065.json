@@ -1,9 +1,14 @@
 {
   "store_id": "12840065",
   "name": "천운 복권방",
-  "address": "인천 미추홀구 매소홀로 468",
-  "phone": "",
+  "address": "인천 미추홀구 문학길 4 문학길 4",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.438545,
+  "longitude": 126.68107,
+  "updated_at": "2026-01-04T15:53:00.976673"
 }

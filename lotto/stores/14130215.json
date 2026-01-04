@@ -1,9 +1,13 @@
 {
   "store_id": "14130215",
   "name": "중고폰브라더스(로또토토)",
-  "address": "경기 양주시 고읍남로191번길 84",
-  "phone": "",
+  "address": "경기 양주시 고읍남로191번길 84 고읍남로191번길 84",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 37.791547,
+  "longitude": 127.079763,
+  "updated_at": "2026-01-04T15:53:38.167453"
 }

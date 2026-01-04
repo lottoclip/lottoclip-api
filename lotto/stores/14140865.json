@@ -1,9 +1,14 @@
 {
   "store_id": "14140865",
   "name": "동행복권",
-  "address": "경기 양주시 독바위로 79-13 c동 10호",
-  "phone": "",
+  "address": "경기 양주시 독바위로 79-13 독바위로 79-13",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.835078,
+  "longitude": 127.065129,
+  "updated_at": "2026-01-04T15:53:22.782216"
 }

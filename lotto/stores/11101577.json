@@ -1,9 +1,14 @@
 {
   "store_id": "11101577",
   "name": "행운복권방",
-  "address": "서울 관악구 난곡로 172",
+  "address": "서울 관악구 난곡로 172 난곡로 172",
   "phone": "02-859-4158",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.470459,
+  "longitude": 126.920091,
+  "updated_at": "2026-01-04T15:51:56.708396"
 }

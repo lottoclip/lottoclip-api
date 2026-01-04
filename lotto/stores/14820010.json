@@ -1,9 +1,14 @@
 {
   "store_id": "14820010",
   "name": "대풍로또판매점",
-  "address": "경남 김해시 번화2로 36",
+  "address": "경남 김해시 번화2로 36 번화2로 36",
   "phone": "055-337-4380",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.192285,
+  "longitude": 128.805245,
+  "updated_at": "2026-01-04T15:53:53.083604"
 }

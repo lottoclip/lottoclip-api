@@ -1,9 +1,14 @@
 {
   "store_id": "14100380",
   "name": "로또복권판매점",
-  "address": "경기 안산시 상록구 구룡로 14",
+  "address": "경기 안산시 상록구 구룡로 14 구룡로 14",
   "phone": "031-406-2244",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.311578,
+  "longitude": 126.867434,
+  "updated_at": "2026-01-04T15:52:46.871806"
 }

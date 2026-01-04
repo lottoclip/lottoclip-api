@@ -1,9 +1,14 @@
 {
   "store_id": "12700103",
   "name": "복권명당",
-  "address": "대구 동구 효신로 23",
+  "address": "대구 동구 효신로 16 효신로 16",
   "phone": "053-744-4656",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.873599,
+  "longitude": 128.634863,
+  "updated_at": "2026-01-04T15:51:54.134425"
 }

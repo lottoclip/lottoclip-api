@@ -1,9 +1,14 @@
 {
   "store_id": "14100730",
   "name": "바른 행정사 . 공인중개사 사무소",
-  "address": "경기 고양시 일산서구 현중로 32",
+  "address": "경기 고양시 일산서구 현중로 32 현중로 32",
   "phone": "031-918-7179",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.693536,
+  "longitude": 126.768028,
+  "updated_at": "2026-01-04T15:52:29.700430"
 }

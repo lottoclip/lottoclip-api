@@ -1,9 +1,14 @@
 {
   "store_id": "14110117",
   "name": "로또복권방",
-  "address": "경기 용인시 처인구 백옥대로 1153",
+  "address": "경기 용인시 처인구 백옥대로 1153 백옥대로 1153",
   "phone": "031-323-1385",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.238652,
+  "longitude": 127.208588,
+  "updated_at": "2026-01-04T15:52:08.247357"
 }

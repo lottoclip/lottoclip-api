@@ -1,9 +1,14 @@
 {
   "store_id": "13100080",
   "name": "로또25시",
-  "address": "울산 남구 수암로288번길 1 1층",
+  "address": "울산 남구 수암로288번길 1 수암로288번길 1",
   "phone": "052-274-2892",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.521146,
+  "longitude": 129.336028,
+  "updated_at": "2026-01-04T15:53:54.075757"
 }

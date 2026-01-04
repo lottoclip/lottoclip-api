@@ -1,9 +1,14 @@
 {
   "store_id": "14410020",
   "name": "푸른로또",
-  "address": "충남 당진시 무수동로 129 여울빌딩103호",
+  "address": "충남 당진시 읍내동 1224 여울빌딩103호",
   "phone": "070-8222-9872",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.891132,
+  "longitude": 126.636812,
+  "updated_at": "2026-01-04T15:52:51.252736"
 }

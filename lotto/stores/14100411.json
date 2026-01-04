@@ -1,9 +1,14 @@
 {
   "store_id": "14100411",
-  "name": "풍전수퍼",
-  "address": "경기 부천시 조마루로 428",
+  "name": "풍전슈퍼",
+  "address": "경기 부천시 조마루로 428 조마루로 428",
   "phone": "032-664-8909",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.497082,
+  "longitude": 126.791133,
+  "updated_at": "2026-01-04T15:53:45.146207"
 }

@@ -1,9 +1,14 @@
 {
   "store_id": "14100422",
   "name": "도담복권",
-  "address": "경기 부천시 역곡로 451 1층",
+  "address": "경기 부천시 역곡로 451 역곡로 451",
   "phone": "032-675-9695",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.524966,
+  "longitude": 126.815489,
+  "updated_at": "2026-01-04T15:53:39.879035"
 }

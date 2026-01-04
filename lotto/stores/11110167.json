@@ -1,9 +1,13 @@
 {
   "store_id": "11110167",
   "name": "대박복권방",
-  "address": "서울 강남구 역삼동 761-2번지",
+  "address": "서울 강남구 역삼동 761-2번지 ",
   "phone": "02-558-4262",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 37.496935,
+  "longitude": 127.046349,
+  "updated_at": "2026-01-04T15:52:39.477386"
 }

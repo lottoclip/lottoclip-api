@@ -1,9 +1,14 @@
 {
   "store_id": "12640292",
   "name": "서면로또",
-  "address": "부산 부산진구 동천로 70 서면쌍용플래티넘110호",
-  "phone": "",
+  "address": "부산 부산진구 동천로 70 동천로 70",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.154973,
+  "longitude": 129.062719,
+  "updated_at": "2026-01-04T15:53:13.508650"
 }

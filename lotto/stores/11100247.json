@@ -1,9 +1,14 @@
 {
   "store_id": "11100247",
   "name": "천하명당복권방독산점",
-  "address": "서울 금천구 독산로85길 16",
+  "address": "서울 금천구 독산로85길 16 독산로85길 16",
   "phone": "02-863-8121",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.472535,
+  "longitude": 126.902207,
+  "updated_at": "2026-01-04T15:53:09.135853"
 }

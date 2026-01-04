@@ -1,9 +1,14 @@
 {
   "store_id": "12700107",
   "name": "복권명당",
-  "address": "대구 북구 복현로 32-1",
+  "address": "대구 북구 복현로 32-1 복현로 32-1",
   "phone": "053-354-0645",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.899063,
+  "longitude": 128.580386,
+  "updated_at": "2026-01-04T15:52:26.574686"
 }

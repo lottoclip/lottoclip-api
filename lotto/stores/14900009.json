@@ -1,9 +1,14 @@
 {
   "store_id": "14900009",
-  "name": "로또복권",
-  "address": "제주 제주시 과원북2길 48",
+  "name": "제주대림점",
+  "address": "제주 제주시 과원북2길 48 과원북2길 48",
   "phone": "064-746-5525",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 33.478713,
+  "longitude": 126.487658,
+  "updated_at": "2026-01-04T15:53:37.955551"
 }

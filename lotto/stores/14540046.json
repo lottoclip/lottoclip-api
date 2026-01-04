@@ -1,9 +1,14 @@
 {
   "store_id": "14540046",
   "name": "좋은날 복권방",
-  "address": "전북 남원시 의총로 78",
-  "phone": "",
+  "address": "전북 남원시 의총로 78 의총로 78",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.407716,
+  "longitude": 127.376661,
+  "updated_at": "2026-01-04T15:53:29.293826"
 }

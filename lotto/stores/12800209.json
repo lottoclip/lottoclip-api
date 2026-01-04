@@ -1,9 +1,14 @@
 {
   "store_id": "12800209",
   "name": "행복드림",
-  "address": "인천 계양구 장제로 879",
+  "address": "인천 계양구 장제로 879 장제로 879",
   "phone": "032-544-5900",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.545468,
+  "longitude": 126.738775,
+  "updated_at": "2026-01-04T15:53:25.980940"
 }

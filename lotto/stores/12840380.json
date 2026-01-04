@@ -1,9 +1,14 @@
 {
   "store_id": "12840380",
   "name": "복덩이 로또",
-  "address": "인천 연수구 함박뫼로12번길 1 102호",
-  "phone": "",
+  "address": "인천 연수구 함박뫼로12번길 1 함박뫼로12번길 1",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.418626,
+  "longitude": 126.671547,
+  "updated_at": "2026-01-04T15:53:54.874754"
 }

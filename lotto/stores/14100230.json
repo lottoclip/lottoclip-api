@@ -1,9 +1,14 @@
 {
   "store_id": "14100230",
   "name": "씨지랜드",
-  "address": "경기 부천시 송내대로73번길 11 금강리빙스텔111",
+  "address": "경기 부천시 송내대로73번길 11 송내대로73번길 11",
   "phone": "032-325-5151",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.490101,
+  "longitude": 126.753391,
+  "updated_at": "2026-01-04T15:53:26.449042"
 }

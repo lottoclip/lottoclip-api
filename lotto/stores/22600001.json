@@ -1,9 +1,13 @@
 {
   "store_id": "22600001",
   "name": "씨스페이스(덕천점)",
-  "address": "부산 북구 덕천동 379-27번지",
+  "address": "부산 북구 덕천동 379-27번지 ",
   "phone": "051-343-2492",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 35.212279,
+  "longitude": 129.013138,
+  "updated_at": "2026-01-04T15:52:41.684789"
 }

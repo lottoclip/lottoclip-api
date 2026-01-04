@@ -1,9 +1,14 @@
 {
   "store_id": "14110476",
   "name": "창미슈퍼",
-  "address": "경기 화성시 남양성지로 155",
-  "phone": "031-355-9933",
+  "address": "경기 화성시 서해로 434 서해로 434",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.101019,
+  "longitude": 126.902091,
+  "updated_at": "2026-01-04T15:53:00.838031"
 }

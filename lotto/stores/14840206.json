@@ -1,9 +1,14 @@
 {
   "store_id": "14840206",
   "name": "로하",
-  "address": "경남 창원시 의창구 소계로84번길 13-1",
-  "phone": "",
+  "address": "경남 창원시 의창구 소계로84번길 13-1 소계로84번길 13-1",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.257716,
+  "longitude": 128.600576,
+  "updated_at": "2026-01-04T15:53:44.908546"
 }

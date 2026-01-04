@@ -1,9 +1,14 @@
 {
   "store_id": "13240003",
   "name": "세종청사로또",
-  "address": "세종   절재로 194 중앙타운 114호",
+  "address": "세종   절재로 194 절재로 194",
   "phone": "044-864-0401",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.508392,
+  "longitude": 127.262204,
+  "updated_at": "2026-01-04T15:53:51.323779"
 }

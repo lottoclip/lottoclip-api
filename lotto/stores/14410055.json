@@ -1,9 +1,14 @@
 {
   "store_id": "14410055",
   "name": "로또복권두정점",
-  "address": "충남 천안시 서북구 두정로 251 대원빌딩104호",
+  "address": "충남 천안시 서북구 두정로 251 두정로 251",
   "phone": "041-565-8880",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.833517,
+  "longitude": 127.144988,
+  "updated_at": "2026-01-04T15:53:50.220146"
 }

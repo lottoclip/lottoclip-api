@@ -1,9 +1,14 @@
 {
   "store_id": "12740026",
   "name": "복권맛집",
-  "address": "대구 남구 양지남길 15 우측상가",
+  "address": "대구 남구 양지남길 15 양지남길 15",
   "phone": "053-0000-0000",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.850587,
+  "longitude": 128.5743,
+  "updated_at": "2026-01-04T15:53:25.562843"
 }

@@ -1,9 +1,14 @@
 {
   "store_id": "13090014",
   "name": "노다지복권방",
-  "address": "대전 동구 계족로 393",
+  "address": "대전 동구 계족로 393 계족로 393",
   "phone": "042-631-5488",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.346695,
+  "longitude": 127.432127,
+  "updated_at": "2026-01-04T15:52:07.156032"
 }

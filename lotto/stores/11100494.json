@@ -1,9 +1,14 @@
 {
   "store_id": "11100494",
   "name": "삼육구마트",
-  "address": "서울 양천구 목동중앙서로 15-1 1층",
+  "address": "서울 양천구 목동중앙서로 15-1 목동중앙서로 15-1",
   "phone": "02-2651-1687",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.537381,
+  "longitude": 126.86832,
+  "updated_at": "2026-01-04T15:52:21.646982"
 }

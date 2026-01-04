@@ -1,9 +1,14 @@
 {
   "store_id": "12700123",
   "name": "세이브슈퍼",
-  "address": "대구 수성구 달구벌대로 2467",
+  "address": "대구 수성구 달구벌대로 2467 달구벌대로 2467",
   "phone": "053-753-1010",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.859269,
+  "longitude": 128.632617,
+  "updated_at": "2026-01-04T15:52:21.667341"
 }

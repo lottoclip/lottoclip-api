@@ -1,9 +1,14 @@
 {
   "store_id": "12690049",
   "name": "아트슈퍼",
-  "address": "부산 부산진구 가야대로 490",
+  "address": "부산 부산진구 가야대로 490 가야대로 490",
   "phone": "051-897-6661",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.152933,
+  "longitude": 129.025603,
+  "updated_at": "2026-01-04T15:53:02.390990"
 }

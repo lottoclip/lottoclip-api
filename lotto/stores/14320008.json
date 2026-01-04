@@ -1,9 +1,14 @@
 {
   "store_id": "14320008",
   "name": "행운로또",
-  "address": "충북 진천군 대하로 151 106호",
-  "phone": "",
+  "address": "충북 진천군 대하로 151 대하로 151",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.904202,
+  "longitude": 127.535525,
+  "updated_at": "2026-01-04T15:53:51.878477"
 }

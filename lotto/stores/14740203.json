@@ -1,9 +1,14 @@
 {
   "store_id": "14740203",
   "name": "완산로또방",
-  "address": "경북 영천시 역전로 21-1",
-  "phone": "",
+  "address": "경북 영천시 대경로 1260 대경로 1260",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.934788,
+  "longitude": 128.871089,
+  "updated_at": "2026-01-04T15:53:28.968984"
 }

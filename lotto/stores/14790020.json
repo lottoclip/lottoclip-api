@@ -1,9 +1,14 @@
 {
   "store_id": "14790020",
   "name": "왕대박복권방",
-  "address": "경북 문경시 중앙로 15",
+  "address": "경북 문경시 중앙로 15 중앙로 15",
   "phone": "054-556-6404",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.588123,
+  "longitude": 128.192926,
+  "updated_at": "2026-01-04T15:53:46.010441"
 }

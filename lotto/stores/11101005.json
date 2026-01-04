@@ -1,9 +1,14 @@
 {
   "store_id": "11101005",
-  "name": "교통카드충전",
-  "address": "서울 서초구 강남대로 405",
+  "name": "우리샵",
+  "address": "서울 서초구 강남대로 405 강남대로 405",
   "phone": "02-532-9471",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.498775,
+  "longitude": 127.026691,
+  "updated_at": "2026-01-04T15:53:35.729935"
 }

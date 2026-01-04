@@ -1,9 +1,13 @@
 {
   "store_id": "14710124",
   "name": "로또판매점",
-  "address": "경북 예천군  예천읍 효자로 82",
+  "address": "경북 예천군  예천읍 효자로 82 ",
   "phone": "054-654-4489",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 36.656346,
+  "longitude": 128.452832,
+  "updated_at": "2026-01-04T15:53:05.793253"
 }

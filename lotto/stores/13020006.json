@@ -1,9 +1,13 @@
 {
   "store_id": "13020006",
   "name": "로또명당도안점",
-  "address": "대전 유성구 봉명동 1033-4번지",
-  "phone": "",
+  "address": "대전 유성구 봉명동 1033-4번지 ",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 36.346451,
+  "longitude": 127.341493,
+  "updated_at": "2026-01-04T15:52:36.447419"
 }

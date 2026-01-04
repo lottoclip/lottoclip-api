@@ -1,9 +1,14 @@
 {
   "store_id": "11100990",
   "name": "버스카드충전소",
-  "address": "서울 서초구 신반포로 205 6동쇼핑앞",
+  "address": "서울 서초구 신반포로 205 신반포로 205",
   "phone": "02-596-1411",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.506934,
+  "longitude": 127.006122,
+  "updated_at": "2026-01-04T15:53:28.326788"
 }

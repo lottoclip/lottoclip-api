@@ -1,9 +1,13 @@
 {
   "store_id": "23020011",
   "name": "GS25(둔산을지점)",
-  "address": "대전 서구 둔산동  1349번지 1층 편의점",
+  "address": "대전 서구 둔산동 1349번지 ",
   "phone": "042-487-5336",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 36.354985,
+  "longitude": 127.380605,
+  "updated_at": "2026-01-04T15:52:20.287944"
 }

@@ -1,9 +1,14 @@
 {
   "store_id": "14140967",
   "name": "인생역전",
-  "address": "경기 파주시 새꽃로 227 7호",
-  "phone": "",
+  "address": "경기 파주시 새꽃로 227 새꽃로 227",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.766688,
+  "longitude": 126.777351,
+  "updated_at": "2026-01-04T15:53:48.167835"
 }

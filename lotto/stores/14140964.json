@@ -1,9 +1,14 @@
 {
   "store_id": "14140964",
   "name": "형창",
-  "address": "경기 파주시 검바위길 144-12",
-  "phone": "",
+  "address": "경기 파주시 검바위길 144-12 검바위길 144-12",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.787584,
+  "longitude": 126.77003,
+  "updated_at": "2026-01-04T15:53:06.649658"
 }

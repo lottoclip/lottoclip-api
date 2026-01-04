@@ -1,9 +1,14 @@
 {
   "store_id": "14140607",
   "name": "서민",
-  "address": "경기 광주시  무들로 211",
-  "phone": "",
+  "address": "경기 광주시  무들로 211 ",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.37987,
+  "longitude": 127.30572,
+  "updated_at": "2026-01-04T15:53:18.824684"
 }

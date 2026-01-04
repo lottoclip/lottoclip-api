@@ -1,9 +1,14 @@
 {
   "store_id": "13110016",
   "name": "로또복권",
-  "address": "울산 울주군 해맞이로 1578",
+  "address": "울산 울주군 해맞이로 1578 해맞이로 1578",
   "phone": "052-238-7199",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.382608,
+  "longitude": 129.342323,
+  "updated_at": "2026-01-04T15:53:10.608040"
 }

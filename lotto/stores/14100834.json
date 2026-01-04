@@ -1,9 +1,14 @@
 {
   "store_id": "14100834",
   "name": "월드컵복권방",
-  "address": "경기 광주시 경안로 20",
+  "address": "경기 광주시 경안로 20 경안로 20",
   "phone": "031-797-1515",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.409947,
+  "longitude": 127.258399,
+  "updated_at": "2026-01-04T15:52:12.721626"
 }

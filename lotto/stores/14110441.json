@@ -1,9 +1,14 @@
 {
   "store_id": "14110441",
   "name": "대선세무경영사무소",
-  "address": "경기 안산시 상록구 석호로 189 101호",
+  "address": "경기 안산시 상록구 석호로 189 석호로 189",
   "phone": "031-415-7070",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.295924,
+  "longitude": 126.852531,
+  "updated_at": "2026-01-04T15:53:47.829795"
 }

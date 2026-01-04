@@ -1,9 +1,14 @@
 {
   "store_id": "14210111",
   "name": "황금로또",
-  "address": "강원 원주시 현충로318번길 35 1층",
+  "address": "강원 원주시 현충로318번길 35 현충로318번길 35",
   "phone": "033-732-4477",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.381991,
+  "longitude": 127.950328,
+  "updated_at": "2026-01-04T15:52:18.330242"
 }

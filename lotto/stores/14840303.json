@@ -1,9 +1,14 @@
 {
   "store_id": "14840303",
   "name": "씨유 남해 현대점",
-  "address": "경남 남해군 화전로 60",
+  "address": "경남 남해군 화전로 60 화전로 60",
   "phone": "055-864-4243",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 34.836638,
+  "longitude": 127.894604,
+  "updated_at": "2026-01-04T15:53:24.135423"
 }

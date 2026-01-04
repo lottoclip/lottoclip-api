@@ -1,9 +1,14 @@
 {
   "store_id": "14141049",
   "name": "굿샷",
-  "address": "경기 고양시 일산동구 위시티로 49 104호",
-  "phone": "",
+  "address": "경기 고양시 일산동구 위시티로 49 위시티로 49",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.676719,
+  "longitude": 126.809846,
+  "updated_at": "2026-01-04T15:53:42.290926"
 }

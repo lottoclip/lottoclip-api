@@ -1,9 +1,13 @@
 {
   "store_id": "11101269",
   "name": "슈퍼전자",
-  "address": "서울 강북구 솔샘로 254 삼양빌딩1층14호",
+  "address": "서울 강북구 솔샘로 254 솔샘로 254",
   "phone": "02-985-9943",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720"
+  ],
+  "latitude": 37.619292,
+  "longitude": 127.020699,
+  "updated_at": "2026-01-04T15:51:48.045540"
 }

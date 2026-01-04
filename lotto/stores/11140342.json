@@ -1,9 +1,14 @@
 {
   "store_id": "11140342",
   "name": "더디씨 신월점",
-  "address": "서울 양천구 남부순환로 516",
-  "phone": "",
+  "address": "서울 양천구 남부순환로 516 남부순환로 516",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.522325,
+  "longitude": 126.836453,
+  "updated_at": "2026-01-04T15:53:19.191073"
 }

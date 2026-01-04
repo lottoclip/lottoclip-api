@@ -1,9 +1,12 @@
 {
   "store_id": "12840008",
   "name": "CU로또",
-  "address": "인천 미추홀구 경인로 438 1층(주안동)",
-  "phone": "",
+  "address": "인천 미추홀구 경인로 438 경인로 438",
+  "phone": null,
   "lottery_types": [
     "lotto645"
-  ]
+  ],
+  "latitude": 37.456227,
+  "longitude": 126.651218,
+  "updated_at": "2026-01-04T15:52:46.094278"
 }

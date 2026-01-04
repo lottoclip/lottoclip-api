@@ -1,9 +1,14 @@
 {
   "store_id": "12600160",
   "name": "정화식품",
-  "address": "부산 동래구 충렬대로 248",
+  "address": "부산 동래구 충렬대로 248 충렬대로 248",
   "phone": "051-552-2322",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.201022,
+  "longitude": 129.086244,
+  "updated_at": "2026-01-04T15:52:43.081049"
 }

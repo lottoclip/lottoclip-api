@@ -1,9 +1,14 @@
 {
   "store_id": "11100034",
   "name": "한경종합광고",
-  "address": "서울 송파구 백제고분로 198",
+  "address": "서울 송파구 백제고분로 198 백제고분로 198",
   "phone": "02-421-2114",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.503928,
+  "longitude": 127.088544,
+  "updated_at": "2026-01-04T15:53:47.037624"
 }

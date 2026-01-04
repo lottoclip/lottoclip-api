@@ -2,8 +2,12 @@
   "store_id": "11101145",
   "name": "가로판매대",
   "address": "서울 동작구 사당동  134-7번지 가판점",
-  "phone": "",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 37.488305,
+  "longitude": 126.981913,
+  "updated_at": "2026-01-04T15:52:14.385383"
 }

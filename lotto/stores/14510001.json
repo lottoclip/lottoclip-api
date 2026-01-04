@@ -1,9 +1,13 @@
 {
   "store_id": "14510001",
   "name": "반딧불로또",
-  "address": "전북 무주군 무주읍 읍내리 읍내리 249-4",
+  "address": "전북 무주군 무주읍 읍내리 249-4번지 ",
   "phone": "063-322-6450",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 36.007781,
+  "longitude": 127.663003,
+  "updated_at": "2026-01-04T15:52:25.458944"
 }

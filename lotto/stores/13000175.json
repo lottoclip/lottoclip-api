@@ -1,9 +1,14 @@
 {
   "store_id": "13000175",
   "name": "제우스테크",
-  "address": "대전 서구 원도안로 30",
+  "address": "대전 서구 원도안로 30 원도안로 30",
   "phone": "042-542-3839",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.306773,
+  "longitude": 127.348658,
+  "updated_at": "2026-01-04T15:53:54.682048"
 }

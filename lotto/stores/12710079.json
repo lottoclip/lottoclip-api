@@ -1,9 +1,14 @@
 {
   "store_id": "12710079",
   "name": "지에스25 신매태왕점로또",
-  "address": "대구 수성구 욱수천로 70 편의점_GS25",
-  "phone": "053-745-6725",
+  "address": "대구 수성구 욱수천로 70 욱수천로 70",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.83531,
+  "longitude": 128.711904,
+  "updated_at": "2026-01-04T15:53:24.053816"
 }

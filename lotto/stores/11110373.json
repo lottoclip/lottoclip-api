@@ -1,9 +1,14 @@
 {
   "store_id": "11110373",
   "name": "로또판매점",
-  "address": "서울 영등포구 시흥대로 671 1층 8호(대림동)",
+  "address": "서울 영등포구 시흥대로 671 시흥대로 671",
   "phone": "02-783-5467",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.491614,
+  "longitude": 126.908174,
+  "updated_at": "2026-01-04T15:53:41.898420"
 }

@@ -1,9 +1,14 @@
 {
   "store_id": "14100127",
   "name": "노다지복권방",
-  "address": "경기 광명시 범안로 1043 (하안동, 원촌빌딩 1층)",
+  "address": "경기 광명시 범안로 1043 범안로 1043",
   "phone": "02-896-0912",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.462327,
+  "longitude": 126.878653,
+  "updated_at": "2026-01-04T15:52:57.455505"
 }

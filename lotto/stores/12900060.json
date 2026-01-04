@@ -1,9 +1,14 @@
 {
   "store_id": "12900060",
   "name": "중흥마트",
-  "address": "광주 북구 문산로 30 중흥2차 아파트상가 1층",
+  "address": "광주 북구 문산로 30 문산로 30",
   "phone": "062-263-1142",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.183891,
+  "longitude": 126.923221,
+  "updated_at": "2026-01-04T15:53:34.742847"
 }

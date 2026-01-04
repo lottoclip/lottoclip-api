@@ -1,9 +1,14 @@
 {
   "store_id": "13220003",
   "name": "부강로또",
-  "address": "세종   부강로 34",
-  "phone": "",
+  "address": "세종   부강로 34 부강로 34",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.529217,
+  "longitude": 127.366503,
+  "updated_at": "2026-01-04T15:52:31.412094"
 }

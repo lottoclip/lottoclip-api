@@ -1,9 +1,14 @@
 {
   "store_id": "12640376",
   "name": "하늘복권방",
-  "address": "부산 해운대구 해운대로 814 A동 137호(좌동, 세종월드프라자)",
-  "phone": "",
+  "address": "부산 해운대구 해운대로 814 해운대로 814",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.169577,
+  "longitude": 129.177677,
+  "updated_at": "2026-01-04T15:53:54.867779"
 }

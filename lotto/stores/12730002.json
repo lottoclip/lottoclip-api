@@ -1,9 +1,14 @@
 {
   "store_id": "12730002",
   "name": "대박복권",
-  "address": "대구 달성군 세천로 113 1층",
+  "address": "대구 달성군 세천로 113 세천로 113",
   "phone": "053-587-2244",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.874069,
+  "longitude": 128.47414,
+  "updated_at": "2026-01-04T15:53:06.421882"
 }

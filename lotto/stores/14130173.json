@@ -1,9 +1,14 @@
 {
   "store_id": "14130173",
   "name": "풍무복권방",
-  "address": "경기 김포시 풍무로 73",
+  "address": "경기 김포시 풍무로 73 풍무로 73",
   "phone": "031-987-3227",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.602082,
+  "longitude": 126.721213,
+  "updated_at": "2026-01-04T15:52:28.416039"
 }

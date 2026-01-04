@@ -1,9 +1,14 @@
 {
   "store_id": "12910052",
   "name": "대야지복권",
-  "address": "광주 남구 회재로 1255-1",
+  "address": "광주 남구 회재로 1255-1 회재로 1255-1",
   "phone": "062-653-6965",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.134727,
+  "longitude": 126.898014,
+  "updated_at": "2026-01-04T15:52:15.835759"
 }

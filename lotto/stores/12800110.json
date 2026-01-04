@@ -1,9 +1,14 @@
 {
   "store_id": "12800110",
   "name": "풍인식품",
-  "address": "인천 남동구 간석4동 214-27번지",
+  "address": "인천 남동구 간석4동 214-27번지 ",
   "phone": "032-426-6702",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.465903,
+  "longitude": 126.708828,
+  "updated_at": "2026-01-04T15:52:22.623247"
 }

@@ -1,9 +1,14 @@
 {
   "store_id": "12890026",
-  "name": "복권＠나라",
-  "address": "인천 부평구 평천로 102-1 1층",
+  "name": "다운이앤씨",
+  "address": "인천 부평구 평천로 102-1 평천로 102-1",
   "phone": "032-524-1288",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.517489,
+  "longitude": 126.702544,
+  "updated_at": "2026-01-04T15:52:41.515253"
 }

@@ -1,9 +1,14 @@
 {
   "store_id": "12640196",
   "name": "진우복권",
-  "address": "부산 연제구 월드컵대로 119 204호(연산동)",
-  "phone": "",
+  "address": "부산 연제구 월드컵대로 119 월드컵대로 119",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.184827,
+  "longitude": 129.082076,
+  "updated_at": "2026-01-04T15:53:45.097605"
 }

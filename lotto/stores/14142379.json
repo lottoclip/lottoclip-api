@@ -1,9 +1,14 @@
 {
   "store_id": "14142379",
   "name": "광명로또명당",
-  "address": "경기 광명시 양지로 19 B동 1층 145호 (유플레닛 어반브릭스)",
-  "phone": "",
+  "address": "경기 광명시 양지로 19 양지로 19",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.419018,
+  "longitude": 126.882623,
+  "updated_at": "2026-01-04T15:53:43.709290"
 }

@@ -1,9 +1,13 @@
 {
   "store_id": "12820022",
   "name": "백령로또",
-  "address": "인천 옹진군 백령로278번길 18",
-  "phone": "",
+  "address": "인천 옹진군 백령로278번길 18 백령로278번길 18",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 37.972107,
+  "longitude": 124.720619,
+  "updated_at": "2026-01-04T15:53:22.119842"
 }

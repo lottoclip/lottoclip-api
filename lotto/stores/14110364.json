@@ -1,9 +1,14 @@
 {
   "store_id": "14110364",
   "name": "행운복권",
-  "address": "경기 군포시 곡란로 24 108호",
+  "address": "경기 군포시 곡란로 24 곡란로 24",
   "phone": "031-393-6161",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.374776,
+  "longitude": 126.936087,
+  "updated_at": "2026-01-04T15:52:05.130536"
 }

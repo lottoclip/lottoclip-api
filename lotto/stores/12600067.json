@@ -1,9 +1,14 @@
 {
   "store_id": "12600067",
   "name": "복권천국",
-  "address": "부산 서구 구덕로 207-1",
-  "phone": "",
+  "address": "부산 서구 구덕로 207-1 구덕로 207-1",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.103161,
+  "longitude": 129.019753,
+  "updated_at": "2026-01-04T15:53:27.845440"
 }

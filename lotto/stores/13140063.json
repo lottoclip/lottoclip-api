@@ -1,9 +1,14 @@
 {
   "store_id": "13140063",
   "name": "네잎클로버",
-  "address": "울산 북구 당수골6길 20 1층",
-  "phone": "",
+  "address": "울산 북구 당수골6길 20 당수골6길 20",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.634733,
+  "longitude": 129.360653,
+  "updated_at": "2026-01-04T15:53:52.861682"
 }

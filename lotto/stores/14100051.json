@@ -1,9 +1,14 @@
 {
   "store_id": "14100051",
   "name": "현대할인마트",
-  "address": "경기 이천시 경충대로 3142",
+  "address": "경기 이천시 경충대로 3142 경충대로 3142",
   "phone": "031-632-7010",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.306846,
+  "longitude": 127.403112,
+  "updated_at": "2026-01-04T15:52:39.374901"
 }

@@ -1,9 +1,14 @@
 {
   "store_id": "11100724",
   "name": "우일",
-  "address": "서울 송파구 마천로 235",
+  "address": "서울 송파구 마천로 235 마천로 235",
   "phone": "02-430-8418",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.499962,
+  "longitude": 127.143963,
+  "updated_at": "2026-01-04T15:53:19.808257"
 }

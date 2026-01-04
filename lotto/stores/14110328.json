@@ -1,9 +1,14 @@
 {
   "store_id": "14110328",
   "name": "로또복권",
-  "address": "경기 평택시 원평로 55",
+  "address": "경기 평택시 원평로 55 원평로 55",
   "phone": "031-655-9351",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.990513,
+  "longitude": 127.083558,
+  "updated_at": "2026-01-04T15:53:45.733459"
 }

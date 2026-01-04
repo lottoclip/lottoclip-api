@@ -1,9 +1,14 @@
 {
   "store_id": "14100065",
   "name": "씨유 트윈시티",
-  "address": "경기 고양시 일산동구 위시티로 75 113호",
+  "address": "경기 고양시 일산동구 위시티로 75 위시티로 75",
   "phone": "031-965-1979",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.678833,
+  "longitude": 126.811085,
+  "updated_at": "2026-01-04T15:53:30.355513"
 }

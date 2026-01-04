@@ -1,9 +1,14 @@
 {
   "store_id": "11141052",
   "name": "월드로또복권 판매점",
-  "address": "서울 강남구 논현로63길 16 1층 102호",
-  "phone": "",
+  "address": "서울 강남구 논현로63길 16 논현로63길 16",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.493008,
+  "longitude": 127.039143,
+  "updated_at": "2026-01-04T15:53:55.953605"
 }

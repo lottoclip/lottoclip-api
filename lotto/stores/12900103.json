@@ -1,9 +1,14 @@
 {
   "store_id": "12900103",
   "name": "해피+24시편의점",
-  "address": "광주 북구 하서로 330",
+  "address": "광주 북구 하서로 330 하서로 330",
   "phone": "062-574-1061",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.204499,
+  "longitude": 126.873901,
+  "updated_at": "2026-01-04T15:53:50.834281"
 }

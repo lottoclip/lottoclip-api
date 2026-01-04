@@ -1,9 +1,14 @@
 {
   "store_id": "12640516",
   "name": "아이스마켓",
-  "address": "부산 남구 용호로42번길 37 복권판매점",
-  "phone": "",
+  "address": "부산 남구 용호로42번길 37 용호로42번길 37",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.125172,
+  "longitude": 129.109744,
+  "updated_at": "2026-01-04T15:53:40.076720"
 }

@@ -1,9 +1,14 @@
 {
   "store_id": "11100773",
   "name": "스파",
-  "address": "서울 노원구 동일로 1493 주공10단지종합상가111",
+  "address": "서울 노원구 동일로 1493 동일로 1493",
   "phone": "02-951-6465",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.661658,
+  "longitude": 127.057872,
+  "updated_at": "2026-01-04T15:53:54.250160"
 }

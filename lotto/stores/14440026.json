@@ -1,9 +1,14 @@
 {
   "store_id": "14440026",
   "name": "둔포로 로또방",
-  "address": "충남 아산시 둔포로 92-12 세븐일레븐 편의점",
-  "phone": "",
+  "address": "충남 아산시 둔포로 92-12 둔포로 92-12",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.924552,
+  "longitude": 127.04408,
+  "updated_at": "2026-01-04T15:52:52.788471"
 }

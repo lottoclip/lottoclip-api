@@ -1,9 +1,13 @@
 {
   "store_id": "13090031",
   "name": "천동마트",
-  "address": "대전 동구 천동(효동) 119-4",
+  "address": "대전 동구 천동(효동) 119-4 ",
   "phone": "042-272-3793",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 36.311916,
+  "longitude": 127.44233,
+  "updated_at": "2026-01-04T15:52:46.596935"
 }

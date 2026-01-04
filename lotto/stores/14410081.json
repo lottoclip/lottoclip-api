@@ -2,8 +2,12 @@
   "store_id": "14410081",
   "name": "일확천금로또판매점",
   "address": "충남 보령시 죽정동 691 다육농원(꽃가게)옆 점포",
-  "phone": "",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 36.358685,
+  "longitude": 126.604196,
+  "updated_at": "2026-01-04T15:52:20.938217"
 }

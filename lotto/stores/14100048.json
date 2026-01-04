@@ -1,9 +1,14 @@
 {
   "store_id": "14100048",
   "name": "경인유통",
-  "address": "경기 광명시 일직로 79 일직로 72, A동 116호(일직동, 광명국제무역센터)",
+  "address": "경기 광명시 일직로 79 일직로 79",
   "phone": "02-2619-1725",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.420688,
+  "longitude": 126.890096,
+  "updated_at": "2026-01-04T15:52:56.400988"
 }

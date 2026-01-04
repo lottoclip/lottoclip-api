@@ -1,9 +1,14 @@
 {
   "store_id": "12640577",
   "name": "봄봄복권판매점",
-  "address": "부산 사상구 엄궁로 203",
-  "phone": "",
+  "address": "부산 사상구 엄궁로 203 엄궁로 203",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.130374,
+  "longitude": 128.973025,
+  "updated_at": "2026-01-04T15:53:36.003839"
 }

@@ -1,9 +1,14 @@
 {
   "store_id": "14240049",
   "name": "북평로또",
-  "address": "강원 동해시 대동로 93 1층",
+  "address": "강원 동해시 대동로 93 대동로 93",
   "phone": "033-522-0777",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.4807,
+  "longitude": 129.1283,
+  "updated_at": "2026-01-04T15:53:45.747020"
 }

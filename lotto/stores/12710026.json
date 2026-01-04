@@ -1,9 +1,14 @@
 {
   "store_id": "12710026",
   "name": "플러스로또",
-  "address": "대구 달서구 월곡로45길 56",
+  "address": "대구 달서구 월곡로45길 56 월곡로45길 56",
   "phone": "053-632-3414",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.81329,
+  "longitude": 128.538834,
+  "updated_at": "2026-01-04T15:53:17.272579"
 }

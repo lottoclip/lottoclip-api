@@ -1,9 +1,14 @@
 {
   "store_id": "14240106",
   "name": "탑",
-  "address": "강원 원주시 천사로 94 1층",
-  "phone": "",
+  "address": "강원 원주시 천사로 94 천사로 94",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.348212,
+  "longitude": 127.935626,
+  "updated_at": "2026-01-04T15:53:55.635064"
 }

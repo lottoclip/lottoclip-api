@@ -2,8 +2,13 @@
   "store_id": "14430052",
   "name": "세븐일레븐광천중앙로또판매점",
   "address": "충남 홍성군 충절로(홍성읍) 고암리 602-1 1층 세븐일레븐 편의점내",
-  "phone": "",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.594995,
+  "longitude": 126.674314,
+  "updated_at": "2026-01-04T15:52:47.230314"
 }

@@ -2,8 +2,12 @@
   "store_id": "14810021",
   "name": "로또복권",
   "address": "경남 창원시 의창구 팔용동(팔룡동) 31-2 CU편의점 내",
-  "phone": "",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 35.260042,
+  "longitude": 128.637311,
+  "updated_at": "2026-01-04T15:52:53.267419"
 }

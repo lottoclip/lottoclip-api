@@ -1,9 +1,14 @@
 {
   "store_id": "14420028",
   "name": "충무로또45국도점",
-  "address": "충남 아산시 충무로 647",
-  "phone": "",
+  "address": "충남 아산시 충무로 647 충무로 647",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.836622,
+  "longitude": 127.010939,
+  "updated_at": "2026-01-04T15:52:53.924916"
 }

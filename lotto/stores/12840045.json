@@ -2,8 +2,12 @@
   "store_id": "12840045",
   "name": "만세복권",
   "address": "인천 서구 원당동(검단3동) 825-4 CU 만세원당점",
-  "phone": "",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 37.594603,
+  "longitude": 126.696396,
+  "updated_at": "2026-01-04T15:52:36.760714"
 }

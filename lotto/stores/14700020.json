@@ -1,9 +1,14 @@
 {
   "store_id": "14700020",
   "name": "하나유통",
-  "address": "경북 경산시 공단2로 7",
+  "address": "경북 경산시 공단2로 7 공단2로 7",
   "phone": "053-856-6825",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.871767,
+  "longitude": 128.819978,
+  "updated_at": "2026-01-04T15:53:51.347399"
 }

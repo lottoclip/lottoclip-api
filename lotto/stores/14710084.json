@@ -1,9 +1,14 @@
 {
   "store_id": "14710084",
   "name": "로또기획",
-  "address": "경북 안동시 경북대로 443",
+  "address": "경북 안동시 경북대로 443 경북대로 443",
   "phone": "070-8936-5302",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.568048,
+  "longitude": 128.697858,
+  "updated_at": "2026-01-04T15:52:57.135307"
 }

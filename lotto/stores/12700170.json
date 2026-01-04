@@ -1,9 +1,14 @@
 {
   "store_id": "12700170",
   "name": "토큰박스(서문5지구)",
-  "address": "대구 중구 큰장로26길 5",
+  "address": "대구 중구 큰장로26길 5 큰장로26길 5",
   "phone": "053-257-5063",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.868574,
+  "longitude": 128.578448,
+  "updated_at": "2026-01-04T15:51:47.805223"
 }

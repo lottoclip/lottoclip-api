@@ -1,9 +1,14 @@
 {
   "store_id": "14100513",
   "name": "은행복권방",
-  "address": "경기 시흥시 은계호수로 49 1층 1062호",
+  "address": "경기 시흥시 은행동 599번지 우남상가2동101호",
   "phone": "031-312-4971",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.445135,
+  "longitude": 126.800471,
+  "updated_at": "2026-01-04T15:52:40.275708"
 }

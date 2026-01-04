@@ -1,9 +1,14 @@
 {
   "store_id": "12900078",
   "name": "또또슈퍼",
-  "address": "광주 광산구 송도로 239 1층",
+  "address": "광주 광산구 송도로 239 송도로 239",
   "phone": "062-942-2300",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.135244,
+  "longitude": 126.797309,
+  "updated_at": "2026-01-04T15:52:11.945751"
 }

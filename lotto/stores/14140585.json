@@ -1,9 +1,14 @@
 {
   "store_id": "14140585",
   "name": "동행로또복권방",
-  "address": "경기 광명시 시청로 142-1 101호(철산동)",
-  "phone": "",
+  "address": "경기 광명시 시청로 142-1 시청로 142-1",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.487733,
+  "longitude": 126.868865,
+  "updated_at": "2026-01-04T15:53:04.797003"
 }

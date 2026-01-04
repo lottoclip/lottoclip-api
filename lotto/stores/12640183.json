@@ -1,9 +1,14 @@
 {
   "store_id": "12640183",
   "name": "현정이네",
-  "address": "부산 서구 보수대로 184",
-  "phone": "",
+  "address": "부산 서구 대영로 101 대영로 101",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.111848,
+  "longitude": 129.021938,
+  "updated_at": "2026-01-04T15:53:38.339783"
 }

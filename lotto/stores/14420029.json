@@ -1,9 +1,14 @@
 {
   "store_id": "14420029",
   "name": "로또복권",
-  "address": "충남 아산시 온천대로 2240 101호",
-  "phone": "",
+  "address": "충남 아산시 온천대로 2240 온천대로 2240",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.777119,
+  "longitude": 127.08152,
+  "updated_at": "2026-01-04T15:52:23.583894"
 }

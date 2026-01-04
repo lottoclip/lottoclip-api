@@ -1,9 +1,14 @@
 {
   "store_id": "12820005",
   "name": "서창동 로또방",
-  "address": "인천 남동구 서창남순환로 222 1층 106호",
+  "address": "인천 남동구 서창남순환로 222 서창남순환로 222",
   "phone": "032-466-7850",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.424127,
+  "longitude": 126.74947,
+  "updated_at": "2026-01-04T15:52:43.638156"
 }

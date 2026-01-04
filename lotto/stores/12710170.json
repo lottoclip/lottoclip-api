@@ -1,9 +1,14 @@
 {
   "store_id": "12710170",
   "name": "평화(북구사수점)",
-  "address": "대구 북구 한강로 92 1층 101호",
-  "phone": "053-321-0941",
+  "address": "대구 북구 한강로 92 한강로 92",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.896555,
+  "longitude": 128.519573,
+  "updated_at": "2026-01-04T15:53:32.075015"
 }

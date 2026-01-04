@@ -1,9 +1,14 @@
 {
   "store_id": "11190220",
   "name": "통일마트",
-  "address": "서울 종로구 종로 19 르메이에르종로타운 110-1호",
+  "address": "서울 종로구 종로 19 종로 19",
   "phone": "02-733-0810",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.570449,
+  "longitude": 126.979825,
+  "updated_at": "2026-01-04T15:53:01.417580"
 }

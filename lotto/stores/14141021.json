@@ -1,9 +1,14 @@
 {
   "store_id": "14141021",
   "name": "동탄호수복권",
-  "address": "경기 화성시 동탄순환대로 127-5 1층 101호",
-  "phone": "",
+  "address": "경기 화성시 동탄순환대로 127-5 동탄순환대로 127-5",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.166089,
+  "longitude": 127.10728,
+  "updated_at": "2026-01-04T15:53:54.105399"
 }

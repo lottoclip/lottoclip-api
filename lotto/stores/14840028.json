@@ -1,9 +1,14 @@
 {
   "store_id": "14840028",
   "name": "행운로또방",
-  "address": "경남 김해시 장등로19번길 15 103호",
-  "phone": "",
+  "address": "경남 김해시 장등로19번길 15 장등로19번길 15",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.308147,
+  "longitude": 128.733375,
+  "updated_at": "2026-01-04T15:52:36.200753"
 }

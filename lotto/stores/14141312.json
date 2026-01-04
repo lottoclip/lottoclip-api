@@ -1,9 +1,14 @@
 {
   "store_id": "14141312",
   "name": "운좋은 복권방",
-  "address": "경기 수원시 장안구 덕영대로425번길 34 1층(율전동)",
-  "phone": "",
+  "address": "경기 수원시 장안구 덕영대로425번길 34 덕영대로425번길 34",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.30245,
+  "longitude": 126.96986,
+  "updated_at": "2026-01-04T15:53:32.923457"
 }

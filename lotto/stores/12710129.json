@@ -1,9 +1,14 @@
 {
   "store_id": "12710129",
   "name": "일등복권편의점",
-  "address": "대구 달서구 대명천로 220 1층",
+  "address": "대구 달서구 대명천로 220 대명천로 220",
   "phone": "053-522-6808",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.842204,
+  "longitude": 128.53619,
+  "updated_at": "2026-01-04T15:53:53.229325"
 }

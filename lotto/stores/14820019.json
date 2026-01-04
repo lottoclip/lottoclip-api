@@ -1,9 +1,14 @@
 {
   "store_id": "14820019",
   "name": "양산황금나눔",
-  "address": "경남 양산시 황산로 395 복권판매점",
+  "address": "경남 양산시 황산로 395 황산로 395",
   "phone": "055-386-5253",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.311427,
+  "longitude": 128.98724,
+  "updated_at": "2026-01-04T15:53:44.650944"
 }

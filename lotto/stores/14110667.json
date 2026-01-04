@@ -1,9 +1,13 @@
 {
   "store_id": "14110667",
   "name": "복권방",
-  "address": "경기 하남시 신장동  406-21층6호",
+  "address": "경기 하남시 신장동 406-2번지 1층6호",
   "phone": "031-793-7489",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 37.540417,
+  "longitude": 127.208869,
+  "updated_at": "2026-01-04T15:52:31.707084"
 }

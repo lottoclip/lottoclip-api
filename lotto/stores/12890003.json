@@ -1,9 +1,13 @@
 {
   "store_id": "12890003",
   "name": "복권왕국",
-  "address": "인천 동구 화평동  449-2",
+  "address": "인천 동구 화평동  449-2번지",
   "phone": "032-763-8056",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 37.477713,
+  "longitude": 126.631015,
+  "updated_at": "2026-01-04T15:52:01.461437"
 }

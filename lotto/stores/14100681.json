@@ -1,9 +1,14 @@
 {
   "store_id": "14100681",
   "name": "드림테크",
-  "address": "경기 부천시 안곡로 11 기풍빌딩 107호",
-  "phone": "",
+  "address": "경기 부천시 안곡로 11 안곡로 11",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.479036,
+  "longitude": 126.803577,
+  "updated_at": "2026-01-04T15:52:52.531940"
 }

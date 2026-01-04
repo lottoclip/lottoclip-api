@@ -1,9 +1,14 @@
 {
   "store_id": "11100801",
   "name": "담배",
-  "address": "서울 강북구 삼양로 252",
+  "address": "서울 강북구 삼양로 252 삼양로 252",
   "phone": "02-981-1922",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.625848,
+  "longitude": 127.018477,
+  "updated_at": "2026-01-04T15:52:34.853812"
 }

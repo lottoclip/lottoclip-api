@@ -1,9 +1,14 @@
 {
   "store_id": "12840151",
   "name": "대박복권방",
-  "address": "인천 부평구 영성로 50-1 1층",
-  "phone": "",
+  "address": "인천 부평구 영성로 50-1 영성로 50-1",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.52011,
+  "longitude": 126.744979,
+  "updated_at": "2026-01-04T15:53:56.477023"
 }

@@ -1,9 +1,14 @@
 {
   "store_id": "11101572",
   "name": "복사문구",
-  "address": "서울 강동구 양재대로 1549",
+  "address": "서울 강동구 양재대로 1549 양재대로 1549",
   "phone": "02-485-6852",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.544048,
+  "longitude": 127.142054,
+  "updated_at": "2026-01-04T15:51:55.298239"
 }

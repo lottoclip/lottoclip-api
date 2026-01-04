@@ -1,9 +1,14 @@
 {
   "store_id": "14430042",
   "name": "황금로또복권판매",
-  "address": "충남 당진시 동부로 223 B동 108호 한빛부동산",
-  "phone": "",
+  "address": "충남 당진시 동부로 223 동부로 223",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.90674,
+  "longitude": 126.64695,
+  "updated_at": "2026-01-04T15:53:33.158606"
 }

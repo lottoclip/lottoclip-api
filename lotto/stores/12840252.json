@@ -2,8 +2,13 @@
   "store_id": "12840252",
   "name": "대박신화로또판매점",
   "address": "인천 미추홀구  인하로 267 1층",
-  "phone": "",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.448309,
+  "longitude": 126.677798,
+  "updated_at": "2026-01-04T15:53:14.599126"
 }

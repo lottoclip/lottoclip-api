@@ -1,9 +1,14 @@
 {
   "store_id": "14440214",
   "name": "나눔로또판매점희망엄사점",
-  "address": "충남 계룡시 엄사중앙로 11",
-  "phone": "",
+  "address": "충남 계룡시 엄사중앙로 11 엄사중앙로 11",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.281938,
+  "longitude": 127.239055,
+  "updated_at": "2026-01-04T15:53:18.997289"
 }

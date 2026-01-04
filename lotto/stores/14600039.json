@@ -1,9 +1,14 @@
 {
   "store_id": "14600039",
   "name": "신신마트편의점",
-  "address": "전남 목포시 철로마을길 36 신신마트",
+  "address": "전남 목포시 철로마을길 36 철로마을길 36",
   "phone": "061-276-9350",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 34.804545,
+  "longitude": 126.38496,
+  "updated_at": "2026-01-04T15:53:05.534856"
 }

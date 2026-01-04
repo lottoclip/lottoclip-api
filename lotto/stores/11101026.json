@@ -1,9 +1,13 @@
 {
   "store_id": "11101026",
   "name": "복권가판대",
-  "address": "서울 은평구 수색동  360",
+  "address": "서울 은평구 수색동 360번지 ",
   "phone": "02-372-4396",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 37.582488,
+  "longitude": 126.895292,
+  "updated_at": "2026-01-04T15:52:36.174931"
 }

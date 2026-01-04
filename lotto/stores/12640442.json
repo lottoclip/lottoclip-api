@@ -1,9 +1,14 @@
 {
   "store_id": "12640442",
   "name": "삼육구",
-  "address": "부산 사하구 낙동대로 236 내제조표17445호",
-  "phone": "",
+  "address": "부산 사하구 낙동대로 236 낙동대로 236",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.099719,
+  "longitude": 128.991134,
+  "updated_at": "2026-01-04T15:53:37.463239"
 }

@@ -1,9 +1,14 @@
 {
   "store_id": "12800079",
   "name": "복권왕국",
-  "address": "인천 부평구 동수로 168",
+  "address": "인천 부평구 동수로 168 동수로 168",
   "phone": "032-505-6564",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.485597,
+  "longitude": 126.73715,
+  "updated_at": "2026-01-04T15:51:58.145542"
 }

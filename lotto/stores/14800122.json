@@ -1,9 +1,14 @@
 {
   "store_id": "14800122",
   "name": "팡팡복권방",
-  "address": "경남 창원시 성산구 신촌로 101",
-  "phone": "",
+  "address": "경남 창원시 성산구 신촌로 101 신촌로 101",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.200634,
+  "longitude": 128.628831,
+  "updated_at": "2026-01-04T15:53:10.319915"
 }

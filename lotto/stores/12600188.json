@@ -1,9 +1,14 @@
 {
   "store_id": "12600188",
   "name": "재벌 로터리",
-  "address": "부산 중구 구덕로 1 재벌마트",
+  "address": "부산 중구 구덕로 1 구덕로 1",
   "phone": "070-8851-4888",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.097616,
+  "longitude": 129.035455,
+  "updated_at": "2026-01-04T15:52:20.885522"
 }

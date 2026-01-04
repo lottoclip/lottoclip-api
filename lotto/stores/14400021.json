@@ -1,9 +1,14 @@
 {
   "store_id": "14400021",
   "name": "여기있었네복권방",
-  "address": "충남 논산시 중앙로 417",
+  "address": "충남 논산시 중앙로 417 중앙로 417",
   "phone": "041-736-1565",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.201105,
+  "longitude": 127.087661,
+  "updated_at": "2026-01-04T15:52:08.408513"
 }

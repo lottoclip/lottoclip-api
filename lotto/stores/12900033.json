@@ -1,9 +1,14 @@
 {
   "store_id": "12900033",
   "name": "오천억복권방",
-  "address": "광주 서구 상무대로 1087",
+  "address": "광주 서구 상무대로 1087 상무대로 1087",
   "phone": "062-363-1471",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.152922,
+  "longitude": 126.880727,
+  "updated_at": "2026-01-04T15:53:52.326066"
 }

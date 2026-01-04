@@ -1,9 +1,13 @@
 {
   "store_id": "11100572",
-  "name": "제일식품",
-  "address": "서울 중랑구 상봉동  108",
+  "name": "부영마트",
+  "address": "서울 중랑구 상봉동 108번지 ",
   "phone": "02-434-1747",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 37.594752,
+  "longitude": 127.085657,
+  "updated_at": "2026-01-04T15:52:37.882024"
 }

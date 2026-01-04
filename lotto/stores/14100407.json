@@ -1,9 +1,14 @@
 {
   "store_id": "14100407",
   "name": "행복미니슈퍼",
-  "address": "경기 부천시 부일로 409",
+  "address": "경기 부천시 부일로 409 부일로 409",
   "phone": "032-654-6510",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.487118,
+  "longitude": 126.77558,
+  "updated_at": "2026-01-04T15:53:22.769717"
 }

@@ -1,9 +1,14 @@
 {
   "store_id": "14940067",
   "name": "행운&빈센트",
-  "address": "제주 서귀포시 동문로 64",
-  "phone": "",
+  "address": "제주 서귀포시 동문로 64 동문로 64",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 33.24906,
+  "longitude": 126.56697,
+  "updated_at": "2026-01-04T15:53:50.242104"
 }

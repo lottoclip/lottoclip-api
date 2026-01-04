@@ -1,9 +1,14 @@
 {
   "store_id": "12700135",
   "name": "청구마트",
-  "address": "대구 북구 검단로 34 청구아파트상가108동102호",
-  "phone": "053-381-0222",
+  "address": "대구 북구 검단로 34 검단로 34",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.900477,
+  "longitude": 128.6171,
+  "updated_at": "2026-01-04T15:53:52.319369"
 }

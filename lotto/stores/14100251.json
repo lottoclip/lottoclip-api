@@ -1,9 +1,14 @@
 {
   "store_id": "14100251",
   "name": "행복충전소",
-  "address": "경기 평택시 탄현로 332-2",
+  "address": "경기 평택시 탄현로 332-2 탄현로 332-2",
   "phone": "031-664-1210",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.081799,
+  "longitude": 127.056377,
+  "updated_at": "2026-01-04T15:53:18.989300"
 }

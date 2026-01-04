@@ -1,9 +1,14 @@
 {
   "store_id": "14610059",
   "name": "조례로또복권방",
-  "address": "전남 순천시 봉화2길 58 조례로또복권방",
+  "address": "전남 순천시 봉화2길 58 봉화2길 58",
   "phone": "061-721-0916",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 34.95842,
+  "longitude": 127.518151,
+  "updated_at": "2026-01-04T15:53:56.526091"
 }

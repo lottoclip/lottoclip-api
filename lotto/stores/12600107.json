@@ -1,9 +1,14 @@
 {
   "store_id": "12600107",
   "name": "대산슈퍼",
-  "address": "부산 북구 만덕대로 166",
+  "address": "부산 북구 만덕대로 166 만덕대로 166",
   "phone": "051-342-4373",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.212969,
+  "longitude": 129.022864,
+  "updated_at": "2026-01-04T15:53:31.874830"
 }

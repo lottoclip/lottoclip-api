@@ -1,9 +1,14 @@
 {
   "store_id": "11100527",
   "name": "엔마트",
-  "address": "서울 동대문구 장한로31길 10",
+  "address": "서울 동대문구 장한로31길 10 장한로31길 10",
   "phone": "02-2244-2840",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.575423,
+  "longitude": 127.071296,
+  "updated_at": "2026-01-04T15:53:48.035118"
 }

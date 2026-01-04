@@ -1,9 +1,14 @@
 {
   "store_id": "14110472",
   "name": "평택로또판매",
-  "address": "경기 평택시 비전5로 7 중앙프라자 105호",
+  "address": "경기 평택시 비전5로 7 비전5로 7",
   "phone": "031-618-9810",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.9969,
+  "longitude": 127.091441,
+  "updated_at": "2026-01-04T15:52:35.579823"
 }

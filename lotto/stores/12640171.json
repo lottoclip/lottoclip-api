@@ -1,9 +1,14 @@
 {
   "store_id": "12640171",
   "name": "행운나눔",
-  "address": "부산 사하구 사하로 204",
-  "phone": "",
+  "address": "부산 사하구 사하로 204 사하로 204",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.099873,
+  "longitude": 128.993473,
+  "updated_at": "2026-01-04T15:53:53.875270"
 }

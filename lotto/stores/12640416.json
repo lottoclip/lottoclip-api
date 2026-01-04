@@ -1,9 +1,14 @@
 {
   "store_id": "12640416",
   "name": "천하제일명당",
-  "address": "부산 부산진구 골드테마길 42",
-  "phone": "",
+  "address": "부산 부산진구 골드테마길 42 골드테마길 42",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.143644,
+  "longitude": 129.060151,
+  "updated_at": "2026-01-04T15:53:52.700534"
 }

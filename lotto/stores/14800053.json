@@ -1,9 +1,14 @@
 {
   "store_id": "14800053",
   "name": "만물할인슈퍼",
-  "address": "경남 창원시 성산구 대정로 145 개나리1차상가107호",
+  "address": "경남 창원시 성산구 대정로 145 대정로 145",
   "phone": "055-261-2576",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.213181,
+  "longitude": 128.708493,
+  "updated_at": "2026-01-04T15:53:52.910202"
 }

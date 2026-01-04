@@ -1,9 +1,13 @@
 {
   "store_id": "24200032",
   "name": "CU(강릉터미널점)",
-  "address": "강원 강릉시 홍제동 990-6번지",
+  "address": "강원 강릉시 홍제동 990-6번지 ",
   "phone": "033-642-9427",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 37.755251,
+  "longitude": 128.879395,
+  "updated_at": "2026-01-04T15:52:23.855875"
 }

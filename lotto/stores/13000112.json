@@ -1,9 +1,14 @@
 {
   "store_id": "13000112",
   "name": "스카이25",
-  "address": "대전 서구 둔산중로 40 리치빌빌딩117호",
+  "address": "대전 서구 둔산중로 40 둔산중로 40",
   "phone": "042-484-4669",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.350308,
+  "longitude": 127.387231,
+  "updated_at": "2026-01-04T15:53:24.458113"
 }

@@ -1,9 +1,14 @@
 {
   "store_id": "14800136",
   "name": "태금편의점",
-  "address": "경남 창원시 마산회원구 옥정3길 25 신축건물1층",
+  "address": "경남 창원시 마산회원구 옥정3길 25 옥정3길 25",
   "phone": "055-232-5484",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.252523,
+  "longitude": 128.519423,
+  "updated_at": "2026-01-04T15:53:06.831926"
 }

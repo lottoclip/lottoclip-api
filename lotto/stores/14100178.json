@@ -1,9 +1,13 @@
 {
   "store_id": "14100178",
   "name": "행운복권방",
-  "address": "경기 수원시 권선구 구운동 493-16",
-  "phone": "",
+  "address": "경기 수원시 권선구 구운동 493-16 ",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 37.27796,
+  "longitude": 126.973418,
+  "updated_at": "2026-01-04T15:52:46.865391"
 }

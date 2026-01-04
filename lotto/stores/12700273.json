@@ -1,9 +1,14 @@
 {
   "store_id": "12700273",
   "name": "이타임(e-time)읍내점",
-  "address": "대구 북구 칠곡중앙대로 181",
+  "address": "대구 북구 칠곡중앙대로 181 칠곡중앙대로 181",
   "phone": "053-323-1313",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.912187,
+  "longitude": 128.54807,
+  "updated_at": "2026-01-04T15:51:50.651953"
 }

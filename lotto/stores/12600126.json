@@ -1,9 +1,14 @@
 {
   "store_id": "12600126",
   "name": "대원슈퍼마켓",
-  "address": "부산 수영구 수영로 524",
+  "address": "부산 수영구 수영로 524 수영로 524",
   "phone": "051-753-2655",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.152473,
+  "longitude": 129.111995,
+  "updated_at": "2026-01-04T15:53:15.352630"
 }

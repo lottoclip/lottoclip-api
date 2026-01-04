@@ -1,9 +1,14 @@
 {
   "store_id": "14420019",
   "name": "작은신부",
-  "address": "충남 서산시 구진로 6",
-  "phone": "",
+  "address": "충남 서산시 구진로 6 구진로 6",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.936096,
+  "longitude": 126.43599,
+  "updated_at": "2026-01-04T15:53:54.708925"
 }

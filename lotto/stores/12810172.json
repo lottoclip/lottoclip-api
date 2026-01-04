@@ -1,9 +1,14 @@
 {
   "store_id": "12810172",
   "name": "노다지로또",
-  "address": "인천 서구 완정로 179 검단제이원빌딩 108호",
+  "address": "인천 서구 완정로 179 완정로 179",
   "phone": "032-566-5398",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.602306,
+  "longitude": 126.656389,
+  "updated_at": "2026-01-04T15:53:49.621606"
 }

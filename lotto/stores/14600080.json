@@ -1,9 +1,14 @@
 {
   "store_id": "14600080",
   "name": "나주복권방",
-  "address": "전남 나주시 우정로 56 에이동 108호(빛가람동)",
+  "address": "전남 나주시 우정로 56 우정로 56",
   "phone": "061-333-7677",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.02372,
+  "longitude": 126.78559,
+  "updated_at": "2026-01-04T15:52:00.387056"
 }

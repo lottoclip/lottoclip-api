@@ -1,9 +1,14 @@
 {
   "store_id": "12940159",
   "name": "복권판매점",
-  "address": "광주 광산구 단전4길 10 상가 가동 107호",
-  "phone": "",
+  "address": "광주 광산구 단전4길 10 단전4길 10",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.180402,
+  "longitude": 126.799341,
+  "updated_at": "2026-01-04T15:53:41.762482"
 }

@@ -1,9 +1,14 @@
 {
   "store_id": "14800181",
   "name": "소답시내버스매표소",
-  "address": "경남 창원시 의창구 의안로2번길 17 가판",
+  "address": "경남 창원시 의창구 의안로2번길 17 의안로2번길 17",
   "phone": "055-298-3427",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.261776,
+  "longitude": 128.625646,
+  "updated_at": "2026-01-04T15:53:52.563654"
 }

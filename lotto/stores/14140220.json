@@ -1,9 +1,14 @@
 {
   "store_id": "14140220",
-  "name": "헬로복권",
-  "address": "경기 안성시 종합운동장로 161",
-  "phone": "",
+  "name": "세븐일레븐 홍익점",
+  "address": "경기 안성시 종합운동장로 161 종합운동장로 161",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.012396,
+  "longitude": 12.238893,
+  "updated_at": "2026-01-04T15:53:45.991342"
 }

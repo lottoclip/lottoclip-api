@@ -1,9 +1,13 @@
 {
   "store_id": "11110587",
   "name": "북가좌2호점로또판매",
-  "address": "서울 서대문구 북가좌동 329-8번지",
+  "address": "서울 서대문구 북가좌동 329-8번지 ",
   "phone": "02-305-6225",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 37.582089,
+  "longitude": 126.9091,
+  "updated_at": "2026-01-04T15:52:24.148782"
 }

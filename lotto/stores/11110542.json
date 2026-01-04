@@ -1,9 +1,14 @@
 {
   "store_id": "11110542",
   "name": "도곡 행운로또방",
-  "address": "서울 강남구 도곡로4길 11 102호",
+  "address": "서울 강남구 도곡로4길 11 도곡로4길 11",
   "phone": "070-4211-6109",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.489311,
+  "longitude": 127.033694,
+  "updated_at": "2026-01-04T15:53:48.591360"
 }

@@ -1,9 +1,14 @@
 {
   "store_id": "13040044",
   "name": "황금알 복권판매점",
-  "address": "대전 서구 한밭대로570번길 29-4",
-  "phone": "",
+  "address": "대전 서구 한밭대로570번길 29-4 한밭대로570번길 29-4",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.356965,
+  "longitude": 127.36215,
+  "updated_at": "2026-01-04T15:53:34.031057"
 }

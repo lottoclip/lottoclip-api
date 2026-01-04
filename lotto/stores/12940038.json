@@ -1,9 +1,14 @@
 {
   "store_id": "12940038",
   "name": "세러데이 845",
-  "address": "광주 광산구 첨단중앙로182번길 90 상가동 1층 129호(첨단대라수어썸시티)",
-  "phone": "",
+  "address": "광주 광산구 첨단중앙로182번길 90 첨단중앙로182번길 90",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.221331,
+  "longitude": 126.851349,
+  "updated_at": "2026-01-04T15:53:43.311318"
 }

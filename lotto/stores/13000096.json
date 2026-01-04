@@ -1,9 +1,14 @@
 {
   "store_id": "13000096",
   "name": "대한민국마트",
-  "address": "대전 유성구 전민로46번길 40 다세대주택 1층",
+  "address": "대전 유성구 전민로46번길 40 전민로46번길 40",
   "phone": "042-862-1888",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.396687,
+  "longitude": 127.402498,
+  "updated_at": "2026-01-04T15:52:07.918959"
 }

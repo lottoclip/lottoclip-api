@@ -1,9 +1,14 @@
 {
   "store_id": "14141597",
   "name": "로또복권합정점",
-  "address": "경기 평택시 중앙로 176 127호 평택합정 SK뷰 주상복합",
-  "phone": "",
+  "address": "경기 평택시 중앙로 176 중앙로 176",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.991516,
+  "longitude": 127.10191,
+  "updated_at": "2026-01-04T15:53:20.985567"
 }

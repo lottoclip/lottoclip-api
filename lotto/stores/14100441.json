@@ -1,9 +1,14 @@
 {
   "store_id": "14100441",
   "name": "OK편의점",
-  "address": "경기 이천시 중리천로 56",
+  "address": "경기 이천시 중리천로 56 중리천로 56",
   "phone": "031-635-0355",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.279844,
+  "longitude": 127.44385,
+  "updated_at": "2026-01-04T15:53:18.844682"
 }

@@ -1,9 +1,14 @@
 {
   "store_id": "14810032",
   "name": "해피드림조이",
-  "address": "경남 창원시 의창구 천주로 24-1",
+  "address": "경남 창원시 의창구 천주로 24-1 천주로 24-1",
   "phone": "055-295-6451",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.264242,
+  "longitude": 128.618361,
+  "updated_at": "2026-01-04T15:52:53.259630"
 }

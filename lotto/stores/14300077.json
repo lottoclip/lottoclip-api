@@ -1,9 +1,14 @@
 {
   "store_id": "14300077",
   "name": "현대복권방",
-  "address": "충북 청주시 청원구 향군로 140-1",
+  "address": "충북 청주시 청원구 향군로 140-1 향군로 140-1",
   "phone": "043-252-8345",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.656839,
+  "longitude": 127.480028,
+  "updated_at": "2026-01-04T15:52:16.877049"
 }

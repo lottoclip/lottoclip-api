@@ -2,8 +2,12 @@
   "store_id": "11110554",
   "name": "세븐일레븐",
   "address": "서울 강동구 천호동  35-29번지 세븐일레븐내",
-  "phone": "",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 37.549001,
+  "longitude": 127.129684,
+  "updated_at": "2026-01-04T15:52:13.353951"
 }

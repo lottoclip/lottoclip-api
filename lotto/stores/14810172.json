@@ -1,9 +1,14 @@
 {
   "store_id": "14810172",
   "name": "구산복권방",
-  "address": "경남 김해시 구산동  481-3보보스빌딩108호",
+  "address": "경남 김해시 구산동 481-3번지 보보스빌딩108호",
   "phone": "055-338-1270",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.25086,
+  "longitude": 128.872217,
+  "updated_at": "2026-01-04T15:52:21.082218"
 }

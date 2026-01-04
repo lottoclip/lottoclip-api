@@ -1,9 +1,14 @@
 {
   "store_id": "12810107",
   "name": "대동슈퍼",
-  "address": "인천 남동구 만수로 81",
+  "address": "인천 남동구 만수로 81 만수로 81",
   "phone": "032-461-5006",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.462749,
+  "longitude": 126.736164,
+  "updated_at": "2026-01-04T15:53:44.419727"
 }

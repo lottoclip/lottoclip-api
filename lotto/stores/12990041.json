@@ -1,9 +1,14 @@
 {
   "store_id": "12990041",
   "name": "황금슈퍼",
-  "address": "광주 북구 동문대로 102",
+  "address": "광주 북구 동문대로 102 동문대로 102",
   "phone": "062-267-3544",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.172224,
+  "longitude": 126.924817,
+  "updated_at": "2026-01-04T15:52:55.604560"
 }

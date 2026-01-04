@@ -1,9 +1,14 @@
 {
   "store_id": "12600141",
   "name": "우정식품",
-  "address": "부산 동래구 온천장로 33 1층",
+  "address": "부산 동래구 온천장로 33 온천장로 33",
   "phone": "051-554-4353",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.215308,
+  "longitude": 129.079249,
+  "updated_at": "2026-01-04T15:53:53.867660"
 }

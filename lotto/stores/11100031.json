@@ -2,8 +2,13 @@
   "store_id": "11100031",
   "name": "행운복권방",
   "address": "서울 성북구 정릉동(정릉제1동) 16-169 1층 세븐일레븐내 일부",
-  "phone": "",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.587495,
+  "longitude": 127.008152,
+  "updated_at": "2026-01-04T15:52:34.595804"
 }

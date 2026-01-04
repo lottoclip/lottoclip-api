@@ -1,9 +1,14 @@
 {
   "store_id": "11130010",
   "name": "나눔의 로또",
-  "address": "서울 노원구 한글비석로 383 삼창타워플라자아파트",
-  "phone": "",
+  "address": "서울 노원구 한글비석로 383 한글비석로 383",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.661463,
+  "longitude": 127.072795,
+  "updated_at": "2026-01-04T15:52:26.728827"
 }

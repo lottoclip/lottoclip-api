@@ -1,9 +1,14 @@
 {
   "store_id": "14200034",
   "name": "복권천하 미스터잉크동해점",
-  "address": "강원 동해시 발한로 35",
+  "address": "강원 동해시 발한로 35 발한로 35",
   "phone": "033-533-8182",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.535884,
+  "longitude": 129.103153,
+  "updated_at": "2026-01-04T15:52:53.918733"
 }

@@ -13,43 +13,43 @@
   "prize_info": [
     {
       "rank": "1등",
-      "total_prize": "10,469,829,000원",
+      "total_prize": "10469829000",
       "winner_count": "8",
-      "prize_per_winner": "1,308,728,625원"
+      "prize_per_winner": "1308728625"
     },
     {
       "rank": "2등",
-      "total_prize": "1,744,971,520원",
+      "total_prize": "1744971500",
       "winner_count": "32",
-      "prize_per_winner": "54,530,360원"
+      "prize_per_winner": "54530360"
     },
     {
       "rank": "3등",
-      "total_prize": "1,744,971,902원",
-      "winner_count": "1,063",
-      "prize_per_winner": "1,641,554원"
+      "total_prize": "1744971500",
+      "winner_count": "1063",
+      "prize_per_winner": "1641554"
     },
     {
       "rank": "4등",
-      "total_prize": "3,489,948,837원",
-      "winner_count": "56,207",
-      "prize_per_winner": "62,091원"
+      "total_prize": "3489943000",
+      "winner_count": "56207",
+      "prize_per_winner": "62091"
     },
     {
       "rank": "5등",
-      "total_prize": "4,719,875,000원",
-      "winner_count": "943,975",
-      "prize_per_winner": "5,000원"
+      "total_prize": "4719875000",
+      "winner_count": "943975",
+      "prize_per_winner": "5000"
     }
   ],
-  "total_sales_amount": "44,339,180,000원",
+  "total_sales_amount": "44339180000",
   "first_prize_store_info": [
     {
-      "store_id": "11100185",
+      "store_id": "11101476",
       "type": "자동"
     },
     {
-      "store_id": "11101476",
+      "store_id": "11100185",
       "type": "자동"
     },
     {
@@ -77,5 +77,5 @@
       "type": "자동"
     }
   ],
-  "updated_at": "2025-03-10T21:11:37.108264"
+  "updated_at": "2026-01-04T15:51:30.664789"
 }

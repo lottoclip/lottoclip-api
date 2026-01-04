@@ -1,9 +1,14 @@
 {
   "store_id": "12710074",
   "name": "복권천국(수성점)",
-  "address": "대구 수성구 수성로 263",
+  "address": "대구 수성구 수성로 263 수성로 263",
   "phone": "053-765-7472",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.849065,
+  "longitude": 128.612858,
+  "updated_at": "2026-01-04T15:53:42.936975"
 }

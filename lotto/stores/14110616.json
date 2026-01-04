@@ -1,9 +1,14 @@
 {
   "store_id": "14110616",
   "name": "아이지에이마트 오산무지개점",
-  "address": "경기 오산시 현충로 95",
+  "address": "경기 오산시 현충로 95 현충로 95",
   "phone": "031-377-0645",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.160878,
+  "longitude": 127.077524,
+  "updated_at": "2026-01-04T15:53:52.031314"
 }

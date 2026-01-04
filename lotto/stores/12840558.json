@@ -1,9 +1,14 @@
 {
   "store_id": "12840558",
   "name": "황금돼지",
-  "address": "인천 미추홀구 인주대로 370",
-  "phone": "",
+  "address": "인천 미추홀구 인주대로 370 인주대로 370",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.451294,
+  "longitude": 126.677475,
+  "updated_at": "2026-01-04T15:53:55.618162"
 }

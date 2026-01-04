@@ -1,9 +1,14 @@
 {
   "store_id": "11100194",
   "name": "복권명당",
-  "address": "서울 중랑구 면목로 362 1층",
+  "address": "서울 중랑구 면목로 362 면목로 362",
   "phone": "02-434-2446",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.58428,
+  "longitude": 127.088584,
+  "updated_at": "2026-01-04T15:52:48.094055"
 }

@@ -1,9 +1,14 @@
 {
   "store_id": "12600344",
   "name": "하나열쇠",
-  "address": "부산 남구 용호로 179",
+  "address": "부산 남구 용호로 179 용호로 179",
   "phone": "051-627-4088",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.116256,
+  "longitude": 129.111215,
+  "updated_at": "2026-01-04T15:53:04.761299"
 }

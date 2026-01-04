@@ -1,9 +1,14 @@
 {
   "store_id": "14140211",
   "name": "부발로또",
-  "address": "경기 이천시 무촌로 125-1 1층",
-  "phone": "",
+  "address": "경기 이천시 무촌로 125-1 무촌로 125-1",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.283401,
+  "longitude": 127.487737,
+  "updated_at": "2026-01-04T15:52:46.877743"
 }

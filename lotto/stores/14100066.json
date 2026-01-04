@@ -1,9 +1,14 @@
 {
   "store_id": "14100066",
   "name": "코사마트한양점",
-  "address": "경기 고양시 덕양구 마상로 156",
+  "address": "경기 고양시 덕양구 마상로 156 마상로 156",
   "phone": "031-962-0122",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.658402,
+  "longitude": 126.839543,
+  "updated_at": "2026-01-04T15:53:34.038897"
 }

@@ -1,9 +1,14 @@
 {
   "store_id": "14840138",
   "name": "복권판매점",
-  "address": "경남 고성군 남포로 62 2동 101호(덕성아파트)",
-  "phone": "",
+  "address": "경남 고성군 남포로 62 남포로 62",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 34.968729,
+  "longitude": 128.320916,
+  "updated_at": "2026-01-04T15:53:27.260604"
 }

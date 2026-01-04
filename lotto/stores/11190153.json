@@ -1,9 +1,14 @@
 {
   "store_id": "11190153",
   "name": "안목마트",
-  "address": "서울 강북구 한천로 1024",
+  "address": "서울 강북구 한천로 1024 한천로 1024",
   "phone": "02-907-0910",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.639325,
+  "longitude": 127.028137,
+  "updated_at": "2026-01-04T15:52:12.843280"
 }

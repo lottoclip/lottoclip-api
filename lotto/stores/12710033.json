@@ -1,9 +1,14 @@
 {
   "store_id": "12710033",
   "name": "성서제일복권",
-  "address": "대구 달서구 성서동로 320 1층",
+  "address": "대구 달서구 성서동로 320 성서동로 320",
   "phone": "053-591-1645",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.849183,
+  "longitude": 128.516003,
+  "updated_at": "2026-01-04T15:52:16.385489"
 }

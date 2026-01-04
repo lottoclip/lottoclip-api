@@ -1,9 +1,14 @@
 {
   "store_id": "14100528",
-  "name": "주엽간판점",
-  "address": "경기 고양시 일산서구 중앙로 1437 도로",
+  "name": "주엽역 로또판매점",
+  "address": "경기 고양시 일산서구 중앙로 1437 중앙로 1437",
   "phone": "031-914-8980",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.670035,
+  "longitude": 126.76048,
+  "updated_at": "2026-01-04T15:53:44.821914"
 }

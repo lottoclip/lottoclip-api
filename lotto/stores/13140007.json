@@ -1,9 +1,14 @@
 {
   "store_id": "13140007",
   "name": "대한유통",
-  "address": "울산 북구 박상진11로 1 1층112호",
-  "phone": "",
+  "address": "울산 북구 박상진11로 1 박상진11로 1",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.600492,
+  "longitude": 129.364843,
+  "updated_at": "2026-01-04T15:53:31.901611"
 }

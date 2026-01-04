@@ -1,9 +1,14 @@
 {
   "store_id": "11190160",
   "name": "우리식품",
-  "address": "서울 광진구 아차산로 589",
+  "address": "서울 광진구 아차산로 589 아차산로 589",
   "phone": "02-453-7760",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.54599,
+  "longitude": 127.104729,
+  "updated_at": "2026-01-04T15:52:30.170215"
 }

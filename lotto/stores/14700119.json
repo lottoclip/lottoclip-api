@@ -1,9 +1,14 @@
 {
   "store_id": "14700119",
   "name": "로터리편의마트",
-  "address": "경북 포항시 북구 서동로 85 육거리",
+  "address": "경북 포항시 북구 서동로 85 서동로 85",
   "phone": "054-247-2990",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.040766,
+  "longitude": 129.367256,
+  "updated_at": "2026-01-04T15:53:36.676001"
 }

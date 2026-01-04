@@ -1,9 +1,14 @@
 {
   "store_id": "14200110",
   "name": "해피데이",
-  "address": "강원 춘천시 행촌로 11 한성아파트상가102호",
+  "address": "강원 춘천시 행촌로 11 행촌로 11",
   "phone": "033-242-3242",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.858654,
+  "longitude": 127.722325,
+  "updated_at": "2026-01-04T15:51:48.701264"
 }

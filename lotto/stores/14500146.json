@@ -1,9 +1,14 @@
 {
   "store_id": "14500146",
   "name": "농산물직판장",
-  "address": "전북 군산시 백토로 128",
+  "address": "전북 군산시 백토로 128 백토로 128",
   "phone": "063-463-5711",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.96753,
+  "longitude": 126.704875,
+  "updated_at": "2026-01-04T15:53:54.512666"
 }

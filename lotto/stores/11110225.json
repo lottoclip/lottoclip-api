@@ -1,9 +1,14 @@
 {
   "store_id": "11110225",
   "name": "개봉2호점로또판매",
-  "address": "서울 구로구 가마산로 219 1층",
+  "address": "서울 구로구 가마산로 219 가마산로 219",
   "phone": "02-2618-8090",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.493848,
+  "longitude": 126.88551,
+  "updated_at": "2026-01-04T15:52:10.986791"
 }

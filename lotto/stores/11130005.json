@@ -1,9 +1,14 @@
 {
   "store_id": "11130005",
   "name": "행운복권방",
-  "address": "서울 중랑구 봉우재로 41 1층",
+  "address": "서울 중랑구  봉우재로 41 1층",
   "phone": "02-438-2334",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.590792,
+  "longitude": 127.077842,
+  "updated_at": "2026-01-04T15:53:36.977834"
 }

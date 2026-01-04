@@ -1,9 +1,14 @@
 {
   "store_id": "11190081",
   "name": "스포츠베팅샵",
-  "address": "서울 서초구 동산로 48 104호",
+  "address": "서울 서초구 동산로 48 동산로 48",
   "phone": "02-3462-9011",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.471324,
+  "longitude": 127.044343,
+  "updated_at": "2026-01-04T15:52:54.415827"
 }

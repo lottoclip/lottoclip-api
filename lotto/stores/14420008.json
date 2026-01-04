@@ -2,8 +2,13 @@
   "store_id": "14420008",
   "name": "돈벼락복권방",
   "address": "충남 논산시 취암동  896번지1층 상가",
-  "phone": "",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.194924,
+  "longitude": 127.089936,
+  "updated_at": "2026-01-04T15:52:16.025290"
 }

@@ -1,9 +1,14 @@
 {
   "store_id": "14240125",
   "name": "평창로또",
-  "address": "강원 평창군 평창중앙로 42",
-  "phone": "",
+  "address": "강원 평창군 평창중앙로 42 평창중앙로 42",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.367919,
+  "longitude": 128.395599,
+  "updated_at": "2026-01-04T15:53:39.046924"
 }

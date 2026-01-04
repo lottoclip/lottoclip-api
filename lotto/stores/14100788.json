@@ -1,9 +1,14 @@
 {
   "store_id": "14100788",
   "name": "내츄럴하우스복권판매점",
-  "address": "경기 평택시 중앙로 1 1층 상가",
+  "address": "경기 평택시 중앙로 1 중앙로 1",
   "phone": "031-652-9767",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.995721,
+  "longitude": 127.083582,
+  "updated_at": "2026-01-04T15:53:51.628983"
 }

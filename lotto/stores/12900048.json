@@ -1,9 +1,14 @@
 {
   "store_id": "12900048",
   "name": "동원슈퍼",
-  "address": "광주 남구 대남대로 277-1",
+  "address": "광주 남구 대남대로 277-1 대남대로 277-1",
   "phone": "062-362-3406",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.137066,
+  "longitude": 126.896654,
+  "updated_at": "2026-01-04T15:52:16.545034"
 }

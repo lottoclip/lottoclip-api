@@ -1,9 +1,14 @@
 {
   "store_id": "12990023",
   "name": "금집복권",
-  "address": "광주 북구 첨단연신로108번길 134",
-  "phone": "",
+  "address": "광주 북구 첨단연신로108번길 146 첨단연신로108번길 146",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.208388,
+  "longitude": 126.86469,
+  "updated_at": "2026-01-04T15:53:51.863339"
 }

@@ -1,9 +1,14 @@
 {
   "store_id": "14400024",
   "name": "대박마트복권방",
-  "address": "충남 아산시 음봉로 844 태화상가1층103호",
+  "address": "충남 아산시 음봉로 844 음봉로 844",
   "phone": "041-549-0787",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.826485,
+  "longitude": 127.09925,
+  "updated_at": "2026-01-04T15:53:56.510653"
 }

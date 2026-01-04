@@ -1,9 +1,14 @@
 {
   "store_id": "14610106",
-  "name": "종합자동차매매상사",
-  "address": "전남 해남군 해남로 34",
+  "name": "종합복권방",
+  "address": "전남 해남군 해남로 34 해남로 34",
   "phone": "061-536-8161",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 34.570763,
+  "longitude": 126.610925,
+  "updated_at": "2026-01-04T15:53:35.405821"
 }

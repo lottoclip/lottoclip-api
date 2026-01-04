@@ -1,9 +1,14 @@
 {
   "store_id": "14100410",
   "name": "한국슈퍼",
-  "address": "경기 부천시 원종로35번길 24 한울빌리지 상가101호",
+  "address": "경기 부천시 원종로35번길 24 원종로35번길 24",
   "phone": "032-682-2902",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.525057,
+  "longitude": 126.804122,
+  "updated_at": "2026-01-04T15:53:45.957516"
 }

@@ -1,9 +1,14 @@
 {
   "store_id": "14500053",
   "name": "운수대통복권방",
-  "address": "전북 익산시 무왕로23길 3",
+  "address": "전북 익산시 무왕로23길 3 무왕로23길 3",
   "phone": "063-833-0533",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.959702,
+  "longitude": 126.988418,
+  "updated_at": "2026-01-04T15:53:01.272677"
 }

@@ -1,9 +1,14 @@
 {
   "store_id": "12810151",
   "name": "한일로또",
-  "address": "인천 남동구 경인로 664-1 1층점포101호",
+  "address": "인천 남동구 경인로 664-1 경인로 664-1",
   "phone": "032-425-6855",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.469136,
+  "longitude": 126.708267,
+  "updated_at": "2026-01-04T15:52:46.582108"
 }

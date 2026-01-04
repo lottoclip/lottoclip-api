@@ -1,9 +1,14 @@
 {
   "store_id": "12840413",
   "name": "운수대통",
-  "address": "인천 미추홀구 경인로34번길 35 1층 (숭의동)",
-  "phone": "",
+  "address": "인천 미추홀구 경인로34번길 35 경인로34번길 35",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.462362,
+  "longitude": 126.647851,
+  "updated_at": "2026-01-04T15:53:32.472709"
 }

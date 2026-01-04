@@ -1,9 +1,14 @@
 {
   "store_id": "12840079",
   "name": "제일복권",
-  "address": "인천 서구 율도로 45",
-  "phone": "",
+  "address": "인천 서구 율도로 45 율도로 45",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.51384,
+  "longitude": 126.667235,
+  "updated_at": "2026-01-04T15:53:48.637203"
 }

@@ -1,9 +1,14 @@
 {
   "store_id": "12790075",
   "name": "LA24시편의점",
-  "address": "대구 달서구 달구벌대로 1005 상가 103호",
+  "address": "대구 달서구 달구벌대로 1005 달구벌대로 1005",
   "phone": "053-581-8256",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.853388,
+  "longitude": 128.477076,
+  "updated_at": "2026-01-04T15:52:50.998181"
 }

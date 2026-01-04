@@ -1,9 +1,14 @@
 {
   "store_id": "14590021",
   "name": "부안복권방",
-  "address": "전북 부안군 번영로 135",
+  "address": "전북 부안군 번영로 135 번영로 135",
   "phone": "063-581-3256",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.726229,
+  "longitude": 126.735427,
+  "updated_at": "2026-01-04T15:53:54.520074"
 }

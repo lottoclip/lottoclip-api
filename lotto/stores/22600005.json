@@ -1,9 +1,13 @@
 {
   "store_id": "22600005",
   "name": "씨스페이스(죽림점)",
-  "address": "부산 강서구 죽림동 590번지",
+  "address": "부산 강서구 죽림동 590번지 ",
   "phone": "070-4101-7310",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 35.196314,
+  "longitude": 128.900576,
+  "updated_at": "2026-01-04T15:52:56.725789"
 }

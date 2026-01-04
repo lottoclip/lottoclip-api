@@ -1,9 +1,14 @@
 {
   "store_id": "14840018",
   "name": "오름복권",
-  "address": "경남 김해시 진례로 277 2호 복권판매점",
+  "address": "경남 김해시 진례로 277 진례로 277",
   "phone": "055-343-8245",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.252477,
+  "longitude": 128.747375,
+  "updated_at": "2026-01-04T15:52:45.423912"
 }

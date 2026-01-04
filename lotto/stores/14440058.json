@@ -1,9 +1,14 @@
 {
   "store_id": "14440058",
   "name": "대박복권",
-  "address": "충남 홍성군 충서로 2423 세븐일레븐",
-  "phone": "",
+  "address": "충남 홍성군 충서로 2423 충서로 2423",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.63776,
+  "longitude": 126.74336,
+  "updated_at": "2026-01-04T15:53:30.039215"
 }

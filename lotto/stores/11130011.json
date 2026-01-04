@@ -1,9 +1,14 @@
 {
   "store_id": "11130011",
   "name": "행운사",
-  "address": "서울 노원구 석계로 8-1 1층",
+  "address": "서울 노원구 석계로 8-1 석계로 8-1",
   "phone": "02-6402-9797",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.615678,
+  "longitude": 127.064676,
+  "updated_at": "2026-01-04T15:53:25.925709"
 }

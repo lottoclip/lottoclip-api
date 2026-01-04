@@ -1,9 +1,14 @@
 {
   "store_id": "14800008",
   "name": "삼영복권",
-  "address": "경남 김해시 전하로 275 복권판매점",
+  "address": "경남 김해시 전하로 275 전하로 275",
   "phone": "055-337-9226",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.228129,
+  "longitude": 128.871947,
+  "updated_at": "2026-01-04T15:53:40.446671"
 }

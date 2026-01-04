@@ -1,9 +1,14 @@
 {
   "store_id": "14840123",
   "name": "로또판매점",
-  "address": "경남 거제시 중곡로3길 46 1층",
-  "phone": "",
+  "address": "경남 거제시 중곡로3길 46 중곡로3길 46",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 34.893779,
+  "longitude": 128.625859,
+  "updated_at": "2026-01-04T15:53:23.652475"
 }

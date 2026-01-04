@@ -1,9 +1,13 @@
 {
   "store_id": "21100460",
   "name": "씨스페이스(흑석중대점)",
-  "address": "서울 동작구 흑석동 52-1번지",
+  "address": "서울 동작구 흑석동 52-1번지 ",
   "phone": "02-825-6553",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 37.50771,
+  "longitude": 126.963275,
+  "updated_at": "2026-01-04T15:52:39.183357"
 }

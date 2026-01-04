@@ -1,9 +1,13 @@
 {
   "store_id": "12600370",
   "name": "하단복권",
-  "address": "부산 사하구 당리동  304-3번지인더코너편의점",
+  "address": "부산 사하구 당리동 304-3번지 ",
   "phone": "051-291-4624",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 35.105416,
+  "longitude": 128.969875,
+  "updated_at": "2026-01-04T15:52:51.198001"
 }

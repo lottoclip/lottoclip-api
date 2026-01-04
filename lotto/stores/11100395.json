@@ -1,9 +1,14 @@
 {
   "store_id": "11100395",
   "name": "신세계슈퍼",
-  "address": "서울 영등포구 대림로 191",
+  "address": "서울 영등포구 대림로 191 대림로 191",
   "phone": "070-7736-2578",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.497769,
+  "longitude": 126.898289,
+  "updated_at": "2026-01-04T15:52:32.401458"
 }

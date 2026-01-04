@@ -1,9 +1,14 @@
 {
   "store_id": "14190100",
   "name": "행운이랑대박이랑",
-  "address": "경기 수원시 장안구 만석로 99",
+  "address": "경기 수원시 장안구 만석로 99 만석로 99",
   "phone": "031-255-5888",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.298913,
+  "longitude": 126.992041,
+  "updated_at": "2026-01-04T15:52:02.296967"
 }

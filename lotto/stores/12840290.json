@@ -1,9 +1,14 @@
 {
   "store_id": "12840290",
   "name": "행복드림 복권",
-  "address": "인천 서구 청라라임로 85 판매시설 비동 131호 후면(청라동, 청라린스트라우스)",
-  "phone": "",
+  "address": "인천 서구 청라라임로 85 청라라임로 85",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.535159,
+  "longitude": 126.653132,
+  "updated_at": "2026-01-04T15:53:53.486525"
 }

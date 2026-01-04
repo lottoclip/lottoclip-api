@@ -1,9 +1,14 @@
 {
   "store_id": "12640094",
   "name": "로또랑",
-  "address": "부산 기장군 일광로 86 바라보고 오른쪽",
-  "phone": "",
+  "address": "부산 기장군 일광로 86 일광로 86",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.26367,
+  "longitude": 129.23287,
+  "updated_at": "2026-01-04T15:53:26.587351"
 }

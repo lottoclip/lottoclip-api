@@ -1,9 +1,13 @@
 {
   "store_id": "22700110",
   "name": "GS25(칠곡구안점)",
-  "address": "대구 북구 읍내동 1341-4번지",
+  "address": "대구 북구 읍내동 1341-4번지 ",
   "phone": "053-314-8809",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 35.935154,
+  "longitude": 128.549144,
+  "updated_at": "2026-01-04T15:52:38.023853"
 }

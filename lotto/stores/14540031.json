@@ -1,9 +1,14 @@
 {
   "store_id": "14540031",
   "name": "에코시티복권판매점",
-  "address": "전북 전주시 덕진구 세병로 8 106호",
-  "phone": "",
+  "address": "전북 전주시 덕진구 세병로 8 세병로 8",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.875503,
+  "longitude": 127.126852,
+  "updated_at": "2026-01-04T15:53:36.871778"
 }

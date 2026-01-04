@@ -1,9 +1,14 @@
 {
   "store_id": "12810195",
   "name": "대박복권방",
-  "address": "인천 서구 대평로 3",
+  "address": "인천 서구 대평로 3 대평로 3",
   "phone": "032-563-0219",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.547123,
+  "longitude": 126.67662,
+  "updated_at": "2026-01-04T15:53:06.805398"
 }

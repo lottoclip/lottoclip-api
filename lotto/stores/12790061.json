@@ -1,9 +1,14 @@
 {
   "store_id": "12790061",
   "name": "복권나라(들안길)",
-  "address": "대구 수성구 들안로 165",
+  "address": "대구 수성구 들안로 165 들안로 165",
   "phone": "053-762-0182",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.844782,
+  "longitude": 128.616429,
+  "updated_at": "2026-01-04T15:52:04.753140"
 }

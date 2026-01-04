@@ -1,9 +1,14 @@
 {
   "store_id": "11100047",
   "name": "복권",
-  "address": "서울 중구 을지로 지하 58 을지입구지하도상가 92호",
+  "address": "서울 중구 을지로 지하 58 을지로 지하 58",
   "phone": "070-8849-8958",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.566035,
+  "longitude": 126.983639,
+  "updated_at": "2026-01-04T15:52:26.551647"
 }

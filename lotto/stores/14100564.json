@@ -2,8 +2,12 @@
   "store_id": "14100564",
   "name": "버스판매소",
   "address": "경기 고양시 덕양구 화정동 1045번지 865 선신안아파트 앞",
-  "phone": "",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 37.643603,
+  "longitude": 126.8322,
+  "updated_at": "2026-01-04T15:51:35.558842"
 }

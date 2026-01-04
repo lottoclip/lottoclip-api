@@ -1,9 +1,14 @@
 {
   "store_id": "12610132",
   "name": "빅세일복권방",
-  "address": "부산 부산진구 서면문화로 6",
+  "address": "부산 부산진구 서면문화로 6 서면문화로 6",
   "phone": "051-819-2221",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.158302,
+  "longitude": 129.058097,
+  "updated_at": "2026-01-04T15:53:51.847136"
 }

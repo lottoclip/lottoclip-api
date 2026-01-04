@@ -1,9 +1,14 @@
 {
   "store_id": "14420006",
   "name": "왕대박복권",
-  "address": "충남 논산시 계백로 1853 편의점",
-  "phone": "041-735-8262",
+  "address": "충남 논산시 계백로 1853 계백로 1853",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.212373,
+  "longitude": 127.178721,
+  "updated_at": "2026-01-04T15:53:19.004587"
 }

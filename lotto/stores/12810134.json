@@ -1,9 +1,14 @@
 {
   "store_id": "12810134",
   "name": "대박로또방",
-  "address": "인천 미추홀구 낙섬서로 46",
+  "address": "인천 미추홀구 낙섬서로 46 낙섬서로 46",
   "phone": "032-886-8889",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.453268,
+  "longitude": 126.636084,
+  "updated_at": "2026-01-04T15:53:28.340669"
 }

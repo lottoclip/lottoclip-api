@@ -1,9 +1,14 @@
 {
   "store_id": "11110669",
   "name": "포이로또방",
-  "address": "서울 강남구 개포로22길 19 1층",
+  "address": "서울 강남구  개포로22길 19 1층",
   "phone": "02-572-1044",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.477766,
+  "longitude": 127.048522,
+  "updated_at": "2026-01-04T15:53:15.087441"
 }

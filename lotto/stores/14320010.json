@@ -1,9 +1,14 @@
 {
   "store_id": "14320010",
   "name": "복터져",
-  "address": "충북 청주시 청원구 율량로 36 103호",
-  "phone": "",
+  "address": "충북 청주시 청원구 율량로 36 율량로 36",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.673288,
+  "longitude": 127.490052,
+  "updated_at": "2026-01-04T15:52:13.876134"
 }

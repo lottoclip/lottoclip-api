@@ -1,9 +1,14 @@
 {
   "store_id": "11101222",
   "name": "74호종합가판",
-  "address": "서울 종로구 청계천로 111 가판",
+  "address": "서울 종로구  청계천로 111 가판",
   "phone": "02-2268-7938",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.568412,
+  "longitude": 126.989854,
+  "updated_at": "2026-01-04T15:53:37.264701"
 }

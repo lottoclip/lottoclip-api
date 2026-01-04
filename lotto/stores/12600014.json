@@ -1,9 +1,13 @@
 {
   "store_id": "12600014",
   "name": "행운복권방",
-  "address": "부산 서구 충무동1가 28-19번지",
+  "address": "부산 서구 충무동1가 28-19번지 ",
   "phone": "051-243-4336",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 35.095531,
+  "longitude": 129.023436,
+  "updated_at": "2026-01-04T15:52:26.910510"
 }

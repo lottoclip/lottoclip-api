@@ -1,9 +1,14 @@
 {
   "store_id": "14500058",
   "name": "떳다복권방",
-  "address": "전북 군산시 조촌로 90",
+  "address": "전북 군산시 조촌로 90 조촌로 90",
   "phone": "063-453-6436",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.971949,
+  "longitude": 126.738021,
+  "updated_at": "2026-01-04T15:53:14.259528"
 }

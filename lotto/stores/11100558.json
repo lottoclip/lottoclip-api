@@ -1,9 +1,14 @@
 {
   "store_id": "11100558",
   "name": "묵동식품",
-  "address": "서울 중랑구 동일로 919",
+  "address": "서울 중랑구 동일로 919 동일로 919",
   "phone": "02-979-3157",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.612457,
+  "longitude": 127.07704,
+  "updated_at": "2026-01-04T15:53:48.405443"
 }

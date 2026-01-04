@@ -1,9 +1,14 @@
 {
   "store_id": "11101325",
   "name": "진텔레콤",
-  "address": "서울 구로구 구로중앙로 216-1 1층",
+  "address": "서울 구로구 구로중앙로 216-1 구로중앙로 216-1",
   "phone": "02-6348-2900",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.505304,
+  "longitude": 126.877336,
+  "updated_at": "2026-01-04T15:52:26.357101"
 }

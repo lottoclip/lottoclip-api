@@ -1,9 +1,14 @@
 {
   "store_id": "14120141",
   "name": "KS마트",
-  "address": "경기 포천시 가산면 방축리 403-4",
+  "address": "경기 포천시 가산면 방축리 403-4 ",
   "phone": "031-543-4154",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.837889,
+  "longitude": 127.165502,
+  "updated_at": "2026-01-04T15:52:39.382429"
 }

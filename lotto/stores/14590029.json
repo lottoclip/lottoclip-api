@@ -1,9 +1,14 @@
 {
   "store_id": "14590029",
   "name": "중앙복권방",
-  "address": "전북 전주시 완산구 공북로 95",
-  "phone": "063-272-1665",
+  "address": "전북 전주시 완산구 공북로 95 공북로 95",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.826472,
+  "longitude": 127.14216,
+  "updated_at": "2026-01-04T15:52:18.362332"
 }

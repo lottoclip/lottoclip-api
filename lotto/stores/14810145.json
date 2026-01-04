@@ -1,9 +1,14 @@
 {
   "store_id": "14810145",
   "name": "로또정량점",
-  "address": "경남 통영시 통영해안로 395",
+  "address": "경남 통영시 통영해안로 395 통영해안로 395",
   "phone": "055-643-0147",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 34.845317,
+  "longitude": 128.431206,
+  "updated_at": "2026-01-04T15:53:08.525372"
 }

@@ -1,9 +1,14 @@
 {
   "store_id": "12800051",
   "name": "찬스복권방",
-  "address": "인천 부평구 육동로 20-1 1층",
+  "address": "인천 부평구 육동로 20-1 육동로 20-1",
   "phone": "032-526-8707",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.48712,
+  "longitude": 126.725117,
+  "updated_at": "2026-01-04T15:52:44.292337"
 }

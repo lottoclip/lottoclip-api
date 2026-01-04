@@ -1,9 +1,14 @@
 {
   "store_id": "12840120",
   "name": "대복",
-  "address": "인천 남동구 남동대로239번길 68 116호",
-  "phone": "",
+  "address": "인천 남동구 남동대로239번길 68 남동대로239번길 68",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.408128,
+  "longitude": 126.695808,
+  "updated_at": "2026-01-04T15:53:38.616180"
 }

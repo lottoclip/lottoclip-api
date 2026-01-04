@@ -1,9 +1,14 @@
 {
   "store_id": "13040023",
   "name": "행운로또복권방 봉명점",
-  "address": "대전 유성구 계룡로74번길 20",
+  "address": "대전 유성구 계룡로74번길 20 계룡로74번길 20",
   "phone": "042-525-8588",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.353756,
+  "longitude": 127.338364,
+  "updated_at": "2026-01-04T15:53:09.555406"
 }

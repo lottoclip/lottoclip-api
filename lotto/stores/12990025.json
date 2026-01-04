@@ -1,9 +1,14 @@
 {
   "store_id": "12990025",
   "name": "풍향동복권나라",
-  "address": "광주 북구 필문대로 79",
+  "address": "광주 북구 필문대로 79 필문대로 79",
   "phone": "062-527-7717",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.162693,
+  "longitude": 126.928303,
+  "updated_at": "2026-01-04T15:52:21.807786"
 }

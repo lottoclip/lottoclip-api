@@ -1,9 +1,14 @@
 {
   "store_id": "11110039",
-  "name": "복권",
-  "address": "서울 관악구 낙성대역길 91 1층",
-  "phone": "",
+  "name": "최고복권명당",
+  "address": "서울 관악구 봉천동(인헌동) 196-33 ",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.474446,
+  "longitude": 126.963829,
+  "updated_at": "2026-01-04T15:52:40.671694"
 }

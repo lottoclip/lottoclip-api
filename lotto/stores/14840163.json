@@ -1,9 +1,14 @@
 {
   "store_id": "14840163",
   "name": "동행복권",
-  "address": "경남 사천시 중앙로 182-1",
-  "phone": "",
+  "address": "경남 사천시 중앙로 182-1 중앙로 182-1",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 34.942076,
+  "longitude": 128.081016,
+  "updated_at": "2026-01-04T15:53:26.876924"
 }

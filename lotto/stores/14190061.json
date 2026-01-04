@@ -1,9 +1,14 @@
 {
   "store_id": "14190061",
   "name": "에이스복권방",
-  "address": "경기 동두천시 삼육사로 1005 1층",
+  "address": "경기 동두천시 삼육사로 1005 삼육사로 1005",
   "phone": "031-862-1368",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.899333,
+  "longitude": 127.061641,
+  "updated_at": "2026-01-04T15:52:24.183541"
 }

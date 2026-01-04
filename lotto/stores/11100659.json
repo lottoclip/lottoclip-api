@@ -1,9 +1,14 @@
 {
   "store_id": "11100659",
   "name": "시흥식품",
-  "address": "서울 금천구 시흥대로63길 13 1층",
+  "address": "서울 금천구 시흥대로63길 13 시흥대로63길 13",
   "phone": "02-808-5861",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.454874,
+  "longitude": 126.898824,
+  "updated_at": "2026-01-04T15:52:44.483512"
 }

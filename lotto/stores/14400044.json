@@ -1,9 +1,14 @@
 {
   "store_id": "14400044",
   "name": "서산로또명당점",
-  "address": "충남 서산시 서해로 3207 세븐일레븐편의점 옆",
-  "phone": "",
+  "address": "충남 서산시 서해로 3207 서해로 3207",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.771279,
+  "longitude": 126.43668,
+  "updated_at": "2026-01-04T15:53:12.616374"
 }

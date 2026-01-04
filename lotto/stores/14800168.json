@@ -1,9 +1,14 @@
 {
   "store_id": "14800168",
-  "name": "다음정보텔레콤(훼미리마트내)",
-  "address": "경남 진주시 진양호로 243 CU편의점내",
-  "phone": "",
+  "name": "다음정보텔레콤",
+  "address": "경남 진주시 진양호로 243 진양호로 243",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.175762,
+  "longitude": 128.062097,
+  "updated_at": "2026-01-04T15:53:24.642287"
 }

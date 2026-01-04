@@ -1,9 +1,14 @@
 {
   "store_id": "12810040",
   "name": "로또명당",
-  "address": "인천 미추홀구 인주대로 423 101호",
+  "address": "인천 미추홀구 인주대로 423 인주대로 423",
   "phone": "032-422-6928",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.451463,
+  "longitude": 126.683703,
+  "updated_at": "2026-01-04T15:53:22.112571"
 }

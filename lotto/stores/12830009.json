@@ -1,9 +1,14 @@
 {
   "store_id": "12830009",
   "name": "황금복권방",
-  "address": "인천 연수구 컨벤시아대로 81 송도동 드림시티 113-2호",
+  "address": "인천 연수구 컨벤시아대로 81 컨벤시아대로 81",
   "phone": "032-813-0642",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.394942,
+  "longitude": 126.650165,
+  "updated_at": "2026-01-04T15:53:38.816162"
 }

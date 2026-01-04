@@ -1,9 +1,14 @@
 {
   "store_id": "14810069",
   "name": "삼계복권전문점",
-  "address": "경남 창원시 마산회원구 경남대로 915",
+  "address": "경남 창원시 마산회원구 경남대로 915 경남대로 915",
   "phone": "055-231-1959",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.231875,
+  "longitude": 128.504624,
+  "updated_at": "2026-01-04T15:53:23.396541"
 }

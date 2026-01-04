@@ -1,9 +1,14 @@
 {
   "store_id": "14110477",
   "name": "로또복권",
-  "address": "경기 화성시 송산면 사강리 694-4",
+  "address": "경기 화성시 송산면 사강리 672-4 ",
   "phone": "031-357-9003",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.21268,
+  "longitude": 126.73488,
+  "updated_at": "2026-01-04T15:52:57.114463"
 }

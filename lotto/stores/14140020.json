@@ -1,9 +1,14 @@
 {
   "store_id": "14140020",
   "name": "남문시장",
-  "address": "경기 수원시 팔달구 수원천로255번길 6 89호(영동, 영동시장)",
-  "phone": "",
+  "address": "경기 수원시 팔달구 수원천로255번길 6 수원천로255번길 6",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.277484,
+  "longitude": 127.018637,
+  "updated_at": "2026-01-04T15:53:54.089851"
 }

@@ -1,9 +1,13 @@
 {
   "store_id": "22700067",
   "name": "CU(본리점)",
-  "address": "대구 달서구 본리동 379-2",
+  "address": "대구 달서구 본리동 379-2 ",
   "phone": "053-562-2468",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 35.840604,
+  "longitude": 128.537509,
+  "updated_at": "2026-01-04T15:52:31.141103"
 }

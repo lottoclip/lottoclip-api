@@ -1,9 +1,14 @@
 {
   "store_id": "14290026",
   "name": "복권닷컴",
-  "address": "강원 양양군 양양로 62",
+  "address": "강원 양양군 양양로 62 양양로 62",
   "phone": "033-671-8252",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 38.075512,
+  "longitude": 128.622326,
+  "updated_at": "2026-01-04T15:53:29.286715"
 }

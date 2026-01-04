@@ -1,9 +1,13 @@
 {
   "store_id": "11110304",
   "name": "한누리",
-  "address": "서울 동작구 사당동(사당제2동) 132-6",
+  "address": "서울 동작구 사당동(사당제2동) 132-6 ",
   "phone": "02-592-3171",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 37.487629,
+  "longitude": 126.980986,
+  "updated_at": "2026-01-04T15:52:52.391218"
 }

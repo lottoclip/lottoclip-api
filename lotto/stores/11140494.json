@@ -1,9 +1,14 @@
 {
   "store_id": "11140494",
   "name": "지니복권",
-  "address": "서울 금천구 금하로 632 16호",
-  "phone": "",
+  "address": "서울 금천구 금하로 632 금하로 632",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.45465,
+  "longitude": 126.90136,
+  "updated_at": "2026-01-04T15:53:35.977077"
 }

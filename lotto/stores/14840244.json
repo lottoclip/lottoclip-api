@@ -1,9 +1,14 @@
 {
   "store_id": "14840244",
   "name": "로또명당",
-  "address": "경남 창원시 의창구  도계로 49",
-  "phone": "",
+  "address": "경남 창원시 의창구  도계로 49 ",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.260042,
+  "longitude": 128.637311,
+  "updated_at": "2026-01-04T15:53:33.180278"
 }

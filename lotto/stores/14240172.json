@@ -1,9 +1,14 @@
 {
   "store_id": "14240172",
   "name": "횡성터미널로또",
-  "address": "강원 횡성군 앞들서로19번길 10 1층 101호",
-  "phone": "",
+  "address": "강원 횡성군 앞들서로19번길 10 앞들서로19번길 10",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.487842,
+  "longitude": 127.982557,
+  "updated_at": "2026-01-04T15:53:33.343369"
 }

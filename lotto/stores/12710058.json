@@ -1,9 +1,14 @@
 {
   "store_id": "12710058",
   "name": "월드",
-  "address": "대구 수성구 달구벌대로631길 3",
+  "address": "대구 수성구 달구벌대로631길 3 달구벌대로631길 3",
   "phone": "053-795-6450",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.842384,
+  "longitude": 128.703071,
+  "updated_at": "2026-01-04T15:52:10.077364"
 }

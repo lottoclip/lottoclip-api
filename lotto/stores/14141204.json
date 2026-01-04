@@ -1,9 +1,14 @@
 {
   "store_id": "14141204",
   "name": "대박로또",
-  "address": "경기 부천시 중동로420번길 6 103호",
-  "phone": "",
+  "address": "경기 부천시 중동로420번길 6 중동로420번길 6",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.517274,
+  "longitude": 126.770375,
+  "updated_at": "2026-01-04T15:53:26.809527"
 }

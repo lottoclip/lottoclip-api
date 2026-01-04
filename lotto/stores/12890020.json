@@ -1,9 +1,14 @@
 {
   "store_id": "12890020",
   "name": "복권천국",
-  "address": "인천 남동구 석산로 120",
+  "address": "인천 남동구 석산로 120 석산로 120",
   "phone": "032-424-6997",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.460194,
+  "longitude": 126.705047,
+  "updated_at": "2026-01-04T15:53:07.885596"
 }

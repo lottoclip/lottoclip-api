@@ -1,9 +1,13 @@
 {
   "store_id": "14110367",
   "name": "팡팡복권방",
-  "address": "경기 군포시 당동(군포1동) 750-26",
+  "address": "경기 군포시 당동(군포1동) 750-26 ",
   "phone": "031-349-1030",
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 37.353596,
+  "longitude": 126.946504,
+  "updated_at": "2026-01-04T15:52:38.835469"
 }

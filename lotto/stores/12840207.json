@@ -1,9 +1,14 @@
 {
   "store_id": "12840207",
   "name": "로또 앤 모바일",
-  "address": "인천 계양구 장제로 998 1층",
-  "phone": "",
+  "address": "인천 계양구 장제로 998 장제로 998",
+  "phone": null,
   "lottery_types": [
-    "lotto645"
-  ]
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.554701,
+  "longitude": 126.74553,
+  "updated_at": "2026-01-04T15:53:30.010444"
 }
