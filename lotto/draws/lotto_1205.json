@@ -1,0 +1,89 @@
+{
+  "draw_no": 1205,
+  "draw_date": "2026-01-03",
+  "numbers": [
+    1,
+    4,
+    16,
+    23,
+    31,
+    41
+  ],
+  "bonus_number": 2,
+  "prize_info": [
+    {
+      "rank": "1등",
+      "total_prize": "32263862630",
+      "winner_count": "10",
+      "prize_per_winner": "3226386263"
+    },
+    {
+      "rank": "2등",
+      "total_prize": "5377310527",
+      "winner_count": "97",
+      "prize_per_winner": "55436191"
+    },
+    {
+      "rank": "3등",
+      "total_prize": "5377311870",
+      "winner_count": "3486",
+      "prize_per_winner": "1542545"
+    },
+    {
+      "rank": "4등",
+      "total_prize": "8737000000",
+      "winner_count": "174740",
+      "prize_per_winner": "50000"
+    },
+    {
+      "rank": "5등",
+      "total_prize": "14579890000",
+      "winner_count": "2915978",
+      "prize_per_winner": "5000"
+    }
+  ],
+  "total_sales_amount": "132670747000",
+  "first_prize_store_info": [
+    {
+      "store_id": "12690043",
+      "type": "자동"
+    },
+    {
+      "store_id": "12640104",
+      "type": "자동"
+    },
+    {
+      "store_id": "12600054",
+      "type": "자동"
+    },
+    {
+      "store_id": "12790026",
+      "type": "자동"
+    },
+    {
+      "store_id": "12710056",
+      "type": "자동"
+    },
+    {
+      "store_id": "12840218",
+      "type": "자동"
+    },
+    {
+      "store_id": "14141835",
+      "type": "자동"
+    },
+    {
+      "store_id": "14340094",
+      "type": "자동"
+    },
+    {
+      "store_id": "14400019",
+      "type": "수동"
+    },
+    {
+      "store_id": "14800087",
+      "type": "자동"
+    }
+  ],
+  "updated_at": "2026-01-04T15:39:39.191516"
+}

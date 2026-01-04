@@ -218,11 +218,16 @@
   "12690043": {
     "store_id": "12690043",
     "name": "기장슈퍼",
-    "address": "부산 기장군 차성동로 69",
+    "address": "부산 기장군 차성동로 69 차성동로 69",
     "phone": "051-722-1187",
     "lottery_types": [
-      "lotto645"
-    ]
+      "lotto645",
+      "pension720",
+      "speetto"
+    ],
+    "latitude": 35.243927,
+    "longitude": 129.2165,
+    "updated_at": "2026-01-04T15:39:39.101275"
   },
   "12600057": {
     "store_id": "12600057",
@@ -1802,11 +1807,16 @@
   "12600054": {
     "store_id": "12600054",
     "name": "부일카서비스",
-    "address": "부산 동구 자성로133번길 35",
+    "address": "부산 동구 자성로133번길 35 자성로133번길 35",
     "phone": "051-637-7747",
     "lottery_types": [
-      "lotto645"
-    ]
+      "lotto645",
+      "pension720",
+      "speetto"
+    ],
+    "latitude": 35.140016,
+    "longitude": 129.063069,
+    "updated_at": "2026-01-04T15:39:39.110591"
   },
   "12710129": {
     "store_id": "12710129",
@@ -15293,11 +15303,16 @@
   "14400019": {
     "store_id": "14400019",
     "name": "운수대통복권방",
-    "address": "충남 천안시 동남구 대흥로 122 중앙시장 입구",
+    "address": "충남 천안시 동남구 대흥로 122 대흥로 122",
     "phone": "041-554-1259",
     "lottery_types": [
-      "lotto645"
-    ]
+      "lotto645",
+      "pension720",
+      "speetto"
+    ],
+    "latitude": 36.800491,
+    "longitude": 127.149261,
+    "updated_at": "2026-01-04T15:39:39.128639"
   },
   "14710091": {
     "store_id": "14710091",
@@ -21449,11 +21464,14 @@
   "14800087": {
     "store_id": "14800087",
     "name": "명당",
-    "address": "경남 진주시 동부로 1356 1층 일부호",
-    "phone": "",
+    "address": "경남 진주시 동부로 1356 동부로 1356",
+    "phone": null,
     "lottery_types": [
       "lotto645"
-    ]
+    ],
+    "latitude": 35.187308,
+    "longitude": 128.224824,
+    "updated_at": "2026-01-04T15:39:39.135914"
   },
   "13120006": {
     "store_id": "13120006",
@@ -29369,11 +29387,16 @@
   "12710056": {
     "store_id": "12710056",
     "name": "황금대박점",
-    "address": "대구 수성구 지범로 62 1층 복권판매점",
+    "address": "대구 수성구 지범로 62 지범로 62",
     "phone": "053-0000-0000",
     "lottery_types": [
-      "lotto645"
-    ]
+      "lotto645",
+      "pension720",
+      "speetto"
+    ],
+    "latitude": 35.826052,
+    "longitude": 128.627488,
+    "updated_at": "2026-01-04T15:39:39.118993"
   },
   "12800022": {
     "store_id": "12800022",
@@ -39472,5 +39495,75 @@
     "lottery_types": [
       "lotto645"
     ]
+  },
+  "12640104": {
+    "store_id": "12640104",
+    "name": "평생꽃길대연점",
+    "address": "부산 남구 수영로266번길 37 수영로266번길 37",
+    "phone": null,
+    "lottery_types": [
+      "lotto645",
+      "pension720",
+      "speetto"
+    ],
+    "latitude": 35.135071,
+    "longitude": 129.097181,
+    "updated_at": "2026-01-04T15:39:39.110084"
+  },
+  "12790026": {
+    "store_id": "12790026",
+    "name": "복권명당신기점",
+    "address": "대구 동구 율하동로24길 49 율하동로24길 49",
+    "phone": null,
+    "lottery_types": [
+      "lotto645",
+      "pension720",
+      "speetto"
+    ],
+    "latitude": 35.869595,
+    "longitude": 128.707683,
+    "updated_at": "2026-01-04T15:39:39.117407"
+  },
+  "12840218": {
+    "store_id": "12840218",
+    "name": "대박복권판매점",
+    "address": "인천 남동구 구월남로 190 구월남로 190",
+    "phone": null,
+    "lottery_types": [
+      "lotto645",
+      "pension720",
+      "speetto"
+    ],
+    "latitude": 37.452673,
+    "longitude": 126.71069,
+    "updated_at": "2026-01-04T15:39:39.125949"
+  },
+  "14141835": {
+    "store_id": "14141835",
+    "name": "행운강림 로또방",
+    "address": "경기 안산시 상록구 반석로 54 반석로 54",
+    "phone": null,
+    "lottery_types": [
+      "lotto645",
+      "pension720",
+      "speetto"
+    ],
+    "latitude": 37.296514,
+    "longitude": 126.8657,
+    "updated_at": "2026-01-04T15:39:39.127083"
+  },
+  "14340094": {
+    "store_id": "14340094",
+    "name": "별복권방",
+    "address": "충북 청주시 흥덕구 덕암로114번길 28 덕암로114번길 28",
+    "phone": "070-8285-5029",
+    "lottery_types": [
+      "lotto645",
+      "pension720",
+      "speetto"
+    ],
+    "latitude": 36.650028,
+    "longitude": 127.46118,
+    "updated_at": "2026-01-04T15:39:39.128134"
   }
 }

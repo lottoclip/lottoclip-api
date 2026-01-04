@@ -4,7 +4,6 @@
 import os
 import json
 import requests
-from bs4 import BeautifulSoup
 import datetime
 import re
 import logging
@@ -20,8 +19,8 @@ logger = logging.getLogger('lotto_crawler')
 
 # 상수 정의
 BASE_URL = "https://dhlottery.co.kr"
-LOTTO_DRAW_URL = f"{BASE_URL}/gameResult.do?method=byWin&drwNo="
-LOTTO_STORE_URL = f"{BASE_URL}/store.do?method=topStore&pageGubun=L645&drwNo="
+LOTTO_DRAW_URL = f"{BASE_URL}/lt645/selectPstLt645Info.do"
+LOTTO_STORE_URL = f"{BASE_URL}/wnprchsplcsrch/selectLtWnShp.do"
 DATA_DIR = Path("lotto")
 DRAWS_DIR = DATA_DIR / "draws"  # 회차별 데이터 디렉토리 추가
 STORES_DIR = Path("lotto/stores")
@@ -69,147 +68,92 @@ class LottoCrawler:
     def get_latest_draw_number(self):
         """최신 로또 회차 번호를 가져옵니다."""
         try:
-            response = self.session.get(f"{BASE_URL}/gameResult.do?method=byWin", headers=self.headers)
+            # 전체 회차 정보를 요청하여 최신 회차 확인
+            response = self.session.get(
+                LOTTO_DRAW_URL,
+                params={'srchLtEpsd': 'all'},
+                headers=self.headers
+            )
             response.raise_for_status()
             
-            # EUC-KR 인코딩 처리
-            content = response.content.decode('euc-kr', errors='replace')
-            soup = BeautifulSoup(content, 'lxml')
-            
-            # 회차 정보는 페이지 상단의 제목에 있음
-            draw_text = soup.select_one('h4')
-            
-            if not draw_text:
-                logger.error("최신 회차 정보를 찾을 수 없습니다.")
+            data = response.json()
+            if not data.get('data') or not data['data'].get('list'):
+                logger.error("최신 회차 정보를 찾을 수 없습니다 (데이터 없음).")
                 return None
-                
-            # 회차 번호 추출 (예: "1161회 당첨결과" -> 1161)
-            draw_no = int(re.search(r'\d+', draw_text.text).group())
-            logger.info(f"최신 회차: {draw_no}")
-            return draw_no
+            
+            # 리스트에서 가장 큰 ltEpsd 값을 찾음
+            draw_list = data['data']['list']
+            # ltEpsd가 정수형인지 확인하고 max 값 추출
+            latest_draw_no = max(int(item.get('ltEpsd', 0)) for item in draw_list)
+            
+            logger.info(f"최신 회차: {latest_draw_no}")
+            return latest_draw_no
             
         except Exception as e:
             logger.error(f"최신 회차 정보 가져오기 실패: {e}")
             return None
-    
-    def parse_draw_date(self, date_text):
-        """회차 날짜 문자열을 파싱합니다."""
-        # 예: "(2025년 03월 01일 추첨)" -> "2025-03-01"
-        match = re.search(r'(\d{4})년\s(\d{2})월\s(\d{2})일', date_text)
-        if match:
-            year = match.group(1)
-            month = match.group(2)
-            day = match.group(3)
-            return f"{year}-{month}-{day}"
-        return date_text.strip()
-    
-    def get_prize_info(self, soup):
-        """당첨 금액 정보를 가져옵니다."""
-        prize_info = []
-        
-        try:
-            # 당첨 정보 테이블에서 데이터 추출
-            table = soup.select_one('table.tbl_data')
-            if not table:
-                return prize_info
-                
-            rows = table.select('tbody tr')
-            for row in rows:
-                cols = row.select('td')
-                if len(cols) >= 5:  # 최소 5개 열이 있어야 함
-                    rank = cols[0].text.strip()
-                    total_prize = cols[1].text.strip()
-                    winner_count = cols[2].text.strip()
-                    prize_per_winner = cols[3].text.strip()
-                    
-                    prize_info.append({
-                        'rank': rank,
-                        'total_prize': total_prize,
-                        'winner_count': winner_count,
-                        'prize_per_winner': prize_per_winner
-                    })
-            
-        except Exception as e:
-            logger.error(f"당첨 금액 정보 추출 실패: {e}")
-            
-        return prize_info
-    
-    def get_total_sales_amount(self, soup):
-        """총판매금액 정보를 가져옵니다."""
-        try:
-            # 총판매금액 정보 추출
-            sales_amount_elem = soup.select_one('.list_text_common li strong')
-            if sales_amount_elem:
-                return sales_amount_elem.text.strip()
-            
-            # 다른 형태로 시도
-            sales_info = soup.select('.list_text_common li')
-            for info in sales_info:
-                text = info.text.strip()
-                if '총판매금액' in text:
-                    # 정규식으로 금액 추출
-                    match = re.search(r'([0-9,]+원)', text)
-                    if match:
-                        return match.group(1)
-        except Exception as e:
-            logger.error(f"총판매금액 정보 추출 실패: {e}")
-        
-        return None
-    
-    def extract_store_id(self, onclick):
-        """판매점 ID를 추출합니다."""
-        try:
-            match = re.search(r"'([^']*)'", onclick)
-            if match:
-                return match.group(1)
-        except Exception as e:
-            logger.error(f"판매점 ID 추출 실패: {e}")
-        
-        return None
-    
+
     def get_store_info(self, draw_no):
-        """1등 판매점 정보를 가져옵니다."""
+        """1등 판매점 정보를 가져옵니다 (API 사용)."""
         store_info = []
         
         try:
-            url = f"{LOTTO_STORE_URL}{draw_no}"
-            response = self.session.get(url, headers=self.headers)
+            # 1등 배출점 조회 (srchWnShpRnk=1) - User asked for all but typically we need rank 1 for "first_prize_store_info"
+            # User provided example: https://dhlottery.co.kr/wnprchsplcsrch/selectLtWnShp.do?srchWnShpRnk=all&srchLtEpsd=1200
+            # Let's use 'all' and filter, or just request 1. The code previously filtered for rank 1.
+            params = {
+                'srchWnShpRnk': 'all', # 전체 조회 후 필터링이 안전함
+                'srchLtEpsd': draw_no
+            }
+            
+            response = self.session.get(LOTTO_STORE_URL, params=params, headers=self.headers)
             response.raise_for_status()
             
-            # EUC-KR 인코딩 처리
-            content = response.content.decode('euc-kr', errors='replace')
-            soup = BeautifulSoup(content, 'lxml')
-            
-            # 1등 배출점 테이블 찾기
-            store_table = soup.select('.tbl_data.tbl_data_col')
-            if not store_table or len(store_table) == 0:
-                logger.error(f"회차 {draw_no}의 1등 판매점 테이블을 찾을 수 없습니다.")
+            data = response.json()
+            if not data.get('data') or not data['data'].get('list'):
+                logger.info(f"회차 {draw_no}의 판매점 데이터가 없습니다.")
                 return store_info
+                
+            stores_list = data['data']['list']
             
-            # 첫 번째 테이블의 행 추출
-            rows = store_table[0].select('tbody tr')
-            
-            for row in rows:
-                cols = row.select('td')
-                if len(cols) >= 5:  # 번호, 상호명, 구분, 소재지, 위치보기
-                    # 지도보기 링크에서 판매점 ID 추출
-                    map_link = cols[4].select_one('a.btn_search[onclick*="showMapPage"]')
-                    if map_link:
-                        onclick = map_link.get('onclick', '')
-                        store_id = self.extract_store_id(onclick)
-                        if store_id:
-                            store_name = cols[1].text.strip()
-                            store_type = cols[2].text.strip()
-                            store_address = cols[3].text.strip()
-                            
-                            # 판매점 정보 저장
-                            self.save_store_info(store_id, store_name, store_address, store_type)
-                            
-                            # store_id와 type 정보를 함께 저장
-                            store_info.append({
-                                "store_id": store_id,
-                                "type": store_type
-                            })
+            for store in stores_list:
+                # wnShpRnk: 등수 (1, 2)
+                rank = store.get('wnShpRnk')
+                if rank != 1:
+                    continue
+                    
+                store_id = str(store.get('ltShpId'))
+                store_name = store.get('shpNm')
+                store_address = store.get('shpAddr')
+                store_phone = store.get('shpTelno')
+                
+                # 복권 유형 확인
+                lottery_types = []
+                if store.get('l645LtNtslYn') == 'Y': lottery_types.append('lotto645')
+                if store.get('pt720NtslYn') == 'Y': lottery_types.append('pension720')
+                if store.get('st5LtNtslYn') == 'Y': lottery_types.append('speetto') # 스피또500
+                if store.get('st10LtNtslYn') == 'Y': lottery_types.append('speetto1000')
+                if store.get('st20LtNtslYn') == 'Y': lottery_types.append('speetto2000')
+                
+                # 중복 제거 (스피또)
+                if 'speetto' in lottery_types or 'speetto1000' in lottery_types or 'speetto2000' in lottery_types:
+                    lottery_types = [t for t in lottery_types if not t.startswith('speetto')]
+                    lottery_types.append('speetto')
+                
+                # 좌표
+                try:
+                    lat = float(store.get('shpLat', 0))
+                    lon = float(store.get('shpLot', 0))
+                except (ValueError, TypeError):
+                    lat, lon = 0.0, 0.0
+
+                # 판매점 정보 저장 및 업데이트
+                self.save_single_store_info(store_id, store_name, store_address, store_phone, lottery_types, lat, lon)
+                
+                store_info.append({
+                    "store_id": store_id,
+                    "type": store.get('atmtPsvYnTxt', '') # 자동/수동/반자동 등
+                })
             
             logger.info(f"회차 {draw_no}의 1등 판매점 정보 {len(store_info)}개 추출 완료")
             
@@ -218,130 +162,86 @@ class LottoCrawler:
             
         return store_info
     
-    def save_store_info(self, store_id, name, address, store_type):
-        """판매점 정보를 저장합니다."""
+    def save_single_store_info(self, store_id, name, address, phone, lottery_types, lat, lon):
+        """판매점 정보를 개별 파일 및 메모리에 저장합니다."""
         try:
-            # 상세 정보 가져오기 (전화번호, 취급복권)
-            detail_info = self.get_store_detail_info(store_id)
+            store_data = {
+                "store_id": store_id,
+                "name": name,
+                "address": address,
+                "phone": phone,
+                "lottery_types": lottery_types,
+                "latitude": lat,
+                "longitude": lon,
+                "updated_at": datetime.datetime.now().isoformat()
+            }
             
             # 개별 파일로 저장
             store_file = STORES_DIR / f"{store_id}.json"
             
-            # 기존 파일이 있으면 로드
+            # 기존 데이터가 있으면 유지할 필드가 있는지 확인 (현재는 덮어쓰기 위주)
             if os.path.exists(store_file):
                 with open(store_file, 'r', encoding='utf-8') as f:
-                    store_data = json.load(f)
-                # 기본 정보 업데이트
-                store_data.update({
-                    "store_id": store_id,
-                    "name": name,
-                    "address": address
-                })
-            else:
-                # 새 파일 생성
-                store_data = {
-                    "store_id": store_id,
-                    "name": name,
-                    "address": address
-                }
+                    old_data = json.load(f)
+                    # 필요한 경우 병합 로직 추가
+                    store_data = {**old_data, **store_data}
             
-            # 상세 정보가 있으면 추가
-            if detail_info:
-                store_data.update(detail_info)
-            
-            # 파일 저장
             with open(store_file, 'w', encoding='utf-8') as f:
                 json.dump(store_data, f, ensure_ascii=False, indent=2)
-            logger.info(f"판매점 정보 저장 완료: {store_id}")
             
-            # 통합 파일에 추가
+            # 통합 데이터 업데이트
             self.stores_data[store_id] = store_data
             
         except Exception as e:
             logger.error(f"판매점 정보 저장 실패: {store_id} - {e}")
-    
-    def get_store_detail_info(self, store_id):
-        """판매점 상세 정보 페이지에서 전화번호와 취급복권 정보를 크롤링합니다."""
-        try:
-            url = f"{BASE_URL}/store.do?method=topStoreLocation&gbn=lotto&rtlrId={store_id}"
-            response = self.session.get(url, headers=self.headers)
-            response.raise_for_status()
-            
-            # EUC-KR 인코딩 처리
-            content = response.content.decode('euc-kr', errors='replace')
-            soup = BeautifulSoup(content, 'lxml')
-            
-            # 판매점 정보 추출
-            store_info = {}
-            
-            # 전화번호 추출
-            phone_elem = soup.select_one('th:contains("전화번호") + td')
-            if phone_elem:
-                store_info['phone'] = phone_elem.text.strip()
-            
-            # 취급복권 추출
-            lottery_types = []
-            lottery_elems = soup.select('td img[src*="ico_seller"]')
-            
-            for elem in lottery_elems:
-                src = elem.get('src', '')
-                if '645' in src:
-                    lottery_types.append('lotto645')
-                elif '720' in src:
-                    lottery_types.append('pension720')
-                elif 'speetto' in src:
-                    lottery_types.append('speetto')
-            
-            if lottery_types:
-                store_info['lottery_types'] = lottery_types
-            
-            logger.info(f"판매점 {store_id} 상세 정보 크롤링 완료: {store_info}")
-            return store_info
-            
-        except Exception as e:
-            logger.error(f"판매점 {store_id} 상세 정보 크롤링 실패: {e}")
-            return None
-    
+
+    def format_date(self, ymd_str):
+        """YYYYMMDD 문자열을 YYYY-MM-DD 형식으로 변환"""
+        if not ymd_str or len(ymd_str) != 8:
+            return ymd_str
+        return f"{ymd_str[:4]}-{ymd_str[4:6]}-{ymd_str[6:]}"
+
     def crawl_draw(self, draw_no):
-        """특정 회차의 로또 당첨 정보를 크롤링합니다."""
+        """특정 회차의 로또 당첨 정보를 크롤링합니다 (API 사용)."""
         logger.info(f"회차 {draw_no} 크롤링 시작")
         
         try:
-            url = f"{LOTTO_DRAW_URL}{draw_no}"
-            response = self.session.get(url, headers=self.headers)
+            params = {'srchLtEpsd': draw_no}
+            response = self.session.get(LOTTO_DRAW_URL, params=params, headers=self.headers)
             response.raise_for_status()
             
-            # EUC-KR 인코딩 처리
-            content = response.content.decode('euc-kr', errors='replace')
-            soup = BeautifulSoup(content, 'lxml')
-            
-            # 회차 정보 및 날짜
-            draw_date_elem = soup.select_one('p:contains("추첨")')
-            if not draw_date_elem:
-                logger.error(f"회차 {draw_no}의 날짜 정보를 찾을 수 없습니다.")
-                return None
-                
-            draw_date = self.parse_draw_date(draw_date_elem.text)
-            
-            # 당첨 번호 (ball_645 클래스를 가진 span 요소)
-            win_numbers = []
-            ball_elements = soup.select('.ball_645.lrg')
-            
-            if not ball_elements or len(ball_elements) < 7:
-                logger.error(f"회차 {draw_no}의 당첨 번호를 찾을 수 없습니다.")
+            data = response.json()
+            if not data.get('data') or not data['data'].get('list'):
+                logger.error(f"회차 {draw_no}의 데이터를 찾을 수 없습니다.")
                 return None
             
-            # 앞의 6개는 당첨 번호, 마지막 1개는 보너스 번호
-            for i, elem in enumerate(ball_elements[:6]):
-                win_numbers.append(int(elem.text.strip()))
-                
-            bonus_number = int(ball_elements[6].text.strip())
+            draw_info = data['data']['list'][0]
             
-            # 당첨 금액 정보
-            prize_info = self.get_prize_info(soup)
+            # 데이터 매핑
+            draw_date = self.format_date(draw_info.get('ltRflYmd', ''))
             
-            # 총판매금액 정보
-            total_sales_amount = self.get_total_sales_amount(soup)
+            win_numbers = [
+                int(draw_info.get('tm1WnNo', 0)),
+                int(draw_info.get('tm2WnNo', 0)),
+                int(draw_info.get('tm3WnNo', 0)),
+                int(draw_info.get('tm4WnNo', 0)),
+                int(draw_info.get('tm5WnNo', 0)),
+                int(draw_info.get('tm6WnNo', 0))
+            ]
+            bonus_number = int(draw_info.get('bnsWnNo', 0))
+            
+            # 당첨금 정보 구성
+            prize_info = []
+            for rank in range(1, 6):
+                prize_info.append({
+                    'rank': f"{rank}등",
+                    'total_prize': str(draw_info.get(f'rnk{rank}SumWnAmt', 0)), # 총 당첨금 (API 필드 확인 필요, rnkXsumWnAmt가 없어보이면 rnkXWnAmt * rnkXWnNope 사용?)
+                                                                                # User provided: rnk1SumWnAmt exists.
+                    'winner_count': str(draw_info.get(f'rnk{rank}WnNope', 0)),
+                    'prize_per_winner': str(draw_info.get(f'rnk{rank}WnAmt', 0))
+                })
+            
+            total_sales_amount = str(draw_info.get('wholEpsdSumNtslAmt', 0))
             
             # 1등 판매점 정보
             first_prize_store_info = self.get_store_info(draw_no)
@@ -507,4 +407,5 @@ def main():
         crawler.crawl_latest()
 
 if __name__ == "__main__":
-    main() 
+    main()
+ 
