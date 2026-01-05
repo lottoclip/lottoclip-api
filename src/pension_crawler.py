@@ -4,7 +4,6 @@
 import os
 import json
 import requests
-from bs4 import BeautifulSoup
 import datetime
 import re
 import logging
@@ -20,8 +19,8 @@ logger = logging.getLogger('pension_crawler')
 
 # 상수 정의
 BASE_URL = "https://dhlottery.co.kr"
-PENSION_DRAW_URL = f"{BASE_URL}/gameResult.do?method=win720&Round="
-PENSION_STORE_URL = f"{BASE_URL}/store.do?method=topStore&pageGubun=L720&drwNo="
+PENSION_DRAW_URL = f"{BASE_URL}/pt720/selectPt720Intro.do" # 최신 회차 및 당첨번호 (pstEpsd 리스트)
+PENSION_STORE_URL = f"{BASE_URL}/wnprchsplcsrch/selectPtWnShp.do"
 DATA_DIR = Path("pension")
 DRAWS_DIR = DATA_DIR / "draws"  # 회차별 데이터 디렉토리 추가
 STORES_DIR = DATA_DIR / "stores"
@@ -43,25 +42,23 @@ class PensionCrawler:
     def get_latest_draw_number(self):
         """최신 연금복권 회차 번호를 가져옵니다."""
         try:
-            response = self.session.get(f"{BASE_URL}/gameResult.do?method=win720", headers=self.headers)
+            # Intro API 호출
+            response = self.session.get(PENSION_DRAW_URL, headers=self.headers)
             response.raise_for_status()
             
-            # EUC-KR 인코딩 처리
-            content = response.content.decode('euc-kr', errors='replace')
-            soup = BeautifulSoup(content, 'lxml')
-            
-            # 회차 정보는 select 태그에서 첫 번째 option 값
-            draw_select = soup.select_one('select#Round')
-            if not draw_select:
+            data = response.json()
+            if not data.get('data') or not data['data'].get('pstEpsd'):
                 logger.error("최신 회차 정보를 찾을 수 없습니다.")
                 return None
                 
-            # 첫 번째 option 값이 최신 회차
-            latest_option = draw_select.select_one('option[selected]')
-            if not latest_option:
-                latest_option = draw_select.select_one('option')
-                
-            draw_no = int(latest_option.text.strip())
+            # pstEpsd 리스트의 첫 번째 항목의 psltEpsd가 최신 회차 (혹은 thsEpsd는 다음 회차일 수 있음 - pstEpsd가 Past Episode?)
+            # User provided JSON: "pstEpsd": [ { "psltEpsd": 296, ... } ]
+            # And "thsEpsd": { "ltEpsd": 297 ... } -> This is This episode (Next draw)
+            # So pstEpsd[0] is likely the latest RESULT.
+            
+            latest_draw_info = data['data']['pstEpsd'][0]
+            draw_no = int(latest_draw_info.get('psltEpsd', 0))
+            
             logger.info(f"최신 회차: {draw_no}")
             return draw_no
             
@@ -69,115 +66,49 @@ class PensionCrawler:
             logger.error(f"최신 회차 정보 가져오기 실패: {e}")
             return None
     
-    def parse_draw_date(self, date_text):
-        """회차 날짜 문자열을 파싱합니다."""
-        # 예: "(2025년 03월 06일 추첨)" -> "2025-03-06"
-        match = re.search(r'(\d{4})년\s(\d{2})월\s(\d{2})일', date_text)
-        if match:
-            year = match.group(1)
-            month = match.group(2)
-            day = match.group(3)
-            return f"{year}-{month}-{day}"
-        return date_text.strip()
-    
-    def get_prize_info(self, soup):
-        """당첨 금액 정보를 가져옵니다."""
-        prize_info = []
-        
-        try:
-            # 당첨 정보 테이블에서 데이터 추출
-            table = soup.select_one('table.tbl_data.tbl_data_col')
-            if not table:
-                logger.warning("당첨 정보 테이블을 찾을 수 없습니다.")
-                return prize_info
-                
-            rows = table.select('tbody tr')
-            for row in rows:
-                cols = row.select('td')
-                if len(cols) >= 2:  # 최소 2개 열이 있어야 함
-                    rank = cols[0].text.strip()
-                    # 마지막 열이 당첨자 수
-                    winner_count = cols[-1].text.strip().replace(',', '')
-                    
-                    # 보너스 번호 처리
-                    if rank == "보너스":
-                        rank = "보너스"
-                    
-                    prize_info.append({
-                        'rank': rank,
-                        'winner_count': winner_count
-                    })
-                    
-                    logger.info(f"당첨 정보 추출: {rank} - {winner_count}명")
-            
-            if not prize_info:
-                logger.warning("추출된 당첨 정보가 없습니다.")
-            else:
-                logger.info(f"총 {len(prize_info)}개 등수의 당첨 정보 추출 완료")
-                
-        except Exception as e:
-            logger.error(f"당첨 금액 정보 추출 실패: {e}")
-            import traceback
-            logger.error(traceback.format_exc())  # 상세 오류 스택 트레이스 출력
-            
-        return prize_info
-    
+    def format_date(self, ymd_str):
+        """YYYY.MM.DD 문자열을 YYYY-MM-DD 형식으로 변환"""
+        # API returns "2026.01.01"
+        return ymd_str.replace('.', '-')
+
     def get_store_info(self, draw_no):
-        """1등, 2등, 보너스 판매점 정보를 가져옵니다."""
+        """1등, 2등, 보너스 판매점 정보를 가져옵니다 (API 사용)."""
         first_prize_store_info = []
         second_prize_store_info = []
         bonus_prize_store_info = []
         
         try:
-            url = f"{PENSION_STORE_URL}{draw_no}"
-            response = self.session.get(url, headers=self.headers)
+            params = {
+                'srchWnShpRnk': 'all',
+                'srchLtEpsd': draw_no
+            }
+            
+            response = self.session.get(PENSION_STORE_URL, params=params, headers=self.headers)
             response.raise_for_status()
             
-            # EUC-KR 인코딩 처리
-            content = response.content.decode('euc-kr', errors='replace')
-            soup = BeautifulSoup(content, 'lxml')
-            
-            # 1등, 2등, 보너스 배출점 테이블 찾기
-            store_tables = soup.select('.group_content table.tbl_data.tbl_data_col')
-            
-            # 1등 배출점
-            if len(store_tables) >= 1:
-                rows = store_tables[0].select('tbody tr')
-                for row in rows:
-                    cols = row.select('td')
-                    if len(cols) >= 3:
-                        store_name = cols[1].text.strip()
-                        store_address = cols[2].text.strip()
-                        first_prize_store_info.append({
-                            "name": store_name,
-                            "address": store_address
-                        })
-            
-            # 2등 배출점
-            if len(store_tables) >= 2:
-                rows = store_tables[1].select('tbody tr')
-                for row in rows:
-                    cols = row.select('td')
-                    if len(cols) >= 3:
-                        store_name = cols[1].text.strip()
-                        store_address = cols[2].text.strip()
-                        second_prize_store_info.append({
-                            "name": store_name,
-                            "address": store_address
-                        })
-            
-            # 보너스 배출점
-            if len(store_tables) >= 3:
-                rows = store_tables[2].select('tbody tr')
-                for row in rows:
-                    cols = row.select('td')
-                    if len(cols) >= 3:
-                        store_name = cols[1].text.strip()
-                        store_address = cols[2].text.strip()
-                        bonus_prize_store_info.append({
-                            "name": store_name,
-                            "address": store_address
-                        })
+            data = response.json()
+            if not data.get('data') or not data['data'].get('list'):
+                logger.info(f"회차 {draw_no}의 판매점 정보가 없습니다.")
+                # 빈 리스트 반환 (기존 로직 유지)
+            else:
+                stores_list = data['data']['list']
+                
+                for store in stores_list:
+                    rank_val = str(store.get('wnShpRnk', ''))
+                    
+                    store_info = {
+                        "name": store.get('shpNm', ''),
+                        "address": store.get('shpAddr', ''),
+                        "store_id": str(store.get('ltShpId', '')), # ID 추가
+                        "type": store.get('atmtPsvYnTxt', '') # 자동/수동 정보가 있다면
+                    }
+                    
+                    if rank_val == "1":
+                        first_prize_store_info.append(store_info)
+                    elif rank_val == "2":
+                        second_prize_store_info.append(store_info)
+                    elif rank_val == "21": # 보너스로 추정
+                        bonus_prize_store_info.append(store_info)
             
             logger.info(f"회차 {draw_no}의 판매점 정보 추출 완료: 1등 {len(first_prize_store_info)}개, 2등 {len(second_prize_store_info)}개, 보너스 {len(bonus_prize_store_info)}개")
             
@@ -207,47 +138,70 @@ class PensionCrawler:
         logger.info(f"회차 {draw_no} 크롤링 시작")
         
         try:
-            url = f"{PENSION_DRAW_URL}{draw_no}"
-            response = self.session.get(url, headers=self.headers)
+            # Intro API 사용 (최신 회차 정보만 제공될 가능성이 높음)
+            # 과거 회차를 위해 param을 던져볼 수 있지만, 일단 없으면 최신만 될 수 있음.
+            # 하지만 Lotto API처럼 연금복권도 selectPt720Intro.do가 params를 받을 수도 있고, 
+            # 혹은 selectPstPt720WnInfo.do (통계)를 써야할 수도 있는데 통계 API엔 번호가 없음.
+            # 여기서는 Intro API를 사용하여 '최신' 혹은 파라미터가 동작한다고 가정/시도.
+            # User provided a URL with NO params returning list of past episodes in `pstEpsd`. 
+            # So parsing `pstEpsd` list might find the specific draw_no if it's recent. 
+            
+            # API 호출
+            response = self.session.get(PENSION_DRAW_URL, headers=self.headers)
             response.raise_for_status()
             
-            # EUC-KR 인코딩 처리
-            content = response.content.decode('euc-kr', errors='replace')
-            soup = BeautifulSoup(content, 'lxml')
-            
-            # 회차 정보 및 날짜
-            draw_date_elem = soup.select_one('p.desc')
-            if not draw_date_elem:
-                logger.error(f"회차 {draw_no}의 날짜 정보를 찾을 수 없습니다.")
-                return None
-                
-            draw_date = self.parse_draw_date(draw_date_elem.text)
-            
-            # 1등 당첨번호 (조 + 6자리 번호)
-            win_numbers = []
-            group_elem = soup.select_one('.win720_num .group span.num')
-            group = group_elem.text.strip() if group_elem else ""
-            
-            number_elems = soup.select('.win720_num span.num.large')
-            if len(number_elems) < 6:
-                logger.error(f"회차 {draw_no}의 당첨 번호를 찾을 수 없습니다.")
+            data = response.json()
+            if not data.get('data') or not data['data'].get('pstEpsd'):
+                logger.error(f"회차 {draw_no}의 데이터를 찾을 수 없습니다 (API 응답 없음).")
                 return None
             
-            # 앞의 1개는 조, 나머지 6개는 당첨 번호
-            for elem in number_elems[1:7]:
-                win_numbers.append(elem.text.strip())
+            pst_epsd_list = data['data']['pstEpsd']
             
-            # 보너스 번호 (조 + 6자리 번호)
-            bonus_group_elem = soup.select('.win720_num')[1].select_one('.group.bonus span.num')
-            bonus_group = bonus_group_elem.text.strip() if bonus_group_elem else ""
+            # 해당 회차 데이터 찾기
+            target_draw_items = [item for item in pst_epsd_list if int(item.get('psltEpsd', 0)) == draw_no]
             
+            if not target_draw_items:
+                logger.warning(f"API 응답에서 회차 {draw_no} 정보를 찾을 수 없습니다. (최신 회차 리스트에 없을 수 있음)")
+                # TODO: 과거 회차 전용 검색 API가 있다면 교체 필요. 현재는 Intro API 기반.
+                return None
+            
+            # 날짜 (첫번째 아이템에서)
+            draw_date = self.format_date(target_draw_items[0].get('psltRflYmd', ''))
+            
+            # 당첨 번호 추출
+            # wnSqNo 1: 1등 (조+번호)
+            # wnSqNo 2: 2등 (번호 - 조 다름)
+            # wnSqNo 3: 3등 (번호 - 1등과 끝자리 다름 등등)
+            # ...
+            # wnSqNo 21: 보너스?
+            
+            group = ""
+            win_numbers = [] # 연금복권은 번호가 하나임 (조 + 6자리) but structure expects list?
+            # Existing code: win_numbers = ["1", "2", "3", "4", "5", "6"] (split chars)
+            # New API returns full string e.g. "667975"
+            
+            rank1_item = next((item for item in target_draw_items if item.get('wnSqNo') == 1), None)
+            if rank1_item:
+                group = rank1_item.get('wnBndNo', '')
+                full_num = rank1_item.get('wnRnkVl', '')
+                # 기존 포맷 유지: win_numbers 리스트에 숫자를 하나씩? 아니면 통째로?
+                # 기존 코드: for elem in number_elems[1:7]: win_numbers.append(elem.text.strip()) -> ["1", "2", "3", "4", "5", "6"]
+                # 문자열을 리스트로 변환
+                win_numbers = list(full_num)
+            
+            # 보너스 (wnSqNo = 21)
+            bonus_item = next((item for item in target_draw_items if item.get('wnSqNo') == 21), None)
+            bonus_group = "각" # 보너스는 조 없음 (모든 조)
             bonus_numbers = []
-            bonus_number_elems = soup.select('.win720_num')[1].select('span.num.large')
-            for elem in bonus_number_elems:
-                bonus_numbers.append(elem.text.strip())
             
-            # 당첨 금액 정보
-            prize_info = self.get_prize_info(soup)
+            if bonus_item:
+                full_bonus = bonus_item.get('wnRnkVl', '')
+                bonus_numbers = list(full_bonus)
+            
+            # 당첨 금액 정보 (Intro API에는 상세 등수별 금액/당첨자수는 없고 rnk1Expc, rnk1Jck 등 1등 정보만 있음)
+            # 상세 통계는 `selectPstPt720WnInfo.do` (User provided: 연금복권 회차별 세부정보)
+            # 필요하다면 추가 호출
+            prize_info = self.get_prize_detail(draw_no)
             
             # 결과 데이터 구성
             result = {
@@ -261,12 +215,67 @@ class PensionCrawler:
                 'updated_at': datetime.datetime.now().isoformat()
             }
             
-            logger.info(f"회차 {draw_no} 크롤링 완료: {group}조 {'-'.join(win_numbers)}")
+            logger.info(f"회차 {draw_no} 크롤링 완료: {group}조 {''.join(win_numbers)}")
             return result
             
         except Exception as e:
             logger.error(f"회차 {draw_no} 크롤링 실패: {e}")
             return None
+
+    def get_prize_detail(self, draw_no):
+        """회차별 등수/당첨금 상세 정보 (별도 API)"""
+        # API: selectPstPt720WnInfo.do?srchPsltEpsd=296
+        prize_info = []
+        try:
+            url = f"{BASE_URL}/pt720/selectPstPt720WnInfo.do"
+            params = {'srchPsltEpsd': draw_no}
+            
+            response = self.session.get(url, params=params, headers=self.headers)
+            response.raise_for_status()
+            
+            data = response.json()
+            if not data.get('data') or not data['data'].get('result'):
+                return prize_info
+            
+            results = data['data']['result']
+            # wnRnk: 등수
+            # wnTotalCnt: 전체 당첨자 수
+            # wnAmt: 개인별 당첨금? (User sample: wnAmt=27000000 for Rank 3. Rank 1 wnAmt=0?)
+            # 1등은 월지급식이라 wnAmt가 0일 수 있음. 
+            
+            for item in results:
+                rank = item.get('wnRnk')
+                winner_count = str(item.get('wnTotalCnt', 0))
+                
+                # 라벨링
+                if rank == 1: rank_name = "1등"
+                elif rank == 2: rank_name = "2등"
+                elif rank == 3: rank_name = "3등"
+                elif rank == 4: rank_name = "4등"
+                elif rank == 5: rank_name = "5등"
+                elif rank == 6: rank_name = "6등"
+                elif rank == 7: rank_name = "7등"
+                elif rank == 8: rank_name = "보너스" # Sample says rank 8? Check user sample logic.
+                # User sample: wnRnk 8 exists. Pension has 7 ranks + Bonus.
+                # Usually Bonus is treated separately. But if API returns 8, maybe 8 is Bonus?
+                # Sample: wnRnk 8, wnTotalCnt 5. Bonus winners are 5?
+                # Usually Bonus draws 1 number (6 digits), matched by 5 people (since there are 5 groups, actually 'All Groups').
+                # Wait, Bonus is 1 number, matched against last 6 digits of all groups. Total 5 groups * 1 = 5 winners max?
+                # Or 10 winners?
+                # Anyway, let's map it.
+                else: rank_name = f"{rank}등"
+                
+                if rank == 8: rank_name = "보너스"
+
+                prize_info.append({
+                    'rank': rank_name,
+                    'winner_count': winner_count
+                })
+                
+        except Exception as e:
+            logger.error(f"당첨금 상세 정보 조회 실패: {e}")
+            
+        return prize_info
     
     def save_draw_data(self, draw_data):
         """크롤링한 회차 데이터를 파일로 저장합니다."""

@@ -68,10 +68,9 @@ class LottoCrawler:
     def get_latest_draw_number(self):
         """최신 로또 회차 번호를 가져옵니다."""
         try:
-            # 전체 회차 정보를 요청하여 최신 회차 확인
+            # 파라미터 없이 호출하면 최신 회차 정보 반환
             response = self.session.get(
                 LOTTO_DRAW_URL,
-                params={'srchLtEpsd': 'all'},
                 headers=self.headers
             )
             response.raise_for_status()
@@ -81,10 +80,9 @@ class LottoCrawler:
                 logger.error("최신 회차 정보를 찾을 수 없습니다 (데이터 없음).")
                 return None
             
-            # 리스트에서 가장 큰 ltEpsd 값을 찾음
-            draw_list = data['data']['list']
-            # ltEpsd가 정수형인지 확인하고 max 값 추출
-            latest_draw_no = max(int(item.get('ltEpsd', 0)) for item in draw_list)
+            # 리스트의 첫 번째 항목(최신 회차) 사용
+            latest_draw = data['data']['list'][0]
+            latest_draw_no = int(latest_draw.get('ltEpsd', 0))
             
             logger.info(f"최신 회차: {latest_draw_no}")
             return latest_draw_no

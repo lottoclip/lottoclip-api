@@ -113,25 +113,24 @@ class TestLottoCrawler(unittest.TestCase):
         }
 
     def test_get_latest_draw_number(self):
-        # Update mock response to have multiple items, simulating ascending order (1, 2, ..., 1200)
-        multi_draw_response = {
+        # Update mock response to have single item (latest draw)
+        single_draw_response = {
             "resultCode": None,
             "resultMessage": None,
             "data": {
                 "list": [
-                     { "ltEpsd": 1, "ltRflYmd": "20021207" },
-                     { "ltEpsd": 1200, "ltRflYmd": "20251129" }
+                     { "ltEpsd": 1205, "ltRflYmd": "20260103" }
                 ]
             }
         }
         
         mock_resp = MagicMock()
-        mock_resp.json.return_value = multi_draw_response
+        mock_resp.json.return_value = single_draw_response
         self.crawler.session.get.return_value = mock_resp
 
         draw_no = self.crawler.get_latest_draw_number()
-        # Should pick max (1200), not first (1)
-        self.assertEqual(draw_no, 1200)
+        # Should pick 1205
+        self.assertEqual(draw_no, 1205)
 
     def test_crawl_draw(self):
         # Setup mocks for draw and store calls
