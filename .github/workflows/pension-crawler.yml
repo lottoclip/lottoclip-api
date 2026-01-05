@@ -87,6 +87,7 @@ jobs:
           # 최신 회차 번호 가져오기
           if [ -f "pension/index.json" ]; then
             LATEST_DRAW=$(python -c "import json; print(json.load(open('pension/index.json'))['draws'][0]['draw_no'])")
+            echo "draw_no=$LATEST_DRAW" >> $GITHUB_OUTPUT
             
             # 해당 회차의 판매점 정보 파일 경로
             STORE_FILE="pension/stores/stores_${LATEST_DRAW}.json"
@@ -126,6 +127,7 @@ jobs:
             # 업데이트 후 다시 확인
             if [ -f "pension/index.json" ]; then
               LATEST_DRAW=$(python -c "import json; print(json.load(open('pension/index.json'))['draws'][0]['draw_no'])")
+              echo "draw_no=$LATEST_DRAW" >> $GITHUB_OUTPUT
               STORE_FILE="pension/stores/stores_${LATEST_DRAW}.json"
               
               if [ -f "$STORE_FILE" ]; then
@@ -191,9 +193,9 @@ jobs:
           
           # 1등 당첨 배출점 정보 상태에 따라 커밋 메시지 변경
           if [ "${{ steps.check_store_info.outputs.store_count }}" -gt 0 ] || [ "${{ steps.retry_store_info.outputs.store_count }}" -gt 0 ]; then
-            git commit -m "연금복권 데이터 업데이트: $(date +'%Y-%m-%d') - 1등 당첨 배출점 정보 포함"
+            git commit -m "연금복권 ${{ steps.check_store_info.outputs.draw_no }}회 데이터 업데이트: $(date +'%Y-%m-%d') - 1등 당첨 배출점 정보 포함"
           else
-            git commit -m "연금복권 데이터 업데이트: $(date +'%Y-%m-%d') - 1등 당첨 배출점 정보 없음"
+            git commit -m "연금복권 ${{ steps.check_store_info.outputs.draw_no }}회 데이터 업데이트: $(date +'%Y-%m-%d') - 1등 당첨 배출점 정보 없음"
           fi
           
           # GitHub 토큰을 사용하여 푸시
