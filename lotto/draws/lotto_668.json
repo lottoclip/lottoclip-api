@@ -65,5 +65,44 @@
       "type": "수동"
     }
   ],
-  "updated_at": "2026-01-04T15:52:18.008996"
+  "analysis_stats": {
+    "number_properties": {
+      "sum_total": 124,
+      "odd_even_pattern": "2:4",
+      "high_low_pattern": "3:3",
+      "ac_value": 8,
+      "prime_count": 0
+    },
+    "range_and_sequence": {
+      "section_counts": {
+        "unit": 0,
+        "ten": 3,
+        "twenty": 2,
+        "thirty": 1,
+        "forty": 0
+      },
+      "consecutive_sets": 1,
+      "missing_sections": [
+        "1",
+        "40"
+      ]
+    },
+    "last_digit_stats": {
+      "last_digit_sum": 24,
+      "duplicate_last_digits": [
+        2,
+        4
+      ]
+    },
+    "winner_insight": {
+      "total_payout_rate": 50.0,
+      "winner_method_rate": {
+        "auto": 40.0,
+        "manual": 60.0,
+        "semi": 0.0
+      },
+      "tax_adjusted_prize": 2037076278
+    }
+  },
+  "updated_at": "2026-01-11T19:58:56.277170"
 }

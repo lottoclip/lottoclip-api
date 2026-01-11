@@ -44,5 +44,43 @@
   ],
   "total_sales_amount": "68902158000",
   "first_prize_store_info": [],
-  "updated_at": "2026-01-04T15:51:12.340916"
+  "analysis_stats": {
+    "number_properties": {
+      "sum_total": 131,
+      "odd_even_pattern": "3:3",
+      "high_low_pattern": "4:2",
+      "ac_value": 10,
+      "prime_count": 1
+    },
+    "range_and_sequence": {
+      "section_counts": {
+        "unit": 1,
+        "ten": 3,
+        "twenty": 0,
+        "thirty": 2,
+        "forty": 0
+      },
+      "consecutive_sets": 1,
+      "missing_sections": [
+        "20",
+        "40"
+      ]
+    },
+    "last_digit_stats": {
+      "last_digit_sum": 31,
+      "duplicate_last_digits": [
+        5
+      ]
+    },
+    "winner_insight": {
+      "total_payout_rate": 0.0,
+      "winner_method_rate": {
+        "auto": 0.0,
+        "manual": 0.0,
+        "semi": 0.0
+      },
+      "tax_adjusted_prize": 3573916366
+    }
+  },
+  "updated_at": "2026-01-11T19:32:50.674748"
 }

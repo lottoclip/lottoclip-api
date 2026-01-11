@@ -8,6 +8,8 @@ import datetime
 import re
 import logging
 from pathlib import Path
+from itertools import combinations
+import time
 
 # 로깅 설정
 logging.basicConfig(
@@ -31,7 +33,7 @@ class LottoCrawler:
         """로또 크롤러 초기화"""
         self.session = requests.Session()
         self.headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36'
         }
         
         # 데이터 디렉토리 생성
@@ -249,6 +251,9 @@ class LottoCrawler:
             
             # 통합 판매점 정보 파일 저장
             self.save_stores_data()
+
+            # 통계 분석 데이터 생성
+            analysis_stats = self.get_analysis_stats(win_numbers, first_prize_store_info, prize_info, total_sales_amount)
             
             # 결과 데이터 구성
             result = {
@@ -259,6 +264,7 @@ class LottoCrawler:
                 'prize_info': prize_info,
                 'total_sales_amount': total_sales_amount,
                 'first_prize_store_info': first_prize_store_info,
+                'analysis_stats': analysis_stats,
                 'updated_at': datetime.datetime.now().isoformat()
             }
             
@@ -371,7 +377,205 @@ class LottoCrawler:
             self.update_index_file()
             
         logger.info(f"범위 크롤링 완료: {success_count}/{end_draw - start_draw + 1}개 성공")
+        time.sleep(2)
         return success_count
+    
+    def get_analysis_stats(self, numbers, store_info, prize_info, total_sales):
+        """회차별 상세 통계 정보를 계산합니다."""
+        
+        # 1. 번호 속성 분석
+        number_properties = self._analyze_number_properties(numbers)
+        
+        # 2. 구간 및 연번 분석
+        range_and_sequence = self._analyze_range_and_sequence(numbers)
+        
+        # 3. 끝수 분석
+        last_digit_stats = self._analyze_last_digits(numbers)
+        
+        # 4. 당첨 및 구매 성향
+        winner_insight = self._analyze_winner_insight(store_info, prize_info, total_sales)
+        
+        return {
+            "number_properties": number_properties,
+            "range_and_sequence": range_and_sequence,
+            "last_digit_stats": last_digit_stats,
+            "winner_insight": winner_insight
+        }
+
+    def _analyze_number_properties(self, numbers):
+        """번호 속성 분석: 총합, 홀짝, 고저, AC값, 소수"""
+        # 총합
+        sum_total = sum(numbers)
+        
+        # 홀짝 패턴
+        odd_count = sum(1 for n in numbers if n % 2 != 0)
+        even_count = 6 - odd_count
+        odd_even_pattern = f"{odd_count}:{even_count}"
+        
+        # 고저 패턴 (저: 1~22, 고: 23~45)
+        low_count = sum(1 for n in numbers if 1 <= n <= 22)
+        high_count = 6 - low_count
+        high_low_pattern = f"{low_count}:{high_count}"
+        
+        # AC 값
+        # 1단계: 가능한 모든 두 수의 차이(절댓값) 구하기
+        diffs = set()
+        for a, b in combinations(numbers, 2):
+            diffs.add(abs(a - b))
+        # 2단계: 고유한 차이값 개수 - (6 - 1)
+        ac_value = len(diffs) - (6 - 1)
+        
+        # 소수 개수
+        primes = {2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43}
+        prime_count = sum(1 for n in numbers if n in primes)
+        
+        return {
+            "sum_total": sum_total,
+            "odd_even_pattern": odd_even_pattern,
+            "high_low_pattern": high_low_pattern,
+            "ac_value": ac_value,
+            "prime_count": prime_count
+        }
+
+    def _analyze_range_and_sequence(self, numbers):
+        """구간 및 연번 분석"""
+        # 번대별 개수
+        section_counts = {
+            "unit": 0,    # 1~10
+            "ten": 0,     # 11~20
+            "twenty": 0,  # 21~30
+            "thirty": 0,  # 31~40
+            "forty": 0    # 41~45
+        }
+        
+        for n in numbers:
+            if 1 <= n <= 10: section_counts["unit"] += 1
+            elif 11 <= n <= 20: section_counts["ten"] += 1
+            elif 21 <= n <= 30: section_counts["twenty"] += 1
+            elif 31 <= n <= 40: section_counts["thirty"] += 1
+            elif 41 <= n <= 45: section_counts["forty"] += 1
+            
+        # 멸 구간 (개수가 0인 구간)
+        missing_sections = []
+        section_map = {
+            "unit": "단번대", "ten": "10번대", "twenty": "20번대", 
+            "thirty": "30번대", "forty": "40번대"
+        }
+        # JSON 키 이름으로 저장하는 것이 데이터 활용에 더 좋음 (예: ["unit", "thirty"]) 
+        # 하지만 요청 예시는 ["10번대"] 형태이므로 기획 의도에 맞게 값 변환하거나 키를 반환.
+        # 예시: ["30"] 으로 됨. User requested: ["30번대"] in description but ["30"] in json example.
+        # Let's stick to the JSON example: ["30"] meaning the 30s section.
+        # Actually user example: "missing_sections": ["30"]. Let's use simple identifiers.
+        
+        if section_counts["unit"] == 0: missing_sections.append("1") # 1~10
+        if section_counts["ten"] == 0: missing_sections.append("10")
+        if section_counts["twenty"] == 0: missing_sections.append("20")
+        if section_counts["thirty"] == 0: missing_sections.append("30")
+        if section_counts["forty"] == 0: missing_sections.append("40")
+
+        # 연번 쌍 개수
+        sorted_nums = sorted(numbers)
+        consecutive_sets = 0
+        for i in range(len(sorted_nums) - 1):
+            if sorted_nums[i+1] - sorted_nums[i] == 1:
+                consecutive_sets += 1
+                
+        return {
+            "section_counts": section_counts,
+            "consecutive_sets": consecutive_sets,
+            "missing_sections": missing_sections
+        }
+
+    def _analyze_last_digits(self, numbers):
+        """끝수 분석"""
+        last_digits = [n % 10 for n in numbers]
+        
+        # 끝수 합
+        last_digit_sum = sum(last_digits)
+        
+        # 동형 끝수 (빈도수가 2 이상인 숫자들)
+        counts = {}
+        for d in last_digits:
+            counts[d] = counts.get(d, 0) + 1
+            
+        duplicate_last_digits = [k for k, v in counts.items() if v >= 2]
+        duplicate_last_digits.sort()
+        
+        return {
+            "last_digit_sum": last_digit_sum,
+            "duplicate_last_digits": duplicate_last_digits
+        }
+
+    def _analyze_winner_insight(self, store_info, prize_info, total_sales):
+        """당첨 및 구매 성향 분석"""
+        # 총 판매액 대비 당첨금 지급률
+        total_payout_rate = 0.0
+        try:
+            sales = int(total_sales)
+            if sales > 0:
+                # 총 당첨금 합계 (1~5등)
+                total_prize_sum = 0
+                for rank_info in prize_info:
+                    # 'total_prize' 필드가 있으면 사용, 없으면 winner_count * prize_per_winner 계산
+                    if 'total_prize' in rank_info:
+                        total_prize_sum += int(rank_info['total_prize'])
+                    else:
+                        cnt = int(rank_info.get('winner_count', 0))
+                        amt = int(rank_info.get('prize_per_winner', 0))
+                        total_prize_sum += cnt * amt
+                
+                total_payout_rate = round((total_prize_sum / sales) * 100, 2)
+        except (ValueError, TypeError):
+            pass
+
+        # 1등 구매 방식 비율
+        winner_method_rate = {
+            "auto": 0.0,
+            "manual": 0.0,
+            "semi": 0.0
+        }
+        
+        total_winners = len(store_info)
+        if total_winners > 0:
+            auto_count = sum(1 for s in store_info if '자동' in s.get('type', ''))
+            # '반자동'은 '자동'에 포함되지 않게 주의 (보통 type이 '자동', '수동', '반자동'으로 옴)
+            # 정확한 매칭 필요
+            auto_count = sum(1 for s in store_info if s.get('type') == '자동')
+            semi_count = sum(1 for s in store_info if s.get('type') == '반자동')
+            manual_count = sum(1 for s in store_info if s.get('type') == '수동')
+            
+            # 비율 계산
+            winner_method_rate["auto"] = round((auto_count / total_winners) * 100, 1)
+            winner_method_rate["manual"] = round((manual_count / total_winners) * 100, 1)
+            winner_method_rate["semi"] = round((semi_count / total_winners) * 100, 1)
+
+        # 1등 실수령 예상액 계산
+        tax_adjusted_prize = 0
+        try:
+            # 1등 당첨금 (1인당)
+            first_prize_amt = 0
+            for p in prize_info:
+                if '1등' in p.get('rank', ''):
+                    first_prize_amt = int(p.get('prize_per_winner', 0))
+                    break
+            
+            if first_prize_amt > 0:
+                tax = 0
+                if first_prize_amt <= 300000000:
+                    tax = first_prize_amt * 0.22
+                else:
+                    tax = (300000000 * 0.22) + ((first_prize_amt - 300000000) * 0.33)
+                
+                tax_adjusted_prize = int(first_prize_amt - tax)
+                
+        except (ValueError, TypeError):
+            pass
+
+        return {
+            "total_payout_rate": total_payout_rate,
+            "winner_method_rate": winner_method_rate,
+            "tax_adjusted_prize": tax_adjusted_prize
+        }
 
 def main():
     """메인 함수"""

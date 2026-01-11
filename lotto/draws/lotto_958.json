@@ -105,5 +105,41 @@
       "type": "자동"
     }
   ],
-  "updated_at": "2026-01-04T15:53:05.866076"
+  "analysis_stats": {
+    "number_properties": {
+      "sum_total": 109,
+      "odd_even_pattern": "3:3",
+      "high_low_pattern": "4:2",
+      "ac_value": 9,
+      "prime_count": 2
+    },
+    "range_and_sequence": {
+      "section_counts": {
+        "unit": 3,
+        "ten": 1,
+        "twenty": 0,
+        "thirty": 2,
+        "forty": 0
+      },
+      "consecutive_sets": 1,
+      "missing_sections": [
+        "20",
+        "40"
+      ]
+    },
+    "last_digit_stats": {
+      "last_digit_sum": 29,
+      "duplicate_last_digits": []
+    },
+    "winner_insight": {
+      "total_payout_rate": 50.0,
+      "winner_method_rate": {
+        "auto": 73.3,
+        "manual": 26.7,
+        "semi": 0.0
+      },
+      "tax_adjusted_prize": 1102400182
+    }
+  },
+  "updated_at": "2026-01-11T20:08:48.133800"
 }

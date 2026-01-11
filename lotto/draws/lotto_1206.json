@@ -105,5 +105,42 @@
       "type": "반자동"
     }
   ],
-  "updated_at": "2026-01-11T19:13:41.353258"
+  "analysis_stats": {
+    "number_properties": {
+      "sum_total": 116,
+      "odd_even_pattern": "4:2",
+      "high_low_pattern": "3:3",
+      "ac_value": 8,
+      "prime_count": 2
+    },
+    "range_and_sequence": {
+      "section_counts": {
+        "unit": 2,
+        "ten": 1,
+        "twenty": 2,
+        "thirty": 0,
+        "forty": 1
+      },
+      "consecutive_sets": 1,
+      "missing_sections": [
+        "30"
+      ]
+    },
+    "last_digit_stats": {
+      "last_digit_sum": 26,
+      "duplicate_last_digits": [
+        7
+      ]
+    },
+    "winner_insight": {
+      "total_payout_rate": 50.0,
+      "winner_method_rate": {
+        "auto": 46.7,
+        "manual": 33.3,
+        "semi": 20.0
+      },
+      "tax_adjusted_prize": 1285100690
+    }
+  },
+  "updated_at": "2026-01-11T20:22:48.712810"
 }
