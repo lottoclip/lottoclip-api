@@ -113,11 +113,14 @@ class LottoCrawler:
                 return store_info
                 
             stores_list = data['data']['list']
+            logger.info(f"API에서 수신된 전체 판매점 수: {len(stores_list)}")
             
             for store in stores_list:
                 # wnShpRnk: 등수 (1, 2)
                 rank = store.get('wnShpRnk')
-                if rank != 1:
+                
+                # 타입 변환을 통한 안전한 비교 (1, "1" 모두 처리)
+                if str(rank) != '1':
                     continue
                     
                 store_id = str(store.get('ltShpId'))
