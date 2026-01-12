@@ -68,15 +68,26 @@ class LottoCrawler:
             logger.error(f"통합 판매점 정보 파일 저장 실패: {e}")
             return False
         
+    def _fetch_with_retry(self, url, params=None, max_retries=3):
+        """재시도 로직이 포함된 GET 요청"""
+        for attempt in range(max_retries):
+            try:
+                response = self.session.get(url, params=params, headers=self.headers, timeout=10)
+                response.raise_for_status()
+                return response
+            except requests.exceptions.RequestException as e:
+                if attempt == max_retries - 1:
+                    logger.error(f"요청 실패 (최대 재시도 초과): {e}")
+                    raise
+                
+                logger.warning(f"요청 실패, 5초 후 재시도 ({attempt + 1}/{max_retries}): {e}")
+                time.sleep(5)
+                
     def get_latest_draw_number(self):
         """최신 로또 회차 번호를 가져옵니다."""
         try:
             # 파라미터 없이 호출하면 최신 회차 정보 반환
-            response = self.session.get(
-                LOTTO_DRAW_URL,
-                headers=self.headers
-            )
-            response.raise_for_status()
+            response = self._fetch_with_retry(LOTTO_DRAW_URL)
             
             data = response.json()
             if not data.get('data') or not data['data'].get('list'):
@@ -107,8 +118,7 @@ class LottoCrawler:
                 'srchLtEpsd': draw_no
             }
             
-            response = self.session.get(LOTTO_STORE_URL, params=params, headers=self.headers)
-            response.raise_for_status()
+            response = self._fetch_with_retry(LOTTO_STORE_URL, params=params)
             
             data = response.json()
             if not data.get('data') or not data['data'].get('list'):
@@ -211,8 +221,7 @@ class LottoCrawler:
         
         try:
             params = {'srchLtEpsd': draw_no}
-            response = self.session.get(LOTTO_DRAW_URL, params=params, headers=self.headers)
-            response.raise_for_status()
+            response = self._fetch_with_retry(LOTTO_DRAW_URL, params=params)
             
             data = response.json()
             if not data.get('data') or not data['data'].get('list'):
