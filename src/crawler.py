@@ -10,6 +10,7 @@ import logging
 from pathlib import Path
 from itertools import combinations
 import time
+import math
 
 # 로깅 설정
 logging.basicConfig(
@@ -372,12 +373,14 @@ class LottoCrawler:
             draw_data = self.crawl_draw(draw_no)
             if draw_data and self.save_draw_data(draw_data):
                 success_count += 1
+            
+            # 과도한 요청 방지를 위한 대기 (2초)
+            time.sleep(2)
         
         if success_count > 0:
             self.update_index_file()
             
         logger.info(f"범위 크롤링 완료: {success_count}/{end_draw - start_draw + 1}개 성공")
-        time.sleep(2)
         return success_count
     
     def get_analysis_stats(self, numbers, store_info, prize_info, total_sales):
@@ -560,11 +563,21 @@ class LottoCrawler:
                     break
             
             if first_prize_amt > 0:
+                cost_of_ticket = 1000 # 로또 1게임 구입 비용
+                
+                # 과세 대상 금액 계산 (당첨금 - 구입비용)
+                taxable_amt = first_prize_amt - cost_of_ticket
+                
                 tax = 0
-                if first_prize_amt <= 300000000:
-                    tax = first_prize_amt * 0.22
+                if taxable_amt <= 300000000:
+                    # 3억 이하: 22%
+                    tax = taxable_amt * 0.22
                 else:
-                    tax = (300000000 * 0.22) + ((first_prize_amt - 300000000) * 0.33)
+                    # 3억 초과분만 33% 적용 (3억까지는 22%)
+                    tax = (300000000 * 0.22) + ((taxable_amt - 300000000) * 0.33)
+                
+                # 원단위 절사 (보통 세금 계산 시 원단위는 버림 처리합니다)
+                tax = math.floor(tax / 10) * 10
                 
                 tax_adjusted_prize = int(first_prize_amt - tax)
                 
