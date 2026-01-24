@@ -35967,14 +35967,14 @@
   "51100000": {
     "store_id": "51100000",
     "name": "인터넷 복권판매사이트",
-    "address": "동행복권(dhlottery.co.kr) ",
+    "address": "동행복권(dhlottery.co.kr)",
     "phone": "02-1588-6450",
     "lottery_types": [
       "lotto645"
     ],
     "latitude": 37.482063,
     "longitude": 127.015788,
-    "updated_at": "2026-01-12T12:01:44.732699"
+    "updated_at": "2026-01-24T14:09:06.112862"
   },
   "13000082": {
     "store_id": "13000082",
@@ -46302,7 +46302,7 @@
   "14120087": {
     "store_id": "14120087",
     "name": "로또복권",
-    "address": "경기 오산시 성호새싹길 11 ",
+    "address": "경기 오산시 성호새싹길 11  ",
     "phone": null,
     "lottery_types": [
       "lotto645",
@@ -46311,7 +46311,7 @@
     ],
     "latitude": 37.14982,
     "longitude": 127.06984,
-    "updated_at": "2026-01-12T11:49:31.475626"
+    "updated_at": "2026-01-24T14:09:06.113508"
   },
   "14140485": {
     "store_id": "14140485",
@@ -52218,7 +52218,7 @@
   "14140835": {
     "store_id": "14140835",
     "name": "지에스25 안성칠곡",
-    "address": "경기 안성시 만세로 1182 ",
+    "address": "경기 안성시 만세로 1182 지에스25 안성칠곡  ",
     "phone": null,
     "lottery_types": [
       "lotto645",
@@ -52227,7 +52227,7 @@
     ],
     "latitude": 37.04363,
     "longitude": 127.15039,
-    "updated_at": "2026-01-12T11:55:24.026950"
+    "updated_at": "2026-01-24T14:09:06.113339"
   },
   "14940095": {
     "store_id": "14940095",
@@ -59937,5 +59937,47 @@
     "latitude": 35.971556,
     "longitude": 126.732848,
     "updated_at": "2026-01-17T14:08:44.517684"
+  },
+  "11140208": {
+    "store_id": "11140208",
+    "name": "고척대박복권&카페",
+    "address": "서울 구로구 경인로47길 68 1층(고척동)  ",
+    "phone": null,
+    "lottery_types": [
+      "lotto645",
+      "pension720",
+      "speetto"
+    ],
+    "latitude": 37.501954,
+    "longitude": 126.864761,
+    "updated_at": "2026-01-24T14:09:06.112594"
+  },
+  "11190205": {
+    "store_id": "11190205",
+    "name": "가로판매점",
+    "address": "서울 영등포구 양평로 46 가판  ",
+    "phone": "02-2671-7917",
+    "lottery_types": [
+      "lotto645",
+      "pension720",
+      "speetto"
+    ],
+    "latitude": 37.534465,
+    "longitude": 126.901596,
+    "updated_at": "2026-01-24T14:09:06.113074"
+  },
+  "13040222": {
+    "store_id": "13040222",
+    "name": "왕대박 복권판매점",
+    "address": "대전 유성구 문화원로 54 서은빌딩 102호(궁동)  ",
+    "phone": null,
+    "lottery_types": [
+      "lotto645",
+      "pension720",
+      "speetto"
+    ],
+    "latitude": 36.359674,
+    "longitude": 127.341684,
+    "updated_at": "2026-01-24T14:09:06.113201"
   }
 }
