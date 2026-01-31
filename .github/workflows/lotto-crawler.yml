@@ -82,7 +82,7 @@ jobs:
           echo "draw_no=$LATEST_DRAW" >> $GITHUB_OUTPUT
           
           # 해당 회차의 JSON 파일 경로
-          DRAW_FILE="lotto/lotto_${LATEST_DRAW}.json"
+          DRAW_FILE="lotto/draws/lotto_${LATEST_DRAW}.json"
           
           # 1등 당첨 배출점 정보 확인
           if [ -f "$DRAW_FILE" ]; then
