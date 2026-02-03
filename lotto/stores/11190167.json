@@ -1,7 +1,7 @@
 {
   "store_id": "11190167",
   "name": "꽃제비칼국수",
-  "address": "서울 노원구 광운로12길 13 ",
+  "address": "서울 노원구  광운로12길 13 ",
   "phone": "02-911-8371",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 37.621291,
   "longitude": 127.059869,
-  "updated_at": "2026-01-12T11:39:48.217981"
+  "updated_at": "2026-02-03T18:24:30.428253",
+  "first_prize_draws": [
+    857
+  ],
+  "second_prize_draws": [
+    1141,
+    893,
+    684
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

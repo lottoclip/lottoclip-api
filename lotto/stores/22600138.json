@@ -1,7 +1,7 @@
 {
   "store_id": "22600138",
-  "name": "GS25(민락중앙)",
-  "address": "부산 수영구  민락동 181-82번지1층",
+  "name": "GS25(민락중앙점)",
+  "address": "부산 수영구 민락동 181-82 ",
   "phone": "051-759-4835",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,16 @@
   ],
   "latitude": 35.155886,
   "longitude": 129.125002,
-  "updated_at": "2026-01-12T11:28:52.480653"
+  "updated_at": "2026-02-03T18:00:17.789716",
+  "first_prize_draws": [
+    669
+  ],
+  "second_prize_draws": [
+    841,
+    655,
+    613,
+    503
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

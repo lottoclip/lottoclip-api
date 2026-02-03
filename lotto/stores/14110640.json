@@ -1,7 +1,7 @@
 {
   "store_id": "14110640",
   "name": "현대로또",
-  "address": "경기 성남시 중원구 금상로 32-1 ",
+  "address": "경기 성남시 중원구  금상로 32-1 ",
   "phone": "031-747-5993",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 37.43849,
   "longitude": 127.1607,
-  "updated_at": "2026-01-12T11:19:53.624351"
+  "updated_at": "2026-02-03T18:20:16.106895",
+  "first_prize_draws": [
+    512
+  ],
+  "second_prize_draws": [
+    1085,
+    411
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

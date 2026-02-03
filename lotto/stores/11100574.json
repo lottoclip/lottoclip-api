@@ -1,7 +1,7 @@
 {
   "store_id": "11100574",
   "name": "할인마트부흥점",
-  "address": "서울 중랑구 면목2동  142-43",
+  "address": "서울 중랑구 면목2동 142-43번지 ",
   "phone": "02-491-3368",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,14 @@
   ],
   "latitude": 37.590079,
   "longitude": 127.082024,
-  "updated_at": "2026-01-12T11:18:09.825492"
+  "updated_at": "2026-02-03T17:46:33.042374",
+  "first_prize_draws": [
+    484
+  ],
+  "second_prize_draws": [
+    681,
+    652
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

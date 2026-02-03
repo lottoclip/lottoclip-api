@@ -1,7 +1,7 @@
 {
   "store_id": "14100135",
   "name": "드림월드",
-  "address": "경기 성남시 수정구 수정로 346 ",
+  "address": "경기 성남시 수정구  수정로 346 ",
   "phone": "031-745-6737",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 37.454435,
   "longitude": 127.150005,
-  "updated_at": "2026-01-12T11:43:32.120467"
+  "updated_at": "2026-02-03T18:28:39.339766",
+  "first_prize_draws": [
+    919
+  ],
+  "second_prize_draws": [
+    1191,
+    1015,
+    907,
+    705,
+    662,
+    464
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

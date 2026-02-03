@@ -1,7 +1,7 @@
 {
   "store_id": "12830017",
-  "name": "인더라인 로또",
-  "address": "인천 부평구 십정동(부평3동) 577-6 ",
+  "name": "혜원복권",
+  "address": "인천 부평구  경인로667번길 4 105호(십정동)",
   "phone": "032-529-6233",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 37.46936,
   "longitude": 126.707858,
-  "updated_at": "2026-01-12T11:33:43.136447"
+  "updated_at": "2026-02-03T18:18:37.806842",
+  "first_prize_draws": [
+    746
+  ],
+  "second_prize_draws": [
+    1066
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

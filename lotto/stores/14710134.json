@@ -1,12 +1,37 @@
 {
   "store_id": "14710134",
-  "name": "텀브커피왜관점 로또명당",
-  "address": "경북 칠곡군 중앙로 95 ",
+  "name": "더리터경북왜관점로또명당",
+  "address": "경북 칠곡군  중앙로 95 1층 커피&로또명당",
   "phone": null,
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 35.983678,
   "longitude": 128.398169,
-  "updated_at": "2026-01-12T11:49:40.972857"
+  "updated_at": "2026-02-03T18:29:36.482271",
+  "first_prize_draws": [
+    1022,
+    726
+  ],
+  "second_prize_draws": [
+    1204,
+    1148,
+    1141,
+    1125,
+    1057,
+    1017,
+    939,
+    770,
+    721,
+    663,
+    654,
+    461,
+    414,
+    320,
+    315,
+    295,
+    263
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 17
 }

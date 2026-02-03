@@ -1,7 +1,7 @@
 {
   "store_id": "14540045",
   "name": "로또복권판매점",
-  "address": "전북 남원시 가방뜰길 57 ",
+  "address": "전북 남원시  가방뜰길 57 상가",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 35.400187,
   "longitude": 127.369266,
-  "updated_at": "2026-01-12T11:48:54.517383"
+  "updated_at": "2026-02-03T18:21:24.855800",
+  "first_prize_draws": [
+    1012
+  ],
+  "second_prize_draws": [
+    1101
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

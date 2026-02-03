@@ -1,7 +1,7 @@
 {
   "store_id": "12800163",
   "name": "주경슈퍼",
-  "address": "인천 부평구 경인로 1063 ",
+  "address": "인천 부평구  경인로 1063 ",
   "phone": "032-523-4581",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 37.486958,
   "longitude": 126.738189,
-  "updated_at": "2026-01-12T11:17:17.216692"
+  "updated_at": "2026-02-03T18:29:36.060206",
+  "first_prize_draws": [
+    467
+  ],
+  "second_prize_draws": [
+    1204,
+    1000,
+    943,
+    784,
+    670,
+    513
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "12840051",
   "name": "노다지복권",
-  "address": "인천 계양구 장제로 916 ",
+  "address": "인천 계양구  장제로 916 계양병원 1층 일부호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 37.548107,
   "longitude": 126.741567,
-  "updated_at": "2026-01-12T11:45:17.525732"
+  "updated_at": "2026-02-03T18:22:20.077438",
+  "first_prize_draws": [
+    948
+  ],
+  "second_prize_draws": [
+    1114,
+    1086,
+    989,
+    984,
+    891
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

@@ -1,12 +1,23 @@
 {
   "store_id": "14710148",
   "name": "로또경주고속점",
-  "address": "경북 경주시 태종로 695 ",
+  "address": "경북 경주시  태종로 695 ",
   "phone": "054-749-7794",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 35.838729,
   "longitude": 129.204188,
-  "updated_at": "2026-01-12T11:22:48.563502"
+  "updated_at": "2026-02-03T18:24:35.103266",
+  "first_prize_draws": [
+    563,
+    368
+  ],
+  "second_prize_draws": [
+    1142,
+    967,
+    641
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 3
 }

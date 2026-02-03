@@ -1,0 +1,23 @@
+{
+  "store_id": "11110695",
+  "name": "로또",
+  "address": "서울 금천구  두산로3길 52 1층",
+  "phone": null,
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.47288,
+  "longitude": 126.88886,
+  "updated_at": "2026-02-03T18:18:51.024339",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1069,
+    956,
+    881,
+    676
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 4
+}

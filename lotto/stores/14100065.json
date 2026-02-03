@@ -1,7 +1,7 @@
 {
   "store_id": "14100065",
   "name": "씨유 트윈시티",
-  "address": "경기 고양시 일산동구 위시티로 75 ",
+  "address": "경기 고양시 일산동구  위시티로 75 113호",
   "phone": "031-965-1979",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 37.678833,
   "longitude": 126.811085,
-  "updated_at": "2026-01-12T11:53:40.224226"
+  "updated_at": "2026-02-03T18:20:07.023663",
+  "first_prize_draws": [
+    1083,
+    724
+  ],
+  "second_prize_draws": [
+    958,
+    921,
+    867,
+    802,
+    773,
+    752,
+    725,
+    404
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 8
 }

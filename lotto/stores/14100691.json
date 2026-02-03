@@ -1,7 +1,7 @@
 {
   "store_id": "14100691",
   "name": "삐삐문구",
-  "address": "경기 남양주시 사릉로 403 ",
+  "address": "경기 남양주시  사릉로 403 ",
   "phone": "031-573-8244",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 37.656084,
   "longitude": 127.179677,
-  "updated_at": "2026-01-12T11:53:46.894685"
+  "updated_at": "2026-02-03T18:25:42.486258",
+  "first_prize_draws": [
+    1085
+  ],
+  "second_prize_draws": [
+    1154,
+    1150,
+    1147,
+    982,
+    849
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

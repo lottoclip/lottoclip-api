@@ -1,0 +1,23 @@
+{
+  "store_id": "14100825",
+  "name": "로또복권판매점",
+  "address": "경기 여주시  세종로 59 ",
+  "phone": "031-885-3337",
+  "lottery_types": [
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 37.292498,
+  "longitude": 127.635801,
+  "updated_at": "2026-02-03T18:21:58.761318",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1109,
+    856,
+    793,
+    728,
+    557
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 5
+}

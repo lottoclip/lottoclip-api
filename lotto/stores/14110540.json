@@ -1,7 +1,7 @@
 {
   "store_id": "14110540",
   "name": "꿈이있는로또",
-  "address": "경기 여주시 경충대로 1490 ",
+  "address": "경기 여주시  경충대로 1490 오일뱅크 주유소",
   "phone": "031-884-6586",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 37.21828,
   "longitude": 127.531332,
-  "updated_at": "2026-01-12T12:00:29.076728"
+  "updated_at": "2026-02-03T18:28:21.276984",
+  "first_prize_draws": [
+    1187
+  ],
+  "second_prize_draws": [
+    626
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "13090010",
   "name": "행운플러스",
-  "address": "대전 대덕구 덕암로 214 ",
+  "address": "대전 대덕구  덕암로 214 ",
   "phone": "042-931-5920",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 36.439466,
   "longitude": 127.423882,
-  "updated_at": "2026-01-12T11:44:11.891852"
+  "updated_at": "2026-02-03T18:20:37.672018",
+  "first_prize_draws": [
+    927
+  ],
+  "second_prize_draws": [
+    1090,
+    1079,
+    1057,
+    612
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

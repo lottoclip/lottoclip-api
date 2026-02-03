@@ -1,7 +1,7 @@
 {
   "store_id": "24400014",
-  "name": "GS25(천안신부)",
-  "address": "충남 천안시 동남구 신부동 765번지",
+  "name": "GS25(천안창조점)",
+  "address": "충남 천안시 동남구  만남로 72 삼부르네상스오피스텔 103호",
   "phone": "041-555-2702",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,16 @@
   ],
   "latitude": 36.81943,
   "longitude": 127.159978,
-  "updated_at": "2026-01-12T11:14:55.350737"
+  "updated_at": "2026-02-03T18:09:09.337841",
+  "first_prize_draws": [
+    431
+  ],
+  "second_prize_draws": [
+    948,
+    931,
+    517,
+    384
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

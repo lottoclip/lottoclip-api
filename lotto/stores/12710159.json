@@ -1,7 +1,7 @@
 {
   "store_id": "12710159",
-  "name": "태수상사",
-  "address": "대구 달서구 비슬로 2684 ",
+  "name": "스마일복권",
+  "address": "대구 달서구  비슬로 2684 1층 복권방",
   "phone": "053-633-6631",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 35.820364,
   "longitude": 128.532495,
-  "updated_at": "2026-01-12T11:45:11.414277"
+  "updated_at": "2026-02-03T18:23:34.545066",
+  "first_prize_draws": [
+    946
+  ],
+  "second_prize_draws": [
+    1128,
+    463,
+    287
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

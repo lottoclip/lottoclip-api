@@ -1,7 +1,7 @@
 {
   "store_id": "21100133",
   "name": "GS25(구로미성점)",
-  "address": "서울 구로구 신도림동 399번지 기임빌딩101호",
+  "address": "서울 구로구  구로중앙로 228 기임빌딩101호",
   "phone": "02-2635-2025",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 37.506195,
   "longitude": 126.876654,
-  "updated_at": "2026-01-12T11:43:13.551511"
+  "updated_at": "2026-02-03T18:10:31.843776",
+  "first_prize_draws": [
+    913,
+    632
+  ],
+  "second_prize_draws": [
+    966,
+    756,
+    601,
+    575
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 4
 }

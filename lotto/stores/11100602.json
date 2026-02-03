@@ -1,0 +1,29 @@
+{
+  "store_id": "11100602",
+  "name": "홍제삼거리마트",
+  "address": "서울 서대문구  통일로 407 ",
+  "phone": "02-735-8054",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.585842,
+  "longitude": 126.946883,
+  "updated_at": "2026-02-03T18:21:20.339056",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1100,
+    1083,
+    1058,
+    942,
+    936,
+    925,
+    762,
+    670,
+    612,
+    524
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 10
+}

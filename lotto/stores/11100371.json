@@ -1,7 +1,7 @@
 {
   "store_id": "11100371",
   "name": "평강슈퍼",
-  "address": "서울 노원구 노해로75길 14-2 ",
+  "address": "서울 노원구 상계동 704번지 중앙빌딩1층",
   "phone": "02-936-7687",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 37.654273,
   "longitude": 127.057602,
-  "updated_at": "2026-01-12T11:22:01.602063"
+  "updated_at": "2026-02-03T17:59:33.612985",
+  "first_prize_draws": [
+    553
+  ],
+  "second_prize_draws": [
+    831,
+    758,
+    281
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

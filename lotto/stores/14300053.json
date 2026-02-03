@@ -1,7 +1,7 @@
 {
   "store_id": "14300053",
   "name": "왕대박유통",
-  "address": "충북 청주시 흥덕구 서현동로 25 ",
+  "address": "충북 청주시 흥덕구  서현동로 25 화인프라자 1층",
   "phone": "043-276-9195",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 36.624504,
   "longitude": 127.429248,
-  "updated_at": "2026-01-12T11:54:33.100411"
+  "updated_at": "2026-02-03T18:22:11.860829",
+  "first_prize_draws": [
+    1090
+  ],
+  "second_prize_draws": [
+    1112,
+    1102,
+    1024,
+    979,
+    837,
+    550,
+    311
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

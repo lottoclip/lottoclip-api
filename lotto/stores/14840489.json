@@ -1,7 +1,7 @@
 {
   "store_id": "14840489",
   "name": "용남복권",
-  "address": "경남 통영시 남해안대로 440 ",
+  "address": "경남 통영시  남해안대로 440 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 34.868935,
   "longitude": 128.444387,
-  "updated_at": "2026-01-12T12:01:41.460729"
+  "updated_at": "2026-02-03T18:29:18.638056",
+  "first_prize_draws": [
+    1200
+  ],
+  "second_prize_draws": [
+    1144,
+    1118,
+    1112,
+    1067
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

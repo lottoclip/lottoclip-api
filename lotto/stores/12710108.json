@@ -1,7 +1,7 @@
 {
   "store_id": "12710108",
   "name": "로또일도점",
-  "address": "대구 북구 학정로 421 ",
+  "address": "대구 북구  학정로 421 일도프라자101호",
   "phone": "053-321-7491",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 35.942388,
   "longitude": 128.563091,
-  "updated_at": "2026-01-12T11:29:20.903653"
+  "updated_at": "2026-02-03T18:28:34.633418",
+  "first_prize_draws": [
+    673
+  ],
+  "second_prize_draws": [
+    1190,
+    1149,
+    1103,
+    1070,
+    747,
+    590,
+    478,
+    431
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

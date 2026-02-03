@@ -1,7 +1,7 @@
 {
   "store_id": "14610091",
-  "name": "천하명당복권방",
-  "address": "전남 목포시 상동  883번지 동아아파트상가 가동 1층 101호",
+  "name": "포미로또",
+  "address": "전남 목포시 용해동 978-1번지 포미도서대여점",
   "phone": "061-274-3189",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,14 @@
   ],
   "latitude": 34.817416,
   "longitude": 126.398699,
-  "updated_at": "2026-01-12T11:12:18.129281"
+  "updated_at": "2026-02-03T18:00:53.411379",
+  "first_prize_draws": [
+    385
+  ],
+  "second_prize_draws": [
+    849,
+    829
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14100390",
   "name": "역전슈퍼",
-  "address": "경기 의정부시 가능로 96 ",
+  "address": "경기 의정부시 의정부동 407-7번지 ",
   "phone": "031-876-5617",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 37.746723,
   "longitude": 127.041626,
-  "updated_at": "2026-01-12T11:41:46.647615"
+  "updated_at": "2026-02-03T18:03:44.065953",
+  "first_prize_draws": [
+    885
+  ],
+  "second_prize_draws": [
+    454
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

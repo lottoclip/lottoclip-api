@@ -1,7 +1,7 @@
 {
   "store_id": "12910051",
   "name": "월드복권",
-  "address": "광주 남구 봉선2로 51 ",
+  "address": "광주 남구 방림동 566번지 방림광신프로그레스상가112동 지하층 101호 이마트에브리데이 내",
   "phone": "062-653-0067",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 35.13285,
   "longitude": 126.918624,
-  "updated_at": "2026-01-12T11:27:16.656749"
+  "updated_at": "2026-02-03T18:04:14.791049",
+  "first_prize_draws": [
+    643
+  ],
+  "second_prize_draws": [
+    892,
+    819,
+    373,
+    283
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

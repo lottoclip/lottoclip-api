@@ -1,7 +1,7 @@
 {
   "store_id": "14890023",
   "name": "스포츠복권방",
-  "address": "경남 양산시 황산로 675 ",
+  "address": "경남 양산시  황산로 675 ",
   "phone": "055-363-8300",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,27 @@
   ],
   "latitude": 35.330876,
   "longitude": 129.006695,
-  "updated_at": "2026-01-12T11:57:39.955006"
+  "updated_at": "2026-02-03T18:27:59.687080",
+  "first_prize_draws": [
+    1139,
+    369
+  ],
+  "second_prize_draws": [
+    1182,
+    777,
+    775,
+    749,
+    706,
+    679,
+    671,
+    657,
+    643,
+    629,
+    598,
+    468,
+    389,
+    329
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 14
 }

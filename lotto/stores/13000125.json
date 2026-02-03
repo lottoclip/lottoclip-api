@@ -1,0 +1,26 @@
+{
+  "store_id": "13000125",
+  "name": "그린편의점",
+  "address": "대전 서구  도산로181번길 2 편의점",
+  "phone": "042-523-9144",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.324679,
+  "longitude": 127.378506,
+  "updated_at": "2026-02-03T18:17:57.219900",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1057,
+    844,
+    758,
+    701,
+    532,
+    399,
+    304
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 7
+}

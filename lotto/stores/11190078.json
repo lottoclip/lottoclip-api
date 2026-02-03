@@ -1,7 +1,7 @@
 {
   "store_id": "11190078",
   "name": "대박나라",
-  "address": "서울 마포구 망원로 86 ",
+  "address": "서울 마포구  망원로 86 부광 ",
   "phone": "02-714-0325",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 37.557459,
   "longitude": 126.906244,
-  "updated_at": "2026-01-12T11:38:19.982627"
+  "updated_at": "2026-02-03T18:12:07.958044",
+  "first_prize_draws": [
+    829
+  ],
+  "second_prize_draws": [
+    984,
+    979,
+    946,
+    889,
+    737,
+    690,
+    640,
+    375,
+    263
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 9
 }

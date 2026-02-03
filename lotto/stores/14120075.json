@@ -1,7 +1,7 @@
 {
   "store_id": "14120075",
   "name": "금도끼 은도끼",
-  "address": "경기 양주시 부흥로 1830 ",
+  "address": "경기 양주시  부흥로 1830 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 37.788264,
   "longitude": 127.070311,
-  "updated_at": "2026-01-12T11:33:30.517717"
+  "updated_at": "2026-02-03T18:22:41.628460",
+  "first_prize_draws": [
+    742
+  ],
+  "second_prize_draws": [
+    1119,
+    1054,
+    1048,
+    1035,
+    843,
+    833
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

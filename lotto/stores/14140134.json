@@ -1,7 +1,7 @@
 {
   "store_id": "14140134",
   "name": "세븐일레븐남양주차산점",
-  "address": "경기 남양주시 수레로 1096 ",
+  "address": "경기 남양주시  수레로 1096 ",
   "phone": "031-591-6030",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,22 @@
   ],
   "latitude": 37.635173,
   "longitude": 127.303771,
-  "updated_at": "2026-01-12T11:58:26.840746"
+  "updated_at": "2026-02-03T18:28:52.528358",
+  "first_prize_draws": [
+    1149,
+    896
+  ],
+  "second_prize_draws": [
+    1194,
+    1182,
+    1170,
+    1063,
+    990,
+    981,
+    901,
+    891,
+    889
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 9
 }

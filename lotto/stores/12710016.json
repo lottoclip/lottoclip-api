@@ -1,7 +1,7 @@
 {
   "store_id": "12710016",
   "name": "복권이야기",
-  "address": "대구 동구 신천동  740-20",
+  "address": "대구 동구 신서동 1148-3 ",
   "phone": "053-524-8000",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,16 @@
   ],
   "latitude": 35.878858,
   "longitude": 128.731918,
-  "updated_at": "2026-01-12T11:10:12.369911"
+  "updated_at": "2026-02-03T17:55:16.471444",
+  "first_prize_draws": [
+    354
+  ],
+  "second_prize_draws": [
+    778,
+    407,
+    367,
+    308
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

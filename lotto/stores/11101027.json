@@ -1,7 +1,7 @@
 {
   "store_id": "11101027",
   "name": "경방필백화점라이츠21호",
-  "address": "서울 은평구  갈현동 396-11번지",
+  "address": "서울 은평구 갈현동(갈현제1동) 396-11 ",
   "phone": "02-385-7017",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,20 @@
   ],
   "latitude": 37.619308,
   "longitude": 126.920353,
-  "updated_at": "2026-01-12T11:29:33.178334"
+  "updated_at": "2026-02-03T17:55:39.212123",
+  "first_prize_draws": [
+    677,
+    403
+  ],
+  "second_prize_draws": [
+    783,
+    779,
+    740,
+    621,
+    505,
+    455,
+    439
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 7
 }

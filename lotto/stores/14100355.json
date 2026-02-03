@@ -1,7 +1,7 @@
 {
   "store_id": "14100355",
   "name": "나눔로또 스포츠토토(김포장기점)",
-  "address": "경기 김포시 김포한강1로78번길 7 ",
+  "address": "경기 김포시  김포한강1로78번길 7 1층 110호",
   "phone": "031-987-7089",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.644871,
   "longitude": 126.670662,
-  "updated_at": "2026-01-12T11:44:15.138436"
+  "updated_at": "2026-02-03T18:27:11.760470",
+  "first_prize_draws": [
+    928,
+    747,
+    583
+  ],
+  "second_prize_draws": [
+    1171,
+    980,
+    918,
+    892,
+    883
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 5
 }

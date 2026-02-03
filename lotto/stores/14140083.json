@@ -1,7 +1,7 @@
 {
   "store_id": "14140083",
   "name": "이충복권방",
-  "address": "경기 평택시 송탄로 108 ",
+  "address": "경기 평택시  송탄로 108 1층103호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.054465,
   "longitude": 127.056068,
-  "updated_at": "2026-01-12T11:55:40.067143"
+  "updated_at": "2026-02-03T18:27:38.335523",
+  "first_prize_draws": [
+    1111,
+    1041
+  ],
+  "second_prize_draws": [
+    1177,
+    1172,
+    1057,
+    1052,
+    1039,
+    851
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 6
 }

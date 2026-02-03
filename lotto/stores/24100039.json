@@ -1,12 +1,22 @@
 {
   "store_id": "24100039",
   "name": "GS25(일산토당)",
-  "address": "경기 고양시 덕양구 토당동 토당동 282-2금호프라자1층113 114",
+  "address": "경기 고양시 덕양구 토당동 282-2금호프라자1층113 114",
   "phone": "031-971-6895",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.625579,
   "longitude": 126.817007,
-  "updated_at": "2026-01-12T11:08:04.792206"
+  "updated_at": "2026-02-03T17:26:24.210350",
+  "first_prize_draws": [
+    322
+  ],
+  "second_prize_draws": [
+    407,
+    391,
+    357
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

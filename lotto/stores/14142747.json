@@ -1,7 +1,7 @@
 {
   "store_id": "14142747",
   "name": "일동복권판매점",
-  "address": "경기 포천시 화동로 1081 ",
+  "address": "경기 포천시 화동로 1081 좌측 2번째 점포  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 37.959824,
   "longitude": 127.318776,
-  "updated_at": "2026-01-12T11:57:04.586579"
+  "updated_at": "2026-02-03T18:29:49.050004",
+  "first_prize_draws": [
+    1128
+  ],
+  "second_prize_draws": [
+    1207
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

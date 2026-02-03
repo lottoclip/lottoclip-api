@@ -1,7 +1,7 @@
 {
   "store_id": "12740331",
   "name": "와이에스컴퍼니",
-  "address": "대구 남구 두류공원로 105 ",
+  "address": "대구 남구  두류공원로 105 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,11 @@
   ],
   "latitude": 35.845771,
   "longitude": 128.567673,
-  "updated_at": "2026-01-12T12:01:51.430561"
+  "updated_at": "2026-02-03T18:29:31.381645",
+  "first_prize_draws": [
+    1203
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

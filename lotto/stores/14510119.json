@@ -1,7 +1,7 @@
 {
   "store_id": "14510119",
   "name": "한진롯또대박판매점",
-  "address": "전북 고창군 복분자로 900 ",
+  "address": "전북 고창군 부안면 중흥리 139 전북 고창군 복분자로 900 일심이용원",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,20 @@
   ],
   "latitude": 35.51284,
   "longitude": 126.673926,
-  "updated_at": "2026-01-12T11:25:37.527320"
+  "updated_at": "2026-02-03T18:04:10.463592",
+  "first_prize_draws": [
+    612
+  ],
+  "second_prize_draws": [
+    891,
+    840,
+    819,
+    806,
+    720,
+    617,
+    530,
+    276
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

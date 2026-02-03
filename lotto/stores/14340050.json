@@ -1,7 +1,7 @@
 {
   "store_id": "14340050",
   "name": "로또명당 수곡점",
-  "address": "충북 청주시 서원구 구룡산로 341 ",
+  "address": "충북 청주시 서원구  구룡산로 341 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 36.618532,
   "longitude": 127.482316,
-  "updated_at": "2026-01-12T11:56:20.758222"
+  "updated_at": "2026-02-03T18:22:41.786118",
+  "first_prize_draws": [
+    1119
+  ],
+  "second_prize_draws": [
+    1007
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

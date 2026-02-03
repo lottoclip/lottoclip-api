@@ -1,7 +1,7 @@
 {
   "store_id": "14190119",
   "name": "복권명당",
-  "address": "경기 안산시 상록구 건건로 41 ",
+  "address": "경기 안산시 상록구  건건로 41 ",
   "phone": "031-501-9585",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,27 @@
   ],
   "latitude": 37.304984,
   "longitude": 126.901978,
-  "updated_at": "2026-01-12T11:24:57.595280"
+  "updated_at": "2026-02-03T18:27:33.955302",
+  "first_prize_draws": [
+    604,
+    567
+  ],
+  "second_prize_draws": [
+    1176,
+    1141,
+    1101,
+    1070,
+    707,
+    638,
+    597,
+    589,
+    552,
+    511,
+    419,
+    379,
+    301,
+    266
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 14
 }

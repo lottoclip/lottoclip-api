@@ -1,7 +1,7 @@
 {
   "store_id": "14190045",
   "name": "잉크와복권",
-  "address": "경기 광명시 시청로 69 ",
+  "address": "경기 광명시  시청로 69 ",
   "phone": "02-2682-6385",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 37.48272,
   "longitude": 126.865617,
-  "updated_at": "2026-01-12T11:48:28.980805"
+  "updated_at": "2026-02-03T18:13:33.839222",
+  "first_prize_draws": [
+    1004,
+    903
+  ],
+  "second_prize_draws": [
+    663
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 1
 }

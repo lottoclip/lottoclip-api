@@ -1,7 +1,7 @@
 {
   "store_id": "11110453",
   "name": "다터져복권방",
-  "address": "서울 금천구 가산동  60-18번지 한신it타워2차101호",
+  "address": "서울 금천구 가산동 60-18 한신it타워2차101호",
   "phone": "02-2025-3025",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,16 @@
   ],
   "latitude": 37.449487,
   "longitude": 126.905205,
-  "updated_at": "2026-01-12T11:23:59.943819"
+  "updated_at": "2026-02-03T17:52:39.197441",
+  "first_prize_draws": [
+    586
+  ],
+  "second_prize_draws": [
+    748,
+    602,
+    568,
+    383
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

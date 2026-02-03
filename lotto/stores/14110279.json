@@ -1,7 +1,7 @@
 {
   "store_id": "14110279",
   "name": "한샘행운복권방",
-  "address": "경기 양주시 가래비길 57-1 ",
+  "address": "경기 양주시  가래비길 57-1 ",
   "phone": "031-836-3572",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 37.823152,
   "longitude": 126.985488,
-  "updated_at": "2026-01-12T11:27:07.498892"
+  "updated_at": "2026-02-03T18:14:21.545401",
+  "first_prize_draws": [
+    640,
+    358
+  ],
+  "second_prize_draws": [
+    1015,
+    308
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 2
 }

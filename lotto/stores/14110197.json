@@ -1,7 +1,7 @@
 {
   "store_id": "14110197",
   "name": "팡팡마트",
-  "address": "경기 남양주시 오남읍 오남리 493-1 ",
+  "address": "경기 남양주시 오남읍 오남리 404-8 102호",
   "phone": "031-528-9993",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 37.680288,
   "longitude": 127.210471,
-  "updated_at": "2026-01-12T11:38:51.741320"
+  "updated_at": "2026-02-03T18:06:09.966064",
+  "first_prize_draws": [
+    839
+  ],
+  "second_prize_draws": [
+    914,
+    757,
+    731,
+    718,
+    652,
+    611,
+    594,
+    554,
+    550,
+    482,
+    457,
+    378
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 12
 }

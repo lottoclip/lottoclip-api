@@ -1,7 +1,7 @@
 {
   "store_id": "14410125",
   "name": "로또입장점",
-  "address": "충남 천안시 서북구 입장면 하장리   45-22",
+  "address": "충남 천안시 서북구 입장면 하장리 45-22 세븐일레븐입장점내",
   "phone": "041-584-7741",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,18 @@
   ],
   "latitude": 36.91466,
   "longitude": 127.222097,
-  "updated_at": "2026-01-12T11:17:20.436495"
+  "updated_at": "2026-02-03T18:02:41.752943",
+  "first_prize_draws": [
+    468
+  ],
+  "second_prize_draws": [
+    874,
+    746,
+    676,
+    597,
+    578,
+    513
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

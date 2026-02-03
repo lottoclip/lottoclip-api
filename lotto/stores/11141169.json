@@ -1,7 +1,7 @@
 {
   "store_id": "11141169",
   "name": "태양복권",
-  "address": "서울 금천구 시흥대로56길 21 ",
+  "address": "서울 금천구  시흥대로56길 21 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,11 @@
   ],
   "latitude": 37.45269,
   "longitude": 126.90291,
-  "updated_at": "2026-01-12T11:57:04.227893"
+  "updated_at": "2026-02-03T18:23:34.366930",
+  "first_prize_draws": [
+    1128
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

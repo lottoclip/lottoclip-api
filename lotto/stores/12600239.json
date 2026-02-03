@@ -1,12 +1,27 @@
 {
   "store_id": "12600239",
   "name": "행운나눔로또",
-  "address": "부산 중구 구덕로34번길 4 ",
+  "address": "부산 중구  구덕로34번길 4 가판집",
   "phone": "051-256-2510",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 35.09831,
   "longitude": 129.032318,
-  "updated_at": "2026-01-12T11:56:57.996705"
+  "updated_at": "2026-02-03T18:27:42.325190",
+  "first_prize_draws": [
+    1126
+  ],
+  "second_prize_draws": [
+    1178,
+    1170,
+    1090,
+    777,
+    694,
+    616,
+    370,
+    345
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "11120016",
   "name": "행운식품",
-  "address": "서울 관악구 신원로3길 21 ",
+  "address": "서울 관악구  신원로3길 21 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 37.481879,
   "longitude": 126.927148,
-  "updated_at": "2026-01-12T11:48:16.106237"
+  "updated_at": "2026-02-03T18:13:16.353558",
+  "first_prize_draws": [
+    1000
+  ],
+  "second_prize_draws": [
+    891,
+    789
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "13140081",
   "name": "새희망로또",
-  "address": "울산 중구 백양로 47 ",
+  "address": "울산 중구  백양로 47 ",
   "phone": "052-243-8058",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,11 @@
   ],
   "latitude": 35.574466,
   "longitude": 129.311693,
-  "updated_at": "2026-01-12T11:55:30.581236"
+  "updated_at": "2026-02-03T18:21:54.409253",
+  "first_prize_draws": [
+    1108
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

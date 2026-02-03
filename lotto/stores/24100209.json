@@ -1,7 +1,7 @@
 {
   "store_id": "24100209",
   "name": "CU(안양석수점)",
-  "address": "경기 안양시 만안구 석수동  325-13번지",
+  "address": "경기 안양시 만안구  안양로 456 ",
   "phone": "031-473-1134",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,16 @@
   ],
   "latitude": 37.410831,
   "longitude": 126.911847,
-  "updated_at": "2026-01-12T11:24:31.328860"
+  "updated_at": "2026-02-03T18:11:04.073361",
+  "first_prize_draws": [
+    596
+  ],
+  "second_prize_draws": [
+    973,
+    784,
+    647,
+    514
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

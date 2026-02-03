@@ -1,7 +1,7 @@
 {
   "store_id": "24100156",
   "name": "CU(원종깨비점)",
-  "address": "경기 부천시 오정구 원종동 280-9번지 덕산아파트",
+  "address": "경기 부천시  소사로 750 CU원종깨비점",
   "phone": "032-675-2997",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,26 @@
   ],
   "latitude": 37.522909,
   "longitude": 126.805139,
-  "updated_at": "2026-01-12T11:37:36.005486"
+  "updated_at": "2026-02-03T18:10:14.196820",
+  "first_prize_draws": [
+    815,
+    561
+  ],
+  "second_prize_draws": [
+    962,
+    934,
+    859,
+    660,
+    651,
+    643,
+    578,
+    536,
+    535,
+    510,
+    499,
+    431,
+    394
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 13
 }

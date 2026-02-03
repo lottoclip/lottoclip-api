@@ -1,7 +1,7 @@
 {
   "store_id": "11100100",
   "name": "복권명당",
-  "address": "서울 관악구 장군봉1길 43 ",
+  "address": "서울 관악구  장군봉1길 43 1층",
   "phone": "02-882-0939",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 37.481727,
   "longitude": 126.942438,
-  "updated_at": "2026-01-12T11:19:08.745212"
+  "updated_at": "2026-02-03T18:10:00.736465",
+  "first_prize_draws": [
+    498,
+    406
+  ],
+  "second_prize_draws": [
+    959,
+    756,
+    597,
+    544,
+    283
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 5
 }

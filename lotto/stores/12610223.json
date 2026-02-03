@@ -1,7 +1,7 @@
 {
   "store_id": "12610223",
   "name": "백금당",
-  "address": "부산 중구 중구로29번길 26 ",
+  "address": "부산 중구  중구로29번길 26 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,25 @@
   ],
   "latitude": 35.100512,
   "longitude": 129.027307,
-  "updated_at": "2026-01-12T12:01:44.752211"
+  "updated_at": "2026-02-03T18:29:22.548500",
+  "first_prize_draws": [
+    1201,
+    1086,
+    549
+  ],
+  "second_prize_draws": [
+    1171,
+    1151,
+    1134,
+    1084,
+    1079,
+    1057,
+    1033,
+    983,
+    969,
+    947,
+    521
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 11
 }

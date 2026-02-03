@@ -1,7 +1,7 @@
 {
   "store_id": "12640755",
   "name": "비프광장",
-  "address": "부산 중구 중구로5번길 14 ",
+  "address": "부산 중구 중구로5번길 14 1층 105호(남포동6가더베이먼트)  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 35.098149,
   "longitude": 129.02661,
-  "updated_at": "2026-01-12T11:58:14.267739"
+  "updated_at": "2026-02-03T18:29:57.365029",
+  "first_prize_draws": [
+    1145
+  ],
+  "second_prize_draws": [
+    1209,
+    1206,
+    1202,
+    1200,
+    1189,
+    1160,
+    1146
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

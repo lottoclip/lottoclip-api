@@ -1,0 +1,26 @@
+{
+  "store_id": "14690009",
+  "name": "TOTO복권",
+  "address": "전남 광양시  광양읍 호북길 4 ",
+  "phone": "061-763-8811",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 34.979225,
+  "longitude": 127.584287,
+  "updated_at": "2026-02-03T18:20:33.541209",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1089,
+    846,
+    519,
+    484,
+    398,
+    379,
+    275
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 7
+}

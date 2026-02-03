@@ -1,7 +1,7 @@
 {
   "store_id": "11110685",
   "name": "로또방",
-  "address": "서울 강서구 방화동  618-14번지",
+  "address": "서울 강서구 방화동 618-14번지 ",
   "phone": "02-2666-8856",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,14 @@
   ],
   "latitude": 37.564108,
   "longitude": 126.806694,
-  "updated_at": "2026-01-12T11:22:20.790758"
+  "updated_at": "2026-02-03T17:51:41.751402",
+  "first_prize_draws": [
+    559
+  ],
+  "second_prize_draws": [
+    736,
+    283
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

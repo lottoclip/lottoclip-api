@@ -1,0 +1,27 @@
+{
+  "store_id": "12840163",
+  "name": "희망로또 판매점",
+  "address": "인천 부평구  화랑로 94 ",
+  "phone": null,
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.491972,
+  "longitude": 126.704598,
+  "updated_at": "2026-02-03T18:29:22.573598",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1201,
+    1194,
+    1133,
+    1097,
+    1021,
+    1013,
+    972,
+    952
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 8
+}

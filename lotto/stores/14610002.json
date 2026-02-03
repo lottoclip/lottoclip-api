@@ -1,0 +1,29 @@
+{
+  "store_id": "14610002",
+  "name": "벌교 로또복권방",
+  "address": "전남 보성군  채동선로 218-1 벌교 로또편의점",
+  "phone": "061-857-0852",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 34.842157,
+  "longitude": 127.343809,
+  "updated_at": "2026-02-03T18:25:51.303556",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1156,
+    1005,
+    931,
+    807,
+    793,
+    654,
+    614,
+    613,
+    525,
+    405
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 10
+}

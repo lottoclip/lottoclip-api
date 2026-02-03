@@ -1,0 +1,24 @@
+{
+  "store_id": "11120028",
+  "name": "행복로또",
+  "address": "서울 노원구  덕릉로83길 12 1층",
+  "phone": null,
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.660077,
+  "longitude": 127.07482,
+  "updated_at": "2026-02-03T18:09:22.597994",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    951,
+    932,
+    913,
+    851,
+    824
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 5
+}

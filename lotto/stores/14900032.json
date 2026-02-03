@@ -1,7 +1,7 @@
 {
   "store_id": "14900032",
   "name": "로또공항점",
-  "address": "제주 제주시 용담2동  2002여객청사1층",
+  "address": "제주 제주시 용담이동(용담2동) 2002 여객청사1층",
   "phone": "064-742-7426",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,20 @@
   ],
   "latitude": 33.507764,
   "longitude": 126.493184,
-  "updated_at": "2026-01-12T11:13:13.186657"
+  "updated_at": "2026-02-03T17:57:38.618000",
+  "first_prize_draws": [
+    403
+  ],
+  "second_prize_draws": [
+    810,
+    796,
+    782,
+    777,
+    748,
+    717,
+    684,
+    677
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

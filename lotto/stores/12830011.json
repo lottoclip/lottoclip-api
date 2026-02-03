@@ -1,7 +1,7 @@
 {
   "store_id": "12830011",
   "name": "무궁화슈퍼",
-  "address": "인천 남동구 남동대로 702 ",
+  "address": "인천 남동구  남동대로 702 1층 1호",
   "phone": "032-468-3090",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 37.444849,
   "longitude": 126.707261,
-  "updated_at": "2026-01-12T11:53:37.098949"
+  "updated_at": "2026-02-03T18:20:06.992846",
+  "first_prize_draws": [
+    1082
+  ],
+  "second_prize_draws": [
+    1083,
+    795,
+    740
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "11190131",
   "name": "가판 창동역점",
-  "address": "서울 도봉구 마들로11길 73 ",
+  "address": "서울 도봉구  마들로11길 73 창동역문화마당앞",
   "phone": "02-997-0525",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,26 @@
   ],
   "latitude": 37.653225,
   "longitude": 127.049077,
-  "updated_at": "2026-01-12T11:39:54.399962"
+  "updated_at": "2026-02-03T18:24:13.370050",
+  "first_prize_draws": [
+    859,
+    780,
+    749
+  ],
+  "second_prize_draws": [
+    1137,
+    1096,
+    1039,
+    963,
+    956,
+    952,
+    943,
+    820,
+    704,
+    688,
+    380,
+    321
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 12
 }

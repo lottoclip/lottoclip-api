@@ -1,7 +1,7 @@
 {
   "store_id": "14610088",
   "name": "한솔복권방",
-  "address": "전남 목포시 남교동  34-1번지 한솔복권방",
+  "address": "전남 목포시  수문로 62 한솔복권방",
   "phone": "061-244-4118",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,18 @@
   ],
   "latitude": 34.794007,
   "longitude": 126.380171,
-  "updated_at": "2026-01-12T11:28:05.851651"
+  "updated_at": "2026-02-03T18:10:41.146616",
+  "first_prize_draws": [
+    654
+  ],
+  "second_prize_draws": [
+    968,
+    917,
+    725,
+    667,
+    531,
+    322
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14142271",
   "name": "복돼지복권방",
-  "address": "경기 용인시 기흥구 어정로 100 ",
+  "address": "경기 용인시 기흥구  어정로 100 1층 110호(상하동 조영프라자)",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,11 @@
   ],
   "latitude": 37.27437,
   "longitude": 127.14081,
-  "updated_at": "2026-01-12T11:57:04.546530"
+  "updated_at": "2026-02-03T18:23:34.884262",
+  "first_prize_draws": [
+    1128
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

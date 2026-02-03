@@ -1,7 +1,7 @@
 {
   "store_id": "14890041",
-  "name": "훼미리마트함양한주점",
-  "address": "경남 함양군 고운로 80-1 ",
+  "name": "씨유 함양한주점",
+  "address": "경남 함양군  고운로 80-1 ",
   "phone": "055-963-6589",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,25 @@
   ],
   "latitude": 35.520873,
   "longitude": 127.730243,
-  "updated_at": "2026-01-12T11:08:17.112888"
+  "updated_at": "2026-02-03T18:13:55.927565",
+  "first_prize_draws": [
+    326,
+    300
+  ],
+  "second_prize_draws": [
+    1009,
+    792,
+    774,
+    688,
+    618,
+    543,
+    503,
+    466,
+    444,
+    362,
+    358,
+    304
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 12
 }

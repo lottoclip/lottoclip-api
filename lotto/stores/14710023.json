@@ -1,7 +1,7 @@
 {
   "store_id": "14710023",
   "name": "SKY정보통신",
-  "address": "경북 청도군 청화로 140 ",
+  "address": "경북 청도군  청화로 140 ",
   "phone": "054-373-3773",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,25 @@
   ],
   "latitude": 35.644533,
   "longitude": 128.741447,
-  "updated_at": "2026-01-12T11:30:07.199158"
+  "updated_at": "2026-02-03T18:26:58.446874",
+  "first_prize_draws": [
+    683
+  ],
+  "second_prize_draws": [
+    1168,
+    1147,
+    1057,
+    1049,
+    1025,
+    968,
+    957,
+    884,
+    717,
+    681,
+    644,
+    621,
+    414
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 13
 }

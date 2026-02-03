@@ -1,7 +1,7 @@
 {
   "store_id": "14710140",
-  "name": "훼미리마트(포항제일)",
-  "address": "경북 포항시 북구 죽도동 죽도동 618-2",
+  "name": "훼미리마트(포항제일점)",
+  "address": "경북 포항시 북구 죽도동 618-2번지 ",
   "phone": "054-274-3698",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,15 @@
   ],
   "latitude": 36.023615,
   "longitude": 129.358363,
-  "updated_at": "2026-01-12T11:06:11.503690"
+  "updated_at": "2026-02-03T18:03:40.012054",
+  "first_prize_draws": [
+    285
+  ],
+  "second_prize_draws": [
+    884,
+    751,
+    329
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

@@ -1,0 +1,25 @@
+{
+  "store_id": "14110208",
+  "name": "스타복권편의점",
+  "address": "경기 남양주시  덕송2로6번길 28-13 1층",
+  "phone": "031-572-9379",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.665907,
+  "longitude": 127.117224,
+  "updated_at": "2026-02-03T18:28:30.107353",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1189,
+    999,
+    925,
+    921,
+    914,
+    313
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 6
+}

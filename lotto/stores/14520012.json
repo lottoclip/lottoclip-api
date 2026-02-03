@@ -1,7 +1,7 @@
 {
   "store_id": "14520012",
   "name": "대박로또방",
-  "address": "전북 장수군 장천로 170 ",
+  "address": "전북 장수군  장천로 170 ",
   "phone": "063-351-6790",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 35.647224,
   "longitude": 127.518599,
-  "updated_at": "2026-01-12T11:52:59.331602"
+  "updated_at": "2026-02-03T18:18:55.651497",
+  "first_prize_draws": [
+    1070,
+    869
+  ],
+  "second_prize_draws": [
+    1012,
+    1004,
+    968,
+    683,
+    660
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 5
 }

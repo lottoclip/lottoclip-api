@@ -1,6 +1,6 @@
 {
   "store_id": "14490010",
-  "name": "토토와로또 복권방",
+  "name": "토토와로또",
   "address": "충남 서산시 동문동  288-10",
   "phone": "041-668-6685",
   "lottery_types": [
@@ -8,5 +8,15 @@
   ],
   "latitude": 36.781092,
   "longitude": 126.458367,
-  "updated_at": "2026-01-12T11:06:14.498306"
+  "updated_at": "2026-02-03T17:25:55.547536",
+  "first_prize_draws": [
+    286
+  ],
+  "second_prize_draws": [
+    400,
+    396,
+    393
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

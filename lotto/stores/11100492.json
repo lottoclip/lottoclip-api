@@ -1,7 +1,7 @@
 {
   "store_id": "11100492",
   "name": "농심가슈퍼마트",
-  "address": "서울 양천구 목동중앙본로 54 ",
+  "address": "서울 양천구  목동중앙본로 54 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 37.540687,
   "longitude": 126.869025,
-  "updated_at": "2026-01-12T11:52:21.719179"
+  "updated_at": "2026-02-03T18:21:49.810851",
+  "first_prize_draws": [
+    1063,
+    597,
+    474
+  ],
+  "second_prize_draws": [
+    1107,
+    922,
+    901,
+    875,
+    770,
+    634,
+    563,
+    418,
+    351
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 9
 }

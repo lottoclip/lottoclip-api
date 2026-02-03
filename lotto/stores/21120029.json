@@ -1,12 +1,22 @@
 {
   "store_id": "21120029",
-  "name": "훼미리마트(신당6동점)",
-  "address": "서울 중구 신당동  52-299 1층",
+  "name": "CU(신당6동점)",
+  "address": "서울 중구 신당동 52-299번지 ",
   "phone": "02-2238-9996",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.563788,
   "longitude": 127.016738,
-  "updated_at": "2026-01-12T11:08:56.384211"
+  "updated_at": "2026-02-03T18:03:43.785043",
+  "first_prize_draws": [
+    334
+  ],
+  "second_prize_draws": [
+    885,
+    476,
+    409
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

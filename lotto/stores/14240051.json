@@ -1,7 +1,7 @@
 {
   "store_id": "14240051",
   "name": "도계복권방",
-  "address": "강원 삼척시 도계로 287-2 ",
+  "address": "강원 삼척시  도계로 287-2 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,12 @@
   ],
   "latitude": 37.234909,
   "longitude": 129.044643,
-  "updated_at": "2026-01-12T11:56:58.036334"
+  "updated_at": "2026-02-03T18:23:26.189468",
+  "first_prize_draws": [
+    1126,
+    1041
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 2,
+  "second_prize_count": 0
 }

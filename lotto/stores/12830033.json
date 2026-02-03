@@ -1,7 +1,7 @@
 {
   "store_id": "12830033",
   "name": "당하제일로또",
-  "address": "인천 서구 원당대로 676 ",
+  "address": "인천 서구 원당대로 676 104호  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.593257,
   "longitude": 126.676406,
-  "updated_at": "2026-01-12T11:56:17.452787"
+  "updated_at": "2026-02-03T18:29:57.414231",
+  "first_prize_draws": [
+    1118
+  ],
+  "second_prize_draws": [
+    1209,
+    1207,
+    1202,
+    1173,
+    944,
+    935,
+    847
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

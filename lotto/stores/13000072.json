@@ -1,0 +1,21 @@
+{
+  "store_id": "13000072",
+  "name": "로또판매점",
+  "address": "대전 중구 대사동  248-211번지 훼미리마트내",
+  "phone": "042-537-0785",
+  "lottery_types": [
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 36.322168,
+  "longitude": 127.405289,
+  "updated_at": "2026-02-03T17:42:19.629214",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    627,
+    406,
+    399
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 3
+}

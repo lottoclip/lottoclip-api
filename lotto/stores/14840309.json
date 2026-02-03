@@ -1,7 +1,7 @@
 {
   "store_id": "14840309",
   "name": "행운복권",
-  "address": "경남 사천시 새시장길 12 ",
+  "address": "경남 사천시  새시장길 12 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 34.93144,
   "longitude": 128.07866,
-  "updated_at": "2026-01-12T11:51:15.496977"
+  "updated_at": "2026-02-03T18:17:11.130435",
+  "first_prize_draws": [
+    1047
+  ],
+  "second_prize_draws": [
+    992
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

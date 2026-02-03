@@ -1,7 +1,7 @@
 {
   "store_id": "14710063",
-  "name": "드림마트복권방",
-  "address": "경북 구미시 비산동  359-7(드림마트내일부)",
+  "name": "GS25 복권방",
+  "address": "경북 구미시 비산동 359-7번지 GS25편의점 내",
   "phone": "054-461-0911",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,16 @@
   ],
   "latitude": 36.121819,
   "longitude": 128.377264,
-  "updated_at": "2026-01-12T11:19:53.676439"
+  "updated_at": "2026-02-03T17:59:29.392990",
+  "first_prize_draws": [
+    512
+  ],
+  "second_prize_draws": [
+    830,
+    709,
+    548,
+    368
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

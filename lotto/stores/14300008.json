@@ -1,7 +1,7 @@
 {
   "store_id": "14300008",
   "name": "월드복권마트",
-  "address": "충북 제천시 죽하로 48-1 ",
+  "address": "충북 제천시  죽하로 48-1 주공2단지아파트 장락주공2단지 상가101호",
   "phone": "043-653-6500",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 37.155608,
   "longitude": 128.224912,
-  "updated_at": "2026-01-12T11:20:15.668450"
+  "updated_at": "2026-02-03T18:10:55.016952",
+  "first_prize_draws": [
+    519
+  ],
+  "second_prize_draws": [
+    971,
+    841,
+    546,
+    523
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

@@ -1,0 +1,27 @@
+{
+  "store_id": "13000068",
+  "name": "월드복권",
+  "address": "대전 서구  계백로 1272 한솔메디칼빌딩1층",
+  "phone": "042-582-0645",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.307235,
+  "longitude": 127.364347,
+  "updated_at": "2026-02-03T18:18:16.589771",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1061,
+    1060,
+    1042,
+    982,
+    980,
+    899,
+    693,
+    564
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 8
+}

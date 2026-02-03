@@ -1,7 +1,7 @@
 {
   "store_id": "12700254",
   "name": "토큰판매소",
-  "address": "대구 동구 효목동 956-7번지 ",
+  "address": "대구 동구  아양로 200 ",
   "phone": "053-957-1397",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,16 @@
   ],
   "latitude": 35.885698,
   "longitude": 128.634898,
-  "updated_at": "2026-01-12T11:33:08.241051"
+  "updated_at": "2026-02-03T18:14:12.757539",
+  "first_prize_draws": [
+    735
+  ],
+  "second_prize_draws": [
+    1013,
+    876,
+    778,
+    703
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

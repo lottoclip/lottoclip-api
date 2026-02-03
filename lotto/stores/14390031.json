@@ -1,7 +1,7 @@
 {
   "store_id": "14390031",
   "name": "피쉬복권방",
-  "address": "충북 청주시 흥덕구 1순환로513번길 4 ",
+  "address": "충북 청주시 흥덕구  1순환로513번길 4 휴대폰매장",
   "phone": "043-275-2545",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 36.646502,
   "longitude": 127.465235,
-  "updated_at": "2026-01-12T11:12:11.969417"
+  "updated_at": "2026-02-03T18:28:35.109463",
+  "first_prize_draws": [
+    383
+  ],
+  "second_prize_draws": [
+    1190,
+    1004,
+    930,
+    807,
+    721
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

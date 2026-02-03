@@ -1,7 +1,7 @@
 {
   "store_id": "14240201",
   "name": "성원 복권방",
-  "address": "강원 인제군 원통로 169 ",
+  "address": "강원 인제군  원통로 169 ",
   "phone": "033-461-2005",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 38.12235,
   "longitude": 128.203173,
-  "updated_at": "2026-01-12T11:57:33.342664"
+  "updated_at": "2026-02-03T18:24:13.826357",
+  "first_prize_draws": [
+    1137
+  ],
+  "second_prize_draws": [
+    1128
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

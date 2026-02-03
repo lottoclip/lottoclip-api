@@ -1,7 +1,7 @@
 {
   "store_id": "14190038",
   "name": "천하명당",
-  "address": "경기 화성시 남양시장로 83 ",
+  "address": "경기 화성시  남양시장로 83 ",
   "phone": "070-4208-8132",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,27 @@
   ],
   "latitude": 37.209915,
   "longitude": 126.818284,
-  "updated_at": "2026-01-12T11:58:23.615715"
+  "updated_at": "2026-02-03T18:27:16.374692",
+  "first_prize_draws": [
+    1148,
+    589,
+    477,
+    436
+  ],
+  "second_prize_draws": [
+    1172,
+    1033,
+    842,
+    695,
+    672,
+    578,
+    566,
+    546,
+    499,
+    406,
+    305,
+    268
+  ],
+  "first_prize_count": 4,
+  "second_prize_count": 12
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "12900020",
   "name": "대박이네",
-  "address": "광주 동구 제봉로 84 ",
+  "address": "광주 동구  제봉로 84 ",
   "phone": "062-227-1393",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 35.145952,
   "longitude": 126.922113,
-  "updated_at": "2026-01-12T11:53:24.728791"
+  "updated_at": "2026-02-03T18:25:59.842324",
+  "first_prize_draws": [
+    1078
+  ],
+  "second_prize_draws": [
+    1158,
+    965,
+    386,
+    368
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

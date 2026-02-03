@@ -1,7 +1,7 @@
 {
   "store_id": "14190039",
   "name": "복권방",
-  "address": "경기 가평군 청평중앙로 35 ",
+  "address": "경기 가평군  청평중앙로 35 1층",
   "phone": "031-585-2779",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 37.737413,
   "longitude": 127.418492,
-  "updated_at": "2026-01-12T11:27:50.345630"
+  "updated_at": "2026-02-03T18:25:24.475698",
+  "first_prize_draws": [
+    649,
+    372
+  ],
+  "second_prize_draws": [
+    1150,
+    1070,
+    849,
+    717,
+    707,
+    625,
+    612,
+    592,
+    389,
+    374,
+    313
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 11
 }

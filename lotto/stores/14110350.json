@@ -1,7 +1,7 @@
 {
   "store_id": "14110350",
   "name": "로또판매점",
-  "address": "경기 고양시 일산동구 장항동 752삼성메르헨상가102-2",
+  "address": "경기 고양시 일산동구 장항동  752번지 삼성메르헨상가102-2",
   "phone": "031-908-7968",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,15 @@
   ],
   "latitude": 37.660135,
   "longitude": 126.766431,
-  "updated_at": "2026-01-12T11:20:34.372748"
+  "updated_at": "2026-02-03T17:45:22.978369",
+  "first_prize_draws": [
+    525,
+    310
+  ],
+  "second_prize_draws": [
+    665,
+    376
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 2
 }

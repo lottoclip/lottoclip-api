@@ -1,7 +1,7 @@
 {
   "store_id": "11101561",
   "name": "삼성열쇠공사",
-  "address": "서울 동작구 만양로 90-1 ",
+  "address": "서울 동작구  만양로 90-1 ",
   "phone": "02-822-4422",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 37.511497,
   "longitude": 126.944478,
-  "updated_at": "2026-01-12T11:55:01.670320"
+  "updated_at": "2026-02-03T18:27:16.029168",
+  "first_prize_draws": [
+    1099,
+    530
+  ],
+  "second_prize_draws": [
+    1172,
+    1116,
+    806,
+    733,
+    479
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 5
 }

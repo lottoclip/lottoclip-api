@@ -1,0 +1,26 @@
+{
+  "store_id": "12610002",
+  "name": "로또복권",
+  "address": "부산 사하구  낙동대로 327-1 1층복권방",
+  "phone": "051-208-1245",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.100053,
+  "longitude": 128.981226,
+  "updated_at": "2026-02-03T18:15:31.610640",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1028,
+    900,
+    879,
+    633,
+    593,
+    386,
+    372
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 7
+}

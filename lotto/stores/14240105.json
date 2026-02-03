@@ -1,12 +1,20 @@
 {
   "store_id": "14240105",
   "name": "대복로또",
-  "address": "강원 원주시 나비허리길 120-19 ",
+  "address": "강원 원주시  나비허리길 120-19 1층",
   "phone": null,
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.319701,
   "longitude": 127.962055,
-  "updated_at": "2026-01-12T11:59:08.898750"
+  "updated_at": "2026-02-03T18:27:29.659184",
+  "first_prize_draws": [
+    1162
+  ],
+  "second_prize_draws": [
+    1175
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

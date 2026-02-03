@@ -1,7 +1,7 @@
 {
   "store_id": "12790011",
   "name": "복권휴게실",
-  "address": "대구 달서구 월성동  819원더풀스파랜드상가1층 115호 116호일부",
+  "address": "대구 달서구 월성동 819번지 원더풀스파랜드상가1층 115호116호일부",
   "phone": "053-637-3733",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,15 @@
   ],
   "latitude": 35.824403,
   "longitude": 128.524738,
-  "updated_at": "2026-01-12T11:20:43.744997"
+  "updated_at": "2026-02-03T17:59:19.193552",
+  "first_prize_draws": [
+    528
+  ],
+  "second_prize_draws": [
+    828,
+    653,
+    367
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

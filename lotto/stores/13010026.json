@@ -1,0 +1,39 @@
+{
+  "store_id": "13010026",
+  "name": "대박로또복권방",
+  "address": "대전 중구  보문로 32-5 ",
+  "phone": "042-286-8945",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.314175,
+  "longitude": 127.43703,
+  "updated_at": "2026-02-03T18:19:26.093364",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1077,
+    1000,
+    951,
+    915,
+    884,
+    833,
+    832,
+    824,
+    821,
+    794,
+    699,
+    671,
+    615,
+    604,
+    581,
+    538,
+    464,
+    435,
+    431,
+    420
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 20
+}

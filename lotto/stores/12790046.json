@@ -1,7 +1,7 @@
 {
   "store_id": "12790046",
   "name": "복권명당",
-  "address": "대구 서구 국채보상로 419 ",
+  "address": "대구 서구 비산동 151-28번지 ",
   "phone": "053-525-0354",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 35.871938,
   "longitude": 128.576968,
-  "updated_at": "2026-01-12T11:18:00.801872"
+  "updated_at": "2026-02-03T18:05:23.570404",
+  "first_prize_draws": [
+    481
+  ],
+  "second_prize_draws": [
+    904,
+    723,
+    705,
+    643,
+    590,
+    562,
+    358,
+    312
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "12700194",
   "name": "승차권판매소",
-  "address": "대구 남구  대명동 대명동 2297-1번지토큰박스",
+  "address": "대구 남구 대명동 2297-1번지 토큰박스",
   "phone": "053-625-5589",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,15 @@
   ],
   "latitude": 35.854272,
   "longitude": 128.57418,
-  "updated_at": "2026-01-12T11:23:13.261749"
+  "updated_at": "2026-02-03T17:56:55.577856",
+  "first_prize_draws": [
+    571
+  ],
+  "second_prize_draws": [
+    800,
+    671,
+    544
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

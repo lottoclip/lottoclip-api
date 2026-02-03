@@ -1,0 +1,25 @@
+{
+  "store_id": "14140390",
+  "name": "로또복권방",
+  "address": "경기 성남시 분당구  대왕판교로 660 1층 136호",
+  "phone": null,
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.400686,
+  "longitude": 127.106966,
+  "updated_at": "2026-02-03T18:26:49.823017",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1166,
+    1121,
+    1057,
+    1014,
+    978,
+    971
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 6
+}

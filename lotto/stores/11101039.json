@@ -1,7 +1,7 @@
 {
   "store_id": "11101039",
   "name": "행운가판점",
-  "address": "서울 용산구 한강대로 80 ",
+  "address": "서울 용산구  한강대로 80 ",
   "phone": "02-792-4220",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 37.527348,
   "longitude": 126.966496,
-  "updated_at": "2026-01-12T11:15:48.253438"
+  "updated_at": "2026-02-03T18:12:38.129068",
+  "first_prize_draws": [
+    443
+  ],
+  "second_prize_draws": [
+    991,
+    990,
+    755,
+    507,
+    321
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "11140149",
   "name": "행운복권",
-  "address": "서울 강북구 솔샘로 212 ",
+  "address": "서울 강북구  솔샘로 212 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 37.619925,
   "longitude": 127.016218,
-  "updated_at": "2026-01-12T11:56:17.404374"
+  "updated_at": "2026-02-03T18:23:30.039577",
+  "first_prize_draws": [
+    1118,
+    1001,
+    936
+  ],
+  "second_prize_draws": [
+    1127,
+    1118,
+    1072,
+    1057,
+    1033,
+    1022,
+    1007
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 7
 }

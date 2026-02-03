@@ -1,7 +1,7 @@
 {
   "store_id": "13100017",
   "name": "대박이네",
-  "address": "울산 중구 구교로 163 ",
+  "address": "울산 중구  구교로 163 ",
   "phone": "052-292-1250",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 35.55929,
   "longitude": 129.340083,
-  "updated_at": "2026-01-12T11:17:07.909572"
+  "updated_at": "2026-02-03T18:27:06.944150",
+  "first_prize_draws": [
+    464
+  ],
+  "second_prize_draws": [
+    1170,
+    1150,
+    1011,
+    1003,
+    936,
+    566
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

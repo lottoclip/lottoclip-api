@@ -1,7 +1,7 @@
 {
   "store_id": "12840082",
   "name": "드림마트",
-  "address": "인천 서구 원당대로 966 ",
+  "address": "인천 서구  원당대로 966 상가동 1층 175호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 37.591463,
   "longitude": 126.708546,
-  "updated_at": "2026-01-12T11:56:54.849988"
+  "updated_at": "2026-02-03T18:28:16.955699",
+  "first_prize_draws": [
+    1125,
+    1110,
+    1005,
+    994
+  ],
+  "second_prize_draws": [
+    1186,
+    1163,
+    1092,
+    1068,
+    981,
+    963,
+    947,
+    916,
+    909
+  ],
+  "first_prize_count": 4,
+  "second_prize_count": 9
 }

@@ -1,0 +1,24 @@
+{
+  "store_id": "12740079",
+  "name": "복권판매점(로또횡재)",
+  "address": "대구 중구  국채보상로140길 12 ",
+  "phone": "053-428-3311",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.868456,
+  "longitude": 128.606287,
+  "updated_at": "2026-02-03T18:18:42.132431",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1067,
+    1055,
+    1050,
+    1017,
+    1003
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 5
+}

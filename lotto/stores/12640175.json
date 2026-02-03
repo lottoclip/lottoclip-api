@@ -1,7 +1,7 @@
 {
   "store_id": "12640175",
   "name": "로또복권판매점",
-  "address": "부산 사하구 괴정로57번길 54 ",
+  "address": "부산 사하구  괴정로57번길 54 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 35.102892,
   "longitude": 128.973255,
-  "updated_at": "2026-01-12T11:44:18.295348"
+  "updated_at": "2026-02-03T18:12:33.829815",
+  "first_prize_draws": [
+    929
+  ],
+  "second_prize_draws": [
+    990,
+    944
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

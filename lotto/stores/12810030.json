@@ -1,7 +1,7 @@
 {
   "store_id": "12810030",
   "name": "복권방",
-  "address": "인천 연수구 랜드마크로 20 ",
+  "address": "인천 연수구  비류대로433번길 10 103호",
   "phone": "032-822-8249",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 37.414943,
   "longitude": 126.625724,
-  "updated_at": "2026-01-12T11:52:12.133761"
+  "updated_at": "2026-02-03T18:18:12.055076",
+  "first_prize_draws": [
+    1060,
+    451
+  ],
+  "second_prize_draws": [
+    900,
+    798,
+    729,
+    719,
+    714,
+    675,
+    616,
+    593,
+    518,
+    509
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 10
 }

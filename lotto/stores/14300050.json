@@ -1,7 +1,7 @@
 {
   "store_id": "14300050",
   "name": "월드마트",
-  "address": "충북 청주시 흥덕구 장구봉로129번길 2 ",
+  "address": "충북 청주시 흥덕구  장구봉로129번길 2 ",
   "phone": "043-274-4578",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 36.62477,
   "longitude": 127.447661,
-  "updated_at": "2026-01-12T11:39:07.438954"
+  "updated_at": "2026-02-03T18:27:42.615879",
+  "first_prize_draws": [
+    844,
+    526,
+    456
+  ],
+  "second_prize_draws": [
+    1178,
+    1134,
+    991,
+    962,
+    858,
+    797,
+    627,
+    470,
+    437
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 9
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "11100592",
   "name": "대구상회",
-  "address": "서울 마포구 토정로31길 51 ",
+  "address": "서울 마포구  토정로31길 51 ",
   "phone": "02-715-0576",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 37.54305,
   "longitude": 126.943784,
-  "updated_at": "2026-01-12T11:52:24.979598"
+  "updated_at": "2026-02-03T18:18:29.210635",
+  "first_prize_draws": [
+    1064
+  ],
+  "second_prize_draws": [
+    1057,
+    1020,
+    935,
+    570,
+    345
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

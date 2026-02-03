@@ -1,7 +1,7 @@
 {
   "store_id": "11100975",
   "name": "교통카드판매대",
-  "address": "서울 영등포구 여의나루로 71 ",
+  "address": "서울 영등포구  여의나루로 71 동화빌딩 ",
   "phone": "02-786-2480",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 37.523926,
   "longitude": 126.926698,
-  "updated_at": "2026-01-12T11:42:14.344995"
+  "updated_at": "2026-02-03T18:22:19.907956",
+  "first_prize_draws": [
+    894
+  ],
+  "second_prize_draws": [
+    1114,
+    1096,
+    1046,
+    1039,
+    1008,
+    893,
+    877,
+    708,
+    611,
+    291
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

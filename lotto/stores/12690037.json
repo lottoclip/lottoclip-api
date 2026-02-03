@@ -1,7 +1,7 @@
 {
   "store_id": "12690037",
   "name": "돈벼락맞는곳",
-  "address": "부산 해운대구 양운로 55 ",
+  "address": "부산 해운대구 양운로 55 두산위브센티움상가102호  ",
   "phone": "051-746-8700",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 35.168194,
   "longitude": 129.176243,
-  "updated_at": "2026-01-12T12:01:23.259579"
+  "updated_at": "2026-02-03T18:29:48.820674",
+  "first_prize_draws": [
+    1199,
+    733
+  ],
+  "second_prize_draws": [
+    1207,
+    1191,
+    1189,
+    1126,
+    1114,
+    1093,
+    1071,
+    1060,
+    1001,
+    778
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 10
 }

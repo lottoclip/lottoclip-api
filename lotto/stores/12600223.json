@@ -1,12 +1,23 @@
 {
   "store_id": "12600223",
   "name": "GS25 동래대산점",
-  "address": "부산 동래구 명륜로63번길 17 ",
+  "address": "부산 동래구  명륜로 65 ",
   "phone": "051-553-1766",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 35.199693,
   "longitude": 129.083387,
-  "updated_at": "2026-01-12T11:20:43.729211"
+  "updated_at": "2026-02-03T18:10:59.287623",
+  "first_prize_draws": [
+    528
+  ],
+  "second_prize_draws": [
+    972,
+    834,
+    488,
+    428
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

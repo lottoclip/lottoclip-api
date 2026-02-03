@@ -1,7 +1,7 @@
 {
   "store_id": "12990004",
   "name": "럭키하우스",
-  "address": "광주 광산구 풍영로101번안길 12 ",
+  "address": "광주 광산구  임방울대로800번길 82 알리바이 내",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 35.181587,
   "longitude": 126.81051,
-  "updated_at": "2026-01-12T11:37:26.866402"
+  "updated_at": "2026-02-03T18:17:15.096116",
+  "first_prize_draws": [
+    812
+  ],
+  "second_prize_draws": [
+    1048,
+    756,
+    749,
+    659,
+    601,
+    587,
+    577,
+    545,
+    368
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 9
 }

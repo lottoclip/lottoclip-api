@@ -1,7 +1,7 @@
 {
   "store_id": "11101531",
   "name": "장보고복권방",
-  "address": "서울 중랑구 면목로 288 ",
+  "address": "서울 중랑구  면목로 288 ",
   "phone": "02-2208-0911",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,25 @@
   ],
   "latitude": 37.578384,
   "longitude": 127.086186,
-  "updated_at": "2026-01-12T11:55:33.709430"
+  "updated_at": "2026-02-03T18:25:38.095327",
+  "first_prize_draws": [
+    1109,
+    1051,
+    723,
+    704
+  ],
+  "second_prize_draws": [
+    1153,
+    1146,
+    1059,
+    1054,
+    949,
+    867,
+    851,
+    752,
+    726,
+    687
+  ],
+  "first_prize_count": 4,
+  "second_prize_count": 10
 }

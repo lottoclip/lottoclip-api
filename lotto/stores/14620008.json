@@ -1,7 +1,7 @@
 {
   "store_id": "14620008",
   "name": "빛가람나눔슈퍼",
-  "address": "전남 나주시 호수로 74 ",
+  "address": "전남 나주시  호수로 74 103호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,28 @@
   ],
   "latitude": 35.013306,
   "longitude": 126.790552,
-  "updated_at": "2026-01-12T11:47:44.695226"
+  "updated_at": "2026-02-03T18:27:12.099879",
+  "first_prize_draws": [
+    990,
+    901
+  ],
+  "second_prize_draws": [
+    1171,
+    1125,
+    1065,
+    1036,
+    1023,
+    1021,
+    971,
+    933,
+    869,
+    853,
+    841,
+    821,
+    804,
+    752,
+    668
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 15
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14800034",
   "name": "복권명당",
-  "address": "경남 창원시 마산회원구 팔용로 249 ",
+  "address": "경남 창원시 의창구  서상로12번길 9-5 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 35.248677,
   "longitude": 128.598135,
-  "updated_at": "2026-01-12T11:05:41.393224"
+  "updated_at": "2026-02-03T18:10:05.786287",
+  "first_prize_draws": [
+    280
+  ],
+  "second_prize_draws": [
+    960,
+    905,
+    835,
+    738,
+    552,
+    429,
+    339
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

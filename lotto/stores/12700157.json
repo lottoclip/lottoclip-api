@@ -1,0 +1,26 @@
+{
+  "store_id": "12700157",
+  "name": "로또명당",
+  "address": "대구 달서구  월곡로 136 GS칼텍스 주유소 1층",
+  "phone": null,
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.809251,
+  "longitude": 128.548234,
+  "updated_at": "2026-02-03T18:13:51.064738",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1008,
+    935,
+    903,
+    836,
+    549,
+    500,
+    425
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 7
+}

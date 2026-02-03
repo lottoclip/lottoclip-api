@@ -1,0 +1,30 @@
+{
+  "store_id": "13100045",
+  "name": "복권나라",
+  "address": "울산 동구  화문로 76 111동101호",
+  "phone": null,
+  "lottery_types": [
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 35.482442,
+  "longitude": 129.41666,
+  "updated_at": "2026-02-03T18:28:48.129909",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1193,
+    1170,
+    1161,
+    1055,
+    917,
+    915,
+    904,
+    793,
+    741,
+    739,
+    684,
+    496
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 12
+}

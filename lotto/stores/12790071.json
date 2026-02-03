@@ -1,7 +1,7 @@
 {
   "store_id": "12790071",
-  "name": "코리아마트",
-  "address": "대구 달서구 당산로 193 ",
+  "name": "복을주는집",
+  "address": "대구 달서구  당산로 193 ",
   "phone": "053-567-6308",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 35.853759,
   "longitude": 128.547965,
-  "updated_at": "2026-01-12T11:30:54.394170"
+  "updated_at": "2026-02-03T18:27:11.601382",
+  "first_prize_draws": [
+    698,
+    490
+  ],
+  "second_prize_draws": [
+    1171,
+    1072,
+    546,
+    336
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 4
 }

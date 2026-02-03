@@ -1,7 +1,7 @@
 {
   "store_id": "12810084",
   "name": "로또복권판매소",
-  "address": "인천 계양구 임학동(계양2동) 28-1 102호",
+  "address": "인천 계양구  계양산로 186 102호",
   "phone": "032-555-9253",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,15 @@
   ],
   "latitude": 37.54739,
   "longitude": 126.736424,
-  "updated_at": "2026-01-12T11:40:16.522716"
+  "updated_at": "2026-02-03T18:12:55.162695",
+  "first_prize_draws": [
+    866,
+    381
+  ],
+  "second_prize_draws": [
+    995,
+    705
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 2
 }

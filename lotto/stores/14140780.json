@@ -1,7 +1,7 @@
 {
   "store_id": "14140780",
   "name": "근처로또",
-  "address": "경기 수원시 팔달구 효원로 187 ",
+  "address": "경기 수원시 팔달구  효원로 187 1층 102호(인계동)",
   "phone": "031-222-1247",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,11 @@
   ],
   "latitude": 37.264212,
   "longitude": 127.022536,
-  "updated_at": "2026-01-12T11:46:04.511037"
+  "updated_at": "2026-02-03T18:10:18.833100",
+  "first_prize_draws": [
+    963
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

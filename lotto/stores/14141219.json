@@ -1,7 +1,7 @@
 {
   "store_id": "14141219",
   "name": "대박 복권방",
-  "address": "경기 부천시 원미구 삼작로 303 ",
+  "address": "경기 부천시  고리울로51번길 43 105호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,11 @@
   ],
   "latitude": 37.520296,
   "longitude": 126.795274,
-  "updated_at": "2026-01-12T11:57:04.487577"
+  "updated_at": "2026-02-03T18:23:34.811888",
+  "first_prize_draws": [
+    1128
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

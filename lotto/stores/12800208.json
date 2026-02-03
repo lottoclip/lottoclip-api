@@ -1,7 +1,7 @@
 {
   "store_id": "12800208",
   "name": "프로통신",
-  "address": "인천 남동구 구월로 366 ",
+  "address": "인천 남동구  구월로 366 ",
   "phone": "032-465-4114",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 37.45477,
   "longitude": 126.73128,
-  "updated_at": "2026-01-12T11:44:39.738020"
+  "updated_at": "2026-02-03T18:27:59.332024",
+  "first_prize_draws": [
+    936
+  ],
+  "second_prize_draws": [
+    1182,
+    1044,
+    1014,
+    989,
+    952,
+    552
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

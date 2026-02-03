@@ -1,7 +1,7 @@
 {
   "store_id": "12800118",
   "name": "구월슈퍼",
-  "address": "인천 남동구 문화로145번길 13 ",
+  "address": "인천 남동구  문화로145번길 13 ",
   "phone": "032-428-6558",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 37.451907,
   "longitude": 126.699147,
-  "updated_at": "2026-01-12T11:29:20.913387"
+  "updated_at": "2026-02-03T18:13:38.337391",
+  "first_prize_draws": [
+    673
+  ],
+  "second_prize_draws": [
+    1005,
+    1003,
+    522,
+    483
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

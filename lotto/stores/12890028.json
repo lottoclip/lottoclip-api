@@ -1,0 +1,24 @@
+{
+  "store_id": "12890028",
+  "name": "복권방",
+  "address": "인천 부평구 부개동 131-11번지 ",
+  "phone": "032-523-0645",
+  "lottery_types": [
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 37.493946,
+  "longitude": 126.73508,
+  "updated_at": "2026-02-03T17:56:21.536593",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    792,
+    543,
+    535,
+    510,
+    363,
+    288
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 6
+}

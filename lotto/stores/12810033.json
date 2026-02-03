@@ -1,0 +1,22 @@
+{
+  "store_id": "12810033",
+  "name": "로또복권",
+  "address": "인천 계양구 작전동 855-25번지 대암빌딩1층",
+  "phone": "032-549-8560",
+  "lottery_types": [
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 37.534654,
+  "longitude": 126.722925,
+  "updated_at": "2026-02-03T18:03:52.635257",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    887,
+    866,
+    851,
+    667
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 4
+}

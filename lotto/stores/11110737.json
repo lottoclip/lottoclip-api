@@ -1,7 +1,7 @@
 {
   "store_id": "11110737",
   "name": "정평복권",
-  "address": "서울 양천구 목동중앙본로7길 30 ",
+  "address": "서울 양천구  목동중앙본로7길 30 101호",
   "phone": "02-2651-9835",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 37.539675,
   "longitude": 126.866941,
-  "updated_at": "2026-01-12T11:24:12.350836"
+  "updated_at": "2026-02-03T18:27:42.293768",
+  "first_prize_draws": [
+    590,
+    516
+  ],
+  "second_prize_draws": [
+    1178,
+    1083,
+    968,
+    921,
+    860,
+    728,
+    403
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 7
 }

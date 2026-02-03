@@ -1,7 +1,7 @@
 {
   "store_id": "11120034",
   "name": "드림 편의점",
-  "address": "서울 도봉구 덕릉로60길 26 ",
+  "address": "서울 도봉구  덕릉로60길 26 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 37.639008,
   "longitude": 127.040056,
-  "updated_at": "2026-01-12T11:42:30.103603"
+  "updated_at": "2026-02-03T18:16:51.515646",
+  "first_prize_draws": [
+    899
+  ],
+  "second_prize_draws": [
+    1046
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

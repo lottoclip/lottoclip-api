@@ -1,7 +1,7 @@
 {
   "store_id": "11101519",
   "name": "태원정보통신",
-  "address": "서울 중랑구 봉우재로33길 80 ",
+  "address": "서울 중랑구  봉우재로33길 80 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,27 @@
   ],
   "latitude": 37.595443,
   "longitude": 127.089684,
-  "updated_at": "2026-01-12T11:24:44.566258"
+  "updated_at": "2026-02-03T18:23:52.329151",
+  "first_prize_draws": [
+    600,
+    560,
+    486
+  ],
+  "second_prize_draws": [
+    1132,
+    1130,
+    1013,
+    862,
+    830,
+    744,
+    733,
+    718,
+    554,
+    494,
+    452,
+    335,
+    264
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 13
 }

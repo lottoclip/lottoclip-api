@@ -1,7 +1,7 @@
 {
   "store_id": "14710167",
   "name": "로또방양덕점",
-  "address": "경북 포항시 북구 양덕로50번길 14 ",
+  "address": "경북 포항시 북구  양덕로50번길 14 이마트24포항양덕점",
   "phone": "054-231-3356",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 36.082932,
   "longitude": 129.403506,
-  "updated_at": "2026-01-12T11:44:08.836791"
+  "updated_at": "2026-02-03T18:29:14.280424",
+  "first_prize_draws": [
+    926
+  ],
+  "second_prize_draws": [
+    1199,
+    1077,
+    1000,
+    975,
+    701,
+    556,
+    544
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

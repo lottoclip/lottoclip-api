@@ -1,7 +1,7 @@
 {
   "store_id": "12710079",
   "name": "지에스25 신매태왕점로또",
-  "address": "대구 수성구 욱수천로 70 ",
+  "address": "대구 수성구  욱수천로 70 편의점_GS25",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 35.83531,
   "longitude": 128.711904,
-  "updated_at": "2026-01-12T11:51:28.400602"
+  "updated_at": "2026-02-03T18:29:01.137141",
+  "first_prize_draws": [
+    1051,
+    1010,
+    988
+  ],
+  "second_prize_draws": [
+    1196,
+    1191,
+    1118,
+    1113,
+    1111,
+    890,
+    746,
+    560
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 8
 }

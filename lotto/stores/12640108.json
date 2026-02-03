@@ -1,7 +1,7 @@
 {
   "store_id": "12640108",
   "name": "토스터리 아리울",
-  "address": "부산 동구 중앙대로 328 ",
+  "address": "부산 동구  중앙대로286번길 3-1 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 35.125369,
   "longitude": 129.045763,
-  "updated_at": "2026-01-12T11:48:44.871911"
+  "updated_at": "2026-02-03T18:21:24.553590",
+  "first_prize_draws": [
+    1009
+  ],
+  "second_prize_draws": [
+    1101,
+    935
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

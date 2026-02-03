@@ -1,7 +1,7 @@
 {
   "store_id": "14141144",
   "name": "다드림복권",
-  "address": "경기 김포시 월하로 930 ",
+  "address": "경기 김포시  월하로 930 1층 101호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 37.70494,
   "longitude": 126.656203,
-  "updated_at": "2026-01-12T11:52:05.867701"
+  "updated_at": "2026-02-03T18:27:51.076290",
+  "first_prize_draws": [
+    1058,
+    1041
+  ],
+  "second_prize_draws": [
+    1180,
+    1081,
+    1048
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 3
 }

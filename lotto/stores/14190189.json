@@ -1,7 +1,7 @@
 {
   "store_id": "14190189",
   "name": "해뜰날",
-  "address": "경기 동두천시 중앙로 134-30 ",
+  "address": "경기 동두천시  중앙로 134-30 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.893149,
   "longitude": 127.054295,
-  "updated_at": "2026-01-12T11:48:25.760387"
+  "updated_at": "2026-02-03T18:28:43.764953",
+  "first_prize_draws": [
+    1003
+  ],
+  "second_prize_draws": [
+    1192,
+    1144,
+    1072,
+    986,
+    966,
+    745,
+    423
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

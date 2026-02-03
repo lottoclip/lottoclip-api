@@ -1,7 +1,7 @@
 {
   "store_id": "14910011",
   "name": "환타지아복권방",
-  "address": "제주 제주시 번영로 518 ",
+  "address": "제주 제주시  번영로 518 대기마트 내",
   "phone": "064-722-2737",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 33.489189,
   "longitude": 126.596588,
-  "updated_at": "2026-01-12T11:16:15.836656"
+  "updated_at": "2026-02-03T18:25:20.242735",
+  "first_prize_draws": [
+    452
+  ],
+  "second_prize_draws": [
+    1149,
+    1115,
+    1063,
+    910,
+    861,
+    798,
+    788,
+    771,
+    595
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 9
 }

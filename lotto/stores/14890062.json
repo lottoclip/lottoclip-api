@@ -1,7 +1,7 @@
 {
   "store_id": "14890062",
   "name": "코리아슈퍼",
-  "address": "경남 통영시 안개로 42 ",
+  "address": "경남 통영시  안개로 42 수아지오아파트 상가1층 103호",
   "phone": "055-644-6362",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,26 @@
   ],
   "latitude": 34.859119,
   "longitude": 128.431226,
-  "updated_at": "2026-01-12T11:41:49.715318"
+  "updated_at": "2026-02-03T18:21:46.051785",
+  "first_prize_draws": [
+    886,
+    361,
+    344
+  ],
+  "second_prize_draws": [
+    1106,
+    1088,
+    996,
+    926,
+    915,
+    844,
+    678,
+    665,
+    647,
+    619,
+    556,
+    533
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 12
 }

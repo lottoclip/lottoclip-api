@@ -1,7 +1,7 @@
 {
   "store_id": "11110736",
   "name": "로또복권",
-  "address": "서울 양천구 신월3동  205-44훼미리마트",
+  "address": "서울 양천구 신월3동 205-44번지 훼미리마트",
   "phone": "02-2606-8092",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,17 @@
   ],
   "latitude": 37.529151,
   "longitude": 126.83232,
-  "updated_at": "2026-01-12T11:19:21.282788"
+  "updated_at": "2026-02-03T18:00:17.710942",
+  "first_prize_draws": [
+    502
+  ],
+  "second_prize_draws": [
+    841,
+    791,
+    695,
+    691,
+    682
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

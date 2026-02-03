@@ -1,0 +1,28 @@
+{
+  "store_id": "14190165",
+  "name": "로또복권방",
+  "address": "경기 포천시  중앙로119번길 10 ",
+  "phone": "031-536-0775",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.897416,
+  "longitude": 127.202139,
+  "updated_at": "2026-02-03T18:21:41.797265",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1105,
+    1003,
+    804,
+    660,
+    653,
+    642,
+    610,
+    465,
+    417
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 9
+}

@@ -1,7 +1,7 @@
 {
   "store_id": "13140089",
   "name": "옥교대박점",
-  "address": "울산 중구 옥교3길 94 ",
+  "address": "울산 중구  옥교3길 94 (학산동)",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 35.553344,
   "longitude": 129.33134,
-  "updated_at": "2026-01-12T11:58:36.631612"
+  "updated_at": "2026-02-03T18:25:33.783555",
+  "first_prize_draws": [
+    1152,
+    1043
+  ],
+  "second_prize_draws": [
+    1062,
+    938
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 2
 }

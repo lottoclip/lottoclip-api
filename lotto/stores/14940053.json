@@ -1,7 +1,7 @@
 {
   "store_id": "14940053",
   "name": "효당복권판매점",
-  "address": "제주 제주시 노형로 355 ",
+  "address": "제주 제주시  노형로 355 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 33.482581,
   "longitude": 126.474304,
-  "updated_at": "2026-01-12T11:57:11.248237"
+  "updated_at": "2026-02-03T18:23:43.869787",
+  "first_prize_draws": [
+    1130
+  ],
+  "second_prize_draws": [
+    1036
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

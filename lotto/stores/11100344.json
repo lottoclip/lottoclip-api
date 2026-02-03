@@ -1,7 +1,7 @@
 {
   "store_id": "11100344",
-  "name": "제일슈퍼",
-  "address": "서울 동대문구 회기로 194 ",
+  "name": "제일복권",
+  "address": "서울 동대문구  회기로 194 ",
   "phone": "02-960-6368",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 37.58983,
   "longitude": 127.057341,
-  "updated_at": "2026-01-12T11:20:37.505508"
+  "updated_at": "2026-02-03T18:28:16.600544",
+  "first_prize_draws": [
+    526
+  ],
+  "second_prize_draws": [
+    1186,
+    1184,
+    1043,
+    898,
+    736
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

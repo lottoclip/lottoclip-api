@@ -1,7 +1,7 @@
 {
   "store_id": "14690001",
   "name": "복권왕국",
-  "address": "전남 여수시 화산로 134 ",
+  "address": "전남 여수시  화산로 134 ",
   "phone": "061-691-8457",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,26 @@
   ],
   "latitude": 34.777222,
   "longitude": 127.651118,
-  "updated_at": "2026-01-12T11:49:59.873040"
+  "updated_at": "2026-02-03T18:22:24.567096",
+  "first_prize_draws": [
+    1028,
+    996,
+    644
+  ],
+  "second_prize_draws": [
+    1115,
+    1053,
+    933,
+    931,
+    880,
+    860,
+    839,
+    714,
+    610,
+    525,
+    460,
+    302
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 12
 }

@@ -1,0 +1,23 @@
+{
+  "store_id": "13000040",
+  "name": "대박복권방",
+  "address": "대전 중구 용두동 13-7번지 ",
+  "phone": "042-252-2156",
+  "lottery_types": [
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 36.322995,
+  "longitude": 127.414435,
+  "updated_at": "2026-02-03T18:05:23.643379",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    904,
+    728,
+    711,
+    702,
+    289
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 5
+}

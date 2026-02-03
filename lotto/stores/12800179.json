@@ -1,7 +1,7 @@
 {
   "store_id": "12800179",
   "name": "버스매표소447",
-  "address": "인천 동구 송림동  50-120",
+  "address": "인천 동구 송림동 50-146 ",
   "phone": "032-765-1454",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,16 @@
   ],
   "latitude": 37.477295,
   "longitude": 126.645168,
-  "updated_at": "2026-01-12T11:10:18.365678"
+  "updated_at": "2026-02-03T18:06:28.150131",
+  "first_prize_draws": [
+    356
+  ],
+  "second_prize_draws": [
+    918,
+    517,
+    402,
+    277
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

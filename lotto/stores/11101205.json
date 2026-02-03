@@ -1,0 +1,27 @@
+{
+  "store_id": "11101205",
+  "name": "가로판매점",
+  "address": "서울 관악구 신림동  1424-11번지",
+  "phone": "02-886-3176",
+  "lottery_types": [
+    "lotto645"
+  ],
+  "latitude": 37.486119,
+  "longitude": 126.929711,
+  "updated_at": "2026-02-03T17:40:20.718727",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    600,
+    568,
+    561,
+    512,
+    494,
+    462,
+    443,
+    392,
+    367,
+    350
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 10
+}

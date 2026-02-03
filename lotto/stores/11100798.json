@@ -1,7 +1,7 @@
 {
   "store_id": "11100798",
   "name": "토큰박스",
-  "address": "서울 강북구 도봉로 334 ",
+  "address": "서울 강북구  도봉로 334 KFC앞 가판",
   "phone": "02-997-0564",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 37.637538,
   "longitude": 127.025517,
-  "updated_at": "2026-01-12T11:55:14.357968"
+  "updated_at": "2026-02-03T18:27:46.491984",
+  "first_prize_draws": [
+    1103
+  ],
+  "second_prize_draws": [
+    1179,
+    1165,
+    1106,
+    935,
+    922,
+    894,
+    840,
+    837,
+    823,
+    460
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

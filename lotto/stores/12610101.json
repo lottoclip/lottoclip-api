@@ -1,7 +1,7 @@
 {
   "store_id": "12610101",
   "name": "G마트",
-  "address": "부산 북구 백양대로 1024 ",
+  "address": "부산 북구  백양대로 1024 ",
   "phone": "051-365-0182",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 35.197023,
   "longitude": 128.995416,
-  "updated_at": "2026-01-12T11:53:40.176627"
+  "updated_at": "2026-02-03T18:28:12.367962",
+  "first_prize_draws": [
+    1083,
+    956
+  ],
+  "second_prize_draws": [
+    1185,
+    1149,
+    1134,
+    1130,
+    1115,
+    1077,
+    1040,
+    492
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 8
 }

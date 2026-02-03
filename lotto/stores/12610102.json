@@ -1,7 +1,7 @@
 {
   "store_id": "12610102",
   "name": "로또대박",
-  "address": "부산 북구 금곡대로 270 ",
+  "address": "부산 북구  금곡대로 270 상가동 110호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 35.231136,
   "longitude": 129.015514,
-  "updated_at": "2026-01-12T11:51:21.778958"
+  "updated_at": "2026-02-03T18:27:02.314709",
+  "first_prize_draws": [
+    1049,
+    761,
+    370
+  ],
+  "second_prize_draws": [
+    1169,
+    1097,
+    873
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 3
 }

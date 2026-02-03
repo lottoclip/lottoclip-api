@@ -1,12 +1,27 @@
 {
   "store_id": "14130171",
   "name": "세븐일레븐 김포학운공단점",
-  "address": "경기 김포시 황금로110번길 2 ",
+  "address": "경기 김포시  황금로110번길 2 ",
   "phone": null,
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.619083,
   "longitude": 126.621127,
-  "updated_at": "2026-01-12T11:33:59.006616"
+  "updated_at": "2026-02-03T18:21:33.198476",
+  "first_prize_draws": [
+    751
+  ],
+  "second_prize_draws": [
+    1103,
+    1052,
+    974,
+    919,
+    911,
+    825,
+    779,
+    731
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

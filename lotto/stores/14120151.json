@@ -1,12 +1,24 @@
 {
   "store_id": "14120151",
   "name": "일등대박복권",
-  "address": "경기 화성시 효행로 1363 ",
+  "address": "경기 화성시 효행로 1363  ",
   "phone": null,
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.229205,
   "longitude": 127.064615,
-  "updated_at": "2026-01-12T11:47:53.957783"
+  "updated_at": "2026-02-03T18:29:49.065981",
+  "first_prize_draws": [
+    993
+  ],
+  "second_prize_draws": [
+    1207,
+    1144,
+    1101,
+    1028,
+    672
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

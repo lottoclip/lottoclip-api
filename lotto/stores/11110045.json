@@ -1,0 +1,21 @@
+{
+  "store_id": "11110045",
+  "name": "로또복권판매소",
+  "address": "서울 관악구 신림동 1432-76 ",
+  "phone": "02-882-9828",
+  "lottery_types": [
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 37.48564,
+  "longitude": 126.92921,
+  "updated_at": "2026-02-03T17:50:28.349954",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    723,
+    699,
+    441
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 3
+}

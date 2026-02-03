@@ -1,7 +1,7 @@
 {
   "store_id": "12700219",
   "name": "승차권판매소(북비산점)",
-  "address": "대구 서구 달서로 201 ",
+  "address": "대구 서구  달서로 201 ",
   "phone": "053-557-2880",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 35.880478,
   "longitude": 128.571242,
-  "updated_at": "2026-01-12T11:45:45.710522"
+  "updated_at": "2026-02-03T18:23:39.191947",
+  "first_prize_draws": [
+    957,
+    899
+  ],
+  "second_prize_draws": [
+    1129,
+    1056,
+    851,
+    428
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 4
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14100813",
   "name": "찻잔에담긴행운",
-  "address": "경기 남양주시 덕소로 125 ",
+  "address": "경기 남양주시  덕소로 125 나동 102호",
   "phone": "031-521-1282",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 37.584074,
   "longitude": 127.212694,
-  "updated_at": "2026-01-12T11:48:00.446768"
+  "updated_at": "2026-02-03T18:29:31.604624",
+  "first_prize_draws": [
+    995
+  ],
+  "second_prize_draws": [
+    1203,
+    1193,
+    1174,
+    953,
+    896,
+    326
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

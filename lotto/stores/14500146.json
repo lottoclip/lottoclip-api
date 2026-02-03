@@ -1,7 +1,7 @@
 {
   "store_id": "14500146",
   "name": "농산물직판장",
-  "address": "전북 군산시 백토로 128 ",
+  "address": "전북 군산시  백토로 128 ",
   "phone": "063-463-5711",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,25 @@
   ],
   "latitude": 35.96753,
   "longitude": 126.704875,
-  "updated_at": "2026-01-12T12:01:06.840669"
+  "updated_at": "2026-02-03T18:28:52.737990",
+  "first_prize_draws": [
+    1194,
+    698,
+    475
+  ],
+  "second_prize_draws": [
+    1189,
+    1156,
+    1127,
+    1117,
+    966,
+    952,
+    935,
+    932,
+    822,
+    780,
+    372
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 11
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14110459",
   "name": "민속촌삼거리 행운복권방",
-  "address": "경기 용인시 기흥구 용구대로 1869 ",
+  "address": "경기 용인시 기흥구  용구대로 1869 ",
   "phone": "031-274-1307",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 37.25497,
   "longitude": 127.1047,
-  "updated_at": "2026-01-12T11:49:34.735367"
+  "updated_at": "2026-02-03T18:28:39.420328",
+  "first_prize_draws": [
+    1020
+  ],
+  "second_prize_draws": [
+    1191,
+    1168,
+    1137,
+    1117,
+    1100,
+    1091,
+    997,
+    996,
+    987,
+    730,
+    563,
+    392
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 12
 }

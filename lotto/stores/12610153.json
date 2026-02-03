@@ -1,7 +1,7 @@
 {
   "store_id": "12610153",
   "name": "동명로또",
-  "address": "부산 사상구 사상로 90 ",
+  "address": "부산 사상구  사상로 90 1층 동명로또",
   "phone": "051-314-7943",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 35.155254,
   "longitude": 128.991943,
-  "updated_at": "2026-01-12T11:46:48.202632"
+  "updated_at": "2026-02-03T18:29:09.680092",
+  "first_prize_draws": [
+    977,
+    581
+  ],
+  "second_prize_draws": [
+    1198,
+    873,
+    823,
+    789,
+    688
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 5
 }

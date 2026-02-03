@@ -1,7 +1,7 @@
 {
   "store_id": "14810047",
   "name": "시네마천국",
-  "address": "경남 거창군 거열로 143-1 ",
+  "address": "경남 거창군 거창읍 중앙리 336-7번지 ",
   "phone": "055-944-8160",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 35.68951,
   "longitude": 127.90948,
-  "updated_at": "2026-01-12T11:24:34.440681"
+  "updated_at": "2026-02-03T17:48:58.504339",
+  "first_prize_draws": [
+    597
+  ],
+  "second_prize_draws": [
+    709,
+    300
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

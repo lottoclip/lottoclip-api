@@ -1,7 +1,7 @@
 {
   "store_id": "11101215",
   "name": "신문가판대",
-  "address": "서울 성북구 보문동1가  147-48보문시장앞",
+  "address": "서울 성북구 보문동4가 4번지 가판",
   "phone": "02-925-8644",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,16 @@
   ],
   "latitude": 37.584089,
   "longitude": 127.020313,
-  "updated_at": "2026-01-12T11:19:47.139237"
+  "updated_at": "2026-02-03T17:46:37.238618",
+  "first_prize_draws": [
+    510,
+    367,
+    303
+  ],
+  "second_prize_draws": [
+    682,
+    603
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 2
 }

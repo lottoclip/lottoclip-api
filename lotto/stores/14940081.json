@@ -1,7 +1,7 @@
 {
   "store_id": "14940081",
   "name": "탐나네",
-  "address": "제주 제주시 노연로 138 ",
+  "address": "제주 제주시  노연로 138 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 33.48555,
   "longitude": 126.49506,
-  "updated_at": "2026-01-12T11:59:18.552595"
+  "updated_at": "2026-02-03T18:28:52.894747",
+  "first_prize_draws": [
+    1165,
+    1057
+  ],
+  "second_prize_draws": [
+    1194,
+    1191,
+    1178,
+    1177,
+    1092,
+    1005
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 6
 }

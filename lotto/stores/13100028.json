@@ -1,7 +1,7 @@
 {
   "store_id": "13100028",
   "name": "복권방(행운열차)",
-  "address": "울산 중구 다운로 114 ",
+  "address": "울산 중구 다운로 114  ",
   "phone": "052-222-3382",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,26 @@
   ],
   "latitude": 35.563121,
   "longitude": 129.267293,
-  "updated_at": "2026-01-12T11:29:30.155255"
+  "updated_at": "2026-02-03T18:29:53.201289",
+  "first_prize_draws": [
+    676
+  ],
+  "second_prize_draws": [
+    1208,
+    1207,
+    1193,
+    1191,
+    1156,
+    1083,
+    1017,
+    968,
+    905,
+    713,
+    613,
+    569,
+    506,
+    501
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 14
 }

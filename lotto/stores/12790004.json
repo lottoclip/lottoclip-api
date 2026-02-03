@@ -1,7 +1,7 @@
 {
   "store_id": "12790004",
   "name": "복권명당",
-  "address": "대구 동구 동촌로 36 ",
+  "address": "대구 동구  동촌로 36 ",
   "phone": "053-985-8860",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 35.890058,
   "longitude": 128.646765,
-  "updated_at": "2026-01-12T11:51:25.042264"
+  "updated_at": "2026-02-03T18:21:37.266892",
+  "first_prize_draws": [
+    1050
+  ],
+  "second_prize_draws": [
+    1104,
+    612,
+    497,
+    483,
+    317
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

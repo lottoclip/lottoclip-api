@@ -1,7 +1,7 @@
 {
   "store_id": "12810161",
   "name": "로또슈퍼",
-  "address": "인천 부평구 일신동 105-2번지 ",
+  "address": "인천 부평구  경인로 1106 ",
   "phone": "032-515-1588",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,15 @@
   ],
   "latitude": 37.485433,
   "longitude": 126.742694,
-  "updated_at": "2026-01-12T11:31:50.384931"
+  "updated_at": "2026-02-03T18:09:51.811606",
+  "first_prize_draws": [
+    716
+  ],
+  "second_prize_draws": [
+    957,
+    939,
+    899
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

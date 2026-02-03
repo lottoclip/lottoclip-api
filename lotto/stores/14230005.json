@@ -1,0 +1,24 @@
+{
+  "store_id": "14230005",
+  "name": "로또쉼터",
+  "address": "강원 원주시  여원로 2175 1층",
+  "phone": "033-748-1133",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.319673,
+  "longitude": 127.83014,
+  "updated_at": "2026-02-03T18:26:36.977780",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1163,
+    1159,
+    1077,
+    984,
+    895
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 5
+}

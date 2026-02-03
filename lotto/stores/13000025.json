@@ -1,7 +1,7 @@
 {
   "store_id": "13000025",
   "name": "럭키뱅크",
-  "address": "대전 동구 계족로 491 ",
+  "address": "대전 동구  계족로 491 ",
   "phone": "042-624-9800",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,26 @@
   ],
   "latitude": 36.355677,
   "longitude": 127.432511,
-  "updated_at": "2026-01-12T11:38:20.013268"
+  "updated_at": "2026-02-03T18:23:34.736109",
+  "first_prize_draws": [
+    829,
+    579
+  ],
+  "second_prize_draws": [
+    1128,
+    1119,
+    1085,
+    1065,
+    1005,
+    955,
+    934,
+    839,
+    745,
+    667,
+    589,
+    554,
+    548
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 13
 }

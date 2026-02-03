@@ -1,7 +1,7 @@
 {
   "store_id": "14700041",
   "name": "CU노서점",
-  "address": "경북 경주시 금성로259번길 38 ",
+  "address": "경북 경주시  금성로259번길 38 1층 CU 노서점 내",
   "phone": "054-745-3140",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,26 @@
   ],
   "latitude": 35.841009,
   "longitude": 129.20302,
-  "updated_at": "2026-01-12T11:59:47.336162"
+  "updated_at": "2026-02-03T18:29:22.895854",
+  "first_prize_draws": [
+    1174,
+    1024,
+    999,
+    765,
+    734,
+    473,
+    411
+  ],
+  "second_prize_draws": [
+    1201,
+    1116,
+    1044,
+    992,
+    867,
+    791,
+    750,
+    721
+  ],
+  "first_prize_count": 7,
+  "second_prize_count": 8
 }

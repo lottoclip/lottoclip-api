@@ -1,7 +1,7 @@
 {
   "store_id": "11190159",
   "name": "편의점사랑",
-  "address": "서울 강서구 곰달래로25길 57 ",
+  "address": "서울 강서구 곰달래로25길 57 1층  ",
   "phone": "02-2602-8966",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 37.533107,
   "longitude": 126.848271,
-  "updated_at": "2026-01-17T14:08:44.514684"
+  "updated_at": "2026-02-03T18:29:48.720674",
+  "first_prize_draws": [
+    1207,
+    1195,
+    1058
+  ],
+  "second_prize_draws": [
+    1198,
+    1028,
+    979,
+    965,
+    875,
+    846,
+    829,
+    793,
+    451
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 9
 }

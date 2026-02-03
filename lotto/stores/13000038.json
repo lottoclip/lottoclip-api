@@ -1,7 +1,7 @@
 {
   "store_id": "13000038",
   "name": "복권천국",
-  "address": "대전 중구 충무로 87 ",
+  "address": "대전 중구  보문로 173 ",
   "phone": "042-221-3804",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 36.317754,
   "longitude": 127.426786,
-  "updated_at": "2026-01-12T11:10:58.353487"
+  "updated_at": "2026-02-03T18:21:37.345628",
+  "first_prize_draws": [
+    364
+  ],
+  "second_prize_draws": [
+    1104,
+    918,
+    824,
+    695,
+    671,
+    375,
+    272
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

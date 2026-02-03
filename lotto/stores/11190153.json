@@ -1,7 +1,7 @@
 {
   "store_id": "11190153",
   "name": "안목마트",
-  "address": "서울 강북구 한천로 1024 ",
+  "address": "서울 강북구  한천로 1024 ",
   "phone": "02-907-0910",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,26 @@
   ],
   "latitude": 37.639325,
   "longitude": 127.028137,
-  "updated_at": "2026-01-12T11:26:45.628098"
+  "updated_at": "2026-02-03T18:22:41.117950",
+  "first_prize_draws": [
+    633,
+    266
+  ],
+  "second_prize_draws": [
+    1119,
+    1042,
+    1040,
+    1038,
+    995,
+    950,
+    944,
+    913,
+    885,
+    881,
+    689,
+    580,
+    392
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 13
 }

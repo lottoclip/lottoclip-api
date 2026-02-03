@@ -1,7 +1,7 @@
 {
   "store_id": "12640376",
   "name": "하늘복권방",
-  "address": "부산 해운대구 해운대로 814 ",
+  "address": "부산 해운대구  해운대로 814 A동 137호(좌동 세종월드프라자)",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 35.169577,
   "longitude": 129.177677,
-  "updated_at": "2026-01-12T12:01:13.634942"
+  "updated_at": "2026-02-03T18:29:01.113542",
+  "first_prize_draws": [
+    1196,
+    1117
+  ],
+  "second_prize_draws": [
+    1150,
+    1146,
+    1128
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 3
 }

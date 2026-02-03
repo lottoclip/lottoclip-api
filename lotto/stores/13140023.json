@@ -1,7 +1,7 @@
 {
   "store_id": "13140023",
   "name": "복권방",
-  "address": "울산 울주군 덕남로 87 ",
+  "address": "울산 울주군  덕남로 87 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 35.429322,
   "longitude": 129.306781,
-  "updated_at": "2026-01-12T11:52:18.441994"
+  "updated_at": "2026-02-03T18:26:28.131496",
+  "first_prize_draws": [
+    1062,
+    1019
+  ],
+  "second_prize_draws": [
+    1161,
+    1084,
+    1072
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 3
 }

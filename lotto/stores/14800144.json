@@ -1,7 +1,7 @@
 {
   "store_id": "14800144",
   "name": "로또방",
-  "address": "경남 창원시 의창구 봉곡로 81 ",
+  "address": "경남 창원시 의창구  봉곡로 81 ",
   "phone": "055-237-4411",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 35.249257,
   "longitude": 128.668376,
-  "updated_at": "2026-01-12T11:28:27.488092"
+  "updated_at": "2026-02-03T18:24:14.041188",
+  "first_prize_draws": [
+    661
+  ],
+  "second_prize_draws": [
+    1137,
+    1107,
+    1089,
+    994,
+    767,
+    750,
+    701
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

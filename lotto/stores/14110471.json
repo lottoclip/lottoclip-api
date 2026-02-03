@@ -1,7 +1,7 @@
 {
   "store_id": "14110471",
-  "name": "복권방",
-  "address": "경기 평택시 평택항로 1-6 ",
+  "name": "개그스토리마트(평택본점)",
+  "address": "경기 평택시  평택항로 1-6 1층 개그스토리편의점",
   "phone": "070-8861-3698",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 36.961808,
   "longitude": 126.853733,
-  "updated_at": "2026-01-12T11:15:01.545027"
+  "updated_at": "2026-02-03T18:27:02.652562",
+  "first_prize_draws": [
+    433,
+    292
+  ],
+  "second_prize_draws": [
+    1169,
+    1063,
+    936,
+    871,
+    736,
+    560,
+    434,
+    422
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 8
 }

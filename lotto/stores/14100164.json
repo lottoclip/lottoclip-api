@@ -1,0 +1,25 @@
+{
+  "store_id": "14100164",
+  "name": "복권방",
+  "address": "경기 부천시  경인로498번길 10 ",
+  "phone": "032-344-0498",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.483421,
+  "longitude": 126.810939,
+  "updated_at": "2026-02-03T18:16:19.236946",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1039,
+    997,
+    787,
+    480,
+    477,
+    465
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 6
+}

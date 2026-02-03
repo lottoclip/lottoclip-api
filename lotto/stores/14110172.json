@@ -1,7 +1,7 @@
 {
   "store_id": "14110172",
   "name": "해피복권방",
-  "address": "경기 고양시 일산동구 성석동 1246-80번지 ",
+  "address": "경기 고양시 일산동구  고봉로 608 ",
   "phone": "031-975-1877",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,15 @@
   ],
   "latitude": 37.711001,
   "longitude": 126.788395,
-  "updated_at": "2026-01-12T11:37:45.548663"
+  "updated_at": "2026-02-03T18:16:10.533920",
+  "first_prize_draws": [
+    818
+  ],
+  "second_prize_draws": [
+    1037,
+    740,
+    424
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

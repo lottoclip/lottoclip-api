@@ -1,7 +1,7 @@
 {
   "store_id": "14190107",
   "name": "드림메드",
-  "address": "경기 안산시 상록구 월피로 56 ",
+  "address": "경기 안산시 상록구  월피로 56 101호",
   "phone": "031-405-1743",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 37.3334,
   "longitude": 126.850868,
-  "updated_at": "2026-01-12T11:59:28.117509"
+  "updated_at": "2026-02-03T18:26:58.240607",
+  "first_prize_draws": [
+    1168,
+    1153,
+    957,
+    877
+  ],
+  "second_prize_draws": [
+    1143,
+    1117,
+    1042,
+    1017,
+    648,
+    597,
+    447,
+    405
+  ],
+  "first_prize_count": 4,
+  "second_prize_count": 8
 }

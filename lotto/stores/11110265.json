@@ -1,0 +1,20 @@
+{
+  "store_id": "11110265",
+  "name": "로또복권",
+  "address": "서울 노원구  상계동 651-7번지1층",
+  "phone": "02-952-1137",
+  "lottery_types": [
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 37.622955,
+  "longitude": 127.080992,
+  "updated_at": "2026-02-03T17:43:04.884293",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    634,
+    423
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 2
+}

@@ -1,7 +1,7 @@
 {
   "store_id": "12840049",
-  "name": "가온공인중개사무소",
-  "address": "인천 강화군 중앙로 27 ",
+  "name": "강화가온복권",
+  "address": "인천 강화군  중앙로 27 104호",
   "phone": "032-934-0370",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 37.74064,
   "longitude": 126.49073,
-  "updated_at": "2026-01-12T11:47:25.577368"
+  "updated_at": "2026-02-03T18:21:49.961731",
+  "first_prize_draws": [
+    984
+  ],
+  "second_prize_draws": [
+    1107,
+    1075,
+    1035
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

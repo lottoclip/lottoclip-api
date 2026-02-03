@@ -1,7 +1,7 @@
 {
   "store_id": "14110617",
   "name": "로또복권슈퍼(국제꽃화원)",
-  "address": "경기 의정부시 동일로 677 ",
+  "address": "경기 의정부시  동일로 677 101호",
   "phone": "031-842-3347",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 37.748564,
   "longitude": 127.052819,
-  "updated_at": "2026-01-12T12:00:16.089332"
+  "updated_at": "2026-02-03T18:28:03.783899",
+  "first_prize_draws": [
+    1183,
+    845,
+    546
+  ],
+  "second_prize_draws": [
+    1056,
+    1052,
+    981,
+    894,
+    643,
+    635,
+    594,
+    572,
+    388
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 9
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14110176",
-  "name": "대박로또편의점",
-  "address": "경기 과천시 별양상가2로 20 ",
+  "name": "관문로또",
+  "address": "경기 과천시 별양상가2로 20 새서울프라자 1호  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.426817,
   "longitude": 126.992536,
-  "updated_at": "2026-01-12T11:34:33.442201"
+  "updated_at": "2026-02-03T18:29:48.935078",
+  "first_prize_draws": [
+    762
+  ],
+  "second_prize_draws": [
+    1207,
+    1156,
+    1110,
+    944,
+    846,
+    684,
+    650
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

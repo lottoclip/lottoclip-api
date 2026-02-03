@@ -1,12 +1,35 @@
 {
   "store_id": "24900001",
   "name": "GS25(서귀중문점)",
-  "address": "제주 서귀포시 중문동 1964-4 ",
+  "address": "제주 서귀포시  천제연로 210 ",
   "phone": "064-738-9426",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 33.251451,
   "longitude": 126.427008,
-  "updated_at": "2026-01-12T11:36:29.750157"
+  "updated_at": "2026-02-03T18:14:00.060909",
+  "first_prize_draws": [
+    794,
+    312
+  ],
+  "second_prize_draws": [
+    1010,
+    991,
+    987,
+    950,
+    911,
+    881,
+    871,
+    866,
+    857,
+    770,
+    732,
+    631,
+    557,
+    499,
+    403
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 15
 }

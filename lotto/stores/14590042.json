@@ -1,7 +1,7 @@
 {
   "store_id": "14590042",
   "name": "찬스복권방",
-  "address": "전북 전주시 덕진구 태진로 120 ",
+  "address": "전북 전주시 덕진구  태진로 120 ",
   "phone": "063-277-6575",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 35.831664,
   "longitude": 127.135988,
-  "updated_at": "2026-01-12T11:05:38.375770"
+  "updated_at": "2026-02-03T18:14:17.231256",
+  "first_prize_draws": [
+    279
+  ],
+  "second_prize_draws": [
+    1014,
+    774,
+    674,
+    495,
+    483
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

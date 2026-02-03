@@ -1,7 +1,7 @@
 {
   "store_id": "14840206",
   "name": "로하",
-  "address": "경남 창원시 의창구 소계로84번길 13-1 ",
+  "address": "경남 창원시 의창구  소계로84번길 13-1 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 35.257716,
   "longitude": 128.600576,
-  "updated_at": "2026-01-12T11:58:26.977586"
+  "updated_at": "2026-02-03T18:25:20.219619",
+  "first_prize_draws": [
+    1149
+  ],
+  "second_prize_draws": [
+    996,
+    974,
+    916
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

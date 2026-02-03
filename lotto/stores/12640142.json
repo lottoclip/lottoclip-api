@@ -1,7 +1,7 @@
 {
   "store_id": "12640142",
   "name": "로또",
-  "address": "부산 부산진구 엄광로 25 ",
+  "address": "부산 부산진구  엄광로 25 새학문서점내",
   "phone": "051-892-1918",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 35.148548,
   "longitude": 129.018869,
-  "updated_at": "2026-01-12T11:46:01.383258"
+  "updated_at": "2026-02-03T18:17:41.538864",
+  "first_prize_draws": [
+    962
+  ],
+  "second_prize_draws": [
+    1054,
+    1004,
+    1000
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

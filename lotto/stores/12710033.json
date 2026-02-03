@@ -1,7 +1,7 @@
 {
   "store_id": "12710033",
   "name": "성서제일복권",
-  "address": "대구 달서구 성서동로 320 ",
+  "address": "대구 달서구 장기동 150-1번지 1층",
   "phone": "053-591-1645",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 35.849183,
   "longitude": 128.516003,
-  "updated_at": "2026-01-12T11:28:15.049651"
+  "updated_at": "2026-02-03T17:57:56.403011",
+  "first_prize_draws": [
+    657
+  ],
+  "second_prize_draws": [
+    814
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "11140626",
   "name": "행운충전소",
-  "address": "서울 성북구 보문로29길 5 ",
+  "address": "서울 성북구  보문로29길 5 1층 일부",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 37.587644,
   "longitude": 127.017647,
-  "updated_at": "2026-01-12T11:57:14.380560"
+  "updated_at": "2026-02-03T18:26:27.889607",
+  "first_prize_draws": [
+    1131
+  ],
+  "second_prize_draws": [
+    1161,
+    1026,
+    1003
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

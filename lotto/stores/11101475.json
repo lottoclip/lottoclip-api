@@ -1,12 +1,24 @@
 {
   "store_id": "11101475",
   "name": "그랑프리안경",
-  "address": "서울 강서구 강서로45길 13 ",
+  "address": "서울 강서구 화곡동(화곡제3동) 1007-2 ",
   "phone": "02-2691-5479",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.547803,
   "longitude": 126.835358,
-  "updated_at": "2026-01-12T11:17:01.821868"
+  "updated_at": "2026-02-03T18:02:10.937351",
+  "first_prize_draws": [
+    462,
+    306
+  ],
+  "second_prize_draws": [
+    867,
+    832,
+    597,
+    381
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 4
 }

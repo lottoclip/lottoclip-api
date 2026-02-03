@@ -1,7 +1,7 @@
 {
   "store_id": "12690046",
   "name": "조일상회",
-  "address": "부산 동래구 명륜1동  529-3",
+  "address": "부산 동래구 명륜동 529-3 ",
   "phone": "051-553-2994",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,14 @@
   ],
   "latitude": 35.203442,
   "longitude": 129.07982,
-  "updated_at": "2026-01-12T11:08:07.844829"
+  "updated_at": "2026-02-03T17:49:15.248831",
+  "first_prize_draws": [
+    323
+  ],
+  "second_prize_draws": [
+    713,
+    581
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

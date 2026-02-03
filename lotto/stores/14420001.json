@@ -1,7 +1,7 @@
 {
   "store_id": "14420001",
   "name": "명성복권마트",
-  "address": "충남 계룡시 장안로 66 ",
+  "address": "충남 계룡시  장안로 66 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 36.272292,
   "longitude": 127.249506,
-  "updated_at": "2026-01-12T11:50:25.030421"
+  "updated_at": "2026-02-03T18:16:06.361405",
+  "first_prize_draws": [
+    1036
+  ],
+  "second_prize_draws": [
+    946,
+    897
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14890043",
   "name": "복슈퍼",
-  "address": "경남 김해시 가야로 19 ",
+  "address": "경남 김해시  가야로 19 푸르지오상가 111호 복권판매점",
   "phone": "055-327-2828",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 35.27011,
   "longitude": 128.86241,
-  "updated_at": "2026-01-12T12:01:54.839280"
+  "updated_at": "2026-02-03T18:29:36.497073",
+  "first_prize_draws": [
+    1204,
+    890
+  ],
+  "second_prize_draws": [
+    1199,
+    1139,
+    1125,
+    982,
+    976,
+    861,
+    824,
+    694,
+    381,
+    292
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 10
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14820023",
   "name": "양산역씨유점",
-  "address": "경남 양산시 양산역6길 3 ",
+  "address": "경남 양산시  양산역6길 3 112호 CU편의점",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 35.33782,
   "longitude": 129.026601,
-  "updated_at": "2026-01-12T11:44:46.207815"
+  "updated_at": "2026-02-03T18:23:30.651116",
+  "first_prize_draws": [
+    938
+  ],
+  "second_prize_draws": [
+    1127,
+    1112,
+    1081,
+    986,
+    899,
+    864,
+    858,
+    642
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

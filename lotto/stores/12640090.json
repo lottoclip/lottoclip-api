@@ -1,7 +1,7 @@
 {
   "store_id": "12640090",
   "name": "다온복권방",
-  "address": "부산 금정구 부곡로 122 ",
+  "address": "부산 금정구  부곡로 122 좌측 복권판매점",
   "phone": "051-947-7149",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 35.226705,
   "longitude": 129.092119,
-  "updated_at": "2026-01-12T11:58:46.196582"
+  "updated_at": "2026-02-03T18:28:34.506860",
+  "first_prize_draws": [
+    1155
+  ],
+  "second_prize_draws": [
+    1190,
+    1153,
+    1053
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

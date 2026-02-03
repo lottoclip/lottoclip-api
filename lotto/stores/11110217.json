@@ -1,7 +1,7 @@
 {
   "store_id": "11110217",
   "name": "로또판매점",
-  "address": "서울 관악구 남부순환로 1599 ",
+  "address": "서울 관악구 신림동 1433-131 1층",
   "phone": "070-7543-5128",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.484295,
   "longitude": 126.928167,
-  "updated_at": "2026-01-12T11:43:56.560777"
+  "updated_at": "2026-02-03T18:06:52.793774",
+  "first_prize_draws": [
+    922,
+    716,
+    679
+  ],
+  "second_prize_draws": [
+    857,
+    842,
+    821,
+    756,
+    591
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 5
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "24100077",
-  "name": "GS25(분당매화)",
-  "address": "경기 성남시 분당구 야탑동 275-4번지성원프라자103호",
+  "name": "GS25(분당매화점)",
+  "address": "경기 성남시 분당구 야탑동 275-4번지 성원프라자103호",
   "phone": "031-703-3665",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,21 @@
   ],
   "latitude": 37.41165,
   "longitude": 127.138031,
-  "updated_at": "2026-01-12T11:22:17.725299"
+  "updated_at": "2026-02-03T18:04:10.337741",
+  "first_prize_draws": [
+    558,
+    462
+  ],
+  "second_prize_draws": [
+    891,
+    796,
+    693,
+    683,
+    652,
+    570,
+    418,
+    401
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 8
 }

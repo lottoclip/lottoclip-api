@@ -1,7 +1,7 @@
 {
   "store_id": "14130103",
   "name": "별내로또(픽미픽미아이스삼육대점)",
-  "address": "경기 남양주시  불암로 35 102호",
+  "address": "경기 남양주시  순화궁로 272 115호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,14 @@
   ],
   "latitude": 37.651594,
   "longitude": 127.129418,
-  "updated_at": "2026-01-12T11:45:07.967809"
+  "updated_at": "2026-02-03T18:17:24.351288",
+  "first_prize_draws": [
+    945
+  ],
+  "second_prize_draws": [
+    1050,
+    1032
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

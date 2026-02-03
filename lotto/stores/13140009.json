@@ -1,7 +1,7 @@
 {
   "store_id": "13140009",
   "name": "동성슈퍼",
-  "address": "울산 울주군 북문1길 7 ",
+  "address": "울산 울주군 북문1길 7 101호  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,25 @@
   ],
   "latitude": 35.570964,
   "longitude": 129.120394,
-  "updated_at": "2026-01-12T12:01:51.462092"
+  "updated_at": "2026-02-03T18:29:40.476140",
+  "first_prize_draws": [
+    1203,
+    929
+  ],
+  "second_prize_draws": [
+    1205,
+    1193,
+    1189,
+    1148,
+    1048,
+    1047,
+    1030,
+    939,
+    932,
+    917,
+    886,
+    860
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 12
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "11100998",
   "name": "행운복권마트",
-  "address": "서울 서초구 서초대로 96 ",
+  "address": "서울 서초구  서초대로 96 1층",
   "phone": "02-581-5673",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 37.487195,
   "longitude": 126.992855,
-  "updated_at": "2026-01-12T11:10:27.549632"
+  "updated_at": "2026-02-03T18:18:59.537162",
+  "first_prize_draws": [
+    359
+  ],
+  "second_prize_draws": [
+    1071,
+    1037,
+    942,
+    822,
+    782,
+    731,
+    698,
+    676,
+    587,
+    579,
+    306
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 11
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "12690071",
   "name": "돈벼락",
-  "address": "부산 사하구 장평로 134 ",
+  "address": "부산 사하구  장평로 134 1층",
   "phone": "051-262-1515",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 35.07796,
   "longitude": 128.973007,
-  "updated_at": "2026-01-12T11:56:04.737830"
+  "updated_at": "2026-02-03T18:25:19.761160",
+  "first_prize_draws": [
+    1114
+  ],
+  "second_prize_draws": [
+    1149,
+    1124,
+    1111,
+    1012
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

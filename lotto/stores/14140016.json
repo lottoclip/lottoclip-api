@@ -1,7 +1,7 @@
 {
   "store_id": "14140016",
   "name": "정통복권방",
-  "address": "경기 수원시 팔달구 매산로116번길 32 ",
+  "address": "경기 수원시 팔달구  매산로116번길 32 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 37.269805,
   "longitude": 127.013933,
-  "updated_at": "2026-01-12T12:01:17.046887"
+  "updated_at": "2026-02-03T18:29:05.625857",
+  "first_prize_draws": [
+    1197,
+    1094
+  ],
+  "second_prize_draws": [
+    921
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 1
 }

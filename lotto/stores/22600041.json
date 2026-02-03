@@ -1,12 +1,25 @@
 {
   "store_id": "22600041",
-  "name": "GS25(청룡)",
-  "address": "부산 금정구 청룡동  633-21",
+  "name": "GS25(청룡점)",
+  "address": "부산 금정구 청룡동 633-21번지 ",
   "phone": "051-508-2422",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 35.275641,
   "longitude": 129.086509,
-  "updated_at": "2026-01-12T11:16:43.384935"
+  "updated_at": "2026-02-03T17:51:51.428725",
+  "first_prize_draws": [
+    456
+  ],
+  "second_prize_draws": [
+    738,
+    525,
+    440,
+    419,
+    342,
+    304
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

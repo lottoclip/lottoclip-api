@@ -1,7 +1,7 @@
 {
   "store_id": "14490023",
   "name": "하나로슈퍼",
-  "address": "충남 보령시 주공로 65 ",
+  "address": "충남 보령시  주공로 59 하나로슈퍼",
   "phone": "041-935-6287",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 36.341637,
   "longitude": 126.605487,
-  "updated_at": "2026-01-12T11:21:33.424700"
+  "updated_at": "2026-02-03T18:28:03.895727",
+  "first_prize_draws": [
+    544,
+    323
+  ],
+  "second_prize_draws": [
+    1183,
+    1122,
+    1088,
+    1087,
+    1041,
+    1007,
+    970,
+    866,
+    647,
+    592,
+    463
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 11
 }

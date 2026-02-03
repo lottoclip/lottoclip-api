@@ -1,7 +1,7 @@
 {
   "store_id": "14890026",
   "name": "정우빌딩",
-  "address": "경남 진주시 평거로 38 ",
+  "address": "경남 진주시  평거로 38 세븐일레븐 내",
   "phone": "055-745-7690",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 35.173551,
   "longitude": 128.064846,
-  "updated_at": "2026-01-12T11:44:39.809685"
+  "updated_at": "2026-02-03T18:15:27.570280",
+  "first_prize_draws": [
+    936
+  ],
+  "second_prize_draws": [
+    1027,
+    735,
+    642,
+    542,
+    329,
+    325,
+    284
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

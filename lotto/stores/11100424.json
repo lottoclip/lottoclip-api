@@ -1,7 +1,7 @@
 {
   "store_id": "11100424",
   "name": "행복자슈퍼",
-  "address": "서울 서초구 강남대로30길 63 ",
+  "address": "서울 서초구 양재동  7-43번지",
   "phone": "02-529-9090",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 37.482762,
   "longitude": 127.040555,
-  "updated_at": "2026-01-12T11:13:38.200930"
+  "updated_at": "2026-02-03T17:36:34.476313",
+  "first_prize_draws": [
+    411
+  ],
+  "second_prize_draws": [
+    554,
+    337,
+    331
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

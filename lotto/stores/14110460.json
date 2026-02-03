@@ -1,0 +1,27 @@
+{
+  "store_id": "14110460",
+  "name": "노다지복권방",
+  "address": "경기 용인시 수지구  상현로 114 1층 2호",
+  "phone": null,
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.307167,
+  "longitude": 127.084394,
+  "updated_at": "2026-02-03T18:16:19.312238",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1039,
+    991,
+    952,
+    909,
+    877,
+    699,
+    586,
+    271
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 8
+}

@@ -1,12 +1,20 @@
 {
   "store_id": "12810104",
   "name": "이토타워점",
-  "address": "인천 남동구 구월동  1456이토타워129",
+  "address": "인천 남동구 만수4동  141층 4호",
   "phone": "032-462-3791",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.456195,
   "longitude": 126.736551,
-  "updated_at": "2026-01-12T11:11:47.315725"
+  "updated_at": "2026-02-03T17:28:14.877514",
+  "first_prize_draws": [
+    375
+  ],
+  "second_prize_draws": [
+    435
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

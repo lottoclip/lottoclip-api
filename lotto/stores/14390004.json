@@ -1,7 +1,7 @@
 {
   "store_id": "14390004",
   "name": "복권나라",
-  "address": "충북 청주시 상당구 상당로 9 ",
+  "address": "충북 청주시 상당구  상당로 9 ",
   "phone": "043-250-5288",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 36.629225,
   "longitude": 127.491034,
-  "updated_at": "2026-01-12T11:57:14.422786"
+  "updated_at": "2026-02-03T18:23:47.948684",
+  "first_prize_draws": [
+    1131,
+    654
+  ],
+  "second_prize_draws": [
+    1055,
+    1005,
+    980,
+    958,
+    951,
+    944,
+    873,
+    733,
+    458,
+    360
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 10
 }

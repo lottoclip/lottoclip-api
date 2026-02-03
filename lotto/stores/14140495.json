@@ -1,7 +1,7 @@
 {
   "store_id": "14140495",
   "name": "소망로또",
-  "address": "경기 의정부시 평화로 176 ",
+  "address": "경기 의정부시 평화로 176  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 37.707416,
   "longitude": 127.04841,
-  "updated_at": "2026-01-12T11:48:19.408179"
+  "updated_at": "2026-02-03T18:29:57.569457",
+  "first_prize_draws": [
+    1001
+  ],
+  "second_prize_draws": [
+    1209,
+    1168,
+    1122,
+    1090
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

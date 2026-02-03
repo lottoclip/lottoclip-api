@@ -1,7 +1,7 @@
 {
   "store_id": "11100534",
   "name": "일등복권방",
-  "address": "서울 동대문구 사가정로 125 ",
+  "address": "서울 동대문구 전농동 38-12번지 ",
   "phone": "02-2213-6803",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 37.577872,
   "longitude": 127.058816,
-  "updated_at": "2026-01-12T11:42:14.322777"
+  "updated_at": "2026-02-03T18:04:23.917458",
+  "first_prize_draws": [
+    894
+  ],
+  "second_prize_draws": [
+    634,
+    436
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

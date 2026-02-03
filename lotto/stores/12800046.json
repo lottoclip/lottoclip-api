@@ -1,7 +1,7 @@
 {
   "store_id": "12800046",
   "name": "천하명당복권방",
-  "address": "인천 계양구 안남로 466 ",
+  "address": "인천 계양구 안남로 466 1층  ",
   "phone": "032-555-0702",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 37.5245,
   "longitude": 126.710871,
-  "updated_at": "2026-01-12T11:45:01.698584"
+  "updated_at": "2026-02-03T18:29:44.659127",
+  "first_prize_draws": [
+    943,
+    938,
+    451
+  ],
+  "second_prize_draws": [
+    1206,
+    1135,
+    1048,
+    964,
+    958,
+    814,
+    647,
+    641,
+    503,
+    495
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 10
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "11190160",
   "name": "우리식품",
-  "address": "서울 광진구 아차산로 589 ",
+  "address": "서울 광진구  아차산로 589 ",
   "phone": "02-453-7760",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 37.54599,
   "longitude": 127.104729,
-  "updated_at": "2026-01-12T11:33:49.569274"
+  "updated_at": "2026-02-03T18:17:54.565990",
+  "first_prize_draws": [
+    748
+  ],
+  "second_prize_draws": [
+    1057,
+    1028,
+    1012,
+    943,
+    928,
+    877,
+    833,
+    799,
+    714,
+    512,
+    423,
+    296
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 12
 }

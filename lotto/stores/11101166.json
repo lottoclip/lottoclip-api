@@ -1,7 +1,7 @@
 {
   "store_id": "11101166",
   "name": "고덕로또복권",
-  "address": "서울 강동구 상일로15길 18 ",
+  "address": "서울 강동구  상일로15길 18 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 37.557685,
   "longitude": 127.170059,
-  "updated_at": "2026-01-12T11:49:34.637161"
+  "updated_at": "2026-02-03T18:19:25.819718",
+  "first_prize_draws": [
+    1020,
+    959,
+    839,
+    784,
+    627
+  ],
+  "second_prize_draws": [
+    1077,
+    1057,
+    972,
+    714,
+    367,
+    354,
+    280
+  ],
+  "first_prize_count": 5,
+  "second_prize_count": 7
 }

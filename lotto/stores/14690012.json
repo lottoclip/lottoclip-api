@@ -1,0 +1,31 @@
+{
+  "store_id": "14690012",
+  "name": "복권전문점(고흥)",
+  "address": "전남 고흥군  고흥로 1740-2 복권전문점",
+  "phone": "061-832-0545",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 34.607405,
+  "longitude": 127.284641,
+  "updated_at": "2026-02-03T18:23:01.184921",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1120,
+    982,
+    970,
+    772,
+    703,
+    701,
+    654,
+    636,
+    426,
+    361,
+    286,
+    285
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 12
+}

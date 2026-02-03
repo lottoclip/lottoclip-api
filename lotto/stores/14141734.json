@@ -1,7 +1,7 @@
 {
   "store_id": "14141734",
   "name": "행복나눔로또",
-  "address": "경기 남양주시 마석로 37 ",
+  "address": "경기 남양주시  마석로 37 101호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,11 @@
   ],
   "latitude": 37.654255,
   "longitude": 127.306147,
-  "updated_at": "2026-01-12T12:01:06.768316"
+  "updated_at": "2026-02-03T18:28:52.535013",
+  "first_prize_draws": [
+    1194
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

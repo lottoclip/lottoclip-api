@@ -1,12 +1,21 @@
 {
   "store_id": "14340016",
   "name": "로또마당",
-  "address": "충북 충주시 국원대로 356 ",
+  "address": "충북 충주시  국원대로 356 1층 세븐일레븐",
   "phone": null,
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.003092,
   "longitude": 127.930025,
-  "updated_at": "2026-01-12T11:44:46.185849"
+  "updated_at": "2026-02-03T18:29:09.879876",
+  "first_prize_draws": [
+    938
+  ],
+  "second_prize_draws": [
+    1198,
+    1091
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

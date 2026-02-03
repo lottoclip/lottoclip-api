@@ -1,12 +1,23 @@
 {
   "store_id": "14400061",
   "name": "매표소",
-  "address": "충남 천안시 서북구 부송로 191 ",
+  "address": "충남 천안시 서북구  부송로 191 1동",
   "phone": null,
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 36.882375,
   "longitude": 127.11257,
-  "updated_at": "2026-01-12T11:19:59.992564"
+  "updated_at": "2026-02-03T18:26:41.288724",
+  "first_prize_draws": [
+    514
+  ],
+  "second_prize_draws": [
+    1164,
+    809,
+    776,
+    409
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

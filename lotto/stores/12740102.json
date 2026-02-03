@@ -1,7 +1,7 @@
 {
   "store_id": "12740102",
   "name": "벼락부자복권",
-  "address": "대구 달서구 죽전길 149 ",
+  "address": "대구 달서구  죽전길 149 1층 복권방",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,11 @@
   ],
   "latitude": 35.85846,
   "longitude": 128.54004,
-  "updated_at": "2026-01-12T11:51:15.445053"
+  "updated_at": "2026-02-03T18:17:10.749225",
+  "first_prize_draws": [
+    1047
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

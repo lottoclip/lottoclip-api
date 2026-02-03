@@ -1,7 +1,7 @@
 {
   "store_id": "14710161",
   "name": "대일사",
-  "address": "경북 영천시 야사동 192-14번지 ",
+  "address": "경북 영천시  동부로 31-6 ",
   "phone": "054-331-2707",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,22 @@
   ],
   "latitude": 35.973187,
   "longitude": 128.948397,
-  "updated_at": "2026-01-12T11:43:32.127312"
+  "updated_at": "2026-02-03T18:13:42.689975",
+  "first_prize_draws": [
+    919
+  ],
+  "second_prize_draws": [
+    1006,
+    996,
+    982,
+    970,
+    824,
+    747,
+    727,
+    663,
+    459,
+    321
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

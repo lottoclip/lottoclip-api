@@ -1,7 +1,7 @@
 {
   "store_id": "14100637",
   "name": "가판대",
-  "address": "경기 부천시 원미구 상동 318-5번지 ",
+  "address": "경기 부천시  부일로 293 ",
   "phone": "032-665-9655",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 37.488617,
   "longitude": 126.762766,
-  "updated_at": "2026-01-12T11:33:36.835328"
+  "updated_at": "2026-02-03T18:13:12.327639",
+  "first_prize_draws": [
+    744
+  ],
+  "second_prize_draws": [
+    999,
+    957,
+    934,
+    832,
+    786,
+    430
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "12910074",
   "name": "초원복권 신창점",
-  "address": "광주 광산구 신창로 76 ",
+  "address": "광주 광산구  신창로 76 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 35.191974,
   "longitude": 126.837371,
-  "updated_at": "2026-01-12T11:51:21.788210"
+  "updated_at": "2026-02-03T18:29:26.820813",
+  "first_prize_draws": [
+    1049,
+    1037
+  ],
+  "second_prize_draws": [
+    1202,
+    796,
+    744,
+    731,
+    694,
+    667,
+    628,
+    556,
+    532,
+    339
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 10
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "12840475",
   "name": "황금복권",
-  "address": "인천 계양구 장제로 889-1 ",
+  "address": "인천 계양구  장제로 889-1 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,11 @@
   ],
   "latitude": 37.546378,
   "longitude": 126.739424,
-  "updated_at": "2026-01-12T11:59:12.109333"
+  "updated_at": "2026-02-03T18:26:36.784944",
+  "first_prize_draws": [
+    1163
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

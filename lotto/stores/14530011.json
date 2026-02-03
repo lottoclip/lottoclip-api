@@ -1,12 +1,20 @@
 {
   "store_id": "14530011",
   "name": "무지개",
-  "address": "전북 군산시 수송동 821-5 1층 계단옆",
+  "address": "전북 군산시 수송동 821-5 맘스피자내",
   "phone": "063-468-3654",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 35.962677,
   "longitude": 126.714544,
-  "updated_at": "2026-01-12T11:36:40.416891"
+  "updated_at": "2026-02-03T18:01:32.511398",
+  "first_prize_draws": [
+    797
+  ],
+  "second_prize_draws": [
+    858
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

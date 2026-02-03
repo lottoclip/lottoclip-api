@@ -1,0 +1,29 @@
+{
+  "store_id": "14190205",
+  "name": "복권천하",
+  "address": "경기 부천시  조마루로285번길 34 이스트타워 1층105-1호",
+  "phone": "032-322-1333",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.499008,
+  "longitude": 126.775468,
+  "updated_at": "2026-02-03T18:23:56.702329",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1133,
+    1057,
+    1025,
+    1012,
+    1006,
+    1001,
+    565,
+    491,
+    412,
+    395
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 10
+}

@@ -1,7 +1,7 @@
 {
   "store_id": "12610025",
   "name": "돈벼락 하단점",
-  "address": "부산 사하구 낙동남로 1401-1 ",
+  "address": "부산 사하구 낙동남로 1401-1  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 35.106529,
   "longitude": 128.965047,
-  "updated_at": "2026-01-12T11:53:02.646737"
+  "updated_at": "2026-02-03T18:29:44.614722",
+  "first_prize_draws": [
+    1071
+  ],
+  "second_prize_draws": [
+    1206,
+    1194,
+    1172,
+    1148,
+    1131,
+    1103,
+    1087,
+    1057,
+    1012,
+    858,
+    737,
+    497
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 12
 }

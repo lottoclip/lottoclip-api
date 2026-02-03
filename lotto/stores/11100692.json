@@ -1,12 +1,21 @@
 {
   "store_id": "11100692",
   "name": "크로바",
-  "address": "서울 종로구 종로54길 42 ",
+  "address": "서울 종로구 창신동(창신제1동) 411-16 ",
   "phone": "02-764-5685",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.570389,
   "longitude": 127.013964,
-  "updated_at": "2026-01-12T11:32:07.492136"
+  "updated_at": "2026-02-03T17:55:06.955509",
+  "first_prize_draws": [
+    721
+  ],
+  "second_prize_draws": [
+    776,
+    715
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

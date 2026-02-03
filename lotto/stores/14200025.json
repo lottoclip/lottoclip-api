@@ -1,7 +1,7 @@
 {
   "store_id": "14200025",
   "name": "유명복권대박",
-  "address": "강원 강릉시 율곡로 2793 ",
+  "address": "강원 강릉시 성남동 27-4번지 ",
   "phone": "033-642-2225",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 37.754336,
   "longitude": 128.900876,
-  "updated_at": "2026-01-12T11:40:03.974097"
+  "updated_at": "2026-02-03T18:03:27.152440",
+  "first_prize_draws": [
+    862
+  ],
+  "second_prize_draws": [
+    881,
+    760,
+    748,
+    637,
+    331
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

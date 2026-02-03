@@ -1,7 +1,7 @@
 {
   "store_id": "11110039",
-  "name": "최고복권명당",
-  "address": "서울 관악구 봉천동(인헌동) 196-33 ",
+  "name": "복권",
+  "address": "서울 관악구  낙성대역길 91 우선빌딩 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 37.474446,
   "longitude": 126.963829,
-  "updated_at": "2026-01-12T11:37:29.853948"
+  "updated_at": "2026-02-03T18:18:46.458216",
+  "first_prize_draws": [
+    813,
+    581,
+    393
+  ],
+  "second_prize_draws": [
+    1068,
+    909,
+    448,
+    434,
+    360,
+    296
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 6
 }

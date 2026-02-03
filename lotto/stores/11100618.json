@@ -1,7 +1,7 @@
 {
   "store_id": "11100618",
   "name": "굿타임",
-  "address": "서울 서대문구 거북골로 39 ",
+  "address": "서울 서대문구  연희로 36 ",
   "phone": "070-8274-8967",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 37.579142,
   "longitude": 126.923573,
-  "updated_at": "2026-01-12T11:48:12.920337"
+  "updated_at": "2026-02-03T18:17:32.751963",
+  "first_prize_draws": [
+    999,
+    776,
+    606,
+    539
+  ],
+  "second_prize_draws": [
+    1052,
+    903,
+    813,
+    700,
+    593,
+    479
+  ],
+  "first_prize_count": 4,
+  "second_prize_count": 6
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14310028",
   "name": "도깨비 복권 전문점",
-  "address": "충북 증평군 광장로 119 ",
+  "address": "충북 증평군  광장로 119 ",
   "phone": "043-836-8272",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 36.784278,
   "longitude": 127.585044,
-  "updated_at": "2026-01-12T11:41:46.653989"
+  "updated_at": "2026-02-03T18:16:38.791306",
+  "first_prize_draws": [
+    885,
+    642
+  ],
+  "second_prize_draws": [
+    1043,
+    1013,
+    770,
+    414
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 4
 }

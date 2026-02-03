@@ -1,7 +1,7 @@
 {
   "store_id": "12810045",
   "name": "로또복권방",
-  "address": "인천 부평구 마장로 287 ",
+  "address": "인천 부평구  마장로 287 한양프라자 104-1호",
   "phone": "032-330-8310",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.504132,
   "longitude": 126.703003,
-  "updated_at": "2026-01-12T11:59:40.840762"
+  "updated_at": "2026-02-03T18:27:16.158997",
+  "first_prize_draws": [
+    1172
+  ],
+  "second_prize_draws": [
+    1161,
+    874,
+    731,
+    710,
+    674,
+    530,
+    403
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

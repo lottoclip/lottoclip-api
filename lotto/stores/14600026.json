@@ -1,7 +1,7 @@
 {
   "store_id": "14600026",
   "name": "행운로또",
-  "address": "전남 여수시 상암로 627-1 ",
+  "address": "전남 여수시  상암로 627-1 상암초 부근",
   "phone": "061-692-5060",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 34.825856,
   "longitude": 127.732807,
-  "updated_at": "2026-01-12T11:16:49.545078"
+  "updated_at": "2026-02-03T18:24:18.139079",
+  "first_prize_draws": [
+    458
+  ],
+  "second_prize_draws": [
+    1138,
+    1128,
+    902,
+    685,
+    678,
+    604,
+    556
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

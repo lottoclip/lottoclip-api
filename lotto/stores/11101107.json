@@ -1,7 +1,7 @@
 {
   "store_id": "11101107",
   "name": "가판점1호",
-  "address": "서울 마포구 합정동  383-14번지",
+  "address": "서울 마포구 합정동 383-14번지 세븐일레븐",
   "phone": "02-338-9253",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,18 @@
   ],
   "latitude": 37.549137,
   "longitude": 126.912221,
-  "updated_at": "2026-01-12T11:23:19.378081"
+  "updated_at": "2026-02-03T17:52:34.715629",
+  "first_prize_draws": [
+    573
+  ],
+  "second_prize_draws": [
+    747,
+    569,
+    551,
+    521,
+    491,
+    358
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

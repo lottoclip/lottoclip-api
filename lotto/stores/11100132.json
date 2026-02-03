@@ -1,0 +1,26 @@
+{
+  "store_id": "11100132",
+  "name": "잭팟 복권방",
+  "address": "서울 동대문구  회기로 171 1층",
+  "phone": null,
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.584409,
+  "longitude": 127.047601,
+  "updated_at": "2026-02-03T18:19:49.780281",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1079,
+    788,
+    774,
+    732,
+    524,
+    387,
+    379
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 7
+}

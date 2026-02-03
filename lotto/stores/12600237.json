@@ -1,7 +1,7 @@
 {
   "store_id": "12600237",
   "name": "국세청앞센타",
-  "address": "부산 동구 조방로 43 ",
+  "address": "부산 동구  조방로 43 하나은행 앞 가로판매점 1층(범일동)",
   "phone": "051-467-4993",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 35.140309,
   "longitude": 129.06041,
-  "updated_at": "2026-01-12T11:25:55.542337"
+  "updated_at": "2026-02-03T18:28:12.339625",
+  "first_prize_draws": [
+    617,
+    507
+  ],
+  "second_prize_draws": [
+    1185,
+    1057,
+    1046,
+    863,
+    808
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 5
 }

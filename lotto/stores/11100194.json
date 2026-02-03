@@ -1,7 +1,7 @@
 {
   "store_id": "11100194",
   "name": "복권명당",
-  "address": "서울 중랑구 면목로 362 ",
+  "address": "서울 중랑구  면목로 362 1층",
   "phone": "02-434-2446",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,26 @@
   ],
   "latitude": 37.58428,
   "longitude": 127.088584,
-  "updated_at": "2026-01-12T11:39:48.234291"
+  "updated_at": "2026-02-03T18:29:31.364338",
+  "first_prize_draws": [
+    857
+  ],
+  "second_prize_draws": [
+    1203,
+    1154,
+    1076,
+    960,
+    948,
+    931,
+    923,
+    778,
+    678,
+    460,
+    421,
+    417,
+    386,
+    381
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 14
 }

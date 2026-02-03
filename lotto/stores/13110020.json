@@ -1,7 +1,7 @@
 {
   "store_id": "13110020",
   "name": "지에스25(울산우정선경점)로또",
-  "address": "울산 중구 우정3길 12 ",
+  "address": "울산 중구  우정3길 12 ",
   "phone": "070-4806-4527",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 35.559051,
   "longitude": 129.311269,
-  "updated_at": "2026-01-12T12:01:51.471726"
+  "updated_at": "2026-02-03T18:29:31.494048",
+  "first_prize_draws": [
+    1203,
+    395
+  ],
+  "second_prize_draws": [
+    617
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 1
 }

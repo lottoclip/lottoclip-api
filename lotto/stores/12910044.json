@@ -1,7 +1,7 @@
 {
   "store_id": "12910044",
   "name": "씽크로또",
-  "address": "광주 서구 시청로 6 ",
+  "address": "광주 서구  시청로 6 세븐일레븐편의점",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 35.148981,
   "longitude": 126.852145,
-  "updated_at": "2026-01-12T11:23:44.642550"
+  "updated_at": "2026-02-03T18:28:30.002804",
+  "first_prize_draws": [
+    581
+  ],
+  "second_prize_draws": [
+    1189,
+    961,
+    929,
+    368
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

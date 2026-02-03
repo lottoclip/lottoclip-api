@@ -1,12 +1,27 @@
 {
   "store_id": "11110375",
   "name": "대박로또",
-  "address": "서울 영등포구 영등포로53길 17 ",
+  "address": "서울 영등포구  영등포로53길 17 1층 (영등포동2가)",
   "phone": "02-2635-8889",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.519872,
   "longitude": 126.910646,
-  "updated_at": "2026-01-12T11:08:50.304570"
+  "updated_at": "2026-02-03T18:28:16.669263",
+  "first_prize_draws": [
+    332
+  ],
+  "second_prize_draws": [
+    1186,
+    830,
+    742,
+    650,
+    573,
+    550,
+    473,
+    300
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

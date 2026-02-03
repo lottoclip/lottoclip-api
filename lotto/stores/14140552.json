@@ -1,12 +1,21 @@
 {
   "store_id": "14140552",
-  "name": "로또",
-  "address": "경기 고양시 일산동구 무궁화로 20-18 ",
+  "name": "아르파",
+  "address": "경기 고양시 일산동구  무궁화로 20-18 101호",
   "phone": null,
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.661272,
   "longitude": 126.767282,
-  "updated_at": "2026-01-12T11:47:44.662282"
+  "updated_at": "2026-02-03T18:21:03.651502",
+  "first_prize_draws": [
+    990
+  ],
+  "second_prize_draws": [
+    1096,
+    1036
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14100714",
   "name": "삼성통신",
-  "address": "경기 구리시 검배로 89 ",
+  "address": "경기 구리시  검배로 89 ",
   "phone": "031-552-2201",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 37.595184,
   "longitude": 127.148012,
-  "updated_at": "2026-01-12T11:20:43.768047"
+  "updated_at": "2026-02-03T18:24:00.920851",
+  "first_prize_draws": [
+    528
+  ],
+  "second_prize_draws": [
+    1134,
+    906,
+    665,
+    573,
+    356
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

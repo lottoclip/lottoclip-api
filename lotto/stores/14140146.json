@@ -1,7 +1,7 @@
 {
   "store_id": "14140146",
   "name": "오산제일복권",
-  "address": "경기 오산시 갈곶동(대원동) 126-17 101호",
+  "address": "경기 오산시  오산로 273 1동 104호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 37.15138,
   "longitude": 127.06849,
-  "updated_at": "2026-01-12T11:36:13.589441"
+  "updated_at": "2026-02-03T18:23:56.750852",
+  "first_prize_draws": [
+    789
+  ],
+  "second_prize_draws": [
+    1133,
+    1039,
+    932,
+    832,
+    802
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

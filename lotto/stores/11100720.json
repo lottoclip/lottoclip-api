@@ -1,0 +1,30 @@
+{
+  "store_id": "11100720",
+  "name": "해피데이마트",
+  "address": "서울 송파구  동남로6길 14 1층",
+  "phone": "02-409-9792",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.489029,
+  "longitude": 127.124651,
+  "updated_at": "2026-02-03T18:25:55.184067",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1157,
+    1065,
+    1017,
+    991,
+    843,
+    830,
+    718,
+    697,
+    552,
+    547,
+    415
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 11
+}

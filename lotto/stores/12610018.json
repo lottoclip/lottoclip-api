@@ -1,7 +1,7 @@
 {
   "store_id": "12610018",
   "name": "로또복권방",
-  "address": "부산 사하구 낙동대로535번길 70 ",
+  "address": "부산 사하구  낙동대로535번길 70 ",
   "phone": "051-204-7597",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 35.111436,
   "longitude": 128.960827,
-  "updated_at": "2026-01-12T11:17:42.251729"
+  "updated_at": "2026-02-03T18:18:11.991939",
+  "first_prize_draws": [
+    475
+  ],
+  "second_prize_draws": [
+    1060,
+    1037,
+    1004,
+    946,
+    885,
+    802,
+    746,
+    411
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

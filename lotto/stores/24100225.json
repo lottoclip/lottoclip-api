@@ -1,7 +1,7 @@
 {
   "store_id": "24100225",
-  "name": "GS25(구리공원)",
-  "address": "경기 구리시 수택동  876",
+  "name": "GS25(구리공원점)",
+  "address": "경기 구리시 수택동 876 ",
   "phone": "031-568-2672",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,17 @@
   ],
   "latitude": 37.586743,
   "longitude": 127.139764,
-  "updated_at": "2026-01-12T11:21:24.002685"
+  "updated_at": "2026-02-03T18:05:41.722037",
+  "first_prize_draws": [
+    541
+  ],
+  "second_prize_draws": [
+    908,
+    859,
+    788,
+    733,
+    649
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

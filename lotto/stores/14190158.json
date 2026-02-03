@@ -1,7 +1,7 @@
 {
   "store_id": "14190158",
   "name": "드림복권전문점",
-  "address": "경기 평택시 평남로 651 ",
+  "address": "경기 평택시  평남로 651 ",
   "phone": "031-652-6450",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,27 @@
   ],
   "latitude": 36.991935,
   "longitude": 127.106932,
-  "updated_at": "2026-01-12T12:00:32.327555"
+  "updated_at": "2026-02-03T18:28:25.663253",
+  "first_prize_draws": [
+    1188,
+    1041,
+    857
+  ],
+  "second_prize_draws": [
+    1164,
+    1159,
+    1103,
+    1019,
+    992,
+    805,
+    741,
+    714,
+    652,
+    645,
+    521,
+    495,
+    474
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 13
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "11130036",
   "name": "대박로또",
-  "address": "서울 관악구 봉천동(성현동) 41-839 102호",
+  "address": "서울 관악구  은천로 177 103호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,16 @@
   ],
   "latitude": 37.48605,
   "longitude": 126.954897,
-  "updated_at": "2026-01-12T11:37:48.902040"
+  "updated_at": "2026-02-03T18:15:35.870609",
+  "first_prize_draws": [
+    819
+  ],
+  "second_prize_draws": [
+    1029,
+    862,
+    775,
+    753
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

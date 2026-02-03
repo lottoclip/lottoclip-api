@@ -1,7 +1,7 @@
 {
   "store_id": "11100793",
   "name": "구청앞로또명당",
-  "address": "서울 강북구 수유3동 191-58번지 ",
+  "address": "서울 강북구  한천로139길 9 ",
   "phone": "02-998-1293",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 37.639616,
   "longitude": 127.026298,
-  "updated_at": "2026-01-12T11:35:04.708207"
+  "updated_at": "2026-02-03T18:10:18.401262",
+  "first_prize_draws": [
+    772,
+    505
+  ],
+  "second_prize_draws": [
+    963,
+    891,
+    857,
+    838,
+    714,
+    509,
+    499,
+    398,
+    334,
+    332
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 10
 }

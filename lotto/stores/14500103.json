@@ -1,7 +1,7 @@
 {
   "store_id": "14500103",
   "name": "G(금정)마트휴게실",
-  "address": "전북 군산시 조촌로 66 ",
+  "address": "전북 군산시  조촌로 66 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,28 @@
   ],
   "latitude": 35.969857,
   "longitude": 126.738065,
-  "updated_at": "2026-01-12T11:52:12.204308"
+  "updated_at": "2026-02-03T18:23:30.497370",
+  "first_prize_draws": [
+    1060,
+    968,
+    620
+  ],
+  "second_prize_draws": [
+    1127,
+    1107,
+    1101,
+    1084,
+    1074,
+    1001,
+    952,
+    788,
+    755,
+    739,
+    709,
+    701,
+    568,
+    522
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 14
 }

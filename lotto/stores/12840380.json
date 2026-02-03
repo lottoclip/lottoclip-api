@@ -1,7 +1,7 @@
 {
   "store_id": "12840380",
   "name": "복덩이 로또",
-  "address": "인천 연수구 함박뫼로12번길 1 ",
+  "address": "인천 연수구  함박뫼로12번길 1 102호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 37.418626,
   "longitude": 126.671547,
-  "updated_at": "2026-01-12T12:01:13.640580"
+  "updated_at": "2026-02-03T18:29:01.161206",
+  "first_prize_draws": [
+    1196
+  ],
+  "second_prize_draws": [
+    1127,
+    1109,
+    1067
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

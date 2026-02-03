@@ -1,7 +1,7 @@
 {
   "store_id": "11190123",
   "name": "돈다발복권방",
-  "address": "서울 종로구 숭인동  288-1번지",
+  "address": "서울 종로구  종로 352 ",
   "phone": "02-2237-7789",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 37.57309,
   "longitude": 127.016661,
-  "updated_at": "2026-01-12T11:26:14.409381"
+  "updated_at": "2026-02-03T18:15:06.275706",
+  "first_prize_draws": [
+    623
+  ],
+  "second_prize_draws": [
+    1022,
+    996,
+    977,
+    929,
+    817,
+    758,
+    664,
+    348,
+    313
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 9
 }

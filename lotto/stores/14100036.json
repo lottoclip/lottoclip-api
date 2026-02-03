@@ -1,7 +1,7 @@
 {
   "store_id": "14100036",
   "name": "하이로또복권방",
-  "address": "경기 안양시 동안구 관악대로339번길 7 ",
+  "address": "경기 안양시 동안구  관악대로339번길 7 ",
   "phone": "031-385-1780",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 37.404187,
   "longitude": 126.960157,
-  "updated_at": "2026-01-12T11:55:11.345285"
+  "updated_at": "2026-02-03T18:21:28.976416",
+  "first_prize_draws": [
+    1102,
+    685,
+    305
+  ],
+  "second_prize_draws": [
+    1044,
+    1028,
+    1027,
+    894,
+    850,
+    740,
+    688,
+    626,
+    386
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 9
 }

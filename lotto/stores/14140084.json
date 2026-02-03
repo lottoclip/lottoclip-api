@@ -1,7 +1,7 @@
 {
   "store_id": "14140084",
   "name": "행운복권방",
-  "address": "경기 평택시 서정남로 131 ",
+  "address": "경기 평택시  서정남로 131 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,14 @@
   ],
   "latitude": 37.060968,
   "longitude": 127.053937,
-  "updated_at": "2026-01-12T11:38:39.184032"
+  "updated_at": "2026-02-03T18:12:21.323725",
+  "first_prize_draws": [
+    835
+  ],
+  "second_prize_draws": [
+    987,
+    897
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

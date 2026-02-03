@@ -1,7 +1,7 @@
 {
   "store_id": "14790006",
   "name": "복권나라",
-  "address": "경북 경산시 경안로 79 ",
+  "address": "경북 경산시  경안로 79 ",
   "phone": "053-813-9695",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 35.814622,
   "longitude": 128.738672,
-  "updated_at": "2026-01-12T11:05:44.452954"
+  "updated_at": "2026-02-03T18:11:12.632338",
+  "first_prize_draws": [
+    281
+  ],
+  "second_prize_draws": [
+    975,
+    817,
+    804,
+    667,
+    595
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "12640558",
   "name": "대박로또",
-  "address": "부산 북구 낙동대로1780번길 78 ",
+  "address": "부산 북구  낙동대로1780번길 78 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 35.206634,
   "longitude": 129.004153,
-  "updated_at": "2026-01-12T11:58:43.105453"
+  "updated_at": "2026-02-03T18:25:42.379071",
+  "first_prize_draws": [
+    1154
+  ],
+  "second_prize_draws": [
+    1148
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14640105",
   "name": "왕대박 복권방",
-  "address": "전남 나주시 문화로 226 ",
+  "address": "전남 나주시  문화로 226 1층 102호(빛가람동 키움해피라움2차)",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 35.01894,
   "longitude": 126.78494,
-  "updated_at": "2026-01-12T11:53:18.311197"
+  "updated_at": "2026-02-03T18:26:49.988516",
+  "first_prize_draws": [
+    1076
+  ],
+  "second_prize_draws": [
+    1166,
+    1099
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "12800133",
   "name": "프리마트",
-  "address": "인천 남동구 석산로 9 ",
+  "address": "인천 남동구  주안로 231 ",
   "phone": "032-435-5177",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.464088,
   "longitude": 126.694754,
-  "updated_at": "2026-01-12T11:55:04.801011"
+  "updated_at": "2026-02-03T18:21:20.474191",
+  "first_prize_draws": [
+    1100
+  ],
+  "second_prize_draws": [
+    1038,
+    1015,
+    994,
+    969,
+    765,
+    748,
+    657
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

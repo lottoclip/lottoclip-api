@@ -1,7 +1,7 @@
 {
   "store_id": "11101264",
-  "name": "라스정보통신",
-  "address": "서울 강북구 수유동  256-22  미니스톱내",
+  "name": "리스정보통신",
+  "address": "서울 강북구 수유동  256-22번지",
   "phone": "02-996-0365",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,13 @@
   ],
   "latitude": 37.646266,
   "longitude": 127.008162,
-  "updated_at": "2026-01-12T11:04:59.064583"
+  "updated_at": "2026-02-03T17:31:02.883472",
+  "first_prize_draws": [
+    266
+  ],
+  "second_prize_draws": [
+    475
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

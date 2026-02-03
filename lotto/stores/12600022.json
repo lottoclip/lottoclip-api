@@ -1,7 +1,7 @@
 {
   "store_id": "12600022",
   "name": "슈퍼복권나라",
-  "address": "부산 부산진구 범일로142번길 31 ",
+  "address": "부산 부산진구  범일로142번길 31 1층 복권방",
   "phone": "051-644-4903",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 35.142836,
   "longitude": 129.0611,
-  "updated_at": "2026-01-12T11:39:54.440789"
+  "updated_at": "2026-02-03T18:26:41.000252",
+  "first_prize_draws": [
+    859,
+    613
+  ],
+  "second_prize_draws": [
+    1164,
+    1083,
+    1064,
+    1025,
+    908,
+    874,
+    833,
+    818,
+    684,
+    603
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 10
 }

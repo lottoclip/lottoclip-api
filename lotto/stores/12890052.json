@@ -1,7 +1,7 @@
 {
   "store_id": "12890052",
   "name": "로또생삼겹",
-  "address": "인천 남동구 논고개로 77 ",
+  "address": "인천 남동구  논고개로 77 ",
   "phone": "032-441-9991",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 37.398409,
   "longitude": 126.726234,
-  "updated_at": "2026-01-12T11:59:28.042470"
+  "updated_at": "2026-02-03T18:26:58.084016",
+  "first_prize_draws": [
+    1168,
+    1134,
+    739
+  ],
+  "second_prize_draws": [
+    1025,
+    988,
+    978,
+    806,
+    798,
+    721,
+    268
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 7
 }

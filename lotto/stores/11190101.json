@@ -1,12 +1,35 @@
 {
   "store_id": "11190101",
   "name": "복드림",
-  "address": "서울 영등포구 양평로 117 ",
+  "address": "서울 영등포구  양평로 117 ",
   "phone": "02-2678-3159",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.537376,
   "longitude": 126.894465,
-  "updated_at": "2026-01-12T11:48:09.829443"
+  "updated_at": "2026-02-03T18:27:29.270861",
+  "first_prize_draws": [
+    998,
+    504
+  ],
+  "second_prize_draws": [
+    1175,
+    1156,
+    1112,
+    1092,
+    915,
+    899,
+    860,
+    810,
+    731,
+    656,
+    495,
+    450,
+    423,
+    377,
+    353
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 15
 }

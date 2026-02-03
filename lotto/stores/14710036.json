@@ -1,7 +1,7 @@
 {
   "store_id": "14710036",
   "name": "진우복권명당",
-  "address": "경북 경산시 경산로15길 1-11 ",
+  "address": "경북 경산시  경산로15길 1-11 ",
   "phone": "053-815-6317",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 35.815309,
   "longitude": 128.731194,
-  "updated_at": "2026-01-12T11:54:52.071293"
+  "updated_at": "2026-02-03T18:22:37.316440",
+  "first_prize_draws": [
+    1096,
+    834
+  ],
+  "second_prize_draws": [
+    1118,
+    977,
+    953
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 3
 }

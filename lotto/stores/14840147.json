@@ -1,7 +1,7 @@
 {
   "store_id": "14840147",
   "name": "로또 봉하점",
-  "address": "경남 김해시 봉하로 24 ",
+  "address": "경남 김해시  봉하로 24 CU편의점 좌측 복권판매점",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 35.314568,
   "longitude": 128.760368,
-  "updated_at": "2026-01-12T11:55:33.800605"
+  "updated_at": "2026-02-03T18:27:25.356718",
+  "first_prize_draws": [
+    1109
+  ],
+  "second_prize_draws": [
+    1174,
+    1132,
+    1128,
+    1114,
+    1005,
+    987,
+    972
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "13100034",
   "name": "송정마트",
-  "address": "울산 동구 월봉4길 29 ",
+  "address": "울산 동구  월봉4길 29 ",
   "phone": "052-235-3817",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 35.489582,
   "longitude": 129.418431,
-  "updated_at": "2026-01-12T11:31:57.903131"
+  "updated_at": "2026-02-03T18:21:20.555236",
+  "first_prize_draws": [
+    718
+  ],
+  "second_prize_draws": [
+    1100,
+    746
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

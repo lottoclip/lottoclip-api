@@ -1,0 +1,29 @@
+{
+  "store_id": "11100030",
+  "name": "노다지복권방",
+  "address": "서울 성북구  화랑로13길 20 ",
+  "phone": "02-941-1606",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.604344,
+  "longitude": 127.042499,
+  "updated_at": "2026-02-03T18:28:52.337601",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1194,
+    1163,
+    1065,
+    1020,
+    953,
+    921,
+    860,
+    508,
+    455,
+    330
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 10
+}

@@ -1,7 +1,7 @@
 {
   "store_id": "14410041",
   "name": "로또복권2공단점",
-  "address": "충남 천안시 서북구 차암동 12-3",
+  "address": "충남 천안시 서북구 차암동 12-3번지 공단매점내",
   "phone": "041-621-5622",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,16 @@
   ],
   "latitude": 36.854878,
   "longitude": 127.120188,
-  "updated_at": "2026-01-12T11:14:49.251760"
+  "updated_at": "2026-02-03T17:54:58.648873",
+  "first_prize_draws": [
+    429
+  ],
+  "second_prize_draws": [
+    774,
+    647,
+    578,
+    550
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

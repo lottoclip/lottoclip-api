@@ -1,7 +1,7 @@
 {
   "store_id": "13000073",
   "name": "대전하이퍼",
-  "address": "대전 중구 보문산로 76 ",
+  "address": "대전 중구  보문산로 76 ",
   "phone": "042-585-4817",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 36.305204,
   "longitude": 127.388824,
-  "updated_at": "2026-01-12T11:58:30.106521"
+  "updated_at": "2026-02-03T18:25:24.451016",
+  "first_prize_draws": [
+    1150,
+    528
+  ],
+  "second_prize_draws": [
+    929,
+    729,
+    432
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 3
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "11190183",
   "name": "제일식품",
-  "address": "서울 서대문구 증가로 143 ",
+  "address": "서울 서대문구  증가로 143 ",
   "phone": "02-303-9492",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.577469,
   "longitude": 126.921694,
-  "updated_at": "2026-01-12T11:58:36.577267"
+  "updated_at": "2026-02-03T18:28:34.446231",
+  "first_prize_draws": [
+    1152,
+    1109,
+    425
+  ],
+  "second_prize_draws": [
+    1190,
+    1058,
+    1042,
+    897,
+    397
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 5
 }

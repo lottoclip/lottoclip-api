@@ -1,7 +1,7 @@
 {
   "store_id": "14120148",
   "name": "동탄복권방",
-  "address": "경기 화성시 동탄순환대로 702 ",
+  "address": "경기 화성시  동탄순환대로 702 성산타워 B동 101호",
   "phone": "031-373-7222",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 37.207352,
   "longitude": 127.11097,
-  "updated_at": "2026-01-12T11:35:17.200232"
+  "updated_at": "2026-02-03T18:19:58.842511",
+  "first_prize_draws": [
+    776
+  ],
+  "second_prize_draws": [
+    1081,
+    1078,
+    1069,
+    1020,
+    838,
+    785
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

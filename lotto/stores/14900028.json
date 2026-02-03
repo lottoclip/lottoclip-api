@@ -1,7 +1,7 @@
 {
   "store_id": "14900028",
   "name": "세븐",
-  "address": "제주 제주시 동광로 142 ",
+  "address": "제주 제주시  동광로 142 ",
   "phone": "064-723-7770",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 33.508164,
   "longitude": 126.54173,
-  "updated_at": "2026-01-12T11:17:10.989869"
+  "updated_at": "2026-02-03T18:17:59.385637",
+  "first_prize_draws": [
+    465
+  ],
+  "second_prize_draws": [
+    1057,
+    979,
+    916,
+    901,
+    864,
+    707,
+    448,
+    401
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

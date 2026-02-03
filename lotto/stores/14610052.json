@@ -1,7 +1,7 @@
 {
   "store_id": "14610052",
   "name": "금전산복권방",
-  "address": "전남 순천시 연향1로 17-1 ",
+  "address": "전남 순천시  연향1로 17-1 금전산복권방",
   "phone": "061-725-9636",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 34.945038,
   "longitude": 127.516355,
-  "updated_at": "2026-01-12T11:54:42.743682"
+  "updated_at": "2026-02-03T18:21:16.485794",
+  "first_prize_draws": [
+    1093
+  ],
+  "second_prize_draws": [
+    1099,
+    1097,
+    1009,
+    455,
+    431,
+    417,
+    380,
+    359,
+    277
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 9
 }

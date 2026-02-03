@@ -1,7 +1,7 @@
 {
   "store_id": "13000082",
   "name": "장터슈퍼",
-  "address": "대전 동구 대전로 663-2 ",
+  "address": "대전 동구  대전로 663-2 ",
   "phone": "042-272-1654",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 36.319734,
   "longitude": 127.43849,
-  "updated_at": "2026-01-12T11:39:23.001629"
+  "updated_at": "2026-02-03T18:09:08.963927",
+  "first_prize_draws": [
+    849
+  ],
+  "second_prize_draws": [
+    948,
+    797,
+    311,
+    293,
+    287
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

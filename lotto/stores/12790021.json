@@ -1,7 +1,7 @@
 {
   "store_id": "12790021",
   "name": "다사복권방",
-  "address": "대구 달성군 옥포면  간경리    848번지",
+  "address": "대구 달성군 옥포면 간경리 868-1 대구 달성군 옥포면 비슬로 2283  1층",
   "phone": "053-000-0000",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,15 @@
   ],
   "latitude": 35.790442,
   "longitude": 128.470895,
-  "updated_at": "2026-01-12T11:18:16.059178"
+  "updated_at": "2026-02-03T18:00:22.623422",
+  "first_prize_draws": [
+    486
+  ],
+  "second_prize_draws": [
+    842,
+    752,
+    661
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

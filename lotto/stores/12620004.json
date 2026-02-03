@@ -1,7 +1,7 @@
 {
   "store_id": "12620004",
   "name": "돼지복권명당",
-  "address": "부산 기장군 해맞이로 365-1 ",
+  "address": "부산 기장군  해맞이로 365-1 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 35.326549,
   "longitude": 129.276677,
-  "updated_at": "2026-01-12T11:59:53.869359"
+  "updated_at": "2026-02-03T18:28:25.266033",
+  "first_prize_draws": [
+    1176,
+    1152,
+    969
+  ],
+  "second_prize_draws": [
+    1188,
+    1158,
+    1153,
+    1091,
+    932,
+    899,
+    735
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 7
 }

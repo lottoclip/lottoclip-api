@@ -1,7 +1,7 @@
 {
   "store_id": "11140108",
   "name": "행운복권",
-  "address": "서울 영등포구 도신로65길 2 ",
+  "address": "서울 영등포구  도신로65길 2 1층(신길동)",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 37.512916,
   "longitude": 126.917453,
-  "updated_at": "2026-01-12T12:00:48.550746"
+  "updated_at": "2026-02-03T18:28:47.972525",
+  "first_prize_draws": [
+    1193
+  ],
+  "second_prize_draws": [
+    1160,
+    1085
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

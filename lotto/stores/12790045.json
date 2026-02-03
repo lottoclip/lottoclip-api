@@ -1,7 +1,7 @@
 {
   "store_id": "12790045",
   "name": "로또복권",
-  "address": "대구 북구 대현로 63 ",
+  "address": "대구 북구  대현로 63 (대현동)1층",
   "phone": "053-953-0645",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 35.884981,
   "longitude": 128.604963,
-  "updated_at": "2026-01-12T11:56:01.262710"
+  "updated_at": "2026-02-03T18:22:15.866439",
+  "first_prize_draws": [
+    1113
+  ],
+  "second_prize_draws": [
+    868,
+    725,
+    702,
+    700,
+    649,
+    641
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

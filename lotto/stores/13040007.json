@@ -1,7 +1,7 @@
 {
   "store_id": "13040007",
   "name": "돈벼락맞는곳",
-  "address": "대전 서구 복수남로 16 ",
+  "address": "대전 서구  복수남로 16 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 36.297783,
   "longitude": 127.379573,
-  "updated_at": "2026-01-12T12:00:16.035061"
+  "updated_at": "2026-02-03T18:28:03.638017",
+  "first_prize_draws": [
+    1183,
+    1045,
+    1000
+  ],
+  "second_prize_draws": [
+    1165,
+    1121,
+    1100,
+    1092,
+    1075,
+    1057,
+    1002,
+    980,
+    761
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 9
 }

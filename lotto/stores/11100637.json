@@ -1,12 +1,24 @@
 {
   "store_id": "11100637",
-  "name": "GS25 동작양지",
-  "address": "서울 동작구 상도동 365-1번지 ",
+  "name": "CU 장승배기역점",
+  "address": "서울 동작구 노량진동(노량진제2동) 311-31 ",
   "phone": "02-823-2871",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.50203,
   "longitude": 126.94469,
-  "updated_at": "2026-01-12T11:30:29.460957"
+  "updated_at": "2026-02-03T17:59:51.907710",
+  "first_prize_draws": [
+    690,
+    560
+  ],
+  "second_prize_draws": [
+    835,
+    698,
+    436,
+    270
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 4
 }

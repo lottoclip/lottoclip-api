@@ -1,7 +1,7 @@
 {
   "store_id": "14340082",
   "name": "21세기로또",
-  "address": "충북 제천시 의림대로 234-2 ",
+  "address": "충북 제천시  의림대로 234-2 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 37.148175,
   "longitude": 128.214666,
-  "updated_at": "2026-01-12T11:47:09.980319"
+  "updated_at": "2026-02-03T18:28:25.707141",
+  "first_prize_draws": [
+    979
+  ],
+  "second_prize_draws": [
+    1188,
+    1090,
+    1036
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

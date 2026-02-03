@@ -1,7 +1,7 @@
 {
   "store_id": "12910021",
-  "name": "하나마트(하남4번로)",
-  "address": "광주 광산구 하남산단4번로 172 ",
+  "name": "로또카페",
+  "address": "광주 광산구  하남산단4번로 172 로또카페",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 35.19074,
   "longitude": 126.80882,
-  "updated_at": "2026-01-12T11:38:29.598158"
+  "updated_at": "2026-02-03T18:22:07.562565",
+  "first_prize_draws": [
+    832,
+    720
+  ],
+  "second_prize_draws": [
+    1111,
+    1062,
+    995,
+    964,
+    784,
+    727,
+    702,
+    683,
+    673,
+    660,
+    498
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 11
 }

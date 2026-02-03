@@ -1,7 +1,7 @@
 {
   "store_id": "11100228",
   "name": "포인트",
-  "address": "서울 강동구 올림픽로 677 ",
+  "address": "서울 강동구  올림픽로 677 북쪽 코너 점포 1칸",
   "phone": "02-484-8952",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.541997,
   "longitude": 127.124312,
-  "updated_at": "2026-01-12T11:40:57.546265"
+  "updated_at": "2026-02-03T18:27:50.815078",
+  "first_prize_draws": [
+    879
+  ],
+  "second_prize_draws": [
+    1180,
+    1110,
+    1071,
+    1003,
+    830,
+    792,
+    395
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

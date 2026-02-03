@@ -1,7 +1,7 @@
 {
   "store_id": "14130172",
   "name": "행운Cafe",
-  "address": "경기 김포시 사우동 928 제1층 112호",
+  "address": "경기 김포시 사우동 924 105호",
   "phone": "070-5103-9688",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,14 @@
   ],
   "latitude": 37.647548,
   "longitude": 126.671556,
-  "updated_at": "2026-01-12T11:32:20.923736"
+  "updated_at": "2026-02-03T17:58:47.714243",
+  "first_prize_draws": [
+    725
+  ],
+  "second_prize_draws": [
+    822,
+    752
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

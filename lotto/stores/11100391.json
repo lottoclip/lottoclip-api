@@ -1,7 +1,7 @@
 {
   "store_id": "11100391",
   "name": "무지개슈퍼",
-  "address": "서울 영등포구 영등포로 379-1 ",
+  "address": "서울 영등포구  영등포로 379-1 (신길동)",
   "phone": "02-842-2910",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 37.513967,
   "longitude": 126.920417,
-  "updated_at": "2026-01-12T11:34:55.414045"
+  "updated_at": "2026-02-03T18:25:11.014598",
+  "first_prize_draws": [
+    769
+  ],
+  "second_prize_draws": [
+    1147,
+    891,
+    680
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

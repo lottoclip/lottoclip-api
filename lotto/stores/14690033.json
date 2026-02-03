@@ -1,7 +1,7 @@
 {
   "store_id": "14690033",
   "name": "씨유 목포세진점",
-  "address": "전남 목포시 해안로249번길 17 ",
+  "address": "전남 목포시  해안로249번길 17 CU편의점",
   "phone": "061-243-0346",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 34.787647,
   "longitude": 126.38714,
-  "updated_at": "2026-01-12T11:49:40.962417"
+  "updated_at": "2026-02-03T18:25:11.378292",
+  "first_prize_draws": [
+    1022,
+    779
+  ],
+  "second_prize_draws": [
+    1147,
+    1134,
+    1097,
+    594,
+    434,
+    319,
+    279
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 7
 }

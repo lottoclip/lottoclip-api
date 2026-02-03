@@ -1,7 +1,7 @@
 {
   "store_id": "14110427",
   "name": "로또판매선부점",
-  "address": "경기 안산시 단원구 선부광장로 27 ",
+  "address": "경기 안산시 단원구  선부광장로 27 122-2호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,25 @@
   ],
   "latitude": 37.33619,
   "longitude": 126.81017,
-  "updated_at": "2026-01-12T12:00:38.695338"
+  "updated_at": "2026-02-03T18:28:34.845860",
+  "first_prize_draws": [
+    1190,
+    1162,
+    583
+  ],
+  "second_prize_draws": [
+    1189,
+    1141,
+    1087,
+    1023,
+    997,
+    969,
+    926,
+    883,
+    819,
+    743,
+    682
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 11
 }

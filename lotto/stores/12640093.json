@@ -1,7 +1,7 @@
 {
   "store_id": "12640093",
   "name": "해바라기 복권방",
-  "address": "부산 기장군 차성동로25번길 37 ",
+  "address": "부산 기장군  차성동로25번길 37 가동 100호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 35.24015,
   "longitude": 129.214432,
-  "updated_at": "2026-01-12T11:59:47.219307"
+  "updated_at": "2026-02-03T18:27:24.807559",
+  "first_prize_draws": [
+    1174
+  ],
+  "second_prize_draws": [
+    1057
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "12610221",
   "name": "나우리",
-  "address": "부산 연제구 연산동  731-7 1층일부",
+  "address": "부산 연제구 연산동(연산제2동) 794-1 GS25편의점 내",
   "phone": "051-867-1849",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,14 @@
   ],
   "latitude": 35.178192,
   "longitude": 129.082543,
-  "updated_at": "2026-01-12T11:13:04.043954"
+  "updated_at": "2026-02-03T18:00:40.558868",
+  "first_prize_draws": [
+    400
+  ],
+  "second_prize_draws": [
+    846,
+    614
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

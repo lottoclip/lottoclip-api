@@ -1,7 +1,7 @@
 {
   "store_id": "14400056",
-  "name": "왕대박천하명당",
-  "address": "충남 천안시 동남구 광풍로 1767 ",
+  "name": "삼일공사(왕대박천하명당)",
+  "address": "충남 천안시 동남구  광풍로 1767 1층 다호",
   "phone": "041-579-4683",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 36.776568,
   "longitude": 127.143021,
-  "updated_at": "2026-01-12T11:32:30.487164"
+  "updated_at": "2026-02-03T18:19:04.177029",
+  "first_prize_draws": [
+    728
+  ],
+  "second_prize_draws": [
+    1072,
+    877,
+    862,
+    853,
+    789,
+    777,
+    776,
+    741,
+    296
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 9
 }

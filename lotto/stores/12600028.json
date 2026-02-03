@@ -1,7 +1,7 @@
 {
   "store_id": "12600028",
   "name": "노다지복권방",
-  "address": "부산 중구 동광동5가  16번지",
+  "address": "부산 중구 동광동5가(동광동) 16-251 ",
   "phone": "051-442-3121",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,14 @@
   ],
   "latitude": 35.107333,
   "longitude": 129.033224,
-  "updated_at": "2026-01-12T11:29:20.895020"
+  "updated_at": "2026-02-03T17:59:19.183489",
+  "first_prize_draws": [
+    673
+  ],
+  "second_prize_draws": [
+    828,
+    322
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

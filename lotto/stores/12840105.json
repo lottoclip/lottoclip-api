@@ -1,7 +1,7 @@
 {
   "store_id": "12840105",
   "name": "로또까페",
-  "address": "인천 계양구 길마로 35 ",
+  "address": "인천 계양구  길마로 35 1층 102호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 37.534029,
   "longitude": 126.70959,
-  "updated_at": "2026-01-12T12:01:48.038085"
+  "updated_at": "2026-02-03T18:29:26.765939",
+  "first_prize_draws": [
+    1202,
+    938
+  ],
+  "second_prize_draws": [
+    1127,
+    1039,
+    1023
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 3
 }

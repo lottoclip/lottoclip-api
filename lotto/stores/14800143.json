@@ -1,7 +1,7 @@
 {
   "store_id": "14800143",
   "name": "폭스일레븐(창원점)",
-  "address": "경남 창원시 성산구 가양로136번길 14 ",
+  "address": "경남 창원시 성산구  가양로136번길 14 대양빌딩102호",
   "phone": "055-289-7677",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 35.208365,
   "longitude": 128.708092,
-  "updated_at": "2026-01-12T11:48:09.902460"
+  "updated_at": "2026-02-03T18:27:55.505993",
+  "first_prize_draws": [
+    998
+  ],
+  "second_prize_draws": [
+    1181,
+    1085,
+    1071,
+    1057,
+    1044,
+    888,
+    780,
+    453,
+    435,
+    380
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14140226",
   "name": "행운복권방",
-  "address": "경기 안성시 서동대로 7184 ",
+  "address": "경기 안성시  서동대로 7184 103호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,27 @@
   ],
   "latitude": 37.083485,
   "longitude": 127.448035,
-  "updated_at": "2026-01-12T11:50:28.130627"
+  "updated_at": "2026-02-03T18:28:56.996703",
+  "first_prize_draws": [
+    1037,
+    944,
+    872
+  ],
+  "second_prize_draws": [
+    1195,
+    1175,
+    1089,
+    1065,
+    1057,
+    1049,
+    1048,
+    1008,
+    993,
+    991,
+    915,
+    893,
+    864
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 13
 }

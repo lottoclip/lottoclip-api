@@ -1,7 +1,7 @@
 {
   "store_id": "12610085",
   "name": "희망복권방",
-  "address": "부산 동래구 명장로20번길 26 ",
+  "address": "부산 동래구  명장로20번길 26 ",
   "phone": "051-521-2260",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 35.204822,
   "longitude": 129.101977,
-  "updated_at": "2026-01-12T11:49:21.933750"
+  "updated_at": "2026-02-03T18:21:11.904998",
+  "first_prize_draws": [
+    1016,
+    968
+  ],
+  "second_prize_draws": [
+    1098,
+    897,
+    860,
+    748,
+    648,
+    510,
+    499
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 7
 }

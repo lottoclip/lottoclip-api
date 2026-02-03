@@ -1,7 +1,7 @@
 {
   "store_id": "11100217",
   "name": "복권명당",
-  "address": "서울 동작구 국사봉길 26 ",
+  "address": "서울 동작구  국사봉길 26 ",
   "phone": "02-826-7209",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 37.498107,
   "longitude": 126.929175,
-  "updated_at": "2026-01-12T11:49:25.122629"
+  "updated_at": "2026-02-03T18:16:24.565455",
+  "first_prize_draws": [
+    1017,
+    894,
+    757
+  ],
+  "second_prize_draws": [
+    1040,
+    767,
+    698
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 3
 }

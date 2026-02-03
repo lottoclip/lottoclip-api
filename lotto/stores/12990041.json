@@ -1,7 +1,7 @@
 {
   "store_id": "12990041",
   "name": "황금슈퍼",
-  "address": "광주 북구 동문대로 102 ",
+  "address": "광주 북구  동문대로 102 ",
   "phone": "062-267-3544",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 35.172224,
   "longitude": 126.924817,
-  "updated_at": "2026-01-12T11:42:36.231650"
+  "updated_at": "2026-02-03T18:23:34.593195",
+  "first_prize_draws": [
+    901
+  ],
+  "second_prize_draws": [
+    1128
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

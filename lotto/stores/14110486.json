@@ -1,7 +1,7 @@
 {
   "store_id": "14110486",
   "name": "웃는로또방",
-  "address": "경기 고양시 덕양구 토당로 102 ",
+  "address": "경기 고양시 덕양구  토당로 102 ",
   "phone": "031-974-0187",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.624021,
   "longitude": 126.817686,
-  "updated_at": "2026-01-12T11:48:16.213269"
+  "updated_at": "2026-02-03T18:15:36.006407",
+  "first_prize_draws": [
+    1000
+  ],
+  "second_prize_draws": [
+    1029,
+    949,
+    941,
+    857,
+    652,
+    644,
+    288
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

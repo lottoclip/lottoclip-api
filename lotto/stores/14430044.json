@@ -1,7 +1,7 @@
 {
   "store_id": "14430044",
   "name": "로또당진합덕원룸점",
-  "address": "충남 당진시 미락5길 27-3 ",
+  "address": "충남 당진시  미락5길 27-3 1층 101호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 36.80752,
   "longitude": 126.768425,
-  "updated_at": "2026-01-12T11:55:04.843820"
+  "updated_at": "2026-02-03T18:21:20.686914",
+  "first_prize_draws": [
+    1100,
+    1051
+  ],
+  "second_prize_draws": [
+    1077,
+    1049,
+    1030,
+    979,
+    969,
+    847,
+    822,
+    717
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 8
 }

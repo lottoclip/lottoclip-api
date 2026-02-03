@@ -1,7 +1,7 @@
 {
   "store_id": "11101559",
   "name": "현대서점",
-  "address": "서울 동작구 등용로 127 ",
+  "address": "서울 동작구 대방동 502 103동 2호",
   "phone": "02-814-9389",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 37.513,
   "longitude": 126.931,
-  "updated_at": "2026-01-12T11:22:04.649204"
+  "updated_at": "2026-02-03T17:52:01.384859",
+  "first_prize_draws": [
+    554,
+    385
+  ],
+  "second_prize_draws": [
+    740,
+    684,
+    640
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 3
 }

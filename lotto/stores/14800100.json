@@ -1,7 +1,7 @@
 {
   "store_id": "14800100",
   "name": "산호 복권방",
-  "address": "경남 창원시 마산합포구 합포로 126-1 ",
+  "address": "경남 창원시 마산합포구  합포로 126-1 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 35.209356,
   "longitude": 128.583054,
-  "updated_at": "2026-01-12T11:52:31.447413"
+  "updated_at": "2026-02-03T18:24:22.462164",
+  "first_prize_draws": [
+    1066,
+    679,
+    477
+  ],
+  "second_prize_draws": [
+    1139,
+    1077,
+    1057,
+    1026,
+    821,
+    362
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 6
 }

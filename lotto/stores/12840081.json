@@ -1,7 +1,7 @@
 {
   "store_id": "12840081",
   "name": "가온복권",
-  "address": "인천 서구 서로3로 50 ",
+  "address": "인천 서구  서로3로 50 상가2동B215호(당하동 검단신도시 모아미래도 엘리트파크)",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 37.583227,
   "longitude": 126.70628,
-  "updated_at": "2026-01-12T11:45:17.531455"
+  "updated_at": "2026-02-03T18:23:13.435737",
+  "first_prize_draws": [
+    948
+  ],
+  "second_prize_draws": [
+    1123,
+    1114,
+    1101,
+    1071,
+    1061
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

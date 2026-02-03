@@ -1,12 +1,20 @@
 {
   "store_id": "13240031",
   "name": "CU행운로또 세종디펠리체점",
-  "address": "세종   나성북1로 22 ",
+  "address": "세종   나성북1로 22 CU편의점",
   "phone": null,
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 36.489168,
   "longitude": 127.258988,
-  "updated_at": "2026-01-12T11:50:41.330922"
+  "updated_at": "2026-02-03T18:17:50.250243",
+  "first_prize_draws": [
+    1041
+  ],
+  "second_prize_draws": [
+    1056
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

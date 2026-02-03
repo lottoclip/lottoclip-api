@@ -1,12 +1,24 @@
 {
   "store_id": "14590032",
   "name": "Letsgo복권방",
-  "address": "전북 전주시 완산구 평화로 190 ",
+  "address": "전북 전주시 완산구  평화로 190 ",
   "phone": "063-905-6800",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 35.793425,
   "longitude": 127.136738,
-  "updated_at": "2026-01-12T11:45:11.439596"
+  "updated_at": "2026-02-03T18:17:20.202153",
+  "first_prize_draws": [
+    946,
+    363
+  ],
+  "second_prize_draws": [
+    1049,
+    970,
+    683,
+    620
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 4
 }

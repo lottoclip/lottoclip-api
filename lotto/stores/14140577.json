@@ -1,7 +1,7 @@
 {
   "store_id": "14140577",
   "name": "화전대박복권",
-  "address": "경기 고양시 덕양구 화랑로 33 ",
+  "address": "경기 고양시 덕양구  화랑로 33 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 37.601593,
   "longitude": 126.870295,
-  "updated_at": "2026-01-12T11:46:29.580845"
+  "updated_at": "2026-02-03T18:10:54.836147",
+  "first_prize_draws": [
+    971
+  ],
+  "second_prize_draws": [
+    941
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "11101469",
   "name": "세종장식",
-  "address": "서울 양천구 오목로 204 ",
+  "address": "서울 양천구  오목로 204 ",
   "phone": "02-2696-4536",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 37.525341,
   "longitude": 126.860052,
-  "updated_at": "2026-01-12T11:34:42.739355"
+  "updated_at": "2026-02-03T18:27:42.286216",
+  "first_prize_draws": [
+    765,
+    265
+  ],
+  "second_prize_draws": [
+    1178,
+    1043
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 2
 }

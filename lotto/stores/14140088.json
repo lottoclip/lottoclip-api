@@ -1,7 +1,7 @@
 {
   "store_id": "14140088",
   "name": "로또카페",
-  "address": "경기 평택시 관광특구로 13 ",
+  "address": "경기 평택시 관광특구로 13 1층102호  ",
   "phone": "031-682-8013",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 37.067241,
   "longitude": 127.060533,
-  "updated_at": "2026-01-17T14:08:44.516512"
+  "updated_at": "2026-02-03T18:29:49.033056",
+  "first_prize_draws": [
+    1207,
+    1121,
+    832
+  ],
+  "second_prize_draws": [
+    1080,
+    943,
+    870,
+    764
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 4
 }

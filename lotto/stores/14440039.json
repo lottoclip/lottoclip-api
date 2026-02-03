@@ -1,7 +1,7 @@
 {
   "store_id": "14440039",
   "name": "대박복권",
-  "address": "충남 논산시 계백로 976 ",
+  "address": "충남 논산시  계백로 976 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 36.201918,
   "longitude": 127.086044,
-  "updated_at": "2026-01-12T11:34:42.783898"
+  "updated_at": "2026-02-03T18:12:51.125853",
+  "first_prize_draws": [
+    765
+  ],
+  "second_prize_draws": [
+    994,
+    887,
+    766
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

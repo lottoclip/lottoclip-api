@@ -1,7 +1,7 @@
 {
   "store_id": "12690053",
   "name": "전원레코드",
-  "address": "부산 북구 효열로 226 ",
+  "address": "부산 북구  효열로 226 ",
   "phone": "051-365-0645",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 35.263943,
   "longitude": 129.019954,
-  "updated_at": "2026-01-12T11:58:07.625350"
+  "updated_at": "2026-02-03T18:24:39.049884",
+  "first_prize_draws": [
+    1143,
+    841
+  ],
+  "second_prize_draws": [
+    975,
+    907,
+    715,
+    673,
+    554,
+    536
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 6
 }

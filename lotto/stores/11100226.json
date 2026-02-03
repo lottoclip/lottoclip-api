@@ -1,7 +1,7 @@
 {
   "store_id": "11100226",
   "name": "복권방",
-  "address": "서울 강동구 천호대로176길 10-3 ",
+  "address": "서울 강동구  천호대로176길 10-3 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,30 @@
   ],
   "latitude": 37.533828,
   "longitude": 127.136029,
-  "updated_at": "2026-01-12T11:37:14.311109"
+  "updated_at": "2026-02-03T18:24:17.782820",
+  "first_prize_draws": [
+    808,
+    335
+  ],
+  "second_prize_draws": [
+    1138,
+    978,
+    930,
+    916,
+    905,
+    838,
+    733,
+    707,
+    686,
+    582,
+    575,
+    563,
+    438,
+    412,
+    359,
+    339,
+    336
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 17
 }

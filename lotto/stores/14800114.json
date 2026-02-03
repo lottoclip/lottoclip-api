@@ -1,7 +1,7 @@
 {
   "store_id": "14800114",
   "name": "이마트24 홍문점",
-  "address": "경남 창원시 마산합포구 문화남11길 12 ",
+  "address": "경남 창원시 마산합포구  문화남11길  12 이마트24 편의점내",
   "phone": "055-242-3857",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 35.184054,
   "longitude": 128.559255,
-  "updated_at": "2026-01-12T11:42:17.595297"
+  "updated_at": "2026-02-03T18:20:42.343830",
+  "first_prize_draws": [
+    895
+  ],
+  "second_prize_draws": [
+    1091,
+    1077,
+    956,
+    734,
+    348
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

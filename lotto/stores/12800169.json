@@ -1,7 +1,7 @@
 {
   "store_id": "12800169",
   "name": "드림복권방",
-  "address": "인천 중구 인중로 97-1 ",
+  "address": "인천 중구  인중로 97-1 버스정류장 앞 GS편의점 옆",
   "phone": "032-882-1800",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 37.464121,
   "longitude": 126.633091,
-  "updated_at": "2026-01-12T11:59:37.700727"
+  "updated_at": "2026-02-03T18:28:29.986016",
+  "first_prize_draws": [
+    1171,
+    1079,
+    863
+  ],
+  "second_prize_draws": [
+    1189,
+    1169,
+    1153,
+    1121,
+    1023,
+    921,
+    883,
+    545,
+    393
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 9
 }

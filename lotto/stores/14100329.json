@@ -1,7 +1,7 @@
 {
   "store_id": "14100329",
   "name": "대박",
-  "address": "경기 고양시 덕양구 권율대로 892 ",
+  "address": "경기 고양시 덕양구  권율대로 892 101호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 37.663201,
   "longitude": 126.890136,
-  "updated_at": "2026-01-12T11:42:54.809335"
+  "updated_at": "2026-02-03T18:23:52.586167",
+  "first_prize_draws": [
+    907
+  ],
+  "second_prize_draws": [
+    1132,
+    1125,
+    1095,
+    1067,
+    1044,
+    1035,
+    1005,
+    969,
+    865,
+    656,
+    480
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 11
 }

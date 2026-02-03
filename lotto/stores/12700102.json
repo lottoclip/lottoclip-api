@@ -1,7 +1,7 @@
 {
   "store_id": "12700102",
   "name": "복권명당율하점",
-  "address": "대구 동구 율하동로23길 37 ",
+  "address": "대구 동구  율하동로23길 37 ",
   "phone": "053-965-7668",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 35.87035,
   "longitude": 128.698029,
-  "updated_at": "2026-01-12T11:30:16.712724"
+  "updated_at": "2026-02-03T18:20:20.368222",
+  "first_prize_draws": [
+    686,
+    539
+  ],
+  "second_prize_draws": [
+    1086,
+    1067,
+    925,
+    844,
+    657,
+    365
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 6
 }

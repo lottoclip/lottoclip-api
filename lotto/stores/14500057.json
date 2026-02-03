@@ -1,7 +1,7 @@
 {
   "store_id": "14500057",
   "name": "돈나무 복권",
-  "address": "전북 군산시 공단대로 612 ",
+  "address": "전북 군산시 공단대로 612  ",
   "phone": "063-466-6953",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 35.973173,
   "longitude": 126.680293,
-  "updated_at": "2026-01-12T11:56:48.657796"
+  "updated_at": "2026-02-03T18:29:40.715666",
+  "first_prize_draws": [
+    1123
+  ],
+  "second_prize_draws": [
+    1205,
+    1145,
+    1139,
+    829,
+    781
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

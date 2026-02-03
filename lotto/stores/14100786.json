@@ -1,7 +1,7 @@
 {
   "store_id": "14100786",
-  "name": "세형전기",
-  "address": "경기 평택시 평택3로56번길 28-8 ",
+  "name": "신바람복권마트",
+  "address": "경기 평택시  평택3로56번길 28-8 ",
   "phone": "031-652-2194",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 36.993436,
   "longitude": 127.095339,
-  "updated_at": "2026-01-12T11:09:08.604052"
+  "updated_at": "2026-02-03T18:25:55.584560",
+  "first_prize_draws": [
+    338
+  ],
+  "second_prize_draws": [
+    1157,
+    1065,
+    1007,
+    840,
+    728,
+    668,
+    558,
+    426
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

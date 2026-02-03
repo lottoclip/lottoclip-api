@@ -1,7 +1,7 @@
 {
   "store_id": "14190227",
   "name": "강남슈퍼",
-  "address": "경기 의정부시 의정로 193 ",
+  "address": "경기 의정부시  의정로 193 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 37.750083,
   "longitude": 127.034041,
-  "updated_at": "2026-01-12T11:59:08.866718"
+  "updated_at": "2026-02-03T18:26:32.751378",
+  "first_prize_draws": [
+    1162,
+    1092
+  ],
+  "second_prize_draws": [
+    967,
+    735,
+    699,
+    666
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 4
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14210089",
   "name": "그린로또",
-  "address": "강원 양양군 양양로 71 ",
+  "address": "강원 양양군  양양로 71 ",
   "phone": "033-673-1177",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 38.074822,
   "longitude": 128.621421,
-  "updated_at": "2026-01-12T11:57:36.498039"
+  "updated_at": "2026-02-03T18:24:18.044112",
+  "first_prize_draws": [
+    1138,
+    1042,
+    589,
+    496
+  ],
+  "second_prize_draws": [
+    1062,
+    964,
+    829,
+    421,
+    367,
+    345
+  ],
+  "first_prize_count": 4,
+  "second_prize_count": 6
 }

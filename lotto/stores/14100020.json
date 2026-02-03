@@ -1,0 +1,25 @@
+{
+  "store_id": "14100020",
+  "name": "노다지복권방",
+  "address": "경기 성남시 분당구 성남대로916번길 20 110호  ",
+  "phone": "031-744-4010",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.41016,
+  "longitude": 127.129763,
+  "updated_at": "2026-02-03T18:29:40.515783",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1205,
+    1173,
+    1146,
+    976,
+    632,
+    494
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 6
+}

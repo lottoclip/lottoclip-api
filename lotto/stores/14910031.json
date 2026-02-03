@@ -1,12 +1,30 @@
 {
   "store_id": "14910031",
   "name": "한라점",
-  "address": "제주 제주시 노형동  2519-14 씨유대화점내",
+  "address": "제주 제주시 노형동 2519-14 씨유대화점내",
   "phone": "064-747-3651",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 33.482131,
   "longitude": 126.473745,
-  "updated_at": "2026-01-12T11:21:39.896481"
+  "updated_at": "2026-02-03T17:59:44.022703",
+  "first_prize_draws": [
+    546
+  ],
+  "second_prize_draws": [
+    833,
+    712,
+    682,
+    619,
+    593,
+    537,
+    465,
+    389,
+    312,
+    299,
+    292
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 11
 }

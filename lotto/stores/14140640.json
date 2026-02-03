@@ -1,7 +1,7 @@
 {
   "store_id": "14140640",
   "name": "행운드림로또&토토",
-  "address": "경기 김포시 초당로16번길 77 ",
+  "address": "경기 김포시  초당로16번길 77 1층 106호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 37.639789,
   "longitude": 126.675149,
-  "updated_at": "2026-01-12T12:00:06.442383"
+  "updated_at": "2026-02-03T18:27:51.069090",
+  "first_prize_draws": [
+    1180,
+    1085,
+    977
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 3,
+  "second_prize_count": 0
 }

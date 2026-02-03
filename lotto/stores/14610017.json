@@ -1,12 +1,34 @@
 {
   "store_id": "14610017",
   "name": "로또복권맥",
-  "address": "전남 여수시 여문1로 52 ",
+  "address": "전남 여수시 여문1로 52  ",
   "phone": "061-652-1281",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 34.753353,
   "longitude": 127.704488,
-  "updated_at": "2026-01-12T11:52:34.518200"
+  "updated_at": "2026-02-03T18:29:44.954690",
+  "first_prize_draws": [
+    1067,
+    1051
+  ],
+  "second_prize_draws": [
+    1206,
+    1171,
+    1117,
+    1106,
+    1104,
+    1098,
+    1064,
+    1036,
+    964,
+    948,
+    929,
+    727,
+    483,
+    438
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 14
 }

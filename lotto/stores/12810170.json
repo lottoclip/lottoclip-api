@@ -1,7 +1,7 @@
 {
   "store_id": "12810170",
   "name": "종로복권",
-  "address": "인천 서구 검단로 519 ",
+  "address": "인천 서구  검단로 519 종로문고",
   "phone": "032-564-2006",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 37.603758,
   "longitude": 126.661557,
-  "updated_at": "2026-01-12T11:48:35.219437"
+  "updated_at": "2026-02-03T18:25:06.837506",
+  "first_prize_draws": [
+    1006
+  ],
+  "second_prize_draws": [
+    1146,
+    697,
+    554
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

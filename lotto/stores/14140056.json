@@ -1,7 +1,7 @@
 {
   "store_id": "14140056",
   "name": "복드림슈퍼",
-  "address": "경기 안양시 동안구 경수대로 515 ",
+  "address": "경기 안양시 동안구  경수대로 515 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 37.368633,
   "longitude": 126.957717,
-  "updated_at": "2026-01-12T11:43:07.365675"
+  "updated_at": "2026-02-03T18:27:11.801693",
+  "first_prize_draws": [
+    911
+  ],
+  "second_prize_draws": [
+    1171,
+    1152,
+    1024,
+    884,
+    845
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

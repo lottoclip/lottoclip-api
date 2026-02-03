@@ -1,7 +1,7 @@
 {
   "store_id": "14100425",
   "name": "쌍굴다리슈퍼",
-  "address": "경기 부천시 부천로 173 ",
+  "address": "경기 부천시  부천로 173 1층 일부",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 37.500459,
   "longitude": 126.786065,
-  "updated_at": "2026-01-12T11:30:51.361716"
+  "updated_at": "2026-02-03T18:16:47.466817",
+  "first_prize_draws": [
+    697
+  ],
+  "second_prize_draws": [
+    1045,
+    994,
+    962,
+    948,
+    945,
+    902,
+    714,
+    374
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

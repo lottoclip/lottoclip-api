@@ -1,7 +1,7 @@
 {
   "store_id": "14210018",
   "name": "동부매점",
-  "address": "강원 강릉시 홍제동  992-2 고속버스터미널 동부매점",
+  "address": "강원 강릉시 홍제동 992-2번지 고속버스터미널내",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,14 @@
   ],
   "latitude": 37.754555,
   "longitude": 128.880143,
-  "updated_at": "2026-01-12T11:06:32.832434"
+  "updated_at": "2026-02-03T17:51:06.298665",
+  "first_prize_draws": [
+    292
+  ],
+  "second_prize_draws": [
+    728,
+    709
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

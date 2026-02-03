@@ -1,7 +1,7 @@
 {
   "store_id": "12800080",
   "name": "로또명당",
-  "address": "인천 부평구 부평대로 32 ",
+  "address": "인천 부평구 부평대로 32 1층  ",
   "phone": "032-818-6425",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 37.494416,
   "longitude": 126.722952,
-  "updated_at": "2026-01-12T11:55:04.808644"
+  "updated_at": "2026-02-03T18:29:53.163265",
+  "first_prize_draws": [
+    1100
+  ],
+  "second_prize_draws": [
+    1208,
+    1204,
+    1138,
+    1035,
+    892,
+    506
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

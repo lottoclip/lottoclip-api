@@ -1,7 +1,7 @@
 {
   "store_id": "13190019",
   "name": "일등복권방",
-  "address": "울산 중구 북부순환도로 879 ",
+  "address": "울산 중구  북부순환도로 879 ",
   "phone": "052-297-4246",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 35.580968,
   "longitude": 129.346115,
-  "updated_at": "2026-01-12T11:58:11.113693"
+  "updated_at": "2026-02-03T18:24:43.538653",
+  "first_prize_draws": [
+    1144
+  ],
+  "second_prize_draws": [
+    1057,
+    855,
+    530,
+    457
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

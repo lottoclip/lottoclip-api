@@ -1,7 +1,7 @@
 {
   "store_id": "11100057",
   "name": "수연식품(대박찬스)",
-  "address": "서울 중랑구 면목로48길 11 ",
+  "address": "서울 중랑구  면목로48길 11 ",
   "phone": "02-492-2476",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 37.5823,
   "longitude": 127.089373,
-  "updated_at": "2026-01-12T11:36:32.825898"
+  "updated_at": "2026-02-03T18:29:05.435622",
+  "first_prize_draws": [
+    795
+  ],
+  "second_prize_draws": [
+    1197,
+    1080,
+    593,
+    568,
+    439,
+    364,
+    335,
+    267
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

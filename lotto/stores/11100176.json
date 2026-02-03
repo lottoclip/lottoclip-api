@@ -1,7 +1,7 @@
 {
   "store_id": "11100176",
   "name": "노다지복권방",
-  "address": "서울 양천구 월정로 137 ",
+  "address": "서울 양천구  월정로 137 ",
   "phone": "02-2691-5019",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,26 @@
   ],
   "latitude": 37.531175,
   "longitude": 126.837469,
-  "updated_at": "2026-01-12T11:40:22.931807"
+  "updated_at": "2026-02-03T18:24:00.702211",
+  "first_prize_draws": [
+    868,
+    591
+  ],
+  "second_prize_draws": [
+    1134,
+    1060,
+    1030,
+    975,
+    972,
+    930,
+    907,
+    790,
+    787,
+    730,
+    647,
+    590,
+    328
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 13
 }

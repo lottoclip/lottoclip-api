@@ -1,12 +1,22 @@
 {
   "store_id": "14140212",
   "name": "관촌방",
-  "address": "경기 이천시 경충대로 2934 ",
+  "address": "경기 이천시  경충대로 2934 식당내 복권",
   "phone": "031-635-6561",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.294564,
   "longitude": 127.418556,
-  "updated_at": "2026-01-12T11:45:01.707120"
+  "updated_at": "2026-02-03T18:27:20.711295",
+  "first_prize_draws": [
+    943
+  ],
+  "second_prize_draws": [
+    1173,
+    1030,
+    992
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

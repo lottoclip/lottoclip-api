@@ -1,7 +1,7 @@
 {
   "store_id": "14110645",
   "name": "행운복권방",
-  "address": "경기 수원시 권선구 오목천동 431-1로뎀프라자 105호",
+  "address": "경기 수원시 권선구 오목천동(평동) 431-1 로뎀프라자105호",
   "phone": "031-291-1056",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,17 @@
   ],
   "latitude": 37.240318,
   "longitude": 126.965801,
-  "updated_at": "2026-01-12T11:15:01.531483"
+  "updated_at": "2026-02-03T17:57:25.701464",
+  "first_prize_draws": [
+    433
+  ],
+  "second_prize_draws": [
+    807,
+    599,
+    484,
+    334,
+    307
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

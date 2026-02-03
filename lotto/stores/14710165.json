@@ -1,7 +1,7 @@
 {
   "store_id": "14710165",
   "name": "k마트",
-  "address": "경북 포항시 북구 득량동 득량동 170-1",
+  "address": "경북 포항시 북구 득량동 170-1번지 ",
   "phone": "054-283-6400",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,15 @@
   ],
   "latitude": 36.029087,
   "longitude": 129.347321,
-  "updated_at": "2026-01-12T11:06:29.749201"
+  "updated_at": "2026-02-03T18:00:45.301791",
+  "first_prize_draws": [
+    291
+  ],
+  "second_prize_draws": [
+    847,
+    774,
+    511
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

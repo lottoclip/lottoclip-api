@@ -1,7 +1,7 @@
 {
   "store_id": "11100902",
   "name": "가판100호",
-  "address": "서울 중구 을지로 113-4 ",
+  "address": "서울 중구  을지로 113-4 ",
   "phone": "02-2277-6022",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 37.566442,
   "longitude": 126.990742,
-  "updated_at": "2026-01-12T12:01:54.728606"
+  "updated_at": "2026-02-03T18:29:35.957655",
+  "first_prize_draws": [
+    1204,
+    1065,
+    887
+  ],
+  "second_prize_draws": [
+    1139,
+    1104,
+    1068,
+    913,
+    703,
+    579,
+    511
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 7
 }

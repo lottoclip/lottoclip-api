@@ -1,7 +1,7 @@
 {
   "store_id": "12890002",
   "name": "SK 복권방",
-  "address": "인천 미추홀구 용정공원로 33 ",
+  "address": "인천 미추홀구  용정공원로 33 인천SKSkyVIEW 상가 A-2동 1층 104호",
   "phone": "032-501-5633",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 37.449532,
   "longitude": 126.645457,
-  "updated_at": "2026-01-12T11:49:25.131278"
+  "updated_at": "2026-02-03T18:20:20.387717",
+  "first_prize_draws": [
+    1017,
+    958
+  ],
+  "second_prize_draws": [
+    1086,
+    1046,
+    1015,
+    983,
+    911,
+    875,
+    660,
+    465,
+    430,
+    399
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 10
 }

@@ -1,0 +1,28 @@
+{
+  "store_id": "11100680",
+  "name": "행운마트",
+  "address": "서울 성북구  종암로 174 ",
+  "phone": "02-913-3535",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.60536,
+  "longitude": 127.03176,
+  "updated_at": "2026-02-03T18:15:18.789055",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1025,
+    1003,
+    993,
+    974,
+    943,
+    941,
+    744,
+    546,
+    275
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 9
+}

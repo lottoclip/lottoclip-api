@@ -1,7 +1,7 @@
 {
   "store_id": "14141169",
   "name": "팡팡마트",
-  "address": "경기 남양주시 진건오남로522번길 3 ",
+  "address": "경기 남양주시 진건오남로522번길 3 102호  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.6803,
   "longitude": 127.210443,
-  "updated_at": "2026-01-12T11:49:31.440639"
+  "updated_at": "2026-02-03T18:29:57.487173",
+  "first_prize_draws": [
+    1019
+  ],
+  "second_prize_draws": [
+    1209,
+    1166,
+    1130,
+    1118,
+    1096,
+    1086,
+    998
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

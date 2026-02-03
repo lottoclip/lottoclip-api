@@ -1,7 +1,7 @@
 {
   "store_id": "14610085",
   "name": "제철로또대리점",
-  "address": "전남 광양시 광장로 125 ",
+  "address": "전남 광양시  광장로 125 시티프라자A동116호",
   "phone": "061-795-5500",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 34.935415,
   "longitude": 127.693982,
-  "updated_at": "2026-01-12T11:53:24.781810"
+  "updated_at": "2026-02-03T18:26:24.039720",
+  "first_prize_draws": [
+    1078,
+    846,
+    264
+  ],
+  "second_prize_draws": [
+    1160,
+    1149,
+    1143,
+    1136,
+    798,
+    601,
+    468
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 7
 }

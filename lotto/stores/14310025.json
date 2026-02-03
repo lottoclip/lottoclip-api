@@ -1,0 +1,33 @@
+{
+  "store_id": "14310025",
+  "name": "로또복권방",
+  "address": "충북 영동군  중앙로 28 ",
+  "phone": "043-745-0645",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.174507,
+  "longitude": 127.776576,
+  "updated_at": "2026-02-03T18:27:34.052537",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1176,
+    1062,
+    1042,
+    947,
+    931,
+    921,
+    909,
+    792,
+    739,
+    678,
+    610,
+    609,
+    605,
+    520
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 14
+}

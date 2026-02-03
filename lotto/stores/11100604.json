@@ -1,7 +1,7 @@
 {
   "store_id": "11100604",
   "name": "민영슈퍼",
-  "address": "서울 서대문구 응암로 104 ",
+  "address": "서울 서대문구  응암로 104 ",
   "phone": "02-309-3827",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 37.581758,
   "longitude": 126.91303,
-  "updated_at": "2026-01-12T11:58:17.354642"
+  "updated_at": "2026-02-03T18:27:11.171308",
+  "first_prize_draws": [
+    1146
+  ],
+  "second_prize_draws": [
+    1171,
+    1138,
+    1109,
+    510,
+    292
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "13100080",
   "name": "로또25시",
-  "address": "울산 남구 수암로288번길 1 ",
+  "address": "울산 남구  수암로288번길 1 1층",
   "phone": "052-274-2892",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 35.521146,
   "longitude": 129.336028,
-  "updated_at": "2026-01-12T12:00:45.189236"
+  "updated_at": "2026-02-03T18:28:43.666897",
+  "first_prize_draws": [
+    1192,
+    467,
+    409
+  ],
+  "second_prize_draws": [
+    859,
+    841,
+    685,
+    517,
+    403
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 5
 }

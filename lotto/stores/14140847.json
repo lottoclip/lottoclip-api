@@ -1,7 +1,7 @@
 {
   "store_id": "14140847",
   "name": "이조박복권방",
-  "address": "경기 안양시 만안구 병목안로 126 ",
+  "address": "경기 안양시 만안구  병목안로 126 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 37.39259,
   "longitude": 126.909407,
-  "updated_at": "2026-01-12T11:55:08.137758"
+  "updated_at": "2026-02-03T18:26:04.655008",
+  "first_prize_draws": [
+    1101
+  ],
+  "second_prize_draws": [
+    1159,
+    1065
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

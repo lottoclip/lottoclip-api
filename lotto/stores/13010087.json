@@ -1,0 +1,22 @@
+{
+  "store_id": "13010087",
+  "name": "로또복권롯데점",
+  "address": "대전 서구 둔산동 1397번지 GS25 편의점",
+  "phone": "042-485-1711",
+  "lottery_types": [
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 36.353301,
+  "longitude": 127.387423,
+  "updated_at": "2026-02-03T17:48:58.358076",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    709,
+    417,
+    371,
+    355
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 4
+}

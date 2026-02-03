@@ -1,7 +1,7 @@
 {
   "store_id": "14390011",
   "name": "황금알복권방",
-  "address": "충북 진천군 상산로 71 ",
+  "address": "충북 진천군  상산로 71 ",
   "phone": "043-536-3007",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,28 @@
   ],
   "latitude": 36.854686,
   "longitude": 127.441871,
-  "updated_at": "2026-01-12T12:00:25.785522"
+  "updated_at": "2026-02-03T18:28:17.224879",
+  "first_prize_draws": [
+    1186,
+    836,
+    702,
+    690,
+    555,
+    392
+  ],
+  "second_prize_draws": [
+    1126,
+    1120,
+    943,
+    922,
+    873,
+    853,
+    839,
+    734,
+    710,
+    625,
+    474
+  ],
+  "first_prize_count": 6,
+  "second_prize_count": 11
 }

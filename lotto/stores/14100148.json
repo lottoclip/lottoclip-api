@@ -1,7 +1,7 @@
 {
   "store_id": "14100148",
   "name": "육사구(6/49)복권방",
-  "address": "경기 용인시 처인구 남곡로 47 ",
+  "address": "경기 용인시 처인구  한터로 132 ",
   "phone": "031-334-0649",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 37.229078,
   "longitude": 127.286147,
-  "updated_at": "2026-01-12T11:42:14.372002"
+  "updated_at": "2026-02-03T18:11:30.339598",
+  "first_prize_draws": [
+    894,
+    599
+  ],
+  "second_prize_draws": [
+    979,
+    929,
+    867,
+    647,
+    604,
+    602,
+    539,
+    459,
+    446
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 9
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "11110263",
   "name": "로또복권",
-  "address": "서울 노원구 상계동  649-7번지 다모아빌딩103",
+  "address": "서울 노원구 상계동 649-7번지 다모아빌딩103",
   "phone": "02-952-6767",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,17 @@
   ],
   "latitude": 37.665064,
   "longitude": 127.058033,
-  "updated_at": "2026-01-12T11:24:34.374331"
+  "updated_at": "2026-02-03T18:07:01.538710",
+  "first_prize_draws": [
+    597
+  ],
+  "second_prize_draws": [
+    924,
+    913,
+    752,
+    589,
+    386
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

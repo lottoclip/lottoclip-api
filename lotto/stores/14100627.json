@@ -1,7 +1,7 @@
 {
   "store_id": "14100627",
   "name": "영통매표소",
-  "address": "경기 수원시 영통구 청명북로 61 ",
+  "address": "경기 수원시 영통구  청명북로 61 청명마을주공아파트 청명역3번출구 매표소",
   "phone": "031-202-3010",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.257995,
   "longitude": 127.079382,
-  "updated_at": "2026-01-12T11:13:34.782406"
+  "updated_at": "2026-02-03T18:20:28.961804",
+  "first_prize_draws": [
+    410
+  ],
+  "second_prize_draws": [
+    1088,
+    1083,
+    1067,
+    854,
+    674,
+    659,
+    341
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

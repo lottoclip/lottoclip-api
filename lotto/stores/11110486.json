@@ -1,7 +1,7 @@
 {
   "store_id": "11110486",
   "name": "진흥복권방",
-  "address": "서울 서초구 서초동  1315",
+  "address": "서울 서초구 서초동 1315번지 ",
   "phone": "02-585-8482",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,16 @@
   ],
   "latitude": 37.486113,
   "longitude": 127.014491,
-  "updated_at": "2026-01-12T11:20:40.607354"
+  "updated_at": "2026-02-03T17:55:29.811801",
+  "first_prize_draws": [
+    527
+  ],
+  "second_prize_draws": [
+    781,
+    745,
+    645,
+    464
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

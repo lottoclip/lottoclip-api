@@ -1,7 +1,7 @@
 {
   "store_id": "14690025",
-  "name": "삼호복권방",
-  "address": "전남 영암군 신항로 76 ",
+  "name": "삼호마트",
+  "address": "전남 영암군  신항로 76 1층",
   "phone": "061-464-4988",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 34.745009,
   "longitude": 126.381778,
-  "updated_at": "2026-01-12T11:24:09.395425"
+  "updated_at": "2026-02-03T18:29:27.230115",
+  "first_prize_draws": [
+    589
+  ],
+  "second_prize_draws": [
+    1202,
+    1014,
+    996,
+    945,
+    877,
+    758,
+    692,
+    612,
+    487,
+    388,
+    367
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 11
 }

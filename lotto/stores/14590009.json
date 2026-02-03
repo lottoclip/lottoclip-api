@@ -1,7 +1,7 @@
 {
   "store_id": "14590009",
   "name": "행운복권방",
-  "address": "전북 고창군 중앙로 200 ",
+  "address": "전북 고창군  중앙로 200 ",
   "phone": "063-563-2183",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 35.434897,
   "longitude": 126.697497,
-  "updated_at": "2026-01-12T12:01:13.705419"
+  "updated_at": "2026-02-03T18:29:01.464552",
+  "first_prize_draws": [
+    1196
+  ],
+  "second_prize_draws": [
+    1060,
+    1058,
+    941,
+    940,
+    896,
+    830,
+    679,
+    591,
+    413,
+    403,
+    293
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 11
 }

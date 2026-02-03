@@ -1,7 +1,7 @@
 {
   "store_id": "14140211",
   "name": "부발로또",
-  "address": "경기 이천시 무촌로 125-1 ",
+  "address": "경기 이천시 부발읍 무촌리 501 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 37.283401,
   "longitude": 127.487737,
-  "updated_at": "2026-01-12T11:39:23.041063"
+  "updated_at": "2026-02-03T18:04:05.991335",
+  "first_prize_draws": [
+    849
+  ],
+  "second_prize_draws": [
+    890,
+    875,
+    873
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

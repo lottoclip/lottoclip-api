@@ -1,7 +1,7 @@
 {
   "store_id": "11110542",
   "name": "도곡 행운로또방",
-  "address": "서울 강남구 도곡로4길 11 ",
+  "address": "서울 강남구  도곡로4길 11 102호",
   "phone": "070-4211-6109",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 37.489311,
   "longitude": 127.033694,
-  "updated_at": "2026-01-12T11:59:15.221230"
+  "updated_at": "2026-02-03T18:26:40.835390",
+  "first_prize_draws": [
+    1164
+  ],
+  "second_prize_draws": [
+    996,
+    537
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

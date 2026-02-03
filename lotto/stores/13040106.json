@@ -1,7 +1,7 @@
 {
   "store_id": "13040106",
   "name": "대박로또",
-  "address": "대전 서구 둔산중로14번길 36 ",
+  "address": "대전 서구  둔산중로14번길 36 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 36.347701,
   "longitude": 127.388613,
-  "updated_at": "2026-01-12T11:55:33.736545"
+  "updated_at": "2026-02-03T18:27:51.031310",
+  "first_prize_draws": [
+    1109
+  ],
+  "second_prize_draws": [
+    1180,
+    1139,
+    1081
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

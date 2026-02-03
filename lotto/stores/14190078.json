@@ -1,7 +1,7 @@
 {
   "store_id": "14190078",
   "name": "복권닷컴",
-  "address": "경기 성남시 수정구 탄리로 79 ",
+  "address": "경기 성남시 수정구  탄리로 79 ",
   "phone": "031-721-9767",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 37.442996,
   "longitude": 127.135578,
-  "updated_at": "2026-01-12T11:48:12.962854"
+  "updated_at": "2026-02-03T18:28:21.251465",
+  "first_prize_draws": [
+    999,
+    914
+  ],
+  "second_prize_draws": [
+    1187,
+    1181,
+    1157,
+    1137,
+    1049,
+    957,
+    938,
+    715,
+    529,
+    290
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 10
 }

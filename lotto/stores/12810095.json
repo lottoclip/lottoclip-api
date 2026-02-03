@@ -1,7 +1,7 @@
 {
   "store_id": "12810095",
   "name": "용현시장로또복권",
-  "address": "인천 남구 용현동 459-30번지 ",
+  "address": "인천 미추홀구  독배로 420-1 ",
   "phone": "032-882-6124",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,18 @@
   ],
   "latitude": 37.457192,
   "longitude": 126.649998,
-  "updated_at": "2026-01-12T11:34:42.762329"
+  "updated_at": "2026-02-03T18:14:47.295771",
+  "first_prize_draws": [
+    765,
+    381
+  ],
+  "second_prize_draws": [
+    1021,
+    984,
+    956,
+    779,
+    520
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 5
 }

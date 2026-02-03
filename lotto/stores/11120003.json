@@ -1,0 +1,24 @@
+{
+  "store_id": "11120003",
+  "name": "대박복권방",
+  "address": "서울 강동구  양재대로134길 11 1층 4호",
+  "phone": null,
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.547785,
+  "longitude": 127.144396,
+  "updated_at": "2026-02-03T18:21:03.425610",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1096,
+    1087,
+    1046,
+    1000,
+    861
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 5
+}

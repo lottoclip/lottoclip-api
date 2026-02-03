@@ -1,7 +1,7 @@
 {
   "store_id": "14800049",
   "name": "희망슈퍼",
-  "address": "경남 창원시 의창구 원이대로279번길 17 ",
+  "address": "경남 창원시 의창구  원이대로279번길 17 ",
   "phone": "055-265-2973",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 35.244057,
   "longitude": 128.65156,
-  "updated_at": "2026-01-12T11:48:51.353316"
+  "updated_at": "2026-02-03T18:27:34.210439",
+  "first_prize_draws": [
+    1011
+  ],
+  "second_prize_draws": [
+    1176,
+    1039,
+    1029,
+    1025,
+    1003,
+    1000,
+    954,
+    505,
+    290
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 9
 }

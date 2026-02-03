@@ -1,0 +1,22 @@
+{
+  "store_id": "11100135",
+  "name": "복권",
+  "address": "서울 동대문구  신이문로 33 ",
+  "phone": "02-963-4061",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.60314,
+  "longitude": 127.065828,
+  "updated_at": "2026-02-03T18:15:57.598147",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1034,
+    944,
+    331
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 3
+}

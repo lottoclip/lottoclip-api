@@ -1,0 +1,22 @@
+{
+  "store_id": "14800095",
+  "name": "로또 판매점",
+  "address": "경남 창원시 마산회원구 회원동(회원1동) 62-54 위드미 편의점 내",
+  "phone": "055-241-8489",
+  "lottery_types": [
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 35.217067,
+  "longitude": 128.57505,
+  "updated_at": "2026-02-03T18:00:09.337834",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    839,
+    538,
+    450,
+    424
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 4
+}

@@ -1,0 +1,27 @@
+{
+  "store_id": "11100433",
+  "name": "수색마트 복권방",
+  "address": "서울 은평구  수색로 256 ",
+  "phone": "02-302-9000",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.582196,
+  "longitude": 126.895948,
+  "updated_at": "2026-02-03T18:27:29.296047",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1175,
+    1169,
+    1149,
+    1011,
+    967,
+    927,
+    623,
+    372
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 8
+}

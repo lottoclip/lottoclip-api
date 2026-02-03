@@ -1,7 +1,7 @@
 {
   "store_id": "14740062",
   "name": "이마트24시 R신대부적점",
-  "address": "경북 경산시 대학로 386 ",
+  "address": "경북 경산시  대학로 386 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 35.842032,
   "longitude": 128.762203,
-  "updated_at": "2026-01-12T11:55:24.066751"
+  "updated_at": "2026-02-03T18:21:46.016441",
+  "first_prize_draws": [
+    1106,
+    1068
+  ],
+  "second_prize_draws": [
+    1075,
+    1067,
+    940
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 3
 }

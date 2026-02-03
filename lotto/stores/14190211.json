@@ -1,12 +1,32 @@
 {
   "store_id": "14190211",
   "name": "케이케이물류",
-  "address": "경기 수원시 팔달구 동말로 60 ",
+  "address": "경기 수원시 팔달구  동말로 60 ",
   "phone": "070-8184-3956",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.278631,
   "longitude": 127.000648,
-  "updated_at": "2026-01-12T11:53:15.078163"
+  "updated_at": "2026-02-03T18:26:23.880192",
+  "first_prize_draws": [
+    1075
+  ],
+  "second_prize_draws": [
+    1160,
+    1113,
+    1103,
+    937,
+    884,
+    874,
+    778,
+    768,
+    752,
+    747,
+    697,
+    621,
+    272
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 13
 }

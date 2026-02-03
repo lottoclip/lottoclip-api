@@ -1,7 +1,7 @@
 {
   "store_id": "13010079",
   "name": "유연마트",
-  "address": "대전 동구 계족로 88 ",
+  "address": "대전 동구  계족로 88 ",
   "phone": "042-283-2026",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 36.32213,
   "longitude": 127.445098,
-  "updated_at": "2026-01-12T11:49:37.782828"
+  "updated_at": "2026-02-03T18:14:47.327139",
+  "first_prize_draws": [
+    1021,
+    585
+  ],
+  "second_prize_draws": [
+    905,
+    563,
+    424,
+    392,
+    347
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 5
 }

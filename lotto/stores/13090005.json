@@ -1,7 +1,7 @@
 {
   "store_id": "13090005",
   "name": "행복세상",
-  "address": "대전 대덕구 중리로 52 ",
+  "address": "대전 대덕구  중리로 52 ",
   "phone": "070-4001-2530",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 36.363662,
   "longitude": 127.425349,
-  "updated_at": "2026-01-12T11:43:10.396545"
+  "updated_at": "2026-02-03T18:10:10.006209",
+  "first_prize_draws": [
+    912,
+    779
+  ],
+  "second_prize_draws": [
+    961,
+    715,
+    702,
+    686,
+    545
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 5
 }

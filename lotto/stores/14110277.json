@@ -1,12 +1,21 @@
 {
   "store_id": "14110277",
   "name": "로또복권방",
-  "address": "경기 안양시 동안구 호계동 721-3",
+  "address": "경기 안양시 동안구 호계3동 670-4",
   "phone": "031-427-4011",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.367395,
   "longitude": 126.954747,
-  "updated_at": "2026-01-12T11:10:00.334202"
+  "updated_at": "2026-02-03T17:30:16.928626",
+  "first_prize_draws": [
+    350
+  ],
+  "second_prize_draws": [
+    463,
+    437
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

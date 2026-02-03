@@ -1,7 +1,7 @@
 {
   "store_id": "14840057",
   "name": "나눔로또",
-  "address": "경남 함안군 용산1길 33 ",
+  "address": "경남 함안군  용산1길 33 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 35.308948,
   "longitude": 128.516931,
-  "updated_at": "2026-01-12T11:58:59.090603"
+  "updated_at": "2026-02-03T18:29:36.520638",
+  "first_prize_draws": [
+    1159,
+    926
+  ],
+  "second_prize_draws": [
+    1204,
+    1152,
+    1149,
+    1057,
+    1053,
+    1009,
+    937,
+    864
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 8
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14700165",
   "name": "영화마을흥해점",
-  "address": "경북 포항시 북구 흥해로 26 ",
+  "address": "경북 포항시 북구  흥해로 26 ",
   "phone": "054-261-3158",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 36.107813,
   "longitude": 129.345182,
-  "updated_at": "2026-01-12T11:41:49.708577"
+  "updated_at": "2026-02-03T18:25:51.326672",
+  "first_prize_draws": [
+    886
+  ],
+  "second_prize_draws": [
+    1156,
+    1142,
+    1128,
+    1116,
+    931,
+    822,
+    733,
+    712,
+    619,
+    265
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

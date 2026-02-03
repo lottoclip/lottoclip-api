@@ -1,7 +1,7 @@
 {
   "store_id": "11101269",
   "name": "슈퍼전자",
-  "address": "서울 강북구 솔샘로 254 ",
+  "address": "서울 강북구  솔샘로 254 삼양빌딩1층14호",
   "phone": "02-985-9943",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,15 @@
   ],
   "latitude": 37.619292,
   "longitude": 127.020699,
-  "updated_at": "2026-01-12T11:16:46.420499"
+  "updated_at": "2026-02-03T18:12:42.458437",
+  "first_prize_draws": [
+    457
+  ],
+  "second_prize_draws": [
+    992,
+    438,
+    413
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

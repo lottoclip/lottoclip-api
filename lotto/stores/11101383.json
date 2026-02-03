@@ -1,7 +1,7 @@
 {
   "store_id": "11101383",
   "name": "몽곡사",
-  "address": "서울 영등포구 버드나루로 51 ",
+  "address": "서울 영등포구  버드나루로 51 조광빌딩105호",
   "phone": "02-2634-2281",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 37.523068,
   "longitude": 126.910578,
-  "updated_at": "2026-01-12T11:57:20.674349"
+  "updated_at": "2026-02-03T18:23:56.506653",
+  "first_prize_draws": [
+    1133,
+    923,
+    502
+  ],
+  "second_prize_draws": [
+    1112,
+    1099,
+    1002,
+    904,
+    793,
+    642,
+    634,
+    515,
+    513,
+    378
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 10
 }

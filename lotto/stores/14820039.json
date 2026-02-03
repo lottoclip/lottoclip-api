@@ -1,12 +1,29 @@
 {
   "store_id": "14820039",
   "name": "공단로또점",
-  "address": "경남 함안군 삼칠로 831 ",
+  "address": "경남 함안군  삼칠로 831 슈퍼 옆 1층",
   "phone": null,
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 35.360254,
   "longitude": 128.485262,
-  "updated_at": "2026-01-12T12:00:06.496476"
+  "updated_at": "2026-02-03T18:27:51.298361",
+  "first_prize_draws": [
+    1180,
+    1136,
+    898,
+    681
+  ],
+  "second_prize_draws": [
+    1097,
+    1077,
+    1071,
+    919,
+    776,
+    725,
+    714
+  ],
+  "first_prize_count": 4,
+  "second_prize_count": 7
 }

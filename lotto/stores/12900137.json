@@ -1,12 +1,22 @@
 {
   "store_id": "12900137",
   "name": "훼미리마트두암현대점",
-  "address": "광주 북구 두암동  880-17",
+  "address": "광주 북구 두암동(두암1동) 880-17 CU두암현대점내",
   "phone": "062-251-2722",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 35.171982,
   "longitude": 126.925377,
-  "updated_at": "2026-01-12T11:19:40.563448"
+  "updated_at": "2026-02-03T17:49:27.764571",
+  "first_prize_draws": [
+    508
+  ],
+  "second_prize_draws": [
+    716,
+    638,
+    534
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

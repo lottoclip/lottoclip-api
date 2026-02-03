@@ -1,7 +1,7 @@
 {
   "store_id": "12640549",
   "name": "소원 로또복권",
-  "address": "부산 부산진구 중앙대로691번가길 21 ",
+  "address": "부산 부산진구  중앙대로691번가길 21 1층 일부 북측(부전동)",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 35.155213,
   "longitude": 129.055503,
-  "updated_at": "2026-01-12T11:55:14.395326"
+  "updated_at": "2026-02-03T18:26:27.957229",
+  "first_prize_draws": [
+    1103
+  ],
+  "second_prize_draws": [
+    1161
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

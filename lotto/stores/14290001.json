@@ -1,7 +1,7 @@
 {
   "store_id": "14290001",
   "name": "드림복권전문점",
-  "address": "강원 춘천시 춘주로 195 ",
+  "address": "강원 춘천시  춘주로 195 ",
   "phone": "033-241-7374",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 37.860357,
   "longitude": 127.727822,
-  "updated_at": "2026-01-12T11:48:03.594465"
+  "updated_at": "2026-02-03T18:26:41.237583",
+  "first_prize_draws": [
+    996
+  ],
+  "second_prize_draws": [
+    1164,
+    1151,
+    1086,
+    951,
+    741,
+    578,
+    429,
+    406,
+    316
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 9
 }

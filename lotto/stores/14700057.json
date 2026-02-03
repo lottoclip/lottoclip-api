@@ -1,7 +1,7 @@
 {
   "store_id": "14700057",
   "name": "복권명당",
-  "address": "경북 경주시 동문로 46 ",
+  "address": "경북 경주시  동문로 46 ",
   "phone": "054-749-5775",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,26 @@
   ],
   "latitude": 35.848608,
   "longitude": 129.21421,
-  "updated_at": "2026-01-12T11:48:32.199584"
+  "updated_at": "2026-02-03T18:26:32.945091",
+  "first_prize_draws": [
+    1005,
+    734,
+    532
+  ],
+  "second_prize_draws": [
+    1162,
+    1001,
+    998,
+    928,
+    884,
+    844,
+    804,
+    767,
+    600,
+    575,
+    531,
+    487
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 12
 }

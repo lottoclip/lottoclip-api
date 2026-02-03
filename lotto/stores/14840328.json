@@ -1,7 +1,7 @@
 {
   "store_id": "14840328",
   "name": "로또복권판매 초전점",
-  "address": "경남 진주시 대신로457번길 9 ",
+  "address": "경남 진주시  대신로457번길 9 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 35.201273,
   "longitude": 128.11505,
-  "updated_at": "2026-01-12T12:01:06.933622"
+  "updated_at": "2026-02-03T18:29:01.602619",
+  "first_prize_draws": [
+    1194,
+    1094
+  ],
+  "second_prize_draws": [
+    1196,
+    1116,
+    1086
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 3
 }

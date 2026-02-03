@@ -1,0 +1,24 @@
+{
+  "store_id": "14110223",
+  "name": "로또복권판매점",
+  "address": "경기 부천시 원미구  소향로37번길 13-20 105호",
+  "phone": "032-329-4747",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.50444,
+  "longitude": 126.750895,
+  "updated_at": "2026-02-03T18:28:08.046798",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1184,
+    1140,
+    1061,
+    1050,
+    687
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 5
+}

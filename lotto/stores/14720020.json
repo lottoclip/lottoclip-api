@@ -1,7 +1,7 @@
 {
   "store_id": "14720020",
   "name": "동부대박복권방",
-  "address": "경북 문경시 신흥로 234 ",
+  "address": "경북 문경시  신흥로 234 동부코사마트",
   "phone": "054-556-6901",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 36.600999,
   "longitude": 128.206365,
-  "updated_at": "2026-01-12T11:38:04.608508"
+  "updated_at": "2026-02-03T18:20:03.073200",
+  "first_prize_draws": [
+    824
+  ],
+  "second_prize_draws": [
+    1082,
+    986,
+    697
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

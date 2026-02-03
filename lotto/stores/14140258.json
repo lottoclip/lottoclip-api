@@ -1,12 +1,22 @@
 {
   "store_id": "14140258",
   "name": "나눔로또",
-  "address": "경기 화성시 상신하길로274번길 21 ",
+  "address": "경기 화성시  상신하길로274번길 21 서봉마을사랑으로부영7단지아파트 상가1동 104105106호",
   "phone": null,
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.113381,
   "longitude": 126.910718,
-  "updated_at": "2026-01-12T11:48:12.992157"
+  "updated_at": "2026-02-03T18:13:12.432606",
+  "first_prize_draws": [
+    999
+  ],
+  "second_prize_draws": [
+    976,
+    965,
+    945
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

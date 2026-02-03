@@ -1,7 +1,7 @@
 {
   "store_id": "12640031",
   "name": "신호 로또판매점",
-  "address": "부산 강서구 신호산단2로 53-1 ",
+  "address": "부산 강서구  신호산단2로 53-1 1층 103호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 35.084237,
   "longitude": 128.877706,
-  "updated_at": "2026-01-12T11:45:36.474022"
+  "updated_at": "2026-02-03T18:26:27.934203",
+  "first_prize_draws": [
+    954
+  ],
+  "second_prize_draws": [
+    1161,
+    1116,
+    1058,
+    1034,
+    988,
+    836,
+    818
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

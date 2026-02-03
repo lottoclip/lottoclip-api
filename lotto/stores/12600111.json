@@ -1,7 +1,7 @@
 {
   "store_id": "12600111",
-  "name": "오렌지마트",
-  "address": "부산 사하구 장림번영로 96 ",
+  "name": "이마트24 사하오렌지점",
+  "address": "부산 사하구  장림번영로 96 105동 101호",
   "phone": "051-264-0277",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 35.080119,
   "longitude": 128.975735,
-  "updated_at": "2026-01-12T11:23:47.768007"
+  "updated_at": "2026-02-03T18:25:19.776043",
+  "first_prize_draws": [
+    582,
+    274
+  ],
+  "second_prize_draws": [
+    1149,
+    1030,
+    891,
+    716,
+    677,
+    668,
+    494,
+    289
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 8
 }

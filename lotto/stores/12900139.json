@@ -1,7 +1,7 @@
 {
   "store_id": "12900139",
   "name": "당첨복권방",
-  "address": "광주 북구 안산로 30 ",
+  "address": "광주 북구 안산로 30 (오치동)  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 35.189821,
   "longitude": 126.902237,
-  "updated_at": "2026-01-12T12:01:20.123670"
+  "updated_at": "2026-02-03T18:29:48.873406",
+  "first_prize_draws": [
+    1198
+  ],
+  "second_prize_draws": [
+    1207,
+    1020,
+    864
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

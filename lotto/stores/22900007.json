@@ -1,7 +1,7 @@
 {
   "store_id": "22900007",
-  "name": "훼미리마트(광주우산점)",
-  "address": "광주 광산구 우산동  1573-1",
+  "name": "CU(광주우산점)",
+  "address": "광주 광산구  사암로215번길 103 ",
   "phone": "062-433-8567",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,17 @@
   ],
   "latitude": 35.163927,
   "longitude": 126.802605,
-  "updated_at": "2026-01-12T11:07:46.440785"
+  "updated_at": "2026-02-03T18:08:49.675642",
+  "first_prize_draws": [
+    316
+  ],
+  "second_prize_draws": [
+    944,
+    841,
+    715,
+    554,
+    316
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

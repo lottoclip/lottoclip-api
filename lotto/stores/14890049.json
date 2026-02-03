@@ -1,7 +1,7 @@
 {
   "store_id": "14890049",
   "name": "25시슈퍼",
-  "address": "경남 창원시 마산회원구 봉양로 75-5 ",
+  "address": "경남 창원시 마산회원구  봉양로 75-5 ",
   "phone": "055-295-8891",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 35.221214,
   "longitude": 128.595323,
-  "updated_at": "2026-01-12T11:28:40.135158"
+  "updated_at": "2026-02-03T18:16:47.720350",
+  "first_prize_draws": [
+    665,
+    634,
+    542,
+    476
+  ],
+  "second_prize_draws": [
+    1045,
+    1026,
+    999,
+    991,
+    782,
+    730,
+    608,
+    527
+  ],
+  "first_prize_count": 4,
+  "second_prize_count": 8
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14142628",
   "name": "느낌 복권판매점",
-  "address": "경기 안산시 상록구 용신로 328 ",
+  "address": "경기 안산시 상록구  용신로 328 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,11 @@
   ],
   "latitude": 37.301681,
   "longitude": 126.858227,
-  "updated_at": "2026-01-12T11:59:05.606665"
+  "updated_at": "2026-02-03T18:26:28.307572",
+  "first_prize_draws": [
+    1161
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

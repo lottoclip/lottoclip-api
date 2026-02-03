@@ -1,7 +1,7 @@
 {
   "store_id": "11140539",
   "name": "또와요로또방",
-  "address": "서울 동대문구 왕산로 270-1 ",
+  "address": "서울 동대문구  왕산로 270-1 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,11 @@
   ],
   "latitude": 37.584693,
   "longitude": 127.05096,
-  "updated_at": "2026-01-12T12:00:32.184937"
+  "updated_at": "2026-02-03T18:28:25.158273",
+  "first_prize_draws": [
+    1188
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

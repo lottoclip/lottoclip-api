@@ -1,7 +1,7 @@
 {
   "store_id": "11100365",
   "name": "광명식품",
-  "address": "서울 중구 만리동1가  50-2",
+  "address": "서울 중구 만리동1가 50-2번지 ",
   "phone": "02-392-6067",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,17 @@
   ],
   "latitude": 37.557187,
   "longitude": 126.968273,
-  "updated_at": "2026-01-12T11:08:26.224115"
+  "updated_at": "2026-02-03T17:48:48.983110",
+  "first_prize_draws": [
+    329
+  ],
+  "second_prize_draws": [
+    707,
+    554,
+    492,
+    438,
+    322
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

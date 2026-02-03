@@ -1,7 +1,7 @@
 {
   "store_id": "11100182",
   "name": "복권마을",
-  "address": "서울 강서구 화곡로 321 ",
+  "address": "서울 강서구  화곡로 321 101호",
   "phone": "02-2604-6555",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 37.552771,
   "longitude": 126.850188,
-  "updated_at": "2026-01-12T11:55:17.544201"
+  "updated_at": "2026-02-03T18:25:24.012120",
+  "first_prize_draws": [
+    1104
+  ],
+  "second_prize_draws": [
+    1150,
+    1112,
+    1111,
+    1064,
+    1008,
+    1000,
+    963,
+    765,
+    754,
+    715,
+    553,
+    352
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 12
 }

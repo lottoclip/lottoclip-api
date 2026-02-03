@@ -1,0 +1,23 @@
+{
+  "store_id": "14800111",
+  "name": "로또찜",
+  "address": "경남 창원시 마산합포구  현동로 56 108호 1층 가고파빌딩",
+  "phone": null,
+  "lottery_types": [
+    "lotto645"
+  ],
+  "latitude": 35.24868,
+  "longitude": 128.517487,
+  "updated_at": "2026-02-03T18:11:12.704688",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    975,
+    935,
+    865,
+    858,
+    832,
+    322
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 6
+}

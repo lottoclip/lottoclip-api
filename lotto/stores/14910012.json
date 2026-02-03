@@ -1,0 +1,27 @@
+{
+  "store_id": "14910012",
+  "name": "정든마트복권",
+  "address": "제주 제주시  정존11길 68 정든마을3단지상가104호",
+  "phone": "064-742-0067",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 33.488728,
+  "longitude": 126.472137,
+  "updated_at": "2026-02-03T18:18:12.527110",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1060,
+    1052,
+    979,
+    907,
+    805,
+    772,
+    724,
+    639
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 8
+}

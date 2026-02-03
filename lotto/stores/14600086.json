@@ -1,7 +1,7 @@
 {
   "store_id": "14600086",
   "name": "열린서점",
-  "address": "전남 목포시 삼각로43번길 10 ",
+  "address": "전남 목포시  삼각로43번길 10 열린서점",
   "phone": "061-281-0864",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 34.80461,
   "longitude": 126.418329,
-  "updated_at": "2026-01-12T11:29:36.655316"
+  "updated_at": "2026-02-03T18:25:34.139554",
+  "first_prize_draws": [
+    678
+  ],
+  "second_prize_draws": [
+    1152,
+    1007,
+    502
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

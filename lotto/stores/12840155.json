@@ -1,7 +1,7 @@
 {
   "store_id": "12840155",
   "name": "하늘바다 편의점 복권방",
-  "address": "인천 부평구 부흥로 389 ",
+  "address": "인천 부평구  부흥로 389 1층 102호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 37.498116,
   "longitude": 126.735297,
-  "updated_at": "2026-01-12T11:46:07.562361"
+  "updated_at": "2026-02-03T18:24:30.657757",
+  "first_prize_draws": [
+    964
+  ],
+  "second_prize_draws": [
+    1141,
+    1110,
+    1012
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

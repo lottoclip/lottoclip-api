@@ -1,7 +1,7 @@
 {
   "store_id": "11101251",
   "name": "치즈마트",
-  "address": "서울 송파구 양재대로 932 ",
+  "address": "서울 송파구  양재대로 932 가락몰 2관 1층 2-1호",
   "phone": "02-431-7153",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.493474,
   "longitude": 127.11148,
-  "updated_at": "2026-01-12T11:34:33.409857"
+  "updated_at": "2026-02-03T18:26:27.911142",
+  "first_prize_draws": [
+    762
+  ],
+  "second_prize_draws": [
+    1161,
+    976,
+    959,
+    672,
+    669,
+    643,
+    283
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "12800110",
   "name": "풍인식품",
-  "address": "인천 남동구 간석4동 214-27번지 ",
+  "address": "인천 남동구  남동대로934번길 13 2호",
   "phone": "032-426-6702",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.465903,
   "longitude": 126.708828,
-  "updated_at": "2026-01-12T11:30:57.438004"
+  "updated_at": "2026-02-03T18:11:16.843215",
+  "first_prize_draws": [
+    699
+  ],
+  "second_prize_draws": [
+    976,
+    929,
+    913,
+    711,
+    593,
+    544,
+    519
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

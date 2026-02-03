@@ -1,7 +1,7 @@
 {
   "store_id": "11100210",
   "name": "행운복권방",
-  "address": "서울 서대문구 신촌로 235-1 ",
+  "address": "서울 서대문구  신촌로 235-1 ",
   "phone": "02-365-2112",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 37.557385,
   "longitude": 126.952268,
-  "updated_at": "2026-01-12T11:54:36.203912"
+  "updated_at": "2026-02-03T18:20:41.870727",
+  "first_prize_draws": [
+    1091
+  ],
+  "second_prize_draws": [
+    969,
+    881,
+    869
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

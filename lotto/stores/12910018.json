@@ -1,7 +1,7 @@
 {
   "store_id": "12910018",
-  "name": "동화나라",
-  "address": "광주 광산구 월곡산정로 7 ",
+  "name": "대박나라",
+  "address": "광주 광산구  월곡산정로 7 1층",
   "phone": "062-952-7142",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 35.166821,
   "longitude": 126.802999,
-  "updated_at": "2026-01-12T11:27:01.234217"
+  "updated_at": "2026-02-03T18:25:24.385165",
+  "first_prize_draws": [
+    638
+  ],
+  "second_prize_draws": [
+    1150,
+    898,
+    756,
+    477,
+    470
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

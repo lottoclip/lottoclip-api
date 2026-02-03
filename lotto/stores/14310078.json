@@ -1,7 +1,7 @@
 {
   "store_id": "14310078",
   "name": "천금복권방",
-  "address": "충북 청주시 상당구 쇠내로 150-1 ",
+  "address": "충북 청주시 상당구 쇠내로 150-1  ",
   "phone": "043-221-0645",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,26 @@
   ],
   "latitude": 36.620748,
   "longitude": 127.507969,
-  "updated_at": "2026-01-12T11:56:58.059151"
+  "updated_at": "2026-02-03T18:29:40.655783",
+  "first_prize_draws": [
+    1126,
+    680,
+    671
+  ],
+  "second_prize_draws": [
+    1205,
+    1110,
+    1015,
+    906,
+    859,
+    710,
+    655,
+    647,
+    521,
+    405,
+    328,
+    278
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 12
 }

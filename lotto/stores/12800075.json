@@ -1,12 +1,22 @@
 {
   "store_id": "12800075",
   "name": "대박복권",
-  "address": "인천 부평구 경인로 973 ",
+  "address": "인천 부평구  경인로 973 ",
   "phone": "032-526-7648",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.48759,
   "longitude": 126.727853,
-  "updated_at": "2026-01-12T11:53:15.071026"
+  "updated_at": "2026-02-03T18:19:17.110503",
+  "first_prize_draws": [
+    1075
+  ],
+  "second_prize_draws": [
+    897,
+    710,
+    308
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

@@ -1,12 +1,23 @@
 {
   "store_id": "21100118",
-  "name": "GS25(관악봉천)",
-  "address": "서울 관악구 봉천동  876-1",
+  "name": "GS25(관악봉천점)",
+  "address": "서울 관악구 봉천동 876-1번지 ",
   "phone": "02-873-9368",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.480714,
   "longitude": 126.950249,
-  "updated_at": "2026-01-12T11:12:54.945005"
+  "updated_at": "2026-02-03T18:06:19.074891",
+  "first_prize_draws": [
+    397
+  ],
+  "second_prize_draws": [
+    916,
+    865,
+    630,
+    452
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

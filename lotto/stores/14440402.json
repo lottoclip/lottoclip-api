@@ -1,7 +1,7 @@
 {
   "store_id": "14440402",
   "name": "파리스뷰티 복권",
-  "address": "충남 천안시 동남구 개목8길 5 ",
+  "address": "충남 천안시 동남구  개목8길 5 102호(파리스뷰티 내)",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,11 @@
   ],
   "latitude": 36.816229,
   "longitude": 127.13108,
-  "updated_at": "2026-01-12T11:59:47.306384"
+  "updated_at": "2026-02-03T18:27:25.271209",
+  "first_prize_draws": [
+    1174
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

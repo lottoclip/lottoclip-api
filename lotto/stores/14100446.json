@@ -1,7 +1,7 @@
 {
   "store_id": "14100446",
   "name": "노다지복권방",
-  "address": "경기 부천시 양지로 205 ",
+  "address": "경기 부천시  양지로 205 1층 118호",
   "phone": "032-657-9290",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 37.467977,
   "longitude": 126.822465,
-  "updated_at": "2026-01-12T11:54:33.089718"
+  "updated_at": "2026-02-03T18:24:26.372597",
+  "first_prize_draws": [
+    1090,
+    635
+  ],
+  "second_prize_draws": [
+    1140,
+    938,
+    904,
+    838,
+    640,
+    426,
+    297
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 7
 }

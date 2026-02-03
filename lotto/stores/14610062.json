@@ -1,7 +1,7 @@
 {
   "store_id": "14610062",
   "name": "현아비디오로또",
-  "address": "전남 순천시 풍덕주택길 90 ",
+  "address": "전남 순천시  풍덕주택길 90 현아복권방",
   "phone": "061-741-8224",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 34.940002,
   "longitude": 127.503811,
-  "updated_at": "2026-01-12T11:39:23.082740"
+  "updated_at": "2026-02-03T18:23:56.882897",
+  "first_prize_draws": [
+    849
+  ],
+  "second_prize_draws": [
+    1133,
+    1090,
+    1036,
+    1029,
+    979,
+    892,
+    333
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14410032",
   "name": "삽교복권방",
-  "address": "충남 예산군 삽교로2길 2 ",
+  "address": "충남 예산군  삽교로2길 2 CU편의점내",
   "phone": "041-338-0944",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 36.686195,
   "longitude": 126.739348,
-  "updated_at": "2026-01-12T11:07:49.459685"
+  "updated_at": "2026-02-03T18:17:41.798529",
+  "first_prize_draws": [
+    317
+  ],
+  "second_prize_draws": [
+    1054,
+    963,
+    877,
+    835,
+    650,
+    585,
+    570
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

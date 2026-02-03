@@ -1,7 +1,7 @@
 {
   "store_id": "14590069",
   "name": "대박찬스",
-  "address": "전북 정읍시 관통로 59 ",
+  "address": "전북 정읍시  관통로 59 ",
   "phone": "063-532-6862",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 35.561883,
   "longitude": 126.858631,
-  "updated_at": "2026-01-12T11:57:04.732054"
+  "updated_at": "2026-02-03T18:25:55.791624",
+  "first_prize_draws": [
+    1128,
+    1019
+  ],
+  "second_prize_draws": [
+    1157,
+    1038,
+    960,
+    836,
+    832
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 5
 }

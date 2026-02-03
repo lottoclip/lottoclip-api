@@ -1,7 +1,7 @@
 {
   "store_id": "14890003",
   "name": "마산부림마트",
-  "address": "경남 창원시 마산합포구 3·15대로 345 ",
+  "address": "경남 창원시 마산합포구  3·15대로 345 4필지",
   "phone": "055-223-9948",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 35.205707,
   "longitude": 128.572639,
-  "updated_at": "2026-01-12T11:43:22.938051"
+  "updated_at": "2026-02-03T18:18:29.786106",
+  "first_prize_draws": [
+    916
+  ],
+  "second_prize_draws": [
+    1064,
+    1050,
+    967,
+    417
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

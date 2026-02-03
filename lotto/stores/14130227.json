@@ -1,12 +1,25 @@
 {
   "store_id": "14130227",
   "name": "설악복권방",
-  "address": "경기 가평군 신천중앙로 80 ",
+  "address": "경기 가평군  신천중앙로 80 1층 복권방",
   "phone": null,
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.675832,
   "longitude": 127.494077,
-  "updated_at": "2026-01-12T11:58:55.794605"
+  "updated_at": "2026-02-03T18:29:22.639187",
+  "first_prize_draws": [
+    1158,
+    914
+  ],
+  "second_prize_draws": [
+    1201,
+    1191,
+    1181,
+    1013,
+    865
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 5
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "12710062",
   "name": "봄동로또",
-  "address": "대구 수성구 지범로 252 ",
+  "address": "대구 수성구  지범로 252 지하1층상가",
   "phone": "053-781-4983",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 35.817498,
   "longitude": 128.645037,
-  "updated_at": "2026-01-12T11:52:31.358215"
+  "updated_at": "2026-02-03T18:18:37.783784",
+  "first_prize_draws": [
+    1066,
+    714
+  ],
+  "second_prize_draws": [
+    1029,
+    934
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 2
 }

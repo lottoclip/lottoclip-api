@@ -1,0 +1,22 @@
+{
+  "store_id": "12800015",
+  "name": "복권판매점",
+  "address": "인천 남동구  경인로 595 1층 1호",
+  "phone": "032-424-0907",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.460722,
+  "longitude": 126.711473,
+  "updated_at": "2026-02-03T18:15:48.875654",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1032,
+    815,
+    706
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 3
+}

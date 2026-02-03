@@ -1,7 +1,7 @@
 {
   "store_id": "14310051",
   "name": "충주복권명당",
-  "address": "충북 충주시 예성로 23 ",
+  "address": "충북 충주시  예성로 23 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,28 @@
   ],
   "latitude": 36.961074,
   "longitude": 127.929124,
-  "updated_at": "2026-01-12T11:35:08.096840"
+  "updated_at": "2026-02-03T18:28:39.570971",
+  "first_prize_draws": [
+    773,
+    738
+  ],
+  "second_prize_draws": [
+    1191,
+    1066,
+    1043,
+    998,
+    950,
+    919,
+    882,
+    798,
+    780,
+    748,
+    631,
+    585,
+    581,
+    531,
+    285
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 15
 }

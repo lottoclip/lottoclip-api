@@ -1,7 +1,7 @@
 {
   "store_id": "13000115",
   "name": "썬마트",
-  "address": "대전 서구 관저동  1109번지 신선타워105호 GS25편의점",
+  "address": "대전 서구 관저동 1109번지 신선타워105호 GS25편의점",
   "phone": "042-543-2627",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,22 @@
   ],
   "latitude": 36.300805,
   "longitude": 127.334424,
-  "updated_at": "2026-01-12T11:26:52.003642"
+  "updated_at": "2026-02-03T17:59:29.139408",
+  "first_prize_draws": [
+    635,
+    599,
+    578
+  ],
+  "second_prize_draws": [
+    830,
+    813,
+    792,
+    782,
+    775,
+    456,
+    436,
+    331
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 8
 }

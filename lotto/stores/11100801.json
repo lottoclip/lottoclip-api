@@ -1,7 +1,7 @@
 {
   "store_id": "11100801",
-  "name": "담배",
-  "address": "서울 강북구 삼양로 252 ",
+  "name": "1등복권방",
+  "address": "서울 강북구  삼양로 252 ",
   "phone": "02-981-1922",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 37.625848,
   "longitude": 127.018477,
-  "updated_at": "2026-01-12T11:35:20.256071"
+  "updated_at": "2026-02-03T18:23:00.593134",
+  "first_prize_draws": [
+    777,
+    433
+  ],
+  "second_prize_draws": [
+    1120,
+    1116,
+    1082,
+    980,
+    901,
+    633,
+    632,
+    473,
+    354,
+    350,
+    342
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 11
 }

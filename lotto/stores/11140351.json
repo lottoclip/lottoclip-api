@@ -1,7 +1,7 @@
 {
   "store_id": "11140351",
-  "name": "티에스네트웍스",
-  "address": "서울 영등포구  신길로28길  9 상가동 B2층 00006호(신길동 힐스테이트클래시안)",
+  "name": "이마트24신길힐스테이트점",
+  "address": "서울 영등포구  신길로28길 9 상가동 B2층 00006호(신길동 힐스테이트클래시안)",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 37.503335,
   "longitude": 126.911013,
-  "updated_at": "2026-01-12T11:48:16.147404"
+  "updated_at": "2026-02-03T18:19:16.660509",
+  "first_prize_draws": [
+    1000
+  ],
+  "second_prize_draws": [
+    1075
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

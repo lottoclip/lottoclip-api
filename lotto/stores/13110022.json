@@ -1,7 +1,7 @@
 {
   "store_id": "13110022",
   "name": "행운복권방",
-  "address": "울산 중구 반구정6길 18-4 ",
+  "address": "울산 중구  장춘로 66 1층",
   "phone": "052-247-8011",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 35.556201,
   "longitude": 129.345734,
-  "updated_at": "2026-01-12T11:25:40.595022"
+  "updated_at": "2026-02-03T18:11:21.424364",
+  "first_prize_draws": [
+    613
+  ],
+  "second_prize_draws": [
+    977,
+    935,
+    875,
+    861,
+    827,
+    367,
+    320,
+    315
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

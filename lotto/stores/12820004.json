@@ -1,7 +1,7 @@
 {
   "store_id": "12820004",
   "name": "초이스편의점",
-  "address": "인천 남동구 하촌로 6 ",
+  "address": "인천 남동구  하촌로 6 ",
   "phone": "032-462-2630",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 37.449065,
   "longitude": 126.730324,
-  "updated_at": "2026-01-12T11:40:41.785652"
+  "updated_at": "2026-02-03T18:25:55.297030",
+  "first_prize_draws": [
+    874
+  ],
+  "second_prize_draws": [
+    1157,
+    1154,
+    1139,
+    918,
+    871,
+    816
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

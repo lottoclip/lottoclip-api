@@ -1,7 +1,7 @@
 {
   "store_id": "12610028",
   "name": "롯또",
-  "address": "부산 해운대구 윗반송로 77 ",
+  "address": "부산 해운대구  윗반송로 77 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,18 @@
   ],
   "latitude": 35.230891,
   "longitude": 129.157275,
-  "updated_at": "2026-01-12T11:37:08.253092"
+  "updated_at": "2026-02-03T18:22:19.961210",
+  "first_prize_draws": [
+    806,
+    630
+  ],
+  "second_prize_draws": [
+    1114,
+    972,
+    720,
+    676,
+    675
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 5
 }

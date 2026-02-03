@@ -1,0 +1,26 @@
+{
+  "store_id": "11100120",
+  "name": "대박복권방",
+  "address": "서울 중구  퇴계로 398 1층3호",
+  "phone": "02-2235-4010",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.565036,
+  "longitude": 127.015765,
+  "updated_at": "2026-02-03T18:09:56.217265",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    958,
+    706,
+    674,
+    655,
+    445,
+    428,
+    392
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 7
+}

@@ -1,7 +1,7 @@
 {
   "store_id": "13140229",
   "name": "금빛복권",
-  "address": "울산 울주군 봉화로 16 ",
+  "address": "울산 울주군  봉화로 16 왼쪽 복권판매점",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 35.558117,
   "longitude": 129.118395,
-  "updated_at": "2026-01-12T11:59:34.508237"
+  "updated_at": "2026-02-03T18:27:06.936463",
+  "first_prize_draws": [
+    1170
+  ],
+  "second_prize_draws": [
+    1162
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14810197",
   "name": "합천우리복권방",
-  "address": "경남 합천군 핫들2로 8 ",
+  "address": "경남 합천군  핫들2로 8 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 35.56843,
   "longitude": 128.165395,
-  "updated_at": "2026-01-12T12:00:48.646666"
+  "updated_at": "2026-02-03T18:28:48.507838",
+  "first_prize_draws": [
+    1193,
+    1051,
+    948,
+    546,
+    344
+  ],
+  "second_prize_draws": [
+    1171,
+    1155,
+    1096,
+    948,
+    944,
+    820,
+    751,
+    680
+  ],
+  "first_prize_count": 5,
+  "second_prize_count": 8
 }

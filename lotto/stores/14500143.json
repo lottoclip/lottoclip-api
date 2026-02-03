@@ -1,7 +1,7 @@
 {
   "store_id": "14500143",
   "name": "혜성프라자",
-  "address": "전북 익산시 함열중앙로 10 ",
+  "address": "전북 익산시  함열중앙로 10 ",
   "phone": "063-862-1900",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 36.078931,
   "longitude": 126.9585,
-  "updated_at": "2026-01-12T11:14:52.271389"
+  "updated_at": "2026-02-03T18:26:54.239336",
+  "first_prize_draws": [
+    430
+  ],
+  "second_prize_draws": [
+    1167,
+    1163,
+    1104,
+    1099,
+    1024,
+    925,
+    879,
+    834,
+    786,
+    466
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

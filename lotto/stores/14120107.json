@@ -1,7 +1,7 @@
 {
   "store_id": "14120107",
   "name": "하이웨이로또판매점",
-  "address": "경기 의왕시 오전로 24 ",
+  "address": "경기 의왕시 오전로 24 의왕휴게소(상행)  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 37.347544,
   "longitude": 126.984093,
-  "updated_at": "2026-01-12T11:37:51.969723"
+  "updated_at": "2026-02-03T18:29:49.001074",
+  "first_prize_draws": [
+    820
+  ],
+  "second_prize_draws": [
+    1207,
+    1196,
+    1182,
+    1111,
+    1096,
+    1037,
+    971,
+    925,
+    756,
+    734
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

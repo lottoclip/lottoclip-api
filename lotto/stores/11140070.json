@@ -1,7 +1,7 @@
 {
   "store_id": "11140070",
   "name": "고고GOGO로또",
-  "address": "서울 광진구 자양로15길 34 ",
+  "address": "서울 광진구  자양로15길 34 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 37.535644,
   "longitude": 127.081742,
-  "updated_at": "2026-01-12T12:00:09.557516"
+  "updated_at": "2026-02-03T18:27:54.984846",
+  "first_prize_draws": [
+    1181
+  ],
+  "second_prize_draws": [
+    1175,
+    1057,
+    960,
+    935
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

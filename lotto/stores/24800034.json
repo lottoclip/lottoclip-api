@@ -1,7 +1,7 @@
 {
   "store_id": "24800034",
   "name": "GS25(창원코아점)",
-  "address": "경남 창원시 성산구 중앙동 84-1번지 ",
+  "address": "경남 창원시 성산구 중앙동 84-1 ",
   "phone": "055-264-7841",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,21 @@
   ],
   "latitude": 35.226271,
   "longitude": 128.678025,
-  "updated_at": "2026-01-12T11:33:04.779621"
+  "updated_at": "2026-02-03T18:03:03.315159",
+  "first_prize_draws": [
+    734,
+    541
+  ],
+  "second_prize_draws": [
+    879,
+    855,
+    736,
+    630,
+    548,
+    538,
+    480,
+    370
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 8
 }

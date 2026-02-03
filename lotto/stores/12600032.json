@@ -1,12 +1,21 @@
 {
   "store_id": "12600032",
   "name": "노다지로또판매점",
-  "address": "부산 영도구 남항동2가  248-7",
+  "address": "부산 영도구 남항동2가  248-7번지",
   "phone": "051-413-0311",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 35.089095,
   "longitude": 129.039167,
-  "updated_at": "2026-01-12T11:20:06.053312"
+  "updated_at": "2026-02-03T17:36:29.954656",
+  "first_prize_draws": [
+    516
+  ],
+  "second_prize_draws": [
+    553,
+    501
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

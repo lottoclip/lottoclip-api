@@ -1,7 +1,7 @@
 {
   "store_id": "12800172",
   "name": "세븐일레븐 인천효성점",
-  "address": "인천 계양구 안남로 551 ",
+  "address": "인천 계양구  안남로 551 ",
   "phone": "032-547-9341",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,25 @@
   ],
   "latitude": 37.532256,
   "longitude": 126.710383,
-  "updated_at": "2026-01-12T11:51:02.799110"
+  "updated_at": "2026-02-03T18:28:56.801818",
+  "first_prize_draws": [
+    1043,
+    874,
+    525
+  ],
+  "second_prize_draws": [
+    1195,
+    945,
+    920,
+    896,
+    746,
+    690,
+    633,
+    625,
+    546,
+    431,
+    422
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 11
 }

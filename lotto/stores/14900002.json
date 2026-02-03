@@ -1,7 +1,7 @@
 {
   "store_id": "14900002",
   "name": "천하명당복권방",
-  "address": "제주 제주시 중앙로 129 ",
+  "address": "제주 제주시  중앙로 129 ",
   "phone": "064-725-5799",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 33.507113,
   "longitude": 126.524964,
-  "updated_at": "2026-01-12T11:33:30.564444"
+  "updated_at": "2026-02-03T18:18:12.527619",
+  "first_prize_draws": [
+    742
+  ],
+  "second_prize_draws": [
+    1060,
+    1042,
+    884
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

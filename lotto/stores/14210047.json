@@ -1,7 +1,7 @@
 {
   "store_id": "14210047",
   "name": "로또645",
-  "address": "강원 춘천시 퇴계동 945 금호타운아파트상가 1층 8호",
+  "address": "강원 춘천시 퇴계동 1012 CU 춘천한주점",
   "phone": "033-262-5462",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 37.849624,
   "longitude": 127.738425,
-  "updated_at": "2026-01-12T11:34:08.526955"
+  "updated_at": "2026-02-03T18:05:55.890831",
+  "first_prize_draws": [
+    754
+  ],
+  "second_prize_draws": [
+    911,
+    903,
+    482,
+    480
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

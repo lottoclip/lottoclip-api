@@ -1,12 +1,25 @@
 {
   "store_id": "24100306",
   "name": "CU(광탄개나리점)",
-  "address": "경기 파주시 광탄면 신산리 358-10번지 화설프라자",
+  "address": "경기 파주시  혜음로 1139 훼미리마트 화설프라자",
   "phone": "031-947-4239",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.782731,
   "longitude": 126.846264,
-  "updated_at": "2026-01-12T11:38:23.053985"
+  "updated_at": "2026-02-03T18:11:58.596502",
+  "first_prize_draws": [
+    830,
+    645,
+    373
+  ],
+  "second_prize_draws": [
+    982,
+    965,
+    850,
+    801
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 4
 }

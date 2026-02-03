@@ -1,7 +1,7 @@
 {
   "store_id": "14810062",
   "name": "꿈의가게",
-  "address": "경남 김해시 계동로 220 ",
+  "address": "경남 김해시  계동로 220 102호 복권판매점",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 35.190304,
   "longitude": 128.802199,
-  "updated_at": "2026-01-12T11:43:53.545648"
+  "updated_at": "2026-02-03T18:29:32.054603",
+  "first_prize_draws": [
+    921,
+    546
+  ],
+  "second_prize_draws": [
+    1203,
+    1181,
+    822,
+    715,
+    404,
+    310,
+    268
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 7
 }

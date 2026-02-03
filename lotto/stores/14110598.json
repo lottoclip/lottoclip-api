@@ -1,7 +1,7 @@
 {
   "store_id": "14110598",
   "name": "럭키복권방",
-  "address": "경기 수원시 영통구 센트럴타운로 15 ",
+  "address": "경기 수원시 영통구  센트럴타운로 15 아이플렉스104호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 37.288117,
   "longitude": 127.057402,
-  "updated_at": "2026-01-12T11:39:45.165589"
+  "updated_at": "2026-02-03T18:23:26.124712",
+  "first_prize_draws": [
+    856,
+    604,
+    464
+  ],
+  "second_prize_draws": [
+    1126,
+    1122,
+    925,
+    882,
+    698,
+    675,
+    645,
+    634,
+    592
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 9
 }

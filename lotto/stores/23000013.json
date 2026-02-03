@@ -1,12 +1,21 @@
 {
   "store_id": "23000013",
-  "name": "GS25(뉴둔산타운)",
-  "address": "대전 서구 둔산동  1095번지하이스트빌1층104호",
+  "name": "GS25(뉴둔산타운점)",
+  "address": "대전 서구  갈마역로 14 하이스트빌 하이스트빌1층104호",
   "phone": "042-471-1078",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 36.351565,
   "longitude": 127.374022,
-  "updated_at": "2026-01-12T11:22:07.973611"
+  "updated_at": "2026-02-03T18:12:29.804180",
+  "first_prize_draws": [
+    555
+  ],
+  "second_prize_draws": [
+    989,
+    580
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

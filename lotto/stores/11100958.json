@@ -1,7 +1,7 @@
 {
   "store_id": "11100958",
   "name": "우리은행금호동지점앞가판",
-  "address": "서울 성동구 장터길 46 ",
+  "address": "서울 성동구  장터길 46 ",
   "phone": "02-2297-8965",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,26 @@
   ],
   "latitude": 37.548143,
   "longitude": 127.020975,
-  "updated_at": "2026-01-12T11:53:24.719258"
+  "updated_at": "2026-02-03T18:24:21.943721",
+  "first_prize_draws": [
+    1078,
+    928,
+    874,
+    466
+  ],
+  "second_prize_draws": [
+    1139,
+    1135,
+    1128,
+    1089,
+    1086,
+    1084,
+    1063,
+    1034,
+    764,
+    509,
+    324
+  ],
+  "first_prize_count": 4,
+  "second_prize_count": 11
 }

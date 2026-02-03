@@ -1,7 +1,7 @@
 {
   "store_id": "13100068",
   "name": "우리들공업탑점",
-  "address": "울산 남구 수암로 21 ",
+  "address": "울산 남구  수암로 11 ",
   "phone": "052-258-1909",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,25 @@
   ],
   "latitude": 35.532272,
   "longitude": 129.31059,
-  "updated_at": "2026-01-12T11:44:02.644349"
+  "updated_at": "2026-02-03T18:14:38.397039",
+  "first_prize_draws": [
+    924,
+    770,
+    758,
+    405,
+    323
+  ],
+  "second_prize_draws": [
+    1019,
+    968,
+    948,
+    947,
+    922,
+    810,
+    792,
+    578,
+    364
+  ],
+  "first_prize_count": 5,
+  "second_prize_count": 9
 }

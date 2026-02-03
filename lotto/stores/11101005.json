@@ -1,7 +1,7 @@
 {
   "store_id": "11101005",
   "name": "우리샵",
-  "address": "서울 서초구 강남대로 405 ",
+  "address": "서울 서초구  강남대로 405 ",
   "phone": "02-532-9471",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,26 @@
   ],
   "latitude": 37.498775,
   "longitude": 127.026691,
-  "updated_at": "2026-01-12T11:55:30.540488"
+  "updated_at": "2026-02-03T18:29:09.608868",
+  "first_prize_draws": [
+    1108,
+    699
+  ],
+  "second_prize_draws": [
+    1198,
+    1164,
+    1130,
+    1013,
+    1005,
+    998,
+    959,
+    805,
+    793,
+    747,
+    688,
+    606,
+    277
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 13
 }

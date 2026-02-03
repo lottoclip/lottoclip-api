@@ -1,7 +1,7 @@
 {
   "store_id": "14410120",
   "name": "날개복권#",
-  "address": "충남 서산시 율지5로 16 ",
+  "address": "충남 서산시  율지5로 16 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 36.777521,
   "longitude": 126.464272,
-  "updated_at": "2026-01-12T11:47:31.975338"
+  "updated_at": "2026-02-03T18:16:29.934718",
+  "first_prize_draws": [
+    986,
+    830
+  ],
+  "second_prize_draws": [
+    1041,
+    788,
+    776,
+    621,
+    386
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 5
 }

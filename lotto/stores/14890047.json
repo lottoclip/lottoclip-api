@@ -1,7 +1,7 @@
 {
   "store_id": "14890047",
-  "name": "영화복권방",
-  "address": "경남 김해시 덕정로 158 ",
+  "name": "로또카페(씨스페이스)",
+  "address": "경남 김해시  덕정로 158 복권판매점",
   "phone": "055-339-8295",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,25 @@
   ],
   "latitude": 35.178428,
   "longitude": 128.801786,
-  "updated_at": "2026-01-12T11:20:59.331412"
+  "updated_at": "2026-02-03T18:22:33.171008",
+  "first_prize_draws": [
+    533,
+    361
+  ],
+  "second_prize_draws": [
+    1117,
+    1086,
+    1056,
+    1041,
+    917,
+    915,
+    804,
+    790,
+    784,
+    734,
+    672,
+    395
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 12
 }

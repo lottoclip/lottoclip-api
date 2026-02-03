@@ -1,7 +1,7 @@
 {
   "store_id": "14810160",
   "name": "해피복권",
-  "address": "경남 창원시 마산합포구 가포로 98 ",
+  "address": "경남 창원시 마산회원구 양덕동 17-3번지 양덕편의점 내",
   "phone": "055-242-0645",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 35.175564,
   "longitude": 128.562308,
-  "updated_at": "2026-01-12T11:38:54.910791"
+  "updated_at": "2026-02-03T18:00:13.614616",
+  "first_prize_draws": [
+    840,
+    692,
+    432
+  ],
+  "second_prize_draws": [
+    612,
+    604,
+    581,
+    451,
+    370
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 5
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "13190025",
-  "name": "모닝할인마트(달동본점)",
-  "address": "울산 남구 두왕로78번길 5-2 ",
+  "name": "한우리마트",
+  "address": "울산 남구 삼산동 1594-4번지 ",
   "phone": "052-275-0151",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 35.510427,
   "longitude": 129.309799,
-  "updated_at": "2026-01-12T11:14:25.113290"
+  "updated_at": "2026-02-03T17:54:58.403517",
+  "first_prize_draws": [
+    426
+  ],
+  "second_prize_draws": [
+    774
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

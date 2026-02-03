@@ -1,7 +1,7 @@
 {
   "store_id": "14640178",
   "name": "영광믿음복권",
-  "address": "전남 영광군 신남로 169 ",
+  "address": "전남 영광군 신남로 169 1층 101호  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 35.276104,
   "longitude": 126.500591,
-  "updated_at": "2026-01-12T11:58:17.399106"
+  "updated_at": "2026-02-03T18:29:57.767951",
+  "first_prize_draws": [
+    1146
+  ],
+  "second_prize_draws": [
+    1209,
+    1159
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

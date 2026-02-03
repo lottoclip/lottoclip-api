@@ -1,7 +1,7 @@
 {
   "store_id": "14710060",
   "name": "라이프25시",
-  "address": "경북 구미시  구포동 536-2번지GS25편의점 내",
+  "address": "경북 구미시 구포동 536-2번지 GS25편의점 내",
   "phone": "054-453-9317",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,15 @@
   ],
   "latitude": 36.117833,
   "longitude": 128.340028,
-  "updated_at": "2026-01-12T11:29:23.981667"
+  "updated_at": "2026-02-03T17:47:49.054582",
+  "first_prize_draws": [
+    674
+  ],
+  "second_prize_draws": [
+    697,
+    570,
+    416
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

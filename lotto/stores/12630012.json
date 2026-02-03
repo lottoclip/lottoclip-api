@@ -1,7 +1,7 @@
 {
   "store_id": "12630012",
   "name": "황금코끼리로또점",
-  "address": "부산 북구 금곡대로 318 ",
+  "address": "부산 북구  금곡대로 318 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 35.236715,
   "longitude": 129.014156,
-  "updated_at": "2026-01-12T11:52:59.274241"
+  "updated_at": "2026-02-03T18:28:48.022678",
+  "first_prize_draws": [
+    1070
+  ],
+  "second_prize_draws": [
+    1193,
+    1192,
+    1189,
+    1137,
+    1124,
+    1081,
+    823,
+    812
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

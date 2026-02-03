@@ -1,7 +1,7 @@
 {
   "store_id": "11100281",
   "name": "달랑슈퍼",
-  "address": "서울 강남구 삼성로82길 22 ",
+  "address": "서울 강남구  삼성로82길 22 ",
   "phone": "02-508-8046",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 37.50528,
   "longitude": 127.059512,
-  "updated_at": "2026-01-12T11:25:52.362289"
+  "updated_at": "2026-02-03T18:21:45.669343",
+  "first_prize_draws": [
+    616
+  ],
+  "second_prize_draws": [
+    1106,
+    1004,
+    701,
+    588
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

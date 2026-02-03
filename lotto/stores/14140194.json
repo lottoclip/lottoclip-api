@@ -1,7 +1,7 @@
 {
   "store_id": "14140194",
   "name": "붐",
-  "address": "경기 파주시 동패로63번길 48-15 ",
+  "address": "경기 파주시  동패로63번길 48-15 101호",
   "phone": "031-943-2432",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 37.710728,
   "longitude": 126.738002,
-  "updated_at": "2026-01-12T11:46:48.245193"
+  "updated_at": "2026-02-03T18:17:50.427708",
+  "first_prize_draws": [
+    977
+  ],
+  "second_prize_draws": [
+    1056,
+    994,
+    948,
+    782,
+    747
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

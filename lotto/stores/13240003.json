@@ -1,7 +1,7 @@
 {
   "store_id": "13240003",
   "name": "세종청사로또",
-  "address": "세종   절재로 194 ",
+  "address": "세종  절재로 194 중앙타운 114호  ",
   "phone": "044-864-0401",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 36.508392,
   "longitude": 127.262204,
-  "updated_at": "2026-01-12T12:00:00.224000"
+  "updated_at": "2026-02-03T18:29:44.705640",
+  "first_prize_draws": [
+    1178
+  ],
+  "second_prize_draws": [
+    1206,
+    1189,
+    1185,
+    1101,
+    1071,
+    962,
+    943,
+    879
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

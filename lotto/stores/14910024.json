@@ -1,7 +1,7 @@
 {
   "store_id": "14910024",
   "name": "본스튜디오",
-  "address": "제주 제주시 하귀로 111 ",
+  "address": "제주 제주시  하귀로 111 ",
   "phone": "064-713-2055",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 33.483591,
   "longitude": 126.407875,
-  "updated_at": "2026-01-12T11:58:40.070956"
+  "updated_at": "2026-02-03T18:27:55.513555",
+  "first_prize_draws": [
+    1153,
+    1041,
+    975,
+    963
+  ],
+  "second_prize_draws": [
+    1181,
+    1133,
+    1116,
+    1088,
+    1019,
+    1001,
+    913,
+    731,
+    548
+  ],
+  "first_prize_count": 4,
+  "second_prize_count": 9
 }

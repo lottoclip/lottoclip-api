@@ -1,7 +1,7 @@
 {
   "store_id": "14140350",
   "name": "로또석모리",
-  "address": "경기 김포시 석모로 42 ",
+  "address": "경기 김포시  석모로 42 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 37.652552,
   "longitude": 126.645629,
-  "updated_at": "2026-01-12T11:42:17.546763"
+  "updated_at": "2026-02-03T18:24:05.209620",
+  "first_prize_draws": [
+    895
+  ],
+  "second_prize_draws": [
+    1135,
+    1122,
+    1071,
+    1031,
+    995,
+    994,
+    985,
+    980
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

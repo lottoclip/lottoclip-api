@@ -1,7 +1,7 @@
 {
   "store_id": "13090039",
   "name": "아이마트",
-  "address": "대전 서구 둔산로 230 ",
+  "address": "대전 서구  둔산로 230 ",
   "phone": "042-485-6579",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 36.351065,
   "longitude": 127.399605,
-  "updated_at": "2026-01-12T11:49:44.052510"
+  "updated_at": "2026-02-03T18:24:09.445287",
+  "first_prize_draws": [
+    1023
+  ],
+  "second_prize_draws": [
+    1136,
+    1134,
+    1000,
+    832,
+    811,
+    759,
+    564,
+    497
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

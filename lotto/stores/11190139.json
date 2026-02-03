@@ -1,14 +1,27 @@
 {
   "store_id": "11190139",
   "name": "가로판매점",
-  "address": "서울 영등포구 경인로 862 ",
+  "address": "서울 영등포구  경인로 862 ",
   "phone": "02-2675-6566",
   "lottery_types": [
     "lotto645",
     "pension720",
     "speetto"
   ],
-  "latitude": 37.51688,
-  "longitude": 126.908419,
-  "updated_at": "2026-01-12T11:57:04.248184"
+  "latitude": 37.523366,
+  "longitude": 126.92345,
+  "updated_at": "2026-02-03T18:26:36.716601",
+  "first_prize_draws": [
+    1128
+  ],
+  "second_prize_draws": [
+    1163,
+    1022,
+    784,
+    552,
+    529,
+    522
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

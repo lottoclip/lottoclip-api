@@ -1,7 +1,7 @@
 {
   "store_id": "24100290",
   "name": "CU(구리토평점)",
-  "address": "경기 구리시 토평동 997번지 ",
+  "address": "경기 구리시  벌말로 188 ",
   "phone": "031-569-4205",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,15 @@
   ],
   "latitude": 37.593136,
   "longitude": 127.150665,
-  "updated_at": "2026-01-12T11:38:54.873470"
+  "updated_at": "2026-02-03T18:08:25.614458",
+  "first_prize_draws": [
+    840
+  ],
+  "second_prize_draws": [
+    942,
+    870,
+    377
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

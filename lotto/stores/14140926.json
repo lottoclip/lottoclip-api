@@ -1,7 +1,7 @@
 {
   "store_id": "14140926",
   "name": "천운",
-  "address": "경기 의정부시 문충로 110 ",
+  "address": "경기 의정부시 문충로 110 106호(고산동백봉프라자)  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 37.730229,
   "longitude": 127.106602,
-  "updated_at": "2026-01-12T11:49:53.534272"
+  "updated_at": "2026-02-03T18:29:49.008788",
+  "first_prize_draws": [
+    1026
+  ],
+  "second_prize_draws": [
+    1207
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

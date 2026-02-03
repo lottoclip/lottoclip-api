@@ -1,7 +1,7 @@
 {
   "store_id": "14810072",
   "name": "복권방",
-  "address": "경남 창원시 마산합포구 3·15대로 391-1 ",
+  "address": "경남 창원시 마산합포구 중성동 18-6번지 ",
   "phone": "055-224-2047",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 35.209634,
   "longitude": 128.574427,
-  "updated_at": "2026-01-12T11:18:12.988410"
+  "updated_at": "2026-02-03T18:01:15.537427",
+  "first_prize_draws": [
+    485
+  ],
+  "second_prize_draws": [
+    854,
+    639,
+    508
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

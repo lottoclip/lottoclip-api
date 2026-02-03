@@ -1,7 +1,7 @@
 {
   "store_id": "14120065",
   "name": "오예로또",
-  "address": "경기 안성시 주래본죽로 32 ",
+  "address": "경기 안성시  주래본죽로 32 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 37.093606,
   "longitude": 127.477908,
-  "updated_at": "2026-01-12T11:56:17.491852"
+  "updated_at": "2026-02-03T18:22:37.138571",
+  "first_prize_draws": [
+    1118
+  ],
+  "second_prize_draws": [
+    810
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

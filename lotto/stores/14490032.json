@@ -1,7 +1,7 @@
 {
   "store_id": "14490032",
   "name": "킹마트",
-  "address": "충남 천안시 서북구 성정동 624-4",
+  "address": "충남 천안시 서북구 성거읍 저리 144-10 ",
   "phone": "041-576-7207",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,15 @@
   ],
   "latitude": 36.878883,
   "longitude": 127.200838,
-  "updated_at": "2026-01-12T11:25:34.414430"
+  "updated_at": "2026-02-03T17:56:08.388448",
+  "first_prize_draws": [
+    611,
+    517
+  ],
+  "second_prize_draws": [
+    789,
+    486
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 2
 }

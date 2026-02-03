@@ -1,0 +1,28 @@
+{
+  "store_id": "14110664",
+  "name": "복권판매",
+  "address": "경기 하남시 감북동 419-21번지 ",
+  "phone": "031-791-5050",
+  "lottery_types": [
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 37.539778,
+  "longitude": 127.201448,
+  "updated_at": "2026-02-03T17:55:44.353236",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    784,
+    757,
+    722,
+    629,
+    613,
+    588,
+    454,
+    416,
+    329,
+    308
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 10
+}

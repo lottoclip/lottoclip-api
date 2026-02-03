@@ -1,7 +1,7 @@
 {
   "store_id": "14100191",
   "name": "복권만당",
-  "address": "경기 군포시 군포로 489-2 ",
+  "address": "경기 군포시  군포로 489-2 ",
   "phone": "031-392-0678",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,27 @@
   ],
   "latitude": 37.350187,
   "longitude": 126.944146,
-  "updated_at": "2026-01-12T11:57:36.456327"
+  "updated_at": "2026-02-03T18:24:17.966358",
+  "first_prize_draws": [
+    1138
+  ],
+  "second_prize_draws": [
+    1009,
+    995,
+    941,
+    937,
+    835,
+    814,
+    724,
+    690,
+    663,
+    650,
+    585,
+    442,
+    382,
+    343,
+    341
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 15
 }

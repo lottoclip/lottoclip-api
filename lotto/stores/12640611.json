@@ -1,7 +1,7 @@
 {
   "store_id": "12640611",
   "name": "승리복권판매점",
-  "address": "부산 수영구 좌수영로101번길 52 ",
+  "address": "부산 수영구  좌수영로101번길 52 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,11 @@
   ],
   "latitude": 35.173916,
   "longitude": 129.117157,
-  "updated_at": "2026-01-12T11:57:04.377861"
+  "updated_at": "2026-02-03T18:23:34.524107",
+  "first_prize_draws": [
+    1128
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

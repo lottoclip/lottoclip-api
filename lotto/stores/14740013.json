@@ -1,7 +1,7 @@
 {
   "store_id": "14740013",
   "name": "안계 나눔로또",
-  "address": "경북 의성군 안계시장길 43 ",
+  "address": "경북 의성군  안계시장길 43 ",
   "phone": "054-861-2700",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 36.385171,
   "longitude": 128.436903,
-  "updated_at": "2026-01-12T11:45:55.165423"
+  "updated_at": "2026-02-03T18:28:12.847501",
+  "first_prize_draws": [
+    960,
+    947
+  ],
+  "second_prize_draws": [
+    1185,
+    954,
+    824
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 3
 }

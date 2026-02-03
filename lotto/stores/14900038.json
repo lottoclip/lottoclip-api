@@ -1,7 +1,7 @@
 {
   "store_id": "14900038",
   "name": "소요(용담점)",
-  "address": "제주 제주시 서문로 18-1 ",
+  "address": "제주 제주시  서문로 18-1 ",
   "phone": "064-726-9554",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 33.509683,
   "longitude": 126.513515,
-  "updated_at": "2026-01-12T11:45:45.758140"
+  "updated_at": "2026-02-03T18:27:29.816122",
+  "first_prize_draws": [
+    957
+  ],
+  "second_prize_draws": [
+    1175,
+    1148,
+    1015,
+    1002,
+    991,
+    974,
+    887,
+    831,
+    611,
+    505
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

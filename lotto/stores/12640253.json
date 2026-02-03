@@ -1,7 +1,7 @@
 {
   "store_id": "12640253",
   "name": "일등복권방",
-  "address": "부산 남구 고동골로 3 ",
+  "address": "부산 남구 고동골로 3  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 35.137332,
   "longitude": 129.070962,
-  "updated_at": "2026-01-12T11:57:04.295771"
+  "updated_at": "2026-02-03T18:29:48.783516",
+  "first_prize_draws": [
+    1128,
+    1032
+  ],
+  "second_prize_draws": [
+    1207,
+    1184,
+    1175,
+    1162,
+    1056
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 5
 }

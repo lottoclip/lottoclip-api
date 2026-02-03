@@ -1,7 +1,7 @@
 {
   "store_id": "11140740",
   "name": "골드리치",
-  "address": "서울 강남구 자곡로 192 ",
+  "address": "서울 강남구  자곡로 192 1층 102호(강남푸르지오시티 2차)",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,11 @@
   ],
   "latitude": 37.474517,
   "longitude": 127.103922,
-  "updated_at": "2026-01-12T11:53:53.461061"
+  "updated_at": "2026-02-03T18:20:24.436112",
+  "first_prize_draws": [
+    1087
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

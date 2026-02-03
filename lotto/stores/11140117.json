@@ -1,7 +1,7 @@
 {
   "store_id": "11140117",
   "name": "행운복권마트",
-  "address": "서울 종로구 지봉로 58 ",
+  "address": "서울 종로구  지봉로 58 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 37.575313,
   "longitude": 127.015856,
-  "updated_at": "2026-01-12T11:50:59.480271"
+  "updated_at": "2026-02-03T18:23:56.520986",
+  "first_prize_draws": [
+    1042,
+    926
+  ],
+  "second_prize_draws": [
+    1133,
+    987,
+    940
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 3
 }

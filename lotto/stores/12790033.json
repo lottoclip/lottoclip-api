@@ -1,7 +1,7 @@
 {
   "store_id": "12790033",
   "name": "왕대박복권방",
-  "address": "대구 북구 태전로 27-1 ",
+  "address": "대구 북구  태전로 27-1 ",
   "phone": "053-313-1011",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 35.922871,
   "longitude": 128.544601,
-  "updated_at": "2026-01-12T11:17:45.279260"
+  "updated_at": "2026-02-03T18:24:30.637869",
+  "first_prize_draws": [
+    476
+  ],
+  "second_prize_draws": [
+    1141,
+    1119,
+    1107,
+    1070,
+    986,
+    880,
+    694,
+    659,
+    598,
+    576,
+    388,
+    375
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 12
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14200059",
-  "name": "현대슈퍼",
-  "address": "강원 강릉시 입암로 157 ",
+  "name": "입암복권방",
+  "address": "강원 강릉시  입암로 157 103호",
   "phone": "033-647-4833",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 37.759714,
   "longitude": 128.918413,
-  "updated_at": "2026-01-12T11:33:08.320711"
+  "updated_at": "2026-02-03T18:28:03.851180",
+  "first_prize_draws": [
+    735
+  ],
+  "second_prize_draws": [
+    1183,
+    1106,
+    873,
+    559,
+    430
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

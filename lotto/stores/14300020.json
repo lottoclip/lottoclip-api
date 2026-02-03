@@ -1,7 +1,7 @@
 {
   "store_id": "14300020",
   "name": "남운유통",
-  "address": "충북 충주시 애향로 40 ",
+  "address": "충북 충주시  애향로 40 1층",
   "phone": "043-855-7739",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 36.973762,
   "longitude": 127.914246,
-  "updated_at": "2026-01-12T11:47:35.200900"
+  "updated_at": "2026-02-03T18:27:29.684272",
+  "first_prize_draws": [
+    987
+  ],
+  "second_prize_draws": [
+    1175,
+    1095,
+    923,
+    569,
+    512,
+    465,
+    426
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

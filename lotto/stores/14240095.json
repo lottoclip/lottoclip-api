@@ -1,7 +1,7 @@
 {
   "store_id": "14240095",
   "name": "금강산로또",
-  "address": "강원 양구군 춘양로 2888 ",
+  "address": "강원 양구군  춘양로 2888 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 38.084655,
   "longitude": 127.995509,
-  "updated_at": "2026-01-12T11:52:25.056683"
+  "updated_at": "2026-02-03T18:28:48.371375",
+  "first_prize_draws": [
+    1064
+  ],
+  "second_prize_draws": [
+    1193,
+    1192,
+    1108
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

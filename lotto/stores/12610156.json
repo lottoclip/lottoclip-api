@@ -1,0 +1,20 @@
+{
+  "store_id": "12610156",
+  "name": "로또복권",
+  "address": "부산 서구 동대신동3가  13-7번지CU편의점",
+  "phone": "051-247-9077",
+  "lottery_types": [
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 35.119672,
+  "longitude": 129.016191,
+  "updated_at": "2026-02-03T17:37:00.733699",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    560,
+    425
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 2
+}

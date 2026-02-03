@@ -1,7 +1,7 @@
 {
   "store_id": "11140848",
   "name": "골든 메가 복권판매점",
-  "address": "서울 동작구 동작대로 89 ",
+  "address": "서울 동작구  동작대로 89 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 37.48467,
   "longitude": 126.9817,
-  "updated_at": "2026-01-12T11:53:24.709426"
+  "updated_at": "2026-02-03T18:26:40.882398",
+  "first_prize_draws": [
+    1078
+  ],
+  "second_prize_draws": [
+    1164
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

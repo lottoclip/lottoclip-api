@@ -1,7 +1,7 @@
 {
   "store_id": "12700162",
   "name": "자유극장옆토큰판매소",
-  "address": "대구 중구 중앙대로 446-2 ",
+  "address": "대구 중구 화전동 21-2번지 ",
   "phone": "053-426-0201",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 35.872857,
   "longitude": 128.594528,
-  "updated_at": "2026-01-12T11:21:49.380661"
+  "updated_at": "2026-02-03T17:57:29.845529",
+  "first_prize_draws": [
+    549
+  ],
+  "second_prize_draws": [
+    808,
+    339,
+    263
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

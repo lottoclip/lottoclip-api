@@ -1,12 +1,21 @@
 {
   "store_id": "21100195",
-  "name": "GS25(석촌센타)",
-  "address": "서울 송파구  석촌동 272-25번지",
+  "name": "GS25(석촌센타점)",
+  "address": "서울 송파구 석촌동 272-25번지 ",
   "phone": "02-417-6878",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.501018,
   "longitude": 127.106603,
-  "updated_at": "2026-01-12T11:27:44.224228"
+  "updated_at": "2026-02-03T18:03:31.242070",
+  "first_prize_draws": [
+    647
+  ],
+  "second_prize_draws": [
+    882,
+    648
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

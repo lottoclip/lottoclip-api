@@ -1,7 +1,7 @@
 {
   "store_id": "14130183",
-  "name": "향남복권",
-  "address": "경기 화성시 삼천병마로 709 ",
+  "name": "한길",
+  "address": "경기 화성시  삼천병마로 709 ",
   "phone": "070-8845-6041",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 37.17124,
   "longitude": 126.935964,
-  "updated_at": "2026-01-12T11:48:44.938273"
+  "updated_at": "2026-02-03T18:29:36.304539",
+  "first_prize_draws": [
+    1009
+  ],
+  "second_prize_draws": [
+    1204,
+    1191,
+    1128,
+    1098,
+    1022,
+    995,
+    973,
+    969,
+    925,
+    914,
+    815
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 11
 }

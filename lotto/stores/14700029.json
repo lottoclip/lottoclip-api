@@ -1,7 +1,7 @@
 {
   "store_id": "14700029",
   "name": "복권명당도량2호점",
-  "address": "경북 구미시 문장로8길 1 ",
+  "address": "경북 구미시 도량동 792-210번지 ",
   "phone": "054-451-6697",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 36.138028,
   "longitude": 128.332479,
-  "updated_at": "2026-01-12T11:16:12.752879"
+  "updated_at": "2026-02-03T18:00:18.324763",
+  "first_prize_draws": [
+    451
+  ],
+  "second_prize_draws": [
+    841,
+    343
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

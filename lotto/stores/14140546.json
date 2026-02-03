@@ -1,7 +1,7 @@
 {
   "store_id": "14140546",
   "name": "최강복권&아이스크림",
-  "address": "경기 고양시 덕양구 삼송로 176-1 ",
+  "address": "경기 고양시 덕양구  삼송로 176-1 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 37.6531,
   "longitude": 126.893534,
-  "updated_at": "2026-01-12T11:53:21.350156"
+  "updated_at": "2026-02-03T18:23:47.861306",
+  "first_prize_draws": [
+    1077,
+    1001
+  ],
+  "second_prize_draws": [
+    1131,
+    1080,
+    1049,
+    951
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 4
 }

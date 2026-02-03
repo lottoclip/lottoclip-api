@@ -1,7 +1,7 @@
 {
   "store_id": "11101001",
-  "name": "-",
-  "address": "서울 서초구 신반포로 194 ",
+  "name": "경부선 하차장로또방",
+  "address": "서울 서초구  신반포로 194 강남고속버스터미널 코너1호점 (하차장로또)",
   "phone": "02-593-1945",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 37.505509,
   "longitude": 127.007038,
-  "updated_at": "2026-01-12T11:33:30.452653"
+  "updated_at": "2026-02-03T18:18:46.484585",
+  "first_prize_draws": [
+    742,
+    578,
+    413
+  ],
+  "second_prize_draws": [
+    1068,
+    1066,
+    1057,
+    959,
+    929,
+    745,
+    575,
+    451
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 8
 }

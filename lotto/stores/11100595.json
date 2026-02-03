@@ -1,7 +1,7 @@
 {
   "store_id": "11100595",
   "name": "명신사",
-  "address": "서울 마포구 월드컵로 97 ",
+  "address": "서울 마포구  월드컵로 97 ",
   "phone": "02-336-6846",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 37.557252,
   "longitude": 126.908637,
-  "updated_at": "2026-01-12T12:00:45.110976"
+  "updated_at": "2026-02-03T18:28:43.488999",
+  "first_prize_draws": [
+    1192,
+    1130,
+    933
+  ],
+  "second_prize_draws": [
+    1103,
+    1045,
+    1014,
+    936,
+    881,
+    842,
+    760,
+    662
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 8
 }

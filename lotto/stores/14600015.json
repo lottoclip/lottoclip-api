@@ -1,7 +1,7 @@
 {
   "store_id": "14600015",
   "name": "로또나라",
-  "address": "전남 광양시 중마중앙로 126 ",
+  "address": "전남 광양시 중마중앙로 126 1층  ",
   "phone": "061-793-9994",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,26 @@
   ],
   "latitude": 34.941515,
   "longitude": 127.698348,
-  "updated_at": "2026-01-12T11:19:37.133613"
+  "updated_at": "2026-02-03T18:29:53.327971",
+  "first_prize_draws": [
+    507
+  ],
+  "second_prize_draws": [
+    1208,
+    1190,
+    1035,
+    934,
+    917,
+    870,
+    767,
+    703,
+    692,
+    528,
+    495,
+    467,
+    454,
+    322
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 14
 }

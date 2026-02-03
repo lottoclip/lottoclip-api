@@ -1,12 +1,32 @@
 {
   "store_id": "11110255",
   "name": "로또판매점",
-  "address": "서울 노원구 상계로 309-1 ",
+  "address": "서울 노원구  상계로 309-1 cu",
   "phone": null,
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.670873,
   "longitude": 127.079986,
-  "updated_at": "2026-01-12T11:34:33.400354"
+  "updated_at": "2026-02-03T18:29:18.020525",
+  "first_prize_draws": [
+    762,
+    428
+  ],
+  "second_prize_draws": [
+    1200,
+    1137,
+    1081,
+    997,
+    740,
+    728,
+    706,
+    697,
+    653,
+    631,
+    523,
+    316
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 12
 }

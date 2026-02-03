@@ -1,0 +1,25 @@
+{
+  "store_id": "11110388",
+  "name": "대박복권",
+  "address": "서울 은평구 진흥로1길 27 1층  ",
+  "phone": "02-355-1815",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.602874,
+  "longitude": 126.918384,
+  "updated_at": "2026-02-03T18:29:40.297524",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1205,
+    1163,
+    1001,
+    868,
+    831,
+    727
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 6
+}

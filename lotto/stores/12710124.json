@@ -1,7 +1,7 @@
 {
   "store_id": "12710124",
   "name": "로또나라",
-  "address": "대구 남구 장전1길 30-21 ",
+  "address": "대구 남구  장전1길 30-21 ",
   "phone": "053-652-1819",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 35.841961,
   "longitude": 128.572885,
-  "updated_at": "2026-01-12T11:58:30.078371"
+  "updated_at": "2026-02-03T18:25:24.243037",
+  "first_prize_draws": [
+    1150,
+    839
+  ],
+  "second_prize_draws": [
+    919,
+    916,
+    551,
+    494
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 4
 }

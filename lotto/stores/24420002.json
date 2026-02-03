@@ -1,7 +1,7 @@
 {
   "store_id": "24420002",
   "name": "GS25(두정메트로점)",
-  "address": "충남 천안시 서북구 성정동 1451번지 ",
+  "address": "충남 천안시 서북구 성정동 1451 ",
   "phone": "041-565-2343",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 36.826558,
   "longitude": 127.141483,
-  "updated_at": "2026-01-12T11:36:01.144501"
+  "updated_at": "2026-02-03T18:06:44.162607",
+  "first_prize_draws": [
+    785,
+    781,
+    662,
+    636
+  ],
+  "second_prize_draws": [
+    920,
+    792,
+    652,
+    625,
+    585,
+    413
+  ],
+  "first_prize_count": 4,
+  "second_prize_count": 6
 }

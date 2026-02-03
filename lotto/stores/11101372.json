@@ -1,7 +1,7 @@
 {
   "store_id": "11101372",
   "name": "비디오카페(성수점)",
-  "address": "서울 성동구 성덕정길 84 ",
+  "address": "서울 성동구  성덕정길 84 1층",
   "phone": "02-499-7331",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 37.53776,
   "longitude": 127.052762,
-  "updated_at": "2026-01-12T11:35:11.101826"
+  "updated_at": "2026-02-03T18:19:30.264808",
+  "first_prize_draws": [
+    774
+  ],
+  "second_prize_draws": [
+    1078,
+    1016,
+    886,
+    867,
+    817,
+    565
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

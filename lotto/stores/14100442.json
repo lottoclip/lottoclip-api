@@ -1,7 +1,7 @@
 {
   "store_id": "14100442",
   "name": "메트로복권",
-  "address": "경기 성남시 분당구 성남대로916번길 5 ",
+  "address": "경기 성남시 분당구  성남대로916번길 5 관보골든쇼핑스포츠빌딩 1층 112호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 37.411638,
   "longitude": 127.12984,
-  "updated_at": "2026-01-12T11:20:53.172636"
+  "updated_at": "2026-02-03T18:10:18.807717",
+  "first_prize_draws": [
+    531,
+    527
+  ],
+  "second_prize_draws": [
+    963,
+    957,
+    673,
+    651,
+    640,
+    617,
+    570,
+    512,
+    425
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 9
 }

@@ -1,12 +1,22 @@
 {
   "store_id": "11110083",
-  "name": "굿모닝",
-  "address": "서울 마포구 대흥동  3-34",
+  "name": "굿모닝마트",
+  "address": "서울 마포구 창전동(서강동) 104-2 ",
   "phone": "02-715-2206",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.549201,
   "longitude": 126.931437,
-  "updated_at": "2026-01-12T11:14:18.861748"
+  "updated_at": "2026-02-03T17:57:29.735228",
+  "first_prize_draws": [
+    424
+  ],
+  "second_prize_draws": [
+    808,
+    664,
+    642
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

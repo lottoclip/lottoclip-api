@@ -1,7 +1,7 @@
 {
   "store_id": "14710098",
   "name": "로또복권",
-  "address": "경북 포항시 북구 용두산길 31 ",
+  "address": "경북 포항시 북구  용두산길 31 파리바케트 옆",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 36.066431,
   "longitude": 129.381008,
-  "updated_at": "2026-01-12T11:35:38.764969"
+  "updated_at": "2026-02-03T18:28:25.851579",
+  "first_prize_draws": [
+    778
+  ],
+  "second_prize_draws": [
+    1188,
+    1118,
+    994,
+    897,
+    577
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

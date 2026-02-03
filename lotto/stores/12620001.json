@@ -1,0 +1,26 @@
+{
+  "store_id": "12620001",
+  "name": "명지복권방",
+  "address": "부산 강서구  명지오션시티5로 16 103호",
+  "phone": "051-271-7515",
+  "lottery_types": [
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 35.08286,
+  "longitude": 128.904224,
+  "updated_at": "2026-02-03T18:16:42.921776",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1044,
+    922,
+    877,
+    807,
+    785,
+    771,
+    749,
+    719
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 8
+}

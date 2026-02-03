@@ -1,7 +1,7 @@
 {
   "store_id": "13190014",
   "name": "사랑정보통신",
-  "address": "울산 울주군 온덕2길 20 ",
+  "address": "울산 울주군  온덕2길 20 ",
   "phone": "052-239-8689",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 35.435056,
   "longitude": 129.310704,
-  "updated_at": "2026-01-12T11:59:37.722336"
+  "updated_at": "2026-02-03T18:27:11.710873",
+  "first_prize_draws": [
+    1171
+  ],
+  "second_prize_draws": [
+    1098,
+    838,
+    572
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "13010082",
   "name": "로또복권",
-  "address": "대전 동구 자양동  198-17",
+  "address": "대전 동구  자양동 자양동 198-17번지",
   "phone": "042-626-8414",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,15 @@
   ],
   "latitude": 36.341543,
   "longitude": 127.448388,
-  "updated_at": "2026-01-12T11:11:16.945129"
+  "updated_at": "2026-02-03T17:38:25.547324",
+  "first_prize_draws": [
+    370
+  ],
+  "second_prize_draws": [
+    573,
+    527,
+    397
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

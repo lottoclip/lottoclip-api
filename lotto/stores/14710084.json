@@ -1,7 +1,7 @@
 {
   "store_id": "14710084",
   "name": "로또기획",
-  "address": "경북 안동시 경북대로 443 ",
+  "address": "경북 안동시  경북대로 443 ",
   "phone": "070-8936-5302",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 36.568048,
   "longitude": 128.697858,
-  "updated_at": "2026-01-12T11:43:04.273060"
+  "updated_at": "2026-02-03T18:28:52.806748",
+  "first_prize_draws": [
+    910
+  ],
+  "second_prize_draws": [
+    1194,
+    1122,
+    1075,
+    1050,
+    1045,
+    1034,
+    918,
+    912,
+    888,
+    568
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

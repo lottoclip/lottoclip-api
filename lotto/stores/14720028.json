@@ -1,12 +1,29 @@
 {
   "store_id": "14720028",
   "name": "세븐일레븐영주가흥로또점",
-  "address": "경북 영주시 대학로 144 ",
+  "address": "경북 영주시  대학로 144 1층",
   "phone": "054-633-2954",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 36.809631,
   "longitude": 128.609643,
-  "updated_at": "2026-01-12T11:46:48.272656"
+  "updated_at": "2026-02-03T18:29:01.511784",
+  "first_prize_draws": [
+    977
+  ],
+  "second_prize_draws": [
+    1196,
+    1092,
+    1085,
+    951,
+    924,
+    908,
+    809,
+    796,
+    786,
+    744
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

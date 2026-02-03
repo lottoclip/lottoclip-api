@@ -1,7 +1,7 @@
 {
   "store_id": "14190059",
   "name": "전인정보통신",
-  "address": "경기 남양주시 진건오남로 658 ",
+  "address": "경기 남양주시  진건오남로 658 외1필지1층101",
   "phone": "031-575-2181",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 37.69125,
   "longitude": 127.214507,
-  "updated_at": "2026-01-12T11:58:36.652208"
+  "updated_at": "2026-02-03T18:25:33.815906",
+  "first_prize_draws": [
+    1152,
+    757
+  ],
+  "second_prize_draws": [
+    1053,
+    1003,
+    946,
+    852,
+    850,
+    633,
+    416,
+    368
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 8
 }

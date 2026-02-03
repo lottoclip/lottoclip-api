@@ -1,7 +1,7 @@
 {
   "store_id": "12810107",
   "name": "대동슈퍼",
-  "address": "인천 남동구 만수로 81 ",
+  "address": "인천 남동구  만수로 81 ",
   "phone": "032-461-5006",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 37.462749,
   "longitude": 126.736164,
-  "updated_at": "2026-01-12T11:58:20.474015"
+  "updated_at": "2026-02-03T18:25:11.077096",
+  "first_prize_draws": [
+    1147,
+    292
+  ],
+  "second_prize_draws": [
+    1057,
+    471
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 2
 }

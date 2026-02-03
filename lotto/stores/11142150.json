@@ -1,12 +1,18 @@
 {
   "store_id": "11142150",
   "name": "5번가 로또",
-  "address": "서울 송파구 올림픽로 249-2 ",
+  "address": "서울 송파구  올림픽로 249-2 가판(잠실역5번출구 바로 앞)",
   "phone": null,
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.513065,
   "longitude": 127.098521,
-  "updated_at": "2026-01-12T12:00:19.192045"
+  "updated_at": "2026-02-03T18:28:07.846689",
+  "first_prize_draws": [
+    1184
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

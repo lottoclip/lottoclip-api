@@ -1,7 +1,7 @@
 {
   "store_id": "14820015",
   "name": "돈방석(로또)",
-  "address": "경남 사천시 사천대로 1791 ",
+  "address": "경남 사천시 사천대로 1791  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 35.076416,
   "longitude": 128.081731,
-  "updated_at": "2026-01-12T11:49:44.100392"
+  "updated_at": "2026-02-03T18:29:44.981174",
+  "first_prize_draws": [
+    1023
+  ],
+  "second_prize_draws": [
+    1206,
+    1194,
+    1061,
+    908,
+    813,
+    807,
+    766
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

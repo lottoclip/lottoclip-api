@@ -1,12 +1,22 @@
 {
   "store_id": "14640015",
-  "name": "영암로또복권",
-  "address": "전남 영암군 동문로 8 ",
+  "name": "영암상회",
+  "address": "전남 영암군  동문로 8 영암버스터미널 1층",
   "phone": "061-471-1112",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 34.796839,
   "longitude": 126.702948,
-  "updated_at": "2026-01-12T11:42:58.100112"
+  "updated_at": "2026-02-03T18:17:20.240964",
+  "first_prize_draws": [
+    908
+  ],
+  "second_prize_draws": [
+    1049,
+    990,
+    971
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

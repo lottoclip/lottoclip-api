@@ -1,7 +1,7 @@
 {
   "store_id": "14100241",
   "name": "복권왕국",
-  "address": "경기 부천시 조마루로105번길 34-7 ",
+  "address": "경기 부천시  조마루로105번길 34-7 ",
   "phone": "032-668-8494",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 37.501697,
   "longitude": 126.756268,
-  "updated_at": "2026-01-12T11:21:20.914847"
+  "updated_at": "2026-02-03T18:29:22.689553",
+  "first_prize_draws": [
+    540
+  ],
+  "second_prize_draws": [
+    1201,
+    973,
+    818,
+    758,
+    719,
+    625,
+    615,
+    546
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

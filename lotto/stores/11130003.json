@@ -1,7 +1,7 @@
 {
   "store_id": "11130003",
   "name": "복다방",
-  "address": "서울 성동구 동일로 135 ",
+  "address": "서울 성동구  동일로 135-1 전진빌딩 1층 102호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 37.54469,
   "longitude": 127.065039,
-  "updated_at": "2026-01-12T11:48:06.701642"
+  "updated_at": "2026-02-03T18:13:03.634550",
+  "first_prize_draws": [
+    997
+  ],
+  "second_prize_draws": [
+    992
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

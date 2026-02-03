@@ -1,7 +1,7 @@
 {
   "store_id": "14720005",
-  "name": "굿럭스토어",
-  "address": "경북 경주시 첨성로81번길 17 ",
+  "name": "지에스(GS)25 경주황남점",
+  "address": "경북 경주시  첨성로81번길 17 GS25경주황남점",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 35.834705,
   "longitude": 129.210988,
-  "updated_at": "2026-01-12T11:43:53.528298"
+  "updated_at": "2026-02-03T18:23:13.728842",
+  "first_prize_draws": [
+    921
+  ],
+  "second_prize_draws": [
+    1123,
+    991,
+    909,
+    755,
+    704
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

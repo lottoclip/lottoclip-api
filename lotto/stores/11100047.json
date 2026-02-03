@@ -1,7 +1,7 @@
 {
   "store_id": "11100047",
   "name": "복권",
-  "address": "서울 중구 을지로 지하 58 ",
+  "address": "서울 중구 을지로2가 9-7번지 을지입구지하도상가 92호",
   "phone": "070-8849-8958",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 37.566035,
   "longitude": 126.983639,
-  "updated_at": "2026-01-12T11:32:20.856419"
+  "updated_at": "2026-02-03T18:03:52.567991",
+  "first_prize_draws": [
+    725
+  ],
+  "second_prize_draws": [
+    887,
+    688
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

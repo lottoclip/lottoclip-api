@@ -1,7 +1,7 @@
 {
   "store_id": "14120085",
   "name": "SK행운편의점",
-  "address": "경기 오산시 문시로 183-30 ",
+  "address": "경기 오산시 수청동 619-5 베네치아B동 103호",
   "phone": "031-374-4233",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 37.1926,
   "longitude": 127.065541,
-  "updated_at": "2026-01-12T11:43:53.496694"
+  "updated_at": "2026-02-03T18:06:48.789958",
+  "first_prize_draws": [
+    921
+  ],
+  "second_prize_draws": [
+    829,
+    793,
+    726,
+    657
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

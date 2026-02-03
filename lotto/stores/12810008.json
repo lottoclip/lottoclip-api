@@ -1,7 +1,7 @@
 {
   "store_id": "12810008",
   "name": "드림마트",
-  "address": "인천 미추홀구 인하로 211 ",
+  "address": "인천 미추홀구  인하로 211 ",
   "phone": "032-864-9748",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 37.44875,
   "longitude": 126.671454,
-  "updated_at": "2026-01-12T11:15:28.920161"
+  "updated_at": "2026-02-03T18:29:13.897262",
+  "first_prize_draws": [
+    437
+  ],
+  "second_prize_draws": [
+    1199,
+    1171,
+    946,
+    816,
+    791,
+    774,
+    758,
+    703,
+    599,
+    585,
+    465,
+    434
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 12
 }

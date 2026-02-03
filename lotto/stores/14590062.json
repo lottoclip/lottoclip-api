@@ -1,7 +1,7 @@
 {
   "store_id": "14590062",
-  "name": "C.C.S24시편의점",
-  "address": "전북 전주시 덕진구 아중로 148 ",
+  "name": "행운을 찾는사람들",
+  "address": "전북 전주시 덕진구  아중로 148 1층",
   "phone": "070-8225-3469",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 35.825708,
   "longitude": 127.165798,
-  "updated_at": "2026-01-12T11:24:31.355646"
+  "updated_at": "2026-02-03T18:27:51.184100",
+  "first_prize_draws": [
+    596
+  ],
+  "second_prize_draws": [
+    1180,
+    1050,
+    946,
+    929,
+    837,
+    694,
+    568,
+    345
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "12810060",
   "name": "로또복권방",
-  "address": "인천 부평구 광장로 16 ",
+  "address": "인천 부평구  광장로 16 지하 2층 223호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,25 @@
   ],
   "latitude": 37.489663,
   "longitude": 126.722663,
-  "updated_at": "2026-01-12T11:33:23.903547"
+  "updated_at": "2026-02-03T18:26:36.801186",
+  "first_prize_draws": [
+    740,
+    563
+  ],
+  "second_prize_draws": [
+    1163,
+    1007,
+    877,
+    795,
+    736,
+    728,
+    690,
+    624,
+    608,
+    572,
+    514,
+    418
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 12
 }

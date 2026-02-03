@@ -1,7 +1,7 @@
 {
   "store_id": "11100395",
   "name": "신세계슈퍼",
-  "address": "서울 영등포구 대림로 191 ",
+  "address": "서울 영등포구 대림로 191  ",
   "phone": "070-7736-2578",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 37.497769,
   "longitude": 126.898289,
-  "updated_at": "2026-01-12T12:02:01.038255"
+  "updated_at": "2026-02-03T18:29:44.577391",
+  "first_prize_draws": [
+    1206,
+    762
+  ],
+  "second_prize_draws": [
+    1200,
+    982,
+    770,
+    752
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 4
 }

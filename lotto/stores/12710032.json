@@ -1,7 +1,7 @@
 {
   "store_id": "12710032",
   "name": "대박복권",
-  "address": "대구 달서구 이곡동  1000-83번지 세븐일레븐편의점 내",
+  "address": "대구 달서구 이곡동 1000-83번지 세븐일레븐편의점 내",
   "phone": "053-582-3909",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,15 @@
   ],
   "latitude": 35.849406,
   "longitude": 128.508998,
-  "updated_at": "2026-01-12T11:23:47.774157"
+  "updated_at": "2026-02-03T18:02:37.060535",
+  "first_prize_draws": [
+    582
+  ],
+  "second_prize_draws": [
+    873,
+    573,
+    305
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

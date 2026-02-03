@@ -1,7 +1,7 @@
 {
   "store_id": "12710036",
   "name": "복권명당(영남점)",
-  "address": "대구 달서구 월배로 122 ",
+  "address": "대구 달서구  월배로 122 ",
   "phone": "053-636-2450",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,25 @@
   ],
   "latitude": 35.814718,
   "longitude": 128.527817,
-  "updated_at": "2026-01-12T11:49:18.836317"
+  "updated_at": "2026-02-03T18:26:45.154687",
+  "first_prize_draws": [
+    1015,
+    695
+  ],
+  "second_prize_draws": [
+    1165,
+    1119,
+    1101,
+    1079,
+    1037,
+    929,
+    874,
+    854,
+    776,
+    735,
+    550,
+    529
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 12
 }

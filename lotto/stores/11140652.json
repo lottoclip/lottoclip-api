@@ -1,7 +1,7 @@
 {
   "store_id": "11140652",
   "name": "예지행복",
-  "address": "서울 양천구 월정로 59 ",
+  "address": "서울 양천구  월정로 59 가동 101호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 37.524852,
   "longitude": 126.841315,
-  "updated_at": "2026-01-12T11:58:52.484001"
+  "updated_at": "2026-02-03T18:25:55.185592",
+  "first_prize_draws": [
+    1157
+  ],
+  "second_prize_draws": [
+    1132,
+    1056,
+    1011
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

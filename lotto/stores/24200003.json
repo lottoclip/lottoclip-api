@@ -1,7 +1,7 @@
 {
   "store_id": "24200003",
   "name": "CU(단계공원점)",
-  "address": "강원 원주시 단계동  853번지",
+  "address": "강원 원주시  장미공원길 43-9 1층 CU편의점",
   "phone": "033-735-4832",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.345884,
   "longitude": 127.930487,
-  "updated_at": "2026-01-12T11:22:11.209481"
+  "updated_at": "2026-02-03T18:07:56.472424",
+  "first_prize_draws": [
+    556
+  ],
+  "second_prize_draws": [
+    936,
+    884,
+    834,
+    817,
+    615,
+    614,
+    267
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

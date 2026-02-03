@@ -1,0 +1,30 @@
+{
+  "store_id": "14410070",
+  "name": "로또BANK",
+  "address": "충남 공주시  공주대학로 95 ",
+  "phone": "041-858-7894",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.473441,
+  "longitude": 127.137401,
+  "updated_at": "2026-02-03T18:29:14.219539",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1199,
+    1185,
+    1160,
+    1098,
+    949,
+    809,
+    738,
+    560,
+    370,
+    315,
+    281
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 11
+}

@@ -1,7 +1,7 @@
 {
   "store_id": "14310093",
   "name": "은성로또",
-  "address": "충북 음성군 장감로 118 ",
+  "address": "충북 음성군  감곡면 장감로 118 1층 낚시가게",
   "phone": "043-881-3677",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,25 @@
   ],
   "latitude": 37.11832,
   "longitude": 127.63549,
-  "updated_at": "2026-01-12T11:41:40.511924"
+  "updated_at": "2026-02-03T18:22:24.503762",
+  "first_prize_draws": [
+    883
+  ],
+  "second_prize_draws": [
+    1115,
+    1067,
+    1025,
+    987,
+    977,
+    974,
+    946,
+    916,
+    873,
+    628,
+    571,
+    562,
+    293
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 13
 }

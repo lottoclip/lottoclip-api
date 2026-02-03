@@ -1,7 +1,7 @@
 {
   "store_id": "14110118",
   "name": "정우",
-  "address": "경기 용인시 처인구 백옥대로 574 ",
+  "address": "경기 용인시 처인구  백옥대로 574 C동상가",
   "phone": "031-322-1687",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 37.187943,
   "longitude": 127.206131,
-  "updated_at": "2026-01-12T11:44:27.462354"
+  "updated_at": "2026-02-03T18:28:52.621003",
+  "first_prize_draws": [
+    932,
+    699,
+    474
+  ],
+  "second_prize_draws": [
+    1194,
+    1057,
+    973,
+    915,
+    913,
+    871,
+    840,
+    736,
+    459,
+    396
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 10
 }

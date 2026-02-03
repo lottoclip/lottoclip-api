@@ -1,7 +1,7 @@
 {
   "store_id": "14190001",
   "name": "천하명당복권방",
-  "address": "경기 안성시 중앙로 424 ",
+  "address": "경기 안성시  중앙로 424 ",
   "phone": "031-674-8267",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 37.006596,
   "longitude": 127.273687,
-  "updated_at": "2026-01-12T11:40:51.253978"
+  "updated_at": "2026-02-03T18:24:13.762373",
+  "first_prize_draws": [
+    877,
+    659
+  ],
+  "second_prize_draws": [
+    1137,
+    940,
+    844,
+    788,
+    631,
+    622,
+    389,
+    300,
+    277,
+    266
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 10
 }

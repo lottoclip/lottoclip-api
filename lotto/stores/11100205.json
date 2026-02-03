@@ -1,7 +1,7 @@
 {
   "store_id": "11100205",
   "name": "한삼인 홍제역점",
-  "address": "서울 서대문구 통일로 457 ",
+  "address": "서울 서대문구  통일로 457 ",
   "phone": "02-3217-6698",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 37.589219,
   "longitude": 126.943214,
-  "updated_at": "2026-01-12T11:13:25.315505"
+  "updated_at": "2026-02-03T18:27:38.045533",
+  "first_prize_draws": [
+    407
+  ],
+  "second_prize_draws": [
+    1177,
+    1012,
+    972,
+    900,
+    667,
+    644,
+    548,
+    537,
+    503,
+    420
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

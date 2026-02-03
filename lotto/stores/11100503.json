@@ -1,7 +1,7 @@
 {
   "store_id": "11100503",
   "name": "강서스포츠",
-  "address": "서울 강서구 곰달래로 156-1 ",
+  "address": "서울 강서구  곰달래로 156-1 ",
   "phone": "02-2693-8510",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 37.550502,
   "longitude": 126.848167,
-  "updated_at": "2026-01-12T11:53:34.013313"
+  "updated_at": "2026-02-03T18:23:52.240838",
+  "first_prize_draws": [
+    1081
+  ],
+  "second_prize_draws": [
+    1132,
+    938,
+    783,
+    576,
+    365
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

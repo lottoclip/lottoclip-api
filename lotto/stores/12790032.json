@@ -1,7 +1,7 @@
 {
   "store_id": "12790032",
   "name": "돈벼락복권방",
-  "address": "대구 북구 동변로 82-1 ",
+  "address": "대구 북구  동변로 82-1 1층",
   "phone": "053-943-6453",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 35.920516,
   "longitude": 128.603852,
-  "updated_at": "2026-01-12T11:43:53.431549"
+  "updated_at": "2026-02-03T18:28:34.615367",
+  "first_prize_draws": [
+    921,
+    720,
+    629
+  ],
+  "second_prize_draws": [
+    1190,
+    1137,
+    1043,
+    863,
+    693,
+    611,
+    396,
+    368
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 8
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14120143",
   "name": "바른",
-  "address": "경기 하남시 신장로 68 ",
+  "address": "경기 하남시  신장로 68 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 37.53573,
   "longitude": 127.210053,
-  "updated_at": "2026-01-12T12:00:45.268533"
+  "updated_at": "2026-02-03T18:28:43.941950",
+  "first_prize_draws": [
+    1192
+  ],
+  "second_prize_draws": [
+    1119,
+    1039,
+    985,
+    947,
+    932,
+    919,
+    904,
+    765,
+    715,
+    687
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

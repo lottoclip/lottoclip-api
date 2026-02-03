@@ -1,7 +1,7 @@
 {
   "store_id": "14710166",
   "name": "재운로또복권",
-  "address": "경북 포항시 북구 아치로 46 ",
+  "address": "경북 포항시 북구 우현동 135-8번지 8호 1층",
   "phone": "054-244-0806",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 36.05116,
   "longitude": 129.356916,
-  "updated_at": "2026-01-12T11:13:01.000168"
+  "updated_at": "2026-02-03T17:57:25.918144",
+  "first_prize_draws": [
+    399
+  ],
+  "second_prize_draws": [
+    807,
+    456
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

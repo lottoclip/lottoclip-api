@@ -1,7 +1,7 @@
 {
   "store_id": "12640196",
   "name": "진우복권",
-  "address": "부산 연제구 월드컵대로 119 ",
+  "address": "부산 연제구  월드컵대로 119 204호(연산동)",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 35.184827,
   "longitude": 129.082076,
-  "updated_at": "2026-01-12T11:58:30.071166"
+  "updated_at": "2026-02-03T18:25:24.218398",
+  "first_prize_draws": [
+    1150,
+    1091,
+    1002,
+    951
+  ],
+  "second_prize_draws": [
+    1140,
+    1122,
+    1041,
+    999,
+    983
+  ],
+  "first_prize_count": 4,
+  "second_prize_count": 5
 }

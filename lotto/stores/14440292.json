@@ -1,7 +1,7 @@
 {
   "store_id": "14440292",
   "name": "봉서산로또토토",
-  "address": "충남 천안시 서북구 봉명로 25 ",
+  "address": "충남 천안시 서북구  봉명로 25 1층 4호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 36.807594,
   "longitude": 127.131355,
-  "updated_at": "2026-01-12T12:00:09.716993"
+  "updated_at": "2026-02-03T18:28:30.521325",
+  "first_prize_draws": [
+    1181
+  ],
+  "second_prize_draws": [
+    1189,
+    1177,
+    1107,
+    1060,
+    1057
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

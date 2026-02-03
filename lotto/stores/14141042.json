@@ -1,7 +1,7 @@
 {
   "store_id": "14141042",
   "name": "대박복권방",
-  "address": "경기 고양시 일산서구 경의로 823 ",
+  "address": "경기 고양시 일산서구  경의로 823 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 37.691026,
   "longitude": 126.759126,
-  "updated_at": "2026-01-12T11:55:08.106564"
+  "updated_at": "2026-02-03T18:21:24.665732",
+  "first_prize_draws": [
+    1101
+  ],
+  "second_prize_draws": [
+    1033,
+    1028
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

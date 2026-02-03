@@ -1,7 +1,7 @@
 {
   "store_id": "14110285",
   "name": "우리로또복권",
-  "address": "경기 연천군 청신로 91 ",
+  "address": "경기 연천군  청신로 91 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,28 @@
   ],
   "latitude": 37.982901,
   "longitude": 127.069128,
-  "updated_at": "2026-01-12T12:00:35.464276"
+  "updated_at": "2026-02-03T18:28:30.265825",
+  "first_prize_draws": [
+    1189,
+    848
+  ],
+  "second_prize_draws": [
+    1124,
+    993,
+    988,
+    955,
+    943,
+    937,
+    914,
+    865,
+    776,
+    771,
+    746,
+    706,
+    427,
+    390,
+    366
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 15
 }

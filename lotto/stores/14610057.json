@@ -1,7 +1,7 @@
 {
   "store_id": "14610057",
   "name": "인제로또",
-  "address": "전남 순천시 매안로 66 ",
+  "address": "전남 순천시  매안로 66 CU편의점내",
   "phone": "061-723-3224",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 34.932346,
   "longitude": 127.555352,
-  "updated_at": "2026-01-12T11:33:52.840657"
+  "updated_at": "2026-02-03T18:29:27.221233",
+  "first_prize_draws": [
+    749
+  ],
+  "second_prize_draws": [
+    1202,
+    1174,
+    1107,
+    1105,
+    1030,
+    912,
+    881,
+    654,
+    566
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 9
 }

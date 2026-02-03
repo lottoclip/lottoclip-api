@@ -1,7 +1,7 @@
 {
   "store_id": "14100593",
   "name": "버스가판점",
-  "address": "경기 안양시 만안구 안양1동 164-1번지 ",
+  "address": "경기 안양시 만안구  관악대로 55 진흥아파트앞 버스정류장",
   "phone": "031-466-8414",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.397256,
   "longitude": 126.930507,
-  "updated_at": "2026-01-12T11:31:06.740762"
+  "updated_at": "2026-02-03T18:08:49.809662",
+  "first_prize_draws": [
+    702
+  ],
+  "second_prize_draws": [
+    944,
+    913,
+    865,
+    830,
+    805,
+    625,
+    333
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

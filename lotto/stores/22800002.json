@@ -1,7 +1,7 @@
 {
   "store_id": "22800002",
   "name": "씨스페이스(주안1-2)",
-  "address": "인천 미추홀구 주안동(주안1동) 224-1 ",
+  "address": "인천 미추홀구  미추홀대로 733 ",
   "phone": "032-875-9944",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,25 @@
   ],
   "latitude": 37.462917,
   "longitude": 126.680002,
-  "updated_at": "2026-01-12T11:41:58.800500"
+  "updated_at": "2026-02-03T18:10:32.020335",
+  "first_prize_draws": [
+    889
+  ],
+  "second_prize_draws": [
+    966,
+    909,
+    908,
+    890,
+    850,
+    804,
+    723,
+    685,
+    514,
+    464,
+    391,
+    353,
+    289
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 13
 }

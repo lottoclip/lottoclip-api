@@ -1,7 +1,7 @@
 {
   "store_id": "14840241",
   "name": "지에스(GS)25 진동에이스점",
-  "address": "경남 창원시 마산합포구 신서촌1길 49 ",
+  "address": "경남 창원시 마산합포구  신서촌1길 49 1층 GS편의점내",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 35.116007,
   "longitude": 128.486403,
-  "updated_at": "2026-01-12T11:53:24.799614"
+  "updated_at": "2026-02-03T18:24:39.613533",
+  "first_prize_draws": [
+    1078,
+    978,
+    954
+  ],
+  "second_prize_draws": [
+    1143,
+    1106,
+    1085,
+    1073,
+    1066,
+    998,
+    994,
+    992
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 8
 }

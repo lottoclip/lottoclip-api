@@ -1,7 +1,7 @@
 {
   "store_id": "14100835",
   "name": "버스매표소",
-  "address": "경기 부천시 부천로 32 ",
+  "address": "경기 부천시  부천로 32 도로부지",
   "phone": "032-656-9688",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 37.487021,
   "longitude": 126.783674,
-  "updated_at": "2026-01-12T11:21:30.313335"
+  "updated_at": "2026-02-03T18:29:36.252722",
+  "first_prize_draws": [
+    543
+  ],
+  "second_prize_draws": [
+    1204,
+    1196,
+    1192,
+    1074,
+    981,
+    964,
+    904,
+    719,
+    404,
+    318
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

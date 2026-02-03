@@ -1,7 +1,7 @@
 {
   "store_id": "14690035",
   "name": "송도하우스",
-  "address": "전남 목포시 영산로 525 ",
+  "address": "전남 목포시 영산로 525 목포터미널 내  ",
   "phone": "061-272-5840",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 34.812716,
   "longitude": 126.417586,
-  "updated_at": "2026-01-12T11:52:21.773749"
+  "updated_at": "2026-02-03T18:29:49.212338",
+  "first_prize_draws": [
+    1063,
+    1029,
+    790
+  ],
+  "second_prize_draws": [
+    1207,
+    1138,
+    1087,
+    1039,
+    971,
+    906,
+    837,
+    751,
+    707,
+    534
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 10
 }

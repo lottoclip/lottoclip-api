@@ -1,7 +1,7 @@
 {
   "store_id": "11100414",
-  "name": "성원식품",
-  "address": "서울 서초구 서초3동  1451-2 성원빌딩 102",
+  "name": "성원로또판매점",
+  "address": "서울 서초구 서초동 1458-6 서초지웰 상가동 세븐일레븐 내",
   "phone": "02-582-0810",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,13 @@
   ],
   "latitude": 37.484187,
   "longitude": 127.013677,
-  "updated_at": "2026-01-12T11:06:20.572978"
+  "updated_at": "2026-02-03T17:55:59.094549",
+  "first_prize_draws": [
+    288
+  ],
+  "second_prize_draws": [
+    787
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

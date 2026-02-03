@@ -1,7 +1,7 @@
 {
   "store_id": "11101584",
   "name": "미래통신",
-  "address": "서울 성북구 장월로 118-1 ",
+  "address": "서울 성북구  장월로 118-1 ",
   "phone": "02-941-8288",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 37.616189,
   "longitude": 127.048911,
-  "updated_at": "2026-01-12T11:34:24.253650"
+  "updated_at": "2026-02-03T18:28:47.935388",
+  "first_prize_draws": [
+    759,
+    718
+  ],
+  "second_prize_draws": [
+    1193,
+    1150,
+    1039,
+    939,
+    836,
+    715,
+    611,
+    603,
+    474,
+    470,
+    322
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 11
 }

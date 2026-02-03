@@ -1,7 +1,7 @@
 {
   "store_id": "14141623",
   "name": "진 복권방",
-  "address": "경기 포천시 송우로 55-5 ",
+  "address": "경기 포천시  송우로 55-5 101호 성조빌딩",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 37.828923,
   "longitude": 127.142722,
-  "updated_at": "2026-01-12T11:51:28.442683"
+  "updated_at": "2026-02-03T18:25:51.177936",
+  "first_prize_draws": [
+    1051
+  ],
+  "second_prize_draws": [
+    1156,
+    1061
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

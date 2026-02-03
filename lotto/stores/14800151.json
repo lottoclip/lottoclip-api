@@ -1,7 +1,7 @@
 {
   "store_id": "14800151",
   "name": "제일복권",
-  "address": "경남 양산시 양산역2길 7 ",
+  "address": "경남 양산시  양산역2길 7 103호 복권판매점",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,28 @@
   ],
   "latitude": 35.335593,
   "longitude": 129.027971,
-  "updated_at": "2026-01-12T12:01:54.846342"
+  "updated_at": "2026-02-03T18:29:36.504368",
+  "first_prize_draws": [
+    1204,
+    888,
+    853,
+    845
+  ],
+  "second_prize_draws": [
+    1189,
+    1152,
+    1119,
+    1104,
+    1024,
+    1017,
+    986,
+    976,
+    945,
+    886,
+    866,
+    830,
+    459
+  ],
+  "first_prize_count": 4,
+  "second_prize_count": 13
 }

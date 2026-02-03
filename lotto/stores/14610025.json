@@ -1,7 +1,7 @@
 {
   "store_id": "14610025",
   "name": "베스트원",
-  "address": "전남 영광군 신남로 209-1 ",
+  "address": "전남 영광군 신남로 209-1 1층  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 35.276035,
   "longitude": 126.505094,
-  "updated_at": "2026-01-12T11:38:16.930701"
+  "updated_at": "2026-02-03T18:29:40.761728",
+  "first_prize_draws": [
+    828,
+    693,
+    520
+  ],
+  "second_prize_draws": [
+    1205,
+    1203,
+    1181,
+    1129,
+    1114,
+    1092,
+    909,
+    895,
+    886,
+    824
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 10
 }

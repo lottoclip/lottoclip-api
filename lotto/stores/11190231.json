@@ -1,7 +1,7 @@
 {
   "store_id": "11190231",
   "name": "태광통신",
-  "address": "서울 성북구 동소문로 248 ",
+  "address": "서울 성북구  동소문로 248 105동 1층 1호",
   "phone": "02-919-3201",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 37.602763,
   "longitude": 127.02375,
-  "updated_at": "2026-01-12T11:21:49.358109"
+  "updated_at": "2026-02-03T18:28:47.925867",
+  "first_prize_draws": [
+    549
+  ],
+  "second_prize_draws": [
+    1193,
+    1153,
+    1059,
+    1052,
+    864,
+    771,
+    742,
+    426
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

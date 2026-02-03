@@ -1,12 +1,31 @@
 {
   "store_id": "14800087",
   "name": "명당",
-  "address": "경남 진주시 동부로 1356 ",
+  "address": "경남 진주시 동부로 1356 1층 일부호  ",
   "phone": null,
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 35.187308,
   "longitude": 128.224824,
-  "updated_at": "2026-01-12T12:01:57.969297"
+  "updated_at": "2026-02-03T18:29:45.003857",
+  "first_prize_draws": [
+    1205,
+    1195,
+    1189,
+    1066,
+    782
+  ],
+  "second_prize_draws": [
+    1206,
+    1202,
+    1114,
+    1108,
+    1046,
+    1023,
+    767,
+    739
+  ],
+  "first_prize_count": 5,
+  "second_prize_count": 8
 }

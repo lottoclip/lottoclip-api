@@ -1,7 +1,7 @@
 {
   "store_id": "14110304",
   "name": "복권방",
-  "address": "경기 의정부시 추동로 3 ",
+  "address": "경기 의정부시  추동로 3 ",
   "phone": "031-846-2223",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 37.742751,
   "longitude": 127.056438,
-  "updated_at": "2026-01-12T11:57:17.554549"
+  "updated_at": "2026-02-03T18:23:52.677694",
+  "first_prize_draws": [
+    1132,
+    1114
+  ],
+  "second_prize_draws": [
+    1119,
+    1037,
+    1004,
+    958,
+    634,
+    550,
+    500,
+    453
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 8
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14590029",
   "name": "중앙복권방",
-  "address": "전북 전주시 완산구 공북로 95 ",
+  "address": "전북 전주시 완산구  공북로 95 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 35.826472,
   "longitude": 127.14216,
-  "updated_at": "2026-01-12T11:28:59.223603"
+  "updated_at": "2026-02-03T18:17:15.488909",
+  "first_prize_draws": [
+    671
+  ],
+  "second_prize_draws": [
+    1048,
+    936,
+    754,
+    637,
+    593,
+    534,
+    495,
+    343,
+    325
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 9
 }

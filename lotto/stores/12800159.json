@@ -1,7 +1,7 @@
 {
   "store_id": "12800159",
   "name": "원제슈퍼마켓",
-  "address": "인천 부평구 마장로 458-1 ",
+  "address": "인천 부평구  마장로 458-1 1층",
   "phone": "032-522-5485",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,16 @@
   ],
   "latitude": 37.519077,
   "longitude": 126.704729,
-  "updated_at": "2026-01-12T11:45:48.922741"
+  "updated_at": "2026-02-03T18:25:24.358663",
+  "first_prize_draws": [
+    958
+  ],
+  "second_prize_draws": [
+    1150,
+    1025,
+    886,
+    332
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

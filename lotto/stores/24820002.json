@@ -1,7 +1,7 @@
 {
   "store_id": "24820002",
   "name": "CU(마산금강점)",
-  "address": "경남 창원시 마산합포구 중앙동3가  2-52번지 금강펠릭스타워102호",
+  "address": "경남 창원시 마산합포구 중앙동3가 2-52번지 ",
   "phone": "055-221-0377",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,16 @@
   ],
   "latitude": 35.180426,
   "longitude": 128.557096,
-  "updated_at": "2026-01-12T11:24:12.397170"
+  "updated_at": "2026-02-03T17:54:35.945225",
+  "first_prize_draws": [
+    590,
+    415
+  ],
+  "second_prize_draws": [
+    769,
+    478,
+    316
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 3
 }

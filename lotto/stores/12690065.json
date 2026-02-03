@@ -1,7 +1,7 @@
 {
   "store_id": "12690065",
   "name": "원바이원",
-  "address": "부산 중구 흑교로 18 ",
+  "address": "부산 중구  흑교로 18 ",
   "phone": "051-231-5558",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 35.101131,
   "longitude": 129.025326,
-  "updated_at": "2026-01-12T11:35:42.113422"
+  "updated_at": "2026-02-03T18:12:25.383928",
+  "first_prize_draws": [
+    779
+  ],
+  "second_prize_draws": [
+    988,
+    973,
+    946,
+    939,
+    848,
+    813,
+    631,
+    610,
+    331,
+    288
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

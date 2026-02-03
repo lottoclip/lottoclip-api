@@ -1,7 +1,7 @@
 {
   "store_id": "14330016",
   "name": "쿡쿡로또명당",
-  "address": "충북 옥천군 금장로 65 ",
+  "address": "충북 옥천군  금장로 65 세븐일레븐편의점",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 36.300303,
   "longitude": 127.57118,
-  "updated_at": "2026-01-12T12:01:13.698072"
+  "updated_at": "2026-02-03T18:29:01.417204",
+  "first_prize_draws": [
+    1196,
+    873
+  ],
+  "second_prize_draws": [
+    985,
+    973,
+    809
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 3
 }

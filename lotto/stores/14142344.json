@@ -1,7 +1,7 @@
 {
   "store_id": "14142344",
   "name": "두근두근로또복권",
-  "address": "경기 고양시 일산동구 일산로 453 ",
+  "address": "경기 고양시 일산동구  일산로 453 1층 106호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 37.673713,
   "longitude": 126.776267,
-  "updated_at": "2026-01-12T12:01:51.492585"
+  "updated_at": "2026-02-03T18:29:31.515620",
+  "first_prize_draws": [
+    1203,
+    1159
+  ],
+  "second_prize_draws": [
+    1161
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 1
 }

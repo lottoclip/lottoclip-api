@@ -1,7 +1,7 @@
 {
   "store_id": "14100417",
   "name": "성진마트",
-  "address": "경기 부천시 오정구 수도로 121 ",
+  "address": "경기 부천시 오정구  수도로 121 105호",
   "phone": "032-678-3224",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 37.516726,
   "longitude": 126.779074,
-  "updated_at": "2026-01-12T11:52:59.305051"
+  "updated_at": "2026-02-03T18:26:45.374032",
+  "first_prize_draws": [
+    1070,
+    936,
+    874
+  ],
+  "second_prize_draws": [
+    1165,
+    1152,
+    1045,
+    955,
+    925,
+    872,
+    758,
+    626,
+    535,
+    523
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 10
 }

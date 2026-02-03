@@ -1,7 +1,7 @@
 {
   "store_id": "14620004",
   "name": "로또복권방",
-  "address": "전남 광양시 백운1로 159 ",
+  "address": "전남 광양시  백운1로 159 CU편의점내",
   "phone": "061-795-1634",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 34.943203,
   "longitude": 127.758159,
-  "updated_at": "2026-01-12T11:56:14.398496"
+  "updated_at": "2026-02-03T18:22:33.130585",
+  "first_prize_draws": [
+    1117
+  ],
+  "second_prize_draws": [
+    1097,
+    1094,
+    1078,
+    1050,
+    980,
+    913
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

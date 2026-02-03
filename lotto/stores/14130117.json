@@ -1,7 +1,7 @@
 {
   "store_id": "14130117",
   "name": "비휴 로또",
-  "address": "경기 오산시 양산로410번길 10 ",
+  "address": "경기 오산시  양산로410번길 10 양산동",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 37.19544,
   "longitude": 127.029957,
-  "updated_at": "2026-01-12T12:00:16.055499"
+  "updated_at": "2026-02-03T18:28:03.723439",
+  "first_prize_draws": [
+    1183,
+    990
+  ],
+  "second_prize_draws": [
+    1020,
+    930,
+    804
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 3
 }

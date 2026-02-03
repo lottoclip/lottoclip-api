@@ -1,7 +1,7 @@
 {
   "store_id": "14610079",
   "name": "행운복권나라",
-  "address": "전남 광양시 대림오성로 146-1 ",
+  "address": "전남 광양시  대림오성로 146-1 ",
   "phone": "061-763-7541",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 34.964734,
   "longitude": 127.577781,
-  "updated_at": "2026-01-12T11:53:50.283698"
+  "updated_at": "2026-02-03T18:20:20.664563",
+  "first_prize_draws": [
+    1086,
+    543,
+    483
+  ],
+  "second_prize_draws": [
+    972,
+    924,
+    889,
+    832,
+    733,
+    616,
+    546,
+    479
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 8
 }

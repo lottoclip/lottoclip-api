@@ -1,7 +1,7 @@
 {
   "store_id": "14142237",
   "name": "황금로또",
-  "address": "경기 여주시 청심로 24 ",
+  "address": "경기 여주시  청심로 24 1층 복권방",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 37.300825,
   "longitude": 127.623529,
-  "updated_at": "2026-01-12T11:58:43.164377"
+  "updated_at": "2026-02-03T18:28:39.397056",
+  "first_prize_draws": [
+    1154
+  ],
+  "second_prize_draws": [
+    1191
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

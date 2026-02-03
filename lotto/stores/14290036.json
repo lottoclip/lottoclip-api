@@ -1,7 +1,7 @@
 {
   "store_id": "14290036",
   "name": "속초복권샵",
-  "address": "강원 속초시 청학동  486-42",
+  "address": "강원 속초시 청학동 486-42번지 1층",
   "phone": "033-633-8167",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 38.202017,
   "longitude": 128.58363,
-  "updated_at": "2026-01-12T11:18:50.686962"
+  "updated_at": "2026-02-03T17:55:25.876906",
+  "first_prize_draws": [
+    497
+  ],
+  "second_prize_draws": [
+    780,
+    753,
+    747,
+    513,
+    500
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14410097",
   "name": "로또홍성휴게소(하행)판매점",
-  "address": "충남 홍성군 은하면  금국리  292-3번지 서해안고속도로 홍성휴게소(하행)내 하이샵코너내",
+  "address": "충남 홍성군 은하면 292-3 서해안고속도로 홍성휴게소(하행)내 하이샵코너내",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,19 @@
   ],
   "latitude": 36.552069,
   "longitude": 126.579936,
-  "updated_at": "2026-01-12T11:26:39.329282"
+  "updated_at": "2026-02-03T18:00:53.370167",
+  "first_prize_draws": [
+    631
+  ],
+  "second_prize_draws": [
+    849,
+    823,
+    819,
+    816,
+    735,
+    623,
+    358
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "12840117",
   "name": "탑로또",
-  "address": "인천 남동구 서창남로 81 ",
+  "address": "인천 남동구  서창남로 81 1층 105호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 37.426415,
   "longitude": 126.748024,
-  "updated_at": "2026-01-12T11:56:58.014390"
+  "updated_at": "2026-02-03T18:25:33.747457",
+  "first_prize_draws": [
+    1126,
+    1119
+  ],
+  "second_prize_draws": [
+    1152,
+    1104,
+    963
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 3
 }

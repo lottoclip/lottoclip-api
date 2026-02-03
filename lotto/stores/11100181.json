@@ -1,7 +1,7 @@
 {
   "store_id": "11100181",
   "name": "왕대박복권방",
-  "address": "서울 강서구 화곡동  342-45",
+  "address": "서울 강서구 화곡동 342-45번지 ",
   "phone": "02-2699-1391",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,15 @@
   ],
   "latitude": 37.530986,
   "longitude": 126.848971,
-  "updated_at": "2026-01-12T11:12:21.132833"
+  "updated_at": "2026-02-03T17:51:41.743151",
+  "first_prize_draws": [
+    386
+  ],
+  "second_prize_draws": [
+    736,
+    672,
+    508
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

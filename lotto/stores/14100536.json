@@ -1,7 +1,7 @@
 {
   "store_id": "14100536",
   "name": "버스표판매소",
-  "address": "경기 고양시 덕양구 중앙로557번길 7-23 ",
+  "address": "경기 고양시 덕양구  중앙로557번길 7-23 비금빌딩앞",
   "phone": "031-973-9558",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 37.622441,
   "longitude": 126.836072,
-  "updated_at": "2026-01-12T11:39:26.130121"
+  "updated_at": "2026-02-03T18:29:01.212571",
+  "first_prize_draws": [
+    850
+  ],
+  "second_prize_draws": [
+    1196,
+    1150,
+    1078,
+    1061,
+    1057,
+    1032,
+    1009,
+    975,
+    867,
+    833,
+    830
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 11
 }

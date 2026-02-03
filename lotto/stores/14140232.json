@@ -1,0 +1,27 @@
+{
+  "store_id": "14140232",
+  "name": "좋은복권",
+  "address": "경기 김포시 김포한강8로 412 108호  ",
+  "phone": "000-0000-0000",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.643177,
+  "longitude": 126.62468,
+  "updated_at": "2026-02-03T18:29:40.498489",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1205,
+    1171,
+    1166,
+    1165,
+    1129,
+    1081,
+    1076,
+    1010
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 8
+}

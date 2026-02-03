@@ -1,7 +1,7 @@
 {
   "store_id": "14340088",
   "name": "나도일등광혜원",
-  "address": "충북 진천군 화랑5길 24-7 ",
+  "address": "충북 진천군  화랑5길 24-7 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 36.992909,
   "longitude": 127.439285,
-  "updated_at": "2026-01-12T11:46:38.937081"
+  "updated_at": "2026-02-03T18:24:05.379086",
+  "first_prize_draws": [
+    974
+  ],
+  "second_prize_draws": [
+    1135,
+    962
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

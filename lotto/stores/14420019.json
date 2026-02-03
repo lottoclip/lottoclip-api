@@ -1,7 +1,7 @@
 {
   "store_id": "14420019",
   "name": "작은신부",
-  "address": "충남 서산시 구진로 6 ",
+  "address": "충남 서산시  구진로 6 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,25 @@
   ],
   "latitude": 36.936096,
   "longitude": 126.43599,
-  "updated_at": "2026-01-12T12:01:10.383705"
+  "updated_at": "2026-02-03T18:28:57.105293",
+  "first_prize_draws": [
+    1195,
+    1064,
+    759
+  ],
+  "second_prize_draws": [
+    1191,
+    1189,
+    1157,
+    1138,
+    1088,
+    1005,
+    974,
+    958,
+    879,
+    874,
+    743
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 11
 }

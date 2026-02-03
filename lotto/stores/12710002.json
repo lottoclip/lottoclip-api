@@ -1,7 +1,7 @@
 {
   "store_id": "12710002",
   "name": "대진",
-  "address": "대구 동구 율하동  1230번지 훼미리마트",
+  "address": "대구 동구  안심로22길 40-3 제1동 제1층 제109호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 35.863616,
   "longitude": 128.695134,
-  "updated_at": "2026-01-12T11:29:33.204835"
+  "updated_at": "2026-02-03T18:14:25.586575",
+  "first_prize_draws": [
+    677
+  ],
+  "second_prize_draws": [
+    1016,
+    880,
+    685,
+    635,
+    622,
+    609,
+    576
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

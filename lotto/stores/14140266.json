@@ -1,7 +1,7 @@
 {
   "store_id": "14140266",
   "name": "위드유로또",
-  "address": "경기 화성시 동탄하나1길 61 ",
+  "address": "경기 화성시  동탄하나1길 61 109호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 37.21924,
   "longitude": 127.05868,
-  "updated_at": "2026-01-12T11:36:10.430405"
+  "updated_at": "2026-02-03T18:28:34.986900",
+  "first_prize_draws": [
+    788
+  ],
+  "second_prize_draws": [
+    1190,
+    1161,
+    1130,
+    928
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

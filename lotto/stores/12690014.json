@@ -1,7 +1,7 @@
 {
   "store_id": "12690014",
   "name": "슈퍼복권나라수정점",
-  "address": "부산 동구 고관로 95 ",
+  "address": "부산 동구  고관로 95 ",
   "phone": "051-466-9391",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 35.127536,
   "longitude": 129.045188,
-  "updated_at": "2026-01-12T11:33:23.877215"
+  "updated_at": "2026-02-03T18:23:25.911038",
+  "first_prize_draws": [
+    740,
+    334
+  ],
+  "second_prize_draws": [
+    1126,
+    846,
+    412,
+    348
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 4
 }

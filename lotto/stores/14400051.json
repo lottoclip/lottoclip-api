@@ -1,7 +1,7 @@
 {
   "store_id": "14400051",
-  "name": "아산직매장",
-  "address": "충남 아산시 아산로 746-9 ",
+  "name": "서원편의점",
+  "address": "충남 아산시  아산로 746-9 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 36.841557,
   "longitude": 126.9664,
-  "updated_at": "2026-01-12T11:11:50.387516"
+  "updated_at": "2026-02-03T18:29:36.387847",
+  "first_prize_draws": [
+    376
+  ],
+  "second_prize_draws": [
+    1204,
+    545
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

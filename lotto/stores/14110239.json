@@ -1,12 +1,26 @@
 {
   "store_id": "14110239",
   "name": "플러스원",
-  "address": "경기 수원시 장안구 만석로19번길 11-7 ",
+  "address": "경기 수원시 장안구  만석로19번길 11-7 108호",
   "phone": "031-268-3347",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.295481,
   "longitude": 126.983386,
-  "updated_at": "2026-01-12T11:42:42.422560"
+  "updated_at": "2026-02-03T18:28:52.578466",
+  "first_prize_draws": [
+    903
+  ],
+  "second_prize_draws": [
+    1194,
+    1000,
+    966,
+    905,
+    568,
+    480,
+    431
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

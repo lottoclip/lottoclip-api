@@ -1,7 +1,7 @@
 {
   "store_id": "14100568",
   "name": "가로토큰박스",
-  "address": "경기 과천시 중앙동  60과천극장앞",
+  "address": "경기 과천시 중앙동 60번지 과천극장버스정류장앞가판",
   "phone": "02-503-1122",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,18 @@
   ],
   "latitude": 37.429929,
   "longitude": 126.992985,
-  "updated_at": "2026-01-12T11:20:15.632310"
+  "updated_at": "2026-02-03T17:53:37.433455",
+  "first_prize_draws": [
+    519
+  ],
+  "second_prize_draws": [
+    757,
+    743,
+    618,
+    556,
+    432,
+    421
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

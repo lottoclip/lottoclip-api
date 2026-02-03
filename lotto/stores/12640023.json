@@ -1,7 +1,7 @@
 {
   "store_id": "12640023",
   "name": "럭키",
-  "address": "부산 북구 시랑로 137 ",
+  "address": "부산 북구  시랑로 137 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 35.19547,
   "longitude": 129.010397,
-  "updated_at": "2026-01-12T11:58:43.113196"
+  "updated_at": "2026-02-03T18:25:42.386914",
+  "first_prize_draws": [
+    1154,
+    941,
+    833
+  ],
+  "second_prize_draws": [
+    1077,
+    1074,
+    1054,
+    1014
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 4
 }

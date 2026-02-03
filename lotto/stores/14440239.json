@@ -1,7 +1,7 @@
 {
   "store_id": "14440239",
   "name": "오복로또",
-  "address": "충남 부여군 성흥로 178 ",
+  "address": "충남 부여군  성흥로 178 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,11 @@
   ],
   "latitude": 36.18377,
   "longitude": 126.89627,
-  "updated_at": "2026-01-12T11:49:37.803985"
+  "updated_at": "2026-02-03T18:14:47.446771",
+  "first_prize_draws": [
+    1021
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

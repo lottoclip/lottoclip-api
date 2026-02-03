@@ -1,7 +1,7 @@
 {
   "store_id": "14540028",
   "name": "노다지복권판매점",
-  "address": "전북 전주시 덕진구 팽나무4길 13 ",
+  "address": "전북 전주시 덕진구  팽나무4길 13 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 35.83531,
   "longitude": 127.15462,
-  "updated_at": "2026-01-12T11:52:12.210868"
+  "updated_at": "2026-02-03T18:22:28.862004",
+  "first_prize_draws": [
+    1060
+  ],
+  "second_prize_draws": [
+    1116
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

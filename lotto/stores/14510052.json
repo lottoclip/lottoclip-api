@@ -1,12 +1,29 @@
 {
   "store_id": "14510052",
   "name": "로또방",
-  "address": "전북 전주시 완산구 소대배기로 9 ",
+  "address": "전북 전주시 완산구 평화동2가 341-3번지 ",
   "phone": "063-225-6857",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 35.787587,
   "longitude": 127.131308,
-  "updated_at": "2026-01-12T11:27:47.325643"
+  "updated_at": "2026-02-03T18:06:05.792428",
+  "first_prize_draws": [
+    648
+  ],
+  "second_prize_draws": [
+    913,
+    828,
+    662,
+    569,
+    567,
+    480,
+    408,
+    393,
+    356,
+    287
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

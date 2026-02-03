@@ -1,7 +1,7 @@
 {
   "store_id": "14140118",
   "name": "복권나라",
-  "address": "경기 고양시 일산동구 하늘마을1로 9 ",
+  "address": "경기 고양시 일산동구  하늘마을1로 9 하늘마을4단지 104호",
   "phone": "031-906-9522",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 37.690933,
   "longitude": 126.776582,
-  "updated_at": "2026-01-12T11:47:19.265630"
+  "updated_at": "2026-02-03T18:11:58.452734",
+  "first_prize_draws": [
+    982
+  ],
+  "second_prize_draws": [
+    967
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

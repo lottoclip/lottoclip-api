@@ -1,7 +1,7 @@
 {
   "store_id": "12840124",
   "name": "정가네 가람기정떡",
-  "address": "인천 남동구 에코중앙로156번길 5-27 ",
+  "address": "인천 남동구  에코중앙로156번길 5-27 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 37.387195,
   "longitude": 126.717968,
-  "updated_at": "2026-01-12T11:57:23.792467"
+  "updated_at": "2026-02-03T18:28:16.947630",
+  "first_prize_draws": [
+    1134
+  ],
+  "second_prize_draws": [
+    1186
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

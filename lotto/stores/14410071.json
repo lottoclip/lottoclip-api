@@ -1,0 +1,28 @@
+{
+  "store_id": "14410071",
+  "name": "로또복권",
+  "address": "충남 공주시  무령로 314-1 ",
+  "phone": "041-854-3195",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.455877,
+  "longitude": 127.134846,
+  "updated_at": "2026-02-03T18:26:28.445617",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1161,
+    1116,
+    1077,
+    1020,
+    906,
+    900,
+    878,
+    681,
+    523
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 9
+}

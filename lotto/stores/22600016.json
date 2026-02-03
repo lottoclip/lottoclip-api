@@ -1,7 +1,7 @@
 {
   "store_id": "22600016",
   "name": "씨스페이스(범어사역점)",
-  "address": "부산 금정구 남산동 21-4번지 ",
+  "address": "부산 금정구  중앙대로 2097 ",
   "phone": "051-512-4820",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,27 @@
   ],
   "latitude": 35.271648,
   "longitude": 129.09244,
-  "updated_at": "2026-01-12T11:39:38.985467"
+  "updated_at": "2026-02-03T18:11:16.749792",
+  "first_prize_draws": [
+    854,
+    690,
+    667
+  ],
+  "second_prize_draws": [
+    976,
+    957,
+    941,
+    933,
+    922,
+    916,
+    810,
+    762,
+    691,
+    655,
+    573,
+    541,
+    513
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 13
 }

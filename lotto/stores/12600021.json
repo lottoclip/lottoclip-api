@@ -1,7 +1,7 @@
 {
   "store_id": "12600021",
   "name": "노다지복권방",
-  "address": "부산 금정구 금사로 75 ",
+  "address": "부산 금정구  금사로 75 ",
   "phone": "051-524-9287",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 35.21961,
   "longitude": 129.110978,
-  "updated_at": "2026-01-12T11:15:04.686474"
+  "updated_at": "2026-02-03T18:23:09.106560",
+  "first_prize_draws": [
+    434
+  ],
+  "second_prize_draws": [
+    1122,
+    1038,
+    1000,
+    964,
+    909,
+    809,
+    742,
+    647,
+    593,
+    529,
+    410
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 11
 }

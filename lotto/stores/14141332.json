@@ -1,7 +1,7 @@
 {
   "store_id": "14141332",
   "name": "비나리",
-  "address": "경기 수원시 권선구 금호로 67 ",
+  "address": "경기 수원시 권선구  금호로 67 (금곡동)",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,11 @@
   ],
   "latitude": 37.2703,
   "longitude": 126.95861,
-  "updated_at": "2026-01-12T11:48:44.920895"
+  "updated_at": "2026-02-03T18:13:55.663358",
+  "first_prize_draws": [
+    1009
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

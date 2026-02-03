@@ -1,7 +1,7 @@
 {
   "store_id": "14100433",
   "name": "안성맞춤",
-  "address": "경기 안성시 중앙로 371 ",
+  "address": "경기 안성시  안성맞춤대로 1099-1 ",
   "phone": "031-675-2266",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,26 @@
   ],
   "latitude": 37.007963,
   "longitude": 127.268152,
-  "updated_at": "2026-01-12T11:54:42.706342"
+  "updated_at": "2026-02-03T18:20:50.698629",
+  "first_prize_draws": [
+    1093,
+    851,
+    627
+  ],
+  "second_prize_draws": [
+    1052,
+    968,
+    726,
+    619,
+    458,
+    457,
+    431,
+    412,
+    380,
+    358,
+    357,
+    342
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 12
 }

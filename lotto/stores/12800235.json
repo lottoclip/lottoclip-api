@@ -1,0 +1,25 @@
+{
+  "store_id": "12800235",
+  "name": "드림복권",
+  "address": "인천 미추홀구  낙섬중로91번길 4-14 ",
+  "phone": "032-881-2252",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.456132,
+  "longitude": 126.64075,
+  "updated_at": "2026-02-03T18:29:13.889038",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1199,
+    1163,
+    1039,
+    688,
+    659,
+    633
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 6
+}

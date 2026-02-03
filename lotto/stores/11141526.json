@@ -1,7 +1,7 @@
 {
   "store_id": "11141526",
-  "name": "다올 복권방",
-  "address": "서울 중랑구 면목로 423 ",
+  "name": "웨이스탑면목점 다올복권방",
+  "address": "서울 중랑구  면목로 423 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 37.589816,
   "longitude": 127.086995,
-  "updated_at": "2026-01-12T11:56:38.800695"
+  "updated_at": "2026-02-03T18:29:35.964772",
+  "first_prize_draws": [
+    1120
+  ],
+  "second_prize_draws": [
+    1204,
+    1143
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

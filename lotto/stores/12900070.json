@@ -1,7 +1,7 @@
 {
   "store_id": "12900070",
   "name": "동양마트일곡점",
-  "address": "광주 북구 일곡마을로 55 ",
+  "address": "광주 북구  일곡마을로 55 현대아파트 2차상가 102-2호",
   "phone": "062-573-8849",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 35.20459,
   "longitude": 126.895258,
-  "updated_at": "2026-01-12T11:50:25.006590"
+  "updated_at": "2026-02-03T18:28:43.657215",
+  "first_prize_draws": [
+    1036
+  ],
+  "second_prize_draws": [
+    1192,
+    1183,
+    1173,
+    1081,
+    800,
+    685
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14100146",
   "name": "아트플라워",
-  "address": "경기 용인시 처인구 백옥대로 1109 ",
+  "address": "경기 용인시 처인구 김량장동  23-1번지 용인버스터미널내",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 37.234645,
   "longitude": 127.208626,
-  "updated_at": "2026-01-12T11:20:40.688196"
+  "updated_at": "2026-02-03T17:45:50.192885",
+  "first_prize_draws": [
+    527
+  ],
+  "second_prize_draws": [
+    671,
+    475,
+    460,
+    416,
+    269
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

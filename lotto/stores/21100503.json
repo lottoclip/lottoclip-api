@@ -1,12 +1,24 @@
 {
   "store_id": "21100503",
-  "name": "GS25(방이삼형)",
-  "address": "서울 송파구 방이동  149-13",
+  "name": "GS25(방이삼형점)",
+  "address": "서울 송파구  백제고분로50길 4 ",
   "phone": "02-423-8825",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.51427,
   "longitude": 127.115236,
-  "updated_at": "2026-01-12T11:16:49.509300"
+  "updated_at": "2026-02-03T18:09:46.136400",
+  "first_prize_draws": [
+    458,
+    306
+  ],
+  "second_prize_draws": [
+    956,
+    949,
+    565,
+    548
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 4
 }

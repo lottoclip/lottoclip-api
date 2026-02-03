@@ -1,7 +1,7 @@
 {
   "store_id": "11140496",
   "name": "태양 명당 복권방",
-  "address": "서울 금천구 독산로 211 ",
+  "address": "서울 금천구  독산로 211 세진상가103호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.46546,
   "longitude": 126.90202,
-  "updated_at": "2026-01-12T12:00:35.394615"
+  "updated_at": "2026-02-03T18:28:29.626151",
+  "first_prize_draws": [
+    1189,
+    1061
+  ],
+  "second_prize_draws": [
+    1188,
+    1178,
+    1159,
+    1158,
+    1155,
+    1114
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 6
 }

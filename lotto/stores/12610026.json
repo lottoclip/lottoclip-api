@@ -1,7 +1,7 @@
 {
   "store_id": "12610026",
   "name": "가락하단",
-  "address": "부산 사하구 하단동  885-9번지 세븐일레븐",
+  "address": "부산 사하구 하단동 885-9번지 세븐일레븐",
   "phone": "051-202-0449",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,17 @@
   ],
   "latitude": 35.108837,
   "longitude": 128.959072,
-  "updated_at": "2026-01-12T11:28:24.426933"
+  "updated_at": "2026-02-03T18:01:23.670817",
+  "first_prize_draws": [
+    660
+  ],
+  "second_prize_draws": [
+    856,
+    794,
+    788,
+    685,
+    436
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "12690060",
   "name": "황금돼지복권방",
-  "address": "부산 연제구 중앙대로 1204 ",
+  "address": "부산 연제구  중앙대로 1204 ",
   "phone": "051-505-3097",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 35.194877,
   "longitude": 129.080406,
-  "updated_at": "2026-01-12T11:42:45.516945"
+  "updated_at": "2026-02-03T18:28:56.752725",
+  "first_prize_draws": [
+    904,
+    344
+  ],
+  "second_prize_draws": [
+    1195,
+    1131,
+    995,
+    952,
+    948,
+    671,
+    666,
+    358,
+    326,
+    272
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 10
 }

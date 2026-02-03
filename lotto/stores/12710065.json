@@ -1,7 +1,7 @@
 {
   "store_id": "12710065",
   "name": "로또복권신매점",
-  "address": "대구 수성구 달구벌대로 3233 ",
+  "address": "대구 수성구  달구벌대로 3233 신매동 효성백년가약상가 401동7호",
   "phone": "053-000-0000",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 35.839582,
   "longitude": 128.710771,
-  "updated_at": "2026-01-12T11:54:58.249154"
+  "updated_at": "2026-02-03T18:28:25.335538",
+  "first_prize_draws": [
+    1098,
+    526,
+    300
+  ],
+  "second_prize_draws": [
+    1188,
+    1132,
+    1094,
+    956,
+    563
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 5
 }

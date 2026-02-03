@@ -1,12 +1,18 @@
 {
   "store_id": "12740293",
   "name": "일등커피로또판매점",
-  "address": "대구 수성구 동대구로 371 ",
+  "address": "대구 수성구  동대구로 371 1층일등커피숍내",
   "phone": null,
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 35.863515,
   "longitude": 128.626417,
-  "updated_at": "2026-01-12T12:01:51.440287"
+  "updated_at": "2026-02-03T18:29:31.414234",
+  "first_prize_draws": [
+    1203
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

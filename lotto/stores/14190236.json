@@ -1,7 +1,7 @@
 {
   "store_id": "14190236",
   "name": "행운복권마트",
-  "address": "경기 포천시 신읍동  58-16",
+  "address": "경기 포천시 신읍동 58-16번지 ",
   "phone": "031-535-9664",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,18 @@
   ],
   "latitude": 37.894908,
   "longitude": 127.201124,
-  "updated_at": "2026-01-12T11:05:20.354619"
+  "updated_at": "2026-02-03T18:00:18.103789",
+  "first_prize_draws": [
+    273
+  ],
+  "second_prize_draws": [
+    841,
+    775,
+    568,
+    432,
+    394,
+    268
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

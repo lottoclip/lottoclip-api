@@ -1,7 +1,7 @@
 {
   "store_id": "14500028",
   "name": "올인로또복권",
-  "address": "전북 전주시 완산구 효자동2가  203-5번지 코끼리마트 상가 내",
+  "address": "전북 전주시 완산구 효자동2가 203-5번지 코끼리마트 상가 내",
   "phone": "063-225-6562",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,21 @@
   ],
   "latitude": 35.804656,
   "longitude": 127.107976,
-  "updated_at": "2026-01-12T11:25:52.449108"
+  "updated_at": "2026-02-03T17:51:06.347892",
+  "first_prize_draws": [
+    616,
+    485,
+    472
+  ],
+  "second_prize_draws": [
+    728,
+    663,
+    646,
+    629,
+    583,
+    541,
+    436
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 7
 }

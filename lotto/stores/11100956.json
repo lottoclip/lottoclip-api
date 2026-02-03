@@ -1,7 +1,7 @@
 {
   "store_id": "11100956",
   "name": "만복당",
-  "address": "서울 성동구 금호동2가  449-1호",
+  "address": "서울 성동구 금호동1가 125-1 신한은행 앞",
   "phone": "02-2253-3026",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 37.554837,
   "longitude": 127.020291,
-  "updated_at": "2026-01-12T11:13:00.948571"
+  "updated_at": "2026-02-03T18:06:39.551550",
+  "first_prize_draws": [
+    399
+  ],
+  "second_prize_draws": [
+    919,
+    328
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14110128",
   "name": "대성미니슈퍼",
-  "address": "경기 이천시 샘재로 154 ",
+  "address": "경기 이천시  샘재로 154 ",
   "phone": "031-641-2430",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 37.117261,
   "longitude": 127.629224,
-  "updated_at": "2026-01-12T11:35:51.478670"
+  "updated_at": "2026-02-03T18:16:47.530972",
+  "first_prize_draws": [
+    782
+  ],
+  "second_prize_draws": [
+    1045,
+    1011,
+    566,
+    529,
+    492,
+    398
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

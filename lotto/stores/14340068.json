@@ -1,7 +1,7 @@
 {
   "store_id": "14340068",
   "name": "옥천로또",
-  "address": "충북 옥천군 삼양로 8 ",
+  "address": "충북 옥천군 삼양로 8 세븐일레븐  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 36.308055,
   "longitude": 127.563054,
-  "updated_at": "2026-01-17T14:08:44.516968"
+  "updated_at": "2026-02-03T18:29:49.119345",
+  "first_prize_draws": [
+    1207
+  ],
+  "second_prize_draws": [
+    1163
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

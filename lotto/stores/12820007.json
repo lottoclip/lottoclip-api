@@ -1,7 +1,7 @@
 {
   "store_id": "12820007",
   "name": "소래복권",
-  "address": "인천 남동구 앵고개로934번길 5 ",
+  "address": "인천 남동구  앵고개로934번길 5 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.401847,
   "longitude": 126.735145,
-  "updated_at": "2026-01-12T11:57:33.284831"
+  "updated_at": "2026-02-03T18:25:24.350396",
+  "first_prize_draws": [
+    1137,
+    1130
+  ],
+  "second_prize_draws": [
+    1150,
+    1137,
+    926,
+    888,
+    794,
+    676
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 6
 }

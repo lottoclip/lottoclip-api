@@ -1,7 +1,7 @@
 {
   "store_id": "14100321",
   "name": "세븐일레븐구리한성점",
-  "address": "경기 구리시 이문안로 49 ",
+  "address": "경기 구리시  이문안로 49 한성1차아파트상가102호",
   "phone": "031-565-0470",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 37.59243,
   "longitude": 127.136846,
-  "updated_at": "2026-01-12T11:54:45.852215"
+  "updated_at": "2026-02-03T18:27:11.727814",
+  "first_prize_draws": [
+    1094
+  ],
+  "second_prize_draws": [
+    1171,
+    1157,
+    1009,
+    571,
+    562,
+    441
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

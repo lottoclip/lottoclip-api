@@ -1,12 +1,22 @@
 {
   "store_id": "14100010",
   "name": "쿠아안경원",
-  "address": "경기 안산시 단원구 신각길 44 ",
+  "address": "경기 안산시 단원구  신각길 44 휴먼빌2차아파트상가102호",
   "phone": "031-492-8008",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.337412,
   "longitude": 126.774685,
-  "updated_at": "2026-01-12T11:45:36.494872"
+  "updated_at": "2026-02-03T18:09:37.615438",
+  "first_prize_draws": [
+    954
+  ],
+  "second_prize_draws": [
+    455,
+    438,
+    422
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "11140718",
   "name": "에스비 상사",
-  "address": "서울 중구 퇴계로86길 29 ",
+  "address": "서울 중구 퇴계로86길 29 1층  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 37.564253,
   "longitude": 127.019804,
-  "updated_at": "2026-01-12T12:02:01.053353"
+  "updated_at": "2026-02-03T18:29:44.599333",
+  "first_prize_draws": [
+    1206,
+    1110,
+    1094,
+    1085,
+    1053
+  ],
+  "second_prize_draws": [
+    1191,
+    1175,
+    1128,
+    1112
+  ],
+  "first_prize_count": 5,
+  "second_prize_count": 4
 }

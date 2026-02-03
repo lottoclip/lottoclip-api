@@ -1,7 +1,7 @@
 {
   "store_id": "12600211",
   "name": "스파편의점",
-  "address": "부산 사상구 가야대로 288 ",
+  "address": "부산 사상구  가야대로 288 창조상가106호",
   "phone": "051-327-1642",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,25 @@
   ],
   "latitude": 35.150011,
   "longitude": 129.004129,
-  "updated_at": "2026-01-12T11:43:29.044418"
+  "updated_at": "2026-02-03T18:28:34.586009",
+  "first_prize_draws": [
+    918,
+    312
+  ],
+  "second_prize_draws": [
+    1190,
+    1145,
+    1109,
+    1052,
+    902,
+    815,
+    812,
+    778,
+    624,
+    558,
+    528,
+    462
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 12
 }

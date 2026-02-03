@@ -1,7 +1,7 @@
 {
   "store_id": "14940067",
   "name": "행운&빈센트",
-  "address": "제주 서귀포시 동문로 64 ",
+  "address": "제주 서귀포시  동문로 64 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 33.24906,
   "longitude": 126.56697,
-  "updated_at": "2026-01-12T11:59:40.951371"
+  "updated_at": "2026-02-03T18:27:16.559702",
+  "first_prize_draws": [
+    1172,
+    1090
+  ],
+  "second_prize_draws": [
+    1121,
+    1097,
+    1096
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 3
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "11190028",
   "name": "행복공간",
-  "address": "서울 강동구 풍성로 115 ",
+  "address": "서울 강동구  풍성로 115 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,29 @@
   ],
   "latitude": 37.532127,
   "longitude": 127.125105,
-  "updated_at": "2026-01-12T11:31:50.346580"
+  "updated_at": "2026-02-03T18:26:40.844187",
+  "first_prize_draws": [
+    716,
+    623,
+    390
+  ],
+  "second_prize_draws": [
+    1164,
+    1159,
+    1151,
+    1150,
+    1048,
+    923,
+    788,
+    757,
+    623,
+    584,
+    563,
+    549,
+    439,
+    418,
+    315
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 15
 }

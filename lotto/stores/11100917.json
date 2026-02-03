@@ -1,7 +1,7 @@
 {
   "store_id": "11100917",
   "name": "가로판매대제18호",
-  "address": "서울 중구 소공로 51 ",
+  "address": "서울 중구 회현동1가(회현동) 203 ",
   "phone": "02-777-5573",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 37.559226,
   "longitude": 126.98148,
-  "updated_at": "2026-01-12T11:08:26.216110"
+  "updated_at": "2026-02-03T17:55:06.964251",
+  "first_prize_draws": [
+    329
+  ],
+  "second_prize_draws": [
+    776,
+    608,
+    593,
+    433,
+    359,
+    306
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

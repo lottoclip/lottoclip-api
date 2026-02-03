@@ -1,7 +1,7 @@
 {
   "store_id": "12700300",
   "name": "이마트24 대구북구매천점",
-  "address": "대구 북구 매전로4길 22 ",
+  "address": "대구 북구  매전로4길 22 1층(매천동)",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 36.906767,
   "longitude": 128.543201,
-  "updated_at": "2026-01-12T11:48:54.473961"
+  "updated_at": "2026-02-03T18:22:19.991648",
+  "first_prize_draws": [
+    1012
+  ],
+  "second_prize_draws": [
+    1114,
+    1034,
+    1004
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

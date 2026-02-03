@@ -1,7 +1,7 @@
 {
   "store_id": "14890032",
   "name": "노다지복권방",
-  "address": "경남 창녕군 명덕로 49 ",
+  "address": "경남 창녕군  명덕로 49 ",
   "phone": "055-533-7832",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 35.542992,
   "longitude": 128.494866,
-  "updated_at": "2026-01-12T11:53:12.012880"
+  "updated_at": "2026-02-03T18:26:00.226990",
+  "first_prize_draws": [
+    1074
+  ],
+  "second_prize_draws": [
+    1158,
+    1076,
+    1065,
+    1015,
+    1009,
+    977,
+    579,
+    442,
+    441,
+    340
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

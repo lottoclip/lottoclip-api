@@ -1,7 +1,7 @@
 {
   "store_id": "12840303",
   "name": "수 로또 대박점",
-  "address": "인천 서구 석남로 78 ",
+  "address": "인천 서구  석남로 78 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,11 @@
   ],
   "latitude": 37.500993,
   "longitude": 126.670342,
-  "updated_at": "2026-01-12T11:51:28.421134"
+  "updated_at": "2026-02-03T18:17:28.478910",
+  "first_prize_draws": [
+    1051
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

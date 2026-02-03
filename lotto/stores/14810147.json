@@ -1,7 +1,7 @@
 {
   "store_id": "14810147",
-  "name": "로또낚시",
-  "address": "경남 하동군 섬진강대로 968 ",
+  "name": "로또복권",
+  "address": "경남 하동군  섬진강대로 968 지리산빅마트 내",
   "phone": "055-884-1131",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 34.997064,
   "longitude": 127.809768,
-  "updated_at": "2026-01-12T11:14:06.800082"
+  "updated_at": "2026-02-03T18:25:47.028806",
+  "first_prize_draws": [
+    420
+  ],
+  "second_prize_draws": [
+    1155,
+    1093,
+    989,
+    805,
+    607
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

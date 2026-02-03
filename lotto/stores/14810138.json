@@ -1,7 +1,7 @@
 {
   "store_id": "14810138",
   "name": "복권나라",
-  "address": "경남 창원시 진해구 용원동 1121-11번지 CU편의점 내",
+  "address": "경남 창원시 진해구  용원로 107 CU편의점 내",
   "phone": "055-542-5226",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,21 @@
   ],
   "latitude": 35.098514,
   "longitude": 128.820858,
-  "updated_at": "2026-01-12T11:34:55.464080"
+  "updated_at": "2026-02-03T18:17:20.319666",
+  "first_prize_draws": [
+    769
+  ],
+  "second_prize_draws": [
+    1049,
+    1023,
+    1013,
+    1008,
+    862,
+    820,
+    741,
+    578,
+    480
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 9
 }

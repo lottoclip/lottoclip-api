@@ -1,7 +1,7 @@
 {
   "store_id": "12940139",
   "name": "산수로또",
-  "address": "광주 동구 필문대로 194 ",
+  "address": "광주 동구  필문대로 194 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,11 @@
   ],
   "latitude": 35.15352,
   "longitude": 126.931156,
-  "updated_at": "2026-01-12T11:57:14.387797"
+  "updated_at": "2026-02-03T18:23:47.823430",
+  "first_prize_draws": [
+    1131
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

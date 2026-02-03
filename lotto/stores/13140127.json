@@ -1,0 +1,23 @@
+{
+  "store_id": "13140127",
+  "name": "복권 판매점",
+  "address": "울산 울주군  덕망로 38 ",
+  "phone": null,
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.43687,
+  "longitude": 129.308894,
+  "updated_at": "2026-02-03T18:26:54.079534",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1167,
+    1151,
+    1077,
+    1022
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 4
+}

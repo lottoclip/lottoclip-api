@@ -1,7 +1,7 @@
 {
   "store_id": "14100409",
   "name": "영동슈퍼",
-  "address": "경기 부천시 원미구 심곡동  409-11번지",
+  "address": "경기 부천시 원미구 심곡동 409-11번지 ",
   "phone": "032-612-7785",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,16 @@
   ],
   "latitude": 37.48855,
   "longitude": 126.780416,
-  "updated_at": "2026-01-12T11:26:48.901088"
+  "updated_at": "2026-02-03T17:52:30.556771",
+  "first_prize_draws": [
+    634
+  ],
+  "second_prize_draws": [
+    746,
+    551,
+    484,
+    456
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

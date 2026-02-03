@@ -1,7 +1,7 @@
 {
   "store_id": "14690008",
   "name": "복권나라",
-  "address": "전남 목포시 당가두로14번길 47-1 ",
+  "address": "전남 목포시  당가두로14번길 47-1 103호 복권나라",
   "phone": "061-279-3638",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 34.807582,
   "longitude": 126.437188,
-  "updated_at": "2026-01-12T11:58:36.761226"
+  "updated_at": "2026-02-03T18:25:34.130906",
+  "first_prize_draws": [
+    1152,
+    921,
+    665,
+    327
+  ],
+  "second_prize_draws": [
+    1074,
+    1056,
+    935,
+    915,
+    595,
+    422,
+    386,
+    272
+  ],
+  "first_prize_count": 4,
+  "second_prize_count": 8
 }

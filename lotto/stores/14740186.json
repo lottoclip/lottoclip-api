@@ -1,7 +1,7 @@
 {
   "store_id": "14740186",
   "name": "문경로또",
-  "address": "경북 문경시 문희로 19-1 ",
+  "address": "경북 문경시  문희로 19-1 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 36.734091,
   "longitude": 128.108451,
-  "updated_at": "2026-01-12T11:54:36.248403"
+  "updated_at": "2026-02-03T18:28:48.490964",
+  "first_prize_draws": [
+    1091
+  ],
+  "second_prize_draws": [
+    1193,
+    1157,
+    1121,
+    1021
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

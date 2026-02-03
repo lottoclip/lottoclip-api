@@ -1,7 +1,7 @@
 {
   "store_id": "14100219",
   "name": "동행복권방",
-  "address": "경기 의정부시 평화로 477 ",
+  "address": "경기 의정부시  평화로 477 ",
   "phone": "031-873-1298",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 37.734567,
   "longitude": 127.047583,
-  "updated_at": "2026-01-12T11:40:32.176200"
+  "updated_at": "2026-02-03T18:25:51.140596",
+  "first_prize_draws": [
+    871
+  ],
+  "second_prize_draws": [
+    1156,
+    1101,
+    1075,
+    1059,
+    1039,
+    971,
+    907,
+    889,
+    855,
+    759
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

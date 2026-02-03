@@ -1,7 +1,7 @@
 {
   "store_id": "12700233",
   "name": "토큰박스(성당포스코더샵)",
-  "address": "대구 달서구 장기로 115 ",
+  "address": "대구 달서구  장기로 115 도로가 가판",
   "phone": "053-653-5176",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 35.84231,
   "longitude": 128.547842,
-  "updated_at": "2026-01-12T11:26:20.681195"
+  "updated_at": "2026-02-03T18:24:09.385595",
+  "first_prize_draws": [
+    625
+  ],
+  "second_prize_draws": [
+    1136,
+    528
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "12600049",
   "name": "엑스트라(우주점)",
-  "address": "부산 사상구 모라로110번길 121 ",
+  "address": "부산 사상구  모라로110번길 121 주공아파트1단지 가상가106호",
   "phone": "051-304-6111",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 35.183853,
   "longitude": 128.996422,
-  "updated_at": "2026-01-12T11:31:50.376669"
+  "updated_at": "2026-02-03T18:16:06.070108",
+  "first_prize_draws": [
+    716,
+    625
+  ],
+  "second_prize_draws": [
+    1036,
+    953,
+    919,
+    822,
+    504
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 5
 }

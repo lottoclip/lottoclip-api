@@ -1,7 +1,7 @@
 {
   "store_id": "14810166",
   "name": "양덕복권방",
-  "address": "경남 창원시 마산회원구 합성옛길 23 ",
+  "address": "경남 창원시 마산회원구  합성옛길 23 1층",
   "phone": "055-256-8485",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 35.233071,
   "longitude": 128.582975,
-  "updated_at": "2026-01-12T11:53:34.086542"
+  "updated_at": "2026-02-03T18:22:41.927970",
+  "first_prize_draws": [
+    1081
+  ],
+  "second_prize_draws": [
+    1119,
+    838,
+    766,
+    710
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

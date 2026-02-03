@@ -1,7 +1,7 @@
 {
   "store_id": "14190079",
   "name": "미금헤리츠점",
-  "address": "경기 성남시 분당구 성남대로 151 ",
+  "address": "경기 성남시 분당구  성남대로 151 엠코헤리츠 1층110호",
   "phone": "070-8815-1822",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 37.349279,
   "longitude": 127.108292,
-  "updated_at": "2026-01-12T11:53:02.653913"
+  "updated_at": "2026-02-03T18:28:30.131769",
+  "first_prize_draws": [
+    1071,
+    751
+  ],
+  "second_prize_draws": [
+    1189,
+    1090,
+    1062,
+    943,
+    370,
+    340,
+    281
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 7
 }

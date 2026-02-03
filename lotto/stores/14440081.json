@@ -1,7 +1,7 @@
 {
   "store_id": "14440081",
   "name": "도고로또판매점",
-  "address": "충남 아산시 온천대로 170 ",
+  "address": "충남 아산시 온천대로 170 이마트24시편의점  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 36.747288,
   "longitude": 126.873454,
-  "updated_at": "2026-01-12T11:58:20.503413"
+  "updated_at": "2026-02-03T18:29:40.687117",
+  "first_prize_draws": [
+    1147
+  ],
+  "second_prize_draws": [
+    1205,
+    1156
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

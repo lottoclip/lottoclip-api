@@ -1,7 +1,7 @@
 {
   "store_id": "11141152",
   "name": "희망드림(동행복권)",
-  "address": "서울 광진구 뚝섬로30길 47 ",
+  "address": "서울 광진구  뚝섬로30길 47 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 37.53488,
   "longitude": 127.067548,
-  "updated_at": "2026-01-12T12:00:25.727780"
+  "updated_at": "2026-02-03T18:28:16.581170",
+  "first_prize_draws": [
+    1186
+  ],
+  "second_prize_draws": [
+    1170,
+    1150
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

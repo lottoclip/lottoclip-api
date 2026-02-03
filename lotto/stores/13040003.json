@@ -1,7 +1,7 @@
 {
   "store_id": "13040003",
   "name": "복권로또판매점",
-  "address": "대전 동구 동대전로 223-1 ",
+  "address": "대전 동구  동대전로 223-1 ",
   "phone": "042-626-8414",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 36.341543,
   "longitude": 127.448388,
-  "updated_at": "2026-01-12T11:40:44.934960"
+  "updated_at": "2026-02-03T18:16:38.625643",
+  "first_prize_draws": [
+    875
+  ],
+  "second_prize_draws": [
+    1043,
+    977,
+    864
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

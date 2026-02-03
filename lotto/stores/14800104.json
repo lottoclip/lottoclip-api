@@ -1,7 +1,7 @@
 {
   "store_id": "14800104",
   "name": "프리코너로또방",
-  "address": "경남 창원시 마산회원구 석전동로 1 ",
+  "address": "경남 창원시 마산회원구  석전동로 1 ",
   "phone": "055-299-3718",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 35.231186,
   "longitude": 128.576391,
-  "updated_at": "2026-01-12T11:26:42.508023"
+  "updated_at": "2026-02-03T18:20:55.458268",
+  "first_prize_draws": [
+    632
+  ],
+  "second_prize_draws": [
+    1094,
+    912,
+    908,
+    414
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

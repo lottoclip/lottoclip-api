@@ -1,7 +1,7 @@
 {
   "store_id": "14700078",
   "name": "파워할인마트",
-  "address": "경북 김천시 자산로 44-2 ",
+  "address": "경북 김천시  자산로 44-2 1층 파워할인마트내",
   "phone": "054-433-8484",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 36.119798,
   "longitude": 128.126856,
-  "updated_at": "2026-01-12T11:48:44.964579"
+  "updated_at": "2026-02-03T18:16:02.246539",
+  "first_prize_draws": [
+    1009
+  ],
+  "second_prize_draws": [
+    1035,
+    998,
+    844,
+    788,
+    752,
+    487
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

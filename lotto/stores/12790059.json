@@ -1,0 +1,26 @@
+{
+  "store_id": "12790059",
+  "name": "수성복권(미니마트)",
+  "address": "대구 수성구  시지로1길 29 1층 복권판매점",
+  "phone": null,
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.842393,
+  "longitude": 128.695653,
+  "updated_at": "2026-02-03T18:22:15.882264",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1113,
+    1096,
+    1057,
+    1013,
+    922,
+    776,
+    444
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 7
+}

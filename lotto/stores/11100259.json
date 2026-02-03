@@ -1,7 +1,7 @@
 {
   "store_id": "11100259",
   "name": "복권나라",
-  "address": "서울 광진구 군자로 146 ",
+  "address": "서울 광진구  군자로 146 동진빌딩 1층",
   "phone": "02-446-3666",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 37.554392,
   "longitude": 127.075592,
-  "updated_at": "2026-01-12T11:36:49.624362"
+  "updated_at": "2026-02-03T18:21:49.755876",
+  "first_prize_draws": [
+    800,
+    400
+  ],
+  "second_prize_draws": [
+    1107,
+    1023,
+    673
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 3
 }

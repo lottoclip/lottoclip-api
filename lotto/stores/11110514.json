@@ -1,12 +1,28 @@
 {
   "store_id": "11110514",
   "name": "배임",
-  "address": "서울 용산구 보광동 217-31 와룡문구내",
+  "address": "서울 용산구  보광로 19 1층",
   "phone": "02-749-0108",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.526238,
   "longitude": 127.000625,
-  "updated_at": "2026-01-12T11:43:29.031188"
+  "updated_at": "2026-02-03T18:09:32.283650",
+  "first_prize_draws": [
+    918,
+    518
+  ],
+  "second_prize_draws": [
+    953,
+    920,
+    871,
+    850,
+    535,
+    438,
+    407,
+    381
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 8
 }

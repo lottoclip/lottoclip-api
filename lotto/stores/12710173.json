@@ -1,12 +1,26 @@
 {
   "store_id": "12710173",
   "name": "안동슈퍼",
-  "address": "대구 중구 중앙대로 463 ",
+  "address": "대구 중구  중앙대로 463 ",
   "phone": "053-252-4758",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 35.87457,
   "longitude": 128.594472,
-  "updated_at": "2026-01-12T11:27:10.499603"
+  "updated_at": "2026-02-03T18:27:42.395746",
+  "first_prize_draws": [
+    641
+  ],
+  "second_prize_draws": [
+    1178,
+    1153,
+    1065,
+    974,
+    897,
+    865,
+    747
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

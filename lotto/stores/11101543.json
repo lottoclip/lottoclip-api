@@ -1,7 +1,7 @@
 {
   "store_id": "11101543",
   "name": "인더라인25",
-  "address": "서울 마포구 월드컵북로54길 17 ",
+  "address": "서울 마포구  월드컵북로54길 17 132호",
   "phone": "02-704-4462",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.581324,
   "longitude": 126.888548,
-  "updated_at": "2026-01-12T11:29:23.944698"
+  "updated_at": "2026-02-03T18:24:21.926246",
+  "first_prize_draws": [
+    674,
+    352
+  ],
+  "second_prize_draws": [
+    1139,
+    921,
+    822,
+    713,
+    705,
+    684
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 6
 }

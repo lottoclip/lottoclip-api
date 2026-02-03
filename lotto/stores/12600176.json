@@ -1,7 +1,7 @@
 {
   "store_id": "12600176",
   "name": "서원탑훼미리",
-  "address": "부산 동구 수정공원로 55 ",
+  "address": "부산 동구  수정공원로 55 4동 1층 101호",
   "phone": "051-465-5857",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,16 @@
   ],
   "latitude": 35.131425,
   "longitude": 129.038884,
-  "updated_at": "2026-01-12T11:48:06.722619"
+  "updated_at": "2026-02-03T18:17:56.393679",
+  "first_prize_draws": [
+    997,
+    977
+  ],
+  "second_prize_draws": [
+    1057,
+    464,
+    379
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 3
 }

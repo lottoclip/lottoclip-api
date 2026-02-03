@@ -1,14 +1,24 @@
 {
   "store_id": "12840083",
-  "name": "주인공",
-  "address": "인천 서구 이음5로 65 ",
+  "name": "검단1등로또(주인공)",
+  "address": "인천 서구 이음5로 65 검단 금호어울림센트럴 상가동 제지2층 제102호  ",
   "phone": "032-563-8303",
   "lottery_types": [
     "lotto645",
     "pension720",
     "speetto"
   ],
-  "latitude": 37.595054,
-  "longitude": 126.71503,
-  "updated_at": "2026-01-12T11:53:08.785395"
+  "latitude": 37.593892,
+  "longitude": 126.69774,
+  "updated_at": "2026-02-03T18:29:40.401899",
+  "first_prize_draws": [
+    1073
+  ],
+  "second_prize_draws": [
+    1205,
+    1153,
+    953
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

@@ -1,0 +1,23 @@
+{
+  "store_id": "12610176",
+  "name": "로또 판매점",
+  "address": "부산 해운대구 재송동 1097-5 1층 옆문입구 5m2(재송동)",
+  "phone": null,
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.183481,
+  "longitude": 129.122617,
+  "updated_at": "2026-02-03T18:05:37.287721",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    907,
+    734,
+    565,
+    412
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 4
+}

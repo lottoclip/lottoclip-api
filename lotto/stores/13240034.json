@@ -1,7 +1,7 @@
 {
   "store_id": "13240034",
   "name": "로또명당반곡점",
-  "address": "세종   한누리대로 1821 ",
+  "address": "세종   한누리대로 1821 수루배마을5단지 상가 114호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 36.497427,
   "longitude": 127.312382,
-  "updated_at": "2026-01-12T11:58:04.499747"
+  "updated_at": "2026-02-03T18:24:34.907022",
+  "first_prize_draws": [
+    1142
+  ],
+  "second_prize_draws": [
+    1000
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

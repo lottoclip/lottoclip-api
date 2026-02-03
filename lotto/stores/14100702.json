@@ -1,7 +1,7 @@
 {
   "store_id": "14100702",
   "name": "태원통신",
-  "address": "경기 하남시 하남대로 851 ",
+  "address": "경기 하남시  하남대로 851 ",
   "phone": "031-794-4318",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.543022,
   "longitude": 127.203458,
-  "updated_at": "2026-01-12T11:37:29.885304"
+  "updated_at": "2026-02-03T18:23:26.170351",
+  "first_prize_draws": [
+    813
+  ],
+  "second_prize_draws": [
+    1126,
+    970,
+    853,
+    660,
+    616,
+    600,
+    375
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

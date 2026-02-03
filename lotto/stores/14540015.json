@@ -1,7 +1,7 @@
 {
   "store_id": "14540015",
   "name": "복권1번지편의점",
-  "address": "전북 완주군 봉동중앙로 88 ",
+  "address": "전북 완주군  봉동중앙로 88 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 35.928013,
   "longitude": 127.162894,
-  "updated_at": "2026-01-12T11:35:45.224169"
+  "updated_at": "2026-02-03T18:23:01.167915",
+  "first_prize_draws": [
+    780
+  ],
+  "second_prize_draws": [
+    1120,
+    1072,
+    989,
+    948
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

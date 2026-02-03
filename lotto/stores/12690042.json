@@ -1,7 +1,7 @@
 {
   "store_id": "12690042",
   "name": "서원탑훼미리마트복권방",
-  "address": "부산 기장군 차성로344번길 38 ",
+  "address": "부산 기장군  차성로344번길 38 ",
   "phone": "051-722-4013",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 35.247976,
   "longitude": 129.215974,
-  "updated_at": "2026-01-12T11:52:28.198643"
+  "updated_at": "2026-02-03T18:18:33.504132",
+  "first_prize_draws": [
+    1065
+  ],
+  "second_prize_draws": [
+    756
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

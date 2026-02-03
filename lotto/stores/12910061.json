@@ -1,7 +1,7 @@
 {
   "store_id": "12910061",
-  "name": "행운마트",
-  "address": "광주 북구 임방울대로 1059 ",
+  "name": "에이스복권방",
+  "address": "광주 북구  임방울대로 1059 1층 101호",
   "phone": "062-574-6355",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 35.212055,
   "longitude": 126.873164,
-  "updated_at": "2026-01-12T11:17:01.848233"
+  "updated_at": "2026-02-03T18:28:39.230225",
+  "first_prize_draws": [
+    462
+  ],
+  "second_prize_draws": [
+    1191,
+    1102,
+    1044,
+    1014,
+    964,
+    932,
+    682,
+    649,
+    606,
+    428,
+    425
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 11
 }

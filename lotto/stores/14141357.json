@@ -1,7 +1,7 @@
 {
   "store_id": "14141357",
   "name": "아름드림 복권방",
-  "address": "경기 수원시 팔달구 덕영대로 693 ",
+  "address": "경기 수원시 팔달구  덕영대로 693 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,11 @@
   ],
   "latitude": 37.2848,
   "longitude": 126.98991,
-  "updated_at": "2026-01-12T11:55:14.429113"
+  "updated_at": "2026-02-03T18:21:33.247312",
+  "first_prize_draws": [
+    1103
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

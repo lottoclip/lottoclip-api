@@ -1,7 +1,7 @@
 {
   "store_id": "11100193",
   "name": "은혜",
-  "address": "서울 중랑구 면목로91길 46 ",
+  "address": "서울 중랑구  면목로91길 46 ",
   "phone": "02-492-7153",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.594111,
   "longitude": 127.08339,
-  "updated_at": "2026-01-12T11:38:23.024094"
+  "updated_at": "2026-02-03T18:10:18.452249",
+  "first_prize_draws": [
+    830
+  ],
+  "second_prize_draws": [
+    963,
+    809,
+    794,
+    559,
+    394,
+    389,
+    339
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

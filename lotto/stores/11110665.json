@@ -1,7 +1,7 @@
 {
   "store_id": "11110665",
   "name": "천하명당로또",
-  "address": "서울 은평구 증산동 185-25번지 1층",
+  "address": "서울 은평구  증산로9길 17 ",
   "phone": "02-308-6946",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 37.585665,
   "longitude": 126.908598,
-  "updated_at": "2026-01-12T11:39:45.149521"
+  "updated_at": "2026-02-03T18:19:54.167374",
+  "first_prize_draws": [
+    856
+  ],
+  "second_prize_draws": [
+    1080,
+    901,
+    559,
+    554,
+    482,
+    381
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

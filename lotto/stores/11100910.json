@@ -1,7 +1,7 @@
 {
   "store_id": "11100910",
   "name": "가로가판대제57호(구)",
-  "address": "서울 중구 세종대로14길 6-2 ",
+  "address": "서울 중구  세종대로14길 6-2 ",
   "phone": "02-319-2598",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,26 @@
   ],
   "latitude": 37.562906,
   "longitude": 126.977049,
-  "updated_at": "2026-01-12T11:55:27.182430"
+  "updated_at": "2026-02-03T18:22:19.923397",
+  "first_prize_draws": [
+    1107,
+    1013,
+    413,
+    307
+  ],
+  "second_prize_draws": [
+    1114,
+    1113,
+    987,
+    918,
+    891,
+    718,
+    616,
+    613,
+    586,
+    506,
+    456
+  ],
+  "first_prize_count": 4,
+  "second_prize_count": 11
 }

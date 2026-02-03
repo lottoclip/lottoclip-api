@@ -1,7 +1,7 @@
 {
   "store_id": "14210036",
   "name": "거진터미널로또복권판매점",
-  "address": "강원 고성군 거진길 21-2 ",
+  "address": "강원 고성군 거진길 21-2 거진터미널  ",
   "phone": "033-682-2723",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 38.446308,
   "longitude": 128.453729,
-  "updated_at": "2026-01-12T11:48:38.394968"
+  "updated_at": "2026-02-03T18:29:53.298086",
+  "first_prize_draws": [
+    1007,
+    825
+  ],
+  "second_prize_draws": [
+    1208,
+    1173,
+    1142,
+    1135,
+    995,
+    956,
+    935,
+    827,
+    783,
+    545
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 10
 }

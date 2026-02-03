@@ -1,7 +1,7 @@
 {
   "store_id": "14110292",
   "name": "아름다운방",
-  "address": "경기 의정부시 금오동  473-1번지 플래티넘프라자1층107",
+  "address": "경기 의정부시 금오동 473-1번지 플래티넘프라자1층107",
   "phone": "031-853-6514",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,16 @@
   ],
   "latitude": 37.752236,
   "longitude": 127.069575,
-  "updated_at": "2026-01-12T11:25:15.604935"
+  "updated_at": "2026-02-03T17:46:20.698138",
+  "first_prize_draws": [
+    605,
+    450
+  ],
+  "second_prize_draws": [
+    678,
+    474,
+    326
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 3
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14100197",
   "name": "황금복권방",
-  "address": "경기 안양시 만안구 장내로 79 ",
+  "address": "경기 안양시 만안구 안양8동 598-19번지 ",
   "phone": "031-448-0092",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,11 @@
   ],
   "latitude": 37.394913,
   "longitude": 126.917435,
-  "updated_at": "2026-01-12T11:42:08.213626"
+  "updated_at": "2026-02-03T18:04:15.001307",
+  "first_prize_draws": [
+    892
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

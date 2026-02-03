@@ -1,7 +1,7 @@
 {
   "store_id": "14810076",
   "name": "완월로또",
-  "address": "경남 창원시 마산합포구 고운로 175 ",
+  "address": "경남 창원시 마산합포구  고운로 175 한미초록빌라 세븐일레븐 내",
   "phone": "055-245-0671",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 35.197373,
   "longitude": 128.561866,
-  "updated_at": "2026-01-12T11:44:21.444757"
+  "updated_at": "2026-02-03T18:12:03.430933",
+  "first_prize_draws": [
+    930,
+    873,
+    787
+  ],
+  "second_prize_draws": [
+    983,
+    904,
+    788,
+    787,
+    637,
+    521,
+    424,
+    395,
+    316,
+    299
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 10
 }

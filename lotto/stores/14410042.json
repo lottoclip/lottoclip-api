@@ -1,7 +1,7 @@
 {
   "store_id": "14410042",
   "name": "로또복권",
-  "address": "충남 천안시 동남구 봉정로 58 ",
+  "address": "충남 천안시 동남구  봉정로 58 ",
   "phone": "041-572-7060",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 36.807116,
   "longitude": 127.140251,
-  "updated_at": "2026-01-12T11:29:30.170034"
+  "updated_at": "2026-02-03T18:26:37.068435",
+  "first_prize_draws": [
+    676
+  ],
+  "second_prize_draws": [
+    1163,
+    857,
+    839,
+    549,
+    534
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

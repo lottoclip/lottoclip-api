@@ -1,0 +1,31 @@
+{
+  "store_id": "14100157",
+  "name": "복권나라",
+  "address": "경기 시흥시  신천로 80 ",
+  "phone": "031-311-8934",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.437469,
+  "longitude": 126.786201,
+  "updated_at": "2026-02-03T18:23:26.133392",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1126,
+    1064,
+    1063,
+    1052,
+    1002,
+    885,
+    803,
+    777,
+    747,
+    639,
+    326,
+    320
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 12
+}

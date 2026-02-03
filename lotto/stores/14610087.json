@@ -1,7 +1,7 @@
 {
   "store_id": "14610087",
   "name": "희망복권방",
-  "address": "전남 나주시 풍물시장1길 3 ",
+  "address": "전남 나주시  풍물시장1길 3 ",
   "phone": "061-331-5544",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,27 @@
   ],
   "latitude": 34.99262,
   "longitude": 126.70952,
-  "updated_at": "2026-01-12T11:59:34.592562"
+  "updated_at": "2026-02-03T18:27:07.244164",
+  "first_prize_draws": [
+    1170,
+    1046,
+    969,
+    862
+  ],
+  "second_prize_draws": [
+    1165,
+    1121,
+    1109,
+    1106,
+    1093,
+    1063,
+    887,
+    837,
+    773,
+    577,
+    338,
+    326
+  ],
+  "first_prize_count": 4,
+  "second_prize_count": 12
 }

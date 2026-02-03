@@ -1,0 +1,36 @@
+{
+  "store_id": "12810141",
+  "name": "우리복권",
+  "address": "인천 남동구  논고개로123번길 17 109호",
+  "phone": "032-422-5008",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.401932,
+  "longitude": 126.723122,
+  "updated_at": "2026-02-03T18:29:13.887531",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1199,
+    1123,
+    1081,
+    909,
+    905,
+    903,
+    883,
+    839,
+    779,
+    710,
+    683,
+    676,
+    661,
+    643,
+    640,
+    619,
+    569
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 17
+}

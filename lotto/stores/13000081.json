@@ -1,0 +1,28 @@
+{
+  "store_id": "13000081",
+  "name": "베팅샵(양파)",
+  "address": "대전 동구  계족로 429 ",
+  "phone": "042-621-0490",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.350125,
+  "longitude": 127.431814,
+  "updated_at": "2026-02-03T18:27:11.695018",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1171,
+    1063,
+    852,
+    772,
+    770,
+    684,
+    599,
+    504,
+    316
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 9
+}

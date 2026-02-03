@@ -1,7 +1,7 @@
 {
   "store_id": "12990011",
   "name": "형제기획 복권시대",
-  "address": "광주 동구 금남로5가(충장동) 166 복권시대",
+  "address": "광주 동구  금남로 193-1 복권시대",
   "phone": "062-228-4872",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 35.151288,
   "longitude": 126.914127,
-  "updated_at": "2026-01-12T11:32:04.375409"
+  "updated_at": "2026-02-03T18:18:16.572702",
+  "first_prize_draws": [
+    720
+  ],
+  "second_prize_draws": [
+    1061,
+    874,
+    841,
+    769,
+    764,
+    719,
+    696,
+    529,
+    484,
+    286,
+    265
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 11
 }

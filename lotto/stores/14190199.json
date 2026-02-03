@@ -1,7 +1,7 @@
 {
   "store_id": "14190199",
   "name": "대한복권",
-  "address": "경기 부천시 부천로 52 ",
+  "address": "경기 부천시  부천로 52 ",
   "phone": "032-655-2744",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 37.489606,
   "longitude": 126.784199,
-  "updated_at": "2026-01-12T11:50:31.457828"
+  "updated_at": "2026-02-03T18:28:43.783055",
+  "first_prize_draws": [
+    1038,
+    894,
+    312
+  ],
+  "second_prize_draws": [
+    1192,
+    1126,
+    1063,
+    967,
+    918,
+    899,
+    671,
+    581,
+    363
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 9
 }

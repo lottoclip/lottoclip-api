@@ -1,7 +1,7 @@
 {
   "store_id": "11110312",
-  "name": "-",
-  "address": "서울 서초구 서초동  1591-3 탑스벤처빌딩 1층 서초마트내",
+  "name": "서림로또",
+  "address": "서울 서초구 서초동 1595-1번지 정훈오피스텔1층후레쉬마트",
   "phone": "02-587-5542",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,15 @@
   ],
   "latitude": 37.487112,
   "longitude": 127.01316,
-  "updated_at": "2026-01-12T11:04:50.044670"
+  "updated_at": "2026-02-03T17:58:53.609346",
+  "first_prize_draws": [
+    263
+  ],
+  "second_prize_draws": [
+    823,
+    674,
+    391
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14790004",
   "name": "복권판매점",
-  "address": "경북 경산시 하양로 65 ",
+  "address": "경북 경산시  하양로 65 ",
   "phone": "053-853-0353",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 35.911167,
   "longitude": 128.81583,
-  "updated_at": "2026-01-12T11:58:14.327224"
+  "updated_at": "2026-02-03T18:25:34.167634",
+  "first_prize_draws": [
+    1145,
+    467
+  ],
+  "second_prize_draws": [
+    1152,
+    1064,
+    772,
+    622,
+    568,
+    494
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 6
 }

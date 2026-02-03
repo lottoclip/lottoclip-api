@@ -1,7 +1,7 @@
 {
   "store_id": "24800009",
-  "name": "GS25(김해중앙점)",
-  "address": "경남 김해시 서상동  152-10 1층",
+  "name": "GS25(김해서상점)",
+  "address": "경남 김해시 서상동 152-10번지 1층",
   "phone": "055-311-6699",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,24 @@
   ],
   "latitude": 35.233289,
   "longitude": 128.881358,
-  "updated_at": "2026-01-12T11:11:23.116896"
+  "updated_at": "2026-02-03T18:01:40.941976",
+  "first_prize_draws": [
+    372
+  ],
+  "second_prize_draws": [
+    860,
+    856,
+    853,
+    836,
+    780,
+    487,
+    481,
+    421,
+    395,
+    393,
+    354,
+    328
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 12
 }

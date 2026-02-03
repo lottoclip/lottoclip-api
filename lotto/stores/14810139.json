@@ -1,7 +1,7 @@
 {
   "store_id": "14810139",
-  "name": "로또복권",
-  "address": "경남 창원시 진해구 석동 663-6번지 그린프라자102호 CU편의점 내",
+  "name": "이마트24진해벚꽃점",
+  "address": "경남 창원시 진해구 석동 663-6 이마트24편의점",
   "phone": "055-542-4010",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 35.153446,
   "longitude": 128.707097,
-  "updated_at": "2026-01-12T11:32:01.121120"
+  "updated_at": "2026-02-03T18:06:05.856941",
+  "first_prize_draws": [
+    719
+  ],
+  "second_prize_draws": [
+    913,
+    787,
+    545,
+    290
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14130020",
   "name": "영통대박복권",
-  "address": "경기 수원시 영통구 하동(광교2동) 966 1층 101호(하동)",
+  "address": "경기 수원시 영통구  법조로149번길 101 1층 101호 CU편의점 내",
   "phone": "031-217-2534",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 37.293863,
   "longitude": 127.068923,
-  "updated_at": "2026-01-12T11:38:13.868655"
+  "updated_at": "2026-02-03T18:26:49.834081",
+  "first_prize_draws": [
+    827
+  ],
+  "second_prize_draws": [
+    1166,
+    1163,
+    1011,
+    862,
+    838
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

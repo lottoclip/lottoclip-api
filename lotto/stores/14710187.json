@@ -1,7 +1,7 @@
 {
   "store_id": "14710187",
   "name": "행복충전소",
-  "address": "경북 예천군 행복로 229 ",
+  "address": "경북 예천군  행복로 229 상가 102호",
   "phone": "054-653-0888",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,25 @@
   ],
   "latitude": 36.577963,
   "longitude": 128.489922,
-  "updated_at": "2026-01-12T11:46:26.455055"
+  "updated_at": "2026-02-03T18:25:42.720100",
+  "first_prize_draws": [
+    970
+  ],
+  "second_prize_draws": [
+    1154,
+    1129,
+    1126,
+    1073,
+    933,
+    926,
+    918,
+    913,
+    879,
+    872,
+    836,
+    589,
+    495
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 13
 }

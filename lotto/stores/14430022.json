@@ -1,12 +1,24 @@
 {
   "store_id": "14430022",
   "name": "6.2.3복권방",
-  "address": "충남 아산시 좌부동(온양6동) 249-2 GS25편의점내",
+  "address": "충남 아산시  순천향로 933 ",
   "phone": null,
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 36.76061,
   "longitude": 127.02417,
-  "updated_at": "2026-01-12T11:40:13.326517"
+  "updated_at": "2026-02-03T18:20:11.798034",
+  "first_prize_draws": [
+    865
+  ],
+  "second_prize_draws": [
+    1084,
+    991,
+    942,
+    867,
+    801
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

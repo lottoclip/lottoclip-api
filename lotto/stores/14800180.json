@@ -1,7 +1,7 @@
 {
   "store_id": "14800180",
   "name": "월드복권방",
-  "address": "경남 통영시 북신시장1길 12 ",
+  "address": "경남 통영시  북신시장1길 12 월드마트 내",
   "phone": "055-649-4994",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 34.856834,
   "longitude": 128.427485,
-  "updated_at": "2026-01-12T11:59:34.612258"
+  "updated_at": "2026-02-03T18:28:57.236127",
+  "first_prize_draws": [
+    1170,
+    540
+  ],
+  "second_prize_draws": [
+    1195,
+    1183,
+    1122,
+    1057,
+    994,
+    747,
+    706,
+    679,
+    622,
+    502,
+    499
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 11
 }

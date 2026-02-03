@@ -1,7 +1,7 @@
 {
   "store_id": "11190080",
-  "name": "신수칼라",
-  "address": "서울 마포구 신수동  339-3",
+  "name": "신수복권방",
+  "address": "서울 마포구  동교로27길 53 지남빌딩 ",
   "phone": "02-717-6261",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 37.560149,
   "longitude": 126.920833,
-  "updated_at": "2026-01-12T11:06:26.655568"
+  "updated_at": "2026-02-03T18:08:00.894991",
+  "first_prize_draws": [
+    290
+  ],
+  "second_prize_draws": [
+    937,
+    889,
+    804,
+    799,
+    796,
+    419
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

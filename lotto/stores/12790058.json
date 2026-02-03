@@ -1,7 +1,7 @@
 {
   "store_id": "12790058",
   "name": "복권명당",
-  "address": "대구 수성구 천을로 180 ",
+  "address": "대구 수성구  천을로 180 동서1차아파트상가108-112호",
   "phone": "053-794-3505",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 35.842495,
   "longitude": 128.710074,
-  "updated_at": "2026-01-12T11:48:38.369428"
+  "updated_at": "2026-02-03T18:23:05.030687",
+  "first_prize_draws": [
+    1007,
+    950,
+    309
+  ],
+  "second_prize_draws": [
+    1121,
+    604,
+    596,
+    402
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 4
 }

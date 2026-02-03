@@ -1,7 +1,7 @@
 {
   "store_id": "13110061",
   "name": "1등복권방",
-  "address": "울산 울주군 동문길 84 ",
+  "address": "울산 울주군  동문길 84 ",
   "phone": "052-264-8895",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,25 @@
   ],
   "latitude": 35.564197,
   "longitude": 129.124609,
-  "updated_at": "2026-01-12T11:59:47.286531"
+  "updated_at": "2026-02-03T18:27:24.962246",
+  "first_prize_draws": [
+    1174,
+    695,
+    401
+  ],
+  "second_prize_draws": [
+    1135,
+    1004,
+    1001,
+    953,
+    905,
+    864,
+    845,
+    831,
+    807,
+    548,
+    371
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 11
 }

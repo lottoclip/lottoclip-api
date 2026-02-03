@@ -1,7 +1,7 @@
 {
   "store_id": "14290018",
   "name": "종합복권나라",
-  "address": "강원 원주시 남원로 619 ",
+  "address": "강원 원주시  남원로 619 1층",
   "phone": "033-764-8185",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 37.338478,
   "longitude": 127.951315,
-  "updated_at": "2026-01-12T11:55:40.074279"
+  "updated_at": "2026-02-03T18:22:07.778511",
+  "first_prize_draws": [
+    1111
+  ],
+  "second_prize_draws": [
+    541
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

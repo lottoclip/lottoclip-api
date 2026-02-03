@@ -1,12 +1,24 @@
 {
   "store_id": "14140183",
   "name": "드래곤복권",
-  "address": "경기 용인시 기흥구 중부대로 814 ",
+  "address": "경기 용인시 기흥구  중부대로 814 ",
   "phone": "031-307-2865",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.256032,
   "longitude": 127.143364,
-  "updated_at": "2026-01-12T11:41:43.592596"
+  "updated_at": "2026-02-03T18:23:30.428017",
+  "first_prize_draws": [
+    884,
+    831
+  ],
+  "second_prize_draws": [
+    1127,
+    987,
+    930,
+    859
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 4
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14740019",
   "name": "씨스페이스(석적 남율리점)",
-  "address": "경북 칠곡군 남율로9길 24 ",
+  "address": "경북 칠곡군  남율로9길 24 ",
   "phone": "054-971-6884",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 36.067468,
   "longitude": 128.401791,
-  "updated_at": "2026-01-12T11:40:10.213308"
+  "updated_at": "2026-02-03T18:20:50.822982",
+  "first_prize_draws": [
+    864
+  ],
+  "second_prize_draws": [
+    1093,
+    1081,
+    1034,
+    970,
+    895,
+    866
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

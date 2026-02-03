@@ -1,7 +1,7 @@
 {
   "store_id": "14140991",
-  "name": "씨유(CU)포천호국로점",
-  "address": "경기 포천시 호국로 1382 ",
+  "name": "포천 돈다발복권",
+  "address": "경기 포천시  호국로 1382 CU편의점",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 37.882088,
   "longitude": 127.188871,
-  "updated_at": "2026-01-12T11:53:56.685850"
+  "updated_at": "2026-02-03T18:28:57.054347",
+  "first_prize_draws": [
+    1088
+  ],
+  "second_prize_draws": [
+    1195,
+    1032,
+    1015
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14100597",
   "name": "버스표가판점",
-  "address": "경기 안양시 만안구 안양로 366 ",
+  "address": "경기 안양시 만안구  안양로 366 ",
   "phone": "031-448-9615",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 37.404003,
   "longitude": 126.917431,
-  "updated_at": "2026-01-12T11:59:02.405443"
+  "updated_at": "2026-02-03T18:26:23.910419",
+  "first_prize_draws": [
+    1160
+  ],
+  "second_prize_draws": [
+    1092,
+    983,
+    897,
+    755,
+    369,
+    340
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

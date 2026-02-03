@@ -1,7 +1,7 @@
 {
   "store_id": "12900112",
   "name": "맑은샘",
-  "address": "광주 동구 중앙로 161-1 ",
+  "address": "광주 동구  중앙로 161-1 NC웨이브 정문앞 가판",
   "phone": "062-233-5757",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 35.148765,
   "longitude": 126.913099,
-  "updated_at": "2026-01-12T11:47:38.509087"
+  "updated_at": "2026-02-03T18:29:26.842155",
+  "first_prize_draws": [
+    988,
+    658
+  ],
+  "second_prize_draws": [
+    1202,
+    1199,
+    1140,
+    1007,
+    988,
+    905,
+    890,
+    736
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 8
 }

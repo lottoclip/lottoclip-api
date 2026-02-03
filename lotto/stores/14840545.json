@@ -1,12 +1,18 @@
 {
   "store_id": "14840545",
   "name": "비휴 복권판매점",
-  "address": "경남 산청군 지리산대로 3474-1 ",
+  "address": "경남 산청군  지리산대로 3474-1 1층",
   "phone": null,
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 35.303306,
   "longitude": 127.971877,
-  "updated_at": "2026-01-12T11:59:12.179072"
+  "updated_at": "2026-02-03T18:26:37.157647",
+  "first_prize_draws": [
+    1163
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

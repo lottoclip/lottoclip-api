@@ -1,7 +1,7 @@
 {
   "store_id": "14610071",
   "name": "장흥로또",
-  "address": "전남 장흥군 장흥읍 건산리 건산리 722-1",
+  "address": "전남 장흥군 장흥읍 건산리 722-1번지 CU 장흥중앙점",
   "phone": "061-863-1888",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,16 @@
   ],
   "latitude": 34.67984,
   "longitude": 126.907729,
-  "updated_at": "2026-01-12T11:07:09.606586"
+  "updated_at": "2026-02-03T17:56:30.060785",
+  "first_prize_draws": [
+    304
+  ],
+  "second_prize_draws": [
+    794,
+    381,
+    353,
+    319
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

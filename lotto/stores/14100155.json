@@ -1,7 +1,7 @@
 {
   "store_id": "14100155",
   "name": "운수대통",
-  "address": "경기 시흥시 시흥대로1073번길 5 ",
+  "address": "경기 시흥시  시흥대로1073번길 5 101호",
   "phone": "031-498-1477",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 37.431703,
   "longitude": 126.792054,
-  "updated_at": "2026-01-12T11:19:59.983993"
+  "updated_at": "2026-02-03T18:19:04.005327",
+  "first_prize_draws": [
+    514
+  ],
+  "second_prize_draws": [
+    1072,
+    900,
+    356
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

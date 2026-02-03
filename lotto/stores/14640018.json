@@ -1,7 +1,7 @@
 {
   "store_id": "14640018",
   "name": "토마토 남악복권방",
-  "address": "전남 무안군 남악4로82번길 44 ",
+  "address": "전남 무안군  남악4로82번길 44 1층",
   "phone": "061-287-3500",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 34.811865,
   "longitude": 126.470368,
-  "updated_at": "2026-01-12T11:58:11.201574"
+  "updated_at": "2026-02-03T18:29:10.048086",
+  "first_prize_draws": [
+    1144
+  ],
+  "second_prize_draws": [
+    1198,
+    1186,
+    1157,
+    1101,
+    1072,
+    1057,
+    1046,
+    920,
+    886,
+    765
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

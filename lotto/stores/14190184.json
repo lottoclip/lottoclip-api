@@ -1,7 +1,7 @@
 {
   "store_id": "14190184",
   "name": "금호마트",
-  "address": "경기 구리시 검배로29번길 8 ",
+  "address": "경기 구리시  검배로29번길 8 102호",
   "phone": "031-564-3008",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,25 @@
   ],
   "latitude": 37.599354,
   "longitude": 127.14332,
-  "updated_at": "2026-01-12T11:42:30.129387"
+  "updated_at": "2026-02-03T18:28:25.491624",
+  "first_prize_draws": [
+    899
+  ],
+  "second_prize_draws": [
+    1188,
+    1156,
+    1075,
+    1071,
+    926,
+    918,
+    909,
+    633,
+    567,
+    553,
+    438,
+    302,
+    296
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 13
 }

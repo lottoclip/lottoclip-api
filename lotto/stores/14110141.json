@@ -1,7 +1,7 @@
 {
   "store_id": "14110141",
   "name": "대박복권방",
-  "address": "경기 파주시 문향로 39 ",
+  "address": "경기 파주시  문향로 39 ",
   "phone": "031-953-8926",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,26 @@
   ],
   "latitude": 37.855329,
   "longitude": 126.785535,
-  "updated_at": "2026-01-12T11:24:06.301526"
+  "updated_at": "2026-02-03T18:25:42.600299",
+  "first_prize_draws": [
+    588
+  ],
+  "second_prize_draws": [
+    1154,
+    976,
+    962,
+    951,
+    752,
+    645,
+    609,
+    589,
+    501,
+    475,
+    462,
+    443,
+    422,
+    274
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 14
 }

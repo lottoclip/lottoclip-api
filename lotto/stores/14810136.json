@@ -1,7 +1,7 @@
 {
   "store_id": "14810136",
   "name": "피터팬",
-  "address": "경남 창원시 진해구 웅동로 76 ",
+  "address": "경남 창원시 진해구 웅동로 76 1호 복권판매점  ",
   "phone": "055-543-7676",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,26 @@
   ],
   "latitude": 35.124361,
   "longitude": 128.784623,
-  "updated_at": "2026-01-12T11:51:37.917547"
+  "updated_at": "2026-02-03T18:29:49.293757",
+  "first_prize_draws": [
+    1054
+  ],
+  "second_prize_draws": [
+    1207,
+    1169,
+    1096,
+    1061,
+    1055,
+    1032,
+    968,
+    951,
+    941,
+    882,
+    811,
+    803,
+    767,
+    761
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 14
 }

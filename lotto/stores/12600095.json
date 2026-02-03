@@ -1,7 +1,7 @@
 {
   "store_id": "12600095",
   "name": "삼월쇼핑",
-  "address": "부산 부산진구 가야대로 784 ",
+  "address": "부산 부산진구  가야대로 784 33",
   "phone": "051-803-6401",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,27 @@
   ],
   "latitude": 35.155969,
   "longitude": 129.057363,
-  "updated_at": "2026-01-12T11:06:54.284009"
+  "updated_at": "2026-02-03T18:23:43.540571",
+  "first_prize_draws": [
+    299
+  ],
+  "second_prize_draws": [
+    1130,
+    1097,
+    1085,
+    1058,
+    916,
+    909,
+    887,
+    869,
+    807,
+    806,
+    656,
+    551,
+    521,
+    488,
+    476
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 15
 }

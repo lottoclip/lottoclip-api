@@ -1,7 +1,7 @@
 {
   "store_id": "14600011",
   "name": "에이데이마트",
-  "address": "전남 목포시 백년대로375번길 42 ",
+  "address": "전남 목포시  백년대로375번길 42 에이데이마트",
   "phone": "061-283-2878",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 34.810516,
   "longitude": 126.425627,
-  "updated_at": "2026-01-12T11:48:22.630736"
+  "updated_at": "2026-02-03T18:22:16.115357",
+  "first_prize_draws": [
+    1002
+  ],
+  "second_prize_draws": [
+    1113,
+    1108,
+    1057,
+    1030,
+    993,
+    582,
+    345,
+    329
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

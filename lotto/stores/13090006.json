@@ -1,7 +1,7 @@
 {
   "store_id": "13090006",
   "name": "노다지복권방",
-  "address": "대전 대덕구 계족산로 23 ",
+  "address": "대전 대덕구  계족산로 23 ",
   "phone": "042-628-6767",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 36.36209,
   "longitude": 127.433907,
-  "updated_at": "2026-01-12T11:23:41.357587"
+  "updated_at": "2026-02-03T18:13:46.746638",
+  "first_prize_draws": [
+    580
+  ],
+  "second_prize_draws": [
+    1007,
+    919,
+    800,
+    703,
+    646,
+    631,
+    464
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

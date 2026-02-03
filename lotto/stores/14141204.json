@@ -1,7 +1,7 @@
 {
   "store_id": "14141204",
   "name": "대박로또",
-  "address": "경기 부천시 중동로420번길 6 ",
+  "address": "경기 부천시  중동로420번길 6 103호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 37.517274,
   "longitude": 126.770375,
-  "updated_at": "2026-01-12T11:52:25.022609"
+  "updated_at": "2026-02-03T18:25:29.610239",
+  "first_prize_draws": [
+    1064
+  ],
+  "second_prize_draws": [
+    1151,
+    1126
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

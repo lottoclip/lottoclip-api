@@ -1,6 +1,6 @@
 {
   "store_id": "14710158",
-  "name": "사랑의 꽃집",
+  "name": "사랑의꽃집",
   "address": "경북 영주시 하망동  247-9",
   "phone": "054-632-4323",
   "lottery_types": [
@@ -8,5 +8,16 @@
   ],
   "latitude": 36.830172,
   "longitude": 128.634393,
-  "updated_at": "2026-01-12T11:05:05.149140"
+  "updated_at": "2026-02-03T17:30:28.848741",
+  "first_prize_draws": [
+    268
+  ],
+  "second_prize_draws": [
+    466,
+    451,
+    312,
+    290
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

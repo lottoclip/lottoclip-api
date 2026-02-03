@@ -1,7 +1,7 @@
 {
   "store_id": "12800041",
   "name": "드림월드복권",
-  "address": "인천 남동구 만수로27번길 3 ",
+  "address": "인천 남동구  만수로27번길 3 ",
   "phone": "032-461-4993",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 37.459429,
   "longitude": 126.731483,
-  "updated_at": "2026-01-12T11:48:41.467440"
+  "updated_at": "2026-02-03T18:21:54.344978",
+  "first_prize_draws": [
+    1008
+  ],
+  "second_prize_draws": [
+    1108,
+    825,
+    718,
+    321
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

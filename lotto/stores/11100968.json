@@ -1,7 +1,7 @@
 {
   "store_id": "11100968",
   "name": "당산로또명당점",
-  "address": "서울 영등포구 양평로 52 ",
+  "address": "서울 영등포구  양평로 52 ",
   "phone": "02-2634-0995",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 37.534662,
   "longitude": 126.900872,
-  "updated_at": "2026-01-12T11:44:33.516822"
+  "updated_at": "2026-02-03T18:24:13.434679",
+  "first_prize_draws": [
+    934
+  ],
+  "second_prize_draws": [
+    1137,
+    1100,
+    1030,
+    968,
+    878,
+    865,
+    827,
+    747,
+    671,
+    267
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

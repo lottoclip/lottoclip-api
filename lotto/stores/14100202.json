@@ -1,12 +1,24 @@
 {
   "store_id": "14100202",
   "name": "복권나라",
-  "address": "경기 안산시 단원구 원본로 38 ",
+  "address": "경기 안산시 단원구  원본로 38 ",
   "phone": "031-491-1211",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.329908,
   "longitude": 126.793607,
-  "updated_at": "2026-01-12T11:30:45.032517"
+  "updated_at": "2026-02-03T18:20:16.149194",
+  "first_prize_draws": [
+    695
+  ],
+  "second_prize_draws": [
+    1085,
+    1051,
+    1018,
+    674,
+    616
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

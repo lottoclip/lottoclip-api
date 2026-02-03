@@ -1,7 +1,7 @@
 {
   "store_id": "14110004",
   "name": "로또복권방",
-  "address": "경기 고양시 덕양구 행신동 950-1 삼일프라자1층105호",
+  "address": "경기 고양시 덕양구 행신동(행신3동) 952 1층 105호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,21 @@
   ],
   "latitude": 37.623338,
   "longitude": 126.836999,
-  "updated_at": "2026-01-12T11:29:17.445433"
+  "updated_at": "2026-02-03T18:03:43.938105",
+  "first_prize_draws": [
+    672,
+    324
+  ],
+  "second_prize_draws": [
+    885,
+    863,
+    770,
+    741,
+    632,
+    406,
+    374,
+    362
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 8
 }

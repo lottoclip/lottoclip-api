@@ -1,7 +1,7 @@
 {
   "store_id": "14840180",
   "name": "로또복권방",
-  "address": "경남 진주시 모덕로 223 ",
+  "address": "경남 진주시  모덕로 223 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 35.188757,
   "longitude": 128.118429,
-  "updated_at": "2026-01-12T11:52:25.096808"
+  "updated_at": "2026-02-03T18:18:29.777476",
+  "first_prize_draws": [
+    1064
+  ],
+  "second_prize_draws": [
+    1056,
+    1009
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

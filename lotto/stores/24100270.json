@@ -1,12 +1,23 @@
 {
   "store_id": "24100270",
   "name": "GS25(동백역점)",
-  "address": "경기 용인시 기흥구 중동  853-1번지",
+  "address": "경기 용인시 기흥구 중동 853-1번지 ",
   "phone": "031-286-8942",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.269962,
   "longitude": 127.154155,
-  "updated_at": "2026-01-12T11:24:57.604385"
+  "updated_at": "2026-02-03T17:57:38.496706",
+  "first_prize_draws": [
+    604
+  ],
+  "second_prize_draws": [
+    810,
+    699,
+    647,
+    605
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

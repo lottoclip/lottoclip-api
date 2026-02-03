@@ -1,7 +1,7 @@
 {
   "store_id": "11100511",
   "name": "새로나슈퍼",
-  "address": "서울 강서구 강서로5길 16 ",
+  "address": "서울 강서구  강서로5나길 10 ",
   "phone": "02-2696-8397",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 37.528815,
   "longitude": 126.848052,
-  "updated_at": "2026-01-12T11:42:36.209742"
+  "updated_at": "2026-02-03T18:14:33.795723",
+  "first_prize_draws": [
+    901,
+    698,
+    381
+  ],
+  "second_prize_draws": [
+    1018,
+    838,
+    830,
+    677,
+    642,
+    619,
+    556,
+    512,
+    410
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 9
 }

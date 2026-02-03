@@ -1,7 +1,7 @@
 {
   "store_id": "14600109",
   "name": "대박찬스",
-  "address": "전남 여수시 문수로 159-1 ",
+  "address": "전남 여수시  문수로 159-1 ",
   "phone": "061-651-7060",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 34.758261,
   "longitude": 127.71026,
-  "updated_at": "2026-01-12T11:45:33.366816"
+  "updated_at": "2026-02-03T18:29:05.788107",
+  "first_prize_draws": [
+    953
+  ],
+  "second_prize_draws": [
+    1197,
+    773
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

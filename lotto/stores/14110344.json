@@ -1,7 +1,7 @@
 {
   "store_id": "14110344",
-  "name": "백석고앞 정류장 로또판매점",
-  "address": "경기 고양시 일산동구 일산로 196 ",
+  "name": "백마 사거리 로또판매점",
+  "address": "경기 고양시 일산동구  일산로 196 1층 104호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 37.65395,
   "longitude": 126.790727,
-  "updated_at": "2026-01-12T11:38:42.329550"
+  "updated_at": "2026-02-03T18:28:07.985468",
+  "first_prize_draws": [
+    836
+  ],
+  "second_prize_draws": [
+    1184,
+    1059,
+    1031,
+    981,
+    835,
+    809,
+    735,
+    383,
+    329
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 9
 }

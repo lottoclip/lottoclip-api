@@ -1,7 +1,7 @@
 {
   "store_id": "14190002",
-  "name": "복권방",
-  "address": "경기 군포시 당동로 8 ",
+  "name": "당동복권방",
+  "address": "경기 군포시  당동로 8 ",
   "phone": "031-458-4959",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,26 @@
   ],
   "latitude": 37.350947,
   "longitude": 126.943697,
-  "updated_at": "2026-01-12T11:32:27.337827"
+  "updated_at": "2026-02-03T18:29:36.235190",
+  "first_prize_draws": [
+    727
+  ],
+  "second_prize_draws": [
+    1204,
+    1134,
+    1087,
+    904,
+    820,
+    794,
+    684,
+    441,
+    411,
+    356,
+    326,
+    312,
+    280,
+    274
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 14
 }

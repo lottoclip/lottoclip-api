@@ -1,7 +1,7 @@
 {
   "store_id": "12990026",
   "name": "운천점(복권나라)",
-  "address": "광주 서구 운천로 153 ",
+  "address": "광주 서구  운천로 153 1층",
   "phone": "062-372-0491",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,25 @@
   ],
   "latitude": 35.146319,
   "longitude": 126.85665,
-  "updated_at": "2026-01-12T11:27:34.692258"
+  "updated_at": "2026-02-03T18:27:24.898553",
+  "first_prize_draws": [
+    644,
+    602
+  ],
+  "second_prize_draws": [
+    1174,
+    1164,
+    1157,
+    903,
+    799,
+    794,
+    680,
+    649,
+    648,
+    558,
+    439,
+    300
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 12
 }

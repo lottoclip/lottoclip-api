@@ -1,7 +1,7 @@
 {
   "store_id": "24700020",
   "name": "CU(구미원평점)",
-  "address": "경북 구미시 원평동 1049번지 ",
+  "address": "경북 구미시  송원서로8길 4 ",
   "phone": "054-458-5720",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,19 @@
   ],
   "latitude": 36.125752,
   "longitude": 128.344697,
-  "updated_at": "2026-01-12T11:30:35.718874"
+  "updated_at": "2026-02-03T18:10:19.002662",
+  "first_prize_draws": [
+    692,
+    533
+  ],
+  "second_prize_draws": [
+    963,
+    888,
+    841,
+    757,
+    550,
+    362
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 6
 }

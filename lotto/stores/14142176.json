@@ -1,12 +1,18 @@
 {
   "store_id": "14142176",
   "name": "호매실복권방",
-  "address": "경기 수원시 권선구 금곡로196번길 15 ",
+  "address": "경기 수원시 권선구  금곡로196번길 15 1층 106호",
   "phone": null,
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.273046,
   "longitude": 126.952712,
-  "updated_at": "2026-01-12T11:56:58.021016"
+  "updated_at": "2026-02-03T18:23:26.115520",
+  "first_prize_draws": [
+    1126
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

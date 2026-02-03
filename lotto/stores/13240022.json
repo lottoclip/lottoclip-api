@@ -1,7 +1,7 @@
 {
   "store_id": "13240022",
   "name": "또또와복권방",
-  "address": "세종   나성북로 30 ",
+  "address": "세종   나성북로 30 189호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 36.489354,
   "longitude": 127.259703,
-  "updated_at": "2026-01-12T11:44:30.528777"
+  "updated_at": "2026-02-03T18:28:43.691182",
+  "first_prize_draws": [
+    933
+  ],
+  "second_prize_draws": [
+    1192,
+    1141,
+    1106,
+    1089,
+    1059,
+    1055,
+    1014
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

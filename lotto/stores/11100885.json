@@ -1,7 +1,7 @@
 {
   "store_id": "11100885",
   "name": "버스토큰판매소",
-  "address": "서울 구로구 개봉본동  157-13",
+  "address": "서울 구로구  경인로 323 ",
   "phone": "02-2687-5284",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 37.497648,
   "longitude": 126.856162,
-  "updated_at": "2026-01-12T11:08:07.821268"
+  "updated_at": "2026-02-03T18:10:09.817432",
+  "first_prize_draws": [
+    323
+  ],
+  "second_prize_draws": [
+    961,
+    789,
+    626,
+    491,
+    466,
+    289
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

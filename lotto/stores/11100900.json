@@ -1,7 +1,7 @@
 {
   "store_id": "11100900",
   "name": "명동2가로또가판대",
-  "address": "서울 중구 명동2가  97-2",
+  "address": "서울 중구 명동2가 97-2번지 ",
   "phone": "02-777-7949",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,15 @@
   ],
   "latitude": 37.562609,
   "longitude": 126.981956,
-  "updated_at": "2026-01-12T11:20:21.747414"
+  "updated_at": "2026-02-03T17:51:41.812657",
+  "first_prize_draws": [
+    521
+  ],
+  "second_prize_draws": [
+    736,
+    578,
+    543
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

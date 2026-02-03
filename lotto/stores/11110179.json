@@ -1,7 +1,7 @@
 {
   "store_id": "11110179",
   "name": "대박",
-  "address": "서울 강남구 일원로3길 66 ",
+  "address": "서울 강남구  일원로3길 66 1층",
   "phone": "02-3411-0863",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.492694,
   "longitude": 127.085062,
-  "updated_at": "2026-01-12T11:29:49.022627"
+  "updated_at": "2026-02-03T18:25:10.903727",
+  "first_prize_draws": [
+    682,
+    598,
+    418
+  ],
+  "second_prize_draws": [
+    1147,
+    982,
+    920,
+    870,
+    314
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 5
 }

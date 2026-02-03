@@ -1,7 +1,7 @@
 {
   "store_id": "14690023",
   "name": "복권왕국",
-  "address": "전남 여수시 여수산단로 48 ",
+  "address": "전남 여수시  여수산단로 48 1층101호",
   "phone": "061-663-2525",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 34.788449,
   "longitude": 127.664311,
-  "updated_at": "2026-01-12T11:53:50.297552"
+  "updated_at": "2026-02-03T18:25:07.088908",
+  "first_prize_draws": [
+    1086,
+    779
+  ],
+  "second_prize_draws": [
+    1146,
+    1085,
+    950,
+    780,
+    688,
+    567,
+    505,
+    390,
+    386,
+    356,
+    331
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 11
 }

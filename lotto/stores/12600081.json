@@ -1,7 +1,7 @@
 {
   "store_id": "12600081",
   "name": "행운복권방",
-  "address": "부산 부산진구 동평로 115 ",
+  "address": "부산 부산진구  동평로 115 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 35.166291,
   "longitude": 129.042002,
-  "updated_at": "2026-01-12T11:57:04.314497"
+  "updated_at": "2026-02-03T18:23:34.479711",
+  "first_prize_draws": [
+    1128,
+    977,
+    910
+  ],
+  "second_prize_draws": [
+    1012,
+    910,
+    891,
+    888,
+    883,
+    844,
+    672,
+    621,
+    350,
+    319
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 10
 }

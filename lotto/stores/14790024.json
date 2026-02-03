@@ -1,7 +1,7 @@
 {
   "store_id": "14790024",
   "name": "영남통상",
-  "address": "경북 성주군 성주로 3228 ",
+  "address": "경북 성주군  성주로 3228 ",
   "phone": "054-931-6450",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,25 @@
   ],
   "latitude": 35.918041,
   "longitude": 128.286837,
-  "updated_at": "2026-01-12T11:30:35.727088"
+  "updated_at": "2026-02-03T18:28:30.604332",
+  "first_prize_draws": [
+    692,
+    436
+  ],
+  "second_prize_draws": [
+    1189,
+    1029,
+    970,
+    956,
+    931,
+    854,
+    817,
+    775,
+    773,
+    597,
+    591,
+    583
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 12
 }

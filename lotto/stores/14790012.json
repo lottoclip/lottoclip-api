@@ -1,7 +1,7 @@
 {
   "store_id": "14790012",
   "name": "왕대박복권고령점",
-  "address": "경북 고령군 중앙로 15 ",
+  "address": "경북 고령군  중앙로 15 ",
   "phone": "054-954-1183",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 35.729746,
   "longitude": 128.269418,
-  "updated_at": "2026-01-12T11:23:41.407811"
+  "updated_at": "2026-02-03T18:19:12.798158",
+  "first_prize_draws": [
+    580
+  ],
+  "second_prize_draws": [
+    1074,
+    1031,
+    1009,
+    904,
+    833,
+    819,
+    764,
+    736,
+    480,
+    352,
+    299
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 11
 }

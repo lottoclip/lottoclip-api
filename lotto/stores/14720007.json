@@ -1,12 +1,20 @@
 {
   "store_id": "14720007",
   "name": "복권명당",
-  "address": "경북 구미시 상사동로 163-8 ",
+  "address": "경북 구미시  상사동로 163-8 송일빌102호",
   "phone": null,
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 36.099239,
   "longitude": 128.358241,
-  "updated_at": "2026-01-12T12:00:03.419266"
+  "updated_at": "2026-02-03T18:27:46.974905",
+  "first_prize_draws": [
+    1179
+  ],
+  "second_prize_draws": [
+    899
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

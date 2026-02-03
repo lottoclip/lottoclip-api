@@ -1,7 +1,7 @@
 {
   "store_id": "11100995",
   "name": "드림로또",
-  "address": "서울 서초구 신반포로 194 ",
+  "address": "서울 서초구  신반포로 194 쇼케이스12호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,28 @@
   ],
   "latitude": 37.505509,
   "longitude": 127.007038,
-  "updated_at": "2026-01-12T11:58:58.951207"
+  "updated_at": "2026-02-03T18:28:16.627881",
+  "first_prize_draws": [
+    1159
+  ],
+  "second_prize_draws": [
+    1186,
+    1145,
+    1080,
+    1053,
+    1042,
+    1000,
+    961,
+    939,
+    816,
+    726,
+    692,
+    636,
+    625,
+    460,
+    361,
+    274
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 16
 }

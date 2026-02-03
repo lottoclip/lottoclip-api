@@ -1,7 +1,7 @@
 {
   "store_id": "11110012",
   "name": "신일",
-  "address": "서울 강서구 까치산로 177 ",
+  "address": "서울 강서구  까치산로 177 1층 101호",
   "phone": "02-2699-1881",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 37.553062,
   "longitude": 126.853342,
-  "updated_at": "2026-01-12T12:01:44.721577"
+  "updated_at": "2026-02-03T18:29:22.463238",
+  "first_prize_draws": [
+    1201,
+    1161
+  ],
+  "second_prize_draws": [
+    920,
+    768,
+    650,
+    491,
+    413
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 5
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14141597",
   "name": "로또복권합정점",
-  "address": "경기 평택시 중앙로 176 ",
+  "address": "경기 평택시  중앙로 176 127호 평택합정 SK뷰 주상복합",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 36.991516,
   "longitude": 127.10191,
-  "updated_at": "2026-01-12T11:50:28.138185"
+  "updated_at": "2026-02-03T18:26:58.288119",
+  "first_prize_draws": [
+    1037
+  ],
+  "second_prize_draws": [
+    1168,
+    1167,
+    1156
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

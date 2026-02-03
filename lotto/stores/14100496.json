@@ -1,7 +1,7 @@
 {
   "store_id": "14100496",
   "name": "농협앞 가판점",
-  "address": "경기 성남시 수정구 수정로 128 ",
+  "address": "경기 성남시 수정구  수정로 128 ",
   "phone": "031-758-9535",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 37.441431,
   "longitude": 127.134562,
-  "updated_at": "2026-01-12T11:55:36.832501"
+  "updated_at": "2026-02-03T18:24:05.229866",
+  "first_prize_draws": [
+    1110,
+    999,
+    757,
+    310
+  ],
+  "second_prize_draws": [
+    1135,
+    1129,
+    1071,
+    999,
+    667,
+    528
+  ],
+  "first_prize_count": 4,
+  "second_prize_count": 6
 }

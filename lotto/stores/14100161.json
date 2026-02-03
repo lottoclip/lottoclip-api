@@ -1,7 +1,7 @@
 {
   "store_id": "14100161",
   "name": "도일복권방",
-  "address": "경기 시흥시 도일로 111 ",
+  "address": "경기 시흥시  도일로 111 ",
   "phone": "031-492-4868",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 37.340399,
   "longitude": 126.783647,
-  "updated_at": "2026-01-12T11:59:40.900013"
+  "updated_at": "2026-02-03T18:27:16.300962",
+  "first_prize_draws": [
+    1172,
+    1147
+  ],
+  "second_prize_draws": [
+    1143,
+    699,
+    319
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 3
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "12640104",
   "name": "평생꽃길대연점",
-  "address": "부산 남구 수영로266번길 37 ",
+  "address": "부산 남구 수영로266번길 37  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 35.135071,
   "longitude": 129.097181,
-  "updated_at": "2026-01-12T12:01:57.908147"
+  "updated_at": "2026-02-03T18:29:40.307787",
+  "first_prize_draws": [
+    1205
+  ],
+  "second_prize_draws": [
+    1108,
+    1083,
+    1065
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

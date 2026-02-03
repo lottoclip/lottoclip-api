@@ -1,7 +1,7 @@
 {
   "store_id": "12700250",
   "name": "토큰박스동구청",
-  "address": "대구 동구 아양로 195-1 ",
+  "address": "대구 동구 신암동(신암5동) 100-1 토큰박스",
   "phone": "053-957-3209",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 35.885867,
   "longitude": 128.634426,
-  "updated_at": "2026-01-12T11:36:20.186965"
+  "updated_at": "2026-02-03T17:56:17.191703",
+  "first_prize_draws": [
+    791
+  ],
+  "second_prize_draws": [
+    731,
+    544,
+    420,
+    394,
+    286
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

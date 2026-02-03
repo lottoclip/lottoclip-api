@@ -1,0 +1,24 @@
+{
+  "store_id": "11100225",
+  "name": "복권명당",
+  "address": "서울 강동구  구천면로 214 ",
+  "phone": "02-484-4011",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.540379,
+  "longitude": 127.128408,
+  "updated_at": "2026-02-03T18:14:12.546554",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1013,
+    788,
+    624,
+    475,
+    324
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 5
+}

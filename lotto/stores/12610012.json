@@ -1,7 +1,7 @@
 {
   "store_id": "12610012",
   "name": "케이(k)복권방",
-  "address": "부산 사하구 장평로 300 ",
+  "address": "부산 사하구  장평로 300 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 35.092962,
   "longitude": 128.973657,
-  "updated_at": "2026-01-12T11:48:12.935803"
+  "updated_at": "2026-02-03T18:29:05.474903",
+  "first_prize_draws": [
+    999
+  ],
+  "second_prize_draws": [
+    1197,
+    1185,
+    1142,
+    980,
+    951,
+    909,
+    846,
+    752,
+    647
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 9
 }

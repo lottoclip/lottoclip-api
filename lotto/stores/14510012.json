@@ -1,7 +1,7 @@
 {
   "store_id": "14510012",
   "name": "카카오복권방",
-  "address": "전북 익산시 금마4길 5-5 ",
+  "address": "전북 익산시 금마4길 5-5  ",
   "phone": "063-833-2123",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 35.991645,
   "longitude": 127.052986,
-  "updated_at": "2026-01-12T11:32:43.617537"
+  "updated_at": "2026-02-03T18:29:49.187895",
+  "first_prize_draws": [
+    732
+  ],
+  "second_prize_draws": [
+    1207,
+    800,
+    725,
+    651,
+    558
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

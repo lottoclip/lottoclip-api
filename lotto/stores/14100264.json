@@ -1,7 +1,7 @@
 {
   "store_id": "14100264",
   "name": "화영하이퍼",
-  "address": "경기 성남시 수정구 단대동 176-4번지",
+  "address": "경기 성남시 수정구 단대동  176-4번지",
   "phone": "031-747-5995",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 37.44698,
   "longitude": 127.156684,
-  "updated_at": "2026-01-12T11:20:56.270114"
+  "updated_at": "2026-02-03T17:38:46.535352",
+  "first_prize_draws": [
+    532
+  ],
+  "second_prize_draws": [
+    578
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14420017",
   "name": "활력",
-  "address": "충남 서산시 고운로 202 ",
+  "address": "충남 서산시  고운로 202 ",
   "phone": "041-664-2702",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 36.783393,
   "longitude": 126.457759,
-  "updated_at": "2026-01-12T11:43:25.959110"
+  "updated_at": "2026-02-03T18:23:13.648301",
+  "first_prize_draws": [
+    917,
+    841
+  ],
+  "second_prize_draws": [
+    1123,
+    1040,
+    889,
+    784,
+    709,
+    664
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 6
 }

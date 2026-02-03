@@ -1,7 +1,7 @@
 {
   "store_id": "12640279",
   "name": "금두꺼비 복권방",
-  "address": "부산 동래구 안남로 89-1 ",
+  "address": "부산 동래구  안남로 89-1 1층(안락동)",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 35.193627,
   "longitude": 129.101838,
-  "updated_at": "2026-01-12T12:01:10.333717"
+  "updated_at": "2026-02-03T18:28:56.716513",
+  "first_prize_draws": [
+    1195
+  ],
+  "second_prize_draws": [
+    1119,
+    1041,
+    1030
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

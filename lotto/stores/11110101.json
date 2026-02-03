@@ -1,7 +1,7 @@
 {
   "store_id": "11110101",
   "name": "옥수역복권방",
-  "address": "서울 성동구 한림말길 49 ",
+  "address": "서울 성동구  한림말길 49 ",
   "phone": "02-2298-5000",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 37.541562,
   "longitude": 127.016597,
-  "updated_at": "2026-01-12T11:57:33.250360"
+  "updated_at": "2026-02-03T18:29:01.025674",
+  "first_prize_draws": [
+    1137
+  ],
+  "second_prize_draws": [
+    1196,
+    1135,
+    997,
+    861,
+    837,
+    744,
+    694,
+    639,
+    579,
+    276
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

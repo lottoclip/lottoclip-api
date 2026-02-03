@@ -1,7 +1,7 @@
 {
   "store_id": "14440354",
   "name": "역전로또",
-  "address": "충남 아산시 중앙로 55 ",
+  "address": "충남 아산시  중앙로 55 1층 104호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 36.7799,
   "longitude": 127.003382,
-  "updated_at": "2026-01-12T11:52:12.197076"
+  "updated_at": "2026-02-03T18:20:55.360889",
+  "first_prize_draws": [
+    1060
+  ],
+  "second_prize_draws": [
+    1094
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

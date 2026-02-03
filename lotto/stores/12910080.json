@@ -1,7 +1,7 @@
 {
   "store_id": "12910080",
   "name": "광주무등1호점로또판매",
-  "address": "광주 북구 임동  153-6",
+  "address": "광주 북구  임동 153-6번지세븐일레븐 무등점내",
   "phone": "062-527-0144",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,16 @@
   ],
   "latitude": 35.1673,
   "longitude": 126.891567,
-  "updated_at": "2026-01-12T11:09:42.027265"
+  "updated_at": "2026-02-03T17:43:14.419768",
+  "first_prize_draws": [
+    344
+  ],
+  "second_prize_draws": [
+    636,
+    351,
+    332,
+    328
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14100121",
   "name": "천하명당",
-  "address": "경기 평택시 탄현로 224 ",
+  "address": "경기 평택시  탄현로 224 ",
   "phone": "031-662-0233",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,25 @@
   ],
   "latitude": 37.07261,
   "longitude": 127.055253,
-  "updated_at": "2026-01-12T11:55:36.872611"
+  "updated_at": "2026-02-03T18:22:33.023763",
+  "first_prize_draws": [
+    1110,
+    1081,
+    1080,
+    1012,
+    630
+  ],
+  "second_prize_draws": [
+    1117,
+    1019,
+    967,
+    901,
+    642,
+    635,
+    545,
+    503,
+    272
+  ],
+  "first_prize_count": 5,
+  "second_prize_count": 9
 }

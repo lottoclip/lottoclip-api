@@ -1,7 +1,7 @@
 {
   "store_id": "12830024",
   "name": "후연로또점",
-  "address": "인천 계양구 황어로 130 ",
+  "address": "인천 계양구 황어로 130 일부호  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 37.579363,
   "longitude": 126.734754,
-  "updated_at": "2026-01-17T14:08:44.515256"
+  "updated_at": "2026-02-03T18:29:48.858790",
+  "first_prize_draws": [
+    1207
+  ],
+  "second_prize_draws": [
+    1185,
+    853
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

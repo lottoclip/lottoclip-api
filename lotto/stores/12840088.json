@@ -1,7 +1,7 @@
 {
   "store_id": "12840088",
   "name": "1등복권방",
-  "address": "인천 연수구 해돋이로 168 ",
+  "address": "인천 연수구  해돋이로 168 (송도동 21-13 혜인프라자 104호)",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 37.395416,
   "longitude": 126.645219,
-  "updated_at": "2026-01-12T12:01:06.736533"
+  "updated_at": "2026-02-03T18:28:52.455208",
+  "first_prize_draws": [
+    1194,
+    1060,
+    948
+  ],
+  "second_prize_draws": [
+    1187,
+    1158,
+    1125,
+    1123,
+    1031,
+    1028,
+    1000,
+    973,
+    936
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 9
 }

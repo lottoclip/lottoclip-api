@@ -1,7 +1,7 @@
 {
   "store_id": "14590022",
   "name": "정관장홍삼부안점",
-  "address": "전북 부안군 석정로 197 ",
+  "address": "전북 부안군  석정로 197 ",
   "phone": "063-581-4987",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 35.728112,
   "longitude": 126.737435,
-  "updated_at": "2026-01-12T11:45:58.231296"
+  "updated_at": "2026-02-03T18:27:42.674930",
+  "first_prize_draws": [
+    961,
+    748
+  ],
+  "second_prize_draws": [
+    1178,
+    1170,
+    908,
+    810,
+    773,
+    669
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 6
 }

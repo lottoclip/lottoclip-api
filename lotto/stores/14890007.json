@@ -1,7 +1,7 @@
 {
   "store_id": "14890007",
   "name": "노다지복권방거창점",
-  "address": "경남 거창군 중앙로 108-1 ",
+  "address": "경남 거창군  중앙로 108-1 ",
   "phone": "055-943-1927",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 35.686049,
   "longitude": 127.910281,
-  "updated_at": "2026-01-12T11:56:04.871352"
+  "updated_at": "2026-02-03T18:27:02.851375",
+  "first_prize_draws": [
+    1114,
+    731
+  ],
+  "second_prize_draws": [
+    1169,
+    1140,
+    1130,
+    1111,
+    955,
+    935,
+    654,
+    555,
+    551,
+    529,
+    292
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 11
 }

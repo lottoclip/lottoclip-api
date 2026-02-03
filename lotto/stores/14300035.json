@@ -1,7 +1,7 @@
 {
   "store_id": "14300035",
   "name": "맨유편의점",
-  "address": "충북 청주시 흥덕구 덕암로30번길 31 ",
+  "address": "충북 청주시 흥덕구 덕암로30번길 31 두진메인빌 상가 105호  ",
   "phone": "043-268-5549",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 36.652126,
   "longitude": 127.457907,
-  "updated_at": "2026-01-12T11:34:42.777151"
+  "updated_at": "2026-02-03T18:29:40.671479",
+  "first_prize_draws": [
+    765
+  ],
+  "second_prize_draws": [
+    1205,
+    1152,
+    1023,
+    1010,
+    978,
+    852,
+    790,
+    777,
+    772
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 9
 }

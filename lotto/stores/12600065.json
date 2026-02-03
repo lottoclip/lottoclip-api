@@ -1,7 +1,7 @@
 {
   "store_id": "12600065",
   "name": "돈벼락맞는곳",
-  "address": "부산 서구 구덕로 194 ",
+  "address": "부산 서구  구덕로 194 ",
   "phone": "051-245-6275",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 35.101922,
   "longitude": 129.02007,
-  "updated_at": "2026-01-12T11:59:12.101786"
+  "updated_at": "2026-02-03T18:26:36.769486",
+  "first_prize_draws": [
+    1163,
+    842,
+    412
+  ],
+  "second_prize_draws": [
+    1027,
+    941,
+    893
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 3
 }

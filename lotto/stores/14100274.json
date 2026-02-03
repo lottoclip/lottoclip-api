@@ -1,7 +1,7 @@
 {
   "store_id": "14100274",
   "name": "싱싱마트",
-  "address": "경기 이천시 부발읍 신하1리 481-1",
+  "address": "경기 이천시 부발읍 신하리 481-1 ",
   "phone": "031-637-4858",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 37.25942,
   "longitude": 127.47733,
-  "updated_at": "2026-01-12T11:12:21.212267"
+  "updated_at": "2026-02-03T17:50:47.586960",
+  "first_prize_draws": [
+    386
+  ],
+  "second_prize_draws": [
+    724,
+    574,
+    561,
+    315
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

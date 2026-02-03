@@ -1,7 +1,7 @@
 {
   "store_id": "11100131",
   "name": "복권명가",
-  "address": "서울 구로구 개봉로 26 ",
+  "address": "서울 구로구 개봉동 403-165번지 ",
   "phone": "02-2685-4194",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 37.487991,
   "longitude": 126.856489,
-  "updated_at": "2026-01-12T11:24:34.358104"
+  "updated_at": "2026-02-03T18:06:23.452264",
+  "first_prize_draws": [
+    597
+  ],
+  "second_prize_draws": [
+    917,
+    772,
+    647,
+    444
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

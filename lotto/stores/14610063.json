@@ -1,7 +1,7 @@
 {
   "store_id": "14610063",
   "name": "금당복권방",
-  "address": "전남 순천시 조례못등길 97 ",
+  "address": "전남 순천시  조례못등길 97 ",
   "phone": "061-722-8949",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 34.949401,
   "longitude": 127.528701,
-  "updated_at": "2026-01-12T11:46:32.683708"
+  "updated_at": "2026-02-03T18:14:04.117077",
+  "first_prize_draws": [
+    972
+  ],
+  "second_prize_draws": [
+    1011,
+    941,
+    921,
+    820,
+    327
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

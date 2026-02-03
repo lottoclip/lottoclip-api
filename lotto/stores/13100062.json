@@ -1,7 +1,7 @@
 {
   "store_id": "13100062",
   "name": "이마트24울산삼산본동점",
-  "address": "울산 남구 돋질로 445 ",
+  "address": "울산 남구  돋질로 445 ",
   "phone": "052-256-1225",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,27 @@
   ],
   "latitude": 35.54275,
   "longitude": 129.353541,
-  "updated_at": "2026-01-12T11:46:04.504352"
+  "updated_at": "2026-02-03T18:26:23.808726",
+  "first_prize_draws": [
+    963,
+    811,
+    612
+  ],
+  "second_prize_draws": [
+    1160,
+    1122,
+    1090,
+    1057,
+    970,
+    956,
+    954,
+    738,
+    714,
+    697,
+    645,
+    625,
+    418
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 13
 }

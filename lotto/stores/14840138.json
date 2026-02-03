@@ -1,7 +1,7 @@
 {
   "store_id": "14840138",
   "name": "복권판매점",
-  "address": "경남 고성군 남포로 62 ",
+  "address": "경남 고성군  남포로 62 2동 101호(덕성아파트)",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 34.968729,
   "longitude": 128.320916,
-  "updated_at": "2026-01-12T11:52:31.426885"
+  "updated_at": "2026-02-03T18:25:25.494021",
+  "first_prize_draws": [
+    1066
+  ],
+  "second_prize_draws": [
+    1150,
+    1105,
+    1094,
+    1084,
+    1069,
+    1004,
+    993,
+    984,
+    977
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 9
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14210073",
   "name": "로또판매소",
-  "address": "강원 철원군 동송읍  이평리 사서함  852-1번지",
+  "address": "강원 철원군  동송읍 이평로 65 ",
   "phone": "033-455-9554",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 38.2092,
   "longitude": 127.216774,
-  "updated_at": "2026-01-12T11:19:21.319320"
+  "updated_at": "2026-02-03T18:17:46.198851",
+  "first_prize_draws": [
+    502
+  ],
+  "second_prize_draws": [
+    1055,
+    910,
+    833,
+    816,
+    515,
+    491,
+    479
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

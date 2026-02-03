@@ -1,7 +1,7 @@
 {
   "store_id": "14500030",
   "name": "부자복권방",
-  "address": "전북 전주시 완산구 서곡4길 45-4 ",
+  "address": "전북 전주시 완산구  서곡4길 45-4 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 35.832406,
   "longitude": 127.103086,
-  "updated_at": "2026-01-12T11:52:12.217825"
+  "updated_at": "2026-02-03T18:18:12.453816",
+  "first_prize_draws": [
+    1060,
+    951
+  ],
+  "second_prize_draws": [
+    970,
+    661
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 2
 }

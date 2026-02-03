@@ -1,7 +1,7 @@
 {
   "store_id": "14510034",
-  "name": "에덴로또",
-  "address": "전북 전주시 덕진구 쪽구름로 34 ",
+  "name": "아이비존",
+  "address": "전북 전주시 덕진구  쪽구름로 34 ",
   "phone": "063-214-2133",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 35.868675,
   "longitude": 127.077836,
-  "updated_at": "2026-01-12T11:09:38.971453"
+  "updated_at": "2026-02-03T18:18:21.025113",
+  "first_prize_draws": [
+    343
+  ],
+  "second_prize_draws": [
+    1062,
+    363,
+    334
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

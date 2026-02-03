@@ -1,7 +1,7 @@
 {
   "store_id": "14500118",
   "name": "한성슈퍼",
-  "address": "전북 익산시 익산대로 52 ",
+  "address": "전북 익산시  익산대로 52 ",
   "phone": "063-854-2722",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 35.931147,
   "longitude": 126.94382,
-  "updated_at": "2026-01-12T11:50:03.076155"
+  "updated_at": "2026-02-03T18:29:18.533870",
+  "first_prize_draws": [
+    1029,
+    491
+  ],
+  "second_prize_draws": [
+    1200,
+    1149,
+    1135,
+    892,
+    821,
+    568,
+    435
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 7
 }

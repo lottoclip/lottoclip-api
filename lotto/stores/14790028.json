@@ -1,7 +1,7 @@
 {
   "store_id": "14790028",
   "name": "황금복권",
-  "address": "경북 영주시 구성로 379-1 ",
+  "address": "경북 영주시  구성로 379-1 ",
   "phone": "054-634-0810",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,26 @@
   ],
   "latitude": 36.824972,
   "longitude": 128.62069,
-  "updated_at": "2026-01-12T11:37:11.309317"
+  "updated_at": "2026-02-03T18:29:36.475178",
+  "first_prize_draws": [
+    807
+  ],
+  "second_prize_draws": [
+    1204,
+    1183,
+    1143,
+    1110,
+    1066,
+    1026,
+    952,
+    934,
+    925,
+    898,
+    868,
+    831,
+    733,
+    597
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 14
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "12930012",
   "name": "운수대통",
-  "address": "광주 광산구 어등대로 581-1 ",
+  "address": "광주 광산구  어등대로 581-1 1층 운수대통",
   "phone": "062-456-5363",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 35.151259,
   "longitude": 126.786289,
-  "updated_at": "2026-01-12T11:49:53.506198"
+  "updated_at": "2026-02-03T18:28:21.134504",
+  "first_prize_draws": [
+    1026,
+    947,
+    726
+  ],
+  "second_prize_draws": [
+    1187,
+    1181,
+    1045,
+    1026,
+    1001,
+    974,
+    954,
+    934
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 8
 }

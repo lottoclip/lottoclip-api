@@ -1,0 +1,27 @@
+{
+  "store_id": "12610212",
+  "name": "로또복권",
+  "address": "부산 기장군 기장읍 대라리 129-1 기장아름공원점내",
+  "phone": "051-724-4009",
+  "lottery_types": [
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 35.241041,
+  "longitude": 129.214503,
+  "updated_at": "2026-02-03T18:04:32.898584",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    896,
+    842,
+    700,
+    654,
+    510,
+    379,
+    338,
+    314,
+    298
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 9
+}

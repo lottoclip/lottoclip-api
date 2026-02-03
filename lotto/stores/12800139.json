@@ -1,7 +1,7 @@
 {
   "store_id": "12800139",
   "name": "대박슈퍼",
-  "address": "인천 부평구 경원대로 1438 ",
+  "address": "인천 부평구  경원대로 1438 ",
   "phone": "032-521-9492",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 37.490838,
   "longitude": 126.728645,
-  "updated_at": "2026-01-12T12:01:51.451372"
+  "updated_at": "2026-02-03T18:29:31.432722",
+  "first_prize_draws": [
+    1203,
+    1188,
+    766
+  ],
+  "second_prize_draws": [
+    1081,
+    1080,
+    1066,
+    1009,
+    877,
+    789,
+    783,
+    659,
+    598
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 9
 }

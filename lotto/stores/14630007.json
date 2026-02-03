@@ -1,7 +1,7 @@
 {
   "store_id": "14630007",
   "name": "포시즌마트 빛가람희망로또",
-  "address": "전남 나주시 그린로 351 ",
+  "address": "전남 나주시  그린로 351 110호 포시즌마트",
   "phone": "070-4103-0176",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 35.017882,
   "longitude": 126.793916,
-  "updated_at": "2026-01-12T11:48:29.002984"
+  "updated_at": "2026-02-03T18:26:58.372983",
+  "first_prize_draws": [
+    1004
+  ],
+  "second_prize_draws": [
+    1168,
+    952,
+    947,
+    916,
+    908,
+    887,
+    866,
+    781
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

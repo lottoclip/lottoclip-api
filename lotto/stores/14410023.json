@@ -1,7 +1,7 @@
 {
   "store_id": "14410023",
   "name": "작은신부",
-  "address": "충남 서산시 대산읍  대산리 133-31",
+  "address": "충남 서산시 대산읍 대산리 133-31 ",
   "phone": "041-662-0393",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,25 @@
   ],
   "latitude": 36.936096,
   "longitude": 126.43599,
-  "updated_at": "2026-01-12T11:16:46.480459"
+  "updated_at": "2026-02-03T17:47:48.980238",
+  "first_prize_draws": [
+    457
+  ],
+  "second_prize_draws": [
+    697,
+    668,
+    654,
+    647,
+    641,
+    573,
+    522,
+    501,
+    496,
+    437,
+    432,
+    371,
+    300
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 13
 }

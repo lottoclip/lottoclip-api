@@ -1,7 +1,7 @@
 {
   "store_id": "11100485",
   "name": "신정복권",
-  "address": "서울 양천구 신목로 70-1 ",
+  "address": "서울 양천구  신목로 70-1 신통빌딩 1층",
   "phone": "02-2652-8872",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 37.521121,
   "longitude": 126.873745,
-  "updated_at": "2026-01-12T11:17:42.234222"
+  "updated_at": "2026-02-03T18:21:37.184990",
+  "first_prize_draws": [
+    475,
+    323
+  ],
+  "second_prize_draws": [
+    1104,
+    977,
+    911,
+    863,
+    842,
+    585,
+    499,
+    420
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 8
 }

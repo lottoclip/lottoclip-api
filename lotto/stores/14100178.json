@@ -1,7 +1,7 @@
 {
   "store_id": "14100178",
   "name": "행운복권방",
-  "address": "경기 수원시 권선구 구운동 493-16 ",
+  "address": "경기 수원시 권선구  구운로 46-1 103호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,25 @@
   ],
   "latitude": 37.27796,
   "longitude": 126.973418,
-  "updated_at": "2026-01-12T11:39:23.024332"
+  "updated_at": "2026-02-03T18:13:16.726906",
+  "first_prize_draws": [
+    849,
+    487
+  ],
+  "second_prize_draws": [
+    1000,
+    964,
+    951,
+    945,
+    943,
+    899,
+    857,
+    746,
+    668,
+    546,
+    467,
+    453
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 12
 }

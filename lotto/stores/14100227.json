@@ -1,7 +1,7 @@
 {
   "store_id": "14100227",
   "name": "이플러스",
-  "address": "경기 수원시 영통구 매탄동  153-14번지",
+  "address": "경기 수원시 영통구 매탄동 153-14 ",
   "phone": "031-217-3005",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,24 @@
   ],
   "latitude": 37.274273,
   "longitude": 127.044317,
-  "updated_at": "2026-01-12T11:27:01.266339"
+  "updated_at": "2026-02-03T18:02:37.329928",
+  "first_prize_draws": [
+    638,
+    380,
+    350
+  ],
+  "second_prize_draws": [
+    873,
+    868,
+    835,
+    817,
+    755,
+    746,
+    669,
+    550,
+    454,
+    278
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 10
 }

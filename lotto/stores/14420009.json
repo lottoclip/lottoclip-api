@@ -1,7 +1,7 @@
 {
   "store_id": "14420009",
-  "name": "로또판매점",
-  "address": "충남 당진시 당진중앙1로 129 ",
+  "name": "당진로또토토판매점",
+  "address": "충남 당진시  당진중앙1로 129 ",
   "phone": "041-352-0329",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 36.895455,
   "longitude": 126.630887,
-  "updated_at": "2026-01-12T11:36:26.603374"
+  "updated_at": "2026-02-03T18:25:34.068697",
+  "first_prize_draws": [
+    793
+  ],
+  "second_prize_draws": [
+    1152,
+    1093,
+    1060,
+    961,
+    909,
+    897,
+    892,
+    864,
+    771,
+    702
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

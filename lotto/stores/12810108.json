@@ -1,7 +1,7 @@
 {
   "store_id": "12810108",
   "name": "정다운복권 조이마트",
-  "address": "인천 부평구 충선로 171 ",
+  "address": "인천 부평구  충선로 171 1층",
   "phone": "032-504-2645",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 37.504535,
   "longitude": 126.736276,
-  "updated_at": "2026-01-12T11:44:36.649812"
+  "updated_at": "2026-02-03T18:23:09.254961",
+  "first_prize_draws": [
+    935,
+    824,
+    424
+  ],
+  "second_prize_draws": [
+    1122,
+    1108,
+    1085,
+    951,
+    941,
+    922,
+    873,
+    850,
+    583
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 9
 }

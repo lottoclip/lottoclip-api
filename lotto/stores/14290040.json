@@ -1,7 +1,7 @@
 {
   "store_id": "14290040",
   "name": "토토세상",
-  "address": "강원 원주시 조엄로 215 ",
+  "address": "강원 원주시  조엄로 215 1층",
   "phone": "033-736-0071",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.360429,
   "longitude": 127.860399,
-  "updated_at": "2026-01-12T11:57:11.220413"
+  "updated_at": "2026-02-03T18:25:25.221003",
+  "first_prize_draws": [
+    1130
+  ],
+  "second_prize_draws": [
+    1150,
+    1146,
+    969,
+    697,
+    573,
+    442,
+    318
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

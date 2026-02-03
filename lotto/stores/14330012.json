@@ -1,7 +1,7 @@
 {
   "store_id": "14330012",
   "name": "복드림로또판매점",
-  "address": "충북 충주시 첨단산업9로 13 ",
+  "address": "충북 충주시  첨단산업9로 13 1충",
   "phone": "043-857-7432",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 36.999499,
   "longitude": 127.834923,
-  "updated_at": "2026-01-12T12:01:06.818955"
+  "updated_at": "2026-02-03T18:28:52.713887",
+  "first_prize_draws": [
+    1194,
+    935
+  ],
+  "second_prize_draws": [
+    1184,
+    1057,
+    978,
+    907,
+    906
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 5
 }

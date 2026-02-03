@@ -1,0 +1,28 @@
+{
+  "store_id": "12840050",
+  "name": "복권판매점",
+  "address": "인천 강화군  갑룡길 39 ",
+  "phone": "032-933-3215",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.742563,
+  "longitude": 126.497393,
+  "updated_at": "2026-02-03T18:29:05.486223",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1197,
+    1074,
+    1060,
+    1043,
+    1016,
+    1004,
+    1003,
+    969,
+    940
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 9
+}

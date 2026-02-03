@@ -1,7 +1,7 @@
 {
   "store_id": "14440036",
   "name": "우리로또",
-  "address": "충남 서산시 충의로 1231 ",
+  "address": "충남 서산시  충의로 1231 이마트24편의점",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 36.877322,
   "longitude": 126.439516,
-  "updated_at": "2026-01-12T11:46:32.656357"
+  "updated_at": "2026-02-03T18:27:42.637433",
+  "first_prize_draws": [
+    972,
+    949,
+    918
+  ],
+  "second_prize_draws": [
+    1178,
+    1101,
+    1042,
+    1039,
+    1011,
+    839,
+    809
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 7
 }

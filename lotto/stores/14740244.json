@@ -1,7 +1,7 @@
 {
   "store_id": "14740244",
   "name": "정원로또",
-  "address": "경북 경주시 구부랑길 42 ",
+  "address": "경북 경주시  구부랑길 42 에이동(남쪽 끝편2번째상가)",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 36.001185,
   "longitude": 129.196848,
-  "updated_at": "2026-01-12T11:53:05.776612"
+  "updated_at": "2026-02-03T18:23:17.953645",
+  "first_prize_draws": [
+    1072
+  ],
+  "second_prize_draws": [
+    1124
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

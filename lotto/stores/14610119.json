@@ -1,7 +1,7 @@
 {
   "store_id": "14610119",
-  "name": "텔레콤&로또",
-  "address": "전남 장성군 장성읍  영천리944-6번지",
+  "name": "텔레콤로또",
+  "address": "전남 장성군 장성읍 영천리 944-6번지 ",
   "phone": "061-395-3200",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,21 @@
   ],
   "latitude": 35.299008,
   "longitude": 126.781681,
-  "updated_at": "2026-01-12T11:22:17.792878"
+  "updated_at": "2026-02-03T18:04:10.478515",
+  "first_prize_draws": [
+    558
+  ],
+  "second_prize_draws": [
+    891,
+    724,
+    598,
+    496,
+    366,
+    335,
+    327,
+    320,
+    282
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 9
 }

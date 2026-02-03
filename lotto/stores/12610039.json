@@ -1,7 +1,7 @@
 {
   "store_id": "12610039",
   "name": "송천복권방",
-  "address": "부산 해운대구 선수촌로 108 ",
+  "address": "부산 해운대구  선수촌로 108 ",
   "phone": "051-525-7200",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 35.203307,
   "longitude": 129.119834,
-  "updated_at": "2026-01-12T11:59:37.686185"
+  "updated_at": "2026-02-03T18:27:11.577849",
+  "first_prize_draws": [
+    1171,
+    1033
+  ],
+  "second_prize_draws": [
+    1125,
+    1078,
+    1077,
+    1065,
+    944,
+    916,
+    907,
+    860,
+    702
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 9
 }

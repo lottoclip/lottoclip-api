@@ -1,7 +1,7 @@
 {
   "store_id": "11101114",
   "name": "가로판매점",
-  "address": "서울 서대문구 수색로 32 ",
+  "address": "서울 서대문구  수색로 32 명동의류앞",
   "phone": "02-303-1206",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 37.56946,
   "longitude": 126.915082,
-  "updated_at": "2026-01-12T11:36:32.809078"
+  "updated_at": "2026-02-03T18:27:55.024528",
+  "first_prize_draws": [
+    795
+  ],
+  "second_prize_draws": [
+    1181,
+    1013,
+    993,
+    971,
+    862,
+    814,
+    693,
+    619,
+    432,
+    413
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

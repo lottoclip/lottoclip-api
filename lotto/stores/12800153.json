@@ -1,7 +1,7 @@
 {
   "store_id": "12800153",
   "name": "L마트",
-  "address": "인천 서구 승학로 528 ",
+  "address": "인천 서구  승학로 528 아카데미프라자107호",
   "phone": "032-577-3679",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,27 @@
   ],
   "latitude": 37.565592,
   "longitude": 126.678182,
-  "updated_at": "2026-01-12T12:01:41.419363"
+  "updated_at": "2026-02-03T18:29:18.225380",
+  "first_prize_draws": [
+    1200,
+    735
+  ],
+  "second_prize_draws": [
+    1068,
+    1037,
+    1020,
+    1013,
+    982,
+    968,
+    967,
+    698,
+    625,
+    552,
+    419,
+    390,
+    379,
+    372
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 14
 }

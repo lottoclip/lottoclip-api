@@ -1,7 +1,7 @@
 {
   "store_id": "11100292",
   "name": "하임마트",
-  "address": "서울 중구 퇴계로 439-4 ",
+  "address": "서울 중구  퇴계로 439-4 1층",
   "phone": "02-2233-6388",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 37.5659,
   "longitude": 127.020756,
-  "updated_at": "2026-01-12T11:55:20.683249"
+  "updated_at": "2026-02-03T18:22:02.804717",
+  "first_prize_draws": [
+    1105,
+    958
+  ],
+  "second_prize_draws": [
+    1110,
+    1104,
+    1092,
+    997,
+    978,
+    971,
+    835,
+    503,
+    470,
+    381,
+    297
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 11
 }

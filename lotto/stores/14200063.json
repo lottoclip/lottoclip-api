@@ -1,7 +1,7 @@
 {
   "store_id": "14200063",
   "name": "홍익슈퍼",
-  "address": "강원 강릉시 가작로 311 ",
+  "address": "강원 강릉시  가작로 311 복권판매점",
   "phone": "033-651-7650",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 37.771345,
   "longitude": 128.909247,
-  "updated_at": "2026-01-12T11:39:48.292243"
+  "updated_at": "2026-02-03T18:09:28.208129",
+  "first_prize_draws": [
+    857
+  ],
+  "second_prize_draws": [
+    952,
+    878,
+    850,
+    828,
+    802,
+    481,
+    464,
+    338
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

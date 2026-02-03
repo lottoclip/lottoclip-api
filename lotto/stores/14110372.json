@@ -1,7 +1,7 @@
 {
   "store_id": "14110372",
   "name": "다우복권방",
-  "address": "경기 동두천시 중앙로 110-13 ",
+  "address": "경기 동두천시  중앙로 110-13 1층 104호(지행동개림프라자)",
   "phone": "031-861-3223",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 37.901797,
   "longitude": 127.05275,
-  "updated_at": "2026-01-12T11:31:25.210766"
+  "updated_at": "2026-02-03T18:25:24.525507",
+  "first_prize_draws": [
+    708
+  ],
+  "second_prize_draws": [
+    1150,
+    911,
+    894,
+    826,
+    712,
+    290
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14420002",
-  "name": "대박로또",
-  "address": "충남 공주시 중앙2길 70 ",
+  "name": "유구복권방",
+  "address": "충남 공주시  중앙2길 70 1층",
   "phone": "041-841-4777",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 36.550592,
   "longitude": 126.952601,
-  "updated_at": "2026-01-12T11:37:55.094062"
+  "updated_at": "2026-02-03T18:28:25.736803",
+  "first_prize_draws": [
+    821
+  ],
+  "second_prize_draws": [
+    1188,
+    1158,
+    1119,
+    1046,
+    1042,
+    935,
+    661
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

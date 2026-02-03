@@ -1,7 +1,7 @@
 {
   "store_id": "14540114",
   "name": "위너스로또",
-  "address": "전북 전주시 완산구 영경1길 31 ",
+  "address": "전북 전주시 완산구  영경1길 31 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,11 @@
   ],
   "latitude": 35.817754,
   "longitude": 127.126184,
-  "updated_at": "2026-01-12T11:58:23.635675"
+  "updated_at": "2026-02-03T18:25:15.853498",
+  "first_prize_draws": [
+    1148
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

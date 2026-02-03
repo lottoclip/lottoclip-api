@@ -1,7 +1,7 @@
 {
   "store_id": "14740014",
-  "name": "CU로또(강구터미널점)",
-  "address": "경북 영덕군 318만세길 182 ",
+  "name": "999현우로또점",
+  "address": "경북 영덕군  318만세길 182 오른쪽 상가",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 36.542165,
   "longitude": 129.408342,
-  "updated_at": "2026-01-12T11:40:48.146883"
+  "updated_at": "2026-02-03T18:29:27.278399",
+  "first_prize_draws": [
+    876
+  ],
+  "second_prize_draws": [
+    1202,
+    1131,
+    1129,
+    960,
+    866
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

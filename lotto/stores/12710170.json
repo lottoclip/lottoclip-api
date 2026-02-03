@@ -1,7 +1,7 @@
 {
   "store_id": "12710170",
   "name": "평화(북구사수점)",
-  "address": "대구 북구 한강로 92 ",
+  "address": "대구 북구  한강로 92 1층 101호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 35.896555,
   "longitude": 128.519573,
-  "updated_at": "2026-01-12T11:54:33.057954"
+  "updated_at": "2026-02-03T18:20:37.650945",
+  "first_prize_draws": [
+    1090
+  ],
+  "second_prize_draws": [
+    1068,
+    967,
+    935,
+    911,
+    907,
+    754,
+    612,
+    593,
+    367
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 9
 }

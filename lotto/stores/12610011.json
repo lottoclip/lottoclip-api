@@ -1,7 +1,7 @@
 {
   "store_id": "12610011",
   "name": "월드사진관",
-  "address": "부산 사하구 윤공단로14번길 53 ",
+  "address": "부산 사하구  윤공단로14번길 53 ",
   "phone": "051-261-7597",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 35.057267,
   "longitude": 128.969723,
-  "updated_at": "2026-01-12T11:26:11.223965"
+  "updated_at": "2026-02-03T18:22:41.204070",
+  "first_prize_draws": [
+    622,
+    291
+  ],
+  "second_prize_draws": [
+    1119,
+    1072,
+    1070,
+    912,
+    777,
+    745
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 6
 }

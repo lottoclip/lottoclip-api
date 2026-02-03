@@ -1,7 +1,7 @@
 {
   "store_id": "14120136",
   "name": "행운슈퍼",
-  "address": "경기 평택시 서동대로 2623 ",
+  "address": "경기 평택시  서동대로 2623 1층",
   "phone": "031-668-8532",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 37.016077,
   "longitude": 127.031213,
-  "updated_at": "2026-01-12T11:48:03.579125"
+  "updated_at": "2026-02-03T18:26:04.686912",
+  "first_prize_draws": [
+    996
+  ],
+  "second_prize_draws": [
+    1159,
+    917,
+    875
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

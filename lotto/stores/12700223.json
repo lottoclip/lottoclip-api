@@ -1,7 +1,7 @@
 {
   "store_id": "12700223",
-  "name": "토큰박스",
-  "address": "대구 서구 달서로 171 ",
+  "name": "신세계",
+  "address": "대구 서구 달서로 171 1층  ",
   "phone": "053-572-5858",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 35.877507,
   "longitude": 128.571071,
-  "updated_at": "2026-01-12T11:17:20.400240"
+  "updated_at": "2026-02-03T18:29:48.843299",
+  "first_prize_draws": [
+    468
+  ],
+  "second_prize_draws": [
+    1207,
+    1198,
+    640,
+    537,
+    360
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

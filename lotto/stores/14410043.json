@@ -1,12 +1,21 @@
 {
   "store_id": "14410043",
   "name": "신방복권",
-  "address": "충남 천안시 동남구 신촌로 19 ",
+  "address": "충남 천안시 동남구  신촌로 19 101호",
   "phone": "041-552-7496",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 36.788726,
   "longitude": 127.12157,
-  "updated_at": "2026-01-12T11:29:43.002691"
+  "updated_at": "2026-02-03T18:27:16.427954",
+  "first_prize_draws": [
+    680
+  ],
+  "second_prize_draws": [
+    1172,
+    661
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

@@ -1,12 +1,21 @@
 {
   "store_id": "11110068",
   "name": "로또",
-  "address": "서울 광진구 자양4동  6-39번지",
+  "address": "서울 광진구 자양4동 6-39번지 ",
   "phone": "02-467-1045",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.540124,
   "longitude": 127.067694,
-  "updated_at": "2026-01-12T11:28:18.136283"
+  "updated_at": "2026-02-03T18:00:40.447516",
+  "first_prize_draws": [
+    658
+  ],
+  "second_prize_draws": [
+    846,
+    621
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

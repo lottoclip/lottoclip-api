@@ -1,7 +1,7 @@
 {
   "store_id": "24400011",
-  "name": "GS25(천안신방)",
-  "address": "충남 천안시 동남구 신방동 905번지 현대아파트상가102호 GS25편의점",
+  "name": "GS25(천안신방점)",
+  "address": "충남 천안시 동남구 신방동 905번지 현대아파트상가102호",
   "phone": "041-577-2520",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,19 @@
   ],
   "latitude": 36.789266,
   "longitude": 127.13003,
-  "updated_at": "2026-01-12T11:27:34.727337"
+  "updated_at": "2026-02-03T18:01:06.403037",
+  "first_prize_draws": [
+    644
+  ],
+  "second_prize_draws": [
+    852,
+    848,
+    789,
+    718,
+    623,
+    581,
+    580
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14230016",
   "name": "천하명당",
-  "address": "강원 철원군 금학로 195-2 ",
+  "address": "강원 철원군 동송읍 이평리 705-19 ",
   "phone": "033-455-1911",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 38.206325,
   "longitude": 127.21916,
-  "updated_at": "2026-01-12T11:38:58.042249"
+  "updated_at": "2026-02-03T18:05:00.036658",
+  "first_prize_draws": [
+    841
+  ],
+  "second_prize_draws": [
+    902,
+    756
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14740172",
   "name": "로그인복권방",
-  "address": "경북 구미시 상사동로 149-4 ",
+  "address": "경북 구미시  상사동로 149-4 사곡동",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 36.097961,
   "longitude": 128.358781,
-  "updated_at": "2026-01-12T11:59:02.442778"
+  "updated_at": "2026-02-03T18:29:05.802221",
+  "first_prize_draws": [
+    1160,
+    1096
+  ],
+  "second_prize_draws": [
+    1197,
+    1131,
+    1058,
+    1027
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 4
 }

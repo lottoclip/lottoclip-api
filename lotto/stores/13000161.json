@@ -1,7 +1,7 @@
 {
   "store_id": "13000161",
   "name": "대광광고사",
-  "address": "대전 유성구 구즉로 54 ",
+  "address": "대전 유성구  구즉로 54 ",
   "phone": "042-936-7878",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,27 @@
   ],
   "latitude": 36.433844,
   "longitude": 127.385058,
-  "updated_at": "2026-01-12T11:28:15.079086"
+  "updated_at": "2026-02-03T18:29:22.623417",
+  "first_prize_draws": [
+    657
+  ],
+  "second_prize_draws": [
+    1201,
+    1121,
+    1079,
+    1016,
+    1000,
+    993,
+    985,
+    962,
+    813,
+    591,
+    535,
+    532,
+    531,
+    299,
+    273
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 15
 }

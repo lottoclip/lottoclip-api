@@ -1,7 +1,7 @@
 {
   "store_id": "11110095",
   "name": "청수마트",
-  "address": "서울 서초구 강남대로10길 36 ",
+  "address": "서울 서초구  강남대로10길 36 ",
   "phone": "02-577-7577",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 37.46892,
   "longitude": 127.041356,
-  "updated_at": "2026-01-12T11:17:29.588528"
+  "updated_at": "2026-02-03T18:17:41.459371",
+  "first_prize_draws": [
+    471
+  ],
+  "second_prize_draws": [
+    1054,
+    984,
+    932,
+    855,
+    733,
+    531
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

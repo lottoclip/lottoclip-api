@@ -1,7 +1,7 @@
 {
   "store_id": "12740081",
   "name": "삼각R복권방",
-  "address": "대구 남구 현충로 221 ",
+  "address": "대구 남구  현충로 221 ",
   "phone": "053-654-5749",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 35.852445,
   "longitude": 128.582274,
-  "updated_at": "2026-01-12T11:48:41.460171"
+  "updated_at": "2026-02-03T18:28:29.850057",
+  "first_prize_draws": [
+    1008
+  ],
+  "second_prize_draws": [
+    1189,
+    1132,
+    1113
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

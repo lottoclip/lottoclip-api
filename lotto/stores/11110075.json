@@ -1,7 +1,7 @@
 {
   "store_id": "11110075",
   "name": "로또복권",
-  "address": "서울 광진구 긴고랑로 38 ",
+  "address": "서울 광진구 긴고랑로 38  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,29 @@
   ],
   "latitude": 37.562796,
   "longitude": 127.080211,
-  "updated_at": "2026-01-12T11:55:11.236399"
+  "updated_at": "2026-02-03T18:29:48.729801",
+  "first_prize_draws": [
+    1102,
+    764,
+    593
+  ],
+  "second_prize_draws": [
+    1207,
+    1093,
+    1028,
+    993,
+    983,
+    929,
+    918,
+    899,
+    798,
+    735,
+    732,
+    536,
+    389,
+    321,
+    265
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 15
 }

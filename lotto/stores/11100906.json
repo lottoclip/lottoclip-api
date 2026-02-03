@@ -1,7 +1,7 @@
 {
   "store_id": "11100906",
   "name": "가로판매대제152호(신)",
-  "address": "서울 중구 남대문로 114 ",
+  "address": "서울 중구  남대문로 114 ",
   "phone": "02-734-0659",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 37.567277,
   "longitude": 126.982994,
-  "updated_at": "2026-01-12T11:42:08.180143"
+  "updated_at": "2026-02-03T18:24:09.324111",
+  "first_prize_draws": [
+    892
+  ],
+  "second_prize_draws": [
+    1136,
+    757,
+    531,
+    475,
+    393
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

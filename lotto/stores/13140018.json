@@ -1,7 +1,7 @@
 {
   "store_id": "13140018",
   "name": "영희복권방",
-  "address": "울산 동구 진성8길 53 ",
+  "address": "울산 동구  진성8길 53 동해연립주택 무주슈퍼 내",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 35.507307,
   "longitude": 129.429065,
-  "updated_at": "2026-01-12T11:40:57.580547"
+  "updated_at": "2026-02-03T18:17:37.337751",
+  "first_prize_draws": [
+    879
+  ],
+  "second_prize_draws": [
+    1053
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

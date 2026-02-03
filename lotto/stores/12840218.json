@@ -1,7 +1,7 @@
 {
   "store_id": "12840218",
   "name": "대박복권판매점",
-  "address": "인천 남동구 구월남로 190 ",
+  "address": "인천 남동구 구월남로 190 101호  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 37.452673,
   "longitude": 126.71069,
-  "updated_at": "2026-01-12T12:01:57.939821"
+  "updated_at": "2026-02-03T18:29:40.381246",
+  "first_prize_draws": [
+    1205
+  ],
+  "second_prize_draws": [
+    1028
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

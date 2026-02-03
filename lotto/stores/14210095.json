@@ -1,12 +1,22 @@
 {
   "store_id": "14210095",
-  "name": "로또점",
-  "address": "강원 원주시 단구동  1485-5데일리24시",
+  "name": "또이대박로또",
+  "address": "강원 원주시  송림길 48-22 102호",
   "phone": "070-8822-0645",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.331317,
   "longitude": 127.951851,
-  "updated_at": "2026-01-12T11:20:37.542133"
+  "updated_at": "2026-02-03T18:18:59.808770",
+  "first_prize_draws": [
+    526
+  ],
+  "second_prize_draws": [
+    1071,
+    923,
+    383
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "12600256",
   "name": "-",
-  "address": "부산 부산진구 부전동  573-1 복권판매대 제4번",
+  "address": "부산 부산진구 부전동  573-1복권판매대제4번",
   "phone": "051-804-1641",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,17 @@
   ],
   "latitude": 35.158164,
   "longitude": 129.059874,
-  "updated_at": "2026-01-12T11:09:57.257920"
+  "updated_at": "2026-02-03T17:29:27.116471",
+  "first_prize_draws": [
+    349
+  ],
+  "second_prize_draws": [
+    450,
+    446,
+    368,
+    315,
+    268
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

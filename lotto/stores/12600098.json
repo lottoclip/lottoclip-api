@@ -1,7 +1,7 @@
 {
   "store_id": "12600098",
   "name": "슈퍼복권나라",
-  "address": "부산 사하구 하신번영로 370 ",
+  "address": "부산 사하구 하단동 590-7번지 GS25편의점",
   "phone": "070-8772-1507",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 35.114146,
   "longitude": 128.960792,
-  "updated_at": "2026-01-12T11:31:28.289244"
+  "updated_at": "2026-02-03T17:55:29.905852",
+  "first_prize_draws": [
+    709,
+    606,
+    486
+  ],
+  "second_prize_draws": [
+    781,
+    708,
+    670,
+    488
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 4
 }

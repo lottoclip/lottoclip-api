@@ -1,7 +1,7 @@
 {
   "store_id": "14700067",
   "name": "로또야놀자",
-  "address": "경북 경주시 양정로 211 ",
+  "address": "경북 경주시  양정로 211 ",
   "phone": "054-741-0645",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 35.851509,
   "longitude": 129.223982,
-  "updated_at": "2026-01-12T12:00:35.516867"
+  "updated_at": "2026-02-03T18:28:30.574587",
+  "first_prize_draws": [
+    1189,
+    1004,
+    870,
+    586
+  ],
+  "second_prize_draws": [
+    1104,
+    1038,
+    1023,
+    995,
+    985,
+    936,
+    912,
+    829,
+    614
+  ],
+  "first_prize_count": 4,
+  "second_prize_count": 9
 }

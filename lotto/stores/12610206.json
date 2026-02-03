@@ -1,7 +1,7 @@
 {
   "store_id": "12610206",
   "name": "행복이가득한집",
-  "address": "부산 영도구 동삼로 89 ",
+  "address": "부산 영도구  동삼로 89 1층 복권방",
   "phone": "051-900-7041",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 35.081478,
   "longitude": 129.070579,
-  "updated_at": "2026-01-12T11:46:10.660934"
+  "updated_at": "2026-02-03T18:20:59.339262",
+  "first_prize_draws": [
+    965,
+    375
+  ],
+  "second_prize_draws": [
+    1095,
+    1041,
+    998,
+    634,
+    612,
+    595,
+    534,
+    527,
+    439,
+    396
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 10
 }

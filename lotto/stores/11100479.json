@@ -1,0 +1,26 @@
+{
+  "store_id": "11100479",
+  "name": "복권방",
+  "address": "서울 양천구 신정동  972-1번지 1층",
+  "phone": "02-2695-1104",
+  "lottery_types": [
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 37.521924,
+  "longitude": 126.852321,
+  "updated_at": "2026-02-03T17:45:45.891369",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    670,
+    586,
+    523,
+    403,
+    367,
+    353,
+    340,
+    277
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 8
+}

@@ -1,7 +1,7 @@
 {
   "store_id": "14140359",
   "name": "씨월드",
-  "address": "경기 남양주시 별내2로 64 ",
+  "address": "경기 남양주시  별내2로 64 109호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 37.646427,
   "longitude": 127.124878,
-  "updated_at": "2026-01-12T12:00:25.764529"
+  "updated_at": "2026-02-03T18:28:17.102891",
+  "first_prize_draws": [
+    1186
+  ],
+  "second_prize_draws": [
+    1081
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

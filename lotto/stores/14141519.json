@@ -1,7 +1,7 @@
 {
   "store_id": "14141519",
   "name": "당첨쑥쑥복권",
-  "address": "경기 의왕시 고산로 88 ",
+  "address": "경기 의왕시  고산로 88 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,11 @@
   ],
   "latitude": 37.351465,
   "longitude": 126.961398,
-  "updated_at": "2026-01-12T12:00:35.495371"
+  "updated_at": "2026-02-03T18:28:30.283870",
+  "first_prize_draws": [
+    1189
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

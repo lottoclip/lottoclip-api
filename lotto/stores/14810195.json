@@ -1,7 +1,7 @@
 {
   "store_id": "14810195",
   "name": "소라복권방",
-  "address": "경남 창원시 성산구 가음정동 391-10소라아파트상가 104호",
+  "address": "경남 창원시 성산구 가음정동 391-10 소라아파트상가 104호",
   "phone": "055-261-0821",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,15 @@
   ],
   "latitude": 35.207452,
   "longitude": 128.687424,
-  "updated_at": "2026-01-12T11:13:41.392197"
+  "updated_at": "2026-02-03T17:36:13.359829",
+  "first_prize_draws": [
+    412
+  ],
+  "second_prize_draws": [
+    549,
+    456,
+    345
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "13190032",
   "name": "보경복권",
-  "address": "울산 북구 명촌6길 7 ",
+  "address": "울산 북구  명촌6길 7 ",
   "phone": "052-289-4503",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,27 @@
   ],
   "latitude": 35.558064,
   "longitude": 129.360286,
-  "updated_at": "2026-01-12T12:00:48.595401"
+  "updated_at": "2026-02-03T18:28:48.131086",
+  "first_prize_draws": [
+    1193,
+    709,
+    680,
+    431
+  ],
+  "second_prize_draws": [
+    1180,
+    1022,
+    1021,
+    972,
+    901,
+    884,
+    790,
+    611,
+    536,
+    501,
+    324,
+    265
+  ],
+  "first_prize_count": 4,
+  "second_prize_count": 12
 }

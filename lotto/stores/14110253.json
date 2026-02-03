@@ -1,0 +1,26 @@
+{
+  "store_id": "14110253",
+  "name": "로또복권",
+  "address": "경기 안성시 신건지동(안성3동) 15-1 1층 DS마트",
+  "phone": "031-676-2847",
+  "lottery_types": [
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 37.014066,
+  "longitude": 127.250669,
+  "updated_at": "2026-02-03T18:01:23.829729",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    856,
+    816,
+    807,
+    756,
+    749,
+    544,
+    516,
+    327
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 8
+}

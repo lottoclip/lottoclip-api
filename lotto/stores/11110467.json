@@ -1,7 +1,7 @@
 {
   "store_id": "11110467",
   "name": "온라인복권방",
-  "address": "서울 동대문구 용두동  9-2번지",
+  "address": "서울 동대문구 용두동 9-2번지 ",
   "phone": "02-960-3168",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,18 @@
   ],
   "latitude": 37.578263,
   "longitude": 127.042976,
-  "updated_at": "2026-01-12T11:23:50.755714"
+  "updated_at": "2026-02-03T17:54:15.576577",
+  "first_prize_draws": [
+    583,
+    569
+  ],
+  "second_prize_draws": [
+    765,
+    710,
+    655,
+    627,
+    541
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 5
 }

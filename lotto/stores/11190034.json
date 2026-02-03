@@ -1,7 +1,7 @@
 {
   "store_id": "11190034",
   "name": "복권천하",
-  "address": "서울 강북구 월계로7나길 23 ",
+  "address": "서울 강북구  월계로7나길 23 ",
   "phone": "02-985-0525",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,25 @@
   ],
   "latitude": 37.61254,
   "longitude": 127.032501,
-  "updated_at": "2026-01-12T11:48:54.427348"
+  "updated_at": "2026-02-03T18:29:00.971131",
+  "first_prize_draws": [
+    1012,
+    999,
+    400
+  ],
+  "second_prize_draws": [
+    1196,
+    1193,
+    1174,
+    1079,
+    1013,
+    906,
+    709,
+    651,
+    621,
+    574,
+    392
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 11
 }

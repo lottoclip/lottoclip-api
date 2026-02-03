@@ -1,7 +1,7 @@
 {
   "store_id": "14130057",
   "name": "애플마트",
-  "address": "경기 평택시 포승원정길 35-5 ",
+  "address": "경기 평택시  포승원정길 35-5 1층 애플마트내",
   "phone": "031-682-0557",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 36.994772,
   "longitude": 126.840564,
-  "updated_at": "2026-01-12T11:33:52.820409"
+  "updated_at": "2026-02-03T18:20:55.305508",
+  "first_prize_draws": [
+    749
+  ],
+  "second_prize_draws": [
+    1094,
+    928,
+    758
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

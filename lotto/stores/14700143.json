@@ -1,7 +1,7 @@
 {
   "store_id": "14700143",
   "name": "팬더복권",
-  "address": "경북 포항시 남구 충무로 39-1 ",
+  "address": "경북 포항시 남구  충무로 40-1 ",
   "phone": "054-292-7443",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 35.976041,
   "longitude": 129.414243,
-  "updated_at": "2026-01-12T11:38:04.618143"
+  "updated_at": "2026-02-03T18:11:30.542363",
+  "first_prize_draws": [
+    824,
+    651
+  ],
+  "second_prize_draws": [
+    979,
+    969,
+    937,
+    930,
+    832,
+    713,
+    482,
+    330
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 8
 }

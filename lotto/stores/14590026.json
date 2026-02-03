@@ -1,7 +1,7 @@
 {
   "store_id": "14590026",
   "name": "현텔레콤",
-  "address": "전북 전주시 덕진구 두간로 6 ",
+  "address": "전북 전주시 덕진구 두간로 6 1층 101호  ",
   "phone": "063-242-3986",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 35.865177,
   "longitude": 127.115075,
-  "updated_at": "2026-01-12T11:34:02.380910"
+  "updated_at": "2026-02-03T18:29:49.196582",
+  "first_prize_draws": [
+    752,
+    466
+  ],
+  "second_prize_draws": [
+    1207,
+    1130,
+    946,
+    924,
+    871,
+    869,
+    848,
+    803,
+    372
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 9
 }

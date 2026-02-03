@@ -1,7 +1,7 @@
 {
   "store_id": "14110438",
   "name": "행운을드리는복권방",
-  "address": "경기 안산시 상록구 본오로 98 ",
+  "address": "경기 안산시 상록구  본오로 98 ",
   "phone": "031-502-0425",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 37.293797,
   "longitude": 126.866681,
-  "updated_at": "2026-01-12T11:19:53.633367"
+  "updated_at": "2026-02-03T18:20:20.497420",
+  "first_prize_draws": [
+    512
+  ],
+  "second_prize_draws": [
+    1086,
+    916,
+    807,
+    802,
+    694,
+    586,
+    530,
+    520,
+    494,
+    305
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

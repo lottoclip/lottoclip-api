@@ -1,0 +1,27 @@
+{
+  "store_id": "11101560",
+  "name": "학림서점",
+  "address": "서울 동작구 본동 400 ",
+  "phone": "02-815-5482",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.51214,
+  "longitude": 126.94619,
+  "updated_at": "2026-02-03T18:03:39.553497",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    884,
+    792,
+    765,
+    732,
+    688,
+    441,
+    376,
+    267
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 8
+}

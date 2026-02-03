@@ -1,7 +1,7 @@
 {
   "store_id": "11130048",
   "name": "대박슈퍼",
-  "address": "서울 강동구 올림픽로 800 ",
+  "address": "서울 강동구  올림픽로 800 1층 106호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 37.552276,
   "longitude": 127.128603,
-  "updated_at": "2026-01-12T11:54:39.486512"
+  "updated_at": "2026-02-03T18:26:04.036107",
+  "first_prize_draws": [
+    1092
+  ],
+  "second_prize_draws": [
+    1159,
+    1156,
+    1138,
+    1137,
+    1068,
+    1067,
+    979,
+    858,
+    732,
+    702
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

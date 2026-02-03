@@ -1,7 +1,7 @@
 {
   "store_id": "14100682",
-  "name": "대박나라 베팅숍",
-  "address": "경기 부천시 성주로 84 ",
+  "name": "대박나라베팅숍",
+  "address": "경기 부천시 소사구 송내동 450-8번지 ",
   "phone": "032-651-6356",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.479436,
   "longitude": 126.765437,
-  "updated_at": "2026-01-12T11:05:53.512070"
+  "updated_at": "2026-02-03T18:02:54.478903",
+  "first_prize_draws": [
+    284
+  ],
+  "second_prize_draws": [
+    877,
+    460,
+    455,
+    425,
+    352,
+    348,
+    306
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

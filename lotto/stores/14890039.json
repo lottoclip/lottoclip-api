@@ -1,7 +1,7 @@
 {
   "store_id": "14890039",
   "name": "함안 복권방",
-  "address": "경남 함안군 함안대로 552 ",
+  "address": "경남 함안군  함안대로 552 1층",
   "phone": "055-583-7928",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 35.275842,
   "longitude": 128.405766,
-  "updated_at": "2026-01-12T11:44:21.452860"
+  "updated_at": "2026-02-03T18:25:15.962306",
+  "first_prize_draws": [
+    930,
+    834,
+    627
+  ],
+  "second_prize_draws": [
+    1148,
+    1117,
+    1089,
+    1073,
+    1059,
+    1033,
+    953,
+    510,
+    491,
+    361
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 10
 }

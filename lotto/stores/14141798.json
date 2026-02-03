@@ -1,7 +1,7 @@
 {
   "store_id": "14141798",
   "name": "효도복권",
-  "address": "경기 수원시 권선구 세권로 215 ",
+  "address": "경기 수원시 권선구  세권로 215 1층 1호(권선동 Home Town)",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,11 @@
   ],
   "latitude": 37.25492,
   "longitude": 127.02784,
-  "updated_at": "2026-01-12T11:56:20.704484"
+  "updated_at": "2026-02-03T18:22:41.565965",
+  "first_prize_draws": [
+    1119
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

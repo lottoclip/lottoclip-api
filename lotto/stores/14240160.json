@@ -1,7 +1,7 @@
 {
   "store_id": "14240160",
   "name": "로또매니아",
-  "address": "강원 춘천시 춘천순환로 790 ",
+  "address": "강원 춘천시  춘천순환로 790 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 37.909041,
   "longitude": 127.752689,
-  "updated_at": "2026-01-12T11:59:37.767853"
+  "updated_at": "2026-02-03T18:29:27.070206",
+  "first_prize_draws": [
+    1171
+  ],
+  "second_prize_draws": [
+    1202,
+    1199,
+    1180,
+    1126,
+    1102,
+    1059
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "12700202",
   "name": "토큰박스(아카데미)",
-  "address": "대구 중구 중앙대로 390 ",
+  "address": "대구 중구  중앙대로 390 승강장옆",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 35.867778,
   "longitude": 128.593914,
-  "updated_at": "2026-01-12T11:07:49.449323"
+  "updated_at": "2026-02-03T18:19:12.435090",
+  "first_prize_draws": [
+    317
+  ],
+  "second_prize_draws": [
+    1074,
+    859,
+    693,
+    267
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

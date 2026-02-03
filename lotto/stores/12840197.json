@@ -1,7 +1,7 @@
 {
   "store_id": "12840197",
   "name": "현대설비 / 영종하늘 로또",
-  "address": "인천 중구 하늘달빛로 70 ",
+  "address": "인천 중구  하늘달빛로 70 114호",
   "phone": "032-547-2294",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 37.485823,
   "longitude": 126.559531,
-  "updated_at": "2026-01-12T11:58:20.483111"
+  "updated_at": "2026-02-03T18:25:11.105422",
+  "first_prize_draws": [
+    1147
+  ],
+  "second_prize_draws": [
+    1080,
+    1059,
+    1022,
+    1021,
+    967
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

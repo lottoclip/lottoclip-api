@@ -1,0 +1,27 @@
+{
+  "store_id": "11100048",
+  "name": "행운마트",
+  "address": "서울 중구  마른내로 54-1 ",
+  "phone": "02-2274-4251",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.564213,
+  "longitude": 126.993851,
+  "updated_at": "2026-02-03T18:26:49.700620",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1166,
+    1137,
+    1072,
+    934,
+    902,
+    702,
+    686,
+    381
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 8
+}

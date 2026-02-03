@@ -1,7 +1,7 @@
 {
   "store_id": "14100096",
   "name": "공단슈퍼",
-  "address": "경기 평택시 산단로52번길 3 ",
+  "address": "경기 평택시  산단로52번길 3 1층",
   "phone": "031-665-4406",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 37.036741,
   "longitude": 127.076041,
-  "updated_at": "2026-01-12T11:26:30.197167"
+  "updated_at": "2026-02-03T18:10:54.997302",
+  "first_prize_draws": [
+    628
+  ],
+  "second_prize_draws": [
+    971,
+    938,
+    812,
+    678,
+    514,
+    418
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

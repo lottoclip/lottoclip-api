@@ -1,7 +1,7 @@
 {
   "store_id": "14710070",
   "name": "한일슈퍼",
-  "address": "경북 구미시 황상동  205-15",
+  "address": "경북 구미시 산동면 신당리 0 골드상가타워내 세븐일레븐",
   "phone": "054-476-0517",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,15 @@
   ],
   "latitude": 36.154832,
   "longitude": 128.351258,
-  "updated_at": "2026-01-12T11:11:50.395355"
+  "updated_at": "2026-02-03T17:58:18.331932",
+  "first_prize_draws": [
+    376
+  ],
+  "second_prize_draws": [
+    819,
+    745,
+    526
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

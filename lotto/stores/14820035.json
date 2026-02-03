@@ -1,7 +1,7 @@
 {
   "store_id": "14820035",
-  "name": "행운마트",
-  "address": "경남 통영시 죽림4로 18 ",
+  "name": "행운복권",
+  "address": "경남 통영시  죽림4로 18 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 34.885556,
   "longitude": 128.416461,
-  "updated_at": "2026-01-12T11:33:27.148290"
+  "updated_at": "2026-02-03T18:22:03.532780",
+  "first_prize_draws": [
+    741
+  ],
+  "second_prize_draws": [
+    1110,
+    1058,
+    974
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

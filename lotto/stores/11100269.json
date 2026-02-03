@@ -1,7 +1,7 @@
 {
   "store_id": "11100269",
   "name": "복권왕국",
-  "address": "서울 광진구 자양동  624-23 1층",
+  "address": "서울 광진구 자양동  624-23번지 1층",
   "phone": "02-452-5551",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,17 @@
   ],
   "latitude": 37.535576,
   "longitude": 127.082568,
-  "updated_at": "2026-01-12T11:05:44.425693"
+  "updated_at": "2026-02-03T17:43:14.299860",
+  "first_prize_draws": [
+    281
+  ],
+  "second_prize_draws": [
+    636,
+    543,
+    507,
+    352,
+    321
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

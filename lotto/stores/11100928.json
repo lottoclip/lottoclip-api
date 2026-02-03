@@ -1,12 +1,28 @@
 {
   "store_id": "11100928",
   "name": "신간판",
-  "address": "서울 중구 무교로 24 ",
+  "address": "서울 중구  무교로 24 ",
   "phone": null,
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.568091,
   "longitude": 126.979454,
-  "updated_at": "2026-01-12T11:49:31.341991"
+  "updated_at": "2026-02-03T18:22:19.930677",
+  "first_prize_draws": [
+    1019,
+    844,
+    332,
+    331
+  ],
+  "second_prize_draws": [
+    1114,
+    1080,
+    977,
+    745,
+    332,
+    325
+  ],
+  "first_prize_count": 4,
+  "second_prize_count": 6
 }

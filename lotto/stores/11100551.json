@@ -1,7 +1,7 @@
 {
   "store_id": "11100551",
   "name": "삼성마트",
-  "address": "서울 강남구 선릉로 636 ",
+  "address": "서울 강남구  선릉로 636 102호(키스톤빌딩)",
   "phone": "02-518-8380",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 37.513322,
   "longitude": 127.042919,
-  "updated_at": "2026-01-12T12:00:45.085355"
+  "updated_at": "2026-02-03T18:28:43.457343",
+  "first_prize_draws": [
+    1192,
+    1013
+  ],
+  "second_prize_draws": [
+    1136,
+    701,
+    662,
+    466,
+    325
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 5
 }

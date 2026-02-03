@@ -1,7 +1,7 @@
 {
   "store_id": "12690049",
   "name": "아트슈퍼",
-  "address": "부산 부산진구 가야대로 490 ",
+  "address": "부산 부산진구  가야대로 490 ",
   "phone": "051-897-6661",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 35.152933,
   "longitude": 129.025603,
-  "updated_at": "2026-01-12T11:44:52.467707"
+  "updated_at": "2026-02-03T18:27:29.370739",
+  "first_prize_draws": [
+    940,
+    819
+  ],
+  "second_prize_draws": [
+    1175,
+    1162,
+    1036,
+    1019,
+    864,
+    701,
+    463,
+    378
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 8
 }

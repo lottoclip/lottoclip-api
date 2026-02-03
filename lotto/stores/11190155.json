@@ -1,7 +1,7 @@
 {
   "store_id": "11190155",
   "name": "9TO5공항점",
-  "address": "서울 강서구 송정로 61 ",
+  "address": "서울 강서구  송정로 61 1층",
   "phone": "02-2666-0250",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.560211,
   "longitude": 126.809896,
-  "updated_at": "2026-01-12T11:23:56.903413"
+  "updated_at": "2026-02-03T18:26:45.089858",
+  "first_prize_draws": [
+    585
+  ],
+  "second_prize_draws": [
+    1165,
+    1052,
+    993,
+    869,
+    853,
+    581,
+    474
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

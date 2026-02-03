@@ -1,7 +1,7 @@
 {
   "store_id": "14300056",
   "name": "편의점사랑(그린신화점)",
-  "address": "충북 청주시 청원구 충청대로57번길 2 ",
+  "address": "충북 청주시 청원구  충청대로 53 ",
   "phone": "043-215-7771",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 36.66208,
   "longitude": 127.491515,
-  "updated_at": "2026-01-12T11:39:29.248188"
+  "updated_at": "2026-02-03T18:15:14.768708",
+  "first_prize_draws": [
+    851,
+    520
+  ],
+  "second_prize_draws": [
+    1024,
+    982,
+    736,
+    568,
+    394
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 5
 }

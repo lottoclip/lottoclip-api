@@ -1,7 +1,7 @@
 {
   "store_id": "14940095",
   "name": "씨유제주 제일점",
-  "address": "제주 제주시 신산로 16 ",
+  "address": "제주 제주시  신산로 16 CU 제일점",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,17 @@
   ],
   "latitude": 33.511852,
   "longitude": 126.53152,
-  "updated_at": "2026-01-12T12:00:16.109014"
+  "updated_at": "2026-02-03T18:28:04.073667",
+  "first_prize_draws": [
+    1183,
+    1126,
+    1106
+  ],
+  "second_prize_draws": [
+    1173,
+    1090,
+    1062
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 3
 }

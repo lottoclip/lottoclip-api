@@ -1,7 +1,7 @@
 {
   "store_id": "11110295",
   "name": "명당복권방",
-  "address": "서울 동작구 상도로 281 ",
+  "address": "서울 동작구  상도로 281 1층",
   "phone": "02-812-4209",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.502379,
   "longitude": 126.948593,
-  "updated_at": "2026-01-12T11:50:06.112614"
+  "updated_at": "2026-02-03T18:18:42.041763",
+  "first_prize_draws": [
+    1030,
+    985,
+    886
+  ],
+  "second_prize_draws": [
+    1067,
+    1002,
+    993,
+    920,
+    463
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 5
 }

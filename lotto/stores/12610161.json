@@ -1,7 +1,7 @@
 {
   "store_id": "12610161",
   "name": "로터리복권방",
-  "address": "부산 서구 자갈치로 4 ",
+  "address": "부산 서구  자갈치로 4 ",
   "phone": "051-245-0404",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,26 @@
   ],
   "latitude": 35.096197,
   "longitude": 129.024838,
-  "updated_at": "2026-01-12T12:00:09.684304"
+  "updated_at": "2026-02-03T18:27:55.181326",
+  "first_prize_draws": [
+    1181,
+    1175,
+    1129,
+    1000
+  ],
+  "second_prize_draws": [
+    1181,
+    1128,
+    1005,
+    990,
+    878,
+    823,
+    693,
+    654,
+    469,
+    440,
+    414
+  ],
+  "first_prize_count": 4,
+  "second_prize_count": 11
 }

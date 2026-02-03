@@ -1,7 +1,7 @@
 {
   "store_id": "14840202",
   "name": "천하명당",
-  "address": "경남 창원시 의창구 읍성로 70 ",
+  "address": "경남 창원시 의창구  읍성로 70 1층 4호25호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 35.264941,
   "longitude": 128.62552,
-  "updated_at": "2026-01-12T11:53:05.790853"
+  "updated_at": "2026-02-03T18:25:47.013460",
+  "first_prize_draws": [
+    1072
+  ],
+  "second_prize_draws": [
+    1155
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

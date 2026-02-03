@@ -1,7 +1,7 @@
 {
   "store_id": "14190053",
   "name": "제이테크복권방",
-  "address": "경기 군포시 금산로 14 ",
+  "address": "경기 군포시  금산로 14 ",
   "phone": "031-477-1228",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.363927,
   "longitude": 126.941009,
-  "updated_at": "2026-01-12T11:40:41.811400"
+  "updated_at": "2026-02-03T18:20:28.928746",
+  "first_prize_draws": [
+    874
+  ],
+  "second_prize_draws": [
+    1088,
+    1024,
+    930,
+    897,
+    882,
+    796,
+    331
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14390037",
   "name": "부영상회",
-  "address": "충북 충주시 칠금중앙로 38 ",
+  "address": "충북 충주시  칠금중앙로 38 1층",
   "phone": "043-845-3374",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 36.982098,
   "longitude": 127.917965,
-  "updated_at": "2026-01-12T12:00:38.735519"
+  "updated_at": "2026-02-03T18:28:35.116677",
+  "first_prize_draws": [
+    1190
+  ],
+  "second_prize_draws": [
+    1159,
+    1046,
+    953,
+    799,
+    500
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

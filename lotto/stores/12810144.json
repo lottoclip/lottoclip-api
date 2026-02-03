@@ -1,7 +1,7 @@
 {
   "store_id": "12810144",
   "name": "대우로또복권방",
-  "address": "인천 부평구 청천동  180-4대우프라자113",
+  "address": "인천 부평구 청천동  180-4번지대우프라자113",
   "phone": "032-522-5643",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,16 @@
   ],
   "latitude": 37.513238,
   "longitude": 126.705609,
-  "updated_at": "2026-01-12T11:19:50.149854"
+  "updated_at": "2026-02-03T17:36:56.537233",
+  "first_prize_draws": [
+    511
+  ],
+  "second_prize_draws": [
+    559,
+    554,
+    376,
+    351
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

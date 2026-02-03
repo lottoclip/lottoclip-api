@@ -1,7 +1,7 @@
 {
   "store_id": "14790040",
   "name": "평화슈퍼",
-  "address": "경북 경주시 안강중앙로 219 ",
+  "address": "경북 경주시  안강중앙로 219 1층좌측상가",
   "phone": "054-761-3243",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 35.992471,
   "longitude": 129.224063,
-  "updated_at": "2026-01-12T11:58:01.274171"
+  "updated_at": "2026-02-03T18:24:31.014667",
+  "first_prize_draws": [
+    1141
+  ],
+  "second_prize_draws": [
+    1139,
+    1132,
+    757,
+    653,
+    606,
+    380
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14840475",
   "name": "제이에이치마켓",
-  "address": "경남 창원시 의창구 의창대로 914 ",
+  "address": "경남 창원시 의창구  의창대로 914 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,11 @@
   ],
   "latitude": 35.278957,
   "longitude": 128.690462,
-  "updated_at": "2026-01-12T12:01:44.875895"
+  "updated_at": "2026-02-03T18:29:22.950611",
+  "first_prize_draws": [
+    1201
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

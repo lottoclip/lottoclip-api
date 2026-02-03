@@ -1,7 +1,7 @@
 {
   "store_id": "12740262",
   "name": "로또판매점",
-  "address": "대구 동구 해동로 16 ",
+  "address": "대구 동구  해동로 16 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,11 @@
   ],
   "latitude": 35.89678,
   "longitude": 128.637727,
-  "updated_at": "2026-01-12T11:56:04.749119"
+  "updated_at": "2026-02-03T18:22:19.984055",
+  "first_prize_draws": [
+    1114
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

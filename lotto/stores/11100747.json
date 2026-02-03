@@ -1,7 +1,7 @@
 {
   "store_id": "11100747",
   "name": "로또방",
-  "address": "서울 성동구 하왕십리동 946-43번지 훼미리마트내",
+  "address": "서울 성동구  왕십리로 363-1 CU 내",
   "phone": "02-2291-3535",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,16 @@
   ],
   "latitude": 37.564024,
   "longitude": 127.029438,
-  "updated_at": "2026-01-12T11:30:54.383941"
+  "updated_at": "2026-02-03T18:11:21.157326",
+  "first_prize_draws": [
+    698,
+    523
+  ],
+  "second_prize_draws": [
+    977,
+    803,
+    721
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 3
 }

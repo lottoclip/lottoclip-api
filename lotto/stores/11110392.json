@@ -1,7 +1,7 @@
 {
   "store_id": "11110392",
   "name": "오거리마트",
-  "address": "서울 은평구 응암로14길 6 ",
+  "address": "서울 은평구 응암로14길 6  ",
   "phone": "02-307-0115",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 37.590076,
   "longitude": 126.9179,
-  "updated_at": "2026-01-12T11:25:45.093008"
+  "updated_at": "2026-02-03T18:29:44.584592",
+  "first_prize_draws": [
+    614,
+    272
+  ],
+  "second_prize_draws": [
+    1206,
+    1160,
+    1093,
+    904,
+    662
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 5
 }

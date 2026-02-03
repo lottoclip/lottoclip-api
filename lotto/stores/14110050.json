@@ -1,7 +1,7 @@
 {
   "store_id": "14110050",
   "name": "대호상사",
-  "address": "경기 성남시 분당구 야탑동 355-1세화2001빌딩107",
+  "address": "경기 성남시 분당구 야탑동 355-1 GS25",
   "phone": "031-781-2526",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,23 @@
   ],
   "latitude": 37.411164,
   "longitude": 127.126807,
-  "updated_at": "2026-01-12T11:09:14.777421"
+  "updated_at": "2026-02-03T18:04:42.187316",
+  "first_prize_draws": [
+    340,
+    312
+  ],
+  "second_prize_draws": [
+    898,
+    739,
+    715,
+    696,
+    651,
+    585,
+    569,
+    516,
+    448,
+    269
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 10
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14940016",
   "name": "함덕대박복권판매점",
-  "address": "제주 제주시 함덕18길 19 ",
+  "address": "제주 제주시  함덕18길 19 ",
   "phone": "064-782-6111",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 33.539494,
   "longitude": 126.670362,
-  "updated_at": "2026-01-12T11:55:40.106492"
+  "updated_at": "2026-02-03T18:22:07.907055",
+  "first_prize_draws": [
+    1111
+  ],
+  "second_prize_draws": [
+    1019
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

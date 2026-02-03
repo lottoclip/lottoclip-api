@@ -1,7 +1,7 @@
 {
   "store_id": "12700324",
   "name": "복권명당",
-  "address": "대구 중구 태평로1가  19-1번지",
+  "address": "대구 중구 태평로1가 19-1번지 ",
   "phone": "053-252-6525",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,14 @@
   ],
   "latitude": 35.873936,
   "longitude": 128.599431,
-  "updated_at": "2026-01-12T11:28:15.069992"
+  "updated_at": "2026-02-03T17:48:39.983405",
+  "first_prize_draws": [
+    657
+  ],
+  "second_prize_draws": [
+    705,
+    624
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

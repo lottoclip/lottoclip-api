@@ -1,12 +1,26 @@
 {
   "store_id": "12800107",
   "name": "씨유 송도점",
-  "address": "인천 연수구 인권로 9 ",
+  "address": "인천 연수구  인권로 9 1층 CU",
   "phone": null,
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.418643,
   "longitude": 126.651442,
-  "updated_at": "2026-01-12T12:01:06.745410"
+  "updated_at": "2026-02-03T18:28:52.461952",
+  "first_prize_draws": [
+    1194,
+    851
+  ],
+  "second_prize_draws": [
+    832,
+    702,
+    653,
+    424,
+    330,
+    325
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 6
 }

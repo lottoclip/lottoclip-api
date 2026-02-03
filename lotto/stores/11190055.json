@@ -1,7 +1,7 @@
 {
   "store_id": "11190055",
   "name": "광장하이퍼",
-  "address": "서울 구로구 경인로53길 15 ",
+  "address": "서울 구로구  경인로53길 15 중앙유통단지C-05",
   "phone": "02-2684-0640",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 37.500893,
   "longitude": 126.874562,
-  "updated_at": "2026-01-12T11:49:44.042370"
+  "updated_at": "2026-02-03T18:15:10.317425",
+  "first_prize_draws": [
+    1023
+  ],
+  "second_prize_draws": [
+    992,
+    605
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

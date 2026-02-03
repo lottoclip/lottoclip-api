@@ -1,7 +1,7 @@
 {
   "store_id": "11141313",
   "name": "마카로또",
-  "address": "서울 서초구 서초대로 279 ",
+  "address": "서울 서초구  서초대로 279 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 37.49346,
   "longitude": 127.01218,
-  "updated_at": "2026-01-12T11:58:55.706062"
+  "updated_at": "2026-02-03T18:25:59.664782",
+  "first_prize_draws": [
+    1158,
+    1117
+  ],
+  "second_prize_draws": [
+    1117
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 1
 }

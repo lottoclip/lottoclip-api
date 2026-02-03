@@ -1,7 +1,7 @@
 {
   "store_id": "14500031",
   "name": "은혜복권방",
-  "address": "전북 전주시 완산구 당산로 52 ",
+  "address": "전북 전주시 완산구  당산로 52 ",
   "phone": "063-253-3363",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 35.832003,
   "longitude": 127.113861,
-  "updated_at": "2026-01-12T11:59:31.410682"
+  "updated_at": "2026-02-03T18:27:02.799879",
+  "first_prize_draws": [
+    1169
+  ],
+  "second_prize_draws": [
+    983,
+    873,
+    613,
+    497,
+    487,
+    306
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

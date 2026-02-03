@@ -1,7 +1,7 @@
 {
   "store_id": "11110219",
   "name": "복권365",
-  "address": "서울 광진구 뚝섬로23길 44 ",
+  "address": "서울 광진구  뚝섬로23길 44 ",
   "phone": "02-497-2232",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.537205,
   "longitude": 127.065775,
-  "updated_at": "2026-01-12T11:43:04.148902"
+  "updated_at": "2026-02-03T18:18:24.957951",
+  "first_prize_draws": [
+    910
+  ],
+  "second_prize_draws": [
+    1063,
+    726,
+    699,
+    663,
+    593,
+    412,
+    344
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

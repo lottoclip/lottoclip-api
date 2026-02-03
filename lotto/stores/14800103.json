@@ -1,0 +1,25 @@
+{
+  "store_id": "14800103",
+  "name": "현동로또판매점",
+  "address": "경남 창원시 마산합포구  현동6길 18 1층 103호",
+  "phone": "055-224-2490",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.145887,
+  "longitude": 128.555958,
+  "updated_at": "2026-02-03T18:22:33.186837",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1117,
+    942,
+    716,
+    688,
+    507,
+    499
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 6
+}

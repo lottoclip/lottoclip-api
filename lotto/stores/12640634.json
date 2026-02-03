@@ -1,7 +1,7 @@
 {
   "store_id": "12640634",
   "name": "대교복권판매점",
-  "address": "부산 영도구 절영로13번길 17 ",
+  "address": "부산 영도구  절영로13번길 17 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 35.092839,
   "longitude": 129.041098,
-  "updated_at": "2026-01-12T11:59:08.767081"
+  "updated_at": "2026-02-03T18:29:35.981521",
+  "first_prize_draws": [
+    1162
+  ],
+  "second_prize_draws": [
+    1204,
+    1157
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

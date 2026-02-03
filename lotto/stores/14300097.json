@@ -1,7 +1,7 @@
 {
   "store_id": "14300097",
   "name": "해적책대여점 복권방",
-  "address": "충북 청주시 서원구 대원로 28 ",
+  "address": "충북 청주시 서원구  대원로 28 ",
   "phone": "043-268-4578",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,26 @@
   ],
   "latitude": 36.639974,
   "longitude": 127.479354,
-  "updated_at": "2026-01-12T11:58:26.938807"
+  "updated_at": "2026-02-03T18:28:39.563853",
+  "first_prize_draws": [
+    1149,
+    992,
+    750,
+    680
+  ],
+  "second_prize_draws": [
+    1191,
+    1170,
+    1146,
+    1015,
+    1010,
+    939,
+    918,
+    862,
+    789,
+    424,
+    311
+  ],
+  "first_prize_count": 4,
+  "second_prize_count": 11
 }

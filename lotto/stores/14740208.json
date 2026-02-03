@@ -1,7 +1,7 @@
 {
   "store_id": "14740208",
   "name": "로또명당",
-  "address": "경북 의성군 중앙길 10-1 ",
+  "address": "경북 의성군  중앙길 10-1 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 36.34501,
   "longitude": 128.69894,
-  "updated_at": "2026-01-12T12:01:23.345325"
+  "updated_at": "2026-02-03T18:29:14.270963",
+  "first_prize_draws": [
+    1199
+  ],
+  "second_prize_draws": [
+    1146,
+    1008
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

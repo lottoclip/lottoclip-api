@@ -1,0 +1,28 @@
+{
+  "store_id": "14290052",
+  "name": "복권나라",
+  "address": "강원 평창군  청송로 101 ",
+  "phone": "033-336-5055",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.636794,
+  "longitude": 128.557645,
+  "updated_at": "2026-02-03T18:28:48.386176",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1193,
+    874,
+    865,
+    816,
+    798,
+    627,
+    618,
+    534,
+    344
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 9
+}

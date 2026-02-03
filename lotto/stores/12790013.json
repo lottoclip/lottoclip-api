@@ -1,7 +1,7 @@
 {
   "store_id": "12790013",
-  "name": "왕대박복권게임방",
-  "address": "대구 달서구 달서대로 713 ",
+  "name": "왕대박복권방",
+  "address": "대구 달서구  달서대로 713 ",
   "phone": "053-584-0645",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 35.862952,
   "longitude": 128.491142,
-  "updated_at": "2026-01-12T11:33:36.782421"
+  "updated_at": "2026-02-03T18:27:42.339652",
+  "first_prize_draws": [
+    744
+  ],
+  "second_prize_draws": [
+    1178,
+    1048,
+    962,
+    911,
+    784,
+    745
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

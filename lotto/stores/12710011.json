@@ -1,12 +1,22 @@
 {
   "store_id": "12710011",
   "name": "아진동대구역광장",
-  "address": "대구 동구 신암동  294번지",
+  "address": "대구 동구 신암동  294",
   "phone": null,
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 35.878962,
   "longitude": 128.628705,
-  "updated_at": "2026-01-12T11:08:14.083433"
+  "updated_at": "2026-02-03T17:31:48.633467",
+  "first_prize_draws": [
+    325
+  ],
+  "second_prize_draws": [
+    487,
+    443,
+    365
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

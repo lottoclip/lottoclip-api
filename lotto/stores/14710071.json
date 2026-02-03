@@ -1,7 +1,7 @@
 {
   "store_id": "14710071",
-  "name": "로또복권",
-  "address": "경북 구미시 송정동 459번지 ",
+  "name": "일등복권",
+  "address": "경북 구미시  신시로10길  80 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 36.11576,
   "longitude": 128.34741,
-  "updated_at": "2026-01-12T11:41:03.936328"
+  "updated_at": "2026-02-03T18:10:59.753374",
+  "first_prize_draws": [
+    881
+  ],
+  "second_prize_draws": [
+    972,
+    897,
+    466,
+    464,
+    327,
+    314,
+    271,
+    266
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

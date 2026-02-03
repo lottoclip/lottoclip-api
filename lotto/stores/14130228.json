@@ -1,7 +1,7 @@
 {
   "store_id": "14130228",
   "name": "경서로또",
-  "address": "경기 양평군 경강로 1039 ",
+  "address": "경기 양평군  경강로 1039 1층",
   "phone": "031-774-8219",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 37.512129,
   "longitude": 127.401662,
-  "updated_at": "2026-01-12T11:58:11.166302"
+  "updated_at": "2026-02-03T18:24:43.660136",
+  "first_prize_draws": [
+    1144
+  ],
+  "second_prize_draws": [
+    807
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

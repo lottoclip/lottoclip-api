@@ -1,7 +1,7 @@
 {
   "store_id": "11100504",
   "name": "길로또복권",
-  "address": "서울 강서구 등촌로 215 ",
+  "address": "서울 강서구  등촌로 215 ",
   "phone": "02-2652-7080",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.548991,
   "longitude": 126.863253,
-  "updated_at": "2026-01-12T11:56:54.810891"
+  "updated_at": "2026-02-03T18:23:21.698474",
+  "first_prize_draws": [
+    1125,
+    1100
+  ],
+  "second_prize_draws": [
+    1072,
+    970,
+    773,
+    720,
+    553,
+    503
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 6
 }

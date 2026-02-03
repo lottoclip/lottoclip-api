@@ -1,7 +1,7 @@
 {
   "store_id": "12740205",
   "name": "꿈하나",
-  "address": "대구 서구 팔달로 142 ",
+  "address": "대구 서구  팔달로 142 1층 복권방",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 35.889157,
   "longitude": 128.565829,
-  "updated_at": "2026-01-12T11:59:21.686356"
+  "updated_at": "2026-02-03T18:29:09.696424",
+  "first_prize_draws": [
+    1166,
+    1102
+  ],
+  "second_prize_draws": [
+    1198,
+    1069,
+    1034,
+    1030
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 4
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "13140066",
   "name": "인생로또",
-  "address": "울산 북구 천곡남로 33 ",
+  "address": "울산 북구  천곡남로 33 삼성코아루상가내",
   "phone": "052-288-3708",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 35.63205,
   "longitude": 129.33356,
-  "updated_at": "2026-01-12T11:50:06.171927"
+  "updated_at": "2026-02-03T18:28:25.454308",
+  "first_prize_draws": [
+    1030
+  ],
+  "second_prize_draws": [
+    1188,
+    1075
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

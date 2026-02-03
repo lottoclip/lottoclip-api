@@ -1,7 +1,7 @@
 {
   "store_id": "14100350",
-  "name": "두배로마트덕이점",
-  "address": "경기 고양시 일산동구 성현로 536 ",
+  "name": "두배로마트 원흥",
+  "address": "경기 고양시 덕양구  원흥1로 56 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 37.695117,
   "longitude": 126.840442,
-  "updated_at": "2026-01-12T11:17:32.701384"
+  "updated_at": "2026-02-03T18:20:28.904646",
+  "first_prize_draws": [
+    472
+  ],
+  "second_prize_draws": [
+    1088,
+    977,
+    551,
+    538,
+    493,
+    484,
+    352,
+    347
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

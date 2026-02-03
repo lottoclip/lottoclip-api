@@ -1,7 +1,7 @@
 {
   "store_id": "11100204",
   "name": "복권백화점",
-  "address": "서울 마포구 월드컵로 157 ",
+  "address": "서울 마포구  월드컵로 157 ",
   "phone": "02-3142-6478",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 37.561568,
   "longitude": 126.9047,
-  "updated_at": "2026-01-12T11:44:02.623077"
+  "updated_at": "2026-02-03T18:25:55.080433",
+  "first_prize_draws": [
+    924
+  ],
+  "second_prize_draws": [
+    1157,
+    1076,
+    1005,
+    854,
+    843,
+    810,
+    785,
+    689,
+    485,
+    362
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

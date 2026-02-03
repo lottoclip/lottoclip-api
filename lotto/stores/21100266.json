@@ -1,7 +1,7 @@
 {
   "store_id": "21100266",
-  "name": "CU(성북장위점)",
-  "address": "서울 성북구 장위동 33-19번지 ",
+  "name": "CU(정릉센터점)",
+  "address": "서울 성북구  정릉로38마길 29 101~104호 CU정릉센터점 내",
   "phone": "02-941-6690",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,20 @@
   ],
   "latitude": 37.601008,
   "longitude": 127.015793,
-  "updated_at": "2026-01-12T11:31:47.201075"
+  "updated_at": "2026-02-03T18:13:59.738108",
+  "first_prize_draws": [
+    715,
+    711
+  ],
+  "second_prize_draws": [
+    1010,
+    977,
+    922,
+    794,
+    752,
+    575,
+    500
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 7
 }

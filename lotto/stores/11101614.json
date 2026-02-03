@@ -1,7 +1,7 @@
 {
   "store_id": "11101614",
   "name": "뉴골드나라",
-  "address": "서울 광진구 광나루로 521 ",
+  "address": "서울 광진구  광나루로 521 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 37.545126,
   "longitude": 127.087443,
-  "updated_at": "2026-01-12T11:07:34.026875"
+  "updated_at": "2026-02-03T18:23:04.882440",
+  "first_prize_draws": [
+    312
+  ],
+  "second_prize_draws": [
+    1121,
+    949,
+    606,
+    501
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

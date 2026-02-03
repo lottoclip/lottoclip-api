@@ -1,7 +1,7 @@
 {
   "store_id": "11101390",
   "name": "신나라",
-  "address": "서울 영등포구 선유로 58 ",
+  "address": "서울 영등포구  선유로 58 ",
   "phone": "02-2679-8440",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 37.519068,
   "longitude": 126.889437,
-  "updated_at": "2026-01-12T11:44:18.286385"
+  "updated_at": "2026-02-03T18:25:55.193817",
+  "first_prize_draws": [
+    929
+  ],
+  "second_prize_draws": [
+    1157,
+    1133,
+    1124,
+    613
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

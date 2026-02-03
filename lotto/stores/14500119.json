@@ -1,7 +1,7 @@
 {
   "store_id": "14500119",
   "name": "팡팡복권방",
-  "address": "전북 익산시 인북로 99 ",
+  "address": "전북 익산시  인북로 99 ",
   "phone": "063-852-4118",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 35.93792,
   "longitude": 126.952636,
-  "updated_at": "2026-01-12T11:44:58.641538"
+  "updated_at": "2026-02-03T18:29:09.946758",
+  "first_prize_draws": [
+    942,
+    505
+  ],
+  "second_prize_draws": [
+    1198,
+    1172,
+    1147,
+    1068,
+    1057,
+    1048,
+    961,
+    829,
+    828,
+    538
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 10
 }

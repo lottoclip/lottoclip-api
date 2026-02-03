@@ -1,7 +1,7 @@
 {
   "store_id": "12640509",
   "name": "영웅시대",
-  "address": "부산 기장군 반룡로 182 ",
+  "address": "부산 기장군  반룡로 182 복권판매점",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,11 @@
   ],
   "latitude": 35.3395,
   "longitude": 129.2629,
-  "updated_at": "2026-01-12T11:58:49.364267"
+  "updated_at": "2026-02-03T18:25:50.842705",
+  "first_prize_draws": [
+    1156
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

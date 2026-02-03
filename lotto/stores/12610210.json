@@ -1,7 +1,7 @@
 {
   "store_id": "12610210",
   "name": "빅세일마트",
-  "address": "부산 중구 중앙동4가  81-19번지",
+  "address": "부산 중구 중앙동4가 81-19번지 ",
   "phone": "051-463-4432",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,14 @@
   ],
   "latitude": 35.107822,
   "longitude": 129.037525,
-  "updated_at": "2026-01-12T11:25:18.924014"
+  "updated_at": "2026-02-03T17:55:25.642280",
+  "first_prize_draws": [
+    606
+  ],
+  "second_prize_draws": [
+    780,
+    741
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

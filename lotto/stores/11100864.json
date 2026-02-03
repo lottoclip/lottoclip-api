@@ -1,7 +1,7 @@
 {
   "store_id": "11100864",
-  "name": "-",
-  "address": "서울 강남구 선릉로 519 ",
+  "name": "선릉가판점",
+  "address": "서울 강남구  선릉로 519 삼능빌딩 ",
   "phone": "02-557-3866",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.505876,
   "longitude": 127.048007,
-  "updated_at": "2026-01-12T11:10:12.348090"
+  "updated_at": "2026-02-03T18:18:50.983996",
+  "first_prize_draws": [
+    354
+  ],
+  "second_prize_draws": [
+    1069,
+    784,
+    667,
+    650,
+    547,
+    474,
+    415
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

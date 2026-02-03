@@ -1,7 +1,7 @@
 {
   "store_id": "12600050",
-  "name": "로티스트",
-  "address": "부산 북구 금곡대로 460 ",
+  "name": "1등 드림 편의점",
+  "address": "부산 북구  금곡대로 460 ",
   "phone": "051-365-7365",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 35.249463,
   "longitude": 129.013146,
-  "updated_at": "2026-01-12T11:24:37.568126"
+  "updated_at": "2026-02-03T18:24:09.370981",
+  "first_prize_draws": [
+    598
+  ],
+  "second_prize_draws": [
+    1136,
+    993,
+    939,
+    907,
+    892,
+    806,
+    787,
+    657
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

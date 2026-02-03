@@ -1,7 +1,7 @@
 {
   "store_id": "14310109",
   "name": "홈짱",
-  "address": "충북 청주시 흥덕구 가경동 1671번지 휴대폰매장내",
+  "address": "충북 청주시 흥덕구  서경로28번길 19 휴대폰매장내",
   "phone": "043-234-5654",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 36.617182,
   "longitude": 127.443379,
-  "updated_at": "2026-01-12T11:40:19.696607"
+  "updated_at": "2026-02-03T18:22:37.276184",
+  "first_prize_draws": [
+    867,
+    309
+  ],
+  "second_prize_draws": [
+    1118,
+    938,
+    784,
+    752,
+    708,
+    655,
+    635,
+    582,
+    449,
+    411
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 10
 }

@@ -1,0 +1,21 @@
+{
+  "store_id": "11140639",
+  "name": "로또판매점",
+  "address": "서울 양천구  남부순환로83길 17 100동 1층 155호",
+  "phone": "02-6097-5824",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.522688,
+  "longitude": 126.86431,
+  "updated_at": "2026-02-03T18:26:04.180025",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1159,
+    1095
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 2
+}

@@ -1,7 +1,7 @@
 {
   "store_id": "14110193",
   "name": "로또암반수베팅샵",
-  "address": "경기 남양주시 수레로 32 ",
+  "address": "경기 남양주시  수레로 32 ",
   "phone": "031-577-3983",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,26 @@
   ],
   "latitude": 37.587233,
   "longitude": 127.215673,
-  "updated_at": "2026-01-12T11:32:20.940559"
+  "updated_at": "2026-02-03T18:29:05.573818",
+  "first_prize_draws": [
+    725,
+    638,
+    602
+  ],
+  "second_prize_draws": [
+    1197,
+    1109,
+    1086,
+    1005,
+    976,
+    954,
+    903,
+    859,
+    823,
+    808,
+    750,
+    552
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 12
 }

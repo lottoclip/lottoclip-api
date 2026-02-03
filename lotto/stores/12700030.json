@@ -1,7 +1,7 @@
 {
   "store_id": "12700030",
   "name": "복권천국",
-  "address": "대구 중구 달구벌대로 2206 ",
+  "address": "대구 중구 달구벌대로 2206  ",
   "phone": "053-423-8497",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,25 @@
   ],
   "latitude": 35.862551,
   "longitude": 128.604388,
-  "updated_at": "2026-01-12T11:43:56.569770"
+  "updated_at": "2026-02-03T18:29:44.651408",
+  "first_prize_draws": [
+    922,
+    630,
+    416
+  ],
+  "second_prize_draws": [
+    1206,
+    1057,
+    990,
+    938,
+    903,
+    900,
+    846,
+    827,
+    649,
+    584,
+    449
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 11
 }

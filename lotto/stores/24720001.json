@@ -1,7 +1,7 @@
 {
   "store_id": "24720001",
   "name": "훼미리마트(포항중앙상가점)",
-  "address": "경북 포항시 북구 신흥동 신흥동 819-1",
+  "address": "경북 포항시 북구 신흥동 819-1",
   "phone": "054-247-3567",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,13 @@
   ],
   "latitude": 36.03948,
   "longitude": 129.365149,
-  "updated_at": "2026-01-12T11:09:11.673401"
+  "updated_at": "2026-02-03T17:26:55.837823",
+  "first_prize_draws": [
+    339
+  ],
+  "second_prize_draws": [
+    415
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

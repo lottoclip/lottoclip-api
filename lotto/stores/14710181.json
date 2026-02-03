@@ -1,7 +1,7 @@
 {
   "store_id": "14710181",
   "name": "로또복권",
-  "address": "대구 군위군 중앙길 32 ",
+  "address": "대구 군위군  중앙길 32 ",
   "phone": "054-383-5942",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 36.231489,
   "longitude": 128.567491,
-  "updated_at": "2026-01-12T12:01:44.853051"
+  "updated_at": "2026-02-03T18:29:22.911288",
+  "first_prize_draws": [
+    1201,
+    1154,
+    895,
+    606
+  ],
+  "second_prize_draws": [
+    1087,
+    1033,
+    956,
+    600,
+    559,
+    438,
+    436,
+    429,
+    288
+  ],
+  "first_prize_count": 4,
+  "second_prize_count": 9
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "11110528",
-  "name": "바이더웨이녹번중앙점",
-  "address": "서울 은평구 갈현로 88 ",
+  "name": "씨스페이스 역촌점",
+  "address": "서울 은평구  갈현로 88 1층 우측 두번째 점포",
   "phone": "02-351-9810",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.605751,
   "longitude": 126.910725,
-  "updated_at": "2026-01-12T11:38:26.297207"
+  "updated_at": "2026-02-03T18:28:48.000257",
+  "first_prize_draws": [
+    831,
+    474
+  ],
+  "second_prize_draws": [
+    1193,
+    1058,
+    956,
+    829,
+    630,
+    387
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 6
 }

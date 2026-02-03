@@ -1,7 +1,7 @@
 {
   "store_id": "14840174",
   "name": "대박로또방",
-  "address": "경남 양산시 삼호로 71 ",
+  "address": "경남 양산시 삼호로 71 1층 2호  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 35.40772,
   "longitude": 129.172176,
-  "updated_at": "2026-01-12T11:46:07.588031"
+  "updated_at": "2026-02-03T18:29:44.988691",
+  "first_prize_draws": [
+    964
+  ],
+  "second_prize_draws": [
+    1206,
+    984
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

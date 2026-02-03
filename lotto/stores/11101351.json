@@ -1,7 +1,7 @@
 {
   "store_id": "11101351",
   "name": "문구뱅크",
-  "address": "서울 은평구 서오릉로 71 ",
+  "address": "서울 은평구  서오릉로 71 영화마스타골프랜드 문구뱅크",
   "phone": "02-352-1396",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 37.606795,
   "longitude": 126.922092,
-  "updated_at": "2026-01-12T11:45:11.388245"
+  "updated_at": "2026-02-03T18:16:01.770933",
+  "first_prize_draws": [
+    946
+  ],
+  "second_prize_draws": [
+    1035,
+    1033,
+    914,
+    845,
+    362
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14110404",
   "name": "드림복권방",
-  "address": "경기 수원시 권선구 정조로 515 ",
+  "address": "경기 수원시 권선구  정조로 515 ",
   "phone": "031-232-3627",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 37.255268,
   "longitude": 127.011056,
-  "updated_at": "2026-01-12T12:01:48.059232"
+  "updated_at": "2026-02-03T18:29:26.941802",
+  "first_prize_draws": [
+    1202,
+    1064,
+    669
+  ],
+  "second_prize_draws": [
+    1131,
+    1061,
+    1019,
+    940,
+    899,
+    739,
+    720,
+    660,
+    305
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 9
 }

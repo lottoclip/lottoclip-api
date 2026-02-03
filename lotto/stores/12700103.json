@@ -1,7 +1,7 @@
 {
   "store_id": "12700103",
   "name": "복권명당",
-  "address": "대구 동구 효신로 16 ",
+  "address": "대구 동구  효신로 23 ",
   "phone": "053-744-4656",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 35.873599,
   "longitude": 128.634863,
-  "updated_at": "2026-01-12T11:19:24.501066"
+  "updated_at": "2026-02-03T18:27:42.361066",
+  "first_prize_draws": [
+    503
+  ],
+  "second_prize_draws": [
+    1178,
+    1036,
+    1005,
+    868,
+    776,
+    710,
+    610,
+    530,
+    519,
+    426
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

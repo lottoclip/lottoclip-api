@@ -1,7 +1,7 @@
 {
   "store_id": "12700066",
   "name": "복권세상",
-  "address": "대구 북구 칠곡중앙대로46길 32 ",
+  "address": "대구 북구  칠곡중앙대로46길 32 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 35.918866,
   "longitude": 128.550348,
-  "updated_at": "2026-01-12T11:35:20.318541"
+  "updated_at": "2026-02-03T18:18:29.376161",
+  "first_prize_draws": [
+    777
+  ],
+  "second_prize_draws": [
+    1064,
+    756,
+    742,
+    696,
+    571,
+    455
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "12740215",
   "name": "황금돼지",
-  "address": "대구 수성구 용학로35길 3 ",
+  "address": "대구 수성구  용학로35길 3 (지산동)",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 35.822671,
   "longitude": 128.628388,
-  "updated_at": "2026-01-12T11:59:34.494424"
+  "updated_at": "2026-02-03T18:29:26.743744",
+  "first_prize_draws": [
+    1170
+  ],
+  "second_prize_draws": [
+    1202,
+    1157,
+    1126,
+    1085
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

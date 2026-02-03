@@ -1,0 +1,27 @@
+{
+  "store_id": "14890010",
+  "name": "행운복권방",
+  "address": "경남 김해시  가락로 35 앞 복권판매점",
+  "phone": "055-325-3511",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.229757,
+  "longitude": 128.882096,
+  "updated_at": "2026-02-03T18:26:32.971649",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1162,
+    1075,
+    1064,
+    997,
+    915,
+    872,
+    696,
+    430
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 8
+}

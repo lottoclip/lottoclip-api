@@ -1,7 +1,7 @@
 {
   "store_id": "14700144",
-  "name": "엔조이로또",
-  "address": "경북 포항시 남구 문덕로 3 ",
+  "name": "대박수호통신",
+  "address": "경북 포항시 남구  문덕로 3 1층  폰공장  내",
   "phone": "054-292-7165",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 35.962306,
   "longitude": 129.403308,
-  "updated_at": "2026-01-12T11:18:16.124256"
+  "updated_at": "2026-02-03T18:22:03.482384",
+  "first_prize_draws": [
+    486
+  ],
+  "second_prize_draws": [
+    1110,
+    886,
+    679
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

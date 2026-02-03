@@ -1,7 +1,7 @@
 {
   "store_id": "24200022",
   "name": "CU(동해발한점)",
-  "address": "강원 동해시 발한동 39-14번지 ",
+  "address": "강원 동해시  발한로 207-1 ",
   "phone": "033-535-6954",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 37.548192,
   "longitude": 129.108564,
-  "updated_at": "2026-01-12T11:40:13.318554"
+  "updated_at": "2026-02-03T18:12:29.905646",
+  "first_prize_draws": [
+    865,
+    388
+  ],
+  "second_prize_draws": [
+    989,
+    935,
+    928,
+    923,
+    868,
+    755,
+    658,
+    391,
+    328,
+    313,
+    280
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 11
 }

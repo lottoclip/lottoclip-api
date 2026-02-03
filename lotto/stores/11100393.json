@@ -1,7 +1,7 @@
 {
   "store_id": "11100393",
   "name": "영일식품",
-  "address": "서울 영등포구 당산로32길 10 ",
+  "address": "서울 영등포구  당산로32길 10 ",
   "phone": "02-2675-3420",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 37.526226,
   "longitude": 126.897795,
-  "updated_at": "2026-01-12T11:44:43.100362"
+  "updated_at": "2026-02-03T18:23:09.076579",
+  "first_prize_draws": [
+    937,
+    772
+  ],
+  "second_prize_draws": [
+    1122,
+    329
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 2
 }

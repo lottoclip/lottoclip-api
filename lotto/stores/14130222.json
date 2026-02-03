@@ -1,7 +1,7 @@
 {
   "store_id": "14130222",
   "name": "로또",
-  "address": "경기 포천시 죽엽산로196번길 4 ",
+  "address": "경기 포천시 죽엽산로196번길 4  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 37.814645,
   "longitude": 127.160436,
-  "updated_at": "2026-01-12T11:59:34.563158"
+  "updated_at": "2026-02-03T18:29:49.041688",
+  "first_prize_draws": [
+    1170,
+    1036,
+    961,
+    949,
+    715
+  ],
+  "second_prize_draws": [
+    1207,
+    1166,
+    1155,
+    1074,
+    1072,
+    1030,
+    1007,
+    959
+  ],
+  "first_prize_count": 5,
+  "second_prize_count": 8
 }

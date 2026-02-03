@@ -1,7 +1,7 @@
 {
   "store_id": "13190002",
   "name": "복권방",
-  "address": "울산 동구 전하동 300-14번지 ",
+  "address": "울산 동구  바드래2길 1 ",
   "phone": "052-252-3221",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 35.517491,
   "longitude": 129.431674,
-  "updated_at": "2026-01-12T11:35:11.127550"
+  "updated_at": "2026-02-03T18:17:19.887259",
+  "first_prize_draws": [
+    774
+  ],
+  "second_prize_draws": [
+    1049,
+    947,
+    693,
+    518
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

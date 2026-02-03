@@ -1,12 +1,18 @@
 {
   "store_id": "12740053",
   "name": "로또 명당",
-  "address": "대구 동구 동촌로48길 8 ",
+  "address": "대구 동구  화랑로75길 69 ",
   "phone": "053-351-4560",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 35.880945,
   "longitude": 128.665458,
-  "updated_at": "2026-01-12T11:50:28.077366"
+  "updated_at": "2026-02-03T18:16:10.429831",
+  "first_prize_draws": [
+    1037
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

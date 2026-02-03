@@ -1,0 +1,24 @@
+{
+  "store_id": "14130105",
+  "name": "복권판매점",
+  "address": "경기 남양주시  마석로 112 103호 441-1외2필지",
+  "phone": "031-577-7778",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.660364,
+  "longitude": 127.303628,
+  "updated_at": "2026-02-03T18:27:29.476887",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1175,
+    994,
+    840,
+    787,
+    737
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 5
+}

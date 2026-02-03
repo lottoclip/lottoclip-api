@@ -1,7 +1,7 @@
 {
   "store_id": "12610045",
   "name": "왕대박로또방",
-  "address": "부산 해운대구 좌동  998-7 1층",
+  "address": "부산 해운대구 좌동 998-7번지 1층 미니스톱내",
   "phone": "051-703-4334",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,18 @@
   ],
   "latitude": 35.160866,
   "longitude": 129.155454,
-  "updated_at": "2026-01-12T11:15:04.703919"
+  "updated_at": "2026-02-03T17:47:07.608094",
+  "first_prize_draws": [
+    434,
+    263
+  ],
+  "second_prize_draws": [
+    688,
+    659,
+    482,
+    445,
+    272
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 5
 }

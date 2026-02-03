@@ -1,7 +1,7 @@
 {
   "store_id": "11141637",
   "name": "구일 로또 전자담배",
-  "address": "서울 구로구 구일로8길 63 ",
+  "address": "서울 구로구  구일로8길 63 한신상가 102호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 37.496111,
   "longitude": 126.87414,
-  "updated_at": "2026-01-12T12:00:32.175750"
+  "updated_at": "2026-02-03T18:29:05.356154",
+  "first_prize_draws": [
+    1188
+  ],
+  "second_prize_draws": [
+    1197
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

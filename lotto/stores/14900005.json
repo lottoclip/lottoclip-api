@@ -1,7 +1,7 @@
 {
   "store_id": "14900005",
   "name": "돌하르방복권",
-  "address": "제주 서귀포시 태평로353번길 9 ",
+  "address": "제주 서귀포시  태평로353번길 9 ",
   "phone": "064-762-5735",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 33.246986,
   "longitude": 126.56006,
-  "updated_at": "2026-01-12T11:53:05.797656"
+  "updated_at": "2026-02-03T18:29:05.831293",
+  "first_prize_draws": [
+    1072,
+    511
+  ],
+  "second_prize_draws": [
+    1197,
+    1160,
+    1149,
+    855,
+    846,
+    686,
+    682,
+    527,
+    397
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 9
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14640117",
   "name": "행운복권",
-  "address": "전남 무안군 영산로 1693 ",
+  "address": "전남 무안군  영산로 1693 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 34.90968,
   "longitude": 126.42971,
-  "updated_at": "2026-01-12T11:58:49.449764"
+  "updated_at": "2026-02-03T18:26:58.387548",
+  "first_prize_draws": [
+    1156,
+    1149
+  ],
+  "second_prize_draws": [
+    1168,
+    1115,
+    1040,
+    1002
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 4
 }

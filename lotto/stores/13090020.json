@@ -1,7 +1,7 @@
 {
   "store_id": "13090020",
   "name": "큰마을복권방",
-  "address": "대전 서구 만년로67번길 36 ",
+  "address": "대전 서구 갈마동  1419번지",
   "phone": "042-484-8752",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 36.369309,
   "longitude": 127.380568,
-  "updated_at": "2026-01-12T11:10:24.467794"
+  "updated_at": "2026-02-03T17:44:19.842274",
+  "first_prize_draws": [
+    358
+  ],
+  "second_prize_draws": [
+    651,
+    629
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

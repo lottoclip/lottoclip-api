@@ -1,7 +1,7 @@
 {
   "store_id": "11190236",
   "name": "부자랑복권방",
-  "address": "서울 중랑구 면목동  167-28",
+  "address": "서울 중랑구  사가정로 359 ",
   "phone": "02-494-3432",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 37.581255,
   "longitude": 127.084504,
-  "updated_at": "2026-01-12T11:13:28.459934"
+  "updated_at": "2026-02-03T18:20:24.541455",
+  "first_prize_draws": [
+    408
+  ],
+  "second_prize_draws": [
+    1087,
+    1085,
+    610,
+    564
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

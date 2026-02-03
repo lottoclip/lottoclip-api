@@ -1,7 +1,7 @@
 {
   "store_id": "11140669",
   "name": "해바라기 복권방",
-  "address": "서울 영등포구 대림로 170 ",
+  "address": "서울 영등포구  대림로 170 101호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 37.496139,
   "longitude": 126.899622,
-  "updated_at": "2026-01-12T11:58:36.590948"
+  "updated_at": "2026-02-03T18:28:21.083586",
+  "first_prize_draws": [
+    1152
+  ],
+  "second_prize_draws": [
+    1187,
+    1183,
+    1182,
+    1111
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

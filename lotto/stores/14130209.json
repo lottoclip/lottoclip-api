@@ -1,7 +1,7 @@
 {
   "store_id": "14130209",
-  "name": "황금도끼복권방",
-  "address": "경기 광주시 능평로 214 ",
+  "name": "두꺼비복권방",
+  "address": "경기 광주시  능평로 214 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 37.345232,
   "longitude": 127.177251,
-  "updated_at": "2026-01-12T11:38:32.878374"
+  "updated_at": "2026-02-03T18:28:25.483489",
+  "first_prize_draws": [
+    833,
+    818
+  ],
+  "second_prize_draws": [
+    1188,
+    1169,
+    1166,
+    1157,
+    1065,
+    1036,
+    899,
+    847,
+    816
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 9
 }

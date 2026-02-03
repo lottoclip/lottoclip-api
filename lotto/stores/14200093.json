@@ -1,7 +1,7 @@
 {
   "store_id": "14200093",
   "name": "세븐일레븐삼척삼원점",
-  "address": "강원 삼척시 중앙로 185 ",
+  "address": "강원 삼척시  중앙로 185 세븐일레븐삼척삼원점",
   "phone": "033-572-6161",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 37.440215,
   "longitude": 129.167512,
-  "updated_at": "2026-01-12T11:40:35.299895"
+  "updated_at": "2026-02-03T18:26:23.953188",
+  "first_prize_draws": [
+    872,
+    757,
+    494
+  ],
+  "second_prize_draws": [
+    1160,
+    1120,
+    1027,
+    1018,
+    1002,
+    897,
+    889,
+    426
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 8
 }

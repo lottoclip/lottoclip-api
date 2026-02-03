@@ -1,7 +1,7 @@
 {
   "store_id": "14100298",
   "name": "돼지네슈퍼",
-  "address": "경기 부천시 소사구 소사본동 233-30",
+  "address": "경기 부천시 소사구 소사본동 231-4번지 ",
   "phone": "032-347-5889",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,20 @@
   ],
   "latitude": 37.4707,
   "longitude": 126.795613,
-  "updated_at": "2026-01-12T11:17:51.627359"
+  "updated_at": "2026-02-03T17:46:28.945175",
+  "first_prize_draws": [
+    478
+  ],
+  "second_prize_draws": [
+    680,
+    650,
+    582,
+    490,
+    486,
+    335,
+    306,
+    291
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14290044",
-  "name": "복권나라",
-  "address": "강원 정선군 정선로 1333-1 ",
+  "name": "신운복권",
+  "address": "강원 정선군  정선로 1333-1 복권방",
   "phone": "033-562-5085",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.379654,
   "longitude": 128.662132,
-  "updated_at": "2026-01-12T11:32:36.850236"
+  "updated_at": "2026-02-03T18:21:12.067263",
+  "first_prize_draws": [
+    730,
+    642
+  ],
+  "second_prize_draws": [
+    1098,
+    1072,
+    1048,
+    792,
+    546,
+    348
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 6
 }

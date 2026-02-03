@@ -1,7 +1,7 @@
 {
   "store_id": "14290037",
   "name": "복권전당",
-  "address": "강원 속초시 조양동 1410-30 1층",
+  "address": "강원 속초시  동해대로 4007 1층",
   "phone": "033-638-3325",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 38.189826,
   "longitude": 128.596589,
-  "updated_at": "2026-01-12T11:42:23.842623"
+  "updated_at": "2026-02-03T18:13:38.567980",
+  "first_prize_draws": [
+    897
+  ],
+  "second_prize_draws": [
+    1005,
+    943,
+    876,
+    859,
+    781,
+    712,
+    426,
+    363,
+    270
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 9
 }

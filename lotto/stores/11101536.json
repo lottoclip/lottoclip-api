@@ -1,7 +1,7 @@
 {
   "store_id": "11101536",
   "name": "대박찬스",
-  "address": "서울 중랑구 면목로74길 40 ",
+  "address": "서울 중랑구  면목로74길 40 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 37.589378,
   "longitude": 127.089783,
-  "updated_at": "2026-01-12T11:05:29.364449"
+  "updated_at": "2026-02-03T18:27:50.944191",
+  "first_prize_draws": [
+    276
+  ],
+  "second_prize_draws": [
+    1180,
+    1059,
+    1035,
+    1021,
+    766,
+    550,
+    321,
+    291,
+    276
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 9
 }

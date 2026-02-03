@@ -1,7 +1,7 @@
 {
   "store_id": "14190042",
-  "name": "위드미",
-  "address": "경기 고양시 일산동구 견달산로 249 ",
+  "name": "이마트24 일산식사점",
+  "address": "경기 고양시 일산동구  견달산로 249 ",
   "phone": "031-968-8510",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 37.688163,
   "longitude": 126.819444,
-  "updated_at": "2026-01-12T11:33:55.926833"
+  "updated_at": "2026-02-03T18:29:05.543703",
+  "first_prize_draws": [
+    750
+  ],
+  "second_prize_draws": [
+    1197,
+    1059,
+    1055,
+    980,
+    951,
+    856,
+    634,
+    450,
+    271
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 9
 }

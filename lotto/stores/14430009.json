@@ -1,7 +1,7 @@
 {
   "store_id": "14430009",
   "name": "대박로또",
-  "address": "충남 천안시 서북구 성환2로 45 ",
+  "address": "충남 천안시 서북구  성환2로 45 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 36.911733,
   "longitude": 127.130163,
-  "updated_at": "2026-01-12T11:58:59.069641"
+  "updated_at": "2026-02-03T18:26:04.775698",
+  "first_prize_draws": [
+    1159,
+    1148,
+    790
+  ],
+  "second_prize_draws": [
+    968,
+    885,
+    840,
+    830
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 4
 }

@@ -1,0 +1,30 @@
+{
+  "store_id": "13100023",
+  "name": "복권백화점",
+  "address": "울산 남구  어은로 12 1층",
+  "phone": "052-223-6771",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.550279,
+  "longitude": 129.273659,
+  "updated_at": "2026-02-03T18:25:59.878591",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1158,
+    966,
+    944,
+    935,
+    923,
+    920,
+    795,
+    553,
+    480,
+    464,
+    322
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 11
+}

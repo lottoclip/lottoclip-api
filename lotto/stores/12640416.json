@@ -1,7 +1,7 @@
 {
   "store_id": "12640416",
   "name": "천하제일명당",
-  "address": "부산 부산진구 골드테마길 42 ",
+  "address": "부산 부산진구  골드테마길 42 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 35.143644,
   "longitude": 129.060151,
-  "updated_at": "2026-01-12T12:00:22.587320"
+  "updated_at": "2026-02-03T18:28:16.732373",
+  "first_prize_draws": [
+    1185
+  ],
+  "second_prize_draws": [
+    1186,
+    1137,
+    1107,
+    1090,
+    1083,
+    1061
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

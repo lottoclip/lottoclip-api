@@ -1,7 +1,7 @@
 {
   "store_id": "14490001",
   "name": "시민슈퍼",
-  "address": "충남 서산시 문화로 51 ",
+  "address": "충남 서산시  문화로 51 ",
   "phone": "041-681-5979",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 36.78567,
   "longitude": 126.44793,
-  "updated_at": "2026-01-12T11:52:56.228135"
+  "updated_at": "2026-02-03T18:29:01.441199",
+  "first_prize_draws": [
+    1069
+  ],
+  "second_prize_draws": [
+    1196,
+    1024,
+    945,
+    849,
+    791,
+    644,
+    491,
+    378
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

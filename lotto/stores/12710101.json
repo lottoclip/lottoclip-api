@@ -1,7 +1,7 @@
 {
   "store_id": "12710101",
   "name": "로또복권",
-  "address": "대구 북구 연암로22길 1 ",
+  "address": "대구 북구 구암동 765-2 ",
   "phone": "053-326-7491",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 35.943748,
   "longitude": 128.56425,
-  "updated_at": "2026-01-12T11:39:10.620469"
+  "updated_at": "2026-02-03T18:00:35.938046",
+  "first_prize_draws": [
+    845,
+    435
+  ],
+  "second_prize_draws": [
+    687,
+    684,
+    679,
+    356
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 4
 }

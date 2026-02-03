@@ -1,7 +1,7 @@
 {
   "store_id": "14500112",
   "name": "로또팡팡 토토팡팡",
-  "address": "전북 군산시 지곡로 30 ",
+  "address": "전북 군산시  지곡로 30 ",
   "phone": "063-465-3639",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 35.956727,
   "longitude": 126.710608,
-  "updated_at": "2026-01-12T11:38:45.439630"
+  "updated_at": "2026-02-03T18:29:09.939562",
+  "first_prize_draws": [
+    837
+  ],
+  "second_prize_draws": [
+    1198,
+    1186,
+    1171,
+    1060,
+    1038,
+    996,
+    968,
+    904,
+    856,
+    811,
+    510,
+    444
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 12
 }

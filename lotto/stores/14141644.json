@@ -1,7 +1,7 @@
 {
   "store_id": "14141644",
   "name": "스피드세븐",
-  "address": "경기 화성시 한절이길 15 ",
+  "address": "경기 화성시  한절이길 15 101호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 37.11733,
   "longitude": 126.915742,
-  "updated_at": "2026-01-12T11:57:39.917944"
+  "updated_at": "2026-02-03T18:24:22.209407",
+  "first_prize_draws": [
+    1139,
+    1030
+  ],
+  "second_prize_draws": [
+    1096
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 1
 }

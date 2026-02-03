@@ -1,7 +1,7 @@
 {
   "store_id": "12700100",
   "name": "복권명당",
-  "address": "대구 북구 산격동  845",
+  "address": "대구 북구 산격동 845번지 ",
   "phone": "053-942-6200",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,14 @@
   ],
   "latitude": 35.893982,
   "longitude": 128.594686,
-  "updated_at": "2026-01-12T11:09:48.050659"
+  "updated_at": "2026-02-03T17:57:29.826981",
+  "first_prize_draws": [
+    346
+  ],
+  "second_prize_draws": [
+    808,
+    429
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

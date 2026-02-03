@@ -1,7 +1,7 @@
 {
   "store_id": "14141503",
   "name": "세븐일레븐용인남사점",
-  "address": "경기 용인시 처인구 어진로 571 ",
+  "address": "경기 용인시 처인구 어진로 571  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 37.10813,
   "longitude": 127.1711,
-  "updated_at": "2026-01-12T11:51:12.402696"
+  "updated_at": "2026-02-03T18:29:53.271123",
+  "first_prize_draws": [
+    1046
+  ],
+  "second_prize_draws": [
+    1208,
+    1182,
+    1137,
+    1076
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

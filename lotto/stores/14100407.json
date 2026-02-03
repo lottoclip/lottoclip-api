@@ -1,7 +1,7 @@
 {
   "store_id": "14100407",
   "name": "행복미니슈퍼",
-  "address": "경기 부천시 부일로 409 ",
+  "address": "경기 부천시  부일로 409 ",
   "phone": "032-654-6510",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 37.487118,
   "longitude": 126.77558,
-  "updated_at": "2026-01-12T11:51:09.253623"
+  "updated_at": "2026-02-03T18:24:09.487088",
+  "first_prize_draws": [
+    1045,
+    899,
+    839,
+    804,
+    475
+  ],
+  "second_prize_draws": [
+    1136,
+    1098,
+    962,
+    953,
+    813,
+    802,
+    629,
+    458
+  ],
+  "first_prize_count": 5,
+  "second_prize_count": 8
 }

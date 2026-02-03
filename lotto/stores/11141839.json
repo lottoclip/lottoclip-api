@@ -1,7 +1,7 @@
 {
   "store_id": "11141839",
   "name": "오거리복권방",
-  "address": "서울 용산구 소월로20길 12 ",
+  "address": "서울 용산구  소월로20길 12 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,11 @@
   ],
   "latitude": 37.545995,
   "longitude": 126.985242,
-  "updated_at": "2026-01-12T12:00:48.559602"
+  "updated_at": "2026-02-03T18:28:47.989616",
+  "first_prize_draws": [
+    1193
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

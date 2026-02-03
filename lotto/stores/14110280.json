@@ -1,7 +1,7 @@
 {
   "store_id": "14110280",
   "name": "샘내 편의점",
-  "address": "경기 양주시 평화로 1279 ",
+  "address": "경기 양주시  평화로 1279 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 37.805495,
   "longitude": 127.045365,
-  "updated_at": "2026-01-12T11:43:01.163078"
+  "updated_at": "2026-02-03T18:28:08.082047",
+  "first_prize_draws": [
+    909
+  ],
+  "second_prize_draws": [
+    1184,
+    1071,
+    881,
+    863,
+    844,
+    837
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

@@ -1,12 +1,27 @@
 {
   "store_id": "11101337",
   "name": "투데이",
-  "address": "서울 동대문구 천호대로 67 ",
+  "address": "서울 동대문구  천호대로 67 1층",
   "phone": "02-923-5450",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.574117,
   "longitude": 127.031013,
-  "updated_at": "2026-01-12T11:48:22.560394"
+  "updated_at": "2026-02-03T18:22:11.610869",
+  "first_prize_draws": [
+    1002,
+    986
+  ],
+  "second_prize_draws": [
+    1112,
+    1041,
+    893,
+    720,
+    640,
+    564,
+    347
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 7
 }

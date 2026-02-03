@@ -1,7 +1,7 @@
 {
   "store_id": "14140900",
   "name": "조은하루",
-  "address": "경기 용인시 처인구 낙은로 22 ",
+  "address": "경기 용인시 처인구  낙은로 22 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 37.23934,
   "longitude": 127.19856,
-  "updated_at": "2026-01-12T12:00:48.621161"
+  "updated_at": "2026-02-03T18:28:48.333930",
+  "first_prize_draws": [
+    1193
+  ],
+  "second_prize_draws": [
+    1120,
+    1055
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "11100999",
   "name": "승지GALLANT",
-  "address": "서울 서초구 신반포로 194 ",
+  "address": "서울 서초구  신반포로 194 경부고속터미널제2매표소앞 쇼케이스16 코너3",
   "phone": "02-592-9796",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 37.505509,
   "longitude": 127.007038,
-  "updated_at": "2026-01-12T11:26:23.946568"
+  "updated_at": "2026-02-03T18:29:26.670158",
+  "first_prize_draws": [
+    626
+  ],
+  "second_prize_draws": [
+    1202,
+    1175,
+    1086,
+    1046,
+    927,
+    868,
+    805,
+    639,
+    339
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 9
 }

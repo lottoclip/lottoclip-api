@@ -1,7 +1,7 @@
 {
   "store_id": "12890042",
   "name": "삼성포토랜드",
-  "address": "인천 강화군 북문길 6 ",
+  "address": "인천 강화군  북문길 6 ",
   "phone": "032-933-3990",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 37.748339,
   "longitude": 126.484018,
-  "updated_at": "2026-01-12T11:59:47.227441"
+  "updated_at": "2026-02-03T18:27:24.853020",
+  "first_prize_draws": [
+    1174,
+    1162,
+    953,
+    377
+  ],
+  "second_prize_draws": [
+    931,
+    859,
+    748,
+    695,
+    641,
+    492
+  ],
+  "first_prize_count": 4,
+  "second_prize_count": 6
 }

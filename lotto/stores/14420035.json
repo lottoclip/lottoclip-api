@@ -1,7 +1,7 @@
 {
   "store_id": "14420035",
   "name": "로또천안성남점",
-  "address": "충남 천안시 동남구 신사대화로 148 ",
+  "address": "충남 천안시 동남구 성남면 신사리 332-1번지 ",
   "phone": "041-566-5325",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 36.742165,
   "longitude": 127.23655,
-  "updated_at": "2026-01-12T11:30:48.268714"
+  "updated_at": "2026-02-03T17:47:42.860629",
+  "first_prize_draws": [
+    696
+  ],
+  "second_prize_draws": [
+    673
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "13110004",
   "name": "에스에프마트",
-  "address": "울산 북구 동대17길 2 ",
+  "address": "울산 북구  동대17길 2 ",
   "phone": "052-295-8946",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,27 @@
   ],
   "latitude": 35.630304,
   "longitude": 129.351601,
-  "updated_at": "2026-01-12T11:05:20.318868"
+  "updated_at": "2026-02-03T18:28:43.675577",
+  "first_prize_draws": [
+    273
+  ],
+  "second_prize_draws": [
+    1192,
+    1172,
+    1133,
+    1073,
+    1057,
+    980,
+    949,
+    926,
+    912,
+    898,
+    838,
+    771,
+    654,
+    571,
+    489
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 15
 }

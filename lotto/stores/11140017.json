@@ -1,6 +1,6 @@
 {
   "store_id": "11140017",
-  "name": "CU 은평어드밴스힐점",
+  "name": "명당복권",
   "address": "서울 은평구 진관동 100-4 상가동1층 117118호 CU어드밴스힐점",
   "phone": "02-302-3416",
   "lottery_types": [
@@ -10,5 +10,14 @@
   ],
   "latitude": 37.633564,
   "longitude": 126.91864,
-  "updated_at": "2026-01-12T11:40:41.753717"
+  "updated_at": "2026-02-03T18:06:09.782289",
+  "first_prize_draws": [
+    874
+  ],
+  "second_prize_draws": [
+    914,
+    849
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

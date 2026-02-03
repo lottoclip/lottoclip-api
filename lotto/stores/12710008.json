@@ -1,12 +1,22 @@
 {
   "store_id": "12710008",
   "name": "복권명당",
-  "address": "대구 동구 신암동  134-177",
+  "address": "대구 동구 신암동  134-177번지",
   "phone": "053-952-8544",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 35.870842,
   "longitude": 128.724601,
-  "updated_at": "2026-01-12T11:17:07.889814"
+  "updated_at": "2026-02-03T17:41:28.793128",
+  "first_prize_draws": [
+    464
+  ],
+  "second_prize_draws": [
+    616,
+    570,
+    522
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

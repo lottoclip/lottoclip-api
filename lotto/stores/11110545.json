@@ -1,0 +1,20 @@
+{
+  "store_id": "11110545",
+  "name": "로또복권판매점",
+  "address": "서울 강동구 천호동 447-3번지 ",
+  "phone": "02-470-6617",
+  "lottery_types": [
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 37.536122,
+  "longitude": 127.134376,
+  "updated_at": "2026-02-03T17:51:56.171586",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    739,
+    289
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 2
+}

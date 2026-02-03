@@ -1,7 +1,7 @@
 {
   "store_id": "14800028",
-  "name": "새롬",
-  "address": "경남 창원시 마산합포구 수산1길 181 ",
+  "name": "새롬(GS25마산새롬점)",
+  "address": "경남 창원시 마산합포구  수산1길 181 새롬미리내상가113호",
   "phone": "055-223-5435",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 35.202973,
   "longitude": 128.579854,
-  "updated_at": "2026-01-12T11:17:39.125947"
+  "updated_at": "2026-02-03T18:26:00.235275",
+  "first_prize_draws": [
+    474
+  ],
+  "second_prize_draws": [
+    1158,
+    1068,
+    976,
+    935,
+    865,
+    611,
+    516,
+    483,
+    334
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 9
 }

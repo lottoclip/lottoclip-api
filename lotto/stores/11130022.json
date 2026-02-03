@@ -1,7 +1,7 @@
 {
   "store_id": "11130022",
   "name": "로또 光복권",
-  "address": "서울 구로구 개봉로23가길 37 ",
+  "address": "서울 구로구 개봉로23가길 37  ",
   "phone": "02-6326-7979",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 37.495298,
   "longitude": 126.858466,
-  "updated_at": "2026-01-12T11:51:18.618247"
+  "updated_at": "2026-02-03T18:29:48.752460",
+  "first_prize_draws": [
+    1048,
+    1024
+  ],
+  "second_prize_draws": [
+    1207,
+    1182,
+    1142,
+    1079,
+    1021,
+    1009,
+    959,
+    908,
+    902,
+    814
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 10
 }

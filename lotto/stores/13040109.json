@@ -1,7 +1,7 @@
 {
   "store_id": "13040109",
   "name": "진 복권판매점",
-  "address": "대전 서구 계백로1286번길 32 ",
+  "address": "대전 서구  계백로1286번길 32 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,11 @@
   ],
   "latitude": 36.306578,
   "longitude": 127.366165,
-  "updated_at": "2026-01-12T11:56:01.275311"
+  "updated_at": "2026-02-03T18:22:15.906523",
+  "first_prize_draws": [
+    1113
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

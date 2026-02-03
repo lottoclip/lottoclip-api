@@ -1,12 +1,26 @@
 {
   "store_id": "11101330",
   "name": "GS25궁동상지점",
-  "address": "서울 구로구 부일로15길 29 ",
+  "address": "서울 구로구  부일로15길 29 ",
   "phone": "02-2686-1601",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.494145,
   "longitude": 126.833045,
-  "updated_at": "2026-01-12T11:49:53.477516"
+  "updated_at": "2026-02-03T18:25:19.671170",
+  "first_prize_draws": [
+    1026,
+    469
+  ],
+  "second_prize_draws": [
+    1149,
+    1013,
+    887,
+    558,
+    520,
+    424
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 6
 }

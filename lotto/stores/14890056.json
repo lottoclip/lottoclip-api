@@ -1,7 +1,7 @@
 {
   "store_id": "14890056",
   "name": "영화복권",
-  "address": "경남 창원시 진해구 안청남로 14 ",
+  "address": "경남 창원시 진해구  안청남로 14 ",
   "phone": "055-552-5589",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 35.101071,
   "longitude": 128.804502,
-  "updated_at": "2026-01-12T12:01:44.900017"
+  "updated_at": "2026-02-03T18:29:22.965986",
+  "first_prize_draws": [
+    1201,
+    954,
+    727
+  ],
+  "second_prize_draws": [
+    1148,
+    1111,
+    1025,
+    997,
+    977,
+    826,
+    744,
+    659,
+    355
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 9
 }

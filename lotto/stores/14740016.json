@@ -1,7 +1,7 @@
 {
   "store_id": "14740016",
   "name": "로또월드",
-  "address": "경북 성주군 성주순환로 113 ",
+  "address": "경북 성주군  성주순환로 113 1층 창민전기",
   "phone": "054-933-9149",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 35.926237,
   "longitude": 128.281492,
-  "updated_at": "2026-01-12T11:48:29.016501"
+  "updated_at": "2026-02-03T18:29:32.030745",
+  "first_prize_draws": [
+    1004
+  ],
+  "second_prize_draws": [
+    1203,
+    1038
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

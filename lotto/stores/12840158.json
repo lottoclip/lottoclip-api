@@ -1,7 +1,7 @@
 {
   "store_id": "12840158",
   "name": "행운미니슈퍼",
-  "address": "인천 부평구 수변로 64 ",
+  "address": "인천 부평구  수변로 64 1층 102호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 37.492195,
   "longitude": 126.740893,
-  "updated_at": "2026-01-12T11:55:17.579616"
+  "updated_at": "2026-02-03T18:21:37.298144",
+  "first_prize_draws": [
+    1104
+  ],
+  "second_prize_draws": [
+    1006,
+    998
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

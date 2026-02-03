@@ -1,7 +1,7 @@
 {
   "store_id": "11100810",
   "name": "센타포인트명동앞복지가판점",
-  "address": "서울 중구 남대문로 84 ",
+  "address": "서울 중구  남대문로 84 앞 가판점",
   "phone": "02-2233-1757",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,25 @@
   ],
   "latitude": 37.564681,
   "longitude": 126.98284,
-  "updated_at": "2026-01-12T11:59:37.670961"
+  "updated_at": "2026-02-03T18:27:59.302122",
+  "first_prize_draws": [
+    1171,
+    469
+  ],
+  "second_prize_draws": [
+    1182,
+    1112,
+    941,
+    844,
+    834,
+    830,
+    784,
+    779,
+    690,
+    575,
+    531,
+    425
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 12
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14100253",
   "name": "미양공단점",
-  "address": "경기 안성시 미양면 계륵리 271-9번지 102호",
+  "address": "경기 안성시  안성맞춤대로 689 102호",
   "phone": "070-7793-9748",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 36.97759,
   "longitude": 127.261272,
-  "updated_at": "2026-01-12T11:43:04.205007"
+  "updated_at": "2026-02-03T18:11:34.705260",
+  "first_prize_draws": [
+    910
+  ],
+  "second_prize_draws": [
+    980,
+    906,
+    821,
+    628,
+    549,
+    357
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

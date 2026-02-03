@@ -1,0 +1,23 @@
+{
+  "store_id": "11100147",
+  "name": "복권클럽",
+  "address": "서울 성동구  독서당로 318 ",
+  "phone": "02-2237-3367",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.547953,
+  "longitude": 127.024233,
+  "updated_at": "2026-02-03T18:26:23.592682",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1160,
+    744,
+    620,
+    454
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 4
+}

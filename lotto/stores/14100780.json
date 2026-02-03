@@ -1,7 +1,7 @@
 {
   "store_id": "14100780",
   "name": "카베",
-  "address": "경기 부천시 부일로221번길 26 ",
+  "address": "경기 부천시  부일로221번길 26 삼원타운1층-120",
   "phone": "032-326-2772",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 37.489493,
   "longitude": 126.755075,
-  "updated_at": "2026-01-12T11:55:11.313324"
+  "updated_at": "2026-02-03T18:21:28.919506",
+  "first_prize_draws": [
+    1102
+  ],
+  "second_prize_draws": [
+    1076,
+    968,
+    941,
+    589,
+    387
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

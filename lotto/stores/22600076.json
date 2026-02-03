@@ -1,7 +1,7 @@
 {
   "store_id": "22600076",
-  "name": "GS25(광복)",
-  "address": "부산 중구 동광동2가  7-2",
+  "name": "GS25(광복점)",
+  "address": "부산 중구  광복로97번길 15 ",
   "phone": "051-247-0951",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,17 @@
   ],
   "latitude": 35.099934,
   "longitude": 129.035122,
-  "updated_at": "2026-01-12T11:15:45.179111"
+  "updated_at": "2026-02-03T18:08:25.539571",
+  "first_prize_draws": [
+    442
+  ],
+  "second_prize_draws": [
+    942,
+    854,
+    814,
+    631,
+    550
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

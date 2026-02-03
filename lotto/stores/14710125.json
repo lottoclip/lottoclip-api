@@ -1,7 +1,7 @@
 {
   "store_id": "14710125",
   "name": "학우사혜진로또판매점",
-  "address": "경북 울진군 읍내2길 13-3 ",
+  "address": "경북 울진군 후포면 후포리 1036-12번지 ",
   "phone": "054-782-1349",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 36.991842,
   "longitude": 129.40197,
-  "updated_at": "2026-01-12T11:38:54.903251"
+  "updated_at": "2026-02-03T18:00:13.602759",
+  "first_prize_draws": [
+    840
+  ],
+  "second_prize_draws": [
+    786,
+    513
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

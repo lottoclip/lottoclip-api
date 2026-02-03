@@ -1,7 +1,7 @@
 {
   "store_id": "11100948",
   "name": "KB행당동지점옆가판",
-  "address": "서울 성동구 고산자로 198 ",
+  "address": "서울 성동구  고산자로 198 ",
   "phone": "02-2298-4620",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.557803,
   "longitude": 127.034259,
-  "updated_at": "2026-01-12T11:24:37.497762"
+  "updated_at": "2026-02-03T18:25:59.679857",
+  "first_prize_draws": [
+    598
+  ],
+  "second_prize_draws": [
+    1158,
+    1050,
+    904,
+    826,
+    799,
+    795,
+    593
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

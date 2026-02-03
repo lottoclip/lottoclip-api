@@ -1,7 +1,7 @@
 {
   "store_id": "14240134",
-  "name": "강남 복권방",
-  "address": "강원 강릉시 임영로 62 ",
+  "name": "강남복권방",
+  "address": "강원 강릉시 임영로 62 1층(노암동)  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 37.748016,
   "longitude": 128.897059,
-  "updated_at": "2026-01-12T11:55:36.887563"
+  "updated_at": "2026-02-03T18:29:40.637900",
+  "first_prize_draws": [
+    1110
+  ],
+  "second_prize_draws": [
+    1205,
+    1143,
+    1079,
+    1066
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

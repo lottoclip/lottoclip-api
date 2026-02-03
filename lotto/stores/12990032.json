@@ -1,7 +1,7 @@
 {
   "store_id": "12990032",
   "name": "행운복권방",
-  "address": "광주 광산구 금봉로 95 ",
+  "address": "광주 광산구  금봉로 95 1층",
   "phone": "062-944-9550",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 35.152217,
   "longitude": 126.808975,
-  "updated_at": "2026-01-12T11:40:26.011731"
+  "updated_at": "2026-02-03T18:25:24.376480",
+  "first_prize_draws": [
+    869
+  ],
+  "second_prize_draws": [
+    1150,
+    1085,
+    1042,
+    1025,
+    914,
+    912,
+    890,
+    607
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

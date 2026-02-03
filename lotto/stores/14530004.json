@@ -1,7 +1,7 @@
 {
   "store_id": "14530004",
   "name": "다사랑복권",
-  "address": "전북 전주시 완산구 중화산로 54 ",
+  "address": "전북 전주시 완산구  중화산로 54 1층",
   "phone": "063-909-0440",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 35.81506,
   "longitude": 127.118412,
-  "updated_at": "2026-01-12T11:34:08.534715"
+  "updated_at": "2026-02-03T18:23:30.519090",
+  "first_prize_draws": [
+    754
+  ],
+  "second_prize_draws": [
+    1127,
+    991,
+    990,
+    955,
+    788,
+    723
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14790011",
   "name": "행운복권방(감포)",
-  "address": "경북 경주시 감포로 141 ",
+  "address": "경북 경주시  감포로 141 ",
   "phone": "054-741-8407",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 35.806639,
   "longitude": 129.502314,
-  "updated_at": "2026-01-12T11:38:39.204736"
+  "updated_at": "2026-02-03T18:23:13.720140",
+  "first_prize_draws": [
+    835,
+    370
+  ],
+  "second_prize_draws": [
+    1123,
+    1077,
+    891,
+    890,
+    818,
+    793
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 6
 }

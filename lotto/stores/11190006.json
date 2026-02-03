@@ -1,7 +1,7 @@
 {
   "store_id": "11190006",
   "name": "행운의집",
-  "address": "서울 강동구 구천면로 222 ",
+  "address": "서울 강동구  구천면로 222 ",
   "phone": "02-484-1124",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,27 @@
   ],
   "latitude": 37.540465,
   "longitude": 127.129203,
-  "updated_at": "2026-01-12T12:00:12.703633"
+  "updated_at": "2026-02-03T18:27:59.182193",
+  "first_prize_draws": [
+    1182,
+    1156,
+    543,
+    499,
+    281
+  ],
+  "second_prize_draws": [
+    941,
+    867,
+    841,
+    823,
+    727,
+    698,
+    621,
+    589,
+    568,
+    410,
+    321
+  ],
+  "first_prize_count": 5,
+  "second_prize_count": 11
 }

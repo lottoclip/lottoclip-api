@@ -1,7 +1,7 @@
 {
   "store_id": "13190029",
-  "name": "세화매일유통",
-  "address": "울산 남구 야음동  815-11",
+  "name": "세이마트",
+  "address": "울산 남구 야음동 815-11번지 ",
   "phone": "052-274-4925",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,14 @@
   ],
   "latitude": 35.524459,
   "longitude": 129.331081,
-  "updated_at": "2026-01-12T11:17:51.605400"
+  "updated_at": "2026-02-03T17:56:34.142159",
+  "first_prize_draws": [
+    478
+  ],
+  "second_prize_draws": [
+    795,
+    480
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

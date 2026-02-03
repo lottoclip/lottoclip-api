@@ -1,7 +1,7 @@
 {
   "store_id": "14820020",
   "name": "돈보따리",
-  "address": "경남 양산시 서창로 104 ",
+  "address": "경남 양산시 서창로 104 복권판매점  ",
   "phone": "055-387-6106",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 35.409954,
   "longitude": 129.166728,
-  "updated_at": "2026-01-12T11:59:57.045088"
+  "updated_at": "2026-02-03T18:29:40.798581",
+  "first_prize_draws": [
+    1177
+  ],
+  "second_prize_draws": [
+    1205,
+    1024,
+    968,
+    926,
+    925,
+    791,
+    779,
+    699
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

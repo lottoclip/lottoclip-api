@@ -1,7 +1,7 @@
 {
   "store_id": "12810034",
   "name": "흥부네박터졌네",
-  "address": "인천 계양구 계산로111번길 8 ",
+  "address": "인천 계양구  계산로111번길 8 ",
   "phone": "032-555-7772",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,26 @@
   ],
   "latitude": 37.537998,
   "longitude": 126.72464,
-  "updated_at": "2026-01-12T11:41:58.792521"
+  "updated_at": "2026-02-03T18:27:50.968898",
+  "first_prize_draws": [
+    889,
+    877
+  ],
+  "second_prize_draws": [
+    1180,
+    1144,
+    1114,
+    1052,
+    1022,
+    962,
+    881,
+    871,
+    857,
+    779,
+    698,
+    571,
+    487
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 13
 }

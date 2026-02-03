@@ -1,7 +1,7 @@
 {
   "store_id": "14410118",
   "name": "꿀사랑",
-  "address": "충남 논산시 해월로179번길 10 ",
+  "address": "충남 논산시  해월로179번길 10 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 36.206382,
   "longitude": 127.086851,
-  "updated_at": "2026-01-12T12:00:19.251365"
+  "updated_at": "2026-02-03T18:28:08.213888",
+  "first_prize_draws": [
+    1184
+  ],
+  "second_prize_draws": [
+    1171,
+    1038,
+    768,
+    645,
+    576
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

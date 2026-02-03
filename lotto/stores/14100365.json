@@ -1,7 +1,7 @@
 {
   "store_id": "14100365",
   "name": "명진슈퍼",
-  "address": "경기 의왕시 고천동 295-26 ",
+  "address": "경기 의왕시  효행로 15 ",
   "phone": "031-452-8813",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,26 @@
   ],
   "latitude": 37.349232,
   "longitude": 126.974398,
-  "updated_at": "2026-01-12T11:30:51.367810"
+  "updated_at": "2026-02-03T18:18:12.217075",
+  "first_prize_draws": [
+    697,
+    395,
+    313
+  ],
+  "second_prize_draws": [
+    1060,
+    1057,
+    1027,
+    920,
+    908,
+    798,
+    741,
+    680,
+    515,
+    372,
+    323,
+    301
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 12
 }

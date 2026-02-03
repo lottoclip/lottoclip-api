@@ -1,7 +1,7 @@
 {
   "store_id": "14800077",
   "name": "아리랑마트",
-  "address": "경남 창원시 진해구 충장로 438 ",
+  "address": "경남 창원시 진해구  충장로 438 ",
   "phone": "055-543-6236",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 35.149624,
   "longitude": 128.697737,
-  "updated_at": "2026-01-12T11:52:12.239234"
+  "updated_at": "2026-02-03T18:18:12.503633",
+  "first_prize_draws": [
+    1060,
+    755
+  ],
+  "second_prize_draws": [
+    1057,
+    994,
+    788,
+    754,
+    741
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 5
 }

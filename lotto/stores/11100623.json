@@ -1,7 +1,7 @@
 {
   "store_id": "11100623",
   "name": "개미식품",
-  "address": "서울 동작구 노량진로 110 ",
+  "address": "서울 동작구  노량진로 110 건설상가 115호",
   "phone": "02-813-8151",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 37.513189,
   "longitude": 126.937999,
-  "updated_at": "2026-01-12T11:47:57.032520"
+  "updated_at": "2026-02-03T18:17:55.630485",
+  "first_prize_draws": [
+    994
+  ],
+  "second_prize_draws": [
+    1057,
+    910,
+    880,
+    806,
+    721,
+    675,
+    591,
+    517
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

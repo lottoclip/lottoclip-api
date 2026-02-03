@@ -1,12 +1,23 @@
 {
   "store_id": "14710037",
-  "name": "로또판매",
-  "address": "경북 경산시 경안로 145 ",
+  "name": "경산상회",
+  "address": "경북 경산시 경안로 145  ",
   "phone": "053-813-9777",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 35.820524,
   "longitude": 128.737743,
-  "updated_at": "2026-01-12T11:15:10.843861"
+  "updated_at": "2026-02-03T18:29:49.238807",
+  "first_prize_draws": [
+    436
+  ],
+  "second_prize_draws": [
+    1207,
+    1018,
+    501,
+    465
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

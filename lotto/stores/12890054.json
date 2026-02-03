@@ -1,7 +1,7 @@
 {
   "store_id": "12890054",
   "name": "행운마트",
-  "address": "인천 동구 송림로 71-1 ",
+  "address": "인천 동구  송림로 71-1 ",
   "phone": "032-765-8872",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 37.475422,
   "longitude": 126.642712,
-  "updated_at": "2026-01-12T11:51:25.061214"
+  "updated_at": "2026-02-03T18:22:02.914662",
+  "first_prize_draws": [
+    1050
+  ],
+  "second_prize_draws": [
+    1110,
+    1060,
+    915,
+    767,
+    765,
+    689,
+    614,
+    457,
+    384
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 9
 }

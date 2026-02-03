@@ -1,7 +1,7 @@
 {
   "store_id": "14710045",
   "name": "CU로또(구미고아점)",
-  "address": "경북 구미시 고아읍  관심리  668-9번지 CU편의점 내",
+  "address": "경북 구미시 고아읍 관심리 668-9번지 CU편의점 내",
   "phone": "054-481-2221",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,15 @@
   ],
   "latitude": 36.20934,
   "longitude": 128.330248,
-  "updated_at": "2026-01-12T11:28:15.109008"
+  "updated_at": "2026-02-03T17:57:48.258950",
+  "first_prize_draws": [
+    657
+  ],
+  "second_prize_draws": [
+    812,
+    597,
+    375
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

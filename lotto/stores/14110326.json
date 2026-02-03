@@ -1,7 +1,7 @@
 {
   "store_id": "14110326",
   "name": "로또복권",
-  "address": "경기 평택시 팽성읍  객사리126-3번지GS25평택송화점",
+  "address": "경기 평택시 팽성읍 객사리 126-3번지 GS25평택송화점",
   "phone": "031-618-4564",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,18 @@
   ],
   "latitude": 36.964422,
   "longitude": 127.060337,
-  "updated_at": "2026-01-12T11:23:00.875368"
+  "updated_at": "2026-02-03T18:00:05.073075",
+  "first_prize_draws": [
+    567
+  ],
+  "second_prize_draws": [
+    838,
+    787,
+    743,
+    695,
+    553,
+    523
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

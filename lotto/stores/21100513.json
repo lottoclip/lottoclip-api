@@ -1,12 +1,26 @@
 {
   "store_id": "21100513",
-  "name": "GS25(명륜아남)",
-  "address": "서울 종로구 명륜1가  46-18",
+  "name": "GS25(명륜아남점)",
+  "address": "서울 종로구  혜화로 9 ",
   "phone": "02-766-6663",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.586413,
   "longitude": 127.000127,
-  "updated_at": "2026-01-12T11:18:38.110920"
+  "updated_at": "2026-02-03T18:12:50.837633",
+  "first_prize_draws": [
+    493,
+    270
+  ],
+  "second_prize_draws": [
+    994,
+    772,
+    512,
+    473,
+    457,
+    408
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 6
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "11100878",
   "name": "교통카드판매대",
-  "address": "서울 구로구 경인로 661 ",
+  "address": "서울 구로구  경인로 661 ",
   "phone": "02-2633-1615",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 37.509409,
   "longitude": 126.887719,
-  "updated_at": "2026-01-12T11:21:36.490672"
+  "updated_at": "2026-02-03T18:28:39.043352",
+  "first_prize_draws": [
+    545
+  ],
+  "second_prize_draws": [
+    1191,
+    1069,
+    948,
+    813,
+    707,
+    694,
+    626,
+    579,
+    541,
+    360
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "11190021",
   "name": "바이복",
-  "address": "서울 강남구 일원로5길 19 ",
+  "address": "서울 강남구  일원로5길 19 ",
   "phone": "02-445-5597",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,25 @@
   ],
   "latitude": 37.491381,
   "longitude": 127.082272,
-  "updated_at": "2026-01-12T11:46:32.592595"
+  "updated_at": "2026-02-03T18:21:41.402703",
+  "first_prize_draws": [
+    972,
+    884,
+    291
+  ],
+  "second_prize_draws": [
+    1105,
+    1006,
+    889,
+    823,
+    691,
+    667,
+    620,
+    510,
+    379,
+    340,
+    287
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 11
 }

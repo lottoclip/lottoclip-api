@@ -1,7 +1,7 @@
 {
   "store_id": "11101503",
   "name": "그린마트",
-  "address": "서울 송파구 백제고분로19길 26 ",
+  "address": "서울 송파구  백제고분로19길 26 1층",
   "phone": "02-415-6010",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 37.506879,
   "longitude": 127.087485,
-  "updated_at": "2026-01-12T11:48:22.571986"
+  "updated_at": "2026-02-03T18:24:17.830773",
+  "first_prize_draws": [
+    1002,
+    997,
+    967
+  ],
+  "second_prize_draws": [
+    1138,
+    766,
+    729,
+    669,
+    628,
+    580,
+    538,
+    494,
+    466
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 9
 }

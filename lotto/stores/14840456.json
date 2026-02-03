@@ -1,7 +1,7 @@
 {
   "store_id": "14840456",
   "name": "행운복권방",
-  "address": "경남 진주시 창렬로 76-1 ",
+  "address": "경남 진주시  창렬로 76-1 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 35.195348,
   "longitude": 128.069128,
-  "updated_at": "2026-01-12T11:55:04.871421"
+  "updated_at": "2026-02-03T18:22:16.132000",
+  "first_prize_draws": [
+    1100
+  ],
+  "second_prize_draws": [
+    1113
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

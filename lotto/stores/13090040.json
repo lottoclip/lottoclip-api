@@ -1,7 +1,7 @@
 {
   "store_id": "13090040",
   "name": "대일슈퍼",
-  "address": "대전 서구 월평중로24번길 48 ",
+  "address": "대전 서구  월평중로24번길 48 ",
   "phone": "042-486-2710",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 36.35651,
   "longitude": 127.366513,
-  "updated_at": "2026-01-12T11:40:35.227381"
+  "updated_at": "2026-02-03T18:24:00.888033",
+  "first_prize_draws": [
+    872,
+    840
+  ],
+  "second_prize_draws": [
+    1134,
+    737,
+    605
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 3
 }

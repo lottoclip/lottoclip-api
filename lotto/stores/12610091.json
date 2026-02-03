@@ -1,7 +1,7 @@
 {
   "store_id": "12610091",
   "name": "로또복권방",
-  "address": "부산 동래구 반송로 202 ",
+  "address": "부산 동래구  반송로 202 ",
   "phone": "051-507-9929",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,16 @@
   ],
   "latitude": 35.198892,
   "longitude": 129.097299,
-  "updated_at": "2026-01-12T11:33:49.603895"
+  "updated_at": "2026-02-03T18:25:24.190537",
+  "first_prize_draws": [
+    748
+  ],
+  "second_prize_draws": [
+    1150,
+    982,
+    859,
+    815
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "12790077",
-  "name": "고향편의점복권방",
-  "address": "대구 북구 노원로 128 ",
+  "name": "천하명당",
+  "address": "대구 북구  노원로 128 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 35.896401,
   "longitude": 128.575377,
-  "updated_at": "2026-01-12T11:32:20.873110"
+  "updated_at": "2026-02-03T18:28:34.623964",
+  "first_prize_draws": [
+    725
+  ],
+  "second_prize_draws": [
+    1190,
+    1177,
+    1141,
+    1104,
+    1093,
+    859,
+    856,
+    624
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

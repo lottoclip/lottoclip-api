@@ -1,7 +1,7 @@
 {
   "store_id": "12800083",
   "name": "하이마트",
-  "address": "인천 서구 심곡동  333-7",
+  "address": "인천 서구 심곡동 333-7번지 ",
   "phone": "032-561-5987",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,23 @@
   ],
   "latitude": 37.544491,
   "longitude": 126.672325,
-  "updated_at": "2026-01-12T11:05:53.503683"
+  "updated_at": "2026-02-03T18:02:02.284569",
+  "first_prize_draws": [
+    284
+  ],
+  "second_prize_draws": [
+    865,
+    810,
+    782,
+    559,
+    529,
+    518,
+    470,
+    324,
+    298,
+    285,
+    273
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 11
 }

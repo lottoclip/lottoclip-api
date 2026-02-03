@@ -1,7 +1,7 @@
 {
   "store_id": "11100016",
   "name": "아이센스복권방",
-  "address": "서울 중랑구 중화2동 320-140번지 ",
+  "address": "서울 중랑구  중랑역로 17 ",
   "phone": "02-436-6473",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 37.595728,
   "longitude": 127.076042,
-  "updated_at": "2026-01-12T11:35:04.725758"
+  "updated_at": "2026-02-03T18:20:46.215098",
+  "first_prize_draws": [
+    772
+  ],
+  "second_prize_draws": [
+    1092,
+    1077,
+    1059,
+    957,
+    943,
+    699
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

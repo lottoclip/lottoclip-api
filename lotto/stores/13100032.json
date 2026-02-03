@@ -1,7 +1,7 @@
 {
   "store_id": "13100032",
   "name": "영24시",
-  "address": "울산 동구 월봉로 60 ",
+  "address": "울산 동구  월봉로 60 ",
   "phone": "052-235-9188",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 35.493959,
   "longitude": 129.424541,
-  "updated_at": "2026-01-12T11:59:47.255850"
+  "updated_at": "2026-02-03T18:27:24.928871",
+  "first_prize_draws": [
+    1174
+  ],
+  "second_prize_draws": [
+    1172,
+    1053,
+    983,
+    902,
+    786,
+    579
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

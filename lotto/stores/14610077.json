@@ -1,7 +1,7 @@
 {
   "store_id": "14610077",
-  "name": "황금당",
-  "address": "전남 강진군 강진읍  서성리  12번지 황금당",
+  "name": "황금로또",
+  "address": "전남 강진군  강진읍 중앙로 95 황금당",
   "phone": "061-434-2554",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 34.638718,
   "longitude": 126.767547,
-  "updated_at": "2026-01-12T11:25:24.960929"
+  "updated_at": "2026-02-03T18:19:04.211244",
+  "first_prize_draws": [
+    608,
+    500
+  ],
+  "second_prize_draws": [
+    1072,
+    1062,
+    1012,
+    968,
+    925,
+    894,
+    676,
+    561,
+    524,
+    516,
+    417
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 11
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14900036",
   "name": "티켓코리아",
-  "address": "제주 제주시 관덕로 54-3 ",
+  "address": "제주 제주시  관덕로 54-3 ",
   "phone": "064-724-8945",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 33.512933,
   "longitude": 126.525205,
-  "updated_at": "2026-01-12T11:43:13.681144"
+  "updated_at": "2026-02-03T18:26:28.571023",
+  "first_prize_draws": [
+    913
+  ],
+  "second_prize_draws": [
+    1161,
+    1153,
+    1111,
+    1047,
+    1020,
+    918,
+    857,
+    593,
+    504,
+    478
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

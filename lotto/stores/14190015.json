@@ -1,7 +1,7 @@
 {
   "store_id": "14190015",
   "name": "대박",
-  "address": "경기 구리시 안골로103번길 46 ",
+  "address": "경기 구리시  안골로103번길 46 ",
   "phone": "031-557-5647",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 37.599423,
   "longitude": 127.141537,
-  "updated_at": "2026-01-12T12:00:06.436289"
+  "updated_at": "2026-02-03T18:27:51.061131",
+  "first_prize_draws": [
+    1180,
+    1137,
+    1030,
+    741,
+    605
+  ],
+  "second_prize_draws": [
+    1170,
+    1053,
+    876,
+    700,
+    663,
+    566,
+    500,
+    464
+  ],
+  "first_prize_count": 5,
+  "second_prize_count": 8
 }

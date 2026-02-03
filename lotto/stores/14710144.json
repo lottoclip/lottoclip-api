@@ -1,0 +1,23 @@
+{
+  "store_id": "14710144",
+  "name": "로또복권",
+  "address": "경북 경산시 사동 664-1번지 ",
+  "phone": null,
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.809982,
+  "longitude": 128.7582,
+  "updated_at": "2026-02-03T17:57:34.209038",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    809,
+    729,
+    597,
+    590
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 4
+}

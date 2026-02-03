@@ -1,7 +1,7 @@
 {
   "store_id": "14130106",
   "name": "로또도곡점",
-  "address": "경기 남양주시 덕소로 277 ",
+  "address": "경기 남양주시  덕소로 277 대광슈퍼 1층 복권판매점",
   "phone": "031-521-8528",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 37.577305,
   "longitude": 127.226196,
-  "updated_at": "2026-01-12T11:50:41.351840"
+  "updated_at": "2026-02-03T18:16:29.652623",
+  "first_prize_draws": [
+    1041
+  ],
+  "second_prize_draws": [
+    976,
+    954,
+    896
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

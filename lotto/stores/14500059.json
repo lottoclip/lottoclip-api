@@ -1,7 +1,7 @@
 {
   "store_id": "14500059",
   "name": "대박천국",
-  "address": "전북 군산시 가도로 217 ",
+  "address": "전북 군산시  가도로 217 ",
   "phone": "063-466-6414",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 35.965724,
   "longitude": 126.566639,
-  "updated_at": "2026-01-12T11:57:04.711691"
+  "updated_at": "2026-02-03T18:28:30.529091",
+  "first_prize_draws": [
+    1128,
+    1032
+  ],
+  "second_prize_draws": [
+    1189,
+    1143,
+    1076,
+    1046,
+    1045,
+    987,
+    929,
+    887,
+    670
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 9
 }

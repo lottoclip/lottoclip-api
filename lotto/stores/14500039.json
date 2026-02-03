@@ -1,0 +1,26 @@
+{
+  "store_id": "14500039",
+  "name": "대박복권방",
+  "address": "전북 전주시 완산구  용머리로 195 ",
+  "phone": "063-232-2977",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.807508,
+  "longitude": 127.131286,
+  "updated_at": "2026-02-03T18:23:13.701414",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1123,
+    1090,
+    1077,
+    1004,
+    751,
+    533,
+    455
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 7
+}

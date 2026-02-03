@@ -1,12 +1,37 @@
 {
   "store_id": "14110643",
   "name": "㈜현대택배권선영업소",
-  "address": "경기 수원시 권선구 곡반정로 95-1 ",
+  "address": "경기 수원시 권선구  곡반정로 95-1 104호",
   "phone": null,
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.236939,
   "longitude": 127.030144,
-  "updated_at": "2026-01-12T11:42:23.822937"
+  "updated_at": "2026-02-03T18:29:01.296983",
+  "first_prize_draws": [
+    897,
+    659,
+    409,
+    407
+  ],
+  "second_prize_draws": [
+    1196,
+    1139,
+    1123,
+    1029,
+    1007,
+    997,
+    937,
+    752,
+    692,
+    648,
+    551,
+    540,
+    498,
+    365,
+    358
+  ],
+  "first_prize_count": 4,
+  "second_prize_count": 15
 }

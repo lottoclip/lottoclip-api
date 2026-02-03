@@ -1,7 +1,7 @@
 {
   "store_id": "14310014",
-  "name": "복권방",
-  "address": "충북 청주시 흥덕구 송화로166번길 14 ",
+  "name": "맨투맨복권방",
+  "address": "충북 청주시 흥덕구 송화로166번길 14 편의점  ",
   "phone": "043-274-5027",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 36.665695,
   "longitude": 127.451925,
-  "updated_at": "2026-01-12T11:06:45.154042"
+  "updated_at": "2026-02-03T18:29:57.624609",
+  "first_prize_draws": [
+    296
+  ],
+  "second_prize_draws": [
+    1209,
+    1182,
+    1118,
+    948,
+    916,
+    786,
+    682,
+    630,
+    517,
+    452,
+    396
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 11
 }

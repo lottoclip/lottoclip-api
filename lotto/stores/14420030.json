@@ -1,7 +1,7 @@
 {
   "store_id": "14420030",
   "name": "행운로또",
-  "address": "충남 아산시 둔포면 관대리 197 ",
+  "address": "충남 아산시  충무로 1396 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 36.897527,
   "longitude": 127.03526,
-  "updated_at": "2026-01-12T11:36:52.833132"
+  "updated_at": "2026-02-03T18:17:58.580961",
+  "first_prize_draws": [
+    801
+  ],
+  "second_prize_draws": [
+    1057,
+    1047,
+    1039,
+    1037,
+    998,
+    840
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

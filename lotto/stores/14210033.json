@@ -1,0 +1,28 @@
+{
+  "store_id": "14210033",
+  "name": "로또한마당",
+  "address": "강원 철원군  명성로 172-1 ",
+  "phone": "033-452-0645",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 38.147021,
+  "longitude": 127.30797,
+  "updated_at": "2026-02-03T18:23:17.867979",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1124,
+    1027,
+    645,
+    626,
+    612,
+    529,
+    504,
+    344,
+    278
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 9
+}

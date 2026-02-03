@@ -1,7 +1,7 @@
 {
   "store_id": "13120018",
   "name": "로또구영편의점",
-  "address": "울산 울주군 구영로 100 ",
+  "address": "울산 울주군 범서읍 구영리 853-2번지 구영프라자1층111호",
   "phone": "070-8807-4323",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 35.573645,
   "longitude": 129.241389,
-  "updated_at": "2026-01-12T11:39:16.867251"
+  "updated_at": "2026-02-03T18:06:48.589727",
+  "first_prize_draws": [
+    847
+  ],
+  "second_prize_draws": [
+    921,
+    778
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

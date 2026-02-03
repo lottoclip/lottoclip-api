@@ -1,7 +1,7 @@
 {
   "store_id": "12610021",
   "name": "복권방하단스마일",
-  "address": "부산 사하구 낙동대로 191 ",
+  "address": "부산 사하구 하단동 526-12번지 1층CU편의점",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 35.100927,
   "longitude": 128.995818,
-  "updated_at": "2026-01-12T11:20:37.513197"
+  "updated_at": "2026-02-03T18:01:05.992295",
+  "first_prize_draws": [
+    526
+  ],
+  "second_prize_draws": [
+    852,
+    708,
+    564,
+    458
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14640122",
   "name": "한방로또",
-  "address": "전남 순천시 남산로 154-1 ",
+  "address": "전남 순천시 남산로 154-1 1층101호  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 34.940569,
   "longitude": 127.505129,
-  "updated_at": "2026-01-12T11:59:18.531274"
+  "updated_at": "2026-02-03T18:29:53.336073",
+  "first_prize_draws": [
+    1165
+  ],
+  "second_prize_draws": [
+    1208,
+    1150
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

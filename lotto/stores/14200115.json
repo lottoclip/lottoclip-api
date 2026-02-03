@@ -1,7 +1,7 @@
 {
   "store_id": "14200115",
   "name": "스타복권판매점",
-  "address": "강원 춘천시 방송길 104 ",
+  "address": "강원 춘천시 방송길 104 1층 104호  ",
   "phone": "033-254-8599",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.867528,
   "longitude": 127.720836,
-  "updated_at": "2026-01-12T12:02:01.089449"
+  "updated_at": "2026-02-03T18:29:44.823623",
+  "first_prize_draws": [
+    1206
+  ],
+  "second_prize_draws": [
+    1162,
+    1104,
+    926,
+    922,
+    464,
+    432,
+    337
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

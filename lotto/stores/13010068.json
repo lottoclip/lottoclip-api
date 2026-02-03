@@ -1,7 +1,7 @@
 {
   "store_id": "13010068",
   "name": "현암꽃플라워",
-  "address": "대전 동구 태전로 167 ",
+  "address": "대전 동구  태전로 167 ",
   "phone": "042-633-6887",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,28 @@
   ],
   "latitude": 36.342147,
   "longitude": 127.419105,
-  "updated_at": "2026-01-12T11:47:22.356808"
+  "updated_at": "2026-02-03T18:25:11.141489",
+  "first_prize_draws": [
+    983,
+    948,
+    670,
+    352
+  ],
+  "second_prize_draws": [
+    1147,
+    1116,
+    1089,
+    994,
+    985,
+    906,
+    837,
+    835,
+    672,
+    622,
+    560,
+    480,
+    413
+  ],
+  "first_prize_count": 4,
+  "second_prize_count": 13
 }

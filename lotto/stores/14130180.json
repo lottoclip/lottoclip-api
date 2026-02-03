@@ -1,0 +1,27 @@
+{
+  "store_id": "14130180",
+  "name": "김포복권",
+  "address": "경기 김포시 구래동 6880-4 101호",
+  "phone": "031-988-1164",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.645905,
+  "longitude": 126.626492,
+  "updated_at": "2026-02-03T18:03:39.786776",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    884,
+    874,
+    789,
+    772,
+    768,
+    752,
+    740,
+    732
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 8
+}

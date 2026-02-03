@@ -1,7 +1,7 @@
 {
   "store_id": "13230003",
   "name": "행운복권",
-  "address": "세종  조치원읍 죽림리 234-5 ",
+  "address": "세종   충현로 31 ",
   "phone": "044-865-1282",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,20 @@
   ],
   "latitude": 36.591987,
   "longitude": 127.298349,
-  "updated_at": "2026-01-12T11:43:19.845129"
+  "updated_at": "2026-02-03T18:09:56.373799",
+  "first_prize_draws": [
+    915,
+    819
+  ],
+  "second_prize_draws": [
+    958,
+    908,
+    874,
+    856,
+    843,
+    777,
+    730
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 7
 }

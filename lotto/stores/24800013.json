@@ -1,7 +1,7 @@
 {
   "store_id": "24800013",
-  "name": "GS25(마산상남)",
-  "address": "경남 마산시 상남동  230-25",
+  "name": "GS25(마산상남점)",
+  "address": "경남 창원시 마산합포구 상남동 230-25번지 ",
   "phone": "055-244-1481",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,13 @@
   ],
   "latitude": 35.209637,
   "longitude": 128.576384,
-  "updated_at": "2026-01-12T11:05:41.386404"
+  "updated_at": "2026-02-03T17:51:37.702671",
+  "first_prize_draws": [
+    280
+  ],
+  "second_prize_draws": [
+    735
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

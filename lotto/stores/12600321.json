@@ -1,7 +1,7 @@
 {
   "store_id": "12600321",
   "name": "범일서적",
-  "address": "부산 동구 진시장로 19-2 ",
+  "address": "부산 동구  진시장로 19-2 1층복권방",
   "phone": "051-632-2672",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 35.137386,
   "longitude": 129.05898,
-  "updated_at": "2026-01-12T12:00:03.361853"
+  "updated_at": "2026-02-03T18:27:46.607025",
+  "first_prize_draws": [
+    1179,
+    884
+  ],
+  "second_prize_draws": [
+    1090,
+    1048,
+    948,
+    917,
+    544,
+    520,
+    490
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 7
 }

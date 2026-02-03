@@ -1,7 +1,7 @@
 {
   "store_id": "11100263",
   "name": "천하명당복권방",
-  "address": "서울 광진구 능동로 413 ",
+  "address": "서울 광진구  능동로 413 ",
   "phone": "02-464-4440",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 37.565954,
   "longitude": 127.084082,
-  "updated_at": "2026-01-12T11:42:42.371044"
+  "updated_at": "2026-02-03T18:24:09.250612",
+  "first_prize_draws": [
+    903,
+    742,
+    421
+  ],
+  "second_prize_draws": [
+    1136,
+    1060,
+    1004,
+    851,
+    710,
+    687,
+    550,
+    476,
+    445,
+    358
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 10
 }

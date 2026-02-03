@@ -1,7 +1,7 @@
 {
   "store_id": "11110455",
   "name": "아이티텔랜드",
-  "address": "서울 노원구 상계동  749 1층",
+  "address": "서울 노원구 상계동 749번지 1층",
   "phone": "02-996-3114",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,17 @@
   ],
   "latitude": 37.651297,
   "longitude": 127.061754,
-  "updated_at": "2026-01-12T11:22:11.173493"
+  "updated_at": "2026-02-03T17:55:02.613451",
+  "first_prize_draws": [
+    556,
+    452
+  ],
+  "second_prize_draws": [
+    775,
+    629,
+    557,
+    515
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 4
 }

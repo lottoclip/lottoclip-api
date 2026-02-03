@@ -1,7 +1,7 @@
 {
   "store_id": "14240063",
   "name": "법원로또",
-  "address": "강원 원주시 무실로 300 ",
+  "address": "강원 원주시 무실로 300 상가 101호  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 37.33498,
   "longitude": 127.932668,
-  "updated_at": "2026-01-12T11:48:19.414370"
+  "updated_at": "2026-02-03T18:29:57.608788",
+  "first_prize_draws": [
+    1001
+  ],
+  "second_prize_draws": [
+    1209,
+    1154,
+    1124,
+    1069,
+    1043,
+    1041,
+    1028,
+    1018
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

@@ -1,0 +1,28 @@
+{
+  "store_id": "14690005",
+  "name": "복권나라",
+  "address": "전남 순천시  중앙로 61 복권나라",
+  "phone": "061-744-7063",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 34.951232,
+  "longitude": 127.483583,
+  "updated_at": "2026-02-03T18:28:04.014060",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1183,
+    1149,
+    1128,
+    1118,
+    1075,
+    957,
+    767,
+    688,
+    476
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 9
+}

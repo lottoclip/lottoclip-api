@@ -1,7 +1,7 @@
 {
   "store_id": "12600181",
   "name": "미니슈퍼",
-  "address": "부산 부산진구 가야대로 643 ",
+  "address": "부산 부산진구  가야대로 643 ",
   "phone": "051-897-3451",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 35.156037,
   "longitude": 129.042042,
-  "updated_at": "2026-01-12T11:19:53.582534"
+  "updated_at": "2026-02-03T18:21:28.734989",
+  "first_prize_draws": [
+    512
+  ],
+  "second_prize_draws": [
+    1102,
+    961,
+    867,
+    498
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

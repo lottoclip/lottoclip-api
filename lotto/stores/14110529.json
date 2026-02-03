@@ -1,7 +1,7 @@
 {
   "store_id": "14110529",
   "name": "나눔로또한대점",
-  "address": "경기 안산시 상록구 중보로 57 ",
+  "address": "경기 안산시 상록구 중보로 57 한양대프라자106호  ",
   "phone": "031-418-7000",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 37.308091,
   "longitude": 126.852845,
-  "updated_at": "2026-01-12T11:58:40.028714"
+  "updated_at": "2026-02-03T18:29:48.976806",
+  "first_prize_draws": [
+    1153,
+    1133,
+    901
+  ],
+  "second_prize_draws": [
+    1207,
+    1128,
+    795,
+    784,
+    762,
+    614,
+    594,
+    526,
+    480,
+    476
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 10
 }

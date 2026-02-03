@@ -1,7 +1,7 @@
 {
   "store_id": "12690069",
   "name": "경동플러스",
-  "address": "부산 해운대구 세실로 30 ",
+  "address": "부산 해운대구  세실로 30 경동G-PLUS아파트상가103",
   "phone": "051-701-0321",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,28 @@
   ],
   "latitude": 35.168426,
   "longitude": 129.17945,
-  "updated_at": "2026-01-12T11:57:01.086291"
+  "updated_at": "2026-02-03T18:23:30.169836",
+  "first_prize_draws": [
+    1127,
+    1060,
+    928,
+    876,
+    833,
+    798
+  ],
+  "second_prize_draws": [
+    1107,
+    1086,
+    1084,
+    1031,
+    1008,
+    988,
+    927,
+    907,
+    562,
+    469,
+    378
+  ],
+  "first_prize_count": 6,
+  "second_prize_count": 11
 }

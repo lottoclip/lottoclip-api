@@ -1,7 +1,7 @@
 {
   "store_id": "14590030",
   "name": "Letsgo복권유통",
-  "address": "전북 전주시 덕진구 무삼지로 29 ",
+  "address": "전북 전주시 덕진구  무삼지로 29 ",
   "phone": "063-246-4530",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,29 @@
   ],
   "latitude": 35.828171,
   "longitude": 127.164679,
-  "updated_at": "2026-01-12T11:48:09.878091"
+  "updated_at": "2026-02-03T18:23:22.098296",
+  "first_prize_draws": [
+    998,
+    907,
+    883,
+    661,
+    572
+  ],
+  "second_prize_draws": [
+    1125,
+    1116,
+    1088,
+    1070,
+    1057,
+    840,
+    728,
+    677,
+    586,
+    580,
+    484,
+    436,
+    390
+  ],
+  "first_prize_count": 5,
+  "second_prize_count": 13
 }

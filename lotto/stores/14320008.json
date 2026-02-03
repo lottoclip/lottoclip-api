@@ -1,7 +1,7 @@
 {
   "store_id": "14320008",
   "name": "행운로또",
-  "address": "충북 진천군 대하로 151 ",
+  "address": "충북 진천군  대하로 151 106호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 36.904202,
   "longitude": 127.535525,
-  "updated_at": "2026-01-12T12:00:09.708398"
+  "updated_at": "2026-02-03T18:27:55.383453",
+  "first_prize_draws": [
+    1181,
+    857,
+    816
+  ],
+  "second_prize_draws": [
+    1079,
+    989,
+    922,
+    860,
+    817,
+    745
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 6
 }

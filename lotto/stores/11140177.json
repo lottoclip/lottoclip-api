@@ -1,7 +1,7 @@
 {
   "store_id": "11140177",
   "name": "장수복권",
-  "address": "서울 관악구 난곡로 223 ",
+  "address": "서울 관악구  난곡로 223 1층",
   "phone": "02-868-1758",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 37.47412,
   "longitude": 126.91699,
-  "updated_at": "2026-01-12T11:49:31.270157"
+  "updated_at": "2026-02-03T18:27:46.515893",
+  "first_prize_draws": [
+    1019
+  ],
+  "second_prize_draws": [
+    1179,
+    1150,
+    1119,
+    1096,
+    1094,
+    1080,
+    1067,
+    1043
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

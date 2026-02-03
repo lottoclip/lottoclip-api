@@ -1,7 +1,7 @@
 {
   "store_id": "14640100",
   "name": "황금알복권",
-  "address": "전남 광양시 광포로 39 ",
+  "address": "전남 광양시  광포로 39 1층 (광영동)",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 34.962803,
   "longitude": 127.722842,
-  "updated_at": "2026-01-12T12:01:51.607170"
+  "updated_at": "2026-02-03T18:29:31.999843",
+  "first_prize_draws": [
+    1203,
+    1141
+  ],
+  "second_prize_draws": [
+    1167,
+    1163,
+    1112,
+    1059,
+    1014
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 5
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14600054",
   "name": "포시즌마트",
-  "address": "전남 순천시 장천3길 10 ",
+  "address": "전남 순천시 장천3길 10 포시즌마트  ",
   "phone": "061-744-7833",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 34.947546,
   "longitude": 127.490487,
-  "updated_at": "2026-01-12T11:32:43.628691"
+  "updated_at": "2026-02-03T18:29:57.753168",
+  "first_prize_draws": [
+    732
+  ],
+  "second_prize_draws": [
+    1209,
+    1042,
+    977,
+    899,
+    861,
+    820,
+    366
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

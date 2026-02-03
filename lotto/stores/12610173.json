@@ -1,7 +1,7 @@
 {
   "store_id": "12610173",
   "name": "롯데무역",
-  "address": "부산 영도구 꿈나무길 197 ",
+  "address": "부산 영도구  꿈나무길 197 1층 복권방",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 35.087285,
   "longitude": 129.04375,
-  "updated_at": "2026-01-12T11:58:39.968743"
+  "updated_at": "2026-02-03T18:27:33.731388",
+  "first_prize_draws": [
+    1153,
+    1130,
+    1119,
+    918
+  ],
+  "second_prize_draws": [
+    1176,
+    1076,
+    1010,
+    981,
+    728,
+    455,
+    448
+  ],
+  "first_prize_count": 4,
+  "second_prize_count": 7
 }

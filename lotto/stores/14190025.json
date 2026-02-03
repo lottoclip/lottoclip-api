@@ -1,7 +1,7 @@
 {
   "store_id": "14190025",
   "name": "천하명당복권방",
-  "address": "경기 수원시 팔달구 효원로 36 ",
+  "address": "경기 수원시 팔달구  효원로 36 ",
   "phone": "031-247-9762",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,25 @@
   ],
   "latitude": 37.27039,
   "longitude": 127.008732,
-  "updated_at": "2026-01-12T11:23:59.992604"
+  "updated_at": "2026-02-03T18:28:56.950722",
+  "first_prize_draws": [
+    586,
+    557
+  ],
+  "second_prize_draws": [
+    1195,
+    1104,
+    1015,
+    1002,
+    935,
+    844,
+    809,
+    787,
+    770,
+    741,
+    621,
+    491
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 12
 }

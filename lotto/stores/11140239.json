@@ -1,7 +1,7 @@
 {
   "store_id": "11140239",
   "name": "다담",
-  "address": "서울 동대문구 장한로18길 50 ",
+  "address": "서울 동대문구  장한로18길 50 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 37.567555,
   "longitude": 127.071697,
-  "updated_at": "2026-01-12T11:45:14.399163"
+  "updated_at": "2026-02-03T18:22:02.674758",
+  "first_prize_draws": [
+    947
+  ],
+  "second_prize_draws": [
+    1110
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

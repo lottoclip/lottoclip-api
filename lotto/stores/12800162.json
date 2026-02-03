@@ -1,7 +1,7 @@
 {
   "store_id": "12800162",
   "name": "동수슈퍼문구복권",
-  "address": "인천 부평구 동수로 101 ",
+  "address": "인천 부평구  동수로 101 ",
   "phone": "032-524-4735",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 37.485456,
   "longitude": 126.729793,
-  "updated_at": "2026-01-12T11:45:39.553184"
+  "updated_at": "2026-02-03T18:11:03.971106",
+  "first_prize_draws": [
+    955,
+    662
+  ],
+  "second_prize_draws": [
+    973,
+    866,
+    712
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 3
 }

@@ -1,12 +1,20 @@
 {
   "store_id": "14810014",
   "name": "찬스로또방",
-  "address": "경남 창원시 내동  456-17번지내동상가1층7-8호",
+  "address": "경남 창원시 내동  456-17번지 내동상가 1층 7-8호",
   "phone": "055-281-6919",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 35.218735,
   "longitude": 128.661413,
-  "updated_at": "2026-01-12T11:09:02.528946"
+  "updated_at": "2026-02-03T17:22:16.837500",
+  "first_prize_draws": [
+    336
+  ],
+  "second_prize_draws": [
+    347
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

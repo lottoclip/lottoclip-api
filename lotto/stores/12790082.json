@@ -1,7 +1,7 @@
 {
   "store_id": "12790082",
   "name": "동인마트",
-  "address": "대구 중구 태평로 266 ",
+  "address": "대구 중구  태평로 266 ",
   "phone": "053-426-3683",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 35.87241,
   "longitude": 128.606356,
-  "updated_at": "2026-01-12T11:07:34.059108"
+  "updated_at": "2026-02-03T18:17:56.809147",
+  "first_prize_draws": [
+    312
+  ],
+  "second_prize_draws": [
+    1057,
+    1036,
+    849,
+    790,
+    771,
+    630
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

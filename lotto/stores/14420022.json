@@ -1,7 +1,7 @@
 {
   "store_id": "14420022",
   "name": "씨스페이스 아산모종로또점",
-  "address": "충남 아산시 문화로 329 ",
+  "address": "충남 아산시  문화로 329 1층 104호(씨스페이스 편의점)",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 36.783531,
   "longitude": 127.01733,
-  "updated_at": "2026-01-12T11:52:09.006635"
+  "updated_at": "2026-02-03T18:18:42.455978",
+  "first_prize_draws": [
+    1059
+  ],
+  "second_prize_draws": [
+    1067,
+    985,
+    969,
+    904,
+    871,
+    717,
+    643
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

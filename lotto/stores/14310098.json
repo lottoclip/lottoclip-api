@@ -1,7 +1,7 @@
 {
   "store_id": "14310098",
   "name": "한마음",
-  "address": "충북 제천시 신백동  110-11",
+  "address": "충북 제천시 장락동 851-2 1층",
   "phone": "043-646-2273",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,13 @@
   ],
   "latitude": 37.151555,
   "longitude": 128.224208,
-  "updated_at": "2026-01-12T11:10:36.914387"
+  "updated_at": "2026-02-03T17:50:28.521333",
+  "first_prize_draws": [
+    362
+  ],
+  "second_prize_draws": [
+    723
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

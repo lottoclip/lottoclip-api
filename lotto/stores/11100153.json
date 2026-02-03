@@ -1,7 +1,7 @@
 {
   "store_id": "11100153",
   "name": "행운의사랑방",
-  "address": "서울 영등포구 도림로 465 ",
+  "address": "서울 영등포구  도림로 465 ",
   "phone": "02-3667-8282",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 37.515677,
   "longitude": 126.891593,
-  "updated_at": "2026-01-12T11:46:38.840845"
+  "updated_at": "2026-02-03T18:21:41.476750",
+  "first_prize_draws": [
+    974,
+    948
+  ],
+  "second_prize_draws": [
+    1105,
+    1095,
+    843,
+    832,
+    598,
+    453,
+    360,
+    291
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 8
 }

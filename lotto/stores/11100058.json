@@ -1,12 +1,23 @@
 {
   "store_id": "11100058",
   "name": "복권",
-  "address": "서울 중랑구 망우로30길 8 ",
+  "address": "서울 중랑구  망우로30길 8 105호",
   "phone": "070-8849-8958",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.592858,
   "longitude": 127.074271,
-  "updated_at": "2026-01-12T11:42:36.225483"
+  "updated_at": "2026-02-03T18:12:50.863002",
+  "first_prize_draws": [
+    901,
+    683
+  ],
+  "second_prize_draws": [
+    994,
+    661,
+    592
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 3
 }

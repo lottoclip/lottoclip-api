@@ -1,7 +1,7 @@
 {
   "store_id": "12690009",
   "name": "돈벼락맞는곳",
-  "address": "부산 기장군 읍내로 109 ",
+  "address": "부산 기장군  읍내로 109 ",
   "phone": "051-723-0244",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 35.245251,
   "longitude": 129.21635,
-  "updated_at": "2026-01-12T11:55:30.556377"
+  "updated_at": "2026-02-03T18:22:02.812373",
+  "first_prize_draws": [
+    1108,
+    1092,
+    1089,
+    1076,
+    720
+  ],
+  "second_prize_draws": [
+    1110,
+    857,
+    538,
+    381
+  ],
+  "first_prize_count": 5,
+  "second_prize_count": 4
 }

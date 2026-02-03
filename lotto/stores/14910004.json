@@ -1,7 +1,7 @@
 {
   "store_id": "14910004",
   "name": "로또복권판매",
-  "address": "제주 서귀포시 표선동서로 230 ",
+  "address": "제주 서귀포시  표선동서로 230 ",
   "phone": "064-787-5482",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 33.324868,
   "longitude": 126.832557,
-  "updated_at": "2026-01-12T11:48:25.780563"
+  "updated_at": "2026-02-03T18:27:34.229183",
+  "first_prize_draws": [
+    1003,
+    1000
+  ],
+  "second_prize_draws": [
+    1176,
+    1164,
+    1065,
+    804,
+    639,
+    534,
+    503
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 7
 }

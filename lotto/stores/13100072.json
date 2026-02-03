@@ -1,0 +1,29 @@
+{
+  "store_id": "13100072",
+  "name": "그린복권방",
+  "address": "울산 북구  상방로 88 1층그린플라워",
+  "phone": "052-289-5513",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.589452,
+  "longitude": 129.365805,
+  "updated_at": "2026-02-03T18:25:06.888109",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1146,
+    1089,
+    1065,
+    948,
+    930,
+    912,
+    839,
+    643,
+    603,
+    573
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 10
+}

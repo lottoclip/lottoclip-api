@@ -1,7 +1,7 @@
 {
   "store_id": "14110210",
   "name": "세븐일레븐 평내지원점",
-  "address": "경기 남양주시 경춘로1256번길 6 ",
+  "address": "경기 남양주시  경춘로1256번길 6 112113호",
   "phone": "031-511-6307",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 37.645949,
   "longitude": 127.234365,
-  "updated_at": "2026-01-12T12:00:16.045279"
+  "updated_at": "2026-02-03T18:28:03.680461",
+  "first_prize_draws": [
+    1183
+  ],
+  "second_prize_draws": [
+    1165,
+    999,
+    871,
+    761,
+    267
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

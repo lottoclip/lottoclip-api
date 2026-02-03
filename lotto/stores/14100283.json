@@ -1,7 +1,7 @@
 {
   "store_id": "14100283",
   "name": "코코블루",
-  "address": "경기 성남시 분당구 서현로210번길 20 ",
+  "address": "경기 성남시 분당구  서현로210번길 20 코코프라자지하2호",
   "phone": "031-709-4895",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 37.385939,
   "longitude": 127.12409,
-  "updated_at": "2026-01-12T11:26:11.273584"
+  "updated_at": "2026-02-03T18:23:43.709338",
+  "first_prize_draws": [
+    622,
+    426
+  ],
+  "second_prize_draws": [
+    1130,
+    1004,
+    791,
+    786,
+    667,
+    576,
+    385,
+    381,
+    291
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 9
 }

@@ -1,12 +1,18 @@
 {
   "store_id": "14340188",
   "name": "일등복권방",
-  "address": "충북 청주시 서원구 매봉로 26-1 ",
+  "address": "충북 청주시 서원구  매봉로 26-1 분평계룡리슈빌아파트 단지내 상가동 102호",
   "phone": null,
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 36.612599,
   "longitude": 127.478295,
-  "updated_at": "2026-01-12T11:58:23.621417"
+  "updated_at": "2026-02-03T18:25:15.779229",
+  "first_prize_draws": [
+    1148
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

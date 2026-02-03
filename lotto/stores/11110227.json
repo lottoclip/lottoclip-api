@@ -1,0 +1,20 @@
+{
+  "store_id": "11110227",
+  "name": "로또복권",
+  "address": "서울 구로구 오류동 54-9번지 ",
+  "phone": "02-2681-0366",
+  "lottery_types": [
+    "lotto645"
+  ],
+  "latitude": 37.495447,
+  "longitude": 126.843927,
+  "updated_at": "2026-02-03T17:56:33.894099",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    795,
+    665,
+    456
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 3
+}

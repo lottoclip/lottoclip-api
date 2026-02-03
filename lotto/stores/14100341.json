@@ -1,7 +1,7 @@
 {
   "store_id": "14100341",
   "name": "매향슈퍼",
-  "address": "경기 수원시 팔달구 창룡대로 42-1 ",
+  "address": "경기 수원시 팔달구  창룡대로 42-1 ",
   "phone": "031-258-3338",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 37.282639,
   "longitude": 127.021018,
-  "updated_at": "2026-01-12T11:19:33.978182"
+  "updated_at": "2026-02-03T18:26:28.270711",
+  "first_prize_draws": [
+    506
+  ],
+  "second_prize_draws": [
+    1161,
+    1057,
+    839
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

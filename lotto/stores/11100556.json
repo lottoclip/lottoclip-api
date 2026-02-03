@@ -1,7 +1,7 @@
 {
   "store_id": "11100556",
   "name": "신안할인마트",
-  "address": "서울 중랑구 공릉로2나길 44 ",
+  "address": "서울 중랑구  공릉로2나길 44 신안2차아파트상가101",
   "phone": "02-949-7418",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 37.614103,
   "longitude": 127.080072,
-  "updated_at": "2026-01-12T11:41:52.696541"
+  "updated_at": "2026-02-03T18:18:42.077033",
+  "first_prize_draws": [
+    887
+  ],
+  "second_prize_draws": [
+    1067,
+    1007,
+    627,
+    599,
+    498
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

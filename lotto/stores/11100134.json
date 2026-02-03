@@ -1,0 +1,25 @@
+{
+  "store_id": "11100134",
+  "name": "복권나라",
+  "address": "서울 동대문구 신설동 103-3번지 광일빌딩102호",
+  "phone": "02-2232-7078",
+  "lottery_types": [
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 37.574721,
+  "longitude": 127.024463,
+  "updated_at": "2026-02-03T18:07:23.669833",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    929,
+    796,
+    757,
+    745,
+    603,
+    576,
+    528
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 7
+}

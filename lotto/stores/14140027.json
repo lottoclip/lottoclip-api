@@ -1,7 +1,7 @@
 {
   "store_id": "14140027",
   "name": "일등복권",
-  "address": "경기 성남시 분당구 성남대로331번길 3-3 ",
+  "address": "경기 성남시 분당구  성남대로331번길 3-3 110호 (정자동 젤존타워3)",
   "phone": "070-8828-1212",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 37.365532,
   "longitude": 127.107738,
-  "updated_at": "2026-01-12T11:48:44.911800"
+  "updated_at": "2026-02-03T18:18:55.479205",
+  "first_prize_draws": [
+    1009
+  ],
+  "second_prize_draws": [
+    1070,
+    1052,
+    993,
+    963,
+    932,
+    795,
+    788,
+    769
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

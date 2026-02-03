@@ -1,7 +1,7 @@
 {
   "store_id": "22600025",
   "name": "씨스페이스(중앙제일점)",
-  "address": "부산 중구 동광동3가  17-2",
+  "address": "부산 중구 동광동3가 17-2번지 ",
   "phone": "051-255-6942",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,16 @@
   ],
   "latitude": 35.101158,
   "longitude": 129.034786,
-  "updated_at": "2026-01-12T11:18:41.192136"
+  "updated_at": "2026-02-03T17:54:31.120496",
+  "first_prize_draws": [
+    494,
+    290
+  ],
+  "second_prize_draws": [
+    768,
+    517,
+    479
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 3
 }

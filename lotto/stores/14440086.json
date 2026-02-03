@@ -1,7 +1,7 @@
 {
   "store_id": "14440086",
   "name": "복권명당(이마트24 온천대로점)",
-  "address": "충남 아산시 곡교천로 161 ",
+  "address": "충남 아산시  곡교천로 161 101호",
   "phone": "041-533-1777",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 36.79529,
   "longitude": 126.99672,
-  "updated_at": "2026-01-12T11:53:24.756094"
+  "updated_at": "2026-02-03T18:28:57.114932",
+  "first_prize_draws": [
+    1078,
+    1050
+  ],
+  "second_prize_draws": [
+    1195,
+    1157,
+    1150,
+    1076,
+    1073,
+    1028,
+    1002,
+    962,
+    933,
+    895
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 10
 }

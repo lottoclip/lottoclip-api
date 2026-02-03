@@ -1,7 +1,7 @@
 {
   "store_id": "14710022",
   "name": "영덕로또복권",
-  "address": "경북 영덕군 덕곡길 128 ",
+  "address": "경북 영덕군  덕곡길 128 ",
   "phone": "054-734-1991",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,25 @@
   ],
   "latitude": 36.412933,
   "longitude": 129.365619,
-  "updated_at": "2026-01-12T11:05:05.140654"
+  "updated_at": "2026-02-03T18:20:46.619496",
+  "first_prize_draws": [
+    268
+  ],
+  "second_prize_draws": [
+    1092,
+    1071,
+    1064,
+    791,
+    769,
+    612,
+    594,
+    572,
+    567,
+    445,
+    368,
+    340,
+    301
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 13
 }

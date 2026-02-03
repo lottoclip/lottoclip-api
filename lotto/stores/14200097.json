@@ -1,0 +1,24 @@
+{
+  "store_id": "14200097",
+  "name": "주택복권판매소",
+  "address": "강원 춘천시 조양동(조운동) 37-11 대우증권옆 가판",
+  "phone": "033-243-4404",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.879971,
+  "longitude": 127.728482,
+  "updated_at": "2026-02-03T18:03:27.160238",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    881,
+    704,
+    579,
+    510,
+    464
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 5
+}

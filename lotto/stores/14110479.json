@@ -1,7 +1,7 @@
 {
   "store_id": "14110479",
   "name": "로뎀",
-  "address": "경기 화성시 주석로 237 ",
+  "address": "경기 화성시  주석로 237 ",
   "phone": "031-232-4215",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 37.2116,
   "longitude": 126.855576,
-  "updated_at": "2026-01-12T11:40:13.311789"
+  "updated_at": "2026-02-03T18:19:30.502096",
+  "first_prize_draws": [
+    865
+  ],
+  "second_prize_draws": [
+    1078,
+    941,
+    929,
+    892,
+    788,
+    685,
+    682,
+    618,
+    534,
+    519,
+    431,
+    414
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 12
 }

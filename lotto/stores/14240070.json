@@ -1,14 +1,22 @@
 {
   "store_id": "14240070",
   "name": "전천후로또",
-  "address": "강원 춘천시 안마산로 213 ",
+  "address": "강원 춘천시  안마산로 213 1동 117호",
   "phone": null,
   "lottery_types": [
-    "lotto645",
-    "pension720",
-    "speetto"
+    "lotto645"
   ],
   "latitude": 37.849969,
   "longitude": 127.737768,
-  "updated_at": "2026-01-12T11:46:26.435104"
+  "updated_at": "2026-02-03T18:28:30.360113",
+  "first_prize_draws": [
+    970
+  ],
+  "second_prize_draws": [
+    1189,
+    1188,
+    992
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

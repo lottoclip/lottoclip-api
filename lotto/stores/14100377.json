@@ -1,7 +1,7 @@
 {
   "store_id": "14100377",
-  "name": "각골할인마트",
-  "address": "경기 안산시 상록구 각골로 37 ",
+  "name": "각골복권점",
+  "address": "경기 안산시 상록구  각골로 37 ",
   "phone": "031-501-4420",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 37.292724,
   "longitude": 126.872272,
-  "updated_at": "2026-01-12T11:28:24.433788"
+  "updated_at": "2026-02-03T18:20:20.484795",
+  "first_prize_draws": [
+    660,
+    425
+  ],
+  "second_prize_draws": [
+    1086,
+    1048,
+    916,
+    789,
+    743,
+    604,
+    514,
+    507,
+    440,
+    432
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 10
 }

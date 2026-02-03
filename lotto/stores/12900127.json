@@ -1,7 +1,7 @@
 {
   "store_id": "12900127",
-  "name": "연화네마트",
-  "address": "광주 북구 양산택지로 17 ",
+  "name": "태양복권방",
+  "address": "광주 북구 양산동 1016 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 35.208187,
   "longitude": 126.878691,
-  "updated_at": "2026-01-12T11:22:11.184079"
+  "updated_at": "2026-02-03T18:06:23.550289",
+  "first_prize_draws": [
+    556
+  ],
+  "second_prize_draws": [
+    917,
+    895,
+    883,
+    745,
+    692,
+    646,
+    567,
+    533,
+    465,
+    462
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

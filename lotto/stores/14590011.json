@@ -1,12 +1,27 @@
 {
   "store_id": "14590011",
   "name": "복권나라",
-  "address": "전북 군산시 번영로 891 ",
+  "address": "전북 군산시  번영로 891 ",
   "phone": "063-452-5412",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 35.946722,
   "longitude": 126.810387,
-  "updated_at": "2026-01-12T11:52:25.084092"
+  "updated_at": "2026-02-03T18:18:29.691116",
+  "first_prize_draws": [
+    1064,
+    827,
+    734
+  ],
+  "second_prize_draws": [
+    1060,
+    846,
+    820,
+    796,
+    745,
+    609
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 6
 }

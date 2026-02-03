@@ -1,7 +1,7 @@
 {
   "store_id": "14140089",
   "name": "신바람",
-  "address": "경기 평택시 서해로 1979 ",
+  "address": "경기 평택시  서해로 1979 101호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.0625,
   "longitude": 126.918332,
-  "updated_at": "2026-01-12T11:56:01.296702"
+  "updated_at": "2026-02-03T18:28:21.308681",
+  "first_prize_draws": [
+    1113
+  ],
+  "second_prize_draws": [
+    1187,
+    1171,
+    1072,
+    1038,
+    1005,
+    970,
+    904
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

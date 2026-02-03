@@ -1,7 +1,7 @@
 {
   "store_id": "14310100",
   "name": "선경로또",
-  "address": "충북 제천시 용두대로 59 ",
+  "address": "충북 제천시  용두대로 59 1층",
   "phone": "043-642-2002",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 37.136219,
   "longitude": 128.199362,
-  "updated_at": "2026-01-12T12:01:48.072560"
+  "updated_at": "2026-02-03T18:29:27.086153",
+  "first_prize_draws": [
+    1202,
+    1131,
+    875,
+    866,
+    291
+  ],
+  "second_prize_draws": [
+    1170,
+    1159,
+    965,
+    636,
+    586
+  ],
+  "first_prize_count": 5,
+  "second_prize_count": 5
 }

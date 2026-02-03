@@ -1,7 +1,7 @@
 {
   "store_id": "14840483",
   "name": "로또판매점",
-  "address": "경남 창원시 마산합포구 문화북1길 37 ",
+  "address": "경남 창원시 마산합포구  문화북1길 37 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 35.187454,
   "longitude": 128.561136,
-  "updated_at": "2026-01-12T11:52:34.524110"
+  "updated_at": "2026-02-03T18:26:28.535346",
+  "first_prize_draws": [
+    1067
+  ],
+  "second_prize_draws": [
+    1161
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

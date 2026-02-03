@@ -1,0 +1,23 @@
+{
+  "store_id": "11110691",
+  "name": "로또복권",
+  "address": "서울 구로구 구로동 738-71번지 ",
+  "phone": "02-867-4123",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.487185,
+  "longitude": 126.885229,
+  "updated_at": "2026-02-03T18:01:23.594993",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    856,
+    765,
+    616,
+    376
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 4
+}

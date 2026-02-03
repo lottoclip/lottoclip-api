@@ -1,7 +1,7 @@
 {
   "store_id": "14290004",
   "name": "복권나라",
-  "address": "강원 속초시 중앙로 28 ",
+  "address": "강원 속초시  중앙로 28 ",
   "phone": "033-636-8245",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 38.198736,
   "longitude": 128.580134,
-  "updated_at": "2026-01-12T11:53:56.692597"
+  "updated_at": "2026-02-03T18:20:29.039842",
+  "first_prize_draws": [
+    1088,
+    451
+  ],
+  "second_prize_draws": [
+    761,
+    530
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 2
 }

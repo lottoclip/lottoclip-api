@@ -1,7 +1,7 @@
 {
   "store_id": "14310083",
   "name": "로또스튜디오",
-  "address": "충북 청주시 청원구 사뜸로 48-1 ",
+  "address": "충북 청주시 청원구  사뜸로 48-1 1층",
   "phone": "043-216-3927",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 36.666543,
   "longitude": 127.481482,
-  "updated_at": "2026-01-12T11:57:20.733419"
+  "updated_at": "2026-02-03T18:28:08.197080",
+  "first_prize_draws": [
+    1133,
+    1068,
+    867,
+    661
+  ],
+  "second_prize_draws": [
+    1184,
+    1160,
+    1099,
+    1043,
+    1035,
+    980,
+    851,
+    754
+  ],
+  "first_prize_count": 4,
+  "second_prize_count": 8
 }

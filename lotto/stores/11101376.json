@@ -1,7 +1,7 @@
 {
   "store_id": "11101376",
-  "name": "세계주류백화점",
-  "address": "서울 성동구 금호동4가  614번지",
+  "name": "금호복권방",
+  "address": "서울 성동구  금호산길 60-1 ",
   "phone": "02-2233-0477",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,16 @@
   ],
   "latitude": 37.553583,
   "longitude": 127.019569,
-  "updated_at": "2026-01-12T11:06:32.756220"
+  "updated_at": "2026-02-03T18:08:59.186024",
+  "first_prize_draws": [
+    292
+  ],
+  "second_prize_draws": [
+    946,
+    919,
+    770,
+    393
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

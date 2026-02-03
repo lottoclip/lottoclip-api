@@ -1,12 +1,18 @@
 {
   "store_id": "12640041",
   "name": "하이오 구서점",
-  "address": "부산 금정구 금정로233번길 39 ",
+  "address": "부산 금정구  금정로233번길 39 하이오 커피샵",
   "phone": null,
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 35.246398,
   "longitude": 129.0909,
-  "updated_at": "2026-01-12T11:56:01.255537"
+  "updated_at": "2026-02-03T18:22:15.835094",
+  "first_prize_draws": [
+    1113
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

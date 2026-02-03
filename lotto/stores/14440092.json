@@ -1,7 +1,7 @@
 {
   "store_id": "14440092",
   "name": "내포복권방",
-  "address": "충남 예산군 덕산온천로 387 ",
+  "address": "충남 예산군  덕산온천로 387 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 36.701049,
   "longitude": 126.665614,
-  "updated_at": "2026-01-12T11:59:12.156654"
+  "updated_at": "2026-02-03T18:26:37.049502",
+  "first_prize_draws": [
+    1163
+  ],
+  "second_prize_draws": [
+    898
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14100700",
   "name": "코니아일랜드아이스크림",
-  "address": "경기 남양주시 마치로 339 ",
+  "address": "경기 남양주시  마치로 339 진우로얄빌라제나동102",
   "phone": "031-511-9187",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 37.655721,
   "longitude": 127.282415,
-  "updated_at": "2026-01-12T11:37:14.319739"
+  "updated_at": "2026-02-03T18:27:59.413410",
+  "first_prize_draws": [
+    808
+  ],
+  "second_prize_draws": [
+    1182,
+    1140,
+    1107,
+    1066,
+    1055,
+    987,
+    818,
+    544,
+    482,
+    453
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

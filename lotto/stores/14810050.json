@@ -1,7 +1,7 @@
 {
   "store_id": "14810050",
   "name": "삼성복권마트",
-  "address": "경남 김해시 평전로 20 ",
+  "address": "경남 김해시  평전로 20 우리24시슈퍼 내 좌측 복권판매점",
   "phone": "055-337-9973",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 35.233956,
   "longitude": 128.85208,
-  "updated_at": "2026-01-12T11:57:04.809187"
+  "updated_at": "2026-02-03T18:23:35.254271",
+  "first_prize_draws": [
+    1128
+  ],
+  "second_prize_draws": [
+    1078,
+    928,
+    904,
+    660,
+    647,
+    577,
+    523,
+    508,
+    479,
+    345,
+    315,
+    281
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 12
 }

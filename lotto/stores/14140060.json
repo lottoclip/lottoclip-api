@@ -1,7 +1,7 @@
 {
   "store_id": "14140060",
   "name": "나들가게",
-  "address": "경기 부천시 경인로224번길 91 ",
+  "address": "경기 부천시 심곡본동(대산동) 695 1층 슈퍼",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,11 @@
   ],
   "latitude": 37.479206,
   "longitude": 126.779459,
-  "updated_at": "2026-01-12T11:42:39.372809"
+  "updated_at": "2026-02-03T18:04:59.959791",
+  "first_prize_draws": [
+    902
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

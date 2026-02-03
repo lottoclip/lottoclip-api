@@ -1,7 +1,7 @@
 {
   "store_id": "12900038",
   "name": "대박복권전문점",
-  "address": "광주 서구 금화로115번길 9 ",
+  "address": "광주 서구 금화로115번길 9 한국APT 2차상가 106호  ",
   "phone": "070-8258-0645",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 35.133662,
   "longitude": 126.860537,
-  "updated_at": "2026-01-12T11:33:08.272652"
+  "updated_at": "2026-02-03T18:29:40.446152",
+  "first_prize_draws": [
+    735
+  ],
+  "second_prize_draws": [
+    1205,
+    1161,
+    1056,
+    999,
+    929,
+    802,
+    669,
+    615,
+    316
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 9
 }

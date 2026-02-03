@@ -1,7 +1,7 @@
 {
   "store_id": "14540064",
   "name": "행복한복권방",
-  "address": "전북 전주시 덕진구 혁신로 465 ",
+  "address": "전북 전주시 덕진구 혁신로 465  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 35.854501,
   "longitude": 127.065911,
-  "updated_at": "2026-01-12T12:01:51.599027"
+  "updated_at": "2026-02-03T18:29:44.938673",
+  "first_prize_draws": [
+    1203,
+    1198
+  ],
+  "second_prize_draws": [
+    1206,
+    1202,
+    1159,
+    1150,
+    1140,
+    1042
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 6
 }

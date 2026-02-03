@@ -1,7 +1,7 @@
 {
   "store_id": "14740114",
   "name": "대박로또",
-  "address": "경북 영천시 금호로 88 ",
+  "address": "경북 영천시  금호로 88 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 35.930962,
   "longitude": 128.871755,
-  "updated_at": "2026-01-12T11:45:58.237701"
+  "updated_at": "2026-02-03T18:28:39.707972",
+  "first_prize_draws": [
+    961
+  ],
+  "second_prize_draws": [
+    1191,
+    1112,
+    1098,
+    1034,
+    966,
+    956,
+    936
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

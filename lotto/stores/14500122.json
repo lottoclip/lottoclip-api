@@ -1,7 +1,7 @@
 {
   "store_id": "14500122",
-  "name": "제일복권",
-  "address": "전북 전주시 완산구 홍산1길 7 ",
+  "name": "(sk)대박상회",
+  "address": "전북 전주시 완산구  홍산1길 7 ",
   "phone": "063-277-8008",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 35.814104,
   "longitude": 127.108626,
-  "updated_at": "2026-01-12T11:30:26.431183"
+  "updated_at": "2026-02-03T18:10:55.107605",
+  "first_prize_draws": [
+    689
+  ],
+  "second_prize_draws": [
+    971,
+    907,
+    610,
+    520,
+    366
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

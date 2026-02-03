@@ -1,0 +1,26 @@
+{
+  "store_id": "11100170",
+  "name": "행운복권방",
+  "address": "서울 은평구  은평로 101 응암연립 1층 3호",
+  "phone": "02-383-5918",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.599992,
+  "longitude": 126.919042,
+  "updated_at": "2026-02-03T18:18:42.067939",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1067,
+    1044,
+    1016,
+    955,
+    918,
+    752,
+    608
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 7
+}

@@ -1,7 +1,7 @@
 {
   "store_id": "12640112",
   "name": "라이프복권",
-  "address": "부산 동구 고관로 106 ",
+  "address": "부산 동구  고관로 106 1층 137~139호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 35.128258,
   "longitude": 129.046391,
-  "updated_at": "2026-01-12T11:59:50.462212"
+  "updated_at": "2026-02-03T18:27:29.345823",
+  "first_prize_draws": [
+    1175
+  ],
+  "second_prize_draws": [
+    1067
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

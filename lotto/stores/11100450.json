@@ -1,7 +1,7 @@
 {
   "store_id": "11100450",
   "name": "국민슈퍼",
-  "address": "서울 도봉구 도봉로 588 ",
+  "address": "서울 도봉구  도봉로 588 ",
   "phone": "02-900-6791",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 37.657053,
   "longitude": 127.040105,
-  "updated_at": "2026-01-12T11:41:37.121335"
+  "updated_at": "2026-02-03T18:28:07.807865",
+  "first_prize_draws": [
+    882
+  ],
+  "second_prize_draws": [
+    1184,
+    1009,
+    919,
+    822,
+    672,
+    492,
+    344,
+    328
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

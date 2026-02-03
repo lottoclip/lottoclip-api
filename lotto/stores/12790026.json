@@ -1,7 +1,7 @@
 {
   "store_id": "12790026",
   "name": "복권명당신기점",
-  "address": "대구 동구 율하동로24길 49 ",
+  "address": "대구 동구 율하동로24길 49  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 35.869595,
   "longitude": 128.707683,
-  "updated_at": "2026-01-12T12:01:57.925280"
+  "updated_at": "2026-02-03T18:29:40.354200",
+  "first_prize_draws": [
+    1205
+  ],
+  "second_prize_draws": [
+    1119,
+    1096,
+    1025,
+    934,
+    473
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "12900128",
   "name": "길벗",
-  "address": "광주 북구 송월로 26 ",
+  "address": "광주 북구 오치동 1039-11번지 ",
   "phone": "062-251-2518",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 35.186006,
   "longitude": 126.913334,
-  "updated_at": "2026-01-12T11:36:49.651900"
+  "updated_at": "2026-02-03T18:04:37.278486",
+  "first_prize_draws": [
+    800
+  ],
+  "second_prize_draws": [
+    897,
+    860,
+    811,
+    717,
+    602,
+    598,
+    418,
+    381,
+    343,
+    313
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

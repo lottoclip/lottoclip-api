@@ -1,7 +1,7 @@
 {
   "store_id": "11110549",
-  "name": "몽유호가(夢有好家)",
-  "address": "서울 강동구 올림픽로 552 ",
+  "name": "몽유호가",
+  "address": "서울 강동구  올림픽로 552 1층5호",
   "phone": "02-476-1007",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 37.530837,
   "longitude": 127.121028,
-  "updated_at": "2026-01-12T11:53:43.296383"
+  "updated_at": "2026-02-03T18:29:31.244884",
+  "first_prize_draws": [
+    1084
+  ],
+  "second_prize_draws": [
+    1203,
+    1141,
+    1044,
+    990,
+    716,
+    588,
+    528,
+    473
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

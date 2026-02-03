@@ -1,0 +1,24 @@
+{
+  "store_id": "11101435",
+  "name": "복권랜드",
+  "address": "서울 도봉구  도당로 143 대원제니스빌 1층 101호",
+  "phone": "02-3492-2010",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.667338,
+  "longitude": 127.042153,
+  "updated_at": "2026-02-03T18:20:50.421076",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1093,
+    980,
+    858,
+    595,
+    398
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 5
+}

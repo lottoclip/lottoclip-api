@@ -1,7 +1,7 @@
 {
   "store_id": "11110373",
   "name": "로또판매점",
-  "address": "서울 영등포구 시흥대로 671 ",
+  "address": "서울 영등포구  시흥대로 671 1층 8호(대림동)",
   "phone": "02-783-5467",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 37.491614,
   "longitude": 126.908174,
-  "updated_at": "2026-01-12T11:57:26.917359"
+  "updated_at": "2026-02-03T18:24:05.066015",
+  "first_prize_draws": [
+    1135
+  ],
+  "second_prize_draws": [
+    991,
+    983,
+    840,
+    431,
+    311
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

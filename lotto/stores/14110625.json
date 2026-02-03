@@ -1,7 +1,7 @@
 {
   "store_id": "14110625",
   "name": "패밀리복권방",
-  "address": "경기 광주시 오포읍 능평리 152-3번지 ",
+  "address": "경기 광주시  오포로 122 ",
   "phone": "031-766-0806",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 37.34396,
   "longitude": 127.179721,
-  "updated_at": "2026-01-12T11:38:04.580506"
+  "updated_at": "2026-02-03T18:23:39.329350",
+  "first_prize_draws": [
+    824
+  ],
+  "second_prize_draws": [
+    1129,
+    619,
+    520,
+    513,
+    431,
+    424,
+    348,
+    271
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

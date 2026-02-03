@@ -1,0 +1,25 @@
+{
+  "store_id": "12610073",
+  "name": "복권사냥",
+  "address": "부산 동구 초량동 1200-11번지 광장빌딩1층 조이풀편의점",
+  "phone": "051-469-8056",
+  "lottery_types": [
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 35.116202,
+  "longitude": 129.041195,
+  "updated_at": "2026-02-03T17:49:02.306160",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    710,
+    678,
+    674,
+    632,
+    593,
+    528,
+    333
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 7
+}

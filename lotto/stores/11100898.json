@@ -1,7 +1,7 @@
 {
   "store_id": "11100898",
   "name": "가로판매점",
-  "address": "서울 중구 서소문로 109 ",
+  "address": "서울 중구  서소문로 109 ",
   "phone": "02-752-7657",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 37.563055,
   "longitude": 126.973257,
-  "updated_at": "2026-01-12T11:33:49.591920"
+  "updated_at": "2026-02-03T18:18:37.715418",
+  "first_prize_draws": [
+    748,
+    575,
+    359
+  ],
+  "second_prize_draws": [
+    1066,
+    846,
+    602,
+    530,
+    520,
+    434
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 6
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14200112",
-  "name": "시네마천국",
-  "address": "강원 춘천시 석사동 726-11 ",
+  "name": "공지천복권방",
+  "address": "강원 춘천시 근화동 742 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 37.880796,
   "longitude": 127.713459,
-  "updated_at": "2026-01-12T11:33:49.621051"
+  "updated_at": "2026-02-03T18:06:39.796183",
+  "first_prize_draws": [
+    748
+  ],
+  "second_prize_draws": [
+    919,
+    536
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14100289",
   "name": "오이도직판장마트",
-  "address": "경기 시흥시 오이도로 167 ",
+  "address": "경기 시흥시  오이도로 167 오이도이주단지B",
   "phone": "031-431-4454",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 37.345855,
   "longitude": 126.688207,
-  "updated_at": "2026-01-12T11:48:25.766993"
+  "updated_at": "2026-02-03T18:20:16.141107",
+  "first_prize_draws": [
+    1003,
+    944
+  ],
+  "second_prize_draws": [
+    1085,
+    993,
+    991,
+    924,
+    668,
+    626,
+    587,
+    346,
+    339,
+    329,
+    270
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 11
 }

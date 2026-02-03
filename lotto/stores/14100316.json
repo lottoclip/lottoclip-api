@@ -1,7 +1,7 @@
 {
   "store_id": "14100316",
   "name": "리버스 편의점",
-  "address": "경기 하남시 미사대로 520 ",
+  "address": "경기 하남시  미사대로 520 현대지식산업센터 한강미사2차 D동 125호",
   "phone": "031-794-6668",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 37.558866,
   "longitude": 127.20458,
-  "updated_at": "2026-01-12T12:00:41.888790"
+  "updated_at": "2026-02-03T18:28:39.452486",
+  "first_prize_draws": [
+    1191,
+    913
+  ],
+  "second_prize_draws": [
+    987
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 1
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "11101325",
-  "name": "진텔레콤",
-  "address": "서울 구로구 구로중앙로 216-1 ",
+  "name": "해피데이",
+  "address": "서울 구로구  구로중앙로 216-1 1층",
   "phone": "02-6348-2900",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.505304,
   "longitude": 126.877336,
-  "updated_at": "2026-01-12T11:32:16.933546"
+  "updated_at": "2026-02-03T18:23:30.048075",
+  "first_prize_draws": [
+    724
+  ],
+  "second_prize_draws": [
+    1127,
+    1124,
+    1084,
+    898,
+    853,
+    817,
+    810
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

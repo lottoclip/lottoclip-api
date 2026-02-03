@@ -1,7 +1,7 @@
 {
   "store_id": "11190031",
-  "name": "천하명당미아현대점",
-  "address": "서울 강북구 솔샘로 283 ",
+  "name": "천하명당 미아점",
+  "address": "서울 강북구  솔샘로 283 1층",
   "phone": "02-986-0318",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 37.618645,
   "longitude": 127.023953,
-  "updated_at": "2026-01-12T11:24:47.760367"
+  "updated_at": "2026-02-03T18:27:24.709306",
+  "first_prize_draws": [
+    601
+  ],
+  "second_prize_draws": [
+    1174,
+    689,
+    467,
+    417,
+    342
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

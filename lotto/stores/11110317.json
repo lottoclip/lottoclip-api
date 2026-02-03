@@ -1,7 +1,7 @@
 {
   "store_id": "11110317",
-  "name": "-",
-  "address": "서울 서초구 방배동  782-1",
+  "name": "동작대로 정금마을앞 가판점",
+  "address": "서울 서초구 방배동  782-1번지",
   "phone": "02-533-6524",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,17 @@
   ],
   "latitude": 37.493842,
   "longitude": 126.983096,
-  "updated_at": "2026-01-12T11:14:12.783858"
+  "updated_at": "2026-02-03T17:43:32.143210",
+  "first_prize_draws": [
+    422,
+    318
+  ],
+  "second_prize_draws": [
+    640,
+    537,
+    465,
+    427
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 4
 }

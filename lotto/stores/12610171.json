@@ -1,7 +1,7 @@
 {
   "store_id": "12610171",
   "name": "영미연산로또복권점",
-  "address": "부산 연제구 반송로 12 ",
+  "address": "부산 연제구  반송로 12 CU마트내 별도부스",
   "phone": "051-852-0037",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,25 @@
   ],
   "latitude": 35.186659,
   "longitude": 129.082759,
-  "updated_at": "2026-01-12T11:43:07.337655"
+  "updated_at": "2026-02-03T18:25:38.171649",
+  "first_prize_draws": [
+    911,
+    579
+  ],
+  "second_prize_draws": [
+    1153,
+    1083,
+    1038,
+    909,
+    895,
+    770,
+    769,
+    722,
+    696,
+    661,
+    652,
+    581
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 12
 }

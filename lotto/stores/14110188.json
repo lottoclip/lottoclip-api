@@ -1,7 +1,7 @@
 {
   "store_id": "14110188",
   "name": "우리로또",
-  "address": "경기 김포시 김포대로 1421 ",
+  "address": "경기 김포시  김포대로 1421 ",
   "phone": "031-996-0050",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,26 @@
   ],
   "latitude": 37.651576,
   "longitude": 126.672643,
-  "updated_at": "2026-01-12T11:35:48.305810"
+  "updated_at": "2026-02-03T18:15:06.393569",
+  "first_prize_draws": [
+    781,
+    620
+  ],
+  "second_prize_draws": [
+    1022,
+    1019,
+    1007,
+    979,
+    945,
+    939,
+    883,
+    800,
+    794,
+    650,
+    631,
+    578,
+    541
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 13
 }

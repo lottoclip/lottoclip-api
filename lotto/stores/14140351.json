@@ -1,7 +1,7 @@
 {
   "store_id": "14140351",
   "name": "1등 터",
-  "address": "경기 김포시 양곡2로30번길 7-7 ",
+  "address": "경기 김포시  양곡2로30번길 7-7 3호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 37.654388,
   "longitude": 126.627551,
-  "updated_at": "2026-01-12T11:51:59.326212"
+  "updated_at": "2026-02-03T18:27:46.683865",
+  "first_prize_draws": [
+    1056
+  ],
+  "second_prize_draws": [
+    1179,
+    1030,
+    1016,
+    992,
+    906
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

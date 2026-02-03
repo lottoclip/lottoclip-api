@@ -1,7 +1,7 @@
 {
   "store_id": "13110051",
   "name": "UBC복권방",
-  "address": "울산 남구 신정동  1137-15",
+  "address": "울산 남구 신정2동 1217-18번지 ",
   "phone": "052-266-2715",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 35.533627,
   "longitude": 129.307255,
-  "updated_at": "2026-01-12T11:14:00.695809"
+  "updated_at": "2026-02-03T18:06:19.293951",
+  "first_prize_draws": [
+    418
+  ],
+  "second_prize_draws": [
+    916,
+    697
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

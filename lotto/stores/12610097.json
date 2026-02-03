@@ -1,7 +1,7 @@
 {
   "store_id": "12610097",
   "name": "세븐일레븐 가야한신점",
-  "address": "부산 부산진구 가야대로589번길 3 ",
+  "address": "부산 부산진구  가야대로589번길 3 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 35.155086,
   "longitude": 129.036365,
-  "updated_at": "2026-01-12T11:52:59.268046"
+  "updated_at": "2026-02-03T18:18:55.349843",
+  "first_prize_draws": [
+    1070
+  ],
+  "second_prize_draws": [
+    1064,
+    987,
+    788,
+    391
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

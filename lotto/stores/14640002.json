@@ -1,7 +1,7 @@
 {
   "store_id": "14640002",
   "name": "이룸로또복권방",
-  "address": "전남 목포시 백년대로297번길 42 ",
+  "address": "전남 목포시  백년대로297번길 42 1층",
   "phone": "061-284-5662",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 34.807109,
   "longitude": 126.418115,
-  "updated_at": "2026-01-12T11:55:33.793782"
+  "updated_at": "2026-02-03T18:25:07.047322",
+  "first_prize_draws": [
+    1109,
+    1108
+  ],
+  "second_prize_draws": [
+    1146,
+    1143,
+    943,
+    828
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 4
 }

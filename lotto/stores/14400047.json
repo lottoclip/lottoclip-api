@@ -1,7 +1,7 @@
 {
   "store_id": "14400047",
   "name": "제이민온천복권",
-  "address": "충남 아산시 번영로217번길 25 ",
+  "address": "충남 아산시 모종동 69-9번지 ",
   "phone": "041-548-2322",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 36.78642,
   "longitude": 127.014582,
-  "updated_at": "2026-01-12T11:11:59.615538"
+  "updated_at": "2026-02-03T17:46:37.487811",
+  "first_prize_draws": [
+    379
+  ],
+  "second_prize_draws": [
+    682,
+    496,
+    474,
+    402,
+    280
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

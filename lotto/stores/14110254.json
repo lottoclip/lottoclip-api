@@ -1,7 +1,7 @@
 {
   "store_id": "14110254",
   "name": "인덕원복권방",
-  "address": "경기 안양시 동안구 흥안대로 523 ",
+  "address": "경기 안양시 동안구  흥안대로 523 ",
   "phone": "031-423-8289",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,27 @@
   ],
   "latitude": 37.400695,
   "longitude": 126.976209,
-  "updated_at": "2026-01-12T11:42:42.429529"
+  "updated_at": "2026-02-03T18:20:55.278268",
+  "first_prize_draws": [
+    903,
+    767
+  ],
+  "second_prize_draws": [
+    1094,
+    962,
+    961,
+    870,
+    867,
+    851,
+    823,
+    801,
+    786,
+    660,
+    623,
+    451,
+    377,
+    318
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 14
 }

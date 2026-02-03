@@ -1,7 +1,7 @@
 {
   "store_id": "14110133",
   "name": "행운로또복권방",
-  "address": "경기 파주시 광탄면 신산1리 215-20번지 ",
+  "address": "경기 파주시  광탄면 동거리길 28 ",
   "phone": "031-947-0901",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,25 @@
   ],
   "latitude": 37.782775,
   "longitude": 126.860337,
-  "updated_at": "2026-01-12T11:36:29.725486"
+  "updated_at": "2026-02-03T18:07:33.108437",
+  "first_prize_draws": [
+    794
+  ],
+  "second_prize_draws": [
+    931,
+    924,
+    857,
+    795,
+    771,
+    708,
+    705,
+    663,
+    660,
+    593,
+    556,
+    434,
+    423
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 13
 }

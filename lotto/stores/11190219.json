@@ -1,7 +1,7 @@
 {
   "store_id": "11190219",
   "name": "모아주류뱅크광화문점",
-  "address": "서울 종로구 통의동  47번지",
+  "address": "서울 종로구 통의동(사직동) 47 ",
   "phone": "02-738-9274",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,15 @@
   ],
   "latitude": 37.576637,
   "longitude": 126.972895,
-  "updated_at": "2026-01-12T11:23:38.164323"
+  "updated_at": "2026-02-03T17:58:47.448923",
+  "first_prize_draws": [
+    579
+  ],
+  "second_prize_draws": [
+    822,
+    789,
+    312
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

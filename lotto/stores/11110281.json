@@ -1,7 +1,7 @@
 {
   "store_id": "11110281",
   "name": "로또복권",
-  "address": "서울 도봉구 도봉로113길 15 ",
+  "address": "서울 도봉구  도봉로113길 15 ",
   "phone": "02-995-1500",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 37.648022,
   "longitude": 127.033136,
-  "updated_at": "2026-01-12T11:13:57.320953"
+  "updated_at": "2026-02-03T18:23:00.633211",
+  "first_prize_draws": [
+    417
+  ],
+  "second_prize_draws": [
+    1120,
+    1097,
+    804,
+    713,
+    682,
+    503,
+    484,
+    428
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

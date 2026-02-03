@@ -1,7 +1,7 @@
 {
   "store_id": "22800078",
   "name": "CU(서구가정점)",
-  "address": "인천 서구 가정동  527-27번지",
+  "address": "인천 서구 경서동(검암경서동) 733-14 ",
   "phone": "032-569-7460",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,15 @@
   ],
   "latitude": 37.558428,
   "longitude": 126.653676,
-  "updated_at": "2026-01-12T11:24:37.594385"
+  "updated_at": "2026-02-03T18:04:59.879500",
+  "first_prize_draws": [
+    598
+  ],
+  "second_prize_draws": [
+    902,
+    415,
+    313
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14110272",
   "name": "당첨로또복권",
-  "address": "경기 안양시 동안구 포도원로 4 ",
+  "address": "경기 안양시 동안구 호계동 859-12 ",
   "phone": "031-477-1136",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 37.361945,
   "longitude": 126.962512,
-  "updated_at": "2026-01-12T11:18:22.478977"
+  "updated_at": "2026-02-03T18:07:15.414424",
+  "first_prize_draws": [
+    488,
+    264
+  ],
+  "second_prize_draws": [
+    927,
+    839,
+    598,
+    302
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 4
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "13010013",
   "name": "행운슈퍼",
-  "address": "대전 대덕구 오정로100번길 37 ",
+  "address": "대전 대덕구  오정로100번길 37 ",
   "phone": "042-625-4522",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 36.355967,
   "longitude": 127.409285,
-  "updated_at": "2026-01-12T11:39:19.893011"
+  "updated_at": "2026-02-03T18:23:13.477284",
+  "first_prize_draws": [
+    848
+  ],
+  "second_prize_draws": [
+    1123,
+    1033,
+    946,
+    704,
+    548,
+    500,
+    448,
+    386
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

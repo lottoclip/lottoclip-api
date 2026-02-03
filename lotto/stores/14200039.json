@@ -1,7 +1,7 @@
 {
   "store_id": "14200039",
   "name": "봉의산마트",
-  "address": "강원 춘천시 춘천로 326 ",
+  "address": "강원 춘천시  춘천로 326 1층",
   "phone": "033-242-2653",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 37.882612,
   "longitude": 127.748669,
-  "updated_at": "2026-01-12T11:30:51.382446"
+  "updated_at": "2026-02-03T18:17:28.639683",
+  "first_prize_draws": [
+    697,
+    292
+  ],
+  "second_prize_draws": [
+    1051,
+    1015,
+    761,
+    687,
+    659,
+    531,
+    466
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 7
 }

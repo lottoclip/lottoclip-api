@@ -1,7 +1,7 @@
 {
   "store_id": "14700150",
   "name": "로또복권 황성점",
-  "address": "경북 경주시 황성로27번길 2 ",
+  "address": "경북 경주시 황성동 472-8 4호",
   "phone": "054-772-1888",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 35.865791,
   "longitude": 129.214427,
-  "updated_at": "2026-01-12T11:44:08.828706"
+  "updated_at": "2026-02-03T18:07:11.147873",
+  "first_prize_draws": [
+    926
+  ],
+  "second_prize_draws": [
+    504
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

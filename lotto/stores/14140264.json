@@ -1,7 +1,7 @@
 {
   "store_id": "14140264",
   "name": "해뜰날수퍼",
-  "address": "경기 화성시 효행로 241 ",
+  "address": "경기 화성시  효행로 241 103호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.226052,
   "longitude": 126.972346,
-  "updated_at": "2026-01-12T11:41:03.914090"
+  "updated_at": "2026-02-03T18:28:30.337042",
+  "first_prize_draws": [
+    881,
+    782
+  ],
+  "second_prize_draws": [
+    1189,
+    1134,
+    1119,
+    944,
+    937,
+    822
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 6
 }

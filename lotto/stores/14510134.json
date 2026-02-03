@@ -1,7 +1,7 @@
 {
   "store_id": "14510134",
   "name": "진안로또",
-  "address": "전북 진안군 진안읍 군상리 군상리 403-102",
+  "address": "전북 진안군 진안읍 군상리 403-102번지 ",
   "phone": "063-432-8107",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,14 @@
   ],
   "latitude": 35.791924,
   "longitude": 127.429875,
-  "updated_at": "2026-01-12T11:07:34.113779"
+  "updated_at": "2026-02-03T18:02:07.076713",
+  "first_prize_draws": [
+    312
+  ],
+  "second_prize_draws": [
+    866,
+    405
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

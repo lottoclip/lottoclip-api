@@ -1,7 +1,7 @@
 {
   "store_id": "12810195",
   "name": "대박복권방",
-  "address": "인천 서구 대평로 3 ",
+  "address": "인천 서구  대평로 3 ",
   "phone": "032-563-0219",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 37.547123,
   "longitude": 126.67662,
-  "updated_at": "2026-01-12T11:46:07.569293"
+  "updated_at": "2026-02-03T18:10:23.400887",
+  "first_prize_draws": [
+    964,
+    757,
+    460
+  ],
+  "second_prize_draws": [
+    884,
+    854,
+    692,
+    671,
+    646,
+    592,
+    428
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 7
 }

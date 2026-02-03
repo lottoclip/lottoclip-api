@@ -1,12 +1,25 @@
 {
   "store_id": "14590036",
   "name": "38복권방",
-  "address": "전북 전주시 완산구 용리로 118 ",
+  "address": "전북 전주시 완산구  용리로 118 ",
   "phone": "063-221-7039",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 35.798159,
   "longitude": 127.122619,
-  "updated_at": "2026-01-12T11:40:41.857240"
+  "updated_at": "2026-02-03T18:15:53.744621",
+  "first_prize_draws": [
+    874
+  ],
+  "second_prize_draws": [
+    1033,
+    967,
+    958,
+    836,
+    775,
+    721
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

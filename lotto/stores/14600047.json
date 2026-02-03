@@ -1,7 +1,7 @@
 {
   "store_id": "14600047",
   "name": "에이스로또",
-  "address": "전남 여수시 여서로 154 ",
+  "address": "전남 여수시  여서로 154 참마트내",
   "phone": "061-652-5848",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 34.748148,
   "longitude": 127.698629,
-  "updated_at": "2026-01-12T11:56:08.005657"
+  "updated_at": "2026-02-03T18:24:09.614409",
+  "first_prize_draws": [
+    1115,
+    452
+  ],
+  "second_prize_draws": [
+    1136,
+    1119,
+    1033,
+    1028,
+    752,
+    718,
+    548,
+    375
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 8
 }

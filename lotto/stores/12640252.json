@@ -1,7 +1,7 @@
 {
   "store_id": "12640252",
   "name": "복남이로또방",
-  "address": "부산 남구 유엔평화로 14 ",
+  "address": "부산 남구  유엔평화로 14 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 35.13396,
   "longitude": 129.09179,
-  "updated_at": "2026-01-12T11:57:39.882727"
+  "updated_at": "2026-02-03T18:24:22.008263",
+  "first_prize_draws": [
+    1139
+  ],
+  "second_prize_draws": [
+    1102,
+    1054
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

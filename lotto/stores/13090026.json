@@ -1,7 +1,7 @@
 {
   "store_id": "13090026",
   "name": "천복권방",
-  "address": "대전 대덕구 한밭대로1043번길 2 ",
+  "address": "대전 대덕구  한밭대로1043번길 2 ",
   "phone": "042-635-8200",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,26 @@
   ],
   "latitude": 36.358775,
   "longitude": 127.414464,
-  "updated_at": "2026-01-12T11:48:25.717931"
+  "updated_at": "2026-02-03T18:27:51.008840",
+  "first_prize_draws": [
+    1003,
+    672
+  ],
+  "second_prize_draws": [
+    1180,
+    1138,
+    1014,
+    991,
+    909,
+    841,
+    789,
+    721,
+    587,
+    497,
+    483,
+    474,
+    299
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 13
 }

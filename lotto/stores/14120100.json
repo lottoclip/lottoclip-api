@@ -1,7 +1,7 @@
 {
   "store_id": "14120100",
   "name": "주몽동명",
-  "address": "경기 용인시 수지구 포은대로 319 ",
+  "address": "경기 용인시 수지구  포은대로 319 중앙빌딩 104호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 37.315741,
   "longitude": 127.087532,
-  "updated_at": "2026-01-12T12:01:10.374081"
+  "updated_at": "2026-02-03T18:28:57.015659",
+  "first_prize_draws": [
+    1195,
+    1140,
+    1096,
+    694
+  ],
+  "second_prize_draws": [
+    1131,
+    1062,
+    988,
+    936,
+    899,
+    732,
+    726
+  ],
+  "first_prize_count": 4,
+  "second_prize_count": 7
 }

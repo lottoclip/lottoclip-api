@@ -1,7 +1,7 @@
 {
   "store_id": "23000001",
   "name": "씨스페이스(대흥상아)",
-  "address": "대전 중구 대흥동  95-6",
+  "address": "대전 중구  대흥동 대흥동 95-6번지",
   "phone": "042-255-2956",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,14 @@
   ],
   "latitude": 36.325479,
   "longitude": 127.431142,
-  "updated_at": "2026-01-12T11:13:41.366554"
+  "updated_at": "2026-02-03T17:38:29.896363",
+  "first_prize_draws": [
+    412
+  ],
+  "second_prize_draws": [
+    574,
+    313
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

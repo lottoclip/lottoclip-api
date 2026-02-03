@@ -1,7 +1,7 @@
 {
   "store_id": "14141645",
   "name": "드림 복권방",
-  "address": "경기 화성시 효행로 216 ",
+  "address": "경기 화성시  효행로 216 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 37.228381,
   "longitude": 126.970925,
-  "updated_at": "2026-01-12T11:49:31.505708"
+  "updated_at": "2026-02-03T18:29:05.712160",
+  "first_prize_draws": [
+    1019
+  ],
+  "second_prize_draws": [
+    1197,
+    1171,
+    1140,
+    1131
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

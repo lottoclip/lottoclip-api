@@ -1,7 +1,7 @@
 {
   "store_id": "14610083",
   "name": "중마로또",
-  "address": "전남 광양시 중마로 213-1 ",
+  "address": "전남 광양시  중마로 213-1 커피집 내",
   "phone": "061-791-0278",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 34.943921,
   "longitude": 127.688863,
-  "updated_at": "2026-01-12T11:37:14.355352"
+  "updated_at": "2026-02-03T18:27:29.727950",
+  "first_prize_draws": [
+    808
+  ],
+  "second_prize_draws": [
+    1175,
+    1084,
+    1069,
+    1061,
+    941,
+    914,
+    824,
+    650,
+    609,
+    371
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

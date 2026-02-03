@@ -1,0 +1,23 @@
+{
+  "store_id": "11110677",
+  "name": "로또대박복권",
+  "address": "서울 강북구 수유동 95-7번지 수유이테크밸리1층",
+  "phone": "02-980-9807",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.633761,
+  "longitude": 127.022772,
+  "updated_at": "2026-02-03T18:00:57.255228",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    850,
+    813,
+    773,
+    553
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 4
+}

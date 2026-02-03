@@ -1,7 +1,7 @@
 {
   "store_id": "14810178",
-  "name": "양산덕계점(로또)",
-  "address": "경남 양산시 평산6길 6 ",
+  "name": "로또명당",
+  "address": "경남 양산시  평산6길 6 복권판매점",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,26 @@
   ],
   "latitude": 35.382152,
   "longitude": 129.151368,
-  "updated_at": "2026-01-12T11:37:55.130315"
+  "updated_at": "2026-02-03T18:29:18.599759",
+  "first_prize_draws": [
+    821,
+    820,
+    628
+  ],
+  "second_prize_draws": [
+    1200,
+    1145,
+    1091,
+    1061,
+    1050,
+    1046,
+    1007,
+    977,
+    959,
+    832,
+    694,
+    359
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 12
 }

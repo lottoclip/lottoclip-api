@@ -1,7 +1,7 @@
 {
   "store_id": "12610088",
   "name": "안락점로또판매",
-  "address": "부산 동래구 안락동  471-6",
+  "address": "부산 동래구 안락동 471-6번지 세븐일레븐 내",
   "phone": "051-529-8113",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,15 @@
   ],
   "latitude": 35.198776,
   "longitude": 129.112554,
-  "updated_at": "2026-01-12T11:19:24.486329"
+  "updated_at": "2026-02-03T17:55:20.641362",
+  "first_prize_draws": [
+    503
+  ],
+  "second_prize_draws": [
+    779,
+    751,
+    287
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

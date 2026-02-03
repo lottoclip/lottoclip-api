@@ -1,7 +1,7 @@
 {
   "store_id": "11110460",
   "name": "오늘을잡아라",
-  "address": "서울 도봉구  창동 창동  74-5번지신원빌딩1층",
+  "address": "서울 도봉구 창동  74-5번지 신원빌딩1층",
   "phone": "02-994-1756",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,15 @@
   ],
   "latitude": 37.652682,
   "longitude": 127.046353,
-  "updated_at": "2026-01-12T11:23:16.290475"
+  "updated_at": "2026-02-03T17:46:04.040347",
+  "first_prize_draws": [
+    572,
+    386
+  ],
+  "second_prize_draws": [
+    674,
+    489
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 2
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14810067",
   "name": "끌레리띠",
-  "address": "경남 창원시 마산회원구 구암서6길 12 ",
+  "address": "경남 창원시 마산회원구  구암서6길 12 ",
   "phone": "055-294-6693",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 35.2483,
   "longitude": 128.592138,
-  "updated_at": "2026-01-12T11:23:50.844475"
+  "updated_at": "2026-02-03T18:18:33.859206",
+  "first_prize_draws": [
+    583
+  ],
+  "second_prize_draws": [
+    1065,
+    987,
+    962,
+    773,
+    654,
+    553,
+    480,
+    470,
+    390,
+    362
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14620025",
   "name": "월야하나로복권",
-  "address": "전남 함평군 밀재로 1512 ",
+  "address": "전남 함평군  밀재로 1512 1층",
   "phone": "061-323-7751",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 35.17929,
   "longitude": 126.628062,
-  "updated_at": "2026-01-12T11:45:55.155305"
+  "updated_at": "2026-02-03T18:14:29.991353",
+  "first_prize_draws": [
+    960
+  ],
+  "second_prize_draws": [
+    1017,
+    886,
+    841
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

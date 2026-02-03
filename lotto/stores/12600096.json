@@ -1,7 +1,7 @@
 {
   "store_id": "12600096",
   "name": "나래전산",
-  "address": "부산 부산진구 전포대로 294 ",
+  "address": "부산 부산진구  전포대로 294 101호",
   "phone": "051-809-7383",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 35.162836,
   "longitude": 129.066494,
-  "updated_at": "2026-01-12T11:51:18.627554"
+  "updated_at": "2026-02-03T18:20:50.481240",
+  "first_prize_draws": [
+    1048
+  ],
+  "second_prize_draws": [
+    1093,
+    704,
+    673
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

@@ -1,12 +1,23 @@
 {
   "store_id": "23000006",
-  "name": "GS25(대전송촌)",
-  "address": "대전 대덕구  송촌동 456-9번지",
+  "name": "GS25(대전송촌점)",
+  "address": "대전 대덕구  계족산로81번길 51 ",
   "phone": "042-632-5503",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 36.364954,
   "longitude": 127.438839,
-  "updated_at": "2026-01-12T11:26:45.671866"
+  "updated_at": "2026-02-03T18:12:29.788000",
+  "first_prize_draws": [
+    633
+  ],
+  "second_prize_draws": [
+    989,
+    675,
+    307,
+    270
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "12700285",
   "name": "다다복권방",
-  "address": "대구 달서구 월배로 32-1 ",
+  "address": "대구 달서구  월배로 32-1 1층 복권방",
   "phone": "053-264-5534",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 35.812384,
   "longitude": 128.518733,
-  "updated_at": "2026-01-12T11:59:44.034300"
+  "updated_at": "2026-02-03T18:27:20.492366",
+  "first_prize_draws": [
+    1173,
+    1153
+  ],
+  "second_prize_draws": [
+    1033,
+    954,
+    945,
+    708
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 4
 }

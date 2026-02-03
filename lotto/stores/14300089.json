@@ -1,7 +1,7 @@
 {
   "store_id": "14300089",
   "name": "방아다리24시",
-  "address": "충북 청주시 상당구 수동  450-4번지",
+  "address": "충북 청주시 상당구 수동 450-4번지 ",
   "phone": "043-256-6855",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,15 @@
   ],
   "latitude": 36.644943,
   "longitude": 127.489808,
-  "updated_at": "2026-01-12T11:23:25.866163"
+  "updated_at": "2026-02-03T17:47:37.813469",
+  "first_prize_draws": [
+    575
+  ],
+  "second_prize_draws": [
+    695,
+    457,
+    369
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

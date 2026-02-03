@@ -1,7 +1,7 @@
 {
   "store_id": "12710139",
-  "name": "로또복권판매",
-  "address": "대구 북구 구암동  831-7",
+  "name": "CU로또",
+  "address": "대구 북구 산격동 1413-15번지 ",
   "phone": "053-939-8474",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,15 @@
   ],
   "latitude": 35.892487,
   "longitude": 128.605646,
-  "updated_at": "2026-01-12T11:07:55.740151"
+  "updated_at": "2026-02-03T17:56:08.022870",
+  "first_prize_draws": [
+    319
+  ],
+  "second_prize_draws": [
+    789,
+    727,
+    347
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

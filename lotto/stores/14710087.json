@@ -1,7 +1,7 @@
 {
   "store_id": "14710087",
   "name": "동일설비 명성복권",
-  "address": "경북 안동시 경동로 913 ",
+  "address": "경북 안동시  경동로 913 ",
   "phone": "054-823-0485",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 36.55692,
   "longitude": 128.755365,
-  "updated_at": "2026-01-12T11:52:12.224067"
+  "updated_at": "2026-02-03T18:27:55.459948",
+  "first_prize_draws": [
+    1060,
+    1002
+  ],
+  "second_prize_draws": [
+    1181,
+    811,
+    762,
+    593,
+    507,
+    365,
+    343
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 7
 }

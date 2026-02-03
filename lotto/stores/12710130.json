@@ -1,7 +1,7 @@
 {
   "store_id": "12710130",
   "name": "A복권방",
-  "address": "대구 달서구 본리동  1199-8번지1층",
+  "address": "대구 달서구 본리동 1199-8번지 A할인마트 내",
   "phone": "053-522-8530",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,17 @@
   ],
   "latitude": 35.840055,
   "longitude": 128.530389,
-  "updated_at": "2026-01-12T11:21:36.530301"
+  "updated_at": "2026-02-03T17:54:15.719475",
+  "first_prize_draws": [
+    545
+  ],
+  "second_prize_draws": [
+    765,
+    721,
+    646,
+    500,
+    398
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

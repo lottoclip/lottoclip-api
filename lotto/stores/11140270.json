@@ -1,12 +1,18 @@
 {
   "store_id": "11140270",
   "name": "연남복권방",
-  "address": "서울 마포구 성미산로28길 25 ",
+  "address": "서울 마포구  성미산로28길 25 1층 우측상가(연남동 스퀘어일레븐)",
   "phone": null,
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.562844,
   "longitude": 126.923211,
-  "updated_at": "2026-01-12T11:47:16.084218"
+  "updated_at": "2026-02-03T18:11:38.900469",
+  "first_prize_draws": [
+    981
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

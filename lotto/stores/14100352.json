@@ -1,7 +1,7 @@
 {
   "store_id": "14100352",
   "name": "준마트",
-  "address": "경기 고양시 덕양구 향기로 136 ",
+  "address": "경기 고양시 덕양구  행당로 35 ",
   "phone": "031-972-5078",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 37.601167,
   "longitude": 126.895548,
-  "updated_at": "2026-01-12T11:28:43.130758"
+  "updated_at": "2026-02-03T18:09:51.869265",
+  "first_prize_draws": [
+    666
+  ],
+  "second_prize_draws": [
+    957,
+    678,
+    457,
+    375
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

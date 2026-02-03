@@ -1,7 +1,7 @@
 {
   "store_id": "12800022",
   "name": "세븐일레븐인천인하대점",
-  "address": "인천 미추홀구 한나루로477번길 78 ",
+  "address": "인천 미추홀구  한나루로477번길 78 ",
   "phone": "032-875-7245",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 37.450247,
   "longitude": 126.663001,
-  "updated_at": "2026-01-12T11:47:44.647889"
+  "updated_at": "2026-02-03T18:26:23.755673",
+  "first_prize_draws": [
+    990
+  ],
+  "second_prize_draws": [
+    1160,
+    1159,
+    879,
+    860,
+    855,
+    462
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

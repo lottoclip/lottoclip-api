@@ -1,12 +1,21 @@
 {
   "store_id": "12810098",
   "name": "인천주안점로또판매",
-  "address": "인천 남구 주안동  1450",
+  "address": "인천 남구 주안동  1450번지 세븐일레븐편의점내",
   "phone": "032-868-2575",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.448761,
   "longitude": 126.674482,
-  "updated_at": "2026-01-12T11:16:46.444634"
+  "updated_at": "2026-02-03T17:39:29.830264",
+  "first_prize_draws": [
+    457
+  ],
+  "second_prize_draws": [
+    588,
+    366
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14610022",
   "name": "로또판매",
-  "address": "전남 영광군 영광읍  남천리 324-10",
+  "address": "전남 영광군 영광읍  남천리  324-10번지 보석당",
   "phone": "061-353-5588",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,17 @@
   ],
   "latitude": 35.275729,
   "longitude": 126.503524,
-  "updated_at": "2026-01-12T11:15:28.943819"
+  "updated_at": "2026-02-03T17:38:59.976178",
+  "first_prize_draws": [
+    437
+  ],
+  "second_prize_draws": [
+    581,
+    571,
+    442,
+    402,
+    372
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

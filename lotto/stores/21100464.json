@@ -1,7 +1,7 @@
 {
   "store_id": "21100464",
   "name": "GS25(신림로점)",
-  "address": "서울 동작구 신대방동  344-258",
+  "address": "서울 동작구 신대방동 344-258번지 ",
   "phone": "02-826-8536",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,14 @@
   ],
   "latitude": 37.494951,
   "longitude": 126.927118,
-  "updated_at": "2026-01-12T11:20:49.894723"
+  "updated_at": "2026-02-03T18:02:10.971676",
+  "first_prize_draws": [
+    530
+  ],
+  "second_prize_draws": [
+    867,
+    825
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

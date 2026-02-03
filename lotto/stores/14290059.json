@@ -1,7 +1,7 @@
 {
   "store_id": "14290059",
   "name": "전우사",
-  "address": "강원 춘천시 금강로 44 ",
+  "address": "강원 춘천시  금강로 44 ",
   "phone": "033-254-3328",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 37.880597,
   "longitude": 127.727026,
-  "updated_at": "2026-01-12T11:48:12.998794"
+  "updated_at": "2026-02-03T18:19:54.453486",
+  "first_prize_draws": [
+    999
+  ],
+  "second_prize_draws": [
+    1080,
+    1057,
+    832
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

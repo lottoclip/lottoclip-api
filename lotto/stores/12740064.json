@@ -1,7 +1,7 @@
 {
   "store_id": "12740064",
   "name": "연경복권",
-  "address": "대구 북구 동화천로 190 ",
+  "address": "대구 북구  동화천로 190 상가113호(상가301동)",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 35.939863,
   "longitude": 128.612173,
-  "updated_at": "2026-01-12T11:47:09.907059"
+  "updated_at": "2026-02-03T18:27:42.370131",
+  "first_prize_draws": [
+    979
+  ],
+  "second_prize_draws": [
+    1178,
+    1084,
+    1011
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

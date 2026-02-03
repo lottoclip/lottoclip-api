@@ -1,7 +1,7 @@
 {
   "store_id": "14810036",
   "name": "대학사로또복권",
-  "address": "경남 창원시 성산구 상남동 10-5피아노빌딩101호(패밀리마트內)",
+  "address": "경남 창원시 성산구 상남동 10-5번지 피아노빌딩101호 CU편의점 내",
   "phone": "055-264-5674",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,21 @@
   ],
   "latitude": 35.221688,
   "longitude": 128.686236,
-  "updated_at": "2026-01-12T11:17:26.555416"
+  "updated_at": "2026-02-03T18:01:19.765834",
+  "first_prize_draws": [
+    470
+  ],
+  "second_prize_draws": [
+    855,
+    803,
+    780,
+    775,
+    751,
+    747,
+    707,
+    587,
+    574
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 9
 }

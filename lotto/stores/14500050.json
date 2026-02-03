@@ -1,0 +1,27 @@
+{
+  "store_id": "14500050",
+  "name": "일등복권방",
+  "address": "전북 익산시  부송1로 51 ",
+  "phone": "063-838-3390",
+  "lottery_types": [
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 35.957667,
+  "longitude": 126.987878,
+  "updated_at": "2026-02-03T18:15:27.507347",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1027,
+    984,
+    971,
+    884,
+    792,
+    790,
+    764,
+    699,
+    399
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 9
+}

@@ -1,12 +1,22 @@
 {
   "store_id": "14410087",
-  "name": "공림로또판매점",
-  "address": "충남 서산시 남원1길 107 ",
+  "name": "천하명당",
+  "address": "충남 서산시  남원1길 107 ",
   "phone": "041-666-0943",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 36.761387,
   "longitude": 126.454874,
-  "updated_at": "2026-01-12T11:11:23.100429"
+  "updated_at": "2026-02-03T18:16:02.198698",
+  "first_prize_draws": [
+    372
+  ],
+  "second_prize_draws": [
+    1035,
+    379,
+    263
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

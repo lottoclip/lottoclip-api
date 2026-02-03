@@ -1,7 +1,7 @@
 {
   "store_id": "12700337",
   "name": "복권명당(동아스포츠점)",
-  "address": "대구 수성구 지범로 91 ",
+  "address": "대구 수성구  지범로 91 1층",
   "phone": "053-783-4125",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 35.825844,
   "longitude": 128.631919,
-  "updated_at": "2026-01-12T11:48:19.374059"
+  "updated_at": "2026-02-03T18:25:02.766774",
+  "first_prize_draws": [
+    1001,
+    707
+  ],
+  "second_prize_draws": [
+    1145,
+    1008,
+    972,
+    658,
+    440,
+    418,
+    339
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 7
 }

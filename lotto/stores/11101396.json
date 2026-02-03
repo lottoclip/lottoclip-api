@@ -1,7 +1,7 @@
 {
   "store_id": "11101396",
   "name": "우주문화사",
-  "address": "서울 서초구 사평대로2길 10 ",
+  "address": "서울 서초구  사평대로2길 10 ",
   "phone": "02-599-5755",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 37.497964,
   "longitude": 126.986208,
-  "updated_at": "2026-01-12T11:53:34.022831"
+  "updated_at": "2026-02-03T18:20:33.129257",
+  "first_prize_draws": [
+    1081
+  ],
+  "second_prize_draws": [
+    1089,
+    1062,
+    892,
+    852,
+    754,
+    747,
+    728,
+    675,
+    609,
+    489
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

@@ -1,6 +1,6 @@
 {
   "store_id": "11110313",
-  "name": "-",
+  "name": "장원에이스",
   "address": "서울 서초구 반포동(반포4동) 19-4 서울고속버스터미널경부선대합식2H로또판매점",
   "phone": "02-533-3415",
   "lottery_types": [
@@ -9,5 +9,19 @@
   ],
   "latitude": 37.505509,
   "longitude": 127.007038,
-  "updated_at": "2026-01-12T11:32:13.811993"
+  "updated_at": "2026-02-03T18:01:23.605781",
+  "first_prize_draws": [
+    723
+  ],
+  "second_prize_draws": [
+    856,
+    833,
+    826,
+    809,
+    552,
+    436,
+    422
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

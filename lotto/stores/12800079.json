@@ -1,7 +1,7 @@
 {
   "store_id": "12800079",
   "name": "복권왕국",
-  "address": "인천 부평구 동수로 168 ",
+  "address": "인천 부평구  동수로 168 ",
   "phone": "032-505-6564",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 37.485597,
   "longitude": 126.73715,
-  "updated_at": "2026-01-12T11:20:49.925344"
+  "updated_at": "2026-02-03T18:16:01.893289",
+  "first_prize_draws": [
+    530
+  ],
+  "second_prize_draws": [
+    1035,
+    965,
+    821,
+    753,
+    653,
+    650,
+    505,
+    474,
+    312
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 9
 }

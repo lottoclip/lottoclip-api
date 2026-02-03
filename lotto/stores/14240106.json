@@ -1,7 +1,7 @@
 {
   "store_id": "14240106",
   "name": "탑",
-  "address": "강원 원주시 천사로 94 ",
+  "address": "강원 원주시  천사로 94 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 37.348212,
   "longitude": 127.935626,
-  "updated_at": "2026-01-12T12:01:41.439729"
+  "updated_at": "2026-02-03T18:29:18.460967",
+  "first_prize_draws": [
+    1200,
+    1049
+  ],
+  "second_prize_draws": [
+    1080
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 1
 }

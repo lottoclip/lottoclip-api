@@ -1,7 +1,7 @@
 {
   "store_id": "11190134",
   "name": "길동방",
-  "address": "서울 강동구 진황도로49길 16 ",
+  "address": "서울 강동구  진황도로49길 16 3호",
   "phone": "02-482-6831",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 37.534372,
   "longitude": 127.140831,
-  "updated_at": "2026-01-12T11:33:20.638113"
+  "updated_at": "2026-02-03T18:23:38.955816",
+  "first_prize_draws": [
+    739
+  ],
+  "second_prize_draws": [
+    1129,
+    957,
+    898,
+    870,
+    827,
+    807,
+    773,
+    770,
+    758,
+    597,
+    413,
+    327
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 12
 }

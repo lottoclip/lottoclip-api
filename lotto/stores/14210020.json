@@ -1,7 +1,7 @@
 {
   "store_id": "14210020",
   "name": "꿈로또복권전문점",
-  "address": "강원 강릉시 옥천로 47 ",
+  "address": "강원 강릉시  옥천로 47 ",
   "phone": "033-645-4643",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 37.759296,
   "longitude": 128.900572,
-  "updated_at": "2026-01-12T11:50:59.536347"
+  "updated_at": "2026-02-03T18:28:03.829404",
+  "first_prize_draws": [
+    1042,
+    849
+  ],
+  "second_prize_draws": [
+    1183,
+    1141,
+    1072,
+    1038
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 4
 }

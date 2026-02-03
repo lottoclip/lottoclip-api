@@ -1,7 +1,7 @@
 {
   "store_id": "11120057",
   "name": "금사랑",
-  "address": "서울 양천구 오목로 55 ",
+  "address": "서울 양천구  월정로 38 ",
   "phone": "02-2692-3148",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 37.522489,
   "longitude": 126.843651,
-  "updated_at": "2026-01-12T11:57:23.772704"
+  "updated_at": "2026-02-03T18:24:38.985286",
+  "first_prize_draws": [
+    1134,
+    892
+  ],
+  "second_prize_draws": [
+    1143,
+    760
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 2
 }

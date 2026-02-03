@@ -1,7 +1,7 @@
 {
   "store_id": "11101153",
   "name": "가판점",
-  "address": "서울 강동구 천호대로 1073 ",
+  "address": "서울 강동구 천호대로 1073 앞 가판점  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,29 @@
   ],
   "latitude": 37.536628,
   "longitude": 127.131357,
-  "updated_at": "2026-01-12T11:55:33.688528"
+  "updated_at": "2026-02-03T18:29:48.703678",
+  "first_prize_draws": [
+    1109
+  ],
+  "second_prize_draws": [
+    1207,
+    1173,
+    1145,
+    1057,
+    938,
+    873,
+    786,
+    782,
+    778,
+    733,
+    675,
+    668,
+    636,
+    543,
+    464,
+    447,
+    365
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 17
 }

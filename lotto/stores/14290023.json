@@ -1,7 +1,7 @@
 {
   "store_id": "14290023",
   "name": "노다지복권",
-  "address": "강원 삼척시 중앙시장길 48-49 ",
+  "address": "강원 삼척시  중앙시장길 48-49 ",
   "phone": "033-573-9040",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,25 @@
   ],
   "latitude": 37.442389,
   "longitude": 129.16716,
-  "updated_at": "2026-01-12T11:59:57.030741"
+  "updated_at": "2026-02-03T18:28:03.865430",
+  "first_prize_draws": [
+    1177,
+    844
+  ],
+  "second_prize_draws": [
+    1183,
+    1117,
+    1022,
+    978,
+    875,
+    851,
+    846,
+    741,
+    662,
+    475,
+    421,
+    332
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 12
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "11101692",
   "name": "천하명당복권방",
-  "address": "서울 동작구 동작대로7길 11 ",
+  "address": "서울 동작구  동작대로7길 11 ",
   "phone": "02-3472-1451",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,25 @@
   ],
   "latitude": 37.479813,
   "longitude": 126.980957,
-  "updated_at": "2026-01-12T11:27:07.466932"
+  "updated_at": "2026-02-03T18:17:32.743736",
+  "first_prize_draws": [
+    640
+  ],
+  "second_prize_draws": [
+    1052,
+    1008,
+    1006,
+    959,
+    842,
+    839,
+    743,
+    696,
+    682,
+    547,
+    487,
+    333,
+    299
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 13
 }

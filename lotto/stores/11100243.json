@@ -1,7 +1,7 @@
 {
   "store_id": "11100243",
   "name": "로또담배",
-  "address": "서울 관악구 난곡로 82 ",
+  "address": "서울 관악구  난곡로 82 ",
   "phone": "02-854-6453",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 37.462704,
   "longitude": 126.919196,
-  "updated_at": "2026-01-12T11:17:48.325230"
+  "updated_at": "2026-02-03T18:08:11.001224",
+  "first_prize_draws": [
+    477
+  ],
+  "second_prize_draws": [
+    939,
+    819,
+    740,
+    664,
+    483,
+    300
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

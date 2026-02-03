@@ -1,7 +1,7 @@
 {
   "store_id": "14900022",
-  "name": "화북슈퍼",
-  "address": "제주 제주시 진남로6길 21 ",
+  "name": "화북1등복권방",
+  "address": "제주 제주시  진남로6길 21 ",
   "phone": "064-755-1388",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 33.520644,
   "longitude": 126.565653,
-  "updated_at": "2026-01-12T11:06:51.127669"
+  "updated_at": "2026-02-03T18:16:06.485721",
+  "first_prize_draws": [
+    298
+  ],
+  "second_prize_draws": [
+    1036,
+    991,
+    980,
+    892,
+    303
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

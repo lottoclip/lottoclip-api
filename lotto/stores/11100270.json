@@ -1,7 +1,7 @@
 {
   "store_id": "11100270",
   "name": "행운의집",
-  "address": "서울 광진구 능동로19길 7 ",
+  "address": "서울 광진구  능동로19길 7 ",
   "phone": "02-467-0782",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 37.54692,
   "longitude": 127.073315,
-  "updated_at": "2026-01-12T11:52:56.088875"
+  "updated_at": "2026-02-03T18:18:51.000756",
+  "first_prize_draws": [
+    1069,
+    960
+  ],
+  "second_prize_draws": [
+    630
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 1
 }

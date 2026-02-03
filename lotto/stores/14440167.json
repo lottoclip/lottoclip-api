@@ -1,7 +1,7 @@
 {
   "store_id": "14440167",
   "name": "행운로또마트",
-  "address": "충남 천안시 서북구 성진로 729 ",
+  "address": "충남 천안시 서북구  성진로 729 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 36.913005,
   "longitude": 127.212189,
-  "updated_at": "2026-01-12T11:57:04.678845"
+  "updated_at": "2026-02-03T18:29:27.166280",
+  "first_prize_draws": [
+    1128
+  ],
+  "second_prize_draws": [
+    1202,
+    1111,
+    1100
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

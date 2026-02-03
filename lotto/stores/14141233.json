@@ -1,7 +1,7 @@
 {
   "store_id": "14141233",
   "name": "담경",
-  "address": "경기 성남시 중원구 은이로 12 ",
+  "address": "경기 성남시 중원구  은이로 12 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 37.457339,
   "longitude": 127.165296,
-  "updated_at": "2026-01-12T11:56:42.102512"
+  "updated_at": "2026-02-03T18:23:05.099218",
+  "first_prize_draws": [
+    1121
+  ],
+  "second_prize_draws": [
+    1120
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

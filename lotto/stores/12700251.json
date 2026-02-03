@@ -1,12 +1,23 @@
 {
   "store_id": "12700251",
-  "name": "토큰박스",
-  "address": "대구 동구 방촌동 886-8번지 토큰박스",
+  "name": "씨유 지저동",
+  "address": "대구 동구  해동로 49 1층  CU편의점",
   "phone": "053-981-9842",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 35.893701,
   "longitude": 128.637591,
-  "updated_at": "2026-01-12T11:30:44.985780"
+  "updated_at": "2026-02-03T18:16:33.960308",
+  "first_prize_draws": [
+    695
+  ],
+  "second_prize_draws": [
+    1042,
+    947,
+    547,
+    528
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

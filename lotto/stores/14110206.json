@@ -1,12 +1,25 @@
 {
   "store_id": "14110206",
   "name": "행운대박복권방",
-  "address": "경기 남양주시 광릉내로 17 ",
+  "address": "경기 남양주시  광릉내로 17 ",
   "phone": null,
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.742253,
   "longitude": 127.197826,
-  "updated_at": "2026-01-12T11:59:12.116918"
+  "updated_at": "2026-02-03T18:27:24.991804",
+  "first_prize_draws": [
+    1163,
+    1020
+  ],
+  "second_prize_draws": [
+    1174,
+    1168,
+    639,
+    585,
+    296
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 5
 }

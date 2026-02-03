@@ -1,7 +1,7 @@
 {
   "store_id": "11100659",
   "name": "시흥식품",
-  "address": "서울 금천구 시흥대로63길 13 ",
+  "address": "서울 금천구  시흥대로63길 13 1층",
   "phone": "02-808-5861",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 37.454874,
   "longitude": 126.898824,
-  "updated_at": "2026-01-12T11:38:42.285421"
+  "updated_at": "2026-02-03T18:26:27.839050",
+  "first_prize_draws": [
+    836
+  ],
+  "second_prize_draws": [
+    1161,
+    976,
+    974,
+    971,
+    956,
+    910,
+    697,
+    420,
+    400,
+    375,
+    352
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 11
 }

@@ -1,12 +1,25 @@
 {
   "store_id": "14110268",
   "name": "네잎크로바",
-  "address": "경기 안양시 동안구 엘에스로 92 ",
+  "address": "경기 안양시 동안구  엘에스로 92 안양국제 유통단지 지원동 지하1층 71호",
   "phone": "031-479-4967",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.370792,
   "longitude": 126.951144,
-  "updated_at": "2026-01-12T11:09:57.276377"
+  "updated_at": "2026-02-03T18:20:46.431282",
+  "first_prize_draws": [
+    349
+  ],
+  "second_prize_draws": [
+    1092,
+    768,
+    757,
+    605,
+    555,
+    405
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

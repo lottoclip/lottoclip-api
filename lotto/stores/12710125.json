@@ -1,7 +1,7 @@
 {
   "store_id": "12710125",
-  "name": "로또봉덕시장지점",
-  "address": "대구 남구 봉덕로 120 ",
+  "name": "로또1등봉덕대박집",
+  "address": "대구 남구  봉덕로 120 ",
   "phone": "053-476-6651",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 35.844344,
   "longitude": 128.603506,
-  "updated_at": "2026-01-12T11:11:07.559116"
+  "updated_at": "2026-02-03T18:27:55.190515",
+  "first_prize_draws": [
+    367
+  ],
+  "second_prize_draws": [
+    1181,
+    1037,
+    956,
+    843,
+    648,
+    610,
+    566,
+    561,
+    302
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 9
 }

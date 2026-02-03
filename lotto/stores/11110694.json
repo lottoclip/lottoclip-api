@@ -1,0 +1,29 @@
+{
+  "store_id": "11110694",
+  "name": "로또복권방",
+  "address": "서울 구로구  고척로 97 ",
+  "phone": "02-2613-0108",
+  "lottery_types": [
+    "lotto645"
+  ],
+  "latitude": 37.5011,
+  "longitude": 126.844843,
+  "updated_at": "2026-02-03T18:11:29.912377",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    979,
+    947,
+    835,
+    765,
+    749,
+    697,
+    660,
+    598,
+    524,
+    514,
+    387,
+    332
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 12
+}

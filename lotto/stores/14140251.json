@@ -1,7 +1,7 @@
 {
   "store_id": "14140251",
   "name": "신의한수",
-  "address": "경기 화성시 떡전골로 86 ",
+  "address": "경기 화성시  떡전골로 86 103호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 37.20643,
   "longitude": 127.03415,
-  "updated_at": "2026-01-12T12:01:23.310446"
+  "updated_at": "2026-02-03T18:29:14.160387",
+  "first_prize_draws": [
+    1199
+  ],
+  "second_prize_draws": [
+    846,
+    844,
+    820
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

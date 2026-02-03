@@ -1,7 +1,7 @@
 {
   "store_id": "14120029",
   "name": "소요산복권판매점",
-  "address": "경기 동두천시 평화로2922번길 2 ",
+  "address": "경기 동두천시  평화로2922번길 2 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,25 @@
   ],
   "latitude": 37.947221,
   "longitude": 127.061887,
-  "updated_at": "2026-01-12T11:30:48.242434"
+  "updated_at": "2026-02-03T18:14:43.105606",
+  "first_prize_draws": [
+    696
+  ],
+  "second_prize_draws": [
+    1020,
+    1009,
+    993,
+    986,
+    966,
+    916,
+    904,
+    850,
+    810,
+    715,
+    711,
+    681,
+    665
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 13
 }

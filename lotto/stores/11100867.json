@@ -1,7 +1,7 @@
 {
   "store_id": "11100867",
-  "name": "버스표판매소",
-  "address": "서울 강남구 논현로 837 ",
+  "name": "교통카드 충전소",
+  "address": "서울 강남구  논현로 837 ",
   "phone": "02-3442-0452",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 37.523232,
   "longitude": 127.027919,
-  "updated_at": "2026-01-12T11:55:43.142270"
+  "updated_at": "2026-02-03T18:27:20.262155",
+  "first_prize_draws": [
+    1112
+  ],
+  "second_prize_draws": [
+    1173,
+    1070,
+    618,
+    338
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

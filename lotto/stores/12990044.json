@@ -1,7 +1,7 @@
 {
   "store_id": "12990044",
   "name": "역전휴게마트",
-  "address": "광주 북구 무등로 240 ",
+  "address": "광주 북구  무등로 240 ",
   "phone": "062-511-5767",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,15 @@
   ],
   "latitude": 35.163839,
   "longitude": 126.909684,
-  "updated_at": "2026-01-12T11:51:05.928593"
+  "updated_at": "2026-02-03T18:16:43.120629",
+  "first_prize_draws": [
+    1044
+  ],
+  "second_prize_draws": [
+    838,
+    620,
+    541
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

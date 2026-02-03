@@ -1,7 +1,7 @@
 {
   "store_id": "14900003",
   "name": "천하명당복권",
-  "address": "제주 서귀포시 동문로 38 ",
+  "address": "제주 서귀포시  동문로 38 ",
   "phone": "064-763-8484",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 33.250392,
   "longitude": 126.564798,
-  "updated_at": "2026-01-12T11:42:14.378045"
+  "updated_at": "2026-02-03T18:27:25.375950",
+  "first_prize_draws": [
+    894
+  ],
+  "second_prize_draws": [
+    1174,
+    891,
+    864,
+    853,
+    844,
+    717,
+    648,
+    490,
+    474,
+    389
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

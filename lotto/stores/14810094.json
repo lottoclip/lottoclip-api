@@ -1,7 +1,7 @@
 {
   "store_id": "14810094",
   "name": "늘봄편의점",
-  "address": "경남 진주시 솔밭로 80 ",
+  "address": "경남 진주시  솔밭로 80 ",
   "phone": "055-753-6682",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 35.176179,
   "longitude": 128.107381,
-  "updated_at": "2026-01-12T11:36:16.883233"
+  "updated_at": "2026-02-03T18:20:59.607810",
+  "first_prize_draws": [
+    790,
+    486
+  ],
+  "second_prize_draws": [
+    1095,
+    944,
+    935,
+    663,
+    653,
+    641
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 6
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14100776",
   "name": "세민",
-  "address": "경기 부천시 중동로 147 ",
+  "address": "경기 부천시  중동로 147 1층",
   "phone": "032-662-2335",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 37.492939,
   "longitude": 126.766583,
-  "updated_at": "2026-01-12T11:51:15.462251"
+  "updated_at": "2026-02-03T18:17:10.855205",
+  "first_prize_draws": [
+    1047
+  ],
+  "second_prize_draws": [
+    945,
+    913,
+    825,
+    816,
+    541,
+    381
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

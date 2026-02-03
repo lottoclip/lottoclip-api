@@ -1,12 +1,24 @@
 {
   "store_id": "14830023",
   "name": "죽림프라자",
-  "address": "경남 통영시 도산일주로 8 ",
+  "address": "경남 통영시  신죽1길 90 1층 105호 CU편의점",
   "phone": null,
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 34.903782,
   "longitude": 128.364095,
-  "updated_at": "2026-01-12T11:45:39.597521"
+  "updated_at": "2026-02-03T18:25:51.366443",
+  "first_prize_draws": [
+    955,
+    842
+  ],
+  "second_prize_draws": [
+    1156,
+    1150,
+    972,
+    758
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 4
 }

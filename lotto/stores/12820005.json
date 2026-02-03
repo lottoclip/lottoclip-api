@@ -1,7 +1,7 @@
 {
   "store_id": "12820005",
   "name": "서창동 로또방",
-  "address": "인천 남동구 서창남순환로 222 ",
+  "address": "인천 남동구  서창남순환로 222 센타프라자 1층 106호",
   "phone": "032-466-7850",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 37.424127,
   "longitude": 126.74947,
-  "updated_at": "2026-01-12T11:38:26.335807"
+  "updated_at": "2026-02-03T18:13:03.813362",
+  "first_prize_draws": [
+    831
+  ],
+  "second_prize_draws": [
+    997,
+    995,
+    936,
+    925,
+    916,
+    910,
+    902,
+    841,
+    802,
+    800,
+    669
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 11
 }

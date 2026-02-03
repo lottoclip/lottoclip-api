@@ -1,7 +1,7 @@
 {
   "store_id": "14740128",
   "name": "로또판매점(무지개점)",
-  "address": "경북 포항시 남구 중앙로 110 ",
+  "address": "경북 포항시 남구  중앙로 110 중간 상가",
   "phone": "054-614-0029",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 36.023009,
   "longitude": 129.368821,
-  "updated_at": "2026-01-12T11:47:47.855250"
+  "updated_at": "2026-02-03T18:29:01.526195",
+  "first_prize_draws": [
+    991
+  ],
+  "second_prize_draws": [
+    1196,
+    1168,
+    1128,
+    1083,
+    1012,
+    1010,
+    1001,
+    929
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

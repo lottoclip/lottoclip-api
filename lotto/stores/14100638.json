@@ -1,7 +1,7 @@
 {
   "store_id": "14100638",
   "name": "매표소",
-  "address": "경기 부천시 원미구 도당동 255-2번지 도로부지",
+  "address": "경기 부천시  부천로 277 도로부지",
   "phone": "032-681-0447",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,15 @@
   ],
   "latitude": 37.508667,
   "longitude": 126.785069,
-  "updated_at": "2026-01-12T11:32:30.477079"
+  "updated_at": "2026-02-03T18:08:54.588459",
+  "first_prize_draws": [
+    728
+  ],
+  "second_prize_draws": [
+    945,
+    821,
+    784
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

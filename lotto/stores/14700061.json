@@ -1,7 +1,7 @@
 {
   "store_id": "14700061",
   "name": "로타리상회",
-  "address": "경북 구미시 산호대로 199 ",
+  "address": "경북 구미시  산호대로 199 상가1층4호",
   "phone": "054-463-8597",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 36.10139,
   "longitude": 128.385038,
-  "updated_at": "2026-01-12T12:01:06.913011"
+  "updated_at": "2026-02-03T18:28:52.792365",
+  "first_prize_draws": [
+    1194,
+    713
+  ],
+  "second_prize_draws": [
+    1183,
+    929,
+    910,
+    818,
+    745,
+    575
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 6
 }

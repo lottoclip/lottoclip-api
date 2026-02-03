@@ -1,7 +1,7 @@
 {
   "store_id": "12610062",
-  "name": "GS-25",
-  "address": "부산 남구 용호로 34 ",
+  "name": "하늘아래명당",
+  "address": "부산 남구  용호로 34 상가동 103호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 35.127581,
   "longitude": 129.107472,
-  "updated_at": "2026-01-12T11:17:51.588051"
+  "updated_at": "2026-02-03T18:23:30.144152",
+  "first_prize_draws": [
+    478
+  ],
+  "second_prize_draws": [
+    1127,
+    982,
+    925,
+    676,
+    648,
+    590,
+    293
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

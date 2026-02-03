@@ -1,7 +1,7 @@
 {
   "store_id": "12740132",
   "name": "GS25대구구암센터점",
-  "address": "대구 북구 팔거천동로4길 45 ",
+  "address": "대구 북구  팔거천동로4길 45 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 35.927428,
   "longitude": 128.55587,
-  "updated_at": "2026-01-12T11:56:38.820961"
+  "updated_at": "2026-02-03T18:25:46.621416",
+  "first_prize_draws": [
+    1120
+  ],
+  "second_prize_draws": [
+    1155,
+    1120,
+    1089
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

@@ -1,12 +1,25 @@
 {
   "store_id": "22700097",
-  "name": "GS25(동구신서)",
-  "address": "대구 동구 신서동  530-4",
+  "name": "GS25(동구신서점)",
+  "address": "대구 동구 신서동 530-4번지 ",
   "phone": "053-965-8572",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 35.866596,
   "longitude": 128.7251,
-  "updated_at": "2026-01-12T11:17:17.208133"
+  "updated_at": "2026-02-03T17:55:29.929920",
+  "first_prize_draws": [
+    467
+  ],
+  "second_prize_draws": [
+    781,
+    776,
+    734,
+    703,
+    500,
+    454
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

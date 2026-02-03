@@ -1,7 +1,7 @@
 {
   "store_id": "14700128",
   "name": "토큰판매",
-  "address": "경북 경산시 대학로 291 ",
+  "address": "경북 경산시 대동 168-1번지 토큰박스",
   "phone": "053-817-2184",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 35.837164,
   "longitude": 128.753737,
-  "updated_at": "2026-01-12T11:37:20.719680"
+  "updated_at": "2026-02-03T18:03:27.287818",
+  "first_prize_draws": [
+    810,
+    773,
+    758
+  ],
+  "second_prize_draws": [
+    881,
+    868,
+    679,
+    561
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 4
 }

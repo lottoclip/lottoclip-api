@@ -1,7 +1,7 @@
 {
   "store_id": "14200075",
   "name": "문막로또명당",
-  "address": "강원 원주시 원문로 1841 ",
+  "address": "강원 원주시  원문로 1841 1층",
   "phone": "033-746-5886",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 37.308977,
   "longitude": 127.818132,
-  "updated_at": "2026-01-12T11:42:08.240739"
+  "updated_at": "2026-02-03T18:27:02.700849",
+  "first_prize_draws": [
+    892
+  ],
+  "second_prize_draws": [
+    1169,
+    1049,
+    968,
+    736,
+    642,
+    572,
+    416,
+    331,
+    295
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 9
 }

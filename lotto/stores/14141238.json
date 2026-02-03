@@ -1,7 +1,7 @@
 {
   "store_id": "14141238",
   "name": "황금복권판매점",
-  "address": "경기 성남시 중원구 산성대로582번길 2 ",
+  "address": "경기 성남시 중원구  산성대로582번길 2 1층일부 (은행동)",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 37.46141,
   "longitude": 127.16815,
-  "updated_at": "2026-01-12T11:50:21.923179"
+  "updated_at": "2026-02-03T18:17:50.338071",
+  "first_prize_draws": [
+    1035
+  ],
+  "second_prize_draws": [
+    1056
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

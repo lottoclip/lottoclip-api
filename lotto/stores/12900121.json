@@ -1,7 +1,7 @@
 {
   "store_id": "12900121",
   "name": "광주도서유통",
-  "address": "광주 남구 봉선1로 79 ",
+  "address": "광주 남구  봉선1로 79 북소리 ",
   "phone": "062-671-5739",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 35.128153,
   "longitude": 126.913888,
-  "updated_at": "2026-01-12T11:51:18.645654"
+  "updated_at": "2026-02-03T18:22:07.569802",
+  "first_prize_draws": [
+    1048
+  ],
+  "second_prize_draws": [
+    1111,
+    1107,
+    1093,
+    1078
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

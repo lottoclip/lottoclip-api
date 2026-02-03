@@ -1,7 +1,7 @@
 {
   "store_id": "11190027",
   "name": "복권마을",
-  "address": "서울 강동구 성내동 408-24번지 ",
+  "address": "서울 강동구  풍성로 173 ",
   "phone": "02-475-7140",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 37.530443,
   "longitude": 127.131268,
-  "updated_at": "2026-01-12T11:32:24.061962"
+  "updated_at": "2026-02-03T18:10:40.460725",
+  "first_prize_draws": [
+    726
+  ],
+  "second_prize_draws": [
+    968,
+    908,
+    458,
+    412
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

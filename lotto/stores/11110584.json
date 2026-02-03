@@ -1,7 +1,7 @@
 {
   "store_id": "11110584",
   "name": "로또지물포",
-  "address": "서울 마포구 방울내로 78 ",
+  "address": "서울 마포구  방울내로 78 ",
   "phone": "02-338-7537",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.560431,
   "longitude": 126.904082,
-  "updated_at": "2026-01-12T11:44:49.368517"
+  "updated_at": "2026-02-03T18:27:55.009485",
+  "first_prize_draws": [
+    939,
+    464
+  ],
+  "second_prize_draws": [
+    1181,
+    1070,
+    1006,
+    775,
+    753,
+    495
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 6
 }

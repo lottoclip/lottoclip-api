@@ -1,7 +1,7 @@
 {
   "store_id": "13000091",
   "name": "송강로또",
-  "address": "대전 유성구 봉산로 10 ",
+  "address": "대전 유성구  봉산로 10 ",
   "phone": "042-935-7190",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 36.434746,
   "longitude": 127.388215,
-  "updated_at": "2026-01-12T11:31:34.749662"
+  "updated_at": "2026-02-03T18:26:41.101135",
+  "first_prize_draws": [
+    711
+  ],
+  "second_prize_draws": [
+    1164,
+    1148,
+    1076,
+    1032,
+    942,
+    762,
+    757,
+    708,
+    587,
+    379,
+    354,
+    298
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 12
 }

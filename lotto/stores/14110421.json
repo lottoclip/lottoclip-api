@@ -1,7 +1,7 @@
 {
   "store_id": "14110421",
   "name": "자유복권편의점",
-  "address": "경기 안산시 단원구 화랑로 358 ",
+  "address": "경기 안산시 단원구  화랑로 358 ",
   "phone": "031-413-5962",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,26 @@
   ],
   "latitude": 37.321158,
   "longitude": 126.827657,
-  "updated_at": "2026-01-12T11:57:04.516745"
+  "updated_at": "2026-02-03T18:23:34.836705",
+  "first_prize_draws": [
+    1128,
+    745
+  ],
+  "second_prize_draws": [
+    1057,
+    991,
+    951,
+    934,
+    897,
+    863,
+    861,
+    802,
+    790,
+    585,
+    576,
+    560,
+    290
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 13
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14720013",
   "name": "행운로또",
-  "address": "경북 구미시 들성로 106 ",
+  "address": "경북 구미시  들성로 106 1층102호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 36.155601,
   "longitude": 128.333856,
-  "updated_at": "2026-01-12T11:59:44.116984"
+  "updated_at": "2026-02-03T18:27:20.821645",
+  "first_prize_draws": [
+    1173
+  ],
+  "second_prize_draws": [
+    1057
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

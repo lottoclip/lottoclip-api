@@ -1,0 +1,27 @@
+{
+  "store_id": "14100174",
+  "name": "복권나라",
+  "address": "경기 양평군  양근로190번길 2 1층",
+  "phone": "031-774-8920",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.489622,
+  "longitude": 127.490176,
+  "updated_at": "2026-02-03T18:12:46.864849",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    993,
+    963,
+    956,
+    634,
+    589,
+    280,
+    271,
+    268
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 8
+}

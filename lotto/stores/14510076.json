@@ -1,7 +1,7 @@
 {
   "store_id": "14510076",
   "name": "봉황로또",
-  "address": "전북 임실군 운수로 6 ",
+  "address": "전북 임실군  운수로 6 ",
   "phone": "063-642-7572",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 35.616183,
   "longitude": 127.289011,
-  "updated_at": "2026-01-12T11:56:20.790945"
+  "updated_at": "2026-02-03T18:29:01.481167",
+  "first_prize_draws": [
+    1119,
+    860,
+    814,
+    758
+  ],
+  "second_prize_draws": [
+    1196,
+    1107,
+    953,
+    941,
+    746
+  ],
+  "first_prize_count": 4,
+  "second_prize_count": 5
 }

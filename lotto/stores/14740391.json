@@ -1,12 +1,20 @@
 {
   "store_id": "14740391",
   "name": "일등로또복권 판매점",
-  "address": "경북 영천시 완산로 23-1 ",
+  "address": "경북 영천시  완산로 23-1 1층 복권방",
   "phone": null,
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 35.962184,
   "longitude": 128.938807,
-  "updated_at": "2026-01-12T11:59:21.728801"
+  "updated_at": "2026-02-03T18:26:50.002890",
+  "first_prize_draws": [
+    1166
+  ],
+  "second_prize_draws": [
+    1134
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

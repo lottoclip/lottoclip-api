@@ -1,7 +1,7 @@
 {
   "store_id": "12840011",
   "name": "대박천하",
-  "address": "인천 연수구 새말로 37 ",
+  "address": "인천 연수구  새말로 37 103호",
   "phone": "070-8910-2727",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 37.422033,
   "longitude": 126.675389,
-  "updated_at": "2026-01-12T11:56:17.459671"
+  "updated_at": "2026-02-03T18:24:17.905091",
+  "first_prize_draws": [
+    1118,
+    803
+  ],
+  "second_prize_draws": [
+    1138,
+    1094,
+    1054,
+    828
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 4
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "12600153",
   "name": "포시즌신리점. 은비복권",
-  "address": "부산 연제구 연수로 144 ",
+  "address": "부산 연제구  연수로 144 포시즌실리점 내",
   "phone": "051-862-6162",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 35.174418,
   "longitude": 129.086432,
-  "updated_at": "2026-01-12T11:39:16.860264"
+  "updated_at": "2026-02-03T18:28:56.761881",
+  "first_prize_draws": [
+    847
+  ],
+  "second_prize_draws": [
+    1195,
+    1084,
+    1011,
+    986,
+    804,
+    312
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

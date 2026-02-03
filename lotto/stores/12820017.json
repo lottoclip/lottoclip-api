@@ -1,7 +1,7 @@
 {
   "store_id": "12820017",
   "name": "25시 스토리",
-  "address": "인천 서구 가정로 246 ",
+  "address": "인천 서구  가정로 246 1층 111호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 37.513658,
   "longitude": 126.672956,
-  "updated_at": "2026-01-12T11:28:55.915753"
+  "updated_at": "2026-02-03T18:21:41.562031",
+  "first_prize_draws": [
+    670
+  ],
+  "second_prize_draws": [
+    1105,
+    1100,
+    913,
+    860,
+    833,
+    733
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

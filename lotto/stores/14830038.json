@@ -1,7 +1,7 @@
 {
   "store_id": "14830038",
   "name": "운수대통복권판매점",
-  "address": "경남 거제시 능포로 108 ",
+  "address": "경남 거제시  능포로 108 동헌하이츠 102동 109호",
   "phone": "055-635-5058",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 34.873497,
   "longitude": 128.73126,
-  "updated_at": "2026-01-12T11:47:57.094411"
+  "updated_at": "2026-02-03T18:20:24.844034",
+  "first_prize_draws": [
+    994
+  ],
+  "second_prize_draws": [
+    1087,
+    1024,
+    757
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

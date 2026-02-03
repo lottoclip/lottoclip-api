@@ -1,7 +1,7 @@
 {
   "store_id": "13110036",
-  "name": "우리들중구청점",
-  "address": "울산 중구 복산동  191-6",
+  "name": "우리들공경점",
+  "address": "울산 중구 학성동 468-14 우리들 편의점내",
   "phone": "052-282-0061",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,16 @@
   ],
   "latitude": 35.553278,
   "longitude": 129.332166,
-  "updated_at": "2026-01-12T11:16:19.036871"
+  "updated_at": "2026-02-03T18:02:02.335052",
+  "first_prize_draws": [
+    453
+  ],
+  "second_prize_draws": [
+    865,
+    636,
+    598,
+    558
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

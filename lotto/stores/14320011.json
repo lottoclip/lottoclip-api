@@ -1,7 +1,7 @@
 {
   "store_id": "14320011",
   "name": "중앙복권방",
-  "address": "충북 청주시 청원구 율량로189번길 25 ",
+  "address": "충북 청주시 청원구  율량로189번길 25 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 36.665708,
   "longitude": 127.50038,
-  "updated_at": "2026-01-12T11:36:32.863243"
+  "updated_at": "2026-02-03T18:20:33.521367",
+  "first_prize_draws": [
+    795
+  ],
+  "second_prize_draws": [
+    1089,
+    1086,
+    1016,
+    918,
+    870
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

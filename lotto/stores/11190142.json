@@ -1,7 +1,7 @@
 {
   "store_id": "11190142",
   "name": "복권백화점",
-  "address": "서울 은평구 연서로29길 7-2 ",
+  "address": "서울 은평구  연서로29길 7-2 1층",
   "phone": "02-383-7999",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 37.618702,
   "longitude": 126.919139,
-  "updated_at": "2026-01-12T11:48:19.358194"
+  "updated_at": "2026-02-03T18:15:10.380871",
+  "first_prize_draws": [
+    1001
+  ],
+  "second_prize_draws": [
+    1023,
+    995,
+    976,
+    859,
+    841,
+    839,
+    690,
+    309
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "11110052",
   "name": "행복만들기",
-  "address": "서울 관악구 신사로10길 6 ",
+  "address": "서울 관악구  신사로10길 6 ",
   "phone": "02-857-6457",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 37.487255,
   "longitude": 126.914345,
-  "updated_at": "2026-01-12T11:19:37.047768"
+  "updated_at": "2026-02-03T18:21:20.305135",
+  "first_prize_draws": [
+    507
+  ],
+  "second_prize_draws": [
+    1100,
+    1096,
+    1008,
+    439,
+    332
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

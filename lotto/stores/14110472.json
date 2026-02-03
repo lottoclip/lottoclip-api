@@ -1,7 +1,7 @@
 {
   "store_id": "14110472",
   "name": "평택로또판매",
-  "address": "경기 평택시 비전5로 7 ",
+  "address": "경기 평택시  비전5로 7 중앙프라자 105호",
   "phone": "031-618-9810",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 36.9969,
   "longitude": 127.091441,
-  "updated_at": "2026-01-12T11:35:48.314408"
+  "updated_at": "2026-02-03T18:22:03.193625",
+  "first_prize_draws": [
+    781,
+    545
+  ],
+  "second_prize_draws": [
+    1110,
+    972,
+    968,
+    654,
+    597,
+    339
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 6
 }

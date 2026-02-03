@@ -1,7 +1,7 @@
 {
   "store_id": "14110061",
   "name": "온누리로또",
-  "address": "경기 수원시 권선구 세류동  1075-2번지",
+  "address": "경기 수원시 권선구 세류동 1075-2 ",
   "phone": "031-239-9161",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,18 @@
   ],
   "latitude": 37.257131,
   "longitude": 127.017456,
-  "updated_at": "2026-01-12T11:26:48.918241"
+  "updated_at": "2026-02-03T17:54:40.174997",
+  "first_prize_draws": [
+    634,
+    539
+  ],
+  "second_prize_draws": [
+    770,
+    649,
+    511,
+    493,
+    444
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 5
 }

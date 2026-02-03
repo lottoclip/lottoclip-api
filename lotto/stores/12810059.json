@@ -1,12 +1,25 @@
 {
   "store_id": "12810059",
   "name": "힘찬슈퍼 복권방",
-  "address": "인천 부평구 장제로 112 ",
+  "address": "인천 부평구 부평5동 134-32번지 ",
   "phone": "032-504-1122",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.495377,
   "longitude": 126.730404,
-  "updated_at": "2026-01-12T11:25:40.580165"
+  "updated_at": "2026-02-03T18:06:52.970423",
+  "first_prize_draws": [
+    613,
+    546
+  ],
+  "second_prize_draws": [
+    922,
+    581,
+    492,
+    441,
+    425
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 5
 }

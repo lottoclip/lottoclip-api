@@ -1,7 +1,7 @@
 {
   "store_id": "14540030",
   "name": "황금손복권판매점",
-  "address": "전북 전주시 덕진구 만성북로 47 ",
+  "address": "전북 전주시 덕진구  만성북로 47 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 35.848597,
   "longitude": 127.080201,
-  "updated_at": "2026-01-12T11:48:44.956093"
+  "updated_at": "2026-02-03T18:24:09.582395",
+  "first_prize_draws": [
+    1009
+  ],
+  "second_prize_draws": [
+    1136,
+    1135
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

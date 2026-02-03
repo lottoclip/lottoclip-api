@@ -1,0 +1,27 @@
+{
+  "store_id": "14890011",
+  "name": "복권나라",
+  "address": "경남 김해시  함박로 121 덕산아파트상가 109호 복권판매점",
+  "phone": null,
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.232114,
+  "longitude": 128.867397,
+  "updated_at": "2026-02-03T18:18:33.851390",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1065,
+    858,
+    848,
+    555,
+    465,
+    424,
+    390,
+    371
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 8
+}

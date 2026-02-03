@@ -1,7 +1,7 @@
 {
   "store_id": "14710095",
   "name": "일등복권",
-  "address": "경북 칠곡군 금암중앙길 42 ",
+  "address": "경북 칠곡군 금암중앙길 42  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,25 @@
   ],
   "latitude": 35.982573,
   "longitude": 128.553671,
-  "updated_at": "2026-01-12T11:57:26.984076"
+  "updated_at": "2026-02-03T18:29:57.791226",
+  "first_prize_draws": [
+    1135,
+    1030,
+    670
+  ],
+  "second_prize_draws": [
+    1209,
+    1190,
+    1160,
+    1157,
+    1108,
+    1003,
+    712,
+    607,
+    562,
+    432,
+    302
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 11
 }

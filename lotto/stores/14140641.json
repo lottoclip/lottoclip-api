@@ -1,7 +1,7 @@
 {
   "store_id": "14140641",
   "name": "한아름 복권",
-  "address": "경기 김포시 장차로 19 ",
+  "address": "경기 김포시  장차로 19 102호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.603812,
   "longitude": 126.770535,
-  "updated_at": "2026-01-12T11:59:08.831313"
+  "updated_at": "2026-02-03T18:26:32.618159",
+  "first_prize_draws": [
+    1162,
+    1049
+  ],
+  "second_prize_draws": [
+    1151,
+    1124,
+    1070,
+    1053,
+    1030,
+    953
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 6
 }

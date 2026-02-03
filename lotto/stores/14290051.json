@@ -1,7 +1,7 @@
 {
   "store_id": "14290051",
   "name": "복권명당",
-  "address": "강원 태백시 황지로 32 ",
+  "address": "강원 태백시  황지로 32 ",
   "phone": "033-552-6996",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.161563,
   "longitude": 128.990885,
-  "updated_at": "2026-01-12T12:01:23.323688"
+  "updated_at": "2026-02-03T18:29:14.190624",
+  "first_prize_draws": [
+    1199,
+    388
+  ],
+  "second_prize_draws": [
+    779,
+    666,
+    550,
+    487,
+    451,
+    399
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 6
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "12890027",
   "name": "복권마을",
-  "address": "인천 부평구 마장로 430 ",
+  "address": "인천 부평구  마장로 424 ",
   "phone": "032-502-4865",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 37.516502,
   "longitude": 126.704507,
-  "updated_at": "2026-01-12T11:15:45.224365"
+  "updated_at": "2026-02-03T18:25:29.497579",
+  "first_prize_draws": [
+    442,
+    337
+  ],
+  "second_prize_draws": [
+    1151,
+    1003,
+    952,
+    938,
+    916,
+    718,
+    661,
+    557
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 8
 }

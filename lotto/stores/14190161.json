@@ -1,7 +1,7 @@
 {
   "store_id": "14190161",
   "name": "복권방",
-  "address": "경기 평택시 평택로 154 ",
+  "address": "경기 평택시  평택로 154 1층 복권방",
   "phone": "031-656-4933",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 36.999326,
   "longitude": 127.079712,
-  "updated_at": "2026-01-12T11:40:57.592236"
+  "updated_at": "2026-02-03T18:21:29.005493",
+  "first_prize_draws": [
+    879
+  ],
+  "second_prize_draws": [
+    1102,
+    958,
+    951,
+    834,
+    623,
+    384,
+    356,
+    311
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

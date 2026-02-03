@@ -1,7 +1,7 @@
 {
   "store_id": "12890070",
   "name": "인천네트워크",
-  "address": "인천 남동구 논고개로 333 ",
+  "address": "인천 남동구 도림동(남촌도림동) 658-15 12블록5롯트102호",
   "phone": "032-446-6411",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 37.419786,
   "longitude": 126.729897,
-  "updated_at": "2026-01-12T11:24:44.575264"
+  "updated_at": "2026-02-03T17:53:37.332352",
+  "first_prize_draws": [
+    600
+  ],
+  "second_prize_draws": [
+    757,
+    736,
+    667,
+    641,
+    608,
+    534,
+    465,
+    266,
+    264
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 9
 }

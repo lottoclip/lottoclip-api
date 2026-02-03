@@ -1,7 +1,7 @@
 {
   "store_id": "13040009",
   "name": "대박나라",
-  "address": "대전 유성구 유성대로 727 ",
+  "address": "대전 유성구  유성대로720번길 39 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 36.358507,
   "longitude": 127.33244,
-  "updated_at": "2026-01-12T11:38:39.170309"
+  "updated_at": "2026-02-03T18:13:03.867944",
+  "first_prize_draws": [
+    835
+  ],
+  "second_prize_draws": [
+    997
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

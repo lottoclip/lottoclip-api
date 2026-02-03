@@ -1,7 +1,7 @@
 {
   "store_id": "14630011",
   "name": "좋은사람들로또",
-  "address": "전남 보성군 현충로 85 ",
+  "address": "전남 보성군  현충로 85 ",
   "phone": "061-852-0745",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,12 @@
   ],
   "latitude": 34.767428,
   "longitude": 127.081056,
-  "updated_at": "2026-01-12T11:59:02.434068"
+  "updated_at": "2026-02-03T18:26:24.047386",
+  "first_prize_draws": [
+    1160,
+    1011
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 2,
+  "second_prize_count": 0
 }

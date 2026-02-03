@@ -1,7 +1,7 @@
 {
   "store_id": "12710034",
-  "name": "로또세븐죽전점",
-  "address": "대구 달서구 죽전동 269-8번지 세븐일레븐편의점 내",
+  "name": "행복일등점",
+  "address": "대구 달서구  성서공단남로 37 1층 117호",
   "phone": "053-563-1590",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 35.850182,
   "longitude": 128.534918,
-  "updated_at": "2026-01-12T11:38:13.855150"
+  "updated_at": "2026-02-03T18:17:56.637850",
+  "first_prize_draws": [
+    827
+  ],
+  "second_prize_draws": [
+    1057,
+    841,
+    627,
+    387
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

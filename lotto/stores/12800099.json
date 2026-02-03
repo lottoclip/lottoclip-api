@@ -1,12 +1,20 @@
 {
   "store_id": "12800099",
   "name": "LG슈퍼",
-  "address": "인천 연수구 함박로12번길 24 ",
+  "address": "인천 연수구  함박로12번길 24 1층",
   "phone": "032-814-2310",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.42538,
   "longitude": 126.680069,
-  "updated_at": "2026-01-12T11:50:18.842756"
+  "updated_at": "2026-02-03T18:26:04.341263",
+  "first_prize_draws": [
+    1034
+  ],
+  "second_prize_draws": [
+    1159
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

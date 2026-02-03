@@ -1,7 +1,7 @@
 {
   "store_id": "12640475",
   "name": "자갈치도깨비명당",
-  "address": "부산 중구 자갈치로 33 ",
+  "address": "부산 중구  자갈치로 33 501502호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 35.097173,
   "longitude": 129.028312,
-  "updated_at": "2026-01-12T12:00:15.990589"
+  "updated_at": "2026-02-03T18:28:03.513544",
+  "first_prize_draws": [
+    1183,
+    1097
+  ],
+  "second_prize_draws": [
+    1065,
+    1060
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 2
 }

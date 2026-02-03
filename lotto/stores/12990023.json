@@ -1,7 +1,7 @@
 {
   "store_id": "12990023",
   "name": "금집복권",
-  "address": "광주 북구 첨단연신로108번길 146 ",
+  "address": "광주 북구  첨단연신로108번길 146 101호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,28 @@
   ],
   "latitude": 35.208388,
   "longitude": 126.86469,
-  "updated_at": "2026-01-12T12:00:09.692122"
+  "updated_at": "2026-02-03T18:28:43.650090",
+  "first_prize_draws": [
+    1181,
+    998,
+    866,
+    740,
+    621
+  ],
+  "second_prize_draws": [
+    1192,
+    1170,
+    1154,
+    1118,
+    1116,
+    1091,
+    1077,
+    901,
+    784,
+    749,
+    691,
+    435
+  ],
+  "first_prize_count": 5,
+  "second_prize_count": 12
 }

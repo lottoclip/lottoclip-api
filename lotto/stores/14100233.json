@@ -1,0 +1,28 @@
+{
+  "store_id": "14100233",
+  "name": "복권닷컴",
+  "address": "경기 부천시 오정구 삼정동 314-3번지 1층",
+  "phone": "032-673-8934",
+  "lottery_types": [
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 37.515875,
+  "longitude": 126.770336,
+  "updated_at": "2026-02-03T17:58:59.543007",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    824,
+    738,
+    724,
+    603,
+    602,
+    529,
+    528,
+    432,
+    352,
+    322
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 10
+}

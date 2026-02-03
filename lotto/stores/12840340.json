@@ -1,0 +1,22 @@
+{
+  "store_id": "12840340",
+  "name": "복권 판매점",
+  "address": "인천 남동구  구월로 350 ",
+  "phone": null,
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.454956,
+  "longitude": 126.729429,
+  "updated_at": "2026-02-03T18:28:03.566892",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1183,
+    1146,
+    1096
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 3
+}

@@ -1,7 +1,7 @@
 {
   "store_id": "14490012",
   "name": "오뚜기복권방",
-  "address": "충남 아산시 온천대로 1094 ",
+  "address": "충남 아산시  온천대로 1094 ",
   "phone": "041-546-2888",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,25 @@
   ],
   "latitude": 36.78465,
   "longitude": 126.961185,
-  "updated_at": "2026-01-12T11:21:52.480791"
+  "updated_at": "2026-02-03T18:25:25.280488",
+  "first_prize_draws": [
+    550
+  ],
+  "second_prize_draws": [
+    1150,
+    1010,
+    922,
+    864,
+    663,
+    645,
+    644,
+    621,
+    618,
+    571,
+    388,
+    375,
+    346
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 13
 }

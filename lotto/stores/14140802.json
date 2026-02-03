@@ -1,7 +1,7 @@
 {
   "store_id": "14140802",
   "name": "인생복권",
-  "address": "경기 시흥시 희망공원로 269 ",
+  "address": "경기 시흥시  희망공원로 269 1층 X8 YA호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 37.345249,
   "longitude": 126.725173,
-  "updated_at": "2026-01-12T11:55:30.598118"
+  "updated_at": "2026-02-03T18:26:36.920776",
+  "first_prize_draws": [
+    1108
+  ],
+  "second_prize_draws": [
+    1163,
+    963
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

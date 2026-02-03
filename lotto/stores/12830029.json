@@ -1,7 +1,7 @@
 {
   "store_id": "12830029",
   "name": "행운생활건강",
-  "address": "인천 서구 고래울로 42 ",
+  "address": "인천 서구  고래울로 42 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 37.486102,
   "longitude": 126.68637,
-  "updated_at": "2026-01-12T11:50:12.463346"
+  "updated_at": "2026-02-03T18:15:48.886241",
+  "first_prize_draws": [
+    1032,
+    988
+  ],
+  "second_prize_draws": [
+    871
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 1
 }

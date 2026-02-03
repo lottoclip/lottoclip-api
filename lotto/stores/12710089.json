@@ -1,7 +1,7 @@
 {
   "store_id": "12710089",
   "name": "코리아로또성서공단점",
-  "address": "대구 달서구 호림동  10번지코리아마트 내",
+  "address": "대구 달서구 호림동  10번지 코리아마트 내",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,16 @@
   ],
   "latitude": 35.83921,
   "longitude": 128.488435,
-  "updated_at": "2026-01-12T11:22:20.802669"
+  "updated_at": "2026-02-03T17:40:12.158209",
+  "first_prize_draws": [
+    559
+  ],
+  "second_prize_draws": [
+    598,
+    538,
+    445,
+    442
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

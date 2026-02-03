@@ -1,7 +1,7 @@
 {
   "store_id": "24700014",
-  "name": "훼미리마트(두호점)",
-  "address": "경북 포항시 북구 두호동 1034-13",
+  "name": "CU(두호점)",
+  "address": "경북 포항시 북구 두호동 1034-13번지 ",
   "phone": "054-241-3036",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,22 @@
   ],
   "latitude": 36.060314,
   "longitude": 129.37875,
-  "updated_at": "2026-01-12T11:17:20.448088"
+  "updated_at": "2026-02-03T18:07:01.923705",
+  "first_prize_draws": [
+    468
+  ],
+  "second_prize_draws": [
+    924,
+    912,
+    907,
+    855,
+    685,
+    675,
+    661,
+    585,
+    566,
+    330
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

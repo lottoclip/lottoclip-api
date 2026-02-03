@@ -1,12 +1,20 @@
 {
   "store_id": "13040175",
   "name": "나눔로또CU목상점",
-  "address": "대전 대덕구 대덕대로1448번길 71 ",
+  "address": "대전 대덕구  대덕대로1448번길 71 CU편의점",
   "phone": null,
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 36.444781,
   "longitude": 127.410484,
-  "updated_at": "2026-01-12T12:01:20.131383"
+  "updated_at": "2026-02-03T18:29:09.745420",
+  "first_prize_draws": [
+    1198
+  ],
+  "second_prize_draws": [
+    1193
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

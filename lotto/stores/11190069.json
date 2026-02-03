@@ -1,7 +1,7 @@
 {
   "store_id": "11190069",
   "name": "천하명당복권방",
-  "address": "서울 동대문구 전농로 105-1 ",
+  "address": "서울 동대문구  전농로 105-1 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.574412,
   "longitude": 127.057284,
-  "updated_at": "2026-01-12T11:25:18.897887"
+  "updated_at": "2026-02-03T18:24:00.645203",
+  "first_prize_draws": [
+    606
+  ],
+  "second_prize_draws": [
+    1134,
+    1003,
+    980,
+    954,
+    908,
+    896,
+    713
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

@@ -1,12 +1,28 @@
 {
   "store_id": "12610095",
   "name": "복권방",
-  "address": "부산 부산진구 부암동  133-39훼미리마트(부암점)",
+  "address": "부산 부산진구 부암동 133-39번지 훼미리마트(부암점)",
   "phone": null,
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 35.152345,
   "longitude": 129.038266,
-  "updated_at": "2026-01-12T11:21:08.409916"
+  "updated_at": "2026-02-03T17:55:54.705747",
+  "first_prize_draws": [
+    536,
+    415
+  ],
+  "second_prize_draws": [
+    786,
+    785,
+    648,
+    512,
+    489,
+    461,
+    453,
+    435
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 8
 }

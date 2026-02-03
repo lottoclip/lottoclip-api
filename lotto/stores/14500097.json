@@ -1,12 +1,27 @@
 {
   "store_id": "14500097",
   "name": "사랑슈퍼",
-  "address": "전북 익산시 남중동  36-47",
+  "address": "전북 익산시  인북로 241-4 ",
   "phone": "063-856-3537",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 35.95013,
   "longitude": 126.957537,
-  "updated_at": "2026-01-12T11:14:00.766931"
+  "updated_at": "2026-02-03T18:19:08.400056",
+  "first_prize_draws": [
+    418
+  ],
+  "second_prize_draws": [
+    1073,
+    945,
+    936,
+    864,
+    809,
+    801,
+    679,
+    264
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

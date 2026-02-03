@@ -1,7 +1,7 @@
 {
   "store_id": "14290012",
-  "name": "TO TO",
-  "address": "강원 강릉시 주문로 55 ",
+  "name": "TOTO",
+  "address": "강원 강릉시  주문로 55 ",
   "phone": "033-661-8661",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 37.8889,
   "longitude": 128.825548,
-  "updated_at": "2026-01-12T11:59:34.571244"
+  "updated_at": "2026-02-03T18:29:27.053087",
+  "first_prize_draws": [
+    1170
+  ],
+  "second_prize_draws": [
+    1202,
+    1186,
+    1171,
+    1015,
+    1005,
+    847,
+    835,
+    832,
+    747,
+    639,
+    441,
+    430
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 12
 }

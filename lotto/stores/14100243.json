@@ -1,7 +1,7 @@
 {
   "store_id": "14100243",
   "name": "행운복권",
-  "address": "경기 수원시 권선구 권선로 774-1 ",
+  "address": "경기 수원시 권선구  권선로 774-1 ",
   "phone": "031-237-1937",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 37.256559,
   "longitude": 127.035591,
-  "updated_at": "2026-01-12T11:46:41.971969"
+  "updated_at": "2026-02-03T18:26:28.253989",
+  "first_prize_draws": [
+    975,
+    330
+  ],
+  "second_prize_draws": [
+    1161,
+    1119,
+    1114,
+    903,
+    865,
+    413,
+    363,
+    339
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 8
 }

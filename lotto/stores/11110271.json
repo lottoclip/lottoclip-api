@@ -1,7 +1,7 @@
 {
   "store_id": "11110271",
   "name": "성보복권",
-  "address": "서울 노원구 월계로53길 21 ",
+  "address": "서울 노원구  석계로 98-1 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 37.631171,
   "longitude": 127.058636,
-  "updated_at": "2026-01-12T11:34:21.064436"
+  "updated_at": "2026-02-03T18:10:31.874154",
+  "first_prize_draws": [
+    758
+  ],
+  "second_prize_draws": [
+    966,
+    833,
+    796,
+    737,
+    267
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

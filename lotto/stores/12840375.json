@@ -1,7 +1,7 @@
 {
   "store_id": "12840375",
   "name": "청라로또하엘점",
-  "address": "인천 서구 청라한내로 96 ",
+  "address": "인천 서구  청라한내로 96 112호(청라동 하엘에스페이스)",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 37.533866,
   "longitude": 126.627737,
-  "updated_at": "2026-01-12T11:52:08.972120"
+  "updated_at": "2026-02-03T18:29:22.581752",
+  "first_prize_draws": [
+    1059
+  ],
+  "second_prize_draws": [
+    1201,
+    1135
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

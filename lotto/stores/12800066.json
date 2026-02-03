@@ -1,7 +1,7 @@
 {
   "store_id": "12800066",
   "name": "복권천국",
-  "address": "인천 부평구 평천로 306 ",
+  "address": "인천 부평구  평천로 306 양영빌딩1층",
   "phone": "032-501-1009",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,25 @@
   ],
   "latitude": 37.51709,
   "longitude": 126.72441,
-  "updated_at": "2026-01-12T11:53:05.740707"
+  "updated_at": "2026-02-03T18:28:29.905686",
+  "first_prize_draws": [
+    1072,
+    1033
+  ],
+  "second_prize_draws": [
+    1189,
+    1050,
+    1037,
+    979,
+    914,
+    876,
+    861,
+    601,
+    558,
+    556,
+    547,
+    426
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 12
 }

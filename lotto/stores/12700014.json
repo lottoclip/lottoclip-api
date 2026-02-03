@@ -1,7 +1,7 @@
 {
   "store_id": "12700014",
   "name": "로또명당",
-  "address": "대구 달서구 월성로 36 ",
+  "address": "대구 달서구  월성로 20 건도파라다이스 105-1호건도파라다이스",
   "phone": "053-0000-0000",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 35.831669,
   "longitude": 128.531627,
-  "updated_at": "2026-01-12T11:44:49.385275"
+  "updated_at": "2026-02-03T18:18:51.189166",
+  "first_prize_draws": [
+    939
+  ],
+  "second_prize_draws": [
+    1069,
+    1010,
+    278
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

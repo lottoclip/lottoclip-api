@@ -1,7 +1,7 @@
 {
   "store_id": "14690026",
-  "name": "영암복권방",
-  "address": "전남 영암군 영암읍 역리 162-15",
+  "name": "명당복권방",
+  "address": "전남 영암군  삼호읍 삼호중앙로 203 명당복권방",
   "phone": "061-473-8778",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,25 @@
   ],
   "latitude": 34.745525,
   "longitude": 126.47302,
-  "updated_at": "2026-01-12T11:09:51.152555"
+  "updated_at": "2026-02-03T18:19:12.788605",
+  "first_prize_draws": [
+    347
+  ],
+  "second_prize_draws": [
+    1074,
+    1070,
+    1039,
+    1012,
+    966,
+    877,
+    860,
+    845,
+    764,
+    592,
+    455,
+    362,
+    293
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 13
 }

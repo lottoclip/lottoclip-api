@@ -1,7 +1,7 @@
 {
   "store_id": "14900021",
   "name": "로또명당목련",
-  "address": "제주 제주시 신대로 72 ",
+  "address": "제주 제주시  신대로 72 ",
   "phone": "064-743-2259",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 33.491011,
   "longitude": 126.496104,
-  "updated_at": "2026-01-12T11:42:08.291929"
+  "updated_at": "2026-02-03T18:26:45.735729",
+  "first_prize_draws": [
+    892,
+    890
+  ],
+  "second_prize_draws": [
+    1165,
+    1116,
+    1004,
+    983,
+    970,
+    912,
+    862,
+    724
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 8
 }

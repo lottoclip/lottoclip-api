@@ -1,7 +1,7 @@
 {
   "store_id": "14340039",
   "name": "일등대박복권방",
-  "address": "충북 진천군 중앙동로 74-1 ",
+  "address": "충북 진천군  중앙동로 74-1 1층",
   "phone": "043-536-0066",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 36.856535,
   "longitude": 127.445156,
-  "updated_at": "2026-01-12T12:00:45.308628"
+  "updated_at": "2026-02-03T18:28:44.015858",
+  "first_prize_draws": [
+    1192
+  ],
+  "second_prize_draws": [
+    1105,
+    1024,
+    964,
+    933,
+    892
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

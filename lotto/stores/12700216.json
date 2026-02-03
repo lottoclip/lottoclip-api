@@ -1,7 +1,7 @@
 {
   "store_id": "12700216",
   "name": "승차권판매소(서구청1호점)",
-  "address": "대구 서구 평리동 1230-9번지 ",
+  "address": "대구 서구  국채보상로 257 ",
   "phone": "053-561-8214",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 35.871825,
   "longitude": 128.559184,
-  "updated_at": "2026-01-12T11:38:04.532911"
+  "updated_at": "2026-02-03T18:23:21.819216",
+  "first_prize_draws": [
+    824,
+    508
+  ],
+  "second_prize_draws": [
+    1125,
+    1111,
+    1062,
+    983,
+    841,
+    812,
+    464
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 7
 }

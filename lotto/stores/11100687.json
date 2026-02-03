@@ -1,7 +1,7 @@
 {
   "store_id": "11100687",
   "name": "한양슈퍼복권",
-  "address": "서울 성북구 지봉로24길 65 ",
+  "address": "서울 성북구  지봉로24길 65 ",
   "phone": "02-921-1971",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 37.582338,
   "longitude": 127.020451,
-  "updated_at": "2026-01-12T11:39:48.225183"
+  "updated_at": "2026-02-03T18:23:39.081997",
+  "first_prize_draws": [
+    857,
+    543
+  ],
+  "second_prize_draws": [
+    1129,
+    1042,
+    993,
+    886
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 4
 }

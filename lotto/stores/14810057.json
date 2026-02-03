@@ -1,0 +1,22 @@
+{
+  "store_id": "14810057",
+  "name": "로또복권",
+  "address": "경남 김해시 안동 279-45번지 복권판매점",
+  "phone": null,
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.236654,
+  "longitude": 128.914736,
+  "updated_at": "2026-02-03T18:05:29.104304",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    905,
+    813,
+    800
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 3
+}

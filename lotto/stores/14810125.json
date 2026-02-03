@@ -1,7 +1,7 @@
 {
   "store_id": "14810125",
   "name": "행운복권방/해피하우스",
-  "address": "경남 양산시 덕계로 27 ",
+  "address": "경남 양산시  덕계로 27 ",
   "phone": "055-366-1755",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 35.370928,
   "longitude": 129.148499,
-  "updated_at": "2026-01-12T11:53:37.129703"
+  "updated_at": "2026-02-03T18:20:03.094455",
+  "first_prize_draws": [
+    1082,
+    544
+  ],
+  "second_prize_draws": [
+    1045,
+    849,
+    624,
+    510,
+    465,
+    441,
+    286
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 7
 }

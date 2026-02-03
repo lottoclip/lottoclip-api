@@ -1,7 +1,7 @@
 {
   "store_id": "14100569",
   "name": "가판점",
-  "address": "경기 군포시 군포로 541-2 ",
+  "address": "경기 군포시  군포로 541-2 인도 앞 가판대",
   "phone": "031-455-1574",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 37.354384,
   "longitude": 126.946298,
-  "updated_at": "2026-01-12T11:52:02.555191"
+  "updated_at": "2026-02-03T18:27:11.735610",
+  "first_prize_draws": [
+    1057,
+    453
+  ],
+  "second_prize_draws": [
+    1171,
+    1036,
+    918,
+    878,
+    672,
+    513,
+    503,
+    429,
+    295
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 9
 }

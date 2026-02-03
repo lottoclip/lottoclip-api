@@ -1,7 +1,7 @@
 {
   "store_id": "14440129",
   "name": "힐링복권",
-  "address": "충남 당진시 신복운로2길 13 ",
+  "address": "충남 당진시  신복운로2길 13 1층 청소나라 옆",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,11 @@
   ],
   "latitude": 36.94294,
   "longitude": 126.782065,
-  "updated_at": "2026-01-12T11:54:39.585634"
+  "updated_at": "2026-02-03T18:20:46.571961",
+  "first_prize_draws": [
+    1092
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

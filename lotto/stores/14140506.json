@@ -1,7 +1,7 @@
 {
   "store_id": "14140506",
   "name": "한방복권",
-  "address": "경기 파주시 경의로 1100 ",
+  "address": "경기 파주시  경의로 1100 연세프라자104호",
   "phone": "031-8035-6006",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 37.715324,
   "longitude": 126.760116,
-  "updated_at": "2026-01-12T12:00:19.237134"
+  "updated_at": "2026-02-03T18:28:08.145440",
+  "first_prize_draws": [
+    1184,
+    962
+  ],
+  "second_prize_draws": [
+    1169,
+    1150,
+    1089,
+    1038
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 4
 }

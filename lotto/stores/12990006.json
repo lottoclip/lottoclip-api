@@ -1,7 +1,7 @@
 {
   "store_id": "12990006",
   "name": "타운복권방",
-  "address": "광주 북구 밤실로 184-1 ",
+  "address": "광주 북구  밤실로 184-1 ",
   "phone": "062-265-1963",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,25 @@
   ],
   "latitude": 35.16375,
   "longitude": 126.934146,
-  "updated_at": "2026-01-12T11:55:43.186332"
+  "updated_at": "2026-02-03T18:27:55.235475",
+  "first_prize_draws": [
+    1112,
+    963,
+    891
+  ],
+  "second_prize_draws": [
+    1181,
+    1064,
+    1062,
+    1060,
+    1059,
+    975,
+    953,
+    928,
+    736,
+    678,
+    619
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 11
 }

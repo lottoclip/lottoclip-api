@@ -1,7 +1,7 @@
 {
   "store_id": "14430034",
-  "name": "복권판매점",
-  "address": "충남 서산시 고운로 164 ",
+  "name": "은혜복권판매점",
+  "address": "충남 서산시  고운로 164 미림화랑 옆 1층 상가",
   "phone": "041-664-3477",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 36.783356,
   "longitude": 126.45343,
-  "updated_at": "2026-01-12T11:43:16.714448"
+  "updated_at": "2026-02-03T18:19:08.360529",
+  "first_prize_draws": [
+    914,
+    841,
+    726
+  ],
+  "second_prize_draws": [
+    1073,
+    1036,
+    901,
+    705,
+    700
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 5
 }

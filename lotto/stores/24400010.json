@@ -1,7 +1,7 @@
 {
   "store_id": "24400010",
   "name": "GS25(천안성지점)",
-  "address": "충남 천안시 동남구 신방동 881 ",
+  "address": "충남 천안시 동남구  일봉로 12-4 우정빌딩 ",
   "phone": "041-579-7328",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,23 @@
   ],
   "latitude": 36.793333,
   "longitude": 127.129694,
-  "updated_at": "2026-01-12T11:42:42.450028"
+  "updated_at": "2026-02-03T18:08:16.222382",
+  "first_prize_draws": [
+    903,
+    883
+  ],
+  "second_prize_draws": [
+    940,
+    853,
+    776,
+    764,
+    757,
+    650,
+    638,
+    558,
+    453,
+    422
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 10
 }

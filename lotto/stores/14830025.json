@@ -1,12 +1,18 @@
 {
   "store_id": "14830025",
   "name": "행복복권판매점",
-  "address": "경남 사천시 조동길 49-15 ",
-  "phone": "055-854-5989",
+  "address": "경남 사천시  진삼로 1111 태권도삼성청무 GS25편의점 내",
+  "phone": null,
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 35.060255,
   "longitude": 128.067518,
-  "updated_at": "2026-01-12T11:46:32.697740"
+  "updated_at": "2026-02-03T18:10:59.809015",
+  "first_prize_draws": [
+    972
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

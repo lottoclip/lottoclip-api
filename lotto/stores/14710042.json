@@ -1,7 +1,7 @@
 {
   "store_id": "14710042",
   "name": "대원로또판매점",
-  "address": "경북 고령군 고령읍 지산리 지산리 3-1번지",
+  "address": "경북 고령군 고령읍 지산리 3-1번지 ",
   "phone": "054-956-1580",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,16 @@
   ],
   "latitude": 35.727325,
   "longitude": 128.266044,
-  "updated_at": "2026-01-12T11:06:45.164403"
+  "updated_at": "2026-02-03T17:47:07.865084",
+  "first_prize_draws": [
+    296
+  ],
+  "second_prize_draws": [
+    688,
+    601,
+    563,
+    514
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

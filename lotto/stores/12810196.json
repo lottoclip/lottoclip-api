@@ -1,7 +1,7 @@
 {
   "store_id": "12810196",
   "name": "삼성로또",
-  "address": "인천 연수구 학나래로6번길 56 ",
+  "address": "인천 연수구  학나래로6번길 56 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,27 @@
   ],
   "latitude": 37.425388,
   "longitude": 126.698183,
-  "updated_at": "2026-01-12T11:53:46.825729"
+  "updated_at": "2026-02-03T18:29:26.789815",
+  "first_prize_draws": [
+    1085,
+    795
+  ],
+  "second_prize_draws": [
+    1202,
+    1189,
+    1155,
+    1134,
+    1105,
+    1098,
+    1081,
+    1073,
+    995,
+    967,
+    904,
+    746,
+    597,
+    459
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 14
 }

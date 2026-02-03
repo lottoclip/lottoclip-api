@@ -1,7 +1,7 @@
 {
   "store_id": "11100879",
   "name": "가판점",
-  "address": "서울 구로구 경인로3길 지하 64 ",
+  "address": "서울 구로구  경인로3길 지하 64 ",
   "phone": "02-2611-0929",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,25 @@
   ],
   "latitude": 37.491359,
   "longitude": 126.821405,
-  "updated_at": "2026-01-12T11:14:49.179335"
+  "updated_at": "2026-02-03T18:27:20.295371",
+  "first_prize_draws": [
+    429
+  ],
+  "second_prize_draws": [
+    1173,
+    1135,
+    1103,
+    1062,
+    1034,
+    979,
+    954,
+    952,
+    820,
+    619,
+    576,
+    406,
+    346
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 13
 }

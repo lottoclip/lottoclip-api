@@ -1,7 +1,7 @@
 {
   "store_id": "12600131",
   "name": "태양슈퍼마켓",
-  "address": "부산 해운대구 신반송로 171 ",
+  "address": "부산 해운대구  신반송로 171 삼한115호",
   "phone": "051-543-3442",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 35.227865,
   "longitude": 129.160803,
-  "updated_at": "2026-01-12T11:27:13.577280"
+  "updated_at": "2026-02-03T18:25:24.235397",
+  "first_prize_draws": [
+    642,
+    579
+  ],
+  "second_prize_draws": [
+    1150,
+    1027,
+    935,
+    931,
+    885,
+    772,
+    555,
+    456,
+    386,
+    332
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 10
 }

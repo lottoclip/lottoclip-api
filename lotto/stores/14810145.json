@@ -1,7 +1,7 @@
 {
   "store_id": "14810145",
   "name": "로또정량점",
-  "address": "경남 통영시 통영해안로 395 ",
+  "address": "경남 통영시  통영해안로 395 ",
   "phone": "055-643-0147",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,27 @@
   ],
   "latitude": 34.845317,
   "longitude": 128.431206,
-  "updated_at": "2026-01-12T11:46:35.768529"
+  "updated_at": "2026-02-03T18:28:48.500120",
+  "first_prize_draws": [
+    973,
+    595
+  ],
+  "second_prize_draws": [
+    1193,
+    916,
+    826,
+    777,
+    706,
+    680,
+    647,
+    521,
+    500,
+    493,
+    477,
+    456,
+    379,
+    345
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 14
 }

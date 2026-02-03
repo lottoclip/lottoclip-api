@@ -1,7 +1,7 @@
 {
   "store_id": "13090004",
   "name": "노다지복권방",
-  "address": "대전 대덕구 신탄진로 211 ",
+  "address": "대전 대덕구  신탄진로 211 ",
   "phone": "042-625-6257",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 36.39926,
   "longitude": 127.422859,
-  "updated_at": "2026-01-12T11:51:09.236261"
+  "updated_at": "2026-02-03T18:28:25.432452",
+  "first_prize_draws": [
+    1045
+  ],
+  "second_prize_draws": [
+    1188,
+    956,
+    889,
+    619,
+    596,
+    423,
+    311
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

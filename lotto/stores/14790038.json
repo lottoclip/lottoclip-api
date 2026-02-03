@@ -1,7 +1,7 @@
 {
   "store_id": "14790038",
   "name": "환희복권방",
-  "address": "경북 포항시 남구 상공로 243 ",
+  "address": "경북 포항시 남구  상공로 243 1층 복권방",
   "phone": "054-284-6045",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 36.023319,
   "longitude": 129.372229,
-  "updated_at": "2026-01-12T11:23:04.061007"
+  "updated_at": "2026-02-03T18:08:54.851784",
+  "first_prize_draws": [
+    568
+  ],
+  "second_prize_draws": [
+    945,
+    777,
+    750,
+    717,
+    497
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

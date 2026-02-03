@@ -1,7 +1,7 @@
 {
   "store_id": "12700234",
   "name": "지에스25 월성파크",
-  "address": "대구 달서구 상원로 195 ",
+  "address": "대구 달서구  상원로 195 GS25월성파크점",
   "phone": "053-633-4525",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 35.823996,
   "longitude": 128.525379,
-  "updated_at": "2026-01-12T11:53:08.770203"
+  "updated_at": "2026-02-03T18:26:45.162355",
+  "first_prize_draws": [
+    1073
+  ],
+  "second_prize_draws": [
+    1165,
+    1083,
+    1079,
+    871,
+    831
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

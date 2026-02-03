@@ -1,0 +1,29 @@
+{
+  "store_id": "13040005",
+  "name": "복드림마트",
+  "address": "대전 서구  원도안로 16 ",
+  "phone": null,
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.305645,
+  "longitude": 127.349167,
+  "updated_at": "2026-02-03T18:28:43.665880",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1192,
+    1143,
+    1100,
+    1094,
+    1047,
+    1042,
+    1028,
+    921,
+    913,
+    828
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 10
+}

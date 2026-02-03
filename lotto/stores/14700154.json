@@ -1,7 +1,7 @@
 {
   "store_id": "14700154",
   "name": "양지서점",
-  "address": "경북 김천시 평화길 152 ",
+  "address": "경북 김천시 평화길 152  ",
   "phone": "054-432-3094",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,25 @@
   ],
   "latitude": 36.122698,
   "longitude": 128.114557,
-  "updated_at": "2026-01-12T11:13:51.100637"
+  "updated_at": "2026-02-03T18:29:40.769509",
+  "first_prize_draws": [
+    415
+  ],
+  "second_prize_draws": [
+    1205,
+    1159,
+    1157,
+    984,
+    939,
+    867,
+    856,
+    776,
+    693,
+    675,
+    531,
+    509,
+    503
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 13
 }

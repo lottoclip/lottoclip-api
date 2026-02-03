@@ -1,7 +1,7 @@
 {
   "store_id": "12900085",
   "name": "씨유(CU)화목화성점",
-  "address": "광주 서구 쌍촌로 29 ",
+  "address": "광주 서구  쌍촌로 29 CU편의점내",
   "phone": "062-371-6251",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 35.147546,
   "longitude": 126.864812,
-  "updated_at": "2026-01-12T11:51:18.664298"
+  "updated_at": "2026-02-03T18:29:18.249954",
+  "first_prize_draws": [
+    1048
+  ],
+  "second_prize_draws": [
+    1200,
+    1106,
+    1103
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

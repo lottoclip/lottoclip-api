@@ -1,7 +1,7 @@
 {
   "store_id": "14610066",
   "name": "삼거리상회",
-  "address": "전남 신안군 복룡로 2 ",
+  "address": "전남 신안군  복룡로 2 삼거리상회",
   "phone": "061-271-0513",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 34.865288,
   "longitude": 126.312106,
-  "updated_at": "2026-01-12T11:25:58.636358"
+  "updated_at": "2026-02-03T18:27:51.200867",
+  "first_prize_draws": [
+    618
+  ],
+  "second_prize_draws": [
+    1180
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

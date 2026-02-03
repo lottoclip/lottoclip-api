@@ -1,7 +1,7 @@
 {
   "store_id": "14320005",
   "name": "영로또",
-  "address": "충북 음성군 원중로 1374 ",
+  "address": "충북 음성군  사예2길 24 1층 106호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 36.906123,
   "longitude": 127.54642,
-  "updated_at": "2026-01-12T11:29:23.974235"
+  "updated_at": "2026-02-03T18:28:57.095074",
+  "first_prize_draws": [
+    674
+  ],
+  "second_prize_draws": [
+    1195,
+    1123,
+    1085,
+    1000,
+    911,
+    882,
+    817
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

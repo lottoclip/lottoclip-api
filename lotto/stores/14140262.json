@@ -1,7 +1,7 @@
 {
   "store_id": "14140262",
   "name": "행운가득복권",
-  "address": "경기 화성시 반월동 460 1층 101호",
+  "address": "경기 화성시 반정동 607 CU반정삼성점",
   "phone": "031-204-6687",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,14 @@
   ],
   "latitude": 37.246801,
   "longitude": 127.041473,
-  "updated_at": "2026-01-12T11:33:33.730554"
+  "updated_at": "2026-02-03T18:06:00.889104",
+  "first_prize_draws": [
+    743
+  ],
+  "second_prize_draws": [
+    912,
+    759
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

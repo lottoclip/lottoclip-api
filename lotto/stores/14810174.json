@@ -1,7 +1,7 @@
 {
   "store_id": "14810174",
   "name": "진영로또판매점",
-  "address": "경남 김해시 진영로 191 ",
+  "address": "경남 김해시  진영로 189-2 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 35.302974,
   "longitude": 128.7339,
-  "updated_at": "2026-01-12T11:31:41.006598"
+  "updated_at": "2026-02-03T18:28:52.841609",
+  "first_prize_draws": [
+    713
+  ],
+  "second_prize_draws": [
+    1194,
+    924,
+    921,
+    895,
+    703,
+    677,
+    604,
+    550,
+    433,
+    327
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

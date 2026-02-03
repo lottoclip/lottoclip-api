@@ -1,7 +1,7 @@
 {
   "store_id": "12840290",
   "name": "행복드림 복권",
-  "address": "인천 서구 청라라임로 85 ",
+  "address": "인천 서구  청라라임로 85 판매시설 비동 131호 후면(청라동 청라린스트라우스)",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,11 @@
   ],
   "latitude": 37.535159,
   "longitude": 126.653132,
-  "updated_at": "2026-01-12T12:00:35.435734"
+  "updated_at": "2026-02-03T18:28:29.947136",
+  "first_prize_draws": [
+    1189
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "11140269",
   "name": "다람쥐로또",
-  "address": "서울 마포구 동교로 40 ",
+  "address": "서울 마포구  동교로 40 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,11 @@
   ],
   "latitude": 37.55247,
   "longitude": 126.906721,
-  "updated_at": "2026-01-12T12:01:16.986489"
+  "updated_at": "2026-02-03T18:29:05.379578",
+  "first_prize_draws": [
+    1197
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

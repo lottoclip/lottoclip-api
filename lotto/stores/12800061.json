@@ -1,7 +1,7 @@
 {
   "store_id": "12800061",
   "name": "복권나라",
-  "address": "인천 서구 거북로 80 ",
+  "address": "인천 서구  거북로 80 ",
   "phone": "032-575-5550",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 37.503013,
   "longitude": 126.670657,
-  "updated_at": "2026-01-12T11:26:42.433778"
+  "updated_at": "2026-02-03T18:17:57.013844",
+  "first_prize_draws": [
+    632,
+    416,
+    339
+  ],
+  "second_prize_draws": [
+    1057,
+    958,
+    921,
+    876,
+    754,
+    701,
+    581,
+    462,
+    410,
+    394
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 10
 }

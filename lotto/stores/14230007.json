@@ -1,7 +1,7 @@
 {
   "store_id": "14230007",
   "name": "강릉성산점",
-  "address": "강원 강릉시 성산면 구산리 307-1 1층",
+  "address": "강원 강릉시  구산길 58 1층 복권판매점",
   "phone": "033-647-7264",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 37.715825,
   "longitude": 128.830596,
-  "updated_at": "2026-01-12T11:34:36.583430"
+  "updated_at": "2026-02-03T18:24:13.802766",
+  "first_prize_draws": [
+    763
+  ],
+  "second_prize_draws": [
+    1137,
+    1083,
+    779,
+    744,
+    738,
+    714
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

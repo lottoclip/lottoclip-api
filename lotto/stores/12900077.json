@@ -1,7 +1,7 @@
 {
   "store_id": "12900077",
   "name": "우리동네마트(무한유통)",
-  "address": "광주 광산구 장신로 68 ",
+  "address": "광주 광산구  장신로 68 101호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,25 @@
   ],
   "latitude": 35.190486,
   "longitude": 126.817688,
-  "updated_at": "2026-01-12T11:56:17.467864"
+  "updated_at": "2026-02-03T18:26:32.539870",
+  "first_prize_draws": [
+    1118,
+    744,
+    655,
+    471
+  ],
+  "second_prize_draws": [
+    1162,
+    1097,
+    1040,
+    1023,
+    977,
+    953,
+    924,
+    560,
+    551,
+    453
+  ],
+  "first_prize_count": 4,
+  "second_prize_count": 10
 }

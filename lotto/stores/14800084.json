@@ -1,7 +1,7 @@
 {
   "store_id": "14800084",
   "name": "J마트",
-  "address": "경남 진주시 도동천로 135-1 ",
+  "address": "경남 진주시  도동천로 131 ",
   "phone": "055-758-2261",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 35.182656,
   "longitude": 128.113715,
-  "updated_at": "2026-01-12T11:38:10.815065"
+  "updated_at": "2026-02-03T18:20:07.328178",
+  "first_prize_draws": [
+    826,
+    508
+  ],
+  "second_prize_draws": [
+    1083,
+    1031,
+    956,
+    955,
+    925,
+    905,
+    672,
+    632,
+    302
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 9
 }

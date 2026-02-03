@@ -1,7 +1,7 @@
 {
   "store_id": "12600367",
   "name": "수복슈퍼",
-  "address": "부산 사상구 광장로37번길 34 ",
+  "address": "부산 사상구 괘법동 526-12 1층",
   "phone": "051-311-9390",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 35.16441,
   "longitude": 128.981263,
-  "updated_at": "2026-01-12T11:20:40.632700"
+  "updated_at": "2026-02-03T18:01:19.404238",
+  "first_prize_draws": [
+    527
+  ],
+  "second_prize_draws": [
+    855,
+    802,
+    689,
+    649,
+    548
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

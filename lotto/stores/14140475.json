@@ -1,7 +1,7 @@
 {
   "store_id": "14140475",
   "name": "홈런복권판매점",
-  "address": "경기 오산시 내삼미로 93 ",
+  "address": "경기 오산시  내삼미로 93 제1층 109호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 37.170529,
   "longitude": 127.065771,
-  "updated_at": "2026-01-12T11:59:18.475647"
+  "updated_at": "2026-02-03T18:26:45.406583",
+  "first_prize_draws": [
+    1165
+  ],
+  "second_prize_draws": [
+    1163,
+    965,
+    941
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14530001",
   "name": "제일대박복권",
-  "address": "전북 전주시 완산구 쑥고개로 389 ",
+  "address": "전북 전주시 완산구  쑥고개로 389 101호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 35.804454,
   "longitude": 127.107357,
-  "updated_at": "2026-01-12T11:34:30.378777"
+  "updated_at": "2026-02-03T18:27:25.280477",
+  "first_prize_draws": [
+    761
+  ],
+  "second_prize_draws": [
+    1174,
+    962,
+    911,
+    894,
+    820
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

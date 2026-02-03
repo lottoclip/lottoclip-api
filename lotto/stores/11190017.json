@@ -1,12 +1,36 @@
 {
   "store_id": "11190017",
   "name": "교통카드판매대",
-  "address": "서울 송파구 송파대로28길 27 ",
-  "phone": "00-000-0000",
+  "address": "서울 송파구  송파대로28길 27 공영주차장앞가판",
+  "phone": null,
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.495056,
   "longitude": 127.120412,
-  "updated_at": "2026-01-12T11:50:06.144255"
+  "updated_at": "2026-02-03T18:29:13.807798",
+  "first_prize_draws": [
+    1030,
+    899,
+    757,
+    575
+  ],
+  "second_prize_draws": [
+    1199,
+    1103,
+    1088,
+    1055,
+    1028,
+    976,
+    974,
+    969,
+    948,
+    868,
+    846,
+    832,
+    760,
+    755
+  ],
+  "first_prize_count": 4,
+  "second_prize_count": 14
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14810183",
   "name": "로또복권판매",
-  "address": "경남 하동군 중앙로 12 ",
+  "address": "경남 하동군  중앙로 12 1층",
   "phone": "055-884-4544",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,26 @@
   ],
   "latitude": 35.070733,
   "longitude": 127.750883,
-  "updated_at": "2026-01-12T11:20:15.676518"
+  "updated_at": "2026-02-03T18:25:55.899790",
+  "first_prize_draws": [
+    519
+  ],
+  "second_prize_draws": [
+    1157,
+    1028,
+    1013,
+    956,
+    941,
+    890,
+    882,
+    779,
+    752,
+    711,
+    634,
+    598,
+    493,
+    440
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 14
 }

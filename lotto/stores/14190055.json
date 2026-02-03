@@ -1,7 +1,7 @@
 {
   "store_id": "14190055",
   "name": "티켓몰",
-  "address": "경기 김포시 사우중로 15 ",
+  "address": "경기 김포시  사우중로 15 ",
   "phone": "031-996-1112",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 37.61704,
   "longitude": 126.716757,
-  "updated_at": "2026-01-12T11:36:10.408612"
+  "updated_at": "2026-02-03T18:23:47.875638",
+  "first_prize_draws": [
+    788,
+    605
+  ],
+  "second_prize_draws": [
+    1131,
+    1015,
+    966,
+    866,
+    697,
+    591,
+    582,
+    573,
+    552,
+    493,
+    409
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 11
 }

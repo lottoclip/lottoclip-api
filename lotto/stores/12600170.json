@@ -1,7 +1,7 @@
 {
   "store_id": "12600170",
   "name": "신암편의점",
-  "address": "부산 금정구 중앙대로 2002 ",
+  "address": "부산 금정구  중앙대로 2002 복권판매점",
   "phone": "051-581-7752",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 35.262876,
   "longitude": 129.092299,
-  "updated_at": "2026-01-12T11:17:01.831236"
+  "updated_at": "2026-02-03T18:23:39.142153",
+  "first_prize_draws": [
+    462
+  ],
+  "second_prize_draws": [
+    1129,
+    1021,
+    1006,
+    924,
+    902,
+    883,
+    714,
+    673,
+    665,
+    651,
+    618,
+    518
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 12
 }

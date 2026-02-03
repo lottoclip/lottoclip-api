@@ -1,7 +1,7 @@
 {
   "store_id": "14110145",
   "name": "노다지복권방",
-  "address": "경기 파주시 술이홀로 906 ",
+  "address": "경기 파주시  술이홀로 906 ",
   "phone": "031-958-7136",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 37.906325,
   "longitude": 126.910521,
-  "updated_at": "2026-01-12T11:19:53.642343"
+  "updated_at": "2026-02-03T18:15:44.967783",
+  "first_prize_draws": [
+    512
+  ],
+  "second_prize_draws": [
+    1031,
+    925,
+    846,
+    825,
+    788,
+    700,
+    588,
+    561,
+    342,
+    298
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

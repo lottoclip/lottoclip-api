@@ -1,12 +1,24 @@
 {
   "store_id": "14610015",
   "name": "일등로또",
-  "address": "전남 여수시 신월로 706 ",
+  "address": "전남 여수시  여문문화길 57-1 이마트24 편의점내",
   "phone": "061-653-8813",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 34.73348,
   "longitude": 127.719474,
-  "updated_at": "2026-01-12T11:22:24.169790"
+  "updated_at": "2026-02-03T18:15:49.291936",
+  "first_prize_draws": [
+    560
+  ],
+  "second_prize_draws": [
+    1032,
+    842,
+    653,
+    371,
+    302
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

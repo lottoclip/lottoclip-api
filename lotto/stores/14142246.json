@@ -1,7 +1,7 @@
 {
   "store_id": "14142246",
   "name": "운암로또",
-  "address": "경기 오산시 운암로 123 ",
+  "address": "경기 오산시  운암로 123 1층 101호 (오산동운암빌딩)",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 37.15706,
   "longitude": 127.07847,
-  "updated_at": "2026-01-12T11:59:34.555322"
+  "updated_at": "2026-02-03T18:27:07.074088",
+  "first_prize_draws": [
+    1170
+  ],
+  "second_prize_draws": [
+    1152,
+    1109,
+    1091
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

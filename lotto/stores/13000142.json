@@ -1,0 +1,31 @@
+{
+  "store_id": "13000142",
+  "name": "현대LOTTO복권",
+  "address": "대전 중구 계백로 1570  ",
+  "phone": "042-528-0645",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.317404,
+  "longitude": 127.394668,
+  "updated_at": "2026-02-03T18:29:57.451388",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1209,
+    1151,
+    1136,
+    1118,
+    935,
+    885,
+    862,
+    764,
+    673,
+    552,
+    380,
+    262
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 12
+}

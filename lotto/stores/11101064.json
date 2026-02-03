@@ -1,12 +1,20 @@
 {
   "store_id": "11101064",
   "name": "가로공원충전소",
-  "address": "서울 양천구 신월1동  146-1",
+  "address": "서울 양천구 신월1동 146-1번지 ",
   "phone": "02-2698-0428",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.53567,
   "longitude": 126.828928,
-  "updated_at": "2026-01-12T11:05:32.351316"
+  "updated_at": "2026-02-03T17:47:28.167969",
+  "first_prize_draws": [
+    277
+  ],
+  "second_prize_draws": [
+    693
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

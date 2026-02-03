@@ -1,7 +1,7 @@
 {
   "store_id": "12610056",
   "name": "로또",
-  "address": "부산 금정구 청룡동  31-7  슈퍼내",
+  "address": "부산 금정구 청룡동 31-7번지 GS25편의점내",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 35.274112,
   "longitude": 129.091649,
-  "updated_at": "2026-01-12T11:07:37.203920"
+  "updated_at": "2026-02-03T17:49:10.904983",
+  "first_prize_draws": [
+    313
+  ],
+  "second_prize_draws": [
+    712,
+    624,
+    580,
+    275
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

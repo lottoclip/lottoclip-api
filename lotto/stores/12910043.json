@@ -1,7 +1,7 @@
 {
   "store_id": "12910043",
   "name": "로또슈퍼",
-  "address": "광주 서구 상일로 37 ",
+  "address": "광주 서구  상일로 37 모아제일아파트상가1층102호",
   "phone": "062-385-0990",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 35.158748,
   "longitude": 126.862098,
-  "updated_at": "2026-01-12T11:46:26.375610"
+  "updated_at": "2026-02-03T18:22:37.061866",
+  "first_prize_draws": [
+    970,
+    544
+  ],
+  "second_prize_draws": [
+    1118,
+    1049,
+    866,
+    721,
+    628,
+    493
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 6
 }

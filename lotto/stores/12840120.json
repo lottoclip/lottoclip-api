@@ -1,7 +1,7 @@
 {
   "store_id": "12840120",
   "name": "대복",
-  "address": "인천 남동구 남동대로239번길 68 ",
+  "address": "인천 남동구  남동대로239번길 68 116호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 37.408128,
   "longitude": 126.695808,
-  "updated_at": "2026-01-12T11:56:42.072032"
+  "updated_at": "2026-02-03T18:28:56.810500",
+  "first_prize_draws": [
+    1121
+  ],
+  "second_prize_draws": [
+    1195,
+    1064,
+    1028,
+    999,
+    975
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

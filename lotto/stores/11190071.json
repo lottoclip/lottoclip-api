@@ -1,7 +1,7 @@
 {
   "store_id": "11190071",
   "name": "현대복권방",
-  "address": "서울 동대문구 답십리로 9 ",
+  "address": "서울 동대문구  답십리로 9 1층",
   "phone": "02-967-4441",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 37.578469,
   "longitude": 127.043528,
-  "updated_at": "2026-01-12T12:01:20.096724"
+  "updated_at": "2026-02-03T18:29:09.601196",
+  "first_prize_draws": [
+    1198
+  ],
+  "second_prize_draws": [
+    1172,
+    1159,
+    1013,
+    952,
+    934,
+    912,
+    769,
+    633,
+    520,
+    505,
+    380,
+    318
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 12
 }

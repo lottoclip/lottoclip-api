@@ -1,7 +1,7 @@
 {
   "store_id": "14910018",
   "name": "행운복권방",
-  "address": "제주 제주시 우정로11길 12 ",
+  "address": "제주 제주시  우정로11길 12 ",
   "phone": "064-742-1441",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 33.487651,
   "longitude": 126.4322,
-  "updated_at": "2026-01-12T11:50:31.554776"
+  "updated_at": "2026-02-03T18:16:15.129348",
+  "first_prize_draws": [
+    1038,
+    980,
+    511
+  ],
+  "second_prize_draws": [
+    1011,
+    979,
+    926,
+    815,
+    756,
+    707,
+    694,
+    689,
+    612,
+    303
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 10
 }

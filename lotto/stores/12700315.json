@@ -1,7 +1,7 @@
 {
   "store_id": "12700315",
   "name": "코리아마트(앞산점)",
-  "address": "대구 남구 대명동  1721-23",
+  "address": "대구 남구 대명동 1721-23번지 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 35.831856,
   "longitude": 128.559834,
-  "updated_at": "2026-01-12T11:12:42.751062"
+  "updated_at": "2026-02-03T17:55:11.583838",
+  "first_prize_draws": [
+    393
+  ],
+  "second_prize_draws": [
+    777,
+    582
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

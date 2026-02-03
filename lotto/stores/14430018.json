@@ -1,12 +1,24 @@
 {
   "store_id": "14430018",
   "name": "복권명당",
-  "address": "충남 아산시 모산로91번길 9-2 ",
+  "address": "충남 아산시  음봉로 582 ",
   "phone": null,
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 36.774719,
   "longitude": 127.052313,
-  "updated_at": "2026-01-12T11:43:29.098690"
+  "updated_at": "2026-02-03T18:17:58.554974",
+  "first_prize_draws": [
+    918,
+    797
+  ],
+  "second_prize_draws": [
+    1057,
+    1055,
+    790,
+    761
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 4
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "11101573",
   "name": "한미복권방",
-  "address": "서울 강동구 성내1동  550",
+  "address": "서울 강동구 성내1동 550번지 ",
   "phone": "02-474-5355",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,16 @@
   ],
   "latitude": 37.529194,
   "longitude": 127.123808,
-  "updated_at": "2026-01-12T11:04:56.028142"
+  "updated_at": "2026-02-03T17:51:51.308942",
+  "first_prize_draws": [
+    265
+  ],
+  "second_prize_draws": [
+    738,
+    705,
+    663,
+    607
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

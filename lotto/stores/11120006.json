@@ -1,7 +1,7 @@
 {
   "store_id": "11120006",
-  "name": "행복나눔복권방",
-  "address": "서울 강서구 가양동 155-8번지 ",
+  "name": "행복나눔통신",
+  "address": "서울 강서구  양천로49길 4 ",
   "phone": "02-3664-6473",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 37.568861,
   "longitude": 126.841089,
-  "updated_at": "2026-01-12T11:30:44.955595"
+  "updated_at": "2026-02-03T18:09:08.685937",
+  "first_prize_draws": [
+    695
+  ],
+  "second_prize_draws": [
+    948,
+    843,
+    798,
+    770
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

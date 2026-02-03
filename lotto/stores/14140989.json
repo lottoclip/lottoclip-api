@@ -1,7 +1,7 @@
 {
   "store_id": "14140989",
   "name": "본 로또복권방",
-  "address": "경기 포천시 장암1길 35 ",
+  "address": "경기 포천시  장암1길 35 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 38.037417,
   "longitude": 127.367274,
-  "updated_at": "2026-01-12T11:45:48.956945"
+  "updated_at": "2026-02-03T18:29:18.442903",
+  "first_prize_draws": [
+    958
+  ],
+  "second_prize_draws": [
+    1200,
+    1077,
+    988
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "12910002",
   "name": "1등로또복권",
-  "address": "광주 서구 광천동 49-1번지 광주종합터미널 내 영풍문고 앞",
+  "address": "광주 서구  무진대로 904 광주종합터미널 내 영풍문고 앞",
   "phone": "062-362-1317",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,23 @@
   ],
   "latitude": 35.160297,
   "longitude": 126.880151,
-  "updated_at": "2026-01-12T11:35:51.449586"
+  "updated_at": "2026-02-03T18:18:12.077704",
+  "first_prize_draws": [
+    782,
+    311
+  ],
+  "second_prize_draws": [
+    1060,
+    1044,
+    1027,
+    894,
+    753,
+    558,
+    537,
+    508,
+    489,
+    361
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 10
 }

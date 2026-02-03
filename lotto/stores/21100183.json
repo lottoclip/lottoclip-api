@@ -1,7 +1,7 @@
 {
   "store_id": "21100183",
   "name": "GS25(양재삼익점)",
-  "address": "서울 서초구 양재동 82-19번지 향천빌딩 105호",
+  "address": "서울 서초구 양재동 82 향천빌딩 105호",
   "phone": "02-572-7672",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,17 @@
   ],
   "latitude": 37.478596,
   "longitude": 127.040308,
-  "updated_at": "2026-01-12T11:38:36.013369"
+  "updated_at": "2026-02-03T18:05:50.119045",
+  "first_prize_draws": [
+    834
+  ],
+  "second_prize_draws": [
+    910,
+    823,
+    653,
+    628,
+    400
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

@@ -1,12 +1,25 @@
 {
   "store_id": "13040144",
   "name": "8888로또",
-  "address": "대전 서구 월평북로 77 ",
+  "address": "대전 서구 월평북로 77  ",
   "phone": null,
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 36.362502,
   "longitude": 127.376811,
-  "updated_at": "2026-01-12T12:00:16.024364"
+  "updated_at": "2026-02-03T18:29:40.453737",
+  "first_prize_draws": [
+    1183,
+    1160
+  ],
+  "second_prize_draws": [
+    1205,
+    1185,
+    1180,
+    1167,
+    1107
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 5
 }

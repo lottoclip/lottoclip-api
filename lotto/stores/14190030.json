@@ -1,7 +1,7 @@
 {
   "store_id": "14190030",
   "name": "주택복권방",
-  "address": "경기 안양시 만안구 수리산로 53 ",
+  "address": "경기 안양시 만안구 안양6동 508-25번지 ",
   "phone": "031-441-3176",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 37.389377,
   "longitude": 126.93165,
-  "updated_at": "2026-01-12T11:31:00.471318"
+  "updated_at": "2026-02-03T17:49:19.574449",
+  "first_prize_draws": [
+    700
+  ],
+  "second_prize_draws": [
+    714,
+    568,
+    290
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

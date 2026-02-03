@@ -1,7 +1,7 @@
 {
   "store_id": "14740203",
   "name": "완산로또방",
-  "address": "경북 영천시 대경로 1260 ",
+  "address": "경북 영천시  대경로 1260 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 35.934788,
   "longitude": 128.871089,
-  "updated_at": "2026-01-12T11:53:15.101657"
+  "updated_at": "2026-02-03T18:29:27.286494",
+  "first_prize_draws": [
+    1075
+  ],
+  "second_prize_draws": [
+    1202,
+    1115,
+    1108
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

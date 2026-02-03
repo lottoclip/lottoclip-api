@@ -1,0 +1,26 @@
+{
+  "store_id": "14840072",
+  "name": "드림복권",
+  "address": "경남 김해시  장유로 184 엠파이어상가일관 101호",
+  "phone": null,
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.206815,
+  "longitude": 128.806015,
+  "updated_at": "2026-02-03T18:28:04.053561",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1183,
+    1126,
+    1079,
+    1076,
+    1029,
+    986,
+    956
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 7
+}

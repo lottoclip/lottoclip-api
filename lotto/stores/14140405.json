@@ -1,7 +1,7 @@
 {
   "store_id": "14140405",
   "name": "설레임 복권",
-  "address": "경기 수원시 영통구 삼성로168번길 21 ",
+  "address": "경기 수원시 영통구  삼성로168번길 21 1층",
   "phone": "070-4211-3355",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 37.258357,
   "longitude": 127.057783,
-  "updated_at": "2026-01-12T11:57:43.082175"
+  "updated_at": "2026-02-03T18:24:26.396770",
+  "first_prize_draws": [
+    1140
+  ],
+  "second_prize_draws": [
+    1097,
+    1057
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

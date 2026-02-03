@@ -1,12 +1,25 @@
 {
   "store_id": "12710128",
   "name": "왕대박로또",
-  "address": "대구 달서구 야외음악당로9길 69 ",
+  "address": "대구 달서구  야외음악당로9길 69 1층 복권방",
   "phone": "053-581-9361",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 35.84132,
   "longitude": 128.549119,
-  "updated_at": "2026-01-12T11:28:18.155327"
+  "updated_at": "2026-02-03T18:25:24.260481",
+  "first_prize_draws": [
+    658
+  ],
+  "second_prize_draws": [
+    1150,
+    1066,
+    936,
+    844,
+    719,
+    528
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

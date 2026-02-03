@@ -1,7 +1,7 @@
 {
   "store_id": "11101070",
   "name": "복권명당우장산역점",
-  "address": "서울 강서구 내발산동  719-6번지 가판(우리은행옆)",
+  "address": "서울 강서구 마곡동 772-8 ",
   "phone": "02-2663-2514",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,18 @@
   ],
   "latitude": 37.560617,
   "longitude": 126.833159,
-  "updated_at": "2026-01-12T11:23:47.759354"
+  "updated_at": "2026-02-03T18:01:44.864022",
+  "first_prize_draws": [
+    582
+  ],
+  "second_prize_draws": [
+    861,
+    752,
+    608,
+    584,
+    541,
+    489
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "12940121",
   "name": "금호동",
-  "address": "광주 서구 화개1로 63 ",
+  "address": "광주 서구  화개1로 63 1층 107호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 35.129517,
   "longitude": 126.855121,
-  "updated_at": "2026-01-12T11:57:17.506195"
+  "updated_at": "2026-02-03T18:29:18.242155",
+  "first_prize_draws": [
+    1132
+  ],
+  "second_prize_draws": [
+    1200,
+    1110,
+    975
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

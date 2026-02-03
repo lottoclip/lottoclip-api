@@ -1,7 +1,7 @@
 {
   "store_id": "14100505",
   "name": "태평고개 가판대",
-  "address": "경기 성남시 수정구 성남대로 1282 ",
+  "address": "경기 성남시 수정구  성남대로 1282 ",
   "phone": "031-752-7335",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 37.444476,
   "longitude": 127.12722,
-  "updated_at": "2026-01-12T11:59:34.527120"
+  "updated_at": "2026-02-03T18:27:07.025675",
+  "first_prize_draws": [
+    1170
+  ],
+  "second_prize_draws": [
+    781,
+    754,
+    573,
+    452,
+    317
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

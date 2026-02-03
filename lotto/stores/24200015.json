@@ -1,7 +1,7 @@
 {
   "store_id": "24200015",
   "name": "CU(횡성점)",
-  "address": "강원 횡성군  횡성읍 읍하리118-1번지",
+  "address": "강원 횡성군  횡성로 401 ",
   "phone": "033-342-5805",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,28 @@
   ],
   "latitude": 37.488861,
   "longitude": 127.985497,
-  "updated_at": "2026-01-12T11:28:24.448271"
+  "updated_at": "2026-02-03T18:09:37.825035",
+  "first_prize_draws": [
+    660,
+    654,
+    529
+  ],
+  "second_prize_draws": [
+    954,
+    952,
+    927,
+    922,
+    864,
+    844,
+    836,
+    784,
+    714,
+    690,
+    629,
+    557,
+    521,
+    304
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 14
 }

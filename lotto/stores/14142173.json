@@ -1,7 +1,7 @@
 {
   "store_id": "14142173",
   "name": "행운모아 복권방",
-  "address": "경기 수원시 권선구 서수원로577번길 305 ",
+  "address": "경기 수원시 권선구 서수원로577번길 305 제상가동 비205호(금곡동 수원모아미래도센트럴타운2단지)  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 37.27444,
   "longitude": 126.94018,
-  "updated_at": "2026-01-12T12:01:51.535233"
+  "updated_at": "2026-02-03T18:29:53.239645",
+  "first_prize_draws": [
+    1203
+  ],
+  "second_prize_draws": [
+    1208,
+    1147
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

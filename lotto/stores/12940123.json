@@ -1,7 +1,7 @@
 {
   "store_id": "12940123",
   "name": "로또부동산(동천)",
-  "address": "광주 서구 상무버들로40번길 13 ",
+  "address": "광주 서구  하남대로 704 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 35.165733,
   "longitude": 126.859004,
-  "updated_at": "2026-01-12T11:57:04.415139"
+  "updated_at": "2026-02-03T18:23:34.600877",
+  "first_prize_draws": [
+    1128
+  ],
+  "second_prize_draws": [
+    1111
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

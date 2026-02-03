@@ -1,7 +1,7 @@
 {
   "store_id": "14420028",
   "name": "충무로또45국도점",
-  "address": "충남 아산시 충무로 647 ",
+  "address": "충남 아산시  충무로 647 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 36.836622,
   "longitude": 127.010939,
-  "updated_at": "2026-01-12T11:42:05.072622"
+  "updated_at": "2026-02-03T18:24:13.892113",
+  "first_prize_draws": [
+    891,
+    853
+  ],
+  "second_prize_draws": [
+    1137,
+    1058,
+    1044,
+    992,
+    954,
+    917,
+    855,
+    750
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 8
 }

@@ -1,12 +1,25 @@
 {
   "store_id": "14110480",
   "name": "행운복권방",
-  "address": "경기 화성시 우정읍  조암리 290-12 13",
+  "address": "경기 화성시 팔탄면 율암리 842-39 ",
   "phone": "031-358-0823",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.1536,
   "longitude": 126.882821,
-  "updated_at": "2026-01-12T11:15:32.572870"
+  "updated_at": "2026-02-03T17:59:29.261127",
+  "first_prize_draws": [
+    438
+  ],
+  "second_prize_draws": [
+    830,
+    594,
+    560,
+    472,
+    349,
+    305
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

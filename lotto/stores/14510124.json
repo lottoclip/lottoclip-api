@@ -1,7 +1,7 @@
 {
   "store_id": "14510124",
   "name": "삼성로또복권방슈퍼",
-  "address": "전북 남원시 네마실1길 10-5 ",
+  "address": "전북 남원시  네마실1길 10-5 ",
   "phone": "063-633-8693",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 35.415773,
   "longitude": 127.386331,
-  "updated_at": "2026-01-12T11:05:20.364370"
+  "updated_at": "2026-02-03T18:23:39.522979",
+  "first_prize_draws": [
+    273
+  ],
+  "second_prize_draws": [
+    1129,
+    1032,
+    911,
+    717,
+    702,
+    619,
+    583,
+    347
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

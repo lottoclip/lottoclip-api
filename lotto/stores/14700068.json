@@ -1,7 +1,7 @@
 {
   "store_id": "14700068",
   "name": "퓨전로또판매점성동점",
-  "address": "경북 경주시 원화로 291 ",
+  "address": "경북 경주시 성동동 80번지 ",
   "phone": "054-776-7093",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,11 @@
   ],
   "latitude": 35.846594,
   "longitude": 129.216998,
-  "updated_at": "2026-01-12T11:39:39.023853"
+  "updated_at": "2026-02-03T18:01:15.434556",
+  "first_prize_draws": [
+    854
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

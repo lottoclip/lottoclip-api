@@ -1,7 +1,7 @@
 {
   "store_id": "24100315",
-  "name": "GS25(이천대월)",
-  "address": "경기 이천시 대월면 사동리 사동리 347-138",
+  "name": "GS25(이천대월점)",
+  "address": "경기 이천시 대월면 사동리 347-138번지 ",
   "phone": "031-636-8061",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 37.244381,
   "longitude": 127.494629,
-  "updated_at": "2026-01-12T11:09:14.805510"
+  "updated_at": "2026-02-03T18:06:28.468549",
+  "first_prize_draws": [
+    340
+  ],
+  "second_prize_draws": [
+    918,
+    852,
+    821,
+    759,
+    732,
+    705,
+    684,
+    614,
+    543,
+    505
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

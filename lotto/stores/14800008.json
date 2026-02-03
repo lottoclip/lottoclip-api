@@ -1,7 +1,7 @@
 {
   "store_id": "14800008",
   "name": "삼영복권",
-  "address": "경남 김해시 전하로 275 ",
+  "address": "경남 김해시  전하로 275 복권판매점",
   "phone": "055-337-9226",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 35.228129,
   "longitude": 128.871947,
-  "updated_at": "2026-01-12T11:57:04.798992"
+  "updated_at": "2026-02-03T18:27:02.858997",
+  "first_prize_draws": [
+    1128
+  ],
+  "second_prize_draws": [
+    1169,
+    1057,
+    1048,
+    1027,
+    975,
+    871,
+    844,
+    796,
+    652,
+    449
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

@@ -1,12 +1,21 @@
 {
   "store_id": "22600035",
-  "name": "GS25(터미널2)",
-  "address": "부산 금정구 노포동  133번지 터미널내1층4호GS25종합터미널2호점",
+  "name": "GS25(노포2호점)",
+  "address": "부산 금정구 노포동 133번지 터미널내1층4호GS25종합터미널2호점",
   "phone": "051-508-0495",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 35.283931,
   "longitude": 129.096505,
-  "updated_at": "2026-01-12T11:23:59.977849"
+  "updated_at": "2026-02-03T18:00:49.141658",
+  "first_prize_draws": [
+    586
+  ],
+  "second_prize_draws": [
+    848,
+    559
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

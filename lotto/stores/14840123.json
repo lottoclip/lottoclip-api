@@ -1,7 +1,7 @@
 {
   "store_id": "14840123",
   "name": "로또판매점",
-  "address": "경남 거제시 중곡로3길 46 ",
+  "address": "경남 거제시  중곡로3길 46 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 34.893779,
   "longitude": 128.625859,
-  "updated_at": "2026-01-12T11:51:21.828834"
+  "updated_at": "2026-02-03T18:25:25.486536",
+  "first_prize_draws": [
+    1049
+  ],
+  "second_prize_draws": [
+    1150,
+    1137,
+    1134
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

@@ -1,0 +1,23 @@
+{
+  "store_id": "14110171",
+  "name": "로또판매점",
+  "address": "경기 고양시 일산동구 장항동 759번지 하임빌101호",
+  "phone": "031-902-4561",
+  "lottery_types": [
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 37.661292,
+  "longitude": 126.767283,
+  "updated_at": "2026-02-03T17:55:07.081175",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    776,
+    648,
+    557,
+    483,
+    411
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 5
+}

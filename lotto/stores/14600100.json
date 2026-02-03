@@ -1,12 +1,27 @@
 {
   "store_id": "14600100",
   "name": "용미사진관(로또)",
-  "address": "전남 순천시 팔마로 113-1 ",
+  "address": "전남 순천시  팔마로 113-1 용미사진관",
   "phone": "061-744-5748",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 34.945967,
   "longitude": 127.500923,
-  "updated_at": "2026-01-12T11:40:35.323635"
+  "updated_at": "2026-02-03T18:29:18.583274",
+  "first_prize_draws": [
+    872
+  ],
+  "second_prize_draws": [
+    1200,
+    1150,
+    1077,
+    1003,
+    868,
+    412,
+    343,
+    271
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

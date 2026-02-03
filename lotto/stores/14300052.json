@@ -1,7 +1,7 @@
 {
   "store_id": "14300052",
   "name": "공단휴게실",
-  "address": "충북 청주시 흥덕구 복대동 100-15번지",
+  "address": "충북 청주시 흥덕구 복대동 100-15번지 ",
   "phone": "043-263-2436",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,15 @@
   ],
   "latitude": 36.637927,
   "longitude": 127.442409,
-  "updated_at": "2026-01-12T11:13:54.297605"
+  "updated_at": "2026-02-03T17:53:03.723575",
+  "first_prize_draws": [
+    416,
+    268
+  ],
+  "second_prize_draws": [
+    753,
+    357
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 2
 }

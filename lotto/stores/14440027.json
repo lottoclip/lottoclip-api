@@ -1,7 +1,7 @@
 {
   "store_id": "14440027",
   "name": "행복로또",
-  "address": "충남 아산시 아산밸리남로 81 ",
+  "address": "충남 아산시  아산밸리남로 81 816동 106호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 36.920099,
   "longitude": 127.054928,
-  "updated_at": "2026-01-12T11:58:30.139643"
+  "updated_at": "2026-02-03T18:25:25.256281",
+  "first_prize_draws": [
+    1150,
+    1058
+  ],
+  "second_prize_draws": [
+    1135
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 1
 }

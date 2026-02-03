@@ -1,7 +1,7 @@
 {
   "store_id": "14200100",
   "name": "행운로또",
-  "address": "강원 춘천시 금강로 81 ",
+  "address": "강원 춘천시  금강로 81 신한은행강원영업부지점앞 가판",
   "phone": "033-253-0395",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 37.876331,
   "longitude": 127.731712,
-  "updated_at": "2026-01-12T11:57:36.505571"
+  "updated_at": "2026-02-03T18:24:18.076004",
+  "first_prize_draws": [
+    1138,
+    287
+  ],
+  "second_prize_draws": [
+    863,
+    719,
+    423
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 3
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14490006",
   "name": "천하제일복권명당연무점",
-  "address": "충남 논산시 연무읍 안심리 1126-36번지 ",
+  "address": "충남 논산시  연무읍 안심로 163 ",
   "phone": "041-742-8645",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,22 @@
   ],
   "latitude": 36.135473,
   "longitude": 127.100082,
-  "updated_at": "2026-01-12T11:39:07.445064"
+  "updated_at": "2026-02-03T18:09:18.134038",
+  "first_prize_draws": [
+    844,
+    659
+  ],
+  "second_prize_draws": [
+    950,
+    928,
+    926,
+    886,
+    842,
+    479,
+    361,
+    268,
+    262
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 9
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14600056",
   "name": "내가마트",
-  "address": "전남 순천시 삼산로 98 ",
+  "address": "전남 순천시  삼산로 98 ",
   "phone": "061-755-5018",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 34.97304,
   "longitude": 127.493948,
-  "updated_at": "2026-01-12T11:59:44.109448"
+  "updated_at": "2026-02-03T18:27:20.812186",
+  "first_prize_draws": [
+    1173
+  ],
+  "second_prize_draws": [
+    747,
+    597
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

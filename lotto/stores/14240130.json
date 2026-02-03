@@ -1,7 +1,7 @@
 {
   "store_id": "14240130",
   "name": "사내로또",
-  "address": "강원 화천군 문화마을1길 113 ",
+  "address": "강원 화천군  문화마을1길 113 1층",
   "phone": "033-441-7787",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 38.067761,
   "longitude": 127.522922,
-  "updated_at": "2026-01-12T11:49:31.525605"
+  "updated_at": "2026-02-03T18:17:50.462411",
+  "first_prize_draws": [
+    1019
+  ],
+  "second_prize_draws": [
+    1056,
+    992
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

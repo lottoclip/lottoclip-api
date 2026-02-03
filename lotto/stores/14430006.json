@@ -1,7 +1,7 @@
 {
   "store_id": "14430006",
   "name": "경마장복권방",
-  "address": "충남 천안시 서북구 성정두정로 56 ",
+  "address": "충남 천안시 서북구 성정두정로 56 101호  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,25 @@
   ],
   "latitude": 36.830466,
   "longitude": 127.14181,
-  "updated_at": "2026-01-12T11:36:46.590860"
+  "updated_at": "2026-02-03T18:29:49.170241",
+  "first_prize_draws": [
+    799
+  ],
+  "second_prize_draws": [
+    1207,
+    1187,
+    1157,
+    1148,
+    1145,
+    1124,
+    1120,
+    1109,
+    1091,
+    961,
+    856,
+    792,
+    778
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 13
 }

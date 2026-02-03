@@ -1,7 +1,7 @@
 {
   "store_id": "11100622",
   "name": "코사마트",
-  "address": "서울 동작구 상도로 10-7 ",
+  "address": "서울 동작구 상도로 10-7  ",
   "phone": "02-824-6610",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 37.499718,
   "longitude": 126.922026,
-  "updated_at": "2026-01-12T11:57:17.490409"
+  "updated_at": "2026-02-03T18:29:48.759658",
+  "first_prize_draws": [
+    1132
+  ],
+  "second_prize_draws": [
+    1207,
+    817,
+    649,
+    538,
+    435
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

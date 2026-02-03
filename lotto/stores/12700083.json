@@ -1,7 +1,7 @@
 {
   "store_id": "12700083",
   "name": "복권코리아",
-  "address": "대구 달서구 와룡로 19 ",
+  "address": "대구 달서구  와룡로 19 ",
   "phone": "053-553-2086",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 35.834196,
   "longitude": 128.537003,
-  "updated_at": "2026-01-12T11:11:50.370817"
+  "updated_at": "2026-02-03T18:22:36.977992",
+  "first_prize_draws": [
+    376
+  ],
+  "second_prize_draws": [
+    1118,
+    712,
+    501,
+    453,
+    301
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

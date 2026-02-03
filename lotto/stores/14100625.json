@@ -1,7 +1,7 @@
 {
   "store_id": "14100625",
   "name": "매표소",
-  "address": "경기 수원시 팔달구 팔달로2가 팔달로2가 68-3",
+  "address": "경기 수원시 팔달구  정조로 782-1 ",
   "phone": "031-247-7932",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 37.277879,
   "longitude": 127.017111,
-  "updated_at": "2026-01-12T11:07:12.613516"
+  "updated_at": "2026-02-03T18:24:26.477397",
+  "first_prize_draws": [
+    305
+  ],
+  "second_prize_draws": [
+    1140,
+    1041,
+    666,
+    462,
+    321
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

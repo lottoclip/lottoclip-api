@@ -1,7 +1,7 @@
 {
   "store_id": "14140418",
   "name": "도깨비복권",
-  "address": "경기 수원시 장안구 정조로933번길 12 ",
+  "address": "경기 수원시 장안구  정조로933번길 12 1층(영화동)",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 37.29066,
   "longitude": 127.011825,
-  "updated_at": "2026-01-12T11:56:51.781077"
+  "updated_at": "2026-02-03T18:27:59.465459",
+  "first_prize_draws": [
+    1124
+  ],
+  "second_prize_draws": [
+    1182,
+    1176,
+    1162,
+    1137,
+    1110,
+    1021,
+    1020,
+    978
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

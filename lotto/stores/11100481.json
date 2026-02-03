@@ -1,7 +1,7 @@
 {
   "store_id": "11100481",
-  "name": "럭키슈퍼",
-  "address": "서울 양천구 신정로 293 ",
+  "name": "복권판매소",
+  "address": "서울 양천구 신정동(신정3동) 1182-2 101호",
   "phone": "02-2690-7771",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 37.513356,
   "longitude": 126.853425,
-  "updated_at": "2026-01-12T11:22:45.367466"
+  "updated_at": "2026-02-03T18:05:18.964301",
+  "first_prize_draws": [
+    562
+  ],
+  "second_prize_draws": [
+    903,
+    314,
+    309
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

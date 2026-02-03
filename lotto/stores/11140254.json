@@ -1,7 +1,7 @@
 {
   "store_id": "11140254",
   "name": "찐대박복권",
-  "address": "서울 동작구 신대방길 96 ",
+  "address": "서울 동작구  신대방길 96 1층 2호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,11 @@
   ],
   "latitude": 37.48981,
   "longitude": 126.90914,
-  "updated_at": "2026-01-12T11:56:01.234242"
+  "updated_at": "2026-02-03T18:22:15.736257",
+  "first_prize_draws": [
+    1113
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

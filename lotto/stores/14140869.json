@@ -1,7 +1,7 @@
 {
   "store_id": "14140869",
   "name": "행복한삼남매",
-  "address": "경기 양평군 강남로 689 ",
+  "address": "경기 양평군  강남로 689 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 37.49723,
   "longitude": 127.456933,
-  "updated_at": "2026-01-12T11:44:58.626739"
+  "updated_at": "2026-02-03T18:23:21.971005",
+  "first_prize_draws": [
+    942
+  ],
+  "second_prize_draws": [
+    1125,
+    1052,
+    973,
+    960
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

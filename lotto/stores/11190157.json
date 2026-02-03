@@ -1,7 +1,7 @@
 {
   "store_id": "11190157",
-  "name": "고마트 방화점",
-  "address": "서울 강서구 방화동로 63 ",
+  "name": "고마트",
+  "address": "서울 강서구  방화동로 68 102호",
   "phone": "02-914-8080",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 37.566148,
   "longitude": 126.812301,
-  "updated_at": "2026-01-12T11:24:25.039655"
+  "updated_at": "2026-02-03T18:25:06.720281",
+  "first_prize_draws": [
+    594
+  ],
+  "second_prize_draws": [
+    1146,
+    801,
+    423
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

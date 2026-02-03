@@ -1,7 +1,7 @@
 {
   "store_id": "11110307",
   "name": "인더라인북가좌점",
-  "address": "서울 서대문구 응암로 42 ",
+  "address": "서울 서대문구 북가좌동  418-22번지 1층101호",
   "phone": "02-309-3700",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 37.577123,
   "longitude": 126.909288,
-  "updated_at": "2026-01-12T11:17:39.005591"
+  "updated_at": "2026-02-03T17:44:58.448447",
+  "first_prize_draws": [
+    474
+  ],
+  "second_prize_draws": [
+    660,
+    581
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

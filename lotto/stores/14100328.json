@@ -1,12 +1,22 @@
 {
   "store_id": "14100328",
   "name": "이전유통",
-  "address": "경기 고양시 일산동구 호수로446번길 54 ",
+  "address": "경기 고양시 일산동구  호수로446번길 54 1층",
   "phone": "031-905-8288",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.645764,
   "longitude": 126.780204,
-  "updated_at": "2026-01-12T11:48:32.164094"
+  "updated_at": "2026-02-03T18:13:38.407539",
+  "first_prize_draws": [
+    1005
+  ],
+  "second_prize_draws": [
+    545,
+    471,
+    305
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

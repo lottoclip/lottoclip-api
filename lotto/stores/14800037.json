@@ -1,7 +1,7 @@
 {
   "store_id": "14800037",
   "name": "Goodday복권전문점",
-  "address": "경남 창원시 성산구 반송로50번길 14 ",
+  "address": "경남 창원시 성산구  반송로50번길 14 ",
   "phone": "055-276-2972",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,27 @@
   ],
   "latitude": 35.239998,
   "longitude": 128.661641,
-  "updated_at": "2026-01-12T11:44:18.390640"
+  "updated_at": "2026-02-03T18:21:16.544133",
+  "first_prize_draws": [
+    929,
+    841,
+    746
+  ],
+  "second_prize_draws": [
+    1099,
+    1057,
+    1032,
+    994,
+    932,
+    754,
+    738,
+    649,
+    575,
+    548,
+    449,
+    340,
+    321
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 13
 }

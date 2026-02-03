@@ -1,7 +1,7 @@
 {
   "store_id": "12640426",
   "name": "복드림 복권방",
-  "address": "부산 북구 기찰로 155 ",
+  "address": "부산 북구  기찰로 155 (덕천동)",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,11 @@
   ],
   "latitude": 35.214548,
   "longitude": 129.021586,
-  "updated_at": "2026-01-12T11:52:59.282592"
+  "updated_at": "2026-02-03T18:18:55.365919",
+  "first_prize_draws": [
+    1070
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

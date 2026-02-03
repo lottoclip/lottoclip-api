@@ -1,7 +1,7 @@
 {
   "store_id": "11100039",
   "name": "하이로또",
-  "address": "서울 금천구 금하로 686 ",
+  "address": "서울 금천구  금하로 686 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 37.451874,
   "longitude": 126.906335,
-  "updated_at": "2026-01-12T12:00:00.186477"
+  "updated_at": "2026-02-03T18:28:56.655232",
+  "first_prize_draws": [
+    1178,
+    1144,
+    948,
+    657
+  ],
+  "second_prize_draws": [
+    1195,
+    957,
+    792,
+    615,
+    446,
+    326
+  ],
+  "first_prize_count": 4,
+  "second_prize_count": 6
 }

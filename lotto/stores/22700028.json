@@ -1,7 +1,7 @@
 {
   "store_id": "22700028",
-  "name": "GS25(동천화성)",
-  "address": "대구 북구 동천동  933-3번지",
+  "name": "GS25(동천화성점)",
+  "address": "대구 북구  대천로18길 2 ",
   "phone": "053-321-7978",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,21 @@
   ],
   "latitude": 35.936785,
   "longitude": 128.558201,
-  "updated_at": "2026-01-12T11:27:47.303066"
+  "updated_at": "2026-02-03T18:11:25.835234",
+  "first_prize_draws": [
+    648
+  ],
+  "second_prize_draws": [
+    978,
+    925,
+    874,
+    857,
+    738,
+    665,
+    599,
+    553,
+    418
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 9
 }

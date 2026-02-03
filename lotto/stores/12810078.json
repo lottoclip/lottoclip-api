@@ -1,7 +1,7 @@
 {
   "store_id": "12810078",
   "name": "프랜즈주안2호점",
-  "address": "인천 남구 주안동  18-231층",
+  "address": "인천 남구 주안동 18-23번지 1층",
   "phone": "032-866-0050",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,16 @@
   ],
   "latitude": 37.466755,
   "longitude": 126.682869,
-  "updated_at": "2026-01-12T11:08:53.327631"
+  "updated_at": "2026-02-03T17:59:33.916705",
+  "first_prize_draws": [
+    333
+  ],
+  "second_prize_draws": [
+    831,
+    587,
+    498,
+    422
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

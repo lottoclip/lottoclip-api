@@ -1,0 +1,23 @@
+{
+  "store_id": "14210107",
+  "name": "로또복권",
+  "address": "강원 원주시 문막읍 건등리 1710-3 1층",
+  "phone": "033-748-1209",
+  "lottery_types": [
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 37.311546,
+  "longitude": 127.818662,
+  "updated_at": "2026-02-03T17:51:37.638285",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    735,
+    703,
+    517,
+    433,
+    370
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 5
+}

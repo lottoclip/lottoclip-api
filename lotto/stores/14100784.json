@@ -1,7 +1,7 @@
 {
   "store_id": "14100784",
   "name": "영스타",
-  "address": "경기 평택시 팽성로 90 ",
+  "address": "경기 평택시  팽성로 90 103호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 36.944932,
   "longitude": 127.051767,
-  "updated_at": "2026-01-12T11:43:07.380559"
+  "updated_at": "2026-02-03T18:25:38.466348",
+  "first_prize_draws": [
+    911
+  ],
+  "second_prize_draws": [
+    1153,
+    1022,
+    1018,
+    972,
+    829,
+    805,
+    803,
+    658,
+    641,
+    587
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

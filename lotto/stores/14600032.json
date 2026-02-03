@@ -1,7 +1,7 @@
 {
   "store_id": "14600032",
-  "name": "신청호마트",
-  "address": "전남 목포시 석현동  1170-14",
+  "name": "늘푸른마트",
+  "address": "전남 목포시  용해지구로88번길 23 골드디움5차아파트 상가 101호102호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,18 @@
   ],
   "latitude": 34.82034,
   "longitude": 126.39584,
-  "updated_at": "2026-01-12T11:08:53.360665"
+  "updated_at": "2026-02-03T18:07:51.708235",
+  "first_prize_draws": [
+    333
+  ],
+  "second_prize_draws": [
+    935,
+    855,
+    570,
+    566,
+    555,
+    358
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

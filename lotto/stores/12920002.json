@@ -1,7 +1,7 @@
 {
   "store_id": "12920002",
   "name": "로또플러스24",
-  "address": "광주 광산구 장신로 143 ",
+  "address": "광주 광산구  장신로 143 109호 로또플러스24",
   "phone": "062-954-0645",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 35.191005,
   "longitude": 126.825903,
-  "updated_at": "2026-01-12T11:40:29.056548"
+  "updated_at": "2026-02-03T18:28:34.715049",
+  "first_prize_draws": [
+    870,
+    680
+  ],
+  "second_prize_draws": [
+    1190,
+    1116,
+    1115,
+    1085,
+    1084,
+    938,
+    931,
+    921,
+    886,
+    760,
+    681
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 11
 }

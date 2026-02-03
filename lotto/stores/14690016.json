@@ -1,7 +1,7 @@
 {
   "store_id": "14690016",
   "name": "명품복권방",
-  "address": "전남 목포시 섶나루길 122 ",
+  "address": "전남 목포시  섶나루길 122 상가 123호",
   "phone": "061-274-0285",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 34.810541,
   "longitude": 126.418938,
-  "updated_at": "2026-01-12T11:58:17.391368"
+  "updated_at": "2026-02-03T18:29:27.212364",
+  "first_prize_draws": [
+    1146,
+    417
+  ],
+  "second_prize_draws": [
+    1202,
+    1135,
+    1056,
+    843,
+    829,
+    753,
+    657,
+    521
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 8
 }

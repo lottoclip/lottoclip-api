@@ -1,7 +1,7 @@
 {
   "store_id": "13000102",
-  "name": "LG25계룡병원점",
-  "address": "대전 중구 오류동  168-7번지",
+  "name": "알파",
+  "address": "대전 중구 유천동(유천1동) 278-10 알파마트",
   "phone": "042-385-2002",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,13 @@
   ],
   "latitude": 36.311659,
   "longitude": 127.394446,
-  "updated_at": "2026-01-12T11:08:04.782744"
+  "updated_at": "2026-02-03T17:54:44.677304",
+  "first_prize_draws": [
+    322
+  ],
+  "second_prize_draws": [
+    771
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

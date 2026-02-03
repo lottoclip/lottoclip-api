@@ -1,12 +1,25 @@
 {
   "store_id": "12810135",
   "name": "로또주안점",
-  "address": "인천 남구 숭의동  408-7",
+  "address": "인천 남구 숭의동 408-7번지 편의점내",
   "phone": "032-886-1703",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.462997,
   "longitude": 126.64097,
-  "updated_at": "2026-01-12T11:07:40.263002"
+  "updated_at": "2026-02-03T18:00:40.650158",
+  "first_prize_draws": [
+    314
+  ],
+  "second_prize_draws": [
+    846,
+    712,
+    695,
+    671,
+    491,
+    263
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

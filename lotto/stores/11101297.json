@@ -1,7 +1,7 @@
 {
   "store_id": "11101297",
   "name": "로또복권",
-  "address": "서울 종로구 숭인동  228-6번지",
+  "address": "서울 종로구 예지동 296-12번지 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,18 @@
   ],
   "latitude": 37.569704,
   "longitude": 127.001169,
-  "updated_at": "2026-01-12T11:23:35.119472"
+  "updated_at": "2026-02-03T17:49:15.227936",
+  "first_prize_draws": [
+    578
+  ],
+  "second_prize_draws": [
+    713,
+    712,
+    711,
+    679,
+    568,
+    296
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

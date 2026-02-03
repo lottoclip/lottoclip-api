@@ -1,7 +1,7 @@
 {
   "store_id": "14940101",
   "name": "천하명당복권판매점",
-  "address": "제주 제주시 서해안로 510 ",
+  "address": "제주 제주시  서해안로 510 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 33.519501,
   "longitude": 126.493521,
-  "updated_at": "2026-01-12T11:59:50.599038"
+  "updated_at": "2026-02-03T18:29:22.973915",
+  "first_prize_draws": [
+    1175
+  ],
+  "second_prize_draws": [
+    1201
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

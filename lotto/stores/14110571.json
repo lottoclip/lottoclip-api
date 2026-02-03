@@ -1,7 +1,7 @@
 {
   "store_id": "14110571",
   "name": "일등복권방",
-  "address": "경기 광명시 철산동  4801층 3호",
+  "address": "경기 광명시  오리로 855 1층3호",
   "phone": "02-2066-5883",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 37.474628,
   "longitude": 126.86649,
-  "updated_at": "2026-01-12T11:09:51.136325"
+  "updated_at": "2026-02-03T18:12:38.396442",
+  "first_prize_draws": [
+    347
+  ],
+  "second_prize_draws": [
+    991,
+    928,
+    863,
+    761,
+    736,
+    716,
+    675,
+    543,
+    375,
+    295
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

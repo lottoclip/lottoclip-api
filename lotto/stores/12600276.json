@@ -1,7 +1,7 @@
 {
   "store_id": "12600276",
-  "name": "하프타임 과정로",
-  "address": "부산 수영구 과정로 42 ",
+  "name": "과정로복권마켓",
+  "address": "부산 수영구  과정로 42 ",
   "phone": "051-751-4940",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 35.175169,
   "longitude": 129.10776,
-  "updated_at": "2026-01-12T11:51:31.702469"
+  "updated_at": "2026-02-03T18:27:16.120399",
+  "first_prize_draws": [
+    1052,
+    489,
+    361
+  ],
+  "second_prize_draws": [
+    1172,
+    828,
+    697,
+    593,
+    481,
+    318
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 6
 }

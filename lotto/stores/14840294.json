@@ -1,7 +1,7 @@
 {
   "store_id": "14840294",
   "name": "황금돼지 마트(복권방)",
-  "address": "경남 김해시 금관대로599번길 29 ",
+  "address": "경남 김해시  금관대로599번길 29 부영9단지상가 108호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 35.204687,
   "longitude": 128.813561,
-  "updated_at": "2026-01-12T11:46:41.992217"
+  "updated_at": "2026-02-03T18:29:01.570140",
+  "first_prize_draws": [
+    975
+  ],
+  "second_prize_draws": [
+    1196,
+    1141,
+    1076
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

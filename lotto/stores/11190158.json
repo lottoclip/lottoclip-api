@@ -1,7 +1,7 @@
 {
   "store_id": "11190158",
   "name": "세븐일레븐강서화곡예스점",
-  "address": "서울 강서구 화곡로42길 35 ",
+  "address": "서울 강서구  화곡로42길 35 ",
   "phone": "02-2693-3721",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.545979,
   "longitude": 126.847415,
-  "updated_at": "2026-01-12T11:40:13.240753"
+  "updated_at": "2026-02-03T18:29:05.333903",
+  "first_prize_draws": [
+    865,
+    707
+  ],
+  "second_prize_draws": [
+    1197,
+    1062,
+    1053,
+    980,
+    952,
+    311
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 6
 }

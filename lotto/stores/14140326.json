@@ -1,7 +1,7 @@
 {
   "store_id": "14140326",
   "name": "고양행복복권",
-  "address": "경기 고양시 덕양구 삼송로 142 ",
+  "address": "경기 고양시 덕양구 삼송로 142  ",
   "phone": "02-371-1029",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 37.652288,
   "longitude": 126.889803,
-  "updated_at": "2026-01-17T14:08:44.515672"
+  "updated_at": "2026-02-03T18:29:48.919296",
+  "first_prize_draws": [
+    1207,
+    892
+  ],
+  "second_prize_draws": [
+    1151,
+    1050,
+    991,
+    986
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 4
 }

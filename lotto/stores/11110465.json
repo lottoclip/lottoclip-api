@@ -1,0 +1,20 @@
+{
+  "store_id": "11110465",
+  "name": "로또마트",
+  "address": "서울 동대문구  장안1동 418-11번지1층 4호",
+  "phone": "02-2243-1696",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.562596,
+  "longitude": 127.063492,
+  "updated_at": "2026-02-03T17:44:33.222953",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    654
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 1
+}

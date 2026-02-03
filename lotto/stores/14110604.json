@@ -1,12 +1,25 @@
 {
   "store_id": "14110604",
   "name": "로또복권판매",
-  "address": "경기 안산시 상록구 사동 1570-7호박빌딩1층",
+  "address": "경기 안산시 상록구 사동(사3동) 1570-7 1층 365플러스",
   "phone": "031-416-0992",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.30082,
   "longitude": 126.838755,
-  "updated_at": "2026-01-12T11:13:54.289961"
+  "updated_at": "2026-02-03T17:58:00.828899",
+  "first_prize_draws": [
+    416
+  ],
+  "second_prize_draws": [
+    815,
+    733,
+    642,
+    609,
+    548,
+    438
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

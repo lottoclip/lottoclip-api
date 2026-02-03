@@ -1,7 +1,7 @@
 {
   "store_id": "14310096",
   "name": "노다지복권방",
-  "address": "충북 음성군 장감로 161-1 ",
+  "address": "충북 음성군  장감로 161-1 1층복권방",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,22 @@
   ],
   "latitude": 37.118762,
   "longitude": 127.640406,
-  "updated_at": "2026-01-12T11:53:08.799761"
+  "updated_at": "2026-02-03T18:25:15.770979",
+  "first_prize_draws": [
+    1073
+  ],
+  "second_prize_draws": [
+    1148,
+    1086,
+    1080,
+    1073,
+    899,
+    723,
+    701,
+    670,
+    558,
+    473
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

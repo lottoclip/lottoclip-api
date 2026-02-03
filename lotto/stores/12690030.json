@@ -1,7 +1,7 @@
 {
   "store_id": "12690030",
   "name": "복권방",
-  "address": "부산 사하구 감천동  541-5",
+  "address": "부산 사하구 감천동  541-5번지",
   "phone": "051-293-4446",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,15 @@
   ],
   "latitude": 35.088872,
   "longitude": 129.005324,
-  "updated_at": "2026-01-12T11:13:38.227823"
+  "updated_at": "2026-02-03T17:36:08.252380",
+  "first_prize_draws": [
+    411
+  ],
+  "second_prize_draws": [
+    548,
+    512,
+    415
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

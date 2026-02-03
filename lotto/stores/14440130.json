@@ -1,7 +1,7 @@
 {
   "store_id": "14440130",
-  "name": "포유25시편의점복권방",
-  "address": "충남 당진시 덕평로 1304 ",
+  "name": "씨스페이시스당진점",
+  "address": "충남 당진시  덕평로 1304 3동 포유25시편의점내",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 36.87114,
   "longitude": 126.752995,
-  "updated_at": "2026-01-12T11:46:16.834364"
+  "updated_at": "2026-02-03T18:25:29.765000",
+  "first_prize_draws": [
+    967
+  ],
+  "second_prize_draws": [
+    1151,
+    1060,
+    1029,
+    989
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

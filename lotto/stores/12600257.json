@@ -1,7 +1,7 @@
 {
   "store_id": "12600257",
   "name": "복권1번",
-  "address": "부산 부산진구 서면로 56 ",
+  "address": "부산 부산진구  서면로 56 서면시장1층46호",
   "phone": "051-809-7366",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 35.155641,
   "longitude": 129.05816,
-  "updated_at": "2026-01-12T11:27:34.674400"
+  "updated_at": "2026-02-03T18:18:07.605828",
+  "first_prize_draws": [
+    644
+  ],
+  "second_prize_draws": [
+    1059,
+    947,
+    667,
+    641,
+    506,
+    301
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

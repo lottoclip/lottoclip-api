@@ -1,12 +1,27 @@
 {
   "store_id": "12700090",
   "name": "복권백화점(대백.한라앞)",
-  "address": "대구 달서구 달구벌대로 1223 ",
+  "address": "대구 달서구  달구벌대로 1223 ",
   "phone": "053-587-3465",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 35.852064,
   "longitude": 128.501225,
-  "updated_at": "2026-01-12T11:32:40.005407"
+  "updated_at": "2026-02-03T18:22:07.498108",
+  "first_prize_draws": [
+    731
+  ],
+  "second_prize_draws": [
+    1111,
+    893,
+    841,
+    779,
+    764,
+    512,
+    315,
+    287
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

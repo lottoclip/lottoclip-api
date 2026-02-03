@@ -1,7 +1,7 @@
 {
   "store_id": "12940190",
   "name": "금성복권판매점",
-  "address": "광주 북구 독립로 416 ",
+  "address": "광주 북구 독립로 416 1층  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 35.167293,
   "longitude": 126.917229,
-  "updated_at": "2026-01-12T11:55:17.598571"
+  "updated_at": "2026-02-03T18:29:44.674006",
+  "first_prize_draws": [
+    1104
+  ],
+  "second_prize_draws": [
+    1206,
+    1147,
+    1110
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "13000046",
   "name": "복권방",
-  "address": "대전 동구 대전로 799 ",
+  "address": "대전 동구  대전로 799 ",
   "phone": "042-223-6100",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 36.330763,
   "longitude": 127.432522,
-  "updated_at": "2026-01-12T11:51:31.746529"
+  "updated_at": "2026-02-03T18:25:55.369561",
+  "first_prize_draws": [
+    1052
+  ],
+  "second_prize_draws": [
+    1157,
+    1150,
+    1137,
+    1067,
+    1037,
+    1035,
+    863,
+    709,
+    616,
+    544,
+    420,
+    395
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 12
 }

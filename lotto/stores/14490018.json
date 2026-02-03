@@ -1,7 +1,7 @@
 {
   "store_id": "14490018",
   "name": "한남마트 왔다복권",
-  "address": "충남 천안시 서북구 서부16길 9 ",
+  "address": "충남 천안시 서북구  서부16길 9 ",
   "phone": "041-571-0377",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,26 @@
   ],
   "latitude": 36.823118,
   "longitude": 127.137684,
-  "updated_at": "2026-01-12T11:52:34.503926"
+  "updated_at": "2026-02-03T18:22:24.532928",
+  "first_prize_draws": [
+    1067,
+    913,
+    528
+  ],
+  "second_prize_draws": [
+    1115,
+    1067,
+    1048,
+    1015,
+    988,
+    945,
+    845,
+    737,
+    704,
+    674,
+    492,
+    338
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 12
 }

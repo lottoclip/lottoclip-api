@@ -1,7 +1,7 @@
 {
   "store_id": "14120013",
   "name": "25편의점",
-  "address": "경기 광주시 오포읍 문형리 430-4 25편의점",
+  "address": "경기 광주시  오포로 514 25편의점",
   "phone": "031-764-1223",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 37.344294,
   "longitude": 127.212862,
-  "updated_at": "2026-01-12T11:40:41.802603"
+  "updated_at": "2026-02-03T18:22:24.382984",
+  "first_prize_draws": [
+    874
+  ],
+  "second_prize_draws": [
+    1115,
+    1113,
+    996,
+    913,
+    903,
+    892,
+    805,
+    767,
+    708
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 9
 }

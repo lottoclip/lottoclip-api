@@ -1,7 +1,7 @@
 {
   "store_id": "14141312",
   "name": "운좋은 복권방",
-  "address": "경기 수원시 장안구 덕영대로425번길 34 ",
+  "address": "경기 수원시 장안구  덕영대로425번길 34 1층(율전동)",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,11 @@
   ],
   "latitude": 37.30245,
   "longitude": 126.96986,
-  "updated_at": "2026-01-12T11:54:45.865987"
+  "updated_at": "2026-02-03T18:20:55.231508",
+  "first_prize_draws": [
+    1094
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

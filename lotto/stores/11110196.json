@@ -1,12 +1,27 @@
 {
   "store_id": "11110196",
   "name": "로또판매",
-  "address": "서울 강남구 삼성로86길 10 ",
+  "address": "서울 강남구  삼성로86길 10 1층 삼성슈퍼",
   "phone": "02-3442-0070",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.505628,
   "longitude": 127.058333,
-  "updated_at": "2026-01-12T11:26:27.042429"
+  "updated_at": "2026-02-03T18:25:38.023166",
+  "first_prize_draws": [
+    627
+  ],
+  "second_prize_draws": [
+    1153,
+    1114,
+    1088,
+    804,
+    661,
+    565,
+    563,
+    389
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

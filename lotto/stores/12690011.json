@@ -1,7 +1,7 @@
 {
   "store_id": "12690011",
   "name": "복권천국",
-  "address": "부산 남구 못골로 48-2 ",
+  "address": "부산 남구  못골로 48-2 ",
   "phone": "051-644-9663",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 35.135739,
   "longitude": 129.087766,
-  "updated_at": "2026-01-12T11:47:09.889693"
+  "updated_at": "2026-02-03T18:17:56.353454",
+  "first_prize_draws": [
+    979,
+    888
+  ],
+  "second_prize_draws": [
+    1057,
+    1049,
+    908,
+    730,
+    550,
+    523,
+    484,
+    468,
+    463,
+    324
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 10
 }

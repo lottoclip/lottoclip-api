@@ -1,7 +1,7 @@
 {
   "store_id": "21100101",
-  "name": "GS25(청담삼익)",
-  "address": "서울 강남구 청담동  133-6번지",
+  "name": "GS25(청담삼익점)",
+  "address": "서울 강남구 청담동 133-6번지 승창빌딩 1034호",
   "phone": "02-511-7205",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,15 @@
   ],
   "latitude": 37.520862,
   "longitude": 127.057602,
-  "updated_at": "2026-01-12T11:08:04.762006"
+  "updated_at": "2026-02-03T17:53:08.250455",
+  "first_prize_draws": [
+    322
+  ],
+  "second_prize_draws": [
+    754,
+    705,
+    689
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

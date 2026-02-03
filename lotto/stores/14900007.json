@@ -1,7 +1,7 @@
 {
   "store_id": "14900007",
   "name": "빙고복권방  잉크충전방",
-  "address": "제주 제주시 남녕로 36 ",
+  "address": "제주 제주시  남녕로 36 영진그린빌라102호",
   "phone": "064-749-8832",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 33.490907,
   "longitude": 126.480943,
-  "updated_at": "2026-01-12T11:45:55.183939"
+  "updated_at": "2026-02-03T18:26:45.745315",
+  "first_prize_draws": [
+    960
+  ],
+  "second_prize_draws": [
+    1165,
+    1033,
+    1006,
+    956,
+    824,
+    817,
+    662,
+    386,
+    379
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 9
 }

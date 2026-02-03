@@ -1,7 +1,7 @@
 {
   "store_id": "14110490",
   "name": "행운마트",
-  "address": "경기 고양시 일산서구 송산로 331 ",
+  "address": "경기 고양시 일산서구  송산로 331 104호",
   "phone": "031-917-6270",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 37.683872,
   "longitude": 126.715738,
-  "updated_at": "2026-01-12T11:40:44.954835"
+  "updated_at": "2026-02-03T18:26:36.885788",
+  "first_prize_draws": [
+    875
+  ],
+  "second_prize_draws": [
+    1163,
+    1150,
+    1145,
+    1130,
+    1073,
+    959,
+    877,
+    750,
+    572
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 9
 }

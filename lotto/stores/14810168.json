@@ -1,7 +1,7 @@
 {
   "store_id": "14810168",
   "name": "명당편의점",
-  "address": "경남 진주시 서장대로 273 ",
+  "address": "경남 진주시  서장대로 273 1층",
   "phone": "055-741-0549",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,25 @@
   ],
   "latitude": 35.192095,
   "longitude": 128.063106,
-  "updated_at": "2026-01-12T11:20:18.707075"
+  "updated_at": "2026-02-03T18:13:21.128348",
+  "first_prize_draws": [
+    520,
+    416
+  ],
+  "second_prize_draws": [
+    1001,
+    939,
+    881,
+    819,
+    796,
+    745,
+    709,
+    704,
+    649,
+    541,
+    497,
+    391
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 12
 }

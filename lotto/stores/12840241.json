@@ -1,7 +1,7 @@
 {
   "store_id": "12840241",
   "name": "동행로또복권판매",
-  "address": "인천 동구 화도진로 33-1 ",
+  "address": "인천 동구  화도진로 33-1 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 37.475679,
   "longitude": 126.634139,
-  "updated_at": "2026-01-12T11:59:05.534978"
+  "updated_at": "2026-02-03T18:27:02.400263",
+  "first_prize_draws": [
+    1161
+  ],
+  "second_prize_draws": [
+    1169,
+    1074
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

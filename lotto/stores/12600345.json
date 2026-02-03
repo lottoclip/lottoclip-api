@@ -1,7 +1,7 @@
 {
   "store_id": "12600345",
   "name": "감만정보통신",
-  "address": "부산 남구 우암로 150 ",
+  "address": "부산 남구 감만동 138-21번지 ",
   "phone": "051-645-9573",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 35.123595,
   "longitude": 129.080198,
-  "updated_at": "2026-01-12T11:31:37.917692"
+  "updated_at": "2026-02-03T17:54:15.696667",
+  "first_prize_draws": [
+    712
+  ],
+  "second_prize_draws": [
+    765
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

@@ -1,0 +1,22 @@
+{
+  "store_id": "13010074",
+  "name": "로또판매점",
+  "address": "대전 서구 둔산동 1217번지 리베라빌딩1층2호 성심마트",
+  "phone": "042-489-7467",
+  "lottery_types": [
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 36.349195,
+  "longitude": 127.382186,
+  "updated_at": "2026-02-03T17:55:29.979763",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    781,
+    606,
+    564,
+    556
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 4
+}

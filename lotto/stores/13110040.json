@@ -1,7 +1,7 @@
 {
   "store_id": "13110040",
   "name": "우리들초이스점",
-  "address": "울산 남구 삼산동  215-12 1층",
+  "address": "울산 남구 삼산동  215-12번지 우리들마트 내",
   "phone": "052-260-8922",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,17 @@
   ],
   "latitude": 35.541095,
   "longitude": 129.350749,
-  "updated_at": "2026-01-12T11:15:35.668013"
+  "updated_at": "2026-02-03T17:43:14.431113",
+  "first_prize_draws": [
+    439
+  ],
+  "second_prize_draws": [
+    636,
+    599,
+    573,
+    415,
+    262
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

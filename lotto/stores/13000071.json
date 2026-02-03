@@ -1,7 +1,7 @@
 {
   "store_id": "13000071",
   "name": "그린마트",
-  "address": "대전 중구 오류동  171-3번지",
+  "address": "대전 중구 대흥동 186-3 이안과병원 건너편",
   "phone": "042-537-2279",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 36.326026,
   "longitude": 127.427104,
-  "updated_at": "2026-01-12T11:27:56.755634"
+  "updated_at": "2026-02-03T18:04:37.296535",
+  "first_prize_draws": [
+    651
+  ],
+  "second_prize_draws": [
+    897,
+    867,
+    821,
+    779,
+    739,
+    659,
+    501
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

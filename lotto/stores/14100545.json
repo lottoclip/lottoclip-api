@@ -1,7 +1,7 @@
 {
   "store_id": "14100545",
-  "name": "버스표거리판매점",
-  "address": "경기 수원시 장안구 조원동  768-10번지",
+  "name": "수원복드림",
+  "address": "경기 수원시 장안구 조원동(조원1동) 768-10 ",
   "phone": "031-247-2399",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,14 @@
   ],
   "latitude": 37.298739,
   "longitude": 127.015988,
-  "updated_at": "2026-01-12T11:28:30.601147"
+  "updated_at": "2026-02-03T17:51:28.655630",
+  "first_prize_draws": [
+    662
+  ],
+  "second_prize_draws": [
+    733,
+    528
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14141405",
   "name": "지니복권",
-  "address": "경기 안산시 단원구 광덕1로 61 ",
+  "address": "경기 안산시 단원구 광덕1로 61 106호  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 37.30877,
   "longitude": 126.81618,
-  "updated_at": "2026-01-12T11:56:01.290079"
+  "updated_at": "2026-02-03T18:29:40.539673",
+  "first_prize_draws": [
+    1113
+  ],
+  "second_prize_draws": [
+    1205,
+    1113,
+    1049,
+    1030
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

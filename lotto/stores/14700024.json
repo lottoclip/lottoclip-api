@@ -1,7 +1,7 @@
 {
   "store_id": "14700024",
   "name": "주택복권2호점",
-  "address": "경북 구미시 금오시장로 13 ",
+  "address": "경북 구미시  금오시장로 13 114호",
   "phone": "054-454-9100",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 36.126237,
   "longitude": 128.340702,
-  "updated_at": "2026-01-12T11:45:23.710881"
+  "updated_at": "2026-02-03T18:25:46.980551",
+  "first_prize_draws": [
+    950,
+    828
+  ],
+  "second_prize_draws": [
+    1155,
+    1148,
+    871,
+    839,
+    828,
+    468
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 6
 }

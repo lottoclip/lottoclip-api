@@ -1,7 +1,7 @@
 {
   "store_id": "21100109",
   "name": "GS25(가양2)",
-  "address": "서울 강서구 가양동  14612단지상가1층106호",
+  "address": "서울 강서구  가양동 1461번지2단지상가1층106호",
   "phone": "02-3665-2995",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,16 @@
   ],
   "latitude": 37.570484,
   "longitude": 126.847149,
-  "updated_at": "2026-01-12T11:15:32.493022"
+  "updated_at": "2026-02-03T17:41:57.436998",
+  "first_prize_draws": [
+    438
+  ],
+  "second_prize_draws": [
+    622,
+    605,
+    591,
+    532
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

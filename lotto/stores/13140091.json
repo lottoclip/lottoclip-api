@@ -1,7 +1,7 @@
 {
   "store_id": "13140091",
   "name": "경은 로또 판매점",
-  "address": "울산 중구 태화로 15 ",
+  "address": "울산 중구  태화로 15 1층",
   "phone": "052-222-2740",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 35.555352,
   "longitude": 129.278085,
-  "updated_at": "2026-01-12T11:49:31.412469"
+  "updated_at": "2026-02-03T18:29:36.224358",
+  "first_prize_draws": [
+    1019
+  ],
+  "second_prize_draws": [
+    1204
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

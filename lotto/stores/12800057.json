@@ -1,7 +1,7 @@
 {
   "store_id": "12800057",
   "name": "행운복권",
-  "address": "인천 부평구 배곶로 24 ",
+  "address": "인천 부평구  배곶로 24 지1층 비03호(십정동 이즈라이프아파트)",
   "phone": "032-422-7911",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.470456,
   "longitude": 126.698331,
-  "updated_at": "2026-01-12T11:59:25.005030"
+  "updated_at": "2026-02-03T18:26:53.993085",
+  "first_prize_draws": [
+    1167,
+    270
+  ],
+  "second_prize_draws": [
+    1143,
+    1126,
+    1004,
+    770,
+    713,
+    548
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 6
 }

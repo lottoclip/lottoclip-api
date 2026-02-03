@@ -1,7 +1,7 @@
 {
   "store_id": "12900131",
   "name": "시네월드일곡점",
-  "address": "광주 북구 설죽로 514 ",
+  "address": "광주 북구  설죽로 514 ",
   "phone": "062-573-3124",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 35.205005,
   "longitude": 126.898239,
-  "updated_at": "2026-01-12T11:33:27.112978"
+  "updated_at": "2026-02-03T18:23:43.635684",
+  "first_prize_draws": [
+    741
+  ],
+  "second_prize_draws": [
+    1130,
+    1124,
+    1100,
+    688,
+    526,
+    468
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

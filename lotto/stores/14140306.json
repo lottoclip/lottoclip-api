@@ -1,7 +1,7 @@
 {
   "store_id": "14140306",
   "name": "금도끼복권방",
-  "address": "경기 양평군 용문로 812 ",
+  "address": "경기 양평군  용문로 812 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 37.507288,
   "longitude": 127.631661,
-  "updated_at": "2026-01-12T11:46:32.642705"
+  "updated_at": "2026-02-03T18:27:02.602504",
+  "first_prize_draws": [
+    972,
+    921,
+    826
+  ],
+  "second_prize_draws": [
+    1169,
+    1137,
+    1079,
+    1064,
+    1051,
+    993
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 6
 }

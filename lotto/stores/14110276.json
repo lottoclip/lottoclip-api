@@ -1,7 +1,7 @@
 {
   "store_id": "14110276",
   "name": "대박복권방",
-  "address": "경기 안양시 동안구 비산동  459-1번지",
+  "address": "경기 안양시 동안구 비산동(비산1동) 459-28 ",
   "phone": "031-444-9802",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 37.39812,
   "longitude": 126.93357,
-  "updated_at": "2026-01-12T11:24:25.091099"
+  "updated_at": "2026-02-03T17:54:49.462035",
+  "first_prize_draws": [
+    594
+  ],
+  "second_prize_draws": [
+    772,
+    584,
+    435
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

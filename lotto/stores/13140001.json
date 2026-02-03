@@ -1,7 +1,7 @@
 {
   "store_id": "13140001",
   "name": "또로또",
-  "address": "울산 남구 신정로68번길 47 ",
+  "address": "울산 남구  신정로68번길 47 ",
   "phone": "052-257-6980",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 35.539279,
   "longitude": 129.326159,
-  "updated_at": "2026-01-12T11:53:11.941221"
+  "updated_at": "2026-02-03T18:19:12.550641",
+  "first_prize_draws": [
+    1074
+  ],
+  "second_prize_draws": [
+    1059,
+    1000,
+    949,
+    865
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

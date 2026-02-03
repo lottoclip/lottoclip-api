@@ -1,0 +1,23 @@
+{
+  "store_id": "11110371",
+  "name": "로또복권",
+  "address": "서울 영등포구  영중로 22 120호(영등포동3가)",
+  "phone": null,
+  "lottery_types": [
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 37.518344,
+  "longitude": 126.90595,
+  "updated_at": "2026-02-03T18:13:24.954649",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1002,
+    975,
+    750,
+    732,
+    359
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 5
+}

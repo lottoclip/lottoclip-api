@@ -1,7 +1,7 @@
 {
   "store_id": "14140952",
   "name": "에이치엑스(HX)복권방",
-  "address": "경기 이천시 경충대로 2106 ",
+  "address": "경기 이천시  경충대로 2106 106호 복권방",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 37.291097,
   "longitude": 127.448029,
-  "updated_at": "2026-01-12T11:57:20.711613"
+  "updated_at": "2026-02-03T18:27:16.343447",
+  "first_prize_draws": [
+    1133
+  ],
+  "second_prize_draws": [
+    1172,
+    1105,
+    1045,
+    999
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "11100306",
   "name": "흥인식품",
-  "address": "서울 중구 흥인동  72번지",
+  "address": "서울 중구 흥인동 72번지 ",
   "phone": "02-2237-5430",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,14 @@
   ],
   "latitude": 37.565625,
   "longitude": 127.017246,
-  "updated_at": "2026-01-12T11:24:25.061818"
+  "updated_at": "2026-02-03T18:02:06.745480",
+  "first_prize_draws": [
+    594
+  ],
+  "second_prize_draws": [
+    866,
+    654
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

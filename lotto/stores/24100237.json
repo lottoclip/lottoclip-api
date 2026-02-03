@@ -1,12 +1,23 @@
 {
   "store_id": "24100237",
   "name": "GS25(수원매탄점)",
-  "address": "경기 수원시 영통구  인계로 239 성일프라자117호",
+  "address": "경기 수원시 영통구  인계로 239 성일프라자 1층 117호",
   "phone": "031-211-0669",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.26531,
   "longitude": 127.044046,
-  "updated_at": "2026-01-12T11:44:43.155815"
+  "updated_at": "2026-02-03T18:12:33.954217",
+  "first_prize_draws": [
+    937
+  ],
+  "second_prize_draws": [
+    990,
+    894,
+    845,
+    651
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

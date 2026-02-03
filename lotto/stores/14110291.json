@@ -1,7 +1,7 @@
 {
   "store_id": "14110291",
   "name": "세이브마트",
-  "address": "경기 의정부시 금오동  453-23호",
+  "address": "경기 의정부시  금오로 100 ",
   "phone": "031-847-2480",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 37.756285,
   "longitude": 127.076267,
-  "updated_at": "2026-01-12T11:11:59.607868"
+  "updated_at": "2026-02-03T18:10:23.553536",
+  "first_prize_draws": [
+    379
+  ],
+  "second_prize_draws": [
+    964,
+    881,
+    726,
+    661,
+    572,
+    508
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

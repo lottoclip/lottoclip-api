@@ -1,7 +1,7 @@
 {
   "store_id": "14810149",
   "name": "믿음사복권방",
-  "address": "경남 함양군 금성길 1 ",
+  "address": "경남 함양군  금성길 1 ",
   "phone": "055-962-9710",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 35.628477,
   "longitude": 127.811999,
-  "updated_at": "2026-01-12T12:00:03.427112"
+  "updated_at": "2026-02-03T18:27:47.007783",
+  "first_prize_draws": [
+    1179
+  ],
+  "second_prize_draws": [
+    1008,
+    883
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

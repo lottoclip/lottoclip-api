@@ -1,7 +1,7 @@
 {
   "store_id": "13010084",
   "name": "로또대박마트",
-  "address": "대전 동구 대전로 248 ",
+  "address": "대전 동구  대전로 248 로또대박마트",
   "phone": "070-8759-5777",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 36.290402,
   "longitude": 127.463352,
-  "updated_at": "2026-01-12T11:20:56.261970"
+  "updated_at": "2026-02-03T18:24:00.881293",
+  "first_prize_draws": [
+    532
+  ],
+  "second_prize_draws": [
+    1134,
+    1077,
+    860,
+    791,
+    772,
+    512,
+    287
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

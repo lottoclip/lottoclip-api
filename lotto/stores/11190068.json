@@ -1,7 +1,7 @@
 {
   "store_id": "11190068",
   "name": "복권방 담배",
-  "address": "서울 도봉구 도당로 91 ",
+  "address": "서울 도봉구  도당로 91 ",
   "phone": "02-956-6217",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 37.665692,
   "longitude": 127.036948,
-  "updated_at": "2026-01-12T11:55:27.168487"
+  "updated_at": "2026-02-03T18:28:03.402183",
+  "first_prize_draws": [
+    1107,
+    1086,
+    711
+  ],
+  "second_prize_draws": [
+    1183,
+    1133,
+    910,
+    905,
+    826,
+    755,
+    662,
+    427,
+    324
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 9
 }

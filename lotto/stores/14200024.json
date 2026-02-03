@@ -1,7 +1,7 @@
 {
   "store_id": "14200024",
   "name": "오복 복권",
-  "address": "강원 강릉시 율곡로 2807 ",
+  "address": "강원 강릉시  율곡로 2807 ",
   "phone": "033-648-0393",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 37.755304,
   "longitude": 128.899743,
-  "updated_at": "2026-01-12T11:46:41.978728"
+  "updated_at": "2026-02-03T18:25:11.318127",
+  "first_prize_draws": [
+    975
+  ],
+  "second_prize_draws": [
+    1147,
+    776,
+    572,
+    506
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

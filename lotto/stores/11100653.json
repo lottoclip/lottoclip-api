@@ -1,7 +1,7 @@
 {
   "store_id": "11100653",
   "name": "동원마트",
-  "address": "서울 강동구 풍성로 209 ",
+  "address": "서울 강동구  풍성로 209 ",
   "phone": "02-476-4756",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 37.529347,
   "longitude": 127.135098,
-  "updated_at": "2026-01-12T11:45:07.888333"
+  "updated_at": "2026-02-03T18:25:59.591395",
+  "first_prize_draws": [
+    945,
+    876
+  ],
+  "second_prize_draws": [
+    1158,
+    1055,
+    925,
+    908,
+    528,
+    505,
+    372,
+    311
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 8
 }

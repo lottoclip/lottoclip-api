@@ -1,7 +1,7 @@
 {
   "store_id": "14130186",
   "name": "행운슈퍼",
-  "address": "경기 화성시 병점3로 37 ",
+  "address": "경기 화성시 병점3로 37 106호  ",
   "phone": "031-226-9370",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,25 @@
   ],
   "latitude": 37.208291,
   "longitude": 127.037549,
-  "updated_at": "2026-01-12T12:01:06.791188"
+  "updated_at": "2026-02-03T18:29:40.624070",
+  "first_prize_draws": [
+    1194,
+    760
+  ],
+  "second_prize_draws": [
+    1205,
+    1203,
+    1141,
+    1107,
+    1080,
+    1035,
+    1027,
+    944,
+    928,
+    887,
+    846,
+    828
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 12
 }

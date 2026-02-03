@@ -1,7 +1,7 @@
 {
   "store_id": "11100187",
   "name": "복권나라",
-  "address": "서울 강서구 등촌1동  654-44",
+  "address": "서울 강서구 등촌1동 654-44번지 ",
   "phone": "02-2659-3420",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,15 @@
   ],
   "latitude": 37.554956,
   "longitude": 126.85592,
-  "updated_at": "2026-01-12T11:05:38.344455"
+  "updated_at": "2026-02-03T17:46:20.407030",
+  "first_prize_draws": [
+    279
+  ],
+  "second_prize_draws": [
+    678,
+    466,
+    409
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

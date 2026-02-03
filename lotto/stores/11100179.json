@@ -1,0 +1,27 @@
+{
+  "store_id": "11100179",
+  "name": "복권천국",
+  "address": "서울 강서구  방화대로33길 66 ",
+  "phone": "02-2666-1339",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.568241,
+  "longitude": 126.813118,
+  "updated_at": "2026-02-03T18:27:42.217303",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1178,
+    1155,
+    775,
+    677,
+    661,
+    643,
+    502,
+    396
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 8
+}

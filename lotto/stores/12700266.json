@@ -1,7 +1,7 @@
 {
   "store_id": "12700266",
   "name": "경북윤업사",
-  "address": "대구 남구 대명동  810-4번지",
+  "address": "대구 남구  대명로 161 ",
   "phone": "053-652-9712",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 35.839364,
   "longitude": 128.575448,
-  "updated_at": "2026-01-12T11:29:30.140169"
+  "updated_at": "2026-02-03T18:22:19.976269",
+  "first_prize_draws": [
+    676,
+    282
+  ],
+  "second_prize_draws": [
+    1114,
+    953,
+    935,
+    882,
+    830,
+    756,
+    736,
+    564,
+    515,
+    328,
+    327
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 11
 }

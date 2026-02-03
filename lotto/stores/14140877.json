@@ -1,7 +1,7 @@
 {
   "store_id": "14140877",
   "name": "1등복권방",
-  "address": "경기 오산시 수청로 201 ",
+  "address": "경기 오산시  수청로 201 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 37.17634,
   "longitude": 127.04483,
-  "updated_at": "2026-01-12T11:45:14.479126"
+  "updated_at": "2026-02-03T18:13:04.021653",
+  "first_prize_draws": [
+    947
+  ],
+  "second_prize_draws": [
+    997,
+    941
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

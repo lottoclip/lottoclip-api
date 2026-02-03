@@ -1,7 +1,7 @@
 {
   "store_id": "12810175",
   "name": "로또복권",
-  "address": "인천 서구 염곡로 343-4 ",
+  "address": "인천 서구  염곡로 343-4 ",
   "phone": "032-571-3209",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,25 @@
   ],
   "latitude": 37.515398,
   "longitude": 126.668474,
-  "updated_at": "2026-01-12T11:44:24.436306"
+  "updated_at": "2026-02-03T18:23:00.782141",
+  "first_prize_draws": [
+    931
+  ],
+  "second_prize_draws": [
+    1120,
+    1017,
+    970,
+    949,
+    897,
+    892,
+    828,
+    746,
+    699,
+    693,
+    515,
+    346,
+    338
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 13
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14720024",
-  "name": "미니마트복권방",
-  "address": "경북 안동시 경북대로 476 ",
+  "name": "생활용품abm복권방",
+  "address": "경북 안동시  경북대로 476 1층 미니마트 송현점",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 36.571018,
   "longitude": 128.697703,
-  "updated_at": "2026-01-12T11:36:23.456170"
+  "updated_at": "2026-02-03T18:27:20.829305",
+  "first_prize_draws": [
+    792
+  ],
+  "second_prize_draws": [
+    1173,
+    982
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

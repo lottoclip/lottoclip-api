@@ -1,7 +1,7 @@
 {
   "store_id": "14820012",
   "name": "호박넝쿨복권방",
-  "address": "경남 김해시 여래로20번길 50-7 ",
+  "address": "경남 김해시  여래로20번길 50-7 103호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 35.305356,
   "longitude": 128.729072,
-  "updated_at": "2026-01-12T11:49:21.975181"
+  "updated_at": "2026-02-03T18:14:25.872587",
+  "first_prize_draws": [
+    1016
+  ],
+  "second_prize_draws": [
+    981,
+    935,
+    783
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

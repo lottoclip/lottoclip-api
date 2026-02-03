@@ -1,7 +1,7 @@
 {
   "store_id": "14210037",
   "name": "영월로또명당",
-  "address": "강원 영월군 중앙로 44 ",
+  "address": "강원 영월군 중앙로 44  ",
   "phone": "033-374-2032",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 37.183348,
   "longitude": 128.468467,
-  "updated_at": "2026-01-17T14:08:44.516697"
+  "updated_at": "2026-02-03T18:29:49.081921",
+  "first_prize_draws": [
+    1207,
+    1035,
+    760,
+    542,
+    381
+  ],
+  "second_prize_draws": [
+    1192,
+    1000,
+    930,
+    898,
+    827,
+    725,
+    547,
+    410
+  ],
+  "first_prize_count": 5,
+  "second_prize_count": 8
 }

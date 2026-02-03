@@ -1,7 +1,7 @@
 {
   "store_id": "14100330",
   "name": "현대화체인점",
-  "address": "경기 수원시 장안구 장안로 99-1 ",
+  "address": "경기 수원시 장안구  장안로 99-1 1층",
   "phone": "031-255-2956",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,26 @@
   ],
   "latitude": 37.29286,
   "longitude": 127.00135,
-  "updated_at": "2026-01-12T11:18:50.668799"
+  "updated_at": "2026-02-03T18:29:31.661228",
+  "first_prize_draws": [
+    497
+  ],
+  "second_prize_draws": [
+    1203,
+    1111,
+    1056,
+    937,
+    910,
+    819,
+    740,
+    735,
+    707,
+    705,
+    598,
+    532,
+    506,
+    404
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 14
 }

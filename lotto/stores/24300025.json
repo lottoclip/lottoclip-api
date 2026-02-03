@@ -1,7 +1,7 @@
 {
   "store_id": "24300025",
-  "name": "GS25(청주율량)",
-  "address": "충북 청주시 상당구 율량동  846번지",
+  "name": "GS25(청주율량점)",
+  "address": "충북 청주시 청원구  공항로150번길 136 ",
   "phone": "043-217-1127",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,15 @@
   ],
   "latitude": 36.669805,
   "longitude": 127.491296,
-  "updated_at": "2026-01-12T11:25:15.619482"
+  "updated_at": "2026-02-03T18:08:45.337903",
+  "first_prize_draws": [
+    605
+  ],
+  "second_prize_draws": [
+    943,
+    940,
+    380
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

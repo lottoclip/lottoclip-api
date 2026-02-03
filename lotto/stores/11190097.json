@@ -1,7 +1,7 @@
 {
   "store_id": "11190097",
   "name": "유성복권",
-  "address": "서울 송파구 가락동 18-15번지 1층",
+  "address": "서울 송파구  오금로36길 21 1층",
   "phone": "02-403-0646",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,23 @@
   ],
   "latitude": 37.501683,
   "longitude": 127.12469,
-  "updated_at": "2026-01-12T11:43:01.132528"
+  "updated_at": "2026-02-03T18:10:36.121312",
+  "first_prize_draws": [
+    909
+  ],
+  "second_prize_draws": [
+    967,
+    860,
+    818,
+    789,
+    787,
+    777,
+    642,
+    628,
+    500,
+    340,
+    302
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 11
 }

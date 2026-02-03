@@ -1,7 +1,7 @@
 {
   "store_id": "12600319",
   "name": "중앙토탈대리점",
-  "address": "부산 금정구 금강로565번길 16 ",
+  "address": "부산 금정구  금강로565번길 16 복권판매점",
   "phone": "051-518-5124",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 35.258178,
   "longitude": 129.086718,
-  "updated_at": "2026-01-12T11:34:42.746587"
+  "updated_at": "2026-02-03T18:16:10.291657",
+  "first_prize_draws": [
+    765,
+    428
+  ],
+  "second_prize_draws": [
+    1037,
+    1015,
+    426
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 3
 }

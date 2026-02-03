@@ -1,7 +1,7 @@
 {
   "store_id": "14100188",
   "name": "좋은이웃들",
-  "address": "경기 군포시 산본천로199번길 42-4 ",
+  "address": "경기 군포시  산본천로199번길 42-4 ",
   "phone": "031-395-2844",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 37.371875,
   "longitude": 126.938265,
-  "updated_at": "2026-01-12T11:30:26.394767"
+  "updated_at": "2026-02-03T18:09:28.028080",
+  "first_prize_draws": [
+    689
+  ],
+  "second_prize_draws": [
+    952,
+    727,
+    668,
+    640,
+    379
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

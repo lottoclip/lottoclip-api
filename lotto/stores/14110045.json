@@ -1,7 +1,7 @@
 {
   "store_id": "14110045",
   "name": "미래복권닷컴",
-  "address": "경기 성남시 분당구 분당동 67건영아파트상가 113호",
+  "address": "경기 성남시 분당구  장안로25번길 28 건영아파트상가114호",
   "phone": "031-707-5003",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 37.37122,
   "longitude": 127.13987,
-  "updated_at": "2026-01-12T11:15:45.232730"
+  "updated_at": "2026-02-03T18:19:08.243780",
+  "first_prize_draws": [
+    442
+  ],
+  "second_prize_draws": [
+    1073,
+    827,
+    719,
+    694,
+    646,
+    593,
+    495,
+    365,
+    263
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 9
 }

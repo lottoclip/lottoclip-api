@@ -1,7 +1,7 @@
 {
   "store_id": "14110652",
   "name": "로또판매점",
-  "address": "경기 안산시 상록구 영화7길 22-1 ",
+  "address": "경기 안산시 상록구  영화7길 22-1 102호",
   "phone": "031-409-2030",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 37.280637,
   "longitude": 126.851832,
-  "updated_at": "2026-01-12T11:52:12.169278"
+  "updated_at": "2026-02-03T18:24:26.505061",
+  "first_prize_draws": [
+    1060,
+    666,
+    492
+  ],
+  "second_prize_draws": [
+    1140,
+    1002,
+    806,
+    676,
+    468,
+    302,
+    274
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 7
 }

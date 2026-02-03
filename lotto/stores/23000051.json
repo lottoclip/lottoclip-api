@@ -1,7 +1,7 @@
 {
   "store_id": "23000051",
-  "name": "GS25(대전노은)",
-  "address": "대전 유성구 지족동  901-1월드코아빌딩",
+  "name": "GS25(대전대정점)",
+  "address": "대전 유성구  대정로28번길 20 ",
   "phone": "042-545-0413",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,16 @@
   ],
   "latitude": 36.314341,
   "longitude": 127.321077,
-  "updated_at": "2026-01-12T11:12:05.788239"
+  "updated_at": "2026-02-03T18:12:08.109553",
+  "first_prize_draws": [
+    381
+  ],
+  "second_prize_draws": [
+    984,
+    560,
+    511,
+    394
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

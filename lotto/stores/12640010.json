@@ -1,7 +1,7 @@
 {
   "store_id": "12640010",
   "name": "당첨로또",
-  "address": "부산 동구 범일로90번길 6-1 ",
+  "address": "부산 동구  범일로90번길 6-1 1층",
   "phone": "051-638-7782",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 35.137871,
   "longitude": 129.06026,
-  "updated_at": "2026-01-12T11:50:34.637707"
+  "updated_at": "2026-02-03T18:28:43.545847",
+  "first_prize_draws": [
+    1039
+  ],
+  "second_prize_draws": [
+    1192,
+    1188,
+    1129,
+    1063,
+    1026,
+    958
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

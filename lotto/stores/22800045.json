@@ -1,7 +1,7 @@
 {
   "store_id": "22800045",
-  "name": "CU(신흥점)",
-  "address": "인천 중구 신흥동3가  31-49번지",
+  "name": "CU(영종BCD몰)",
+  "address": "인천 중구  하늘별빛로65번길 8 ",
   "phone": "032-752-5805",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 37.489318,
   "longitude": 126.563443,
-  "updated_at": "2026-01-12T11:26:11.234840"
+  "updated_at": "2026-02-03T18:10:05.471085",
+  "first_prize_draws": [
+    622
+  ],
+  "second_prize_draws": [
+    960,
+    954,
+    937,
+    871,
+    654,
+    554
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

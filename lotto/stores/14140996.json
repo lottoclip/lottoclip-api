@@ -1,7 +1,7 @@
 {
   "store_id": "14140996",
   "name": "행복",
-  "address": "경기 하남시 덕풍동로 111-21 ",
+  "address": "경기 하남시  덕풍동로 111-21 105호",
   "phone": "031-794-0525",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,11 @@
   ],
   "latitude": 37.551799,
   "longitude": 127.207675,
-  "updated_at": "2026-01-12T11:52:59.324654"
+  "updated_at": "2026-02-03T18:18:55.567804",
+  "first_prize_draws": [
+    1070
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

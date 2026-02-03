@@ -1,7 +1,7 @@
 {
   "store_id": "14430048",
   "name": "화산복권판매점",
-  "address": "충남 서천군 충서로 187-1 ",
+  "address": "충남 서천군  충서로 187-1 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 36.095829,
   "longitude": 126.664357,
-  "updated_at": "2026-01-12T11:35:08.105551"
+  "updated_at": "2026-02-03T18:28:39.621056",
+  "first_prize_draws": [
+    773
+  ],
+  "second_prize_draws": [
+    1191,
+    779
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14740371",
   "name": "대박드림",
-  "address": "경북 포항시 북구 천마로72번길 7 ",
+  "address": "경북 포항시 북구  천마로72번길 7 1층111동107호(양덕동)",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 36.083181,
   "longitude": 129.397797,
-  "updated_at": "2026-01-12T12:01:13.726694"
+  "updated_at": "2026-02-03T18:29:01.547050",
+  "first_prize_draws": [
+    1196
+  ],
+  "second_prize_draws": [
+    1115
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

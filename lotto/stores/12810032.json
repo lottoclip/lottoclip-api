@@ -1,7 +1,7 @@
 {
   "store_id": "12810032",
   "name": "대부복권방",
-  "address": "인천 중구 운서동  2794-2가나베스트텔101",
+  "address": "인천 중구 운서동 2803-1 1동 128-1호",
   "phone": "032-746-7799",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 37.493418,
   "longitude": 126.491468,
-  "updated_at": "2026-01-12T11:19:11.926641"
+  "updated_at": "2026-02-03T18:02:37.151717",
+  "first_prize_draws": [
+    499
+  ],
+  "second_prize_draws": [
+    873,
+    831,
+    813,
+    782,
+    776,
+    772,
+    764,
+    753,
+    730,
+    608,
+    544,
+    515
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 12
 }

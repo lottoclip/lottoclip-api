@@ -1,7 +1,7 @@
 {
   "store_id": "14240153",
   "name": "떡두꺼비복권방",
-  "address": "강원 원주시 원문로 641 ",
+  "address": "강원 원주시  원문로 641 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 37.353002,
   "longitude": 127.899531,
-  "updated_at": "2026-01-12T11:53:30.972873"
+  "updated_at": "2026-02-03T18:29:09.846352",
+  "first_prize_draws": [
+    1080
+  ],
+  "second_prize_draws": [
+    1198,
+    1192,
+    1063,
+    1048
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

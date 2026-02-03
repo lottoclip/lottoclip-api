@@ -1,7 +1,7 @@
 {
   "store_id": "14800168",
   "name": "다음정보텔레콤",
-  "address": "경남 진주시 진양호로 243 ",
+  "address": "경남 진주시  진양호로 243 CU편의점내",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,26 @@
   ],
   "latitude": 35.175762,
   "longitude": 128.062097,
-  "updated_at": "2026-01-12T11:51:37.909679"
+  "updated_at": "2026-02-03T18:23:30.659861",
+  "first_prize_draws": [
+    1054,
+    626,
+    454,
+    443
+  ],
+  "second_prize_draws": [
+    1127,
+    1098,
+    1053,
+    1009,
+    970,
+    956,
+    875,
+    673,
+    621,
+    593,
+    484
+  ],
+  "first_prize_count": 4,
+  "second_prize_count": 11
 }

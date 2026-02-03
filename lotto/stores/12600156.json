@@ -1,7 +1,7 @@
 {
   "store_id": "12600156",
   "name": "과정미니슈퍼",
-  "address": "부산 연제구 과정로 234-1 ",
+  "address": "부산 연제구  과정로 234-1 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 35.187852,
   "longitude": 129.101618,
-  "updated_at": "2026-01-12T11:37:45.517010"
+  "updated_at": "2026-02-03T18:28:16.750024",
+  "first_prize_draws": [
+    818
+  ],
+  "second_prize_draws": [
+    1186,
+    1130,
+    1080,
+    1045,
+    1042,
+    897,
+    865,
+    828,
+    705,
+    697,
+    542,
+    270
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 12
 }

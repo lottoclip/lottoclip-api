@@ -1,7 +1,7 @@
 {
   "store_id": "14130085",
   "name": "대박 오렌지24시 편의점",
-  "address": "경기 고양시 덕양구 고양대로1369번길 7 ",
+  "address": "경기 고양시 덕양구  고양대로1369번길 7 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 37.655152,
   "longitude": 126.836318,
-  "updated_at": "2026-01-12T11:46:38.905074"
+  "updated_at": "2026-02-03T18:14:21.438000",
+  "first_prize_draws": [
+    974,
+    709
+  ],
+  "second_prize_draws": [
+    1015,
+    985
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 2
 }

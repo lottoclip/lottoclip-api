@@ -1,0 +1,23 @@
+{
+  "store_id": "11101127",
+  "name": "토로또가판점",
+  "address": "서울 동작구  노량진로 172 대성제9주유소 가판",
+  "phone": "02-823-8621",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.513628,
+  "longitude": 126.944619,
+  "updated_at": "2026-02-03T18:18:11.884564",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1060,
+    1057,
+    678,
+    551
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 4
+}

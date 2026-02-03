@@ -1,7 +1,7 @@
 {
   "store_id": "12640421",
   "name": "매일로또",
-  "address": "부산 부산진구 당감로50번길 6 ",
+  "address": "부산 부산진구  당감로50번길 6 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,11 @@
   ],
   "latitude": 35.166065,
   "longitude": 129.039371,
-  "updated_at": "2026-01-12T11:59:40.833776"
+  "updated_at": "2026-02-03T18:27:16.104182",
+  "first_prize_draws": [
+    1172
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

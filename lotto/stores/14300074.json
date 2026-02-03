@@ -1,7 +1,7 @@
 {
   "store_id": "14300074",
   "name": "포커스봉명점",
-  "address": "충북 청주시 흥덕구 직지대로 564 ",
+  "address": "충북 청주시 흥덕구  직지대로 564 ",
   "phone": "043-274-9440",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 36.643084,
   "longitude": 127.455562,
-  "updated_at": "2026-01-12T11:17:29.614590"
+  "updated_at": "2026-02-03T18:24:30.887756",
+  "first_prize_draws": [
+    471
+  ],
+  "second_prize_draws": [
+    1141,
+    585
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

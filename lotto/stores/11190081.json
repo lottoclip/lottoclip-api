@@ -1,7 +1,7 @@
 {
   "store_id": "11190081",
   "name": "스포츠베팅샵",
-  "address": "서울 서초구 동산로 48 ",
+  "address": "서울 서초구  동산로 48 서희빌딩 104호",
   "phone": "02-3462-9011",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 37.471324,
   "longitude": 127.044343,
-  "updated_at": "2026-01-12T11:42:14.338769"
+  "updated_at": "2026-02-03T18:16:29.307106",
+  "first_prize_draws": [
+    894,
+    660,
+    607,
+    494
+  ],
+  "second_prize_draws": [
+    1041,
+    998,
+    773,
+    415,
+    400,
+    336
+  ],
+  "first_prize_count": 4,
+  "second_prize_count": 6
 }

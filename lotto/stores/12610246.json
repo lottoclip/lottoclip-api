@@ -1,7 +1,7 @@
 {
   "store_id": "12610246",
   "name": "복터진날",
-  "address": "부산 사하구 장림로 162-1 ",
+  "address": "부산 사하구  장림로 162-1 복권판매점",
   "phone": "051-262-7759",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,25 @@
   ],
   "latitude": 35.082375,
   "longitude": 128.966879,
-  "updated_at": "2026-01-12T11:59:08.759464"
+  "updated_at": "2026-02-03T18:29:18.081205",
+  "first_prize_draws": [
+    1162
+  ],
+  "second_prize_draws": [
+    1200,
+    1154,
+    1059,
+    1032,
+    1008,
+    1005,
+    1000,
+    963,
+    910,
+    769,
+    666,
+    629,
+    483
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 13
 }

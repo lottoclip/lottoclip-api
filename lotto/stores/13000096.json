@@ -1,7 +1,7 @@
 {
   "store_id": "13000096",
   "name": "대한민국마트",
-  "address": "대전 유성구 전민로46번길 40 ",
+  "address": "대전 유성구  전민로46번길 40 다세대주택 1층",
   "phone": "042-862-1888",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 36.396687,
   "longitude": 127.402498,
-  "updated_at": "2026-01-12T11:24:37.602656"
+  "updated_at": "2026-02-03T18:20:59.384640",
+  "first_prize_draws": [
+    598,
+    551
+  ],
+  "second_prize_draws": [
+    1095,
+    991,
+    972,
+    910,
+    908,
+    481,
+    284,
+    273,
+    266
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 9
 }

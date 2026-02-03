@@ -1,7 +1,7 @@
 {
   "store_id": "13100039",
   "name": "미보라복권방",
-  "address": "울산 중구 염포로 15 ",
+  "address": "울산 중구  염포로 15 ",
   "phone": "052-293-0442",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 35.559396,
   "longitude": 129.343236,
-  "updated_at": "2026-01-12T12:00:45.199867"
+  "updated_at": "2026-02-03T18:28:43.683700",
+  "first_prize_draws": [
+    1192
+  ],
+  "second_prize_draws": [
+    788,
+    540,
+    524
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

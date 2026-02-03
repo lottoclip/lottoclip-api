@@ -1,7 +1,7 @@
 {
   "store_id": "14340027",
   "name": "혁신대박",
-  "address": "충북 음성군 원중로 1434 ",
+  "address": "충북 음성군  원중로 1434 103호(에스타워)",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 36.909523,
   "longitude": 127.541078,
-  "updated_at": "2026-01-12T11:58:36.740716"
+  "updated_at": "2026-02-03T18:25:34.032087",
+  "first_prize_draws": [
+    1152,
+    1086,
+    952
+  ],
+  "second_prize_draws": [
+    1106,
+    1017,
+    1011,
+    994,
+    935,
+    866
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 6
 }

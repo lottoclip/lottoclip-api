@@ -1,7 +1,7 @@
 {
   "store_id": "11100882",
   "name": "종합가판점",
-  "address": "서울 구로구 가마산로 245 ",
+  "address": "서울 구로구  가마산로 245 구로구청 앞 버스정류장 앞 가로매점",
   "phone": "02-861-1227",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 37.49528,
   "longitude": 126.88763,
-  "updated_at": "2026-01-12T11:56:17.421977"
+  "updated_at": "2026-02-03T18:22:36.912299",
+  "first_prize_draws": [
+    1118
+  ],
+  "second_prize_draws": [
+    859,
+    795,
+    586,
+    331
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

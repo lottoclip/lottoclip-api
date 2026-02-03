@@ -1,7 +1,7 @@
 {
   "store_id": "14190027",
   "name": "복권하우스",
-  "address": "경기 평택시 송탄로 369-1 ",
+  "address": "경기 평택시  송탄로 369-1 1층",
   "phone": "031-667-2407",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 37.07642,
   "longitude": 127.057695,
-  "updated_at": "2026-01-12T11:49:53.546792"
+  "updated_at": "2026-02-03T18:18:16.728354",
+  "first_prize_draws": [
+    1026
+  ],
+  "second_prize_draws": [
+    1061,
+    917,
+    883,
+    881,
+    865,
+    822,
+    644,
+    551
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

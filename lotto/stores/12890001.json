@@ -1,7 +1,7 @@
 {
   "store_id": "12890001",
   "name": "찬스센터",
-  "address": "인천 남동구 남동대로370번길 114 ",
+  "address": "인천 남동구  남동대로370번길 114 상가동 1층 101호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,26 @@
   ],
   "latitude": 37.412737,
   "longitude": 126.712243,
-  "updated_at": "2026-01-12T11:53:53.505542"
+  "updated_at": "2026-02-03T18:28:52.414888",
+  "first_prize_draws": [
+    1087,
+    732
+  ],
+  "second_prize_draws": [
+    1194,
+    960,
+    947,
+    905,
+    882,
+    689,
+    654,
+    531,
+    521,
+    489,
+    462,
+    412,
+    306
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 13
 }

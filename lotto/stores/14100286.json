@@ -1,7 +1,7 @@
 {
   "store_id": "14100286",
   "name": "싼타슈퍼",
-  "address": "경기 시흥시 군서마을로 42 ",
+  "address": "경기 시흥시  군서마을로 42 ",
   "phone": "031-433-3667",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 37.345547,
   "longitude": 126.747374,
-  "updated_at": "2026-01-12T11:45:42.710737"
+  "updated_at": "2026-02-03T18:28:25.532317",
+  "first_prize_draws": [
+    956
+  ],
+  "second_prize_draws": [
+    1188,
+    1176,
+    1166,
+    982,
+    965,
+    920,
+    844,
+    708,
+    589,
+    535,
+    526,
+    455
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 12
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14840249",
   "name": "매물도 복권",
-  "address": "경남 통영시 통영해안로 225-1 ",
+  "address": "경남 통영시  통영해안로 225-1 ",
   "phone": "055-642-0145",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 34.841072,
   "longitude": 128.420751,
-  "updated_at": "2026-01-12T11:53:56.730308"
+  "updated_at": "2026-02-03T18:27:59.702079",
+  "first_prize_draws": [
+    1088
+  ],
+  "second_prize_draws": [
+    1182,
+    1161,
+    1150,
+    1054
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

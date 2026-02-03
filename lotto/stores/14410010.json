@@ -1,7 +1,7 @@
 {
   "store_id": "14410010",
   "name": "대박나라복권방",
-  "address": "충남 아산시 서부남로 868 ",
+  "address": "충남 아산시 신창면 읍내리 292-2 ",
   "phone": "041-542-8973",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 36.777366,
   "longitude": 126.934392,
-  "updated_at": "2026-01-12T11:11:16.961890"
+  "updated_at": "2026-02-03T17:53:27.795159",
+  "first_prize_draws": [
+    370
+  ],
+  "second_prize_draws": [
+    755,
+    578,
+    264
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

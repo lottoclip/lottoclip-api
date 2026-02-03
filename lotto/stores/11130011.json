@@ -1,7 +1,7 @@
 {
   "store_id": "11130011",
   "name": "행운사",
-  "address": "서울 노원구 석계로 8-1 ",
+  "address": "서울 노원구  석계로 8-1 1층",
   "phone": "02-6402-9797",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 37.615678,
   "longitude": 127.064676,
-  "updated_at": "2026-01-12T11:52:12.055438"
+  "updated_at": "2026-02-03T18:26:53.828269",
+  "first_prize_draws": [
+    1060
+  ],
+  "second_prize_draws": [
+    1167,
+    1160,
+    1143,
+    1104,
+    1067,
+    921,
+    892,
+    875
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

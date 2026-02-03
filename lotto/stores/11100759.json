@@ -1,7 +1,7 @@
 {
   "store_id": "11100759",
   "name": "쎄븐타임",
-  "address": "서울 용산구 백범로47길 6 ",
+  "address": "서울 용산구  백범로47길 6 1층 102호 (슈퍼마켓)",
   "phone": "02-794-6227",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 37.54074,
   "longitude": 126.958359,
-  "updated_at": "2026-01-12T11:40:41.746601"
+  "updated_at": "2026-02-03T18:23:25.901118",
+  "first_prize_draws": [
+    874
+  ],
+  "second_prize_draws": [
+    1126,
+    949,
+    567,
+    361,
+    319
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

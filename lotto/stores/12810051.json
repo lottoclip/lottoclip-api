@@ -1,0 +1,28 @@
+{
+  "store_id": "12810051",
+  "name": "로또복권",
+  "address": "인천 부평구  길주남로102번길 2 ",
+  "phone": "032-519-7774",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.503868,
+  "longitude": 126.732837,
+  "updated_at": "2026-02-03T18:21:11.937516",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1098,
+    1075,
+    985,
+    852,
+    792,
+    714,
+    608,
+    443,
+    410
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 9
+}

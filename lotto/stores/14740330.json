@@ -1,7 +1,7 @@
 {
   "store_id": "14740330",
   "name": "웃는 복권방",
-  "address": "경북 구미시 형곡로39길 3 ",
+  "address": "경북 구미시  형곡로39길 3 102호(형곡동)",
   "phone": "054-457-6623",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,11 @@
   ],
   "latitude": 36.108375,
   "longitude": 128.339873,
-  "updated_at": "2026-01-12T11:59:28.151843"
+  "updated_at": "2026-02-03T18:26:58.416808",
+  "first_prize_draws": [
+    1168
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

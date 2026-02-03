@@ -1,12 +1,21 @@
 {
   "store_id": "14100721",
   "name": "구세약방",
-  "address": "경기 수원시 장안구 연무동 8-2",
+  "address": "경기 수원시 장안구 연무동 8-2 ",
   "phone": "031-254-9523",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.299649,
   "longitude": 127.029983,
-  "updated_at": "2026-01-12T11:12:15.069412"
+  "updated_at": "2026-02-03T17:47:28.286532",
+  "first_prize_draws": [
+    384
+  ],
+  "second_prize_draws": [
+    693,
+    687
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

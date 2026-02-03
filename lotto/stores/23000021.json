@@ -1,12 +1,21 @@
 {
   "store_id": "23000021",
   "name": "GS25(대전둔산점)",
-  "address": "대전 서구 탄방동 837 ",
+  "address": "대전 서구  문정로 114 ",
   "phone": "042-472-3964",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 36.34647,
   "longitude": 127.391926,
-  "updated_at": "2026-01-12T11:43:29.056575"
+  "updated_at": "2026-02-03T18:08:54.457705",
+  "first_prize_draws": [
+    918
+  ],
+  "second_prize_draws": [
+    945,
+    792
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

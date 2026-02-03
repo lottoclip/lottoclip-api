@@ -1,7 +1,7 @@
 {
   "store_id": "14800093",
   "name": "씨유 (CU) 거창대동점",
-  "address": "경남 거창군 거창대로 93 ",
+  "address": "경남 거창군  거창대로 93 ",
   "phone": "055-942-5589",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,27 @@
   ],
   "latitude": 35.689866,
   "longitude": 127.91475,
-  "updated_at": "2026-01-12T11:58:17.405041"
+  "updated_at": "2026-02-03T18:28:08.321405",
+  "first_prize_draws": [
+    1146,
+    926,
+    747
+  ],
+  "second_prize_draws": [
+    1184,
+    1180,
+    1177,
+    1015,
+    1013,
+    845,
+    720,
+    663,
+    636,
+    610,
+    580,
+    533,
+    474
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 13
 }

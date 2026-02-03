@@ -1,7 +1,7 @@
 {
   "store_id": "11110387",
   "name": "대박천하복권방",
-  "address": "서울 은평구 연서로 150 ",
+  "address": "서울 은평구 연서로 150 1층 1호  ",
   "phone": "02-356-0645",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 37.603518,
   "longitude": 126.91597,
-  "updated_at": "2026-01-12T12:02:01.045165"
+  "updated_at": "2026-02-03T18:29:44.592173",
+  "first_prize_draws": [
+    1206,
+    622
+  ],
+  "second_prize_draws": [
+    1034,
+    987,
+    793,
+    731,
+    703,
+    675,
+    669,
+    660,
+    589,
+    474,
+    398
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 11
 }

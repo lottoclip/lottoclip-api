@@ -1,7 +1,7 @@
 {
   "store_id": "11190146",
   "name": "베스토아",
-  "address": "서울 강남구 역삼로 166 ",
+  "address": "서울 강남구  역삼로 166 세현빌딩 ",
   "phone": "02-566-0792",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 37.494989,
   "longitude": 127.037263,
-  "updated_at": "2026-01-12T11:48:06.646718"
+  "updated_at": "2026-02-03T18:20:33.058275",
+  "first_prize_draws": [
+    997,
+    716,
+    675
+  ],
+  "second_prize_draws": [
+    1089,
+    1007,
+    979,
+    796,
+    566,
+    504,
+    410,
+    397
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 8
 }

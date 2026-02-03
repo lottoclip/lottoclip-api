@@ -1,12 +1,24 @@
 {
   "store_id": "12700055",
   "name": "월드복권",
-  "address": "대구 서구 북비산로 98 ",
+  "address": "대구 서구  북비산로 98 ",
   "phone": null,
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 35.878357,
   "longitude": 128.543662,
-  "updated_at": "2026-01-12T11:59:34.487815"
+  "updated_at": "2026-02-03T18:28:03.549178",
+  "first_prize_draws": [
+    1170,
+    710
+  ],
+  "second_prize_draws": [
+    1183,
+    1161,
+    1078,
+    1042
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 4
 }

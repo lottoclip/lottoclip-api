@@ -1,7 +1,7 @@
 {
   "store_id": "14110443",
   "name": "천하명당안산",
-  "address": "경기 안산시 상록구 수인로 2020 ",
+  "address": "경기 안산시 상록구  수인로 2020 103호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 37.36354,
   "longitude": 126.876232,
-  "updated_at": "2026-01-12T11:58:52.542197"
+  "updated_at": "2026-02-03T18:28:48.319328",
+  "first_prize_draws": [
+    1157,
+    1062
+  ],
+  "second_prize_draws": [
+    1193,
+    988,
+    982,
+    884,
+    767,
+    557,
+    382,
+    379
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 8
 }

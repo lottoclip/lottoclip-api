@@ -1,12 +1,35 @@
 {
   "store_id": "14710076",
   "name": "로또복권대박",
-  "address": "경북 상주시 상산로 338 ",
+  "address": "경북 상주시  상산로 338 ",
   "phone": "054-531-9559",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 36.420978,
   "longitude": 128.159224,
-  "updated_at": "2026-01-12T11:15:42.158200"
+  "updated_at": "2026-02-03T18:22:41.891423",
+  "first_prize_draws": [
+    441
+  ],
+  "second_prize_draws": [
+    1119,
+    1067,
+    1025,
+    978,
+    917,
+    781,
+    760,
+    745,
+    543,
+    541,
+    480,
+    443,
+    441,
+    376,
+    298,
+    267
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 16
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "11100609",
   "name": "연보슈퍼",
-  "address": "서울 서대문구 연희동  78-43",
+  "address": "서울 서대문구  연희동 78-43",
   "phone": "070-8113-8000",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,15 @@
   ],
   "latitude": 37.572999,
   "longitude": 126.935234,
-  "updated_at": "2026-01-12T11:21:39.674329"
+  "updated_at": "2026-02-03T17:43:27.082506",
+  "first_prize_draws": [
+    546
+  ],
+  "second_prize_draws": [
+    639,
+    562,
+    449
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

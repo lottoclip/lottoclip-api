@@ -1,7 +1,7 @@
 {
   "store_id": "23000057",
   "name": "GS25(대전시네마점)",
-  "address": "대전 서구 괴정동 423-19번지 1층",
+  "address": "대전 서구  용문로 41-88 ",
   "phone": "042-528-1125",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,24 @@
   ],
   "latitude": 36.339935,
   "longitude": 127.389295,
-  "updated_at": "2026-01-12T11:34:49.228125"
+  "updated_at": "2026-02-03T18:10:50.233007",
+  "first_prize_draws": [
+    767
+  ],
+  "second_prize_draws": [
+    970,
+    966,
+    950,
+    905,
+    870,
+    842,
+    791,
+    751,
+    743,
+    653,
+    342,
+    333
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 12
 }

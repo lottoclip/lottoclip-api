@@ -1,7 +1,7 @@
 {
   "store_id": "14430042",
   "name": "황금로또복권판매",
-  "address": "충남 당진시 동부로 223 ",
+  "address": "충남 당진시  동부로 223 B동 108호 한빛부동산",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,28 @@
   ],
   "latitude": 36.90674,
   "longitude": 126.64695,
-  "updated_at": "2026-01-12T11:54:48.945513"
+  "updated_at": "2026-02-03T18:28:03.887532",
+  "first_prize_draws": [
+    1095
+  ],
+  "second_prize_draws": [
+    1183,
+    1120,
+    1116,
+    1097,
+    1009,
+    997,
+    944,
+    917,
+    915,
+    883,
+    846,
+    833,
+    830,
+    811,
+    732,
+    728
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 16
 }

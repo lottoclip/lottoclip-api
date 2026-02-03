@@ -1,7 +1,7 @@
 {
   "store_id": "14140816",
   "name": "천하명당",
-  "address": "경기 안산시 단원구 광덕2로 193-19 ",
+  "address": "경기 안산시 단원구  광덕2로 193-19 113114호",
   "phone": "031-411-1077",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 37.31169,
   "longitude": 126.83174,
-  "updated_at": "2026-01-12T12:00:22.626155"
+  "updated_at": "2026-02-03T18:28:12.560671",
+  "first_prize_draws": [
+    1185
+  ],
+  "second_prize_draws": [
+    1069,
+    1047
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

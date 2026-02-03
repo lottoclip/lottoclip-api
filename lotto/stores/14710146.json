@@ -1,0 +1,23 @@
+{
+  "store_id": "14710146",
+  "name": "로또복권",
+  "address": "경북 경산시 정평동(서부2동) 138-4 우방아파트상가",
+  "phone": "053-814-4603",
+  "lottery_types": [
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 35.833414,
+  "longitude": 128.728704,
+  "updated_at": "2026-02-03T17:59:19.620953",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    828,
+    735,
+    669,
+    632,
+    463
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 5
+}

@@ -1,7 +1,7 @@
 {
   "store_id": "14140540",
   "name": "가평로또방",
-  "address": "경기 가평군  석봉로 240 스마트빌딩 1층",
+  "address": "경기 가평군  석봉로 240 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 37.836342,
   "longitude": 127.508782,
-  "updated_at": "2026-01-12T11:50:03.024233"
+  "updated_at": "2026-02-03T18:24:34.914120",
+  "first_prize_draws": [
+    1029
+  ],
+  "second_prize_draws": [
+    1142,
+    1092
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

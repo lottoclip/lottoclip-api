@@ -1,7 +1,7 @@
 {
   "store_id": "14110357",
-  "name": "로또판매훼미리마트철산역점",
-  "address": "경기 광명시 광명동  272야우리빌딩103호",
+  "name": "땡큐25(철산점)",
+  "address": "경기 광명시 철산동 264번지 로데오빌딩103호",
   "phone": "02-2625-6770",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,17 @@
   ],
   "latitude": 37.475541,
   "longitude": 126.867543,
-  "updated_at": "2026-01-12T11:08:47.314361"
+  "updated_at": "2026-02-03T17:55:33.910371",
+  "first_prize_draws": [
+    331
+  ],
+  "second_prize_draws": [
+    782,
+    726,
+    707,
+    661,
+    606
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

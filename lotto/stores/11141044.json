@@ -1,7 +1,7 @@
 {
   "store_id": "11141044",
   "name": "대치럭키 로또",
-  "address": "서울 강남구 선릉로76길 38 ",
+  "address": "서울 강남구  선릉로76길 38 1층 3호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 37.50213,
   "longitude": 127.053605,
-  "updated_at": "2026-01-12T11:59:34.471860"
+  "updated_at": "2026-02-03T18:27:06.648472",
+  "first_prize_draws": [
+    1170
+  ],
+  "second_prize_draws": [
+    1129,
+    1121
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "22600055",
-  "name": "GS25(명륜중앙)",
-  "address": "부산 동래구 온천동  473-12",
+  "name": "GS25(명륜중앙점)",
+  "address": "부산 동래구 온천동 473-12번지 ",
   "phone": "051-556-8391",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,14 @@
   ],
   "latitude": 35.212571,
   "longitude": 129.078671,
-  "updated_at": "2026-01-12T11:06:48.151861"
+  "updated_at": "2026-02-03T17:56:59.904660",
+  "first_prize_draws": [
+    297
+  ],
+  "second_prize_draws": [
+    801,
+    588
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

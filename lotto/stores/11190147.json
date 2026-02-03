@@ -1,7 +1,7 @@
 {
   "store_id": "11190147",
   "name": "현대마트",
-  "address": "서울 강남구 일원로 45 ",
+  "address": "서울 강남구  일원로 45 대훈빌딩 101호",
   "phone": "02-3411-6524",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 37.489908,
   "longitude": 127.081518,
-  "updated_at": "2026-01-12T11:55:20.674080"
+  "updated_at": "2026-02-03T18:21:41.418511",
+  "first_prize_draws": [
+    1105,
+    978
+  ],
+  "second_prize_draws": [
+    659,
+    500,
+    411,
+    315
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 4
 }

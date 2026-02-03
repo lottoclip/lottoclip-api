@@ -1,7 +1,7 @@
 {
   "store_id": "13100084",
   "name": "로또복권",
-  "address": "울산 남구 꽃대나리로 71 ",
+  "address": "울산 남구  꽃대나리로 71 ",
   "phone": "052-265-6464",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 35.533759,
   "longitude": 129.33796,
-  "updated_at": "2026-01-12T11:59:44.060900"
+  "updated_at": "2026-02-03T18:28:48.121240",
+  "first_prize_draws": [
+    1173
+  ],
+  "second_prize_draws": [
+    1193,
+    1071,
+    1020,
+    1007,
+    976,
+    926,
+    718,
+    470,
+    432,
+    305
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

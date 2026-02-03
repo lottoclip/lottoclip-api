@@ -1,7 +1,7 @@
 {
   "store_id": "13140003",
   "name": "금돼지로또방",
-  "address": "울산 동구 문재로 53 ",
+  "address": "울산 동구  문재로 53 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 35.485783,
   "longitude": 129.420303,
-  "updated_at": "2026-01-12T11:56:04.768992"
+  "updated_at": "2026-02-03T18:22:20.133492",
+  "first_prize_draws": [
+    1114
+  ],
+  "second_prize_draws": [
+    1052,
+    959,
+    900
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14110660",
   "name": "천하명당복권방",
-  "address": "경기 평택시 오성면 죽리 1-6 마키리오스빌딩1층107호",
+  "address": "경기 평택시  서동대로 2051 마키리오스빌딩1층107호",
   "phone": "031-611-8249",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,21 @@
   ],
   "latitude": 37.007775,
   "longitude": 126.970323,
-  "updated_at": "2026-01-12T11:39:48.275203"
+  "updated_at": "2026-02-03T18:07:51.491497",
+  "first_prize_draws": [
+    857,
+    557
+  ],
+  "second_prize_draws": [
+    935,
+    890,
+    883,
+    703,
+    693,
+    630,
+    629,
+    488
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 8
 }

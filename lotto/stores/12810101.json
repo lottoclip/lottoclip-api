@@ -1,7 +1,7 @@
 {
   "store_id": "12810101",
   "name": "로또명당",
-  "address": "인천 남동구 호구포로 874 ",
+  "address": "인천 남동구  호구포로 874 ",
   "phone": "032-464-2440",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 37.460365,
   "longitude": 126.720316,
-  "updated_at": "2026-01-12T11:49:31.376994"
+  "updated_at": "2026-02-03T18:14:38.350596",
+  "first_prize_draws": [
+    1019,
+    309
+  ],
+  "second_prize_draws": [
+    976,
+    934,
+    900,
+    883,
+    786,
+    742,
+    673,
+    433,
+    424
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 9
 }

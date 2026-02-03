@@ -1,0 +1,25 @@
+{
+  "store_id": "14110508",
+  "name": "로또복권판매",
+  "address": "경기 부천시 원미구 중2동 1107번지 위브더스테이트 102동 111호 CU부천위브점",
+  "phone": "032-653-7172",
+  "lottery_types": [
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 37.501855,
+  "longitude": 126.775987,
+  "updated_at": "2026-02-03T17:52:25.732511",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    745,
+    603,
+    596,
+    437,
+    395,
+    336,
+    305
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 7
+}

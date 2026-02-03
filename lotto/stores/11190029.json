@@ -1,7 +1,7 @@
 {
   "store_id": "11190029",
   "name": "노다지훼밀리",
-  "address": "서울 강동구 구천면로 251 ",
+  "address": "서울 강동구  구천면로 251 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 37.542837,
   "longitude": 127.131275,
-  "updated_at": "2026-01-12T11:58:43.096342"
+  "updated_at": "2026-02-03T18:26:36.665305",
+  "first_prize_draws": [
+    1154,
+    896,
+    653
+  ],
+  "second_prize_draws": [
+    1163,
+    1132,
+    968,
+    936,
+    933,
+    772
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 6
 }

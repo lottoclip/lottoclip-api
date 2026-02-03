@@ -1,7 +1,7 @@
 {
   "store_id": "14140648",
   "name": "호돌이복권방",
-  "address": "경기 김포시 황금로109번길 80 ",
+  "address": "경기 김포시  황금로109번길 80 101호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 37.614961,
   "longitude": 126.622768,
-  "updated_at": "2026-01-12T11:59:37.729518"
+  "updated_at": "2026-02-03T18:27:42.509170",
+  "first_prize_draws": [
+    1171,
+    1056
+  ],
+  "second_prize_draws": [
+    1178,
+    1153,
+    1151,
+    1075
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 4
 }

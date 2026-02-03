@@ -1,7 +1,7 @@
 {
   "store_id": "14690021",
   "name": "복권천국",
-  "address": "전남 무안군 무안로 506 ",
+  "address": "전남 무안군  무안로 506 복권천국",
   "phone": "061-453-3651",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 34.98832,
   "longitude": 126.479155,
-  "updated_at": "2026-01-12T11:18:35.100999"
+  "updated_at": "2026-02-03T18:27:12.136939",
+  "first_prize_draws": [
+    492
+  ],
+  "second_prize_draws": [
+    1171,
+    1070,
+    1055,
+    1042,
+    990,
+    931,
+    910,
+    600,
+    531,
+    394,
+    308
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 11
 }

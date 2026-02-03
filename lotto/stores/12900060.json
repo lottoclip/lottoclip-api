@@ -1,7 +1,7 @@
 {
   "store_id": "12900060",
   "name": "중흥마트",
-  "address": "광주 북구 문산로 30 ",
+  "address": "광주 북구  문산로 30 중흥2차 아파트상가 1층",
   "phone": "062-263-1142",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,26 @@
   ],
   "latitude": 35.183891,
   "longitude": 126.923221,
-  "updated_at": "2026-01-12T11:55:14.402778"
+  "updated_at": "2026-02-03T18:27:06.883602",
+  "first_prize_draws": [
+    1103,
+    1048,
+    945
+  ],
+  "second_prize_draws": [
+    1170,
+    1163,
+    1054,
+    1037,
+    939,
+    899,
+    862,
+    785,
+    429,
+    392,
+    371,
+    331
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 12
 }

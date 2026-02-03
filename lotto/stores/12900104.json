@@ -1,7 +1,7 @@
 {
   "store_id": "12900104",
   "name": "E편한마트",
-  "address": "광주 북구 중흥동  224-87",
+  "address": "광주 북구 중흥동  224-87번지 E편한마트",
   "phone": "062-524-7733",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,15 @@
   ],
   "latitude": 35.17026,
   "longitude": 126.914597,
-  "updated_at": "2026-01-12T11:17:32.694406"
+  "updated_at": "2026-02-03T17:40:49.820080",
+  "first_prize_draws": [
+    472,
+    331
+  ],
+  "second_prize_draws": [
+    607,
+    560
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 2
 }

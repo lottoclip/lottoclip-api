@@ -1,7 +1,7 @@
 {
   "store_id": "11190111",
   "name": "대박찬스",
-  "address": "서울 영등포구 도림로 356 ",
+  "address": "서울 영등포구  도림로 356 1층복권방",
   "phone": "02-834-8849",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,27 @@
   ],
   "latitude": 37.508884,
   "longitude": 126.900068,
-  "updated_at": "2026-01-12T11:36:32.816793"
+  "updated_at": "2026-02-03T18:27:11.473362",
+  "first_prize_draws": [
+    795,
+    359
+  ],
+  "second_prize_draws": [
+    1171,
+    1152,
+    1018,
+    1011,
+    834,
+    666,
+    636,
+    620,
+    580,
+    573,
+    529,
+    508,
+    500,
+    496
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 14
 }

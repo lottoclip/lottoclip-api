@@ -1,7 +1,7 @@
 {
   "store_id": "12600168",
   "name": "효원당슈퍼",
-  "address": "부산 금정구 부산대학로 48 ",
+  "address": "부산 금정구 장전3동 417-39번지 효원당슈퍼",
   "phone": "051-583-7727",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 35.231426,
   "longitude": 129.086075,
-  "updated_at": "2026-01-12T11:10:12.359217"
+  "updated_at": "2026-02-03T18:00:17.754248",
+  "first_prize_draws": [
+    354
+  ],
+  "second_prize_draws": [
+    841,
+    725,
+    451,
+    364
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

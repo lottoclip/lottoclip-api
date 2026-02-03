@@ -1,7 +1,7 @@
 {
   "store_id": "12990030",
   "name": "토토죤",
-  "address": "광주 광산구 비아중앙로31번길 10 ",
+  "address": "광주 광산구  비아중앙로31번길 10 1층",
   "phone": "062-953-5656",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 35.221737,
   "longitude": 126.824277,
-  "updated_at": "2026-01-12T11:43:13.598348"
+  "updated_at": "2026-02-03T18:28:43.633196",
+  "first_prize_draws": [
+    913
+  ],
+  "second_prize_draws": [
+    1192,
+    1159,
+    1154,
+    1013,
+    999,
+    929,
+    905,
+    851,
+    803,
+    794,
+    793,
+    355
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 12
 }

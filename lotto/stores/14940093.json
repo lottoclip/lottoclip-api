@@ -1,12 +1,18 @@
 {
   "store_id": "14940093",
   "name": "캠퍼트리 스토어",
-  "address": "제주 제주시 해안마을서4길 100 ",
+  "address": "제주 제주시  해안마을서4길 100 ",
   "phone": null,
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 33.45168,
   "longitude": 126.448378,
-  "updated_at": "2026-01-12T11:56:48.683591"
+  "updated_at": "2026-02-03T18:23:13.795210",
+  "first_prize_draws": [
+    1123
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

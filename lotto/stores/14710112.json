@@ -1,7 +1,7 @@
 {
   "store_id": "14710112",
   "name": "스마일복권방",
-  "address": "경북 김천시 영남대로 2087 ",
+  "address": "경북 김천시  영남대로 2087 101호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 36.115139,
   "longitude": 128.156569,
-  "updated_at": "2026-01-12T11:55:17.668298"
+  "updated_at": "2026-02-03T18:26:00.178061",
+  "first_prize_draws": [
+    1104,
+    946
+  ],
+  "second_prize_draws": [
+    1158,
+    1131,
+    1079,
+    692,
+    681,
+    654,
+    496,
+    432
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 8
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14110303",
   "name": "-",
-  "address": "경기 의정부시 신곡동  519-19",
+  "address": "경기 의정부시 신곡동 519-19번지 ",
   "phone": "070-7747-9857",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,14 @@
   ],
   "latitude": 37.745545,
   "longitude": 127.058903,
-  "updated_at": "2026-01-12T11:19:40.593235"
+  "updated_at": "2026-02-03T17:52:05.936507",
+  "first_prize_draws": [
+    508
+  ],
+  "second_prize_draws": [
+    741,
+    706
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

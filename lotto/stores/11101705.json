@@ -1,7 +1,7 @@
 {
   "store_id": "11101705",
   "name": "명당마트",
-  "address": "서울 강서구 양천로 91 ",
+  "address": "서울 강서구  양천로 91 ",
   "phone": "02-6212-4665",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,25 @@
   ],
   "latitude": 37.573604,
   "longitude": 126.814046,
-  "updated_at": "2026-01-12T11:58:39.950441"
+  "updated_at": "2026-02-03T18:27:50.830653",
+  "first_prize_draws": [
+    1153,
+    989,
+    961,
+    884,
+    760
+  ],
+  "second_prize_draws": [
+    1180,
+    1168,
+    1068,
+    929,
+    903,
+    902,
+    830,
+    774,
+    638
+  ],
+  "first_prize_count": 5,
+  "second_prize_count": 9
 }

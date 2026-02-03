@@ -1,7 +1,7 @@
 {
   "store_id": "14140627",
-  "name": "태양로또복권",
-  "address": "경기 군포시 송부로96번길 13 ",
+  "name": "꿈의명당",
+  "address": "경기 군포시  송부로96번길 13 상가동 104호(도마교동 금강펜테리움센트럴파크)",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 37.315383,
   "longitude": 126.924402,
-  "updated_at": "2026-01-12T11:52:56.189483"
+  "updated_at": "2026-02-03T18:29:26.887590",
+  "first_prize_draws": [
+    1069
+  ],
+  "second_prize_draws": [
+    1202,
+    1009,
+    1001,
+    979
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

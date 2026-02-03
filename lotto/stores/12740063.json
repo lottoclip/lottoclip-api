@@ -1,7 +1,7 @@
 {
   "store_id": "12740063",
   "name": "동아",
-  "address": "대구 북구 칠곡중앙대로 385-1 ",
+  "address": "대구 북구  칠곡중앙대로 385-1 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 35.930254,
   "longitude": 128.54786,
-  "updated_at": "2026-01-12T11:54:58.241433"
+  "updated_at": "2026-02-03T18:27:24.827485",
+  "first_prize_draws": [
+    1098
+  ],
+  "second_prize_draws": [
+    1174,
+    1164,
+    1038,
+    944
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

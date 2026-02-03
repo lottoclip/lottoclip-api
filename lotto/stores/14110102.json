@@ -1,7 +1,7 @@
 {
   "store_id": "14110102",
   "name": "로또복권방동백점",
-  "address": "경기 용인시 기흥구 동백동 동백동 2205-1월드프라자101서진슈퍼내",
+  "address": "경기 용인시 기흥구 중동(동백동) 831-1 월드프라자101",
   "phone": "031-8005-6676",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,17 @@
   ],
   "latitude": 37.27663,
   "longitude": 127.152425,
-  "updated_at": "2026-01-12T11:08:26.245278"
+  "updated_at": "2026-02-03T17:58:53.946334",
+  "first_prize_draws": [
+    329
+  ],
+  "second_prize_draws": [
+    823,
+    711,
+    403,
+    386,
+    381
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

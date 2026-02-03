@@ -1,7 +1,7 @@
 {
   "store_id": "12610067",
   "name": "로또복권",
-  "address": "부산 남구 신선로 317-1 ",
+  "address": "부산 남구 신선로 317-1  ",
   "phone": "070-4401-0316",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 35.114423,
   "longitude": 129.095231,
-  "updated_at": "2026-01-12T11:23:25.837554"
+  "updated_at": "2026-02-03T18:29:53.074848",
+  "first_prize_draws": [
+    575
+  ],
+  "second_prize_draws": [
+    1208,
+    1085,
+    1077,
+    1058,
+    924,
+    892,
+    594,
+    512,
+    452,
+    380,
+    293
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 11
 }

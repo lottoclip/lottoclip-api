@@ -1,7 +1,7 @@
 {
   "store_id": "14340205",
   "name": "영광로또",
-  "address": "충북 충주시 충청대로 2220-2 ",
+  "address": "충북 충주시  충청대로 2220-2 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 36.959223,
   "longitude": 127.768539,
-  "updated_at": "2026-01-12T11:47:53.967959"
+  "updated_at": "2026-02-03T18:23:39.477411",
+  "first_prize_draws": [
+    993
+  ],
+  "second_prize_draws": [
+    1129,
+    1065,
+    1057,
+    1047,
+    1003
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

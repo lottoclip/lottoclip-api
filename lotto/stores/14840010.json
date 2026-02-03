@@ -1,12 +1,24 @@
 {
   "store_id": "14840010",
   "name": "세븐일레븐진해경화위브점",
-  "address": "경남 창원시 진해구 조천로 29 ",
+  "address": "경남 창원시 진해구  조천로 29 세븐일레븐",
   "phone": null,
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 35.160302,
   "longitude": 128.684787,
-  "updated_at": "2026-01-12T12:00:35.546637"
+  "updated_at": "2026-02-03T18:28:30.702616",
+  "first_prize_draws": [
+    1189,
+    766
+  ],
+  "second_prize_draws": [
+    1048,
+    1040,
+    988,
+    893
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 4
 }

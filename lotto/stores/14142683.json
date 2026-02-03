@@ -1,7 +1,7 @@
 {
   "store_id": "14142683",
   "name": "오늘의로또",
-  "address": "경기 오산시 궐리사로 75 ",
+  "address": "경기 오산시  궐리사로 75 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,11 @@
   ],
   "latitude": 37.15869,
   "longitude": 127.060625,
-  "updated_at": "2026-01-12T11:58:33.447078"
+  "updated_at": "2026-02-03T18:25:29.684105",
+  "first_prize_draws": [
+    1151
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "11100213",
   "name": "복권세계",
-  "address": "서울 동작구 신대방길 8 ",
+  "address": "서울 동작구 신대방길 8  ",
   "phone": "02-849-7252",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 37.487953,
   "longitude": 126.912154,
-  "updated_at": "2026-01-12T12:02:01.022534"
+  "updated_at": "2026-02-03T18:29:44.551762",
+  "first_prize_draws": [
+    1206
+  ],
+  "second_prize_draws": [
+    1155,
+    1061,
+    886,
+    782,
+    671,
+    557
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

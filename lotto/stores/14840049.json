@@ -1,7 +1,7 @@
 {
   "store_id": "14840049",
   "name": "드림로또",
-  "address": "경남 양산시 삼일로 73 ",
+  "address": "경남 양산시  삼일로 73 CU양산황제점 내",
   "phone": "055-365-5556",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 35.343975,
   "longitude": 129.035488,
-  "updated_at": "2026-01-12T11:43:25.980482"
+  "updated_at": "2026-02-03T18:28:57.215253",
+  "first_prize_draws": [
+    917
+  ],
+  "second_prize_draws": [
+    1195,
+    1141,
+    1109,
+    1052,
+    1048,
+    1036,
+    1015,
+    955,
+    950,
+    890
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

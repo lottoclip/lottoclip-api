@@ -1,7 +1,7 @@
 {
   "store_id": "11110275",
   "name": "로또판매",
-  "address": "서울 노원구 한글비석로15길 27 ",
+  "address": "서울 노원구  한글비석로15길 27 ",
   "phone": "02-939-9381",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 37.657004,
   "longitude": 127.074143,
-  "updated_at": "2026-01-12T11:48:03.501076"
+  "updated_at": "2026-02-03T18:26:57.978856",
+  "first_prize_draws": [
+    996
+  ],
+  "second_prize_draws": [
+    1168,
+    824,
+    333
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

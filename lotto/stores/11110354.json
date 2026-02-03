@@ -1,0 +1,29 @@
+{
+  "store_id": "11110354",
+  "name": "우리마트",
+  "address": "서울 성북구  동소문로23길 20 ",
+  "phone": "02-928-0450",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.594327,
+  "longitude": 127.017162,
+  "updated_at": "2026-02-03T18:29:01.035868",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1196,
+    1109,
+    1020,
+    979,
+    828,
+    782,
+    751,
+    695,
+    632,
+    551
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 10
+}

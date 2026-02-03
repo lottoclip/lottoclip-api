@@ -1,7 +1,7 @@
 {
   "store_id": "24800042",
   "name": "CU(거제옥포점)",
-  "address": "경남 거제시 옥포1동 548-1번지 ",
+  "address": "경남 거제시  옥포로 182 ",
   "phone": "055-688-4774",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,17 @@
   ],
   "latitude": 34.891066,
   "longitude": 128.691757,
-  "updated_at": "2026-01-12T11:37:42.431592"
+  "updated_at": "2026-02-03T18:09:56.662071",
+  "first_prize_draws": [
+    817
+  ],
+  "second_prize_draws": [
+    958,
+    952,
+    880,
+    640,
+    621
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

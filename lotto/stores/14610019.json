@@ -1,7 +1,7 @@
 {
   "store_id": "14610019",
   "name": "나이스로또복권",
-  "address": "전남 여수시 이순신광장로 210 ",
+  "address": "전남 여수시  이순신광장로 210 ",
   "phone": "061-663-3755",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 34.739668,
   "longitude": 127.745183,
-  "updated_at": "2026-01-12T11:47:50.888223"
+  "updated_at": "2026-02-03T18:26:00.142736",
+  "first_prize_draws": [
+    992,
+    864,
+    835
+  ],
+  "second_prize_draws": [
+    1158,
+    1060,
+    1038,
+    962,
+    849,
+    766,
+    697,
+    401
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 8
 }

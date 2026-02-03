@@ -1,7 +1,7 @@
 {
   "store_id": "14720014",
   "name": "로또복권4공단점",
-  "address": "경북 구미시 첨단기업1로 18 ",
+  "address": "경북 구미시  첨단기업1로 18 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,25 @@
   ],
   "latitude": 36.140464,
   "longitude": 128.439425,
-  "updated_at": "2026-01-12T11:52:31.413787"
+  "updated_at": "2026-02-03T18:29:05.794952",
+  "first_prize_draws": [
+    1066,
+    923,
+    888
+  ],
+  "second_prize_draws": [
+    1197,
+    1148,
+    1138,
+    1134,
+    1093,
+    1089,
+    1012,
+    999,
+    997,
+    938,
+    725
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 11
 }

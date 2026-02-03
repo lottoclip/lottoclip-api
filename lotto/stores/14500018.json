@@ -1,7 +1,7 @@
 {
   "store_id": "14500018",
-  "name": "아이24(수송점)",
-  "address": "전북 군산시 문화로 119 ",
+  "name": "노다지복권명당",
+  "address": "전북 군산시  문화로 119 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 35.970095,
   "longitude": 126.718949,
-  "updated_at": "2026-01-12T11:35:20.415972"
+  "updated_at": "2026-02-03T18:29:09.924896",
+  "first_prize_draws": [
+    777
+  ],
+  "second_prize_draws": [
+    1198,
+    1187,
+    1156,
+    1071,
+    1060,
+    1048,
+    925,
+    761,
+    728,
+    560,
+    535
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 11
 }

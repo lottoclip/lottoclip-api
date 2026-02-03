@@ -1,7 +1,7 @@
 {
   "store_id": "11190047",
   "name": "1등복권방",
-  "address": "서울 관악구 남부순환로 1545 ",
+  "address": "서울 관악구  남부순환로 1545 ",
   "phone": "02-878-8008",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 37.483488,
   "longitude": 126.922157,
-  "updated_at": "2026-01-12T11:15:38.718822"
+  "updated_at": "2026-02-03T18:25:02.647866",
+  "first_prize_draws": [
+    440
+  ],
+  "second_prize_draws": [
+    1145,
+    1002,
+    989,
+    747,
+    583,
+    337
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

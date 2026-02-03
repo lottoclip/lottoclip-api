@@ -1,0 +1,27 @@
+{
+  "store_id": "11190090",
+  "name": "복권전문점",
+  "address": "서울 성북구  돌곶이로27길 48 ",
+  "phone": "02-912-4788",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.611181,
+  "longitude": 127.053018,
+  "updated_at": "2026-02-03T18:17:32.811231",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1052,
+    1050,
+    1001,
+    995,
+    921,
+    768,
+    505,
+    327
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 8
+}

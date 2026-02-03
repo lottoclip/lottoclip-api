@@ -1,7 +1,7 @@
 {
   "store_id": "14110027",
-  "name": "행운 아이스크림 판매점",
-  "address": "경기 부천시 부일로 434-1 ",
+  "name": "행운 아이스크림 로또 판매점",
+  "address": "경기 부천시  부일로 434-1 1층",
   "phone": "032-667-6001",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 37.486342,
   "longitude": 126.778366,
-  "updated_at": "2026-01-12T11:48:16.242295"
+  "updated_at": "2026-02-03T18:24:13.684949",
+  "first_prize_draws": [
+    1000
+  ],
+  "second_prize_draws": [
+    1137,
+    1040,
+    1035,
+    522,
+    415
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

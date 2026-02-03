@@ -1,7 +1,7 @@
 {
   "store_id": "23100013",
   "name": "GS25(울산무거점)",
-  "address": "울산 남구 무거동 1526-13 ",
+  "address": "울산 남구  대학로147번길 36 ",
   "phone": "052-223-9210",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,23 @@
   ],
   "latitude": 35.550627,
   "longitude": 129.260772,
-  "updated_at": "2026-01-12T11:34:05.444697"
+  "updated_at": "2026-02-03T18:10:36.344426",
+  "first_prize_draws": [
+    753
+  ],
+  "second_prize_draws": [
+    967,
+    959,
+    907,
+    892,
+    872,
+    716,
+    584,
+    544,
+    371,
+    369,
+    346
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 11
 }

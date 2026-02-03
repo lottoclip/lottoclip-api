@@ -1,7 +1,7 @@
 {
   "store_id": "14700096",
   "name": "KOREA마트",
-  "address": "경북 구미시 임은길 64 ",
+  "address": "경북 구미시  임은길 64 ",
   "phone": "054-458-9717",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 36.088995,
   "longitude": 128.369546,
-  "updated_at": "2026-01-12T12:01:48.086445"
+  "updated_at": "2026-02-03T18:29:27.269152",
+  "first_prize_draws": [
+    1202,
+    536
+  ],
+  "second_prize_draws": [
+    1064,
+    996,
+    982,
+    838,
+    788,
+    728,
+    472,
+    456
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 8
 }

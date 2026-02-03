@@ -1,7 +1,7 @@
 {
   "store_id": "14890036",
   "name": "행복복권방",
-  "address": "경남 창원시 의창구 팔용로 399 ",
+  "address": "경남 창원시 의창구  팔용로 399 ",
   "phone": "055-296-6112",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 35.252882,
   "longitude": 128.610593,
-  "updated_at": "2026-01-12T11:51:21.843905"
+  "updated_at": "2026-02-03T18:25:47.021092",
+  "first_prize_draws": [
+    1049,
+    632,
+    494
+  ],
+  "second_prize_draws": [
+    1155,
+    998,
+    976,
+    898,
+    633
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 5
 }

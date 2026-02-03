@@ -1,7 +1,7 @@
 {
   "store_id": "12600287",
   "name": "동일통신",
-  "address": "부산 해운대구 선수촌로 16 ",
+  "address": "부산 해운대구  선수촌로 16 ",
   "phone": "051-528-7207",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 35.19541,
   "longitude": 129.118557,
-  "updated_at": "2026-01-12T11:42:39.353091"
+  "updated_at": "2026-02-03T18:22:41.234484",
+  "first_prize_draws": [
+    902,
+    783,
+    615
+  ],
+  "second_prize_draws": [
+    1119,
+    1059,
+    1032,
+    959,
+    953,
+    913,
+    900,
+    475
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 8
 }

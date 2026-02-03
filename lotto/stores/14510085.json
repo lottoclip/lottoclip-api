@@ -1,7 +1,7 @@
 {
   "store_id": "14510085",
   "name": "LH로또",
-  "address": "전북 전주시 완산구 호암로 91 ",
+  "address": "전북 전주시 완산구 호암로 91  ",
   "phone": "063-228-0280",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 35.808476,
   "longitude": 127.104281,
-  "updated_at": "2026-01-12T11:44:52.505194"
+  "updated_at": "2026-02-03T18:29:49.204742",
+  "first_prize_draws": [
+    940
+  ],
+  "second_prize_draws": [
+    1207,
+    1012,
+    852,
+    587,
+    396
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

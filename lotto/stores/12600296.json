@@ -1,7 +1,7 @@
 {
   "store_id": "12600296",
   "name": "행운로또",
-  "address": "부산 동래구 충렬대로428번길 30 ",
+  "address": "부산 동래구  충렬대로428번길 30 102호 1호",
   "phone": "051-531-1915",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 35.195202,
   "longitude": 129.104208,
-  "updated_at": "2026-01-12T11:59:57.014263"
+  "updated_at": "2026-02-03T18:27:38.096682",
+  "first_prize_draws": [
+    1177,
+    652
+  ],
+  "second_prize_draws": [
+    966,
+    879,
+    846,
+    486,
+    329
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 5
 }

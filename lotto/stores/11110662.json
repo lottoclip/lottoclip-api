@@ -1,7 +1,7 @@
 {
   "store_id": "11110662",
   "name": "대박복권방",
-  "address": "서울 양천구 오목로 233 ",
+  "address": "서울 양천구  오목로 233 1층1호",
   "phone": "02-2605-6832",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,26 @@
   ],
   "latitude": 37.526132,
   "longitude": 126.863302,
-  "updated_at": "2026-01-12T11:44:43.091911"
+  "updated_at": "2026-02-03T18:28:52.338107",
+  "first_prize_draws": [
+    937,
+    542,
+    429
+  ],
+  "second_prize_draws": [
+    1194,
+    1193,
+    929,
+    849,
+    824,
+    816,
+    804,
+    793,
+    791,
+    772,
+    564,
+    534
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 12
 }

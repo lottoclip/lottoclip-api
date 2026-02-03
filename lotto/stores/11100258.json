@@ -1,7 +1,7 @@
 {
   "store_id": "11100258",
   "name": "복권명당",
-  "address": "서울 광진구 영화사로 59 ",
+  "address": "서울 광진구  영화사로 59 1층",
   "phone": "02-498-6643",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 37.538918,
   "longitude": 127.066014,
-  "updated_at": "2026-01-12T11:57:07.878181"
+  "updated_at": "2026-02-03T18:24:30.419543",
+  "first_prize_draws": [
+    1129
+  ],
+  "second_prize_draws": [
+    1141,
+    883,
+    494
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

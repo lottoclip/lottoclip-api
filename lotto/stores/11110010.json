@@ -1,12 +1,29 @@
 {
   "store_id": "11110010",
   "name": "신성복권",
-  "address": "서울 강남구 학동로 503 ",
+  "address": "서울 강남구  학동로 503 ",
   "phone": "02-512-5515",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.519191,
   "longitude": 127.05076,
-  "updated_at": "2026-01-12T11:53:50.172884"
+  "updated_at": "2026-02-03T18:23:25.841999",
+  "first_prize_draws": [
+    1086
+  ],
+  "second_prize_draws": [
+    1126,
+    1105,
+    941,
+    938,
+    931,
+    663,
+    657,
+    606,
+    595,
+    309
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

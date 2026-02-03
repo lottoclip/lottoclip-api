@@ -1,7 +1,7 @@
 {
   "store_id": "12990013",
   "name": "복권세상",
-  "address": "광주 광산구 무진대로231번길 28 ",
+  "address": "광주 광산구  무진대로231번길 28 복권세상",
   "phone": "062-430-9072",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,26 @@
   ],
   "latitude": 35.163257,
   "longitude": 126.806362,
-  "updated_at": "2026-01-12T11:27:01.214079"
+  "updated_at": "2026-02-03T18:28:39.212047",
+  "first_prize_draws": [
+    638
+  ],
+  "second_prize_draws": [
+    1191,
+    1158,
+    979,
+    891,
+    872,
+    852,
+    697,
+    660,
+    637,
+    557,
+    555,
+    425,
+    418,
+    388
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 14
 }

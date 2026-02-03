@@ -1,7 +1,7 @@
 {
   "store_id": "11190024",
   "name": "노다지복권방",
-  "address": "서울 강동구 천호대로170길 47 ",
+  "address": "서울 강동구 성내동 383-20번지 1층",
   "phone": "02-482-0539",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 37.533261,
   "longitude": 127.132616,
-  "updated_at": "2026-01-12T11:29:39.674107"
+  "updated_at": "2026-02-03T17:58:09.757947",
+  "first_prize_draws": [
+    679,
+    327
+  ],
+  "second_prize_draws": [
+    817,
+    487,
+    474,
+    269
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 4
 }

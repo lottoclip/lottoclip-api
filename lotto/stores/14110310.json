@@ -1,7 +1,7 @@
 {
   "store_id": "14110310",
   "name": "로또박사",
-  "address": "경기 의정부시 신곡동  760-2번지 세명프라자1층",
+  "address": "경기 의정부시 신곡동(신곡2동) 760-2 ",
   "phone": "031-853-0293",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,14 @@
   ],
   "latitude": 37.749482,
   "longitude": 127.069355,
-  "updated_at": "2026-01-12T11:28:27.453254"
+  "updated_at": "2026-02-03T17:55:54.948151",
+  "first_prize_draws": [
+    661
+  ],
+  "second_prize_draws": [
+    786,
+    779
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

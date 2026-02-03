@@ -1,7 +1,7 @@
 {
   "store_id": "14120108",
   "name": "늘~행복나눔(터)",
-  "address": "경기 이천시 중부대로 139 ",
+  "address": "경기 이천시  중부대로 139 1층",
   "phone": "031-631-5606",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 37.255906,
   "longitude": 127.351759,
-  "updated_at": "2026-01-12T11:55:11.352703"
+  "updated_at": "2026-02-03T18:21:28.995848",
+  "first_prize_draws": [
+    1102,
+    978
+  ],
+  "second_prize_draws": [
+    1102,
+    1024,
+    888
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 3
 }

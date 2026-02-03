@@ -1,7 +1,7 @@
 {
   "store_id": "11100782",
   "name": "MS마트",
-  "address": "서울 광진구 광나루로 546 ",
+  "address": "서울 광진구  광나루로 546 ",
   "phone": "02-458-8649",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 37.544514,
   "longitude": 127.090131,
-  "updated_at": "2026-01-12T11:59:43.939106"
+  "updated_at": "2026-02-03T18:27:20.280236",
+  "first_prize_draws": [
+    1173
+  ],
+  "second_prize_draws": [
+    859,
+    768,
+    738,
+    527,
+    480,
+    426,
+    394,
+    330,
+    298
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 9
 }

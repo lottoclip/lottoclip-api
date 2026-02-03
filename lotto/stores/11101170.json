@@ -1,7 +1,7 @@
 {
   "store_id": "11101170",
   "name": "베네시티앞가판",
-  "address": "서울 강동구 올림픽로 664 ",
+  "address": "서울 강동구  올림픽로 664 대우베네시티cafe7gram앞",
   "phone": "02-473-1128",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 37.540554,
   "longitude": 127.124976,
-  "updated_at": "2026-01-12T11:49:25.106327"
+  "updated_at": "2026-02-03T18:14:29.590418",
+  "first_prize_draws": [
+    1017,
+    622
+  ],
+  "second_prize_draws": [
+    869,
+    737,
+    704,
+    632,
+    425,
+    381,
+    340,
+    299
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 8
 }

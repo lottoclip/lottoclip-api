@@ -1,7 +1,7 @@
 {
   "store_id": "14141860",
   "name": "로또 복권방",
-  "address": "경기 양주시 칠봉산로 195-7 ",
+  "address": "경기 양주시  칠봉산로 195-7 102호(봉양동)",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,12 @@
   ],
   "latitude": 37.851796,
   "longitude": 127.077509,
-  "updated_at": "2026-01-12T12:01:17.054722"
+  "updated_at": "2026-02-03T18:29:05.639715",
+  "first_prize_draws": [
+    1197,
+    1115
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 2,
+  "second_prize_count": 0
 }

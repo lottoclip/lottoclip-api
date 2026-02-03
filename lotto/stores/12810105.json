@@ -1,12 +1,32 @@
 {
   "store_id": "12810105",
   "name": "복권방",
-  "address": "인천 남동구 백범로 123 ",
+  "address": "인천 남동구  백범로 123 cu편의점",
   "phone": "032-469-6204",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.454596,
   "longitude": 126.733125,
-  "updated_at": "2026-01-12T11:48:22.589663"
+  "updated_at": "2026-02-03T18:23:17.594430",
+  "first_prize_draws": [
+    1002,
+    479
+  ],
+  "second_prize_draws": [
+    1124,
+    1038,
+    991,
+    960,
+    952,
+    928,
+    894,
+    863,
+    826,
+    741,
+    546,
+    466
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 12
 }

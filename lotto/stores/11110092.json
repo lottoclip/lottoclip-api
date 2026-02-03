@@ -1,12 +1,29 @@
 {
   "store_id": "11110092",
   "name": "가로판매점",
-  "address": "서울 서초구 동작대로 118 ",
+  "address": "서울 서초구  동작대로 118 ",
   "phone": "02-534-0543",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.486999,
   "longitude": 126.982536,
-  "updated_at": "2026-01-12T11:42:17.525875"
+  "updated_at": "2026-02-03T18:27:06.704760",
+  "first_prize_draws": [
+    895
+  ],
+  "second_prize_draws": [
+    1170,
+    1130,
+    1052,
+    1019,
+    890,
+    850,
+    787,
+    607,
+    426,
+    371
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

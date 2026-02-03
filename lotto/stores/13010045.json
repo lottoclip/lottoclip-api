@@ -1,0 +1,27 @@
+{
+  "store_id": "13010045",
+  "name": "대박복권방",
+  "address": "대전 서구  갈마로 56 ",
+  "phone": "042-522-2520",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.347371,
+  "longitude": 127.36922,
+  "updated_at": "2026-02-03T18:15:06.357918",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1022,
+    943,
+    921,
+    900,
+    896,
+    762,
+    643,
+    416
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 8
+}

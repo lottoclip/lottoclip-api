@@ -1,7 +1,7 @@
 {
   "store_id": "11141739",
   "name": "오케이상사",
-  "address": "서울 서초구 신반포로 176 ",
+  "address": "서울 서초구 신반포로 176 센트럴시티내100호매점  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 37.505552,
   "longitude": 127.003566,
-  "updated_at": "2026-01-12T12:01:16.998154"
+  "updated_at": "2026-02-03T18:29:40.265581",
+  "first_prize_draws": [
+    1197,
+    1184,
+    1162
+  ],
+  "second_prize_draws": [
+    1205,
+    1204,
+    1202,
+    1198,
+    1195,
+    1170,
+    1168,
+    1166
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 8
 }

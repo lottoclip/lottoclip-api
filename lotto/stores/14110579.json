@@ -1,7 +1,7 @@
 {
   "store_id": "14110579",
   "name": "산본전기",
-  "address": "경기 군포시 번영로 514 ",
+  "address": "경기 군포시  번영로 514 현대프라자105호",
   "phone": "031-391-1787",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.358084,
   "longitude": 126.934246,
-  "updated_at": "2026-01-12T11:16:52.645205"
+  "updated_at": "2026-02-03T18:28:17.075977",
+  "first_prize_draws": [
+    459
+  ],
+  "second_prize_draws": [
+    1186,
+    1132,
+    1082,
+    1032,
+    716,
+    508,
+    467
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

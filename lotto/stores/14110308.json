@@ -1,0 +1,24 @@
+{
+  "store_id": "14110308",
+  "name": "서울로또",
+  "address": "경기 의정부시  신흥로 93 ",
+  "phone": "031-871-9371",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.724427,
+  "longitude": 127.043527,
+  "updated_at": "2026-02-03T18:15:31.865339",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1028,
+    999,
+    865,
+    745,
+    659
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 5
+}

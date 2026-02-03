@@ -1,7 +1,7 @@
 {
   "store_id": "14290061",
   "name": "삼성24시편의점",
-  "address": "강원 원주시 원일로 162 ",
+  "address": "강원 원주시 학성동(중앙동) 212-11 1층",
   "phone": "033-745-5056",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 37.352927,
   "longitude": 127.946614,
-  "updated_at": "2026-01-12T11:17:07.945125"
+  "updated_at": "2026-02-03T18:02:07.008995",
+  "first_prize_draws": [
+    464
+  ],
+  "second_prize_draws": [
+    866,
+    781,
+    774,
+    645
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "12600348",
   "name": "행운복권",
-  "address": "부산 남구 석포로 132 ",
+  "address": "부산 남구  석포로 132 ",
   "phone": "051-623-2900",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 35.128799,
   "longitude": 129.091744,
-  "updated_at": "2026-01-12T11:27:41.161037"
+  "updated_at": "2026-02-03T18:21:33.051389",
+  "first_prize_draws": [
+    646,
+    296
+  ],
+  "second_prize_draws": [
+    1103,
+    983,
+    872,
+    604
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 4
 }

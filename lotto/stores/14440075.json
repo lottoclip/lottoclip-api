@@ -1,7 +1,7 @@
 {
   "store_id": "14440075",
   "name": "찬누리",
-  "address": "충남 부여군 사비로 61 ",
+  "address": "충남 부여군  사비로 61 ",
   "phone": "041-835-9981",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 36.277967,
   "longitude": 126.910311,
-  "updated_at": "2026-01-12T11:59:08.938228"
+  "updated_at": "2026-02-03T18:26:58.350684",
+  "first_prize_draws": [
+    1162,
+    883
+  ],
+  "second_prize_draws": [
+    1168
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 1
 }

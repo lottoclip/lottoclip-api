@@ -1,7 +1,7 @@
 {
   "store_id": "13040057",
   "name": "온천로또방",
-  "address": "대전 유성구 계룡로 92 ",
+  "address": "대전 유성구 계룡로 92 1층 101-3호  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,28 @@
   ],
   "latitude": 36.353638,
   "longitude": 127.341189,
-  "updated_at": "2026-01-12T11:58:58.994865"
+  "updated_at": "2026-02-03T18:29:40.468766",
+  "first_prize_draws": [
+    1159,
+    1158,
+    1040,
+    968
+  ],
+  "second_prize_draws": [
+    1205,
+    1188,
+    1186,
+    1182,
+    1157,
+    1154,
+    1069,
+    1054,
+    1025,
+    956,
+    952,
+    951,
+    946
+  ],
+  "first_prize_count": 4,
+  "second_prize_count": 13
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "11101572",
   "name": "복사문구",
-  "address": "서울 강동구 양재대로 1549 ",
+  "address": "서울 강동구  양재대로 1549 ",
   "phone": "02-485-6852",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 37.544048,
   "longitude": 127.142054,
-  "updated_at": "2026-01-12T11:19:53.548870"
+  "updated_at": "2026-02-03T18:25:59.600328",
+  "first_prize_draws": [
+    512
+  ],
+  "second_prize_draws": [
+    1158,
+    1000,
+    600,
+    569
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

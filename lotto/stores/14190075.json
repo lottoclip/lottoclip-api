@@ -1,7 +1,7 @@
 {
   "store_id": "14190075",
   "name": "대박복권방",
-  "address": "경기 성남시 중원구 금상로57번길 5 ",
+  "address": "경기 성남시 중원구  금상로57번길 5 ",
   "phone": "031-735-0477",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 37.440576,
   "longitude": 127.162123,
-  "updated_at": "2026-01-12T11:13:10.100622"
+  "updated_at": "2026-02-03T18:19:54.346790",
+  "first_prize_draws": [
+    402
+  ],
+  "second_prize_draws": [
+    1080,
+    978,
+    520
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

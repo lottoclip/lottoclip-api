@@ -1,7 +1,7 @@
 {
   "store_id": "11110676",
-  "name": "경남복권방",
-  "address": "서울 강북구 도봉로50길 11 ",
+  "name": "로또플러스",
+  "address": "서울 강북구  도봉로50길 11 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.625604,
   "longitude": 127.027345,
-  "updated_at": "2026-01-12T11:25:28.042477"
+  "updated_at": "2026-02-03T18:17:45.704850",
+  "first_prize_draws": [
+    609
+  ],
+  "second_prize_draws": [
+    1055,
+    1029,
+    1026,
+    1012,
+    863,
+    429,
+    339
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

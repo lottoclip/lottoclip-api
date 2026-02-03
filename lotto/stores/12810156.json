@@ -1,0 +1,24 @@
+{
+  "store_id": "12810156",
+  "name": "로또판매점(버스매표소)",
+  "address": "인천 남동구  인하로 495 ",
+  "phone": "032-421-5410",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.443428,
+  "longitude": 126.701776,
+  "updated_at": "2026-02-03T18:13:59.808223",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1010,
+    906,
+    865,
+    717,
+    570
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 5
+}

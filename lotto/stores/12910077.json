@@ -1,7 +1,7 @@
 {
   "store_id": "12910077",
   "name": "훼미리로또",
-  "address": "광주 남구 봉선로 164 ",
+  "address": "광주 남구  봉선로 164 삼환빌딩 CU봉선쌍용점 내",
   "phone": "062-654-0613",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 35.122723,
   "longitude": 126.913177,
-  "updated_at": "2026-01-12T11:45:42.689256"
+  "updated_at": "2026-02-03T18:12:46.725485",
+  "first_prize_draws": [
+    956,
+    664,
+    575
+  ],
+  "second_prize_draws": [
+    993,
+    946,
+    941,
+    936,
+    912,
+    522,
+    483,
+    264
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 8
 }

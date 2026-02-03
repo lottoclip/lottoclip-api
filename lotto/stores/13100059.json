@@ -1,7 +1,7 @@
 {
   "store_id": "13100059",
-  "name": "대박복권방",
-  "address": "울산 울주군 구영로 162 ",
+  "name": "대박복권 편의점",
+  "address": "울산 울주군  구영로 162 1층 102호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 35.568239,
   "longitude": 129.243726,
-  "updated_at": "2026-01-12T11:20:06.062279"
+  "updated_at": "2026-02-03T18:28:07.971268",
+  "first_prize_draws": [
+    516
+  ],
+  "second_prize_draws": [
+    1184,
+    1103,
+    1019,
+    872,
+    806,
+    681,
+    626,
+    498,
+    360,
+    338
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

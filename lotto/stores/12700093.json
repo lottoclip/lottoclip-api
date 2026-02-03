@@ -1,0 +1,26 @@
+{
+  "store_id": "12700093",
+  "name": "복권명당",
+  "address": "대구 달서구  구마로 138 1층7호",
+  "phone": "053-651-8648",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.837078,
+  "longitude": 128.542764,
+  "updated_at": "2026-02-03T18:29:35.989680",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1204,
+    1152,
+    1125,
+    1101,
+    1058,
+    1048,
+    361
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 7
+}

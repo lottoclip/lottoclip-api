@@ -1,7 +1,7 @@
 {
   "store_id": "14790042",
   "name": "GMART",
-  "address": "경북 구미시 구미중앙로 57-3 ",
+  "address": "경북 구미시  구미중앙로 57-3 ",
   "phone": "054-457-8488",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 36.130029,
   "longitude": 128.329052,
-  "updated_at": "2026-01-12T12:00:22.664368"
+  "updated_at": "2026-02-03T18:28:12.837899",
+  "first_prize_draws": [
+    1185,
+    972,
+    943
+  ],
+  "second_prize_draws": [
+    1164,
+    1022,
+    968,
+    936,
+    886,
+    821,
+    526,
+    492,
+    370
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 9
 }

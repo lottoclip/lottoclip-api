@@ -1,7 +1,7 @@
 {
   "store_id": "14140865",
   "name": "동행복권",
-  "address": "경기 양주시 독바위로 79-13 ",
+  "address": "경기 양주시  독바위로 79-13 c동 10호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 37.835078,
   "longitude": 127.065129,
-  "updated_at": "2026-01-12T11:51:09.272242"
+  "updated_at": "2026-02-03T18:27:51.108048",
+  "first_prize_draws": [
+    1045
+  ],
+  "second_prize_draws": [
+    1180,
+    1095
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

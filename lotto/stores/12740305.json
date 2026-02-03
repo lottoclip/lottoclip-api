@@ -1,7 +1,7 @@
 {
   "store_id": "12740305",
   "name": "행복한복권",
-  "address": "대구 수성구 지범로31길 7 ",
+  "address": "대구 수성구  지범로31길 7 우측상가(지산동)",
   "phone": "05-300-0000",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,11 @@
   ],
   "latitude": 35.82267,
   "longitude": 128.63895,
-  "updated_at": "2026-01-12T12:01:41.402864"
+  "updated_at": "2026-02-03T18:29:18.117826",
+  "first_prize_draws": [
+    1200
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14420025",
   "name": "1등행운로또",
-  "address": "충남 아산시 온천대로 1315 ",
+  "address": "충남 아산시 방축동 162-25 ",
   "phone": "041-532-0788",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 36.78663,
   "longitude": 126.98499,
-  "updated_at": "2026-01-12T11:38:16.916338"
+  "updated_at": "2026-02-03T18:04:10.447139",
+  "first_prize_draws": [
+    828
+  ],
+  "second_prize_draws": [
+    891,
+    839,
+    696
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

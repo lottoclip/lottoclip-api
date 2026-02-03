@@ -1,7 +1,7 @@
 {
   "store_id": "12900148",
   "name": "알리바이(쌍촌점)",
-  "address": "광주 서구 내방로 258 ",
+  "address": "광주 서구 쌍촌동(상무1동) 249-8 알리바이편의점내",
   "phone": "062-375-1282",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,11 @@
   ],
   "latitude": 35.157599,
   "longitude": 126.868717,
-  "updated_at": "2026-01-12T11:35:58.043978"
+  "updated_at": "2026-02-03T17:55:44.254846",
+  "first_prize_draws": [
+    784
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

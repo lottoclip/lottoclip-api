@@ -1,7 +1,7 @@
 {
   "store_id": "24400008",
-  "name": "GS25(천안성정)",
-  "address": "충남 천안시 성정동  193-17번지",
+  "name": "GS25(쌍용한빛점)",
+  "address": "충남 천안시 서북구  월봉4로 26-1 ",
   "phone": "041-577-4408",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 36.790472,
   "longitude": 127.117039,
-  "updated_at": "2026-01-12T11:05:02.117016"
+  "updated_at": "2026-02-03T18:08:05.841510",
+  "first_prize_draws": [
+    267
+  ],
+  "second_prize_draws": [
+    938,
+    812,
+    727
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

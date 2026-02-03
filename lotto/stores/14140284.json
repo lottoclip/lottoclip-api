@@ -1,7 +1,7 @@
 {
   "store_id": "14140284",
   "name": "럭키로또카페",
-  "address": "경기 광주시 회안대로 13 ",
+  "address": "경기 광주시  회안대로 13 매산제일교회 건물 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 37.356576,
   "longitude": 127.245915,
-  "updated_at": "2026-01-12T11:56:07.970960"
+  "updated_at": "2026-02-03T18:26:04.443820",
+  "first_prize_draws": [
+    1115,
+    1056
+  ],
+  "second_prize_draws": [
+    1159,
+    1140,
+    905,
+    833,
+    792
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 5
 }

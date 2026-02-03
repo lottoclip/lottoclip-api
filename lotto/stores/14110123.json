@@ -1,12 +1,21 @@
 {
   "store_id": "14110123",
   "name": "오또로또",
-  "address": "경기 이천시 마장면 오천리 283-15",
+  "address": "경기 이천시 마장면  오천리 283-15",
   "phone": "031-631-2261",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.253736,
   "longitude": 127.352304,
-  "updated_at": "2026-01-12T11:10:00.343622"
+  "updated_at": "2026-02-03T17:27:23.107145",
+  "first_prize_draws": [
+    350
+  ],
+  "second_prize_draws": [
+    422,
+    273
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

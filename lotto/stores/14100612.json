@@ -1,7 +1,7 @@
 {
   "store_id": "14100612",
   "name": "복권",
-  "address": "경기 의정부시 태평로 75 ",
+  "address": "경기 의정부시  태평로 75 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,25 @@
   ],
   "latitude": 37.739248,
   "longitude": 127.051294,
-  "updated_at": "2026-01-12T11:58:40.045055"
+  "updated_at": "2026-02-03T18:28:12.592105",
+  "first_prize_draws": [
+    1153,
+    1151,
+    1061
+  ],
+  "second_prize_draws": [
+    1185,
+    1139,
+    1126,
+    1097,
+    985,
+    936,
+    935,
+    796,
+    763,
+    711,
+    630
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 11
 }

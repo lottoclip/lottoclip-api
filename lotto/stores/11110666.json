@@ -1,7 +1,7 @@
 {
   "store_id": "11110666",
   "name": "코코주",
-  "address": "서울 중구 을지로6가 18-79번지 ",
+  "address": "서울 중구 을지로6가(광희동) 18-71 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 37.567972,
   "longitude": 127.008873,
-  "updated_at": "2026-01-12T11:31:09.948286"
+  "updated_at": "2026-02-03T18:00:17.736869",
+  "first_prize_draws": [
+    703,
+    482
+  ],
+  "second_prize_draws": [
+    841,
+    725,
+    634,
+    625,
+    602,
+    601,
+    369,
+    354,
+    285
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 9
 }

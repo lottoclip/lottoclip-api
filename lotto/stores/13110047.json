@@ -1,7 +1,7 @@
 {
   "store_id": "13110047",
-  "name": "로또복권문수점",
-  "address": "울산 남구 무거동  1195-9번지CU마트점포 내",
+  "name": "cu무거삼호점",
+  "address": "울산 남구 무거동(삼호동) 1195-9 CU무거삼호점 내",
   "phone": "052-221-0747",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,15 @@
   ],
   "latitude": 35.551675,
   "longitude": 129.274564,
-  "updated_at": "2026-01-12T11:22:45.384800"
+  "updated_at": "2026-02-03T17:49:02.401341",
+  "first_prize_draws": [
+    562,
+    321
+  ],
+  "second_prize_draws": [
+    710,
+    375
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 2
 }

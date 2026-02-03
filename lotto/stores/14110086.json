@@ -1,7 +1,7 @@
 {
   "store_id": "14110086",
   "name": "둘리복권방",
-  "address": "경기 시흥시 중심상가2길 12-6 ",
+  "address": "경기 시흥시  중심상가2길 12-6 한강프라자제1층101호",
   "phone": "031-319-3653",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 37.345314,
   "longitude": 126.736259,
-  "updated_at": "2026-01-12T11:54:42.700204"
+  "updated_at": "2026-02-03T18:20:50.666287",
+  "first_prize_draws": [
+    1093,
+    1060,
+    979,
+    777
+  ],
+  "second_prize_draws": [
+    972,
+    582,
+    488,
+    324,
+    270
+  ],
+  "first_prize_count": 4,
+  "second_prize_count": 5
 }

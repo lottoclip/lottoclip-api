@@ -1,7 +1,7 @@
 {
   "store_id": "12890056",
   "name": "왕대박복권편의점",
-  "address": "인천 부평구 동수천로 108 ",
+  "address": "인천 부평구  동수천로 108 1층",
   "phone": "032-505-0943",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.495103,
   "longitude": 126.73705,
-  "updated_at": "2026-01-12T11:52:25.009712"
+  "updated_at": "2026-02-03T18:18:29.394050",
+  "first_prize_draws": [
+    1064,
+    654,
+    642,
+    562,
+    531
+  ],
+  "second_prize_draws": [
+    776,
+    750,
+    574
+  ],
+  "first_prize_count": 5,
+  "second_prize_count": 3
 }

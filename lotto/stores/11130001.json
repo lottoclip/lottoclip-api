@@ -1,7 +1,7 @@
 {
   "store_id": "11130001",
   "name": "GS25(동묘역점)",
-  "address": "서울 종로구 숭인동(숭인제2동) 310 ",
+  "address": "서울 종로구  종로 344 대우디오빌(GS동묘역점)",
   "phone": "02-2253-0123",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 37.572722,
   "longitude": 127.016083,
-  "updated_at": "2026-01-12T11:34:36.542207"
+  "updated_at": "2026-02-03T18:27:11.503291",
+  "first_prize_draws": [
+    763
+  ],
+  "second_prize_draws": [
+    1171,
+    1051,
+    994,
+    935,
+    861,
+    786
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

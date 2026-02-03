@@ -1,7 +1,7 @@
 {
   "store_id": "13040174",
   "name": "히든로또",
-  "address": "대전 대덕구 대화로 119 ",
+  "address": "대전 대덕구  대화로 119 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 36.36594,
   "longitude": 127.406848,
-  "updated_at": "2026-01-12T11:57:30.082394"
+  "updated_at": "2026-02-03T18:28:30.019095",
+  "first_prize_draws": [
+    1136
+  ],
+  "second_prize_draws": [
+    1189
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

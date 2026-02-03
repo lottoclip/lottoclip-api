@@ -1,7 +1,7 @@
 {
   "store_id": "12710167",
-  "name": "훼미리마트관음점",
-  "address": "대구 북구 관음동  1386-5",
+  "name": "CU칠곡점",
+  "address": "대구 북구  칠곡중앙대로 475 ",
   "phone": "053-326-5507",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,25 @@
   ],
   "latitude": 35.938195,
   "longitude": 128.54905,
-  "updated_at": "2026-01-12T11:09:17.846515"
+  "updated_at": "2026-02-03T18:20:33.219406",
+  "first_prize_draws": [
+    341,
+    316
+  ],
+  "second_prize_draws": [
+    1089,
+    970,
+    798,
+    708,
+    660,
+    647,
+    583,
+    527,
+    405,
+    398,
+    388,
+    376
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 12
 }

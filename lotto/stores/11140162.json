@@ -1,7 +1,7 @@
 {
   "store_id": "11140162",
   "name": "플러스복권",
-  "address": "서울 강서구 공항대로41길 34 ",
+  "address": "서울 강서구  공항대로41길 34 1층 113B호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 37.559271,
   "longitude": 126.845692,
-  "updated_at": "2026-01-12T11:58:36.560854"
+  "updated_at": "2026-02-03T18:25:33.567921",
+  "first_prize_draws": [
+    1152
+  ],
+  "second_prize_draws": [
+    1137,
+    1120
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

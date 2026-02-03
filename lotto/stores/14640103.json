@@ -1,7 +1,7 @@
 {
   "store_id": "14640103",
   "name": "알리바이한전공대점",
-  "address": "전남 나주시 빛가람로 793 ",
+  "address": "전남 나주시  빛가람로 793 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 35.0214,
   "longitude": 126.79864,
-  "updated_at": "2026-01-12T11:55:11.374371"
+  "updated_at": "2026-02-03T18:23:52.761159",
+  "first_prize_draws": [
+    1102
+  ],
+  "second_prize_draws": [
+    1132,
+    1096
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

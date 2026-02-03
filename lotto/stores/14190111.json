@@ -1,7 +1,7 @@
 {
   "store_id": "14190111",
   "name": "복권명당",
-  "address": "경기 안산시 단원구 선부로 258 ",
+  "address": "경기 안산시 단원구  선부로 258 102호",
   "phone": "031-403-5282",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 37.341152,
   "longitude": 126.823626,
-  "updated_at": "2026-01-12T11:58:52.534663"
+  "updated_at": "2026-02-03T18:28:03.707784",
+  "first_prize_draws": [
+    1157
+  ],
+  "second_prize_draws": [
+    1183,
+    1121,
+    705,
+    698
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

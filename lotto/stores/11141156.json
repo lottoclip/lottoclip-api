@@ -1,7 +1,7 @@
 {
   "store_id": "11141156",
   "name": "로또 천왕점",
-  "address": "서울 구로구 오리로 1097-7 ",
+  "address": "서울 구로구  오리로 1097-7 (천왕동)",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 37.482737,
   "longitude": 126.842391,
-  "updated_at": "2026-01-12T11:58:17.320744"
+  "updated_at": "2026-02-03T18:27:20.287642",
+  "first_prize_draws": [
+    1146
+  ],
+  "second_prize_draws": [
+    1173
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

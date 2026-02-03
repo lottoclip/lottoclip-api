@@ -1,7 +1,7 @@
 {
   "store_id": "13100044",
   "name": "CN마트",
-  "address": "울산 동구 대학길 42 ",
+  "address": "울산 동구  대학길 76 1층102호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 35.498521,
   "longitude": 129.42026,
-  "updated_at": "2026-01-12T11:38:01.251762"
+  "updated_at": "2026-02-03T18:24:43.524216",
+  "first_prize_draws": [
+    823,
+    565
+  ],
+  "second_prize_draws": [
+    1144,
+    1066,
+    870,
+    813,
+    357,
+    289,
+    272
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 7
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14940063",
   "name": "네잎크로버복권방",
-  "address": "제주 서귀포시 고성오조로 9 ",
+  "address": "제주 서귀포시  고성오조로 9 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 33.44472,
   "longitude": 126.91338,
-  "updated_at": "2026-01-12T11:59:08.976565"
+  "updated_at": "2026-02-03T18:26:32.984288",
+  "first_prize_draws": [
+    1162,
+    1058
+  ],
+  "second_prize_draws": [
+    1103,
+    1063
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 2
 }

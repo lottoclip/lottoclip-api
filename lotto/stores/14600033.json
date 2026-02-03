@@ -1,7 +1,7 @@
 {
   "store_id": "14600033",
   "name": "이삭",
-  "address": "전남 목포시 남악2로 54 ",
+  "address": "전남 목포시  남악2로 54 남악프라자A동103호",
   "phone": "061-287-4545",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 34.809926,
   "longitude": 126.455258,
-  "updated_at": "2026-01-12T11:55:08.160762"
+  "updated_at": "2026-02-03T18:26:49.995729",
+  "first_prize_draws": [
+    1101,
+    792,
+    789,
+    539
+  ],
+  "second_prize_draws": [
+    1166,
+    1128,
+    953,
+    941,
+    852,
+    800,
+    672,
+    572,
+    430
+  ],
+  "first_prize_count": 4,
+  "second_prize_count": 9
 }

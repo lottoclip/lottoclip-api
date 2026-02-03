@@ -1,12 +1,23 @@
 {
   "store_id": "14130064",
   "name": "GS25송탄터미널점",
-  "address": "경기 평택시 발안로 1010 ",
+  "address": "경기 평택시  송탄로 412-1 ",
   "phone": null,
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.128867,
   "longitude": 127.013298,
-  "updated_at": "2026-01-12T11:47:44.681650"
+  "updated_at": "2026-02-03T18:13:21.005530",
+  "first_prize_draws": [
+    990
+  ],
+  "second_prize_draws": [
+    1001,
+    893,
+    882,
+    798
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

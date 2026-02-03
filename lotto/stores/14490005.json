@@ -1,7 +1,7 @@
 {
   "store_id": "14490005",
   "name": "논산복권방",
-  "address": "충남 논산시 계백로 1016 ",
+  "address": "충남 논산시  계백로 1016 ",
   "phone": "041-734-7864",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 36.204013,
   "longitude": 127.089699,
-  "updated_at": "2026-01-12T11:16:58.823690"
+  "updated_at": "2026-02-03T18:28:25.744886",
+  "first_prize_draws": [
+    461
+  ],
+  "second_prize_draws": [
+    1188,
+    1042,
+    1017,
+    880,
+    844,
+    795,
+    761,
+    638,
+    484,
+    385,
+    380,
+    276
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 12
 }

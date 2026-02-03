@@ -1,7 +1,7 @@
 {
   "store_id": "12720002",
   "name": "GS로또(남대구IC점)",
-  "address": "대구 달서구 성서공단로 346 ",
+  "address": "대구 달서구  성서공단로 346 1층 GS편의점",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,19 @@
   ],
   "latitude": 35.836325,
   "longitude": 128.52068,
-  "updated_at": "2026-01-12T11:59:50.510946"
+  "updated_at": "2026-02-03T18:27:29.410396",
+  "first_prize_draws": [
+    1175,
+    1108
+  ],
+  "second_prize_draws": [
+    1018,
+    994,
+    976,
+    873,
+    814,
+    781
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 6
 }

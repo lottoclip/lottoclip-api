@@ -1,7 +1,7 @@
 {
   "store_id": "11100326",
   "name": "경남마트",
-  "address": "서울 구로구 고척로52길 22 ",
+  "address": "서울 구로구  고척로52길 21 경남상가201호",
   "phone": "02-2616-7455",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 37.504067,
   "longitude": 126.856148,
-  "updated_at": "2026-01-12T11:06:35.888270"
+  "updated_at": "2026-02-03T18:27:15.966474",
+  "first_prize_draws": [
+    293
+  ],
+  "second_prize_draws": [
+    1172,
+    1142,
+    1134,
+    1064
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

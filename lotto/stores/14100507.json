@@ -1,7 +1,7 @@
 {
   "store_id": "14100507",
-  "name": "가판점",
-  "address": "경기 성남시 수정구 수정로 188 ",
+  "name": "신흥1동 가판점",
+  "address": "경기 성남시 수정구  수정로 188 ",
   "phone": "031-751-7429",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.443333,
   "longitude": 127.140709,
-  "updated_at": "2026-01-12T11:33:36.850009"
+  "updated_at": "2026-02-03T18:26:54.089120",
+  "first_prize_draws": [
+    744
+  ],
+  "second_prize_draws": [
+    1167,
+    893,
+    837,
+    752,
+    741,
+    679,
+    456
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

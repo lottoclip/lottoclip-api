@@ -1,7 +1,7 @@
 {
   "store_id": "11190218",
   "name": "ANY25",
-  "address": "서울 종로구 창경궁로 137 ",
+  "address": "서울 종로구 원남동  282 1층",
   "phone": "02-766-0409",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 37.574616,
   "longitude": 126.997253,
-  "updated_at": "2026-01-12T11:18:44.298128"
+  "updated_at": "2026-02-03T17:34:50.382400",
+  "first_prize_draws": [
+    495,
+    489
+  ],
+  "second_prize_draws": [
+    533,
+    423
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 2
 }

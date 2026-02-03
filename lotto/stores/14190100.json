@@ -1,7 +1,7 @@
 {
   "store_id": "14190100",
   "name": "행운이랑대박이랑",
-  "address": "경기 수원시 장안구 만석로 99 ",
+  "address": "경기 수원시 장안구  만석로 99 ",
   "phone": "031-255-5888",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 37.298913,
   "longitude": 126.992041,
-  "updated_at": "2026-01-12T11:22:17.734943"
+  "updated_at": "2026-02-03T18:29:22.704134",
+  "first_prize_draws": [
+    558
+  ],
+  "second_prize_draws": [
+    1201,
+    1009,
+    937,
+    917,
+    865,
+    792,
+    565,
+    533,
+    513,
+    383,
+    373
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 11
 }

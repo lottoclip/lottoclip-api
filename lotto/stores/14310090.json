@@ -1,7 +1,7 @@
 {
   "store_id": "14310090",
   "name": "보은로또",
-  "address": "충북 보은군 보은로 140-1 ",
+  "address": "충북 보은군  보은로 140-1 ",
   "phone": "043-543-2119",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 36.48669,
   "longitude": 127.718001,
-  "updated_at": "2026-01-12T11:59:28.124271"
+  "updated_at": "2026-02-03T18:27:07.179366",
+  "first_prize_draws": [
+    1168
+  ],
+  "second_prize_draws": [
+    1170,
+    1008,
+    935,
+    891,
+    664,
+    465
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

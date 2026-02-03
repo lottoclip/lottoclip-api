@@ -1,12 +1,23 @@
 {
   "store_id": "21100427",
   "name": "CU(용두으뜸점)",
-  "address": "서울 동대문구 용두동 730-1번지 ",
+  "address": "서울 동대문구  안암로 52 ",
   "phone": "02-923-0223",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.581232,
   "longitude": 127.027785,
-  "updated_at": "2026-01-12T11:44:18.278062"
+  "updated_at": "2026-02-03T18:15:18.765932",
+  "first_prize_draws": [
+    929
+  ],
+  "second_prize_draws": [
+    1025,
+    880,
+    850,
+    433
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

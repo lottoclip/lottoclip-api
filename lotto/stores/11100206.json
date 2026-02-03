@@ -1,7 +1,7 @@
 {
   "store_id": "11100206",
   "name": "복권마트",
-  "address": "서울 서대문구 세검정로 31 ",
+  "address": "서울 서대문구  세검정로 31 ",
   "phone": "02-396-9195",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 37.591907,
   "longitude": 126.944885,
-  "updated_at": "2026-01-12T11:40:13.253850"
+  "updated_at": "2026-02-03T18:25:19.689888",
+  "first_prize_draws": [
+    865
+  ],
+  "second_prize_draws": [
+    1149,
+    1061,
+    673,
+    671,
+    579,
+    507,
+    454,
+    328
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

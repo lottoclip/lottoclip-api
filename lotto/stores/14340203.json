@@ -1,7 +1,7 @@
 {
   "store_id": "14340203",
   "name": "터미널복권",
-  "address": "충북 충주시 봉계1길 49 ",
+  "address": "충북 충주시  봉계1길 49 충주터미널1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 36.981136,
   "longitude": 127.915026,
-  "updated_at": "2026-01-12T12:00:45.373490"
+  "updated_at": "2026-02-03T18:29:31.905990",
+  "first_prize_draws": [
+    1192,
+    1110
+  ],
+  "second_prize_draws": [
+    1203,
+    1165,
+    1136,
+    1103,
+    1066
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 5
 }

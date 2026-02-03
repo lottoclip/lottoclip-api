@@ -1,7 +1,7 @@
 {
   "store_id": "14800075",
   "name": "신라슈퍼",
-  "address": "경남 김해시 진영로 215 ",
+  "address": "경남 김해시  진영로 215 복권판매점",
   "phone": "055-342-1165",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 35.302759,
   "longitude": 128.736484,
-  "updated_at": "2026-01-12T11:12:21.220742"
+  "updated_at": "2026-02-03T18:14:43.323318",
+  "first_prize_draws": [
+    386
+  ],
+  "second_prize_draws": [
+    1020,
+    839,
+    587,
+    570,
+    501
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

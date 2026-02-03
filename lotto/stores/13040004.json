@@ -1,7 +1,7 @@
 {
   "store_id": "13040004",
   "name": "로또기업",
-  "address": "대전 동구 동서대로 1684 ",
+  "address": "대전 동구  동서대로 1684 복합터미널 건너편",
   "phone": "042-719-7777",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 36.348796,
   "longitude": 127.43712,
-  "updated_at": "2026-01-12T11:45:39.560793"
+  "updated_at": "2026-02-03T18:24:17.919987",
+  "first_prize_draws": [
+    955,
+    879
+  ],
+  "second_prize_draws": [
+    1138,
+    805,
+    803
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 3
 }

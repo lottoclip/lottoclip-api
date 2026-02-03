@@ -1,7 +1,7 @@
 {
   "store_id": "14110373",
   "name": "성명전력",
-  "address": "경기 동두천시 큰시장로 43 ",
+  "address": "경기 동두천시  큰시장로 43 ",
   "phone": "031-866-3733",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,28 @@
   ],
   "latitude": 37.900139,
   "longitude": 127.052917,
-  "updated_at": "2026-01-12T11:46:07.575556"
+  "updated_at": "2026-02-03T18:29:31.620034",
+  "first_prize_draws": [
+    964,
+    770
+  ],
+  "second_prize_draws": [
+    1203,
+    1189,
+    1034,
+    1015,
+    1003,
+    982,
+    954,
+    914,
+    866,
+    708,
+    697,
+    628,
+    573,
+    464,
+    310
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 15
 }

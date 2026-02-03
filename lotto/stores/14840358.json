@@ -1,7 +1,7 @@
 {
   "store_id": "14840358",
   "name": "로또명당 신마산점",
-  "address": "경남 창원시 마산합포구 문화동7길 3 ",
+  "address": "경남 창원시 마산합포구  문화동7길 3 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 35.184795,
   "longitude": 128.560599,
-  "updated_at": "2026-01-12T11:53:08.828531"
+  "updated_at": "2026-02-03T18:24:22.470819",
+  "first_prize_draws": [
+    1073,
+    995
+  ],
+  "second_prize_draws": [
+    1139,
+    1014
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 2
 }

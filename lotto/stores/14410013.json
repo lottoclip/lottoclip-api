@@ -1,7 +1,7 @@
 {
   "store_id": "14410013",
   "name": "로또온양온천점",
-  "address": "충남 아산시 읍내동  212",
+  "address": "충남 아산시 염치읍 곡교리 202-1 1호",
   "phone": "041-547-1520",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,16 @@
   ],
   "latitude": 36.808167,
   "longitude": 126.981269,
-  "updated_at": "2026-01-12T11:15:07.795261"
+  "updated_at": "2026-02-03T17:52:06.020742",
+  "first_prize_draws": [
+    435
+  ],
+  "second_prize_draws": [
+    741,
+    698,
+    584,
+    448
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

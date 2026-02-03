@@ -1,7 +1,7 @@
 {
   "store_id": "12700110",
   "name": "천하명당복권",
-  "address": "대구 북구 동북로 152 ",
+  "address": "대구 북구  동북로 152 ",
   "phone": "053-953-0212",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,28 @@
   ],
   "latitude": 35.899678,
   "longitude": 128.609473,
-  "updated_at": "2026-01-12T11:56:48.606686"
+  "updated_at": "2026-02-03T18:25:15.423352",
+  "first_prize_draws": [
+    1123,
+    976,
+    371
+  ],
+  "second_prize_draws": [
+    1148,
+    1111,
+    989,
+    988,
+    959,
+    731,
+    728,
+    714,
+    585,
+    573,
+    539,
+    506,
+    448,
+    359
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 14
 }

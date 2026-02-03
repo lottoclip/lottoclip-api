@@ -1,7 +1,7 @@
 {
   "store_id": "14320013",
   "name": "금능마트",
-  "address": "충북 충주시 후곡길 19 ",
+  "address": "충북 충주시  후곡길 19 금능마트",
   "phone": "043-843-9790",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 36.992549,
   "longitude": 127.931219,
-  "updated_at": "2026-01-12T11:45:26.818173"
+  "updated_at": "2026-02-03T18:09:23.085244",
+  "first_prize_draws": [
+    951,
+    940
+  ],
+  "second_prize_draws": [
+    835
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 1
 }

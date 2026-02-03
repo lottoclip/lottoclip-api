@@ -1,7 +1,7 @@
 {
   "store_id": "14840163",
   "name": "동행복권",
-  "address": "경남 사천시 중앙로 182-1 ",
+  "address": "경남 사천시  중앙로 182-1 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,11 @@
   ],
   "latitude": 34.942076,
   "longitude": 128.081016,
-  "updated_at": "2026-01-12T11:52:25.090597"
+  "updated_at": "2026-02-03T18:18:29.766786",
+  "first_prize_draws": [
+    1064
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

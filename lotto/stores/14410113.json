@@ -1,7 +1,7 @@
 {
   "store_id": "14410113",
   "name": "대박슈퍼",
-  "address": "세종   행복10길 3 ",
+  "address": "세종   행복10길 3 1층 101호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 36.603515,
   "longitude": 127.291206,
-  "updated_at": "2026-01-12T11:51:18.715627"
+  "updated_at": "2026-02-03T18:25:07.039761",
+  "first_prize_draws": [
+    1048,
+    990,
+    794
+  ],
+  "second_prize_draws": [
+    1146,
+    1111,
+    1008,
+    763,
+    704,
+    702,
+    674,
+    589,
+    543,
+    418
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 10
 }

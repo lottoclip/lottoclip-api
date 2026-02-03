@@ -1,7 +1,7 @@
 {
   "store_id": "11101186",
   "name": "가로판매점",
-  "address": "서울 금천구 시흥대로 480 ",
+  "address": "서울 금천구  시흥대로 480 가판",
   "phone": "02-3281-4127",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 37.47635,
   "longitude": 126.899064,
-  "updated_at": "2026-01-12T12:00:19.175292"
+  "updated_at": "2026-02-03T18:28:07.800761",
+  "first_prize_draws": [
+    1184,
+    745
+  ],
+  "second_prize_draws": [
+    1160,
+    949,
+    921,
+    739,
+    655,
+    510,
+    420
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 7
 }

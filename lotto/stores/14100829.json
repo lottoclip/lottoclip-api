@@ -1,7 +1,7 @@
 {
   "store_id": "14100829",
   "name": "로토피아",
-  "address": "경기 광명시 오리로 371 ",
+  "address": "경기 광명시 오리로 371 상가1층102호  ",
   "phone": "02-899-0789",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 37.435595,
   "longitude": 126.879249,
-  "updated_at": "2026-01-12T12:01:17.030614"
+  "updated_at": "2026-02-03T18:29:40.491372",
+  "first_prize_draws": [
+    1197,
+    824,
+    488
+  ],
+  "second_prize_draws": [
+    1205,
+    1180,
+    1143,
+    904,
+    810,
+    536,
+    517,
+    297,
+    266
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 9
 }

@@ -1,0 +1,27 @@
+{
+  "store_id": "11190064",
+  "name": "복권명당",
+  "address": "서울 노원구  동일로 1032 ",
+  "phone": "02-972-9846",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.622376,
+  "longitude": 127.07442,
+  "updated_at": "2026-02-03T18:12:20.971130",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    987,
+    969,
+    922,
+    919,
+    802,
+    771,
+    707,
+    657
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 8
+}

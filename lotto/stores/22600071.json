@@ -1,7 +1,7 @@
 {
   "store_id": "22600071",
   "name": "GS25(수영광안점)",
-  "address": "부산 수영구 광안동(광안제3동) 75-1 ",
+  "address": "부산 수영구 광안동 75-1 ",
   "phone": "051-757-1270",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,14 @@
   ],
   "latitude": 35.166865,
   "longitude": 129.116559,
-  "updated_at": "2026-01-12T11:42:01.928567"
+  "updated_at": "2026-02-03T18:06:14.416446",
+  "first_prize_draws": [
+    890
+  ],
+  "second_prize_draws": [
+    915,
+    522
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

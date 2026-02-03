@@ -1,7 +1,7 @@
 {
   "store_id": "11140842",
   "name": "오늘로또복권판매점",
-  "address": "서울 동대문구 한천로 133 ",
+  "address": "서울 동대문구  한천로 133 건물우측기준 2번째점포 복권방",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,11 @@
   ],
   "latitude": 37.573137,
   "longitude": 127.066295,
-  "updated_at": "2026-01-12T11:53:15.054799"
+  "updated_at": "2026-02-03T18:19:16.633802",
+  "first_prize_draws": [
+    1075
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

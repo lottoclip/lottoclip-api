@@ -1,7 +1,7 @@
 {
   "store_id": "14100302",
   "name": "태봉",
-  "address": "경기 부천시 소사로 182 ",
+  "address": "경기 부천시  소사로 182 ",
   "phone": "032-346-6021",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.474394,
   "longitude": 126.795714,
-  "updated_at": "2026-01-12T11:18:35.059034"
+  "updated_at": "2026-02-03T18:21:03.708884",
+  "first_prize_draws": [
+    492
+  ],
+  "second_prize_draws": [
+    1096,
+    787,
+    785,
+    778,
+    510,
+    389,
+    360
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

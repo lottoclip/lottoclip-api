@@ -1,7 +1,7 @@
 {
   "store_id": "12810023",
   "name": "복권방 동춘점",
-  "address": "인천 연수구 봉재산로 20 ",
+  "address": "인천 연수구  봉재산로 20 상가동 107호",
   "phone": "032-818-7080",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 37.409784,
   "longitude": 126.666132,
-  "updated_at": "2026-01-12T11:55:20.699052"
+  "updated_at": "2026-02-03T18:23:09.283825",
+  "first_prize_draws": [
+    1105,
+    653
+  ],
+  "second_prize_draws": [
+    1122,
+    887,
+    787,
+    748,
+    727,
+    705,
+    628,
+    462
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 8
 }

@@ -1,0 +1,25 @@
+{
+  "store_id": "12700151",
+  "name": "로또판매",
+  "address": "대구 서구  당산로45길 6-4 ",
+  "phone": "053-563-1239",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.856676,
+  "longitude": 128.54725,
+  "updated_at": "2026-02-03T18:27:11.631015",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1171,
+    1057,
+    919,
+    523,
+    474,
+    321
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 6
+}

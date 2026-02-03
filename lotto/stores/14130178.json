@@ -1,7 +1,7 @@
 {
   "store_id": "14130178",
   "name": "로또편의점",
-  "address": "경기 김포시 김포한강11로 288-32 ",
+  "address": "경기 김포시  김포한강11로 288-32 골든스퀘어101호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 37.654293,
   "longitude": 126.684182,
-  "updated_at": "2026-01-12T12:01:54.759227"
+  "updated_at": "2026-02-03T18:29:36.243263",
+  "first_prize_draws": [
+    1204
+  ],
+  "second_prize_draws": [
+    1017,
+    958,
+    933,
+    872
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

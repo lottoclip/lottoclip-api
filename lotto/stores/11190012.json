@@ -1,7 +1,7 @@
 {
   "store_id": "11190012",
   "name": "복권전문점",
-  "address": "서울 강북구 솔샘로64길 43 ",
+  "address": "서울 강북구  솔샘로64길 43 ",
   "phone": "02-981-9864",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 37.615551,
   "longitude": 127.028657,
-  "updated_at": "2026-01-12T11:55:43.153052"
+  "updated_at": "2026-02-03T18:22:11.586621",
+  "first_prize_draws": [
+    1112,
+    719
+  ],
+  "second_prize_draws": [
+    1061,
+    1054,
+    893,
+    706,
+    405
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 5
 }

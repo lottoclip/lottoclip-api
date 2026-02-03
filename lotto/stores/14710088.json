@@ -1,7 +1,7 @@
 {
   "store_id": "14710088",
   "name": "에버빌마트",
-  "address": "경북 안동시 강남5길 102 ",
+  "address": "경북 안동시  강남5길 102 에버빌마트 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 36.551132,
   "longitude": 128.731255,
-  "updated_at": "2026-01-12T11:21:39.864851"
+  "updated_at": "2026-02-03T18:26:45.668136",
+  "first_prize_draws": [
+    546,
+    516,
+    265
+  ],
+  "second_prize_draws": [
+    1165,
+    1054,
+    1036,
+    980,
+    976,
+    972,
+    842,
+    651,
+    608,
+    276
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 10
 }

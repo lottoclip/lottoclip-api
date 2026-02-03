@@ -1,7 +1,7 @@
 {
   "store_id": "14140082",
   "name": "평택21세기편의점",
-  "address": "경기 평택시 중앙로 284 ",
+  "address": "경기 평택시  중앙로 284 1층 21세기편의점",
   "phone": "031-618-6960",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 36.990208,
   "longitude": 127.11413,
-  "updated_at": "2026-01-12T11:44:05.758544"
+  "updated_at": "2026-02-03T18:26:45.444650",
+  "first_prize_draws": [
+    925,
+    787
+  ],
+  "second_prize_draws": [
+    1165,
+    1161,
+    1110,
+    995,
+    958,
+    939,
+    845
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 7
 }

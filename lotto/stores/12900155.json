@@ -1,7 +1,7 @@
 {
   "store_id": "12900155",
   "name": "노다지복권방",
-  "address": "광주 북구 각화동  503-27",
+  "address": "광주 북구 각화동 503-27번지 ",
   "phone": "062-264-4490",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,15 @@
   ],
   "latitude": 35.181499,
   "longitude": 126.92913,
-  "updated_at": "2026-01-12T11:14:18.888584"
+  "updated_at": "2026-02-03T18:03:22.273650",
+  "first_prize_draws": [
+    424
+  ],
+  "second_prize_draws": [
+    880,
+    668,
+    363
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

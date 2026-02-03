@@ -1,7 +1,7 @@
 {
   "store_id": "12610032",
   "name": "마리나복권",
-  "address": "부산 해운대구 좌동  1270-1번지 정선빌딩1층훼미리마트내",
+  "address": "부산 해운대구 좌동(좌제3동) 1270-1 CU해운대마리나점",
   "phone": "051-743-3370",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,14 @@
   ],
   "latitude": 35.173457,
   "longitude": 129.167639,
-  "updated_at": "2026-01-12T11:25:52.400748"
+  "updated_at": "2026-02-03T18:01:19.413394",
+  "first_prize_draws": [
+    616
+  ],
+  "second_prize_draws": [
+    855,
+    824
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

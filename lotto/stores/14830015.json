@@ -1,7 +1,7 @@
 {
   "store_id": "14830015",
   "name": "복권판매점",
-  "address": "경남 창원시 마산회원구 상곡로 45 ",
+  "address": "경남 창원시 마산회원구  상곡로 49 상가동 109호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 35.243225,
   "longitude": 128.49984,
-  "updated_at": "2026-01-12T11:57:04.830904"
+  "updated_at": "2026-02-03T18:23:35.292226",
+  "first_prize_draws": [
+    1128
+  ],
+  "second_prize_draws": [
+    762
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

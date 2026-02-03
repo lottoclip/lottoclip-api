@@ -1,7 +1,7 @@
 {
   "store_id": "14142379",
   "name": "광명로또명당",
-  "address": "경기 광명시 양지로 19 ",
+  "address": "경기 광명시  양지로 19 B동 1층 145호 (유플레닛 어반브릭스)",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 37.419018,
   "longitude": 126.882623,
-  "updated_at": "2026-01-12T11:58:11.122747"
+  "updated_at": "2026-02-03T18:29:18.308909",
+  "first_prize_draws": [
+    1144
+  ],
+  "second_prize_draws": [
+    1200
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

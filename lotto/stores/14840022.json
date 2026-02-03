@@ -1,7 +1,7 @@
 {
   "store_id": "14840022",
   "name": "행복로또방",
-  "address": "경남 김해시 김해대로2529번길 31 ",
+  "address": "경남 김해시  김해대로2529번길 31 100-3호 복권판매점",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 35.231109,
   "longitude": 128.902906,
-  "updated_at": "2026-01-12T12:01:51.616317"
+  "updated_at": "2026-02-03T18:29:32.046794",
+  "first_prize_draws": [
+    1203
+  ],
+  "second_prize_draws": [
+    862,
+    795
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

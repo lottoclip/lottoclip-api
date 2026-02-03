@@ -1,7 +1,7 @@
 {
   "store_id": "23000004",
   "name": "씨스페이스(유성봉명)",
-  "address": "대전 유성구 봉명동  546-4번지 씨스페이스편의점",
+  "address": "대전 유성구  온천로 80 ",
   "phone": "042-824-0535",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,20 @@
   ],
   "latitude": 36.354562,
   "longitude": 127.346473,
-  "updated_at": "2026-01-12T11:26:08.139453"
+  "updated_at": "2026-02-03T18:11:39.125495",
+  "first_prize_draws": [
+    621
+  ],
+  "second_prize_draws": [
+    981,
+    964,
+    912,
+    878,
+    852,
+    812,
+    797,
+    449
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

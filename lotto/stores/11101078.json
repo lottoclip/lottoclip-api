@@ -1,7 +1,7 @@
 {
   "store_id": "11101078",
   "name": "토큰박스",
-  "address": "서울 동대문구 이문로 93 ",
+  "address": "서울 동대문구  이문로 93 외대앞 버스정류장",
   "phone": "02-957-1538",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 37.595365,
   "longitude": 127.059217,
-  "updated_at": "2026-01-12T11:50:24.984260"
+  "updated_at": "2026-02-03T18:27:15.989808",
+  "first_prize_draws": [
+    1036
+  ],
+  "second_prize_draws": [
+    1172,
+    770
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

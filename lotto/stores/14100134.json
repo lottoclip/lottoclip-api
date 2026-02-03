@@ -1,7 +1,7 @@
 {
   "store_id": "14100134",
   "name": "행운복권방",
-  "address": "경기 성남시 중원구 금상로 118 ",
+  "address": "경기 성남시 중원구  금상로 118 1층",
   "phone": "031-744-4709",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,25 @@
   ],
   "latitude": 37.442444,
   "longitude": 127.167931,
-  "updated_at": "2026-01-12T11:12:05.795086"
+  "updated_at": "2026-02-03T18:28:39.348348",
+  "first_prize_draws": [
+    381
+  ],
+  "second_prize_draws": [
+    1191,
+    1114,
+    1094,
+    1001,
+    927,
+    747,
+    696,
+    618,
+    506,
+    454,
+    441,
+    354,
+    338
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 13
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14140915",
   "name": "명당로또복권판매점",
-  "address": "경기 용인시 기흥구 흥덕2로87번길 18 ",
+  "address": "경기 용인시 기흥구  구성2로 18-5 102호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 37.275494,
   "longitude": 127.07207,
-  "updated_at": "2026-01-12T11:47:47.836460"
+  "updated_at": "2026-02-03T18:23:30.412355",
+  "first_prize_draws": [
+    991
+  ],
+  "second_prize_draws": [
+    1127,
+    1111,
+    1101
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

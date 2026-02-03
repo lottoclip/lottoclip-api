@@ -1,7 +1,7 @@
 {
   "store_id": "14120004",
   "name": "일산복권",
-  "address": "경기 고양시 일산동구 무궁화로 31-16 ",
+  "address": "경기 고양시 일산동구  무궁화로 31-16 남정시티프라자8차 103호",
   "phone": "031-919-1188",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 37.66349,
   "longitude": 126.76746,
-  "updated_at": "2026-01-12T11:45:14.465800"
+  "updated_at": "2026-02-03T18:27:20.603402",
+  "first_prize_draws": [
+    947
+  ],
+  "second_prize_draws": [
+    1173,
+    1152,
+    971,
+    931
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

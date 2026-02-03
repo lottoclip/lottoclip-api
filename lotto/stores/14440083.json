@@ -1,7 +1,7 @@
 {
   "store_id": "14440083",
   "name": "로또",
-  "address": "충남 아산시 번영로 18 ",
+  "address": "충남 아산시  번영로 18 미니스톱 아산파라뷰점",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,11 @@
   ],
   "latitude": 36.785294,
   "longitude": 126.993232,
-  "updated_at": "2026-01-12T11:53:43.388312"
+  "updated_at": "2026-02-03T18:20:11.790031",
+  "first_prize_draws": [
+    1084
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

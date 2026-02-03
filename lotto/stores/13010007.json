@@ -1,7 +1,7 @@
 {
   "store_id": "13010007",
   "name": "신도복권명소",
-  "address": "대전 대덕구 비래동  151-4",
+  "address": "대전 대덕구 비래동  151-4번지",
   "phone": "042-631-3212",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,16 @@
   ],
   "latitude": 36.355057,
   "longitude": 127.454554,
-  "updated_at": "2026-01-12T11:10:09.389326"
+  "updated_at": "2026-02-03T17:44:24.277734",
+  "first_prize_draws": [
+    353
+  ],
+  "second_prize_draws": [
+    652,
+    630,
+    618,
+    377
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

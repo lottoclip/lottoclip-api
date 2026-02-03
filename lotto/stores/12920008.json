@@ -1,12 +1,20 @@
 {
   "store_id": "12920008",
-  "name": "광명나눔로또",
-  "address": "광주 서구 동천동(동림동) 164 건축자재공구백화점 1층",
+  "name": "CU농성로또",
+  "address": "광주 서구 농성동 671-3 CU편의점내",
   "phone": "062-351-3148",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 35.151565,
   "longitude": 126.881644,
-  "updated_at": "2026-01-12T11:32:04.388016"
+  "updated_at": "2026-02-03T18:02:19.930049",
+  "first_prize_draws": [
+    720
+  ],
+  "second_prize_draws": [
+    869
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

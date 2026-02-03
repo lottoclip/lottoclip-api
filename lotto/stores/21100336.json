@@ -1,7 +1,7 @@
 {
   "store_id": "21100336",
-  "name": "GS25(잠실)",
-  "address": "서울 송파구 방이동  38-3번지",
+  "name": "GS25(뉴잠실점)",
+  "address": "서울 송파구  오금로11길 30 102호 / gs25(뉴잠실점)",
   "phone": "02-424-5336",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,14 @@
   ],
   "latitude": 37.515293,
   "longitude": 127.110319,
-  "updated_at": "2026-01-12T11:12:18.087962"
+  "updated_at": "2026-02-03T18:12:20.984683",
+  "first_prize_draws": [
+    385
+  ],
+  "second_prize_draws": [
+    987,
+    382
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

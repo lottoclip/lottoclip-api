@@ -1,7 +1,7 @@
 {
   "store_id": "14390012",
   "name": "대박마트",
-  "address": "충북 청주시 상당구 원봉로 50 ",
+  "address": "충북 청주시 상당구  원봉로 50 주공상가점포103",
   "phone": "043-293-1355",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 36.614693,
   "longitude": 127.509822,
-  "updated_at": "2026-01-12T11:42:42.443982"
+  "updated_at": "2026-02-03T18:25:42.646510",
+  "first_prize_draws": [
+    903
+  ],
+  "second_prize_draws": [
+    1154,
+    1048,
+    987,
+    918,
+    837,
+    538
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

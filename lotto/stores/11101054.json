@@ -1,12 +1,24 @@
 {
   "store_id": "11101054",
   "name": "도로가판집",
-  "address": "서울 용산구 한강로3가  40-592",
+  "address": "서울 용산구  한강대로 55 ",
   "phone": "02-796-0326",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.525901,
   "longitude": 126.964396,
-  "updated_at": "2026-01-12T11:06:32.772131"
+  "updated_at": "2026-02-03T18:11:21.183021",
+  "first_prize_draws": [
+    292
+  ],
+  "second_prize_draws": [
+    977,
+    969,
+    660,
+    465,
+    394
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

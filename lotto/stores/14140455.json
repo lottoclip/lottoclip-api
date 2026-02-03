@@ -1,7 +1,7 @@
 {
   "store_id": "14140455",
   "name": "행운로또복권방",
-  "address": "경기 안양시 동안구 관악대로 348 ",
+  "address": "경기 안양시 동안구  관악대로 348 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 37.403563,
   "longitude": 126.961633,
-  "updated_at": "2026-01-12T11:56:11.230721"
+  "updated_at": "2026-02-03T18:28:30.243350",
+  "first_prize_draws": [
+    1116
+  ],
+  "second_prize_draws": [
+    1189
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

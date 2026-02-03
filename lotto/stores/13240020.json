@@ -1,7 +1,7 @@
 {
   "store_id": "13240020",
   "name": "로또대박",
-  "address": "세종  장척로 571 ",
+  "address": "세종   장척로 571 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 36.499294,
   "longitude": 127.221313,
-  "updated_at": "2026-01-12T11:59:02.387534"
+  "updated_at": "2026-02-03T18:29:13.959280",
+  "first_prize_draws": [
+    1160,
+    1085,
+    1008
+  ],
+  "second_prize_draws": [
+    1199,
+    1187,
+    1181,
+    1122,
+    1117,
+    1066,
+    1065,
+    989,
+    981
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 9
 }

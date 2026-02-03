@@ -1,7 +1,7 @@
 {
   "store_id": "14120150",
   "name": "프랜드편의점",
-  "address": "경기 화성시 3.1만세로 1100-2 ",
+  "address": "경기 화성시  3.1만세로 1100-2 ",
   "phone": "031-352-5929",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 37.13201,
   "longitude": 126.907979,
-  "updated_at": "2026-01-12T11:59:31.394301"
+  "updated_at": "2026-02-03T18:27:59.602309",
+  "first_prize_draws": [
+    1169,
+    1038
+  ],
+  "second_prize_draws": [
+    1182,
+    786,
+    739
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 3
 }

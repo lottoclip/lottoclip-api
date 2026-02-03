@@ -1,7 +1,7 @@
 {
   "store_id": "14141273",
   "name": "또와또복권",
-  "address": "경기 성남시 수정구 수정로 215 ",
+  "address": "경기 성남시 수정구  수정로 215 왼쪽2호 (태평동)",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 37.44476,
   "longitude": 127.143394,
-  "updated_at": "2026-01-12T11:49:31.455579"
+  "updated_at": "2026-02-03T18:20:07.070466",
+  "first_prize_draws": [
+    1019
+  ],
+  "second_prize_draws": [
+    1083,
+    1082
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

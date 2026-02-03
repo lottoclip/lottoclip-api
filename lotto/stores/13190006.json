@@ -1,7 +1,7 @@
 {
   "store_id": "13190006",
   "name": "대박명당",
-  "address": "울산 남구 중앙로 154 ",
+  "address": "울산 남구  중앙로 154 ",
   "phone": "052-267-3185",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 35.534961,
   "longitude": 129.314429,
-  "updated_at": "2026-01-12T11:51:02.809526"
+  "updated_at": "2026-02-03T18:16:38.634685",
+  "first_prize_draws": [
+    1043,
+    1024
+  ],
+  "second_prize_draws": [
+    570
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 1
 }

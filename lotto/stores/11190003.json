@@ -1,7 +1,7 @@
 {
   "store_id": "11190003",
-  "name": "교통카드판매소",
-  "address": "서울 송파구 송파동  97-39",
+  "name": "일신매점",
+  "address": "서울 송파구 송파동(송파2동) 97-39 일신여상앞가판",
   "phone": "02-422-8559",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,17 @@
   ],
   "latitude": 37.500688,
   "longitude": 127.111699,
-  "updated_at": "2026-01-12T11:16:43.376643"
+  "updated_at": "2026-02-03T17:59:04.738260",
+  "first_prize_draws": [
+    456
+  ],
+  "second_prize_draws": [
+    825,
+    517,
+    449,
+    405,
+    301
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

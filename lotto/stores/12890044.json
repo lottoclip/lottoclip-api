@@ -1,7 +1,7 @@
 {
   "store_id": "12890044",
   "name": "도깨비복권방",
-  "address": "인천 계양구 봉오대로 677 ",
+  "address": "인천 계양구 봉오대로 677  ",
   "phone": "032-544-3558",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 37.530942,
   "longitude": 126.724,
-  "updated_at": "2026-01-12T11:15:45.203805"
+  "updated_at": "2026-02-03T18:29:40.373075",
+  "first_prize_draws": [
+    442
+  ],
+  "second_prize_draws": [
+    1205,
+    1157,
+    1042,
+    882,
+    855,
+    843,
+    796,
+    378
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

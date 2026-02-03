@@ -1,7 +1,7 @@
 {
   "store_id": "14120103",
   "name": "백암복권",
-  "address": "경기 용인시 처인구 백암로 208 ",
+  "address": "경기 용인시 처인구  백암로 208 옆호수",
   "phone": "031-338-6251",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 37.165198,
   "longitude": 127.374795,
-  "updated_at": "2026-01-12T11:36:13.597304"
+  "updated_at": "2026-02-03T18:23:09.496733",
+  "first_prize_draws": [
+    789
+  ],
+  "second_prize_draws": [
+    1122,
+    947,
+    907,
+    806,
+    795
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14540083",
   "name": "천만불로또복권",
-  "address": "전북 남원시 용성로 207 ",
+  "address": "전북 남원시 용성로 207  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,11 @@
   ],
   "latitude": 35.41606,
   "longitude": 127.39496,
-  "updated_at": "2026-01-12T12:02:01.113536"
+  "updated_at": "2026-02-03T18:29:44.930873",
+  "first_prize_draws": [
+    1206
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

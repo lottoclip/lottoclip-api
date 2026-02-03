@@ -1,7 +1,7 @@
 {
   "store_id": "13040083",
   "name": "복권판매점",
-  "address": "대전 서구 계백로 1153 ",
+  "address": "대전 서구  계백로 1153 지산프리지엄빌딩111호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,11 @@
   ],
   "latitude": 36.305175,
   "longitude": 127.351262,
-  "updated_at": "2026-01-12T11:51:05.937761"
+  "updated_at": "2026-02-03T18:16:43.164926",
+  "first_prize_draws": [
+    1044
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

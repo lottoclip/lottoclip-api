@@ -1,7 +1,7 @@
 {
   "store_id": "14142095",
   "name": "황금열매",
-  "address": "경기 성남시 중원구 산성대로 432-1 ",
+  "address": "경기 성남시 중원구  산성대로 432-1 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 37.450314,
   "longitude": 127.159697,
-  "updated_at": "2026-01-12T11:59:40.890907"
+  "updated_at": "2026-02-03T18:27:29.568738",
+  "first_prize_draws": [
+    1172
+  ],
+  "second_prize_draws": [
+    1175
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

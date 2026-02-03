@@ -1,7 +1,7 @@
 {
   "store_id": "14800070",
   "name": "화성슈퍼",
-  "address": "경남 창원시 의창구 남산로17번길 33 ",
+  "address": "경남 창원시 의창구 팔용동 194-14번지 ",
   "phone": "055-296-0522",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 35.260911,
   "longitude": 128.614985,
-  "updated_at": "2026-01-12T11:28:08.924110"
+  "updated_at": "2026-02-03T18:02:41.832921",
+  "first_prize_draws": [
+    655
+  ],
+  "second_prize_draws": [
+    874,
+    777,
+    729
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

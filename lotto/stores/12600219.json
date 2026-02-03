@@ -1,7 +1,7 @@
 {
   "store_id": "12600219",
   "name": "플러스복권마트",
-  "address": "부산 해운대구 해운대로 636 ",
+  "address": "부산 해운대구  해운대로 636 ",
   "phone": "051-744-2650",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,26 @@
   ],
   "latitude": 35.164116,
   "longitude": 129.160155,
-  "updated_at": "2026-01-12T11:57:04.387459"
+  "updated_at": "2026-02-03T18:27:50.960691",
+  "first_prize_draws": [
+    1128
+  ],
+  "second_prize_draws": [
+    1180,
+    1138,
+    1100,
+    1088,
+    1066,
+    1046,
+    915,
+    669,
+    621,
+    538,
+    524,
+    466,
+    437,
+    386
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 14
 }

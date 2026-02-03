@@ -1,0 +1,29 @@
+{
+  "store_id": "11101167",
+  "name": "돼지복권",
+  "address": "서울 강동구  올림픽로 746 101호",
+  "phone": null,
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.547672,
+  "longitude": 127.126945,
+  "updated_at": "2026-02-03T18:20:24.444711",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1087,
+    1081,
+    1051,
+    969,
+    929,
+    718,
+    672,
+    647,
+    639,
+    339
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 10
+}

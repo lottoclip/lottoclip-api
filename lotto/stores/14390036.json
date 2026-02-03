@@ -1,7 +1,7 @@
 {
   "store_id": "14390036",
   "name": "썬마트(충주연안점)",
-  "address": "충북 충주시 연원로 27-3 ",
+  "address": "충북 충주시  연원로 27-3 ",
   "phone": "043-852-5645",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 36.988842,
   "longitude": 127.931142,
-  "updated_at": "2026-01-12T11:16:43.399651"
+  "updated_at": "2026-02-03T18:26:45.563558",
+  "first_prize_draws": [
+    456
+  ],
+  "second_prize_draws": [
+    1165,
+    1044,
+    1032,
+    955,
+    937,
+    931,
+    918,
+    807,
+    779,
+    730
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

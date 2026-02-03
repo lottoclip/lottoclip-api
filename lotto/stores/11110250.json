@@ -1,12 +1,28 @@
 {
   "store_id": "11110250",
   "name": "행운복권",
-  "address": "서울 노원구 동일로 1002 ",
+  "address": "서울 노원구  동일로 992 1층",
   "phone": null,
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.619614,
   "longitude": 127.075321,
-  "updated_at": "2026-01-12T11:44:24.413835"
+  "updated_at": "2026-02-03T18:20:28.679274",
+  "first_prize_draws": [
+    931,
+    713
+  ],
+  "second_prize_draws": [
+    1088,
+    1008,
+    955,
+    850,
+    783,
+    746,
+    711,
+    264
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 8
 }

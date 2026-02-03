@@ -1,7 +1,7 @@
 {
   "store_id": "14600055",
   "name": "플러스하나",
-  "address": "전남 순천시 비봉길 6 ",
+  "address": "전남 순천시  비봉길 6 상가동 1층 107호",
   "phone": "061-745-8784",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 34.933022,
   "longitude": 127.489475,
-  "updated_at": "2026-01-12T11:34:52.385585"
+  "updated_at": "2026-02-03T18:25:20.202079",
+  "first_prize_draws": [
+    768,
+    562
+  ],
+  "second_prize_draws": [
+    1149,
+    991,
+    980,
+    901,
+    808,
+    645,
+    541,
+    483,
+    370,
+    333,
+    295
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 11
 }

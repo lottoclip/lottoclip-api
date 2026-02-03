@@ -1,12 +1,33 @@
 {
   "store_id": "13110082",
   "name": "우리들(북구청점)",
-  "address": "울산 북구 연암동 417-1 1층 우리들편의점 내",
+  "address": "울산 북구  무룡로  29 1층 우리들편의점 내",
   "phone": "052-287-7760",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 35.58109,
   "longitude": 129.363577,
-  "updated_at": "2026-01-12T11:44:05.736362"
+  "updated_at": "2026-02-03T18:13:55.566598",
+  "first_prize_draws": [
+    925
+  ],
+  "second_prize_draws": [
+    1009,
+    939,
+    871,
+    835,
+    804,
+    760,
+    752,
+    703,
+    695,
+    668,
+    594,
+    499,
+    483,
+    432
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 14
 }

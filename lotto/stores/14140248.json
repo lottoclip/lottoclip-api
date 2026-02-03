@@ -1,7 +1,7 @@
 {
   "store_id": "14140248",
-  "name": "동탄복합문화센터복권판매점",
-  "address": "경기 화성시 여울로 189-16 ",
+  "name": "동탄써밋복권판매점",
+  "address": "경기 화성시  여울로 189-16 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 37.215841,
   "longitude": 127.056175,
-  "updated_at": "2026-01-12T11:48:16.272805"
+  "updated_at": "2026-02-03T18:29:18.451559",
+  "first_prize_draws": [
+    1000
+  ],
+  "second_prize_draws": [
+    1200,
+    1191,
+    1162,
+    1145,
+    1015,
+    986,
+    930,
+    904,
+    786,
+    771
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

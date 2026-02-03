@@ -1,7 +1,7 @@
 {
   "store_id": "14190108",
   "name": "대박복권방",
-  "address": "경기 안산시 단원구 신길중앙로1길 40 ",
+  "address": "경기 안산시 단원구 신길중앙로1길 40 101호  ",
   "phone": "031-492-3512",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 37.336107,
   "longitude": 126.762265,
-  "updated_at": "2026-01-17T14:08:44.516088"
+  "updated_at": "2026-02-03T18:29:48.968900",
+  "first_prize_draws": [
+    1207,
+    941,
+    486
+  ],
+  "second_prize_draws": [
+    1185,
+    1076,
+    998,
+    968,
+    641,
+    598,
+    533,
+    506
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 8
 }

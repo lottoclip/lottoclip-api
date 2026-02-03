@@ -1,7 +1,7 @@
 {
   "store_id": "14340294",
   "name": "스마일로또",
-  "address": "충북 제천시 신죽하로 83-11 ",
+  "address": "충북 제천시  신죽하로 83-11 1층 GS25 편의점 내",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,11 @@
   ],
   "latitude": 37.159932,
   "longitude": 128.222053,
-  "updated_at": "2026-01-12T12:01:54.783850"
+  "updated_at": "2026-02-03T18:29:36.343483",
+  "first_prize_draws": [
+    1204
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

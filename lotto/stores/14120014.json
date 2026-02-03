@@ -1,7 +1,7 @@
 {
   "store_id": "14120014",
   "name": "광주역점(천운당)",
-  "address": "경기 광주시 역동 202-1번지 ",
+  "address": "경기 광주시  역동로 107 ",
   "phone": "031-768-9404",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 37.399399,
   "longitude": 127.253814,
-  "updated_at": "2026-01-12T11:38:04.571108"
+  "updated_at": "2026-02-03T18:21:37.375825",
+  "first_prize_draws": [
+    824
+  ],
+  "second_prize_draws": [
+    1104,
+    1101,
+    1084,
+    1079,
+    997,
+    969,
+    724,
+    710,
+    684,
+    654
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

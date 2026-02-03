@@ -1,7 +1,7 @@
 {
   "store_id": "11110430",
-  "name": "위드미강동본점",
-  "address": "서울 강동구 성내동 38-3번지 ",
+  "name": "이마트24 강동본점",
+  "address": "서울 강동구 성내동(성내제2동) 38-3 ",
   "phone": "02-474-6059",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,14 @@
   ],
   "latitude": 37.53613,
   "longitude": 127.125594,
-  "updated_at": "2026-01-12T11:33:36.766015"
+  "updated_at": "2026-02-03T18:02:49.859983",
+  "first_prize_draws": [
+    744
+  ],
+  "second_prize_draws": [
+    876,
+    408
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

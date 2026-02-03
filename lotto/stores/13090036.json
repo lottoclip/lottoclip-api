@@ -1,12 +1,27 @@
 {
   "store_id": "13090036",
   "name": "배팅샵(가장)",
-  "address": "대전 서구 용문로 46 ",
+  "address": "대전 서구  용문로 46 평화빌102호",
   "phone": "042-523-4797",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 36.338701,
   "longitude": 127.388358,
-  "updated_at": "2026-01-12T11:24:34.404601"
+  "updated_at": "2026-02-03T18:27:06.908021",
+  "first_prize_draws": [
+    597
+  ],
+  "second_prize_draws": [
+    1170,
+    1163,
+    1129,
+    1093,
+    1033,
+    719,
+    643,
+    565
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

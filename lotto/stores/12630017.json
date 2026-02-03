@@ -1,7 +1,7 @@
 {
   "store_id": "12630017",
   "name": "공항상회로또판매점",
-  "address": "부산 강서구 평강로 185-1 ",
+  "address": "부산 강서구  평강로 185-1 ",
   "phone": "051-971-2453",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,26 @@
   ],
   "latitude": 35.202528,
   "longitude": 128.940993,
-  "updated_at": "2026-01-12T11:52:56.110047"
+  "updated_at": "2026-02-03T18:27:20.444191",
+  "first_prize_draws": [
+    1069
+  ],
+  "second_prize_draws": [
+    1173,
+    1148,
+    1133,
+    1129,
+    1111,
+    1014,
+    962,
+    941,
+    936,
+    894,
+    893,
+    889,
+    879,
+    872
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 14
 }

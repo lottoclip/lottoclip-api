@@ -1,7 +1,7 @@
 {
   "store_id": "12610164",
   "name": "팔도로또",
-  "address": "부산 수영구 수영로 709-1 ",
+  "address": "부산 수영구  수영로 709-1 청백도서내",
   "phone": "051-753-5767",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 35.168241,
   "longitude": 129.117051,
-  "updated_at": "2026-01-12T11:11:23.035156"
+  "updated_at": "2026-02-03T18:15:27.094597",
+  "first_prize_draws": [
+    372
+  ],
+  "second_prize_draws": [
+    1027,
+    555,
+    339,
+    333
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

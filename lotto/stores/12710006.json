@@ -1,12 +1,22 @@
 {
   "store_id": "12710006",
   "name": "로또대박파티마삼거리",
-  "address": "대구 동구 아양로 119 ",
+  "address": "대구 동구  아양로 119 이노PC방",
   "phone": null,
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 35.884842,
   "longitude": 128.626229,
-  "updated_at": "2026-01-12T11:38:04.524302"
+  "updated_at": "2026-02-03T18:21:37.260020",
+  "first_prize_draws": [
+    824
+  ],
+  "second_prize_draws": [
+    1104,
+    740,
+    290
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

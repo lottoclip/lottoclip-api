@@ -1,7 +1,7 @@
 {
   "store_id": "14140130",
   "name": "아이스파티 희망로또",
-  "address": "경기 남양주시 청학로114번길 9 ",
+  "address": "경기 남양주시  청학로114번길 9 나동",
   "phone": "031-848-8629",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 37.709155,
   "longitude": 127.114273,
-  "updated_at": "2026-01-12T11:55:43.194660"
+  "updated_at": "2026-02-03T18:27:38.255137",
+  "first_prize_draws": [
+    1112
+  ],
+  "second_prize_draws": [
+    1177,
+    1117,
+    1057
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

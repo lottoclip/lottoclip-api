@@ -1,7 +1,7 @@
 {
   "store_id": "11100141",
   "name": "복권방(천하명당)",
-  "address": "서울 성동구 행당로 75 ",
+  "address": "서울 성동구  행당로 75 행당동대림아파트 리빙프라자동 지하2층 비202",
   "phone": "02-2296-1314",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 37.557892,
   "longitude": 127.027093,
-  "updated_at": "2026-01-12T11:05:11.228607"
+  "updated_at": "2026-02-03T18:09:51.552399",
+  "first_prize_draws": [
+    270
+  ],
+  "second_prize_draws": [
+    957,
+    591
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

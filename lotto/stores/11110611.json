@@ -1,7 +1,7 @@
 {
   "store_id": "11110611",
   "name": "드림공인중개사사무소",
-  "address": "서울 양천구 목동중앙북로16길 3 ",
+  "address": "서울 양천구  목동중앙북로16길 3 광진상가1층104",
   "phone": "02-2648-7722",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 37.546005,
   "longitude": 126.873899,
-  "updated_at": "2026-01-12T11:53:34.037684"
+  "updated_at": "2026-02-03T18:28:16.662152",
+  "first_prize_draws": [
+    1081
+  ],
+  "second_prize_draws": [
+    1186,
+    1166,
+    1161,
+    1087,
+    962,
+    878,
+    868,
+    586
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

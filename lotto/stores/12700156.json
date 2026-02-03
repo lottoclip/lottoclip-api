@@ -1,7 +1,7 @@
 {
   "store_id": "12700156",
   "name": "계대마트",
-  "address": "대구 달서구 계대동문로 26 ",
+  "address": "대구 달서구  계대동문로 26 1층",
   "phone": "053-584-3468",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 35.855164,
   "longitude": 128.495058,
-  "updated_at": "2026-01-12T11:44:15.128239"
+  "updated_at": "2026-02-03T18:22:07.505979",
+  "first_prize_draws": [
+    928
+  ],
+  "second_prize_draws": [
+    1111,
+    948,
+    928,
+    867,
+    760,
+    689,
+    539,
+    294
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

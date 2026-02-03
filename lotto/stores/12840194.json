@@ -1,7 +1,7 @@
 {
   "store_id": "12840194",
   "name": "수퍼복권대박",
-  "address": "인천 연수구 용담로 60 ",
+  "address": "인천 연수구  용담로 60 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 37.418648,
   "longitude": 126.673619,
-  "updated_at": "2026-01-12T11:51:55.975981"
+  "updated_at": "2026-02-03T18:22:32.807932",
+  "first_prize_draws": [
+    1055,
+    1026,
+    1000,
+    996
+  ],
+  "second_prize_draws": [
+    1117,
+    1060,
+    1057,
+    985,
+    944
+  ],
+  "first_prize_count": 4,
+  "second_prize_count": 5
 }

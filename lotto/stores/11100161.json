@@ -1,7 +1,7 @@
 {
   "store_id": "11100161",
   "name": "복권천국",
-  "address": "서울 서초구 서초대로 97 ",
+  "address": "서울 서초구  서초대로 97 1층",
   "phone": "02-599-1016",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 37.487709,
   "longitude": 126.992832,
-  "updated_at": "2026-01-12T11:48:54.452402"
+  "updated_at": "2026-02-03T18:25:29.277726",
+  "first_prize_draws": [
+    1012,
+    686,
+    649
+  ],
+  "second_prize_draws": [
+    1151,
+    1089,
+    906,
+    809,
+    801,
+    718,
+    620,
+    466,
+    364
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 9
 }

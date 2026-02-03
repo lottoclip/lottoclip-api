@@ -1,7 +1,7 @@
 {
   "store_id": "12790002",
   "name": "모닝마트",
-  "address": "대구 남구 성당로18길 45-10 ",
+  "address": "대구 남구 대명동 3052-36번지 ",
   "phone": "053-625-8848",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,11 @@
   ],
   "latitude": 35.845532,
   "longitude": 128.564941,
-  "updated_at": "2026-01-12T11:30:07.142001"
+  "updated_at": "2026-02-03T17:46:41.774320",
+  "first_prize_draws": [
+    683
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

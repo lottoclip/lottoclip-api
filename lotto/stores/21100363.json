@@ -1,12 +1,22 @@
 {
   "store_id": "21100363",
   "name": "GS25(쌍문사계절)",
-  "address": "서울 도봉구 쌍문동  217-3",
+  "address": "서울 도봉구  쌍문동 217-3번지",
   "phone": "02-900-1126",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.659031,
   "longitude": 127.032666,
-  "updated_at": "2026-01-12T11:22:24.117449"
+  "updated_at": "2026-02-03T17:44:41.427404",
+  "first_prize_draws": [
+    560
+  ],
+  "second_prize_draws": [
+    656,
+    461,
+    403
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14130187",
   "name": "동탄 반송 복권방",
-  "address": "경기 화성시 동탄반송3길 68 ",
+  "address": "경기 화성시  동탄반송3길 68 103호",
   "phone": "031-613-1489",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 37.210547,
   "longitude": 127.06815,
-  "updated_at": "2026-01-12T11:39:13.765990"
+  "updated_at": "2026-02-03T18:20:33.495672",
+  "first_prize_draws": [
+    846
+  ],
+  "second_prize_draws": [
+    1089,
+    1035,
+    869,
+    822,
+    714
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

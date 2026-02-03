@@ -1,7 +1,7 @@
 {
   "store_id": "14141163",
   "name": "동행복권(로또복권)",
-  "address": "경기 남양주시 퇴계원로 103-1 ",
+  "address": "경기 남양주시  퇴계원로 103-1 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 37.655547,
   "longitude": 127.144202,
-  "updated_at": "2026-01-12T12:00:12.772356"
+  "updated_at": "2026-02-03T18:27:59.439507",
+  "first_prize_draws": [
+    1182
+  ],
+  "second_prize_draws": [
+    1147,
+    1138,
+    1057
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

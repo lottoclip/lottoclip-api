@@ -1,7 +1,7 @@
 {
   "store_id": "14130083",
   "name": "(I.A) 로또마트",
-  "address": "경기 안산시 단원구 신길로 9-4 ",
+  "address": "경기 안산시 단원구  신길로 9-4 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 37.33149,
   "longitude": 126.786369,
-  "updated_at": "2026-01-12T11:56:11.216485"
+  "updated_at": "2026-02-03T18:28:43.829016",
+  "first_prize_draws": [
+    1116,
+    1023,
+    912
+  ],
+  "second_prize_draws": [
+    1192,
+    1188,
+    1139,
+    1071,
+    1070,
+    1054,
+    996,
+    846,
+    797
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 9
 }

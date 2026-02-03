@@ -1,0 +1,27 @@
+{
+  "store_id": "12800252",
+  "name": "복권천하",
+  "address": "인천 계양구  임학동로 58 ",
+  "phone": "032-542-0232",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.546982,
+  "longitude": 126.737442,
+  "updated_at": "2026-02-03T18:24:26.255848",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1140,
+    998,
+    953,
+    943,
+    849,
+    719,
+    570,
+    461
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 8
+}

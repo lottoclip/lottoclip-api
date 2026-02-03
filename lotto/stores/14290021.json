@@ -1,7 +1,7 @@
 {
   "store_id": "14290021",
   "name": "동해복권전문점",
-  "address": "강원 동해시 발한로 226-1 ",
+  "address": "강원 동해시  발한로 226-1 ",
   "phone": "033-531-8241",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 37.549697,
   "longitude": 129.108607,
-  "updated_at": "2026-01-12T11:52:34.477508"
+  "updated_at": "2026-02-03T18:23:30.443736",
+  "first_prize_draws": [
+    1067,
+    852
+  ],
+  "second_prize_draws": [
+    1127,
+    1023,
+    951,
+    936
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 4
 }

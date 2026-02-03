@@ -1,7 +1,7 @@
 {
   "store_id": "14710183",
   "name": "로또7일레븐 태화점",
-  "address": "경북 안동시 태화동  175-3번지",
+  "address": "경북 안동시 태화동 175-3번지 ",
   "phone": "054-822-6864",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,16 @@
   ],
   "latitude": 36.553541,
   "longitude": 128.760751,
-  "updated_at": "2026-01-12T11:25:48.297641"
+  "updated_at": "2026-02-03T17:53:32.817391",
+  "first_prize_draws": [
+    615,
+    610
+  ],
+  "second_prize_draws": [
+    756,
+    626,
+    547
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 3
 }

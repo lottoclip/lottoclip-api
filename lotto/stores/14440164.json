@@ -1,7 +1,7 @@
 {
   "store_id": "14440164",
   "name": "희망복권방",
-  "address": "충남 예산군 예산로 241 ",
+  "address": "충남 예산군  예산로 241 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 36.680324,
   "longitude": 126.851384,
-  "updated_at": "2026-01-12T12:01:54.824005"
+  "updated_at": "2026-02-03T18:29:36.411424",
+  "first_prize_draws": [
+    1204
+  ],
+  "second_prize_draws": [
+    1183,
+    1083,
+    934
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

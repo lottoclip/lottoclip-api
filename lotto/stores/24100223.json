@@ -1,7 +1,7 @@
 {
   "store_id": "24100223",
-  "name": "GS25(수원황골)",
-  "address": "경기 수원시 영통구 영통동 945-7번지 ",
+  "name": "GS25(수원황골점)",
+  "address": "경기 수원시 영통구  봉영로 1761 ",
   "phone": "031-204-3307",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,15 @@
   ],
   "latitude": 37.266285,
   "longitude": 127.081604,
-  "updated_at": "2026-01-12T11:28:02.814358"
+  "updated_at": "2026-02-03T18:10:54.909435",
+  "first_prize_draws": [
+    653
+  ],
+  "second_prize_draws": [
+    971,
+    813,
+    657
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

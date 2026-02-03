@@ -1,0 +1,24 @@
+{
+  "store_id": "14140050",
+  "name": "로또슈퍼",
+  "address": "경기 안양시 동안구  시민대로 171 금강벤처텔 104호",
+  "phone": null,
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.391143,
+  "longitude": 126.950011,
+  "updated_at": "2026-02-03T18:27:55.314428",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1181,
+    1157,
+    1153,
+    1056,
+    979
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 5
+}

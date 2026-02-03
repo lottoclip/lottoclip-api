@@ -1,7 +1,7 @@
 {
   "store_id": "12840017",
   "name": "위너로또 더킹전자담배 구월점",
-  "address": "인천 남동구 구월남로 212 ",
+  "address": "인천 남동구  구월남로 212 동원프라자 101호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 37.452449,
   "longitude": 126.71311,
-  "updated_at": "2026-01-12T11:53:27.875177"
+  "updated_at": "2026-02-03T18:29:05.486733",
+  "first_prize_draws": [
+    1079,
+    1039,
+    835
+  ],
+  "second_prize_draws": [
+    1197,
+    1172,
+    1167,
+    950,
+    869,
+    816,
+    771
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 7
 }

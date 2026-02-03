@@ -1,7 +1,7 @@
 {
   "store_id": "12600226",
-  "name": "오렌지로또",
-  "address": "부산 부산진구 양정동  502-26",
+  "name": "오렌지데이 개금점",
+  "address": "부산 부산진구  복지로 77 1층 오렌지데이",
   "phone": "051-502-8166",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 35.146364,
   "longitude": 129.019933,
-  "updated_at": "2026-01-12T11:23:04.003721"
+  "updated_at": "2026-02-03T18:16:47.330748",
+  "first_prize_draws": [
+    568
+  ],
+  "second_prize_draws": [
+    1045,
+    848,
+    805,
+    748,
+    698,
+    684,
+    566,
+    558,
+    444,
+    339,
+    336
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 11
 }

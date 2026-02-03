@@ -1,7 +1,7 @@
 {
   "store_id": "14990004",
   "name": "제일복권",
-  "address": "제주 제주시 서광로 257 ",
+  "address": "제주 제주시  서광로 257 ",
   "phone": "064-758-9311",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 33.500101,
   "longitude": 126.524055,
-  "updated_at": "2026-01-12T11:58:52.573996"
+  "updated_at": "2026-02-03T18:25:55.908648",
+  "first_prize_draws": [
+    1157,
+    526
+  ],
+  "second_prize_draws": [
+    1106,
+    1078,
+    1075,
+    988,
+    890,
+    776,
+    673,
+    612,
+    491,
+    359,
+    331
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 11
 }

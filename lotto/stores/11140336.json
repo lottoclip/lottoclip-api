@@ -1,7 +1,7 @@
 {
   "store_id": "11140336",
   "name": "방이로또",
-  "address": "서울 송파구 가락로 245 ",
+  "address": "서울 송파구  가락로 245 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 37.51012,
   "longitude": 127.11796,
-  "updated_at": "2026-01-12T11:51:02.760189"
+  "updated_at": "2026-02-03T18:26:32.379076",
+  "first_prize_draws": [
+    1043
+  ],
+  "second_prize_draws": [
+    1162
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14120119",
   "name": "태양복권방",
-  "address": "경기 파주시 사임당로 138-1 ",
+  "address": "경기 파주시  사임당로 138-1 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 37.866151,
   "longitude": 126.80652,
-  "updated_at": "2026-01-12T11:57:04.577425"
+  "updated_at": "2026-02-03T18:25:38.458250",
+  "first_prize_draws": [
+    1128,
+    841
+  ],
+  "second_prize_draws": [
+    1153,
+    1094,
+    1057,
+    1030,
+    873,
+    871,
+    845,
+    747
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 8
 }

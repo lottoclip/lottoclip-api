@@ -1,7 +1,7 @@
 {
   "store_id": "21100325",
-  "name": "훼미리마트(당산한강점)",
-  "address": "서울 영등포구 당산동4가  29",
+  "name": "CU(당산한강점)",
+  "address": "서울 영등포구 당산동4가 29번지 ",
   "phone": "02-2633-7643",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 37.52795,
   "longitude": 126.902719,
-  "updated_at": "2026-01-12T11:13:07.092664"
+  "updated_at": "2026-02-03T18:07:10.641771",
+  "first_prize_draws": [
+    401
+  ],
+  "second_prize_draws": [
+    926
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "12700130",
-  "name": "고향슈퍼",
-  "address": "대구 달서구 이곡동  1000-147",
+  "name": "세븐로또(성당점)",
+  "address": "대구 달서구 성당동 392-55 ",
   "phone": "053-621-6266",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,17 @@
   ],
   "latitude": 35.838639,
   "longitude": 128.552674,
-  "updated_at": "2026-01-12T11:13:00.975515"
+  "updated_at": "2026-02-03T18:01:57.909192",
+  "first_prize_draws": [
+    399
+  ],
+  "second_prize_draws": [
+    864,
+    751,
+    663,
+    661,
+    626
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "13090037",
-  "name": "샘머리비디오 책",
-  "address": "대전 서구 둔산2동  907 A상가 지하 14호",
+  "name": "대림이앤씨",
+  "address": "대전 서구 괴정동 6-5번지 cu편의점내",
   "phone": "042-528-7890",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,14 @@
   ],
   "latitude": 36.34029,
   "longitude": 127.387227,
-  "updated_at": "2026-01-12T11:09:51.127483"
+  "updated_at": "2026-02-03T17:53:37.389144",
+  "first_prize_draws": [
+    347
+  ],
+  "second_prize_draws": [
+    757,
+    403
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

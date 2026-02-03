@@ -1,7 +1,7 @@
 {
   "store_id": "14710135",
   "name": "NJOY로또텔레콤",
-  "address": "경북 포항시 남구 상공로 42 ",
+  "address": "경북 포항시 남구  상공로 42 ",
   "phone": "054-275-6643",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 36.012227,
   "longitude": 129.356636,
-  "updated_at": "2026-01-12T11:17:51.665711"
+  "updated_at": "2026-02-03T18:23:35.207050",
+  "first_prize_draws": [
+    478
+  ],
+  "second_prize_draws": [
+    1128,
+    979,
+    883,
+    852,
+    786,
+    640,
+    577,
+    568
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

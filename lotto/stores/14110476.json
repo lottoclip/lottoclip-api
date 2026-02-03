@@ -1,7 +1,7 @@
 {
   "store_id": "14110476",
   "name": "창미슈퍼",
-  "address": "경기 화성시 서해로 434 ",
+  "address": "경기 화성시  남양성지로 155 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,26 @@
   ],
   "latitude": 37.101019,
   "longitude": 126.902091,
-  "updated_at": "2026-01-12T11:44:24.450754"
+  "updated_at": "2026-02-03T18:24:30.841218",
+  "first_prize_draws": [
+    931
+  ],
+  "second_prize_draws": [
+    1141,
+    1086,
+    796,
+    790,
+    684,
+    635,
+    594,
+    564,
+    536,
+    527,
+    525,
+    391,
+    343,
+    298
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 14
 }

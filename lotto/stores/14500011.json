@@ -1,7 +1,7 @@
 {
   "store_id": "14500011",
   "name": "대박찬스",
-  "address": "전북 군산시 칠성로 164 ",
+  "address": "전북 군산시  칠성로 164 ",
   "phone": "063-445-8714",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,26 @@
   ],
   "latitude": 35.969367,
   "longitude": 126.67934,
-  "updated_at": "2026-01-12T11:52:56.238685"
+  "updated_at": "2026-02-03T18:22:03.387760",
+  "first_prize_draws": [
+    1069,
+    835
+  ],
+  "second_prize_draws": [
+    1110,
+    1096,
+    1057,
+    1002,
+    983,
+    958,
+    956,
+    924,
+    833,
+    784,
+    711,
+    396,
+    292
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 13
 }

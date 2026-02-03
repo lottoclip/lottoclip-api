@@ -1,7 +1,7 @@
 {
   "store_id": "14810110",
   "name": "강남25시편의점",
-  "address": "경남 거제시 옥포동  550-17",
+  "address": "경남 거제시 옥포동 550-17 ",
   "phone": "055-687-6536",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,19 @@
   ],
   "latitude": 34.889125,
   "longitude": 128.691962,
-  "updated_at": "2026-01-12T11:13:10.123936"
+  "updated_at": "2026-02-03T18:05:37.677656",
+  "first_prize_draws": [
+    402
+  ],
+  "second_prize_draws": [
+    907,
+    891,
+    783,
+    748,
+    527,
+    485,
+    348
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

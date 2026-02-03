@@ -1,7 +1,7 @@
 {
   "store_id": "11190004",
   "name": "굴러들어온 복권",
-  "address": "서울 강남구 논현로72길 20 ",
+  "address": "서울 강남구  논현로72길 20 1층 102호",
   "phone": "02-3452-6777",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 37.495803,
   "longitude": 127.041161,
-  "updated_at": "2026-01-12T12:01:44.708928"
+  "updated_at": "2026-02-03T18:29:22.455139",
+  "first_prize_draws": [
+    1201,
+    552
+  ],
+  "second_prize_draws": [
+    1082,
+    822,
+    801,
+    763,
+    703
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 5
 }

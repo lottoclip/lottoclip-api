@@ -1,7 +1,7 @@
 {
   "store_id": "14840317",
   "name": "지에스(GS25)뉴양산혜인점",
-  "address": "경남 양산시 웅상대로 955 ",
+  "address": "경남 양산시  웅상대로 955 GS편의점",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 35.384916,
   "longitude": 129.155075,
-  "updated_at": "2026-01-12T11:58:11.221253"
+  "updated_at": "2026-02-03T18:29:32.072191",
+  "first_prize_draws": [
+    1144,
+    1114,
+    1016
+  ],
+  "second_prize_draws": [
+    1203,
+    1172,
+    1097,
+    1088,
+    1080,
+    1076,
+    1057,
+    1045,
+    1033
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 9
 }

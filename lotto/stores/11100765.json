@@ -1,7 +1,7 @@
 {
   "store_id": "11100765",
   "name": "로또행운마트",
-  "address": "서울 양천구 남부순환로 327 ",
+  "address": "서울 양천구  남부순환로 327 1층",
   "phone": "02-2696-1907",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 37.537713,
   "longitude": 126.827483,
-  "updated_at": "2026-01-12T11:37:55.044989"
+  "updated_at": "2026-02-03T18:27:06.766863",
+  "first_prize_draws": [
+    821
+  ],
+  "second_prize_draws": [
+    1170,
+    1146,
+    1057,
+    868,
+    864,
+    644,
+    424,
+    386,
+    383
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 9
 }

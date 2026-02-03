@@ -1,7 +1,7 @@
 {
   "store_id": "14110096",
   "name": "행복정보통신",
-  "address": "경기 연천군 연천로 255 ",
+  "address": "경기 연천군 연천읍 차탄리 34-16번지 ",
   "phone": "031-834-3045",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 38.099682,
   "longitude": 127.07442,
-  "updated_at": "2026-01-12T11:38:13.875739"
+  "updated_at": "2026-02-03T17:59:14.845734",
+  "first_prize_draws": [
+    827
+  ],
+  "second_prize_draws": [
+    724,
+    475,
+    334
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

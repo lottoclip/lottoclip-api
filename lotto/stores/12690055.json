@@ -1,8 +1,8 @@
 {
   "store_id": "12690055",
   "name": "스위트초이스",
-  "address": "부산 사상구 사상로 300 ",
-  "phone": "070-8243-0471",
+  "address": "부산 사상구  사상로 300 단지내 상가 401동 13호",
+  "phone": "051-303-6822",
   "lottery_types": [
     "lotto645",
     "pension720",
@@ -10,5 +10,20 @@
   ],
   "latitude": 35.171657,
   "longitude": 128.983692,
-  "updated_at": "2026-01-12T11:58:43.120814"
+  "updated_at": "2026-02-03T18:27:11.546336",
+  "first_prize_draws": [
+    1154,
+    647
+  ],
+  "second_prize_draws": [
+    1171,
+    1074,
+    1029,
+    961,
+    948,
+    918,
+    863
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 7
 }

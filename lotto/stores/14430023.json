@@ -1,7 +1,7 @@
 {
   "store_id": "14430023",
   "name": "로또복권나눔커피",
-  "address": "충남 아산시 모산로 163 ",
+  "address": "충남 아산시  모산로 163 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 36.775329,
   "longitude": 127.060737,
-  "updated_at": "2026-01-12T11:59:28.130572"
+  "updated_at": "2026-02-03T18:26:58.358803",
+  "first_prize_draws": [
+    1168
+  ],
+  "second_prize_draws": [
+    1107,
+    1059,
+    902,
+    876
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

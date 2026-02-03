@@ -1,7 +1,7 @@
 {
   "store_id": "12800131",
   "name": "행운마트",
-  "address": "인천 부평구 배곶남로9번길 4 ",
+  "address": "인천 부평구  배곶남로9번길 4 ",
   "phone": "032-429-3278",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,28 @@
   ],
   "latitude": 37.471792,
   "longitude": 126.695352,
-  "updated_at": "2026-01-12T11:27:53.669046"
+  "updated_at": "2026-02-03T18:24:39.116721",
+  "first_prize_draws": [
+    650,
+    437
+  ],
+  "second_prize_draws": [
+    1143,
+    1039,
+    871,
+    861,
+    844,
+    661,
+    639,
+    606,
+    594,
+    388,
+    362,
+    349,
+    348,
+    268,
+    266
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 15
 }

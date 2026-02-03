@@ -1,7 +1,7 @@
 {
   "store_id": "14600067",
   "name": "도소매복권방",
-  "address": "전남 광양시 광영로 146 ",
+  "address": "전남 광양시 광영동 759-4번지 ",
   "phone": "061-793-5111",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 34.965643,
   "longitude": 127.717042,
-  "updated_at": "2026-01-12T11:38:26.416199"
+  "updated_at": "2026-02-03T18:05:23.994153",
+  "first_prize_draws": [
+    831,
+    823,
+    789
+  ],
+  "second_prize_draws": [
+    904,
+    859,
+    838,
+    819,
+    657
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 5
 }

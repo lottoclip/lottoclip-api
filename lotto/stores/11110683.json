@@ -1,7 +1,7 @@
 {
   "store_id": "11110683",
   "name": "공항로또",
-  "address": "서울 강서구 공항대로 37 ",
+  "address": "서울 강서구  공항대로 37 7호",
   "phone": "02-2664-6697",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 37.561552,
   "longitude": 126.811477,
-  "updated_at": "2026-01-12T11:35:54.558329"
+  "updated_at": "2026-02-03T18:26:53.766954",
+  "first_prize_draws": [
+    783,
+    670
+  ],
+  "second_prize_draws": [
+    1167,
+    1132,
+    1086,
+    955,
+    939,
+    936,
+    884,
+    807,
+    612,
+    416
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 10
 }

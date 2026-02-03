@@ -1,7 +1,7 @@
 {
   "store_id": "12600084",
-  "name": "씨스페이스 범어사역점",
-  "address": "부산 금정구 부곡로 107 ",
+  "name": "대박로또 1등 123억배출 김경갑 복권방",
+  "address": "부산 금정구  중앙대로1945번길 10 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 35.225546,
   "longitude": 129.091652,
-  "updated_at": "2026-01-12T11:49:53.492326"
+  "updated_at": "2026-02-03T18:23:17.495000",
+  "first_prize_draws": [
+    1026,
+    1018
+  ],
+  "second_prize_draws": [
+    1124,
+    1092,
+    1083,
+    1009,
+    918
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 5
 }

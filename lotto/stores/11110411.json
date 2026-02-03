@@ -1,12 +1,20 @@
 {
   "store_id": "11110411",
   "name": "로또복권",
-  "address": "서울 중구 을지로2가  157 가판대98호",
+  "address": "서울 중구 을지로2가  157가판대98호",
   "phone": "02-753-4355",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.565744,
   "longitude": 126.987292,
-  "updated_at": "2026-01-12T11:06:32.779503"
+  "updated_at": "2026-02-03T17:24:51.883506",
+  "first_prize_draws": [
+    292
+  ],
+  "second_prize_draws": [
+    384
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

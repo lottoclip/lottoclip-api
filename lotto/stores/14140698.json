@@ -1,7 +1,7 @@
 {
   "store_id": "14140698",
   "name": "세븐일레븐 중동현대점",
-  "address": "경기 부천시 석천로183번길 35 ",
+  "address": "경기 부천시  석천로183번길 35 102호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 37.503925,
   "longitude": 126.761112,
-  "updated_at": "2026-01-12T11:57:14.394401"
+  "updated_at": "2026-02-03T18:23:47.884899",
+  "first_prize_draws": [
+    1131,
+    1050
+  ],
+  "second_prize_draws": [
+    1081,
+    1071,
+    1067,
+    1064
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 4
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "13140002",
   "name": "명당로또",
-  "address": "울산 남구 팔등로 65 ",
+  "address": "울산 남구 팔등로 65  ",
   "phone": "052-276-8379",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 35.545662,
   "longitude": 129.313444,
-  "updated_at": "2026-01-12T11:48:54.482728"
+  "updated_at": "2026-02-03T18:29:48.896829",
+  "first_prize_draws": [
+    1012
+  ],
+  "second_prize_draws": [
+    1207,
+    1191,
+    1140,
+    1138
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

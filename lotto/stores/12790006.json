@@ -1,7 +1,7 @@
 {
   "store_id": "12790006",
   "name": "토토복권",
-  "address": "대구 서구 달서로12길 9 ",
+  "address": "대구 서구  달서로12길 9 ",
   "phone": "053-561-1298",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 35.867579,
   "longitude": 128.572083,
-  "updated_at": "2026-01-12T11:53:40.203110"
+  "updated_at": "2026-02-03T18:20:06.985532",
+  "first_prize_draws": [
+    1083,
+    912
+  ],
+  "second_prize_draws": [
+    1057,
+    971,
+    926,
+    762,
+    735
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 5
 }

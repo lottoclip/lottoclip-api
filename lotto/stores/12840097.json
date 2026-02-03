@@ -1,7 +1,7 @@
 {
   "store_id": "12840097",
   "name": "지에스25 계산브래뉴점",
-  "address": "인천 계양구 계양대로 215 ",
+  "address": "인천 계양구  계양대로 215 1층 107호",
   "phone": "032-542-6871",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 37.542937,
   "longitude": 126.721536,
-  "updated_at": "2026-01-12T11:53:08.776911"
+  "updated_at": "2026-02-03T18:19:08.159453",
+  "first_prize_draws": [
+    1073
+  ],
+  "second_prize_draws": [
+    1055,
+    1029,
+    967
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

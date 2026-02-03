@@ -1,7 +1,7 @@
 {
   "store_id": "14240074",
   "name": "철암로또점",
-  "address": "강원 태백시 장성로 37 ",
+  "address": "강원 태백시  장성로 37 ",
   "phone": "033-582-9889",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 37.101752,
   "longitude": 129.009913,
-  "updated_at": "2026-01-12T11:56:51.795381"
+  "updated_at": "2026-02-03T18:25:55.679375",
+  "first_prize_draws": [
+    1124
+  ],
+  "second_prize_draws": [
+    1157,
+    1149,
+    953
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

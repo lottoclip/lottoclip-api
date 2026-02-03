@@ -1,7 +1,7 @@
 {
   "store_id": "13000035",
   "name": "복권명당",
-  "address": "대전 중구 태평로44번길 18 ",
+  "address": "대전 중구  태평로44번길 27 현암에버드림 상가",
   "phone": "042-526-5593",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 36.320846,
   "longitude": 127.393916,
-  "updated_at": "2026-01-12T11:29:36.612252"
+  "updated_at": "2026-02-03T18:22:24.361413",
+  "first_prize_draws": [
+    678
+  ],
+  "second_prize_draws": [
+    1115,
+    1109,
+    899,
+    684,
+    653
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

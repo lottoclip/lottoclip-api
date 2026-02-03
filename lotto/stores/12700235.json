@@ -1,7 +1,7 @@
 {
   "store_id": "12700235",
-  "name": "서재복권방",
-  "address": "대구 달성군 대실역남로 8 ",
+  "name": "다사복권편의점",
+  "address": "대구 달성군  다사읍 대실역남로 8 102호",
   "phone": "053-588-9339",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 35.85713,
   "longitude": 128.465117,
-  "updated_at": "2026-01-12T11:18:00.795262"
+  "updated_at": "2026-02-03T18:20:24.565302",
+  "first_prize_draws": [
+    481
+  ],
+  "second_prize_draws": [
+    1087,
+    1032,
+    765,
+    688,
+    681,
+    650,
+    637,
+    570,
+    542,
+    398
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

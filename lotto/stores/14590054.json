@@ -1,7 +1,7 @@
 {
   "store_id": "14590054",
   "name": "시영마트",
-  "address": "전북 익산시 부송로 52 ",
+  "address": "전북 익산시 부송동 1040번지 ",
   "phone": "063-831-1355",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 35.956782,
   "longitude": 126.991821,
-  "updated_at": "2026-01-12T11:33:17.628068"
+  "updated_at": "2026-02-03T17:51:51.688037",
+  "first_prize_draws": [
+    738
+  ],
+  "second_prize_draws": [
+    731,
+    572,
+    490
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

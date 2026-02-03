@@ -1,7 +1,7 @@
 {
   "store_id": "14290026",
   "name": "복권닷컴",
-  "address": "강원 양양군 양양로 62 ",
+  "address": "강원 양양군  양양로 62 ",
   "phone": "033-671-8252",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,26 @@
   ],
   "latitude": 38.075512,
   "longitude": 128.622326,
-  "updated_at": "2026-01-12T11:53:21.367768"
+  "updated_at": "2026-02-03T18:29:36.313269",
+  "first_prize_draws": [
+    1077,
+    860,
+    731,
+    544,
+    521
+  ],
+  "second_prize_draws": [
+    1204,
+    1139,
+    1041,
+    1040,
+    1032,
+    980,
+    856,
+    654,
+    517,
+    298
+  ],
+  "first_prize_count": 5,
+  "second_prize_count": 10
 }

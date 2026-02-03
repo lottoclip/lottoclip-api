@@ -1,7 +1,7 @@
 {
   "store_id": "11100634",
   "name": "한냉매점",
-  "address": "서울 동작구 노들로 674 ",
+  "address": "서울 동작구  노들로 674 2층 10호",
   "phone": "02-2254-8550",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 37.514609,
   "longitude": 126.936813,
-  "updated_at": "2026-01-12T11:10:18.338249"
+  "updated_at": "2026-02-03T18:26:40.875245",
+  "first_prize_draws": [
+    356
+  ],
+  "second_prize_draws": [
+    1164,
+    607,
+    427
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

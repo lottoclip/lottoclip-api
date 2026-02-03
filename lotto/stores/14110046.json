@@ -1,7 +1,7 @@
 {
   "store_id": "14110046",
   "name": "GS25오리점",
-  "address": "경기 성남시 분당구 구미동 구미동 158하나이지타워107호",
+  "address": "경기 성남시 분당구 구미동  158번지 하나이지타워107호",
   "phone": "031-8022-6004",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,18 @@
   ],
   "latitude": 37.340015,
   "longitude": 127.107784,
-  "updated_at": "2026-01-12T11:09:02.513071"
+  "updated_at": "2026-02-03T17:45:19.076560",
+  "first_prize_draws": [
+    336
+  ],
+  "second_prize_draws": [
+    664,
+    552,
+    550,
+    502,
+    478,
+    434
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

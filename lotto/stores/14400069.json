@@ -1,7 +1,7 @@
 {
   "store_id": "14400069",
   "name": "복터졌다 복권방",
-  "address": "충남 아산시 온천대로 1510-10 ",
+  "address": "충남 아산시  온천대로 1510-10 1층",
   "phone": "041-546-4726",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 36.780491,
   "longitude": 127.005263,
-  "updated_at": "2026-01-12T11:53:47.054470"
+  "updated_at": "2026-02-03T18:29:01.448276",
+  "first_prize_draws": [
+    1085
+  ],
+  "second_prize_draws": [
+    1196,
+    811,
+    793,
+    758,
+    491,
+    419,
+    393
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

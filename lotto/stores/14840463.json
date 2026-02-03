@@ -1,7 +1,7 @@
 {
   "store_id": "14840463",
   "name": "행운복권방",
-  "address": "경남 창원시 성산구 가음로15번길 52 ",
+  "address": "경남 창원시 성산구  가음로15번길 52 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,11 @@
   ],
   "latitude": 35.213012,
   "longitude": 128.703213,
-  "updated_at": "2026-01-12T11:58:36.830406"
+  "updated_at": "2026-02-03T18:25:34.248519",
+  "first_prize_draws": [
+    1152
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

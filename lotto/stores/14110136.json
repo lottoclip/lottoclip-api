@@ -1,7 +1,7 @@
 {
   "store_id": "14110136",
   "name": "로또복권방",
-  "address": "경기 파주시 금촌동  374-11번지",
+  "address": "경기 파주시 금촌동 386-4 1층",
   "phone": "031-945-2695",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 37.765816,
   "longitude": 126.770121,
-  "updated_at": "2026-01-12T11:28:49.305028"
+  "updated_at": "2026-02-03T18:06:05.660130",
+  "first_prize_draws": [
+    668,
+    535
+  ],
+  "second_prize_draws": [
+    913,
+    899,
+    789,
+    728,
+    698,
+    651,
+    347
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 7
 }

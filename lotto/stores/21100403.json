@@ -1,12 +1,21 @@
 {
   "store_id": "21100403",
   "name": "GS25(관악한일)",
-  "address": "서울 관악구 남현동  602-11 한일빌딩 1층",
+  "address": "서울 관악구 남현동  602-11한일빌딩1층",
   "phone": "02-581-7071",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.473975,
   "longitude": 126.981314,
-  "updated_at": "2026-01-12T11:04:50.036270"
+  "updated_at": "2026-02-03T17:30:58.886006",
+  "first_prize_draws": [
+    263
+  ],
+  "second_prize_draws": [
+    474,
+    397
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

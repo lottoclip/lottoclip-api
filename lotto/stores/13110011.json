@@ -1,12 +1,29 @@
 {
   "store_id": "13110011",
   "name": "에브리데이",
-  "address": "울산 동구 대송로 103-1 ",
+  "address": "울산 동구 서부동 113-49번지 ",
   "phone": null,
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 35.498967,
   "longitude": 129.423989,
-  "updated_at": "2026-01-12T11:37:58.231212"
+  "updated_at": "2026-02-03T18:03:35.597578",
+  "first_prize_draws": [
+    822
+  ],
+  "second_prize_draws": [
+    883,
+    878,
+    856,
+    749,
+    705,
+    684,
+    619,
+    546,
+    539,
+    361
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

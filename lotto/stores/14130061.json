@@ -1,7 +1,7 @@
 {
   "store_id": "14130061",
   "name": "용이복권방",
-  "address": "경기 평택시 현신3길 44 ",
+  "address": "경기 평택시  현신3길 44 ",
   "phone": "031-651-6999",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 36.996969,
   "longitude": 127.139624,
-  "updated_at": "2026-01-12T11:58:36.713430"
+  "updated_at": "2026-02-03T18:27:25.201548",
+  "first_prize_draws": [
+    1152,
+    1097
+  ],
+  "second_prize_draws": [
+    1174,
+    1103,
+    1035,
+    968,
+    935,
+    835,
+    718
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 7
 }

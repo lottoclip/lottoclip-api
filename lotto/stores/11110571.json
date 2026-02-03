@@ -1,7 +1,7 @@
 {
   "store_id": "11110571",
   "name": "현대",
-  "address": "서울 도봉구 도봉로110길 74 ",
+  "address": "서울 도봉구  도봉로110길 74 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 37.646204,
   "longitude": 127.037653,
-  "updated_at": "2026-01-12T11:45:58.189395"
+  "updated_at": "2026-02-03T18:23:56.464660",
+  "first_prize_draws": [
+    961,
+    676,
+    280
+  ],
+  "second_prize_draws": [
+    1133,
+    955,
+    943,
+    675,
+    668,
+    424
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 6
 }

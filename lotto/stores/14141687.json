@@ -1,7 +1,7 @@
 {
   "store_id": "14141687",
   "name": "목인",
-  "address": "경기 고양시 일산동구 장항로 127 ",
+  "address": "경기 고양시 일산동구  장항로 127 B동",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,11 @@
   ],
   "latitude": 37.635,
   "longitude": 126.78235,
-  "updated_at": "2026-01-12T11:56:11.199891"
+  "updated_at": "2026-02-03T18:22:28.605240",
+  "first_prize_draws": [
+    1116
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

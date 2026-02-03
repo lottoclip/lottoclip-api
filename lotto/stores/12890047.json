@@ -1,7 +1,7 @@
 {
   "store_id": "12890047",
   "name": "미니24시",
-  "address": "인천 미추홀구 경인로 437 ",
+  "address": "인천 미추홀구  경인로 437 ",
   "phone": "032-441-6264",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,25 @@
   ],
   "latitude": 37.458142,
   "longitude": 126.688673,
-  "updated_at": "2026-01-12T11:44:58.609624"
+  "updated_at": "2026-02-03T18:28:29.897503",
+  "first_prize_draws": [
+    942
+  ],
+  "second_prize_draws": [
+    1189,
+    1157,
+    1132,
+    1026,
+    991,
+    965,
+    890,
+    810,
+    652,
+    546,
+    376,
+    328,
+    309
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 13
 }

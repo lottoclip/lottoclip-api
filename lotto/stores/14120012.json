@@ -1,7 +1,7 @@
 {
   "store_id": "14120012",
   "name": "복권명당(광주시청점)",
-  "address": "경기 광주시 회안대로 900 ",
+  "address": "경기 광주시  회안대로 900 로얄프라자 115호",
   "phone": "031-797-8621",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 37.427339,
   "longitude": 127.256365,
-  "updated_at": "2026-01-12T11:50:12.473517"
+  "updated_at": "2026-02-03T18:28:30.069234",
+  "first_prize_draws": [
+    1032
+  ],
+  "second_prize_draws": [
+    1189,
+    1142,
+    1093,
+    1092,
+    1042,
+    1020,
+    902,
+    891,
+    841,
+    658
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

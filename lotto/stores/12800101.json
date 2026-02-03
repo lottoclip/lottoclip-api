@@ -1,7 +1,7 @@
 {
   "store_id": "12800101",
   "name": "인천상회",
-  "address": "인천 중구 차이나타운로 42 ",
+  "address": "인천 중구  차이나타운로 42 ",
   "phone": "032-766-7437",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 37.475589,
   "longitude": 126.619397,
-  "updated_at": "2026-01-12T11:26:11.254731"
+  "updated_at": "2026-02-03T18:26:45.201363",
+  "first_prize_draws": [
+    622
+  ],
+  "second_prize_draws": [
+    1165,
+    963,
+    751,
+    712,
+    460
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

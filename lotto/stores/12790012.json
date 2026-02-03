@@ -1,7 +1,7 @@
 {
   "store_id": "12790012",
-  "name": "인생역전",
-  "address": "대구 달서구 대곡동  8-1",
+  "name": "성공마트",
+  "address": "대구 달서구  비슬로 2694 ",
   "phone": "053-636-7284",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 35.808096,
   "longitude": 128.510395,
-  "updated_at": "2026-01-12T11:14:46.157967"
+  "updated_at": "2026-02-03T18:16:33.897890",
+  "first_prize_draws": [
+    428
+  ],
+  "second_prize_draws": [
+    1042,
+    1000,
+    997,
+    969,
+    927,
+    806,
+    715,
+    300
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

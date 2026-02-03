@@ -1,7 +1,7 @@
 {
   "store_id": "13040193",
   "name": "관저중앙로또",
-  "address": "대전 서구 관저동로99번길 23 ",
+  "address": "대전 서구  관저동로99번길 23 편의점",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,11 @@
   ],
   "latitude": 36.300952,
   "longitude": 127.338821,
-  "updated_at": "2026-01-12T11:59:31.377311"
+  "updated_at": "2026-02-03T18:27:02.453274",
+  "first_prize_draws": [
+    1169
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

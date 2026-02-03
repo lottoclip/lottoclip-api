@@ -1,7 +1,7 @@
 {
   "store_id": "12700279",
-  "name": "다모아문구",
-  "address": "대구 서구 평리동  673-21번지",
+  "name": "다모아복권방",
+  "address": "대구 서구  문화로49길 24 1층 103호",
   "phone": "053-571-8787",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 35.877822,
   "longitude": 128.559309,
-  "updated_at": "2026-01-12T11:24:34.397470"
+  "updated_at": "2026-02-03T18:23:25.972535",
+  "first_prize_draws": [
+    597
+  ],
+  "second_prize_draws": [
+    1126,
+    1020,
+    923,
+    892,
+    868,
+    492,
+    476
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

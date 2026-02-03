@@ -1,0 +1,27 @@
+{
+  "store_id": "14110198",
+  "name": "드림복권방",
+  "address": "경기 남양주시  다산중앙로123번길 21-3 104호",
+  "phone": "031-577-8125",
+  "lottery_types": [
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 37.623389,
+  "longitude": 127.151426,
+  "updated_at": "2026-02-03T18:09:09.109204",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    948,
+    924,
+    919,
+    909,
+    763,
+    625,
+    588,
+    575,
+    302
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 9
+}

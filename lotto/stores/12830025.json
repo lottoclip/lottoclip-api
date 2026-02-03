@@ -1,7 +1,7 @@
 {
   "store_id": "12830025",
   "name": "희망복권방",
-  "address": "인천 계양구 효서로 293 ",
+  "address": "인천 계양구  효서로 293 ",
   "phone": "032-551-0054",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 37.528119,
   "longitude": 126.728673,
-  "updated_at": "2026-01-12T11:51:02.788766"
+  "updated_at": "2026-02-03T18:24:39.079955",
+  "first_prize_draws": [
+    1043,
+    951
+  ],
+  "second_prize_draws": [
+    1143,
+    1129,
+    1014,
+    966,
+    949,
+    924,
+    880,
+    727
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 8
 }

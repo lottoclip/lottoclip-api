@@ -1,12 +1,25 @@
 {
   "store_id": "14310036",
   "name": "옥산행운로또복권방",
-  "address": "충북 청원군 옥산면 오산리 196-7",
+  "address": "충북 청주시 흥덕구 옥산면 오산리 537-10번지 ",
   "phone": "043-278-3737",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 36.663921,
   "longitude": 127.374754,
-  "updated_at": "2026-01-12T11:13:10.118087"
+  "updated_at": "2026-02-03T18:00:05.190515",
+  "first_prize_draws": [
+    402
+  ],
+  "second_prize_draws": [
+    838,
+    680,
+    655,
+    522,
+    489,
+    376
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

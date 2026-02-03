@@ -1,7 +1,7 @@
 {
   "store_id": "12610159",
   "name": "제일복권",
-  "address": "부산 서구 충무대로 35-1 ",
+  "address": "부산 서구  충무대로 35-1 1층 복권방",
   "phone": "051-243-4691",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 35.078842,
   "longitude": 129.016585,
-  "updated_at": "2026-01-12T11:49:47.363745"
+  "updated_at": "2026-02-03T18:18:42.113956",
+  "first_prize_draws": [
+    1024,
+    468
+  ],
+  "second_prize_draws": [
+    1067,
+    937,
+    560,
+    538
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 4
 }

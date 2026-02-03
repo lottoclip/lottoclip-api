@@ -1,7 +1,7 @@
 {
   "store_id": "12600122",
   "name": "예스로또",
-  "address": "부산 사하구 낙동남로 1406 ",
+  "address": "부산 사하구  낙동남로 1381 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 35.105816,
   "longitude": 128.96558,
-  "updated_at": "2026-01-12T11:33:52.790969"
+  "updated_at": "2026-02-03T18:28:12.378401",
+  "first_prize_draws": [
+    749
+  ],
+  "second_prize_draws": [
+    1185,
+    1161,
+    1097,
+    1060,
+    699,
+    649
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14700002",
   "name": "로또안경콘택트",
-  "address": "경북 구미시 구미중앙로5길 2 ",
+  "address": "경북 구미시  구미중앙로5길 2 ",
   "phone": "054-475-1001",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 36.130323,
   "longitude": 128.328277,
-  "updated_at": "2026-01-12T11:58:23.642706"
+  "updated_at": "2026-02-03T18:25:15.898143",
+  "first_prize_draws": [
+    1148,
+    268
+  ],
+  "second_prize_draws": [
+    512,
+    485,
+    365
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 3
 }

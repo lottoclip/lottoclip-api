@@ -1,0 +1,28 @@
+{
+  "store_id": "11190106",
+  "name": "드림마트",
+  "address": "서울 영등포구  신길로54길 1 ",
+  "phone": "02-841-2228",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.511991,
+  "longitude": 126.910184,
+  "updated_at": "2026-02-03T18:27:29.278458",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1175,
+    1092,
+    1035,
+    782,
+    779,
+    772,
+    668,
+    641,
+    376
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 9
+}

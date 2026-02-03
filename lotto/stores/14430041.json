@@ -1,7 +1,7 @@
 {
   "store_id": "14430041",
   "name": "로또매점",
-  "address": "충남 당진시 송산로 723 ",
+  "address": "충남 당진시 송산로 723  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 36.953873,
   "longitude": 126.689323,
-  "updated_at": "2026-01-12T11:58:30.133517"
+  "updated_at": "2026-02-03T18:29:44.855731",
+  "first_prize_draws": [
+    1150,
+    1067,
+    1019
+  ],
+  "second_prize_draws": [
+    1206,
+    1191,
+    1164,
+    1122,
+    1109,
+    1107,
+    1039,
+    962,
+    930,
+    792
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 10
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14410089",
   "name": "세종로또복권방",
-  "address": "세종  금남면 용포리 88-17번지 ",
+  "address": "세종 세종 금남면 88-17번지 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,27 @@
   ],
   "latitude": 36.463174,
   "longitude": 127.280488,
-  "updated_at": "2026-01-12T11:31:34.770967"
+  "updated_at": "2026-02-03T18:00:40.848690",
+  "first_prize_draws": [
+    711,
+    684,
+    471
+  ],
+  "second_prize_draws": [
+    846,
+    799,
+    790,
+    779,
+    765,
+    754,
+    735,
+    647,
+    559,
+    553,
+    489,
+    386,
+    283
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 13
 }

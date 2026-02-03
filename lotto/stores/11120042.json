@@ -1,7 +1,7 @@
 {
   "store_id": "11120042",
   "name": "나눔로또수입과자",
-  "address": "서울 성북구 삼선교로 87 ",
+  "address": "서울 성북구  삼선교로 87 ",
   "phone": "070-4125-2542",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 37.589958,
   "longitude": 127.015004,
-  "updated_at": "2026-01-12T11:38:32.837328"
+  "updated_at": "2026-02-03T18:12:46.630655",
+  "first_prize_draws": [
+    833
+  ],
+  "second_prize_draws": [
+    993,
+    962
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

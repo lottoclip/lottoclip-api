@@ -1,7 +1,7 @@
 {
   "store_id": "14740339",
   "name": "팔팔복권",
-  "address": "경북 김천시 시청로 81 ",
+  "address": "경북 김천시  시청로 81 (신음동)좌측상가",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 36.135596,
   "longitude": 128.117055,
-  "updated_at": "2026-01-12T11:57:43.138155"
+  "updated_at": "2026-02-03T18:26:00.168714",
+  "first_prize_draws": [
+    1140
+  ],
+  "second_prize_draws": [
+    1158,
+    1144
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

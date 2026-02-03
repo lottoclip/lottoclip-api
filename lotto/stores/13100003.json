@@ -1,12 +1,32 @@
 {
   "store_id": "13100003",
   "name": "으뜸우리들복권방",
-  "address": "울산 남구 무거동 623-19번지 위드미편의점 내",
+  "address": "울산 남구  울밀로 2907 ",
   "phone": "052-223-7122",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 35.555,
   "longitude": 129.265758,
-  "updated_at": "2026-01-12T11:32:36.806561"
+  "updated_at": "2026-02-03T18:08:59.402822",
+  "first_prize_draws": [
+    730,
+    612
+  ],
+  "second_prize_draws": [
+    946,
+    861,
+    858,
+    763,
+    730,
+    722,
+    711,
+    604,
+    598,
+    585,
+    312,
+    272
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 12
 }

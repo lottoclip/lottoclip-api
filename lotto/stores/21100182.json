@@ -1,7 +1,7 @@
 {
   "store_id": "21100182",
   "name": "GS25(양재공원)",
-  "address": "서울 서초구 양재동  321-2",
+  "address": "서울 서초구  양재동 321-2번지",
   "phone": "02-573-4589",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,17 @@
   ],
   "latitude": 37.471019,
   "longitude": 127.04134,
-  "updated_at": "2026-01-12T11:06:26.663174"
+  "updated_at": "2026-02-03T17:43:04.901014",
+  "first_prize_draws": [
+    290
+  ],
+  "second_prize_draws": [
+    634,
+    594,
+    505,
+    464,
+    326
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

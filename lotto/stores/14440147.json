@@ -1,7 +1,7 @@
 {
   "store_id": "14440147",
   "name": "1등명당",
-  "address": "충남 서천군 장항로 220 ",
+  "address": "충남 서천군  장항로 220 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 36.009861,
   "longitude": 126.70148,
-  "updated_at": "2026-01-12T11:49:31.565914"
+  "updated_at": "2026-02-03T18:20:24.772559",
+  "first_prize_draws": [
+    1019
+  ],
+  "second_prize_draws": [
+    1087
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

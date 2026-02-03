@@ -1,7 +1,7 @@
 {
   "store_id": "14110131",
   "name": "천하명당",
-  "address": "경기 이천시 경충대로 3145 ",
+  "address": "경기 이천시 경충대로 3145  ",
   "phone": "031-631-5080",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 37.307138,
   "longitude": 127.402137,
-  "updated_at": "2026-01-12T11:23:41.383558"
+  "updated_at": "2026-02-03T18:29:49.025375",
+  "first_prize_draws": [
+    580
+  ],
+  "second_prize_draws": [
+    1207,
+    1203,
+    1189,
+    1116,
+    682,
+    667,
+    623,
+    421,
+    402,
+    276
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

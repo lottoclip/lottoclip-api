@@ -1,0 +1,26 @@
+{
+  "store_id": "12910085",
+  "name": "로또나라",
+  "address": "광주 북구 용봉동 1378-1번지 세븐스타즈 용봉점내",
+  "phone": "062-514-8114",
+  "lottery_types": [
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 35.179016,
+  "longitude": 126.894892,
+  "updated_at": "2026-02-03T17:51:41.897434",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    736,
+    693,
+    621,
+    544,
+    457,
+    383,
+    380,
+    265
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 8
+}

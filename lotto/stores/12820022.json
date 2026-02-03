@@ -1,7 +1,7 @@
 {
   "store_id": "12820022",
   "name": "백령로또",
-  "address": "인천 옹진군 백령로278번길 18 ",
+  "address": "인천 옹진군  백령로278번길 18 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,14 @@
   ],
   "latitude": 37.972107,
   "longitude": 124.720619,
-  "updated_at": "2026-01-12T11:50:59.509089"
+  "updated_at": "2026-02-03T18:20:15.957154",
+  "first_prize_draws": [
+    1042
+  ],
+  "second_prize_draws": [
+    1085,
+    759
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

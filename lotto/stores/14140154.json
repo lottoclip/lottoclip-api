@@ -1,7 +1,7 @@
 {
   "store_id": "14140154",
-  "name": "배곧로또판매점",
-  "address": "경기 시흥시 은계번영길 7 ",
+  "name": "1등복권방",
+  "address": "경기 시흥시  은계번영길 7 112호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.437098,
   "longitude": 126.80162,
-  "updated_at": "2026-01-12T11:43:13.617899"
+  "updated_at": "2026-02-03T18:18:03.365775",
+  "first_prize_draws": [
+    913
+  ],
+  "second_prize_draws": [
+    1058,
+    1020,
+    1008,
+    911,
+    906,
+    852,
+    790
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

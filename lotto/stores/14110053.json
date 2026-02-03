@@ -1,7 +1,7 @@
 {
   "store_id": "14110053",
   "name": "나눔이매로또",
-  "address": "경기 성남시 분당구 이매동 120-7 구두28호점",
+  "address": "경기 성남시 분당구  양현로94번길 21 구두28호점",
   "phone": "031-706-5440",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,16 @@
   ],
   "latitude": 37.390983,
   "longitude": 127.12636,
-  "updated_at": "2026-01-12T11:44:18.349875"
+  "updated_at": "2026-02-03T18:18:12.167906",
+  "first_prize_draws": [
+    929
+  ],
+  "second_prize_draws": [
+    1060,
+    1057,
+    811,
+    810
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

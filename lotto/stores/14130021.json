@@ -1,7 +1,7 @@
 {
   "store_id": "14130021",
   "name": "장원로또",
-  "address": "경기 수원시 영통구 중부대로246번길 10 ",
+  "address": "경기 수원시 영통구  중부대로246번길 10 1층 3호",
   "phone": "070-7622-3869",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 37.27466,
   "longitude": 127.042328,
-  "updated_at": "2026-01-12T11:48:57.496535"
+  "updated_at": "2026-02-03T18:29:18.359841",
+  "first_prize_draws": [
+    1013,
+    775
+  ],
+  "second_prize_draws": [
+    1200,
+    1189,
+    1088,
+    1051,
+    1024,
+    1010,
+    987,
+    980,
+    954
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 9
 }

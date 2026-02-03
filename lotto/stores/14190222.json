@@ -1,7 +1,7 @@
 {
   "store_id": "14190222",
   "name": "천하명당",
-  "address": "경기 안양시 동안구 부림로 121 ",
+  "address": "경기 안양시 동안구  부림로 121 제125제126",
   "phone": "031-444-7999",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.39411,
   "longitude": 126.96444,
-  "updated_at": "2026-01-12T11:41:52.712128"
+  "updated_at": "2026-02-03T18:28:39.373228",
+  "first_prize_draws": [
+    887,
+    568
+  ],
+  "second_prize_draws": [
+    1191,
+    1118,
+    1099,
+    1052,
+    840,
+    576
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 6
 }

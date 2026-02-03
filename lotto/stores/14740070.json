@@ -1,7 +1,7 @@
 {
   "store_id": "14740070",
   "name": "옥좌로또점",
-  "address": "경북 경주시 내외로 10 ",
+  "address": "경북 경주시  내외로 10 좌측4번째상가",
   "phone": "054-000-0000",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 35.727048,
   "longitude": 129.32067,
-  "updated_at": "2026-01-12T11:56:20.816041"
+  "updated_at": "2026-02-03T18:22:41.881411",
+  "first_prize_draws": [
+    1119,
+    1077,
+    990
+  ],
+  "second_prize_draws": [
+    1065,
+    1040,
+    982
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 3
 }

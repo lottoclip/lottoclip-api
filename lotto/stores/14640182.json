@@ -1,7 +1,7 @@
 {
   "store_id": "14640182",
   "name": "추섬로또",
-  "address": "전남 완도군 개포로145번길 44-4 ",
+  "address": "전남 완도군  개포로145번길 44-4 제2호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 34.322742,
   "longitude": 126.742556,
-  "updated_at": "2026-01-12T11:52:05.902837"
+  "updated_at": "2026-02-03T18:20:38.021486",
+  "first_prize_draws": [
+    1058
+  ],
+  "second_prize_draws": [
+    1090
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

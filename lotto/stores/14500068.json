@@ -1,12 +1,24 @@
 {
   "store_id": "14500068",
-  "name": "와이마트",
-  "address": "전북 전주시 완산구 유연로 268 ",
+  "name": "와이복권판매점",
+  "address": "전북 전주시 완산구 중화산동2가 743-4 101 102 103호",
   "phone": "063-278-5454",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 35.82515,
   "longitude": 127.114793,
-  "updated_at": "2026-01-12T11:23:35.146625"
+  "updated_at": "2026-02-03T18:07:24.273279",
+  "first_prize_draws": [
+    578
+  ],
+  "second_prize_draws": [
+    929,
+    872,
+    485,
+    434,
+    330
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

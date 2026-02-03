@@ -1,7 +1,7 @@
 {
   "store_id": "11110454",
   "name": "대성복권방",
-  "address": "서울 금천구 독산동  1008-11층대성식품내",
+  "address": "서울 금천구 독산동(독산제3동) 959-23 1층 현대마트",
   "phone": "02-865-6949",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,17 @@
   ],
   "latitude": 37.478889,
   "longitude": 126.903526,
-  "updated_at": "2026-01-12T11:08:26.208424"
+  "updated_at": "2026-02-03T18:01:10.844704",
+  "first_prize_draws": [
+    329
+  ],
+  "second_prize_draws": [
+    853,
+    786,
+    741,
+    614,
+    477
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

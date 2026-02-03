@@ -1,7 +1,7 @@
 {
   "store_id": "14710173",
   "name": "행복마트",
-  "address": "경북 김천시 혁신로 185 ",
+  "address": "경북 김천시  혁신로 185 메타폴리스상가 120호",
   "phone": "054-432-0538",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 36.117534,
   "longitude": 128.183961,
-  "updated_at": "2026-01-12T12:00:25.806181"
+  "updated_at": "2026-02-03T18:28:30.596706",
+  "first_prize_draws": [
+    1186,
+    1043
+  ],
+  "second_prize_draws": [
+    1189,
+    1057,
+    1039,
+    688,
+    538,
+    426,
+    280
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 7
 }

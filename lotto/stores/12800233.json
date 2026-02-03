@@ -1,12 +1,24 @@
 {
   "store_id": "12800233",
   "name": "경준유통",
-  "address": "인천 중구 화랑목로100번길 65 ",
+  "address": "인천 중구  화랑목로100번길 65 104호",
   "phone": "032-773-6974",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.494153,
   "longitude": 126.499057,
-  "updated_at": "2026-01-12T11:50:18.849862"
+  "updated_at": "2026-02-03T18:22:07.554456",
+  "first_prize_draws": [
+    1034,
+    977
+  ],
+  "second_prize_draws": [
+    1111,
+    938,
+    811,
+    676
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 4
 }

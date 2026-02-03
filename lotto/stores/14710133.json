@@ -1,12 +1,31 @@
 {
   "store_id": "14710133",
   "name": "로또훼미리마트왜관점",
-  "address": "경북 칠곡군 왜관읍  왜관리191-3번지CU편의점 내",
+  "address": "경북 칠곡군 왜관읍 왜관리 191-3번지 CU편의점 내",
   "phone": "054-977-0683",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 35.99602,
   "longitude": 128.399263,
-  "updated_at": "2026-01-12T11:22:51.616987"
+  "updated_at": "2026-02-03T18:07:19.667740",
+  "first_prize_draws": [
+    564
+  ],
+  "second_prize_draws": [
+    928,
+    907,
+    868,
+    866,
+    828,
+    819,
+    816,
+    809,
+    672,
+    601,
+    567,
+    423
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 12
 }

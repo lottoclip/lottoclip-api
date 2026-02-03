@@ -1,12 +1,20 @@
 {
   "store_id": "11110747",
   "name": "증산점로또판매",
-  "address": "서울 은평구 증산동  189-3",
+  "address": "서울 은평구 증산동  189-3번지",
   "phone": "02-3152-0519",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.585514,
   "longitude": 126.908472,
-  "updated_at": "2026-01-12T11:21:49.366307"
+  "updated_at": "2026-02-03T17:39:07.763712",
+  "first_prize_draws": [
+    549
+  ],
+  "second_prize_draws": [
+    583
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

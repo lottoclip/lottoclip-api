@@ -1,7 +1,7 @@
 {
   "store_id": "14141684",
   "name": "행운복권방",
-  "address": "경기 고양시 덕양구 꽃마을로 66 ",
+  "address": "경기 고양시 덕양구  꽃마을로 66 1층105호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,12 @@
   ],
   "latitude": 37.601262,
   "longitude": 126.89335,
-  "updated_at": "2026-01-12T12:00:32.283750"
+  "updated_at": "2026-02-03T18:28:25.462382",
+  "first_prize_draws": [
+    1188,
+    1128
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 2,
+  "second_prize_count": 0
 }

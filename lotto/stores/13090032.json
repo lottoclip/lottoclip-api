@@ -1,7 +1,7 @@
 {
   "store_id": "13090032",
   "name": "주공24시편의방",
-  "address": "대전 동구 옥천로180번길 19 ",
+  "address": "대전 동구  옥천로180번길 19 판암주공아파트2차상가",
   "phone": "042-271-4779",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 36.316657,
   "longitude": 127.461163,
-  "updated_at": "2026-01-12T11:41:52.704935"
+  "updated_at": "2026-02-03T18:23:34.720994",
+  "first_prize_draws": [
+    887,
+    537,
+    475
+  ],
+  "second_prize_draws": [
+    1128,
+    1074,
+    1018,
+    980,
+    959,
+    785,
+    748,
+    731,
+    729,
+    683
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 10
 }

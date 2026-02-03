@@ -1,12 +1,20 @@
 {
   "store_id": "14190217",
   "name": "신봤다대박복권방",
-  "address": "경기 안산시 상록구 본오동 본오동 882-2  1층 우측상가",
+  "address": "경기 안산시 상록구 본오동 882-21층우측상가",
   "phone": "031-417-3488",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.293389,
   "longitude": 126.861729,
-  "updated_at": "2026-01-12T11:06:26.700048"
+  "updated_at": "2026-02-03T17:24:40.625887",
+  "first_prize_draws": [
+    290
+  ],
+  "second_prize_draws": [
+    381
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

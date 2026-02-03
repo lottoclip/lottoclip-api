@@ -1,7 +1,7 @@
 {
   "store_id": "14141040",
   "name": "대박로또",
-  "address": "경기 가평군 중앙로 35 ",
+  "address": "경기 가평군  중앙로 35 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 37.827776,
   "longitude": 127.515534,
-  "updated_at": "2026-01-12T11:59:44.067794"
+  "updated_at": "2026-02-03T18:27:42.471051",
+  "first_prize_draws": [
+    1173
+  ],
+  "second_prize_draws": [
+    1178,
+    1166,
+    1020,
+    1010
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

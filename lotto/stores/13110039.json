@@ -1,7 +1,7 @@
 {
   "store_id": "13110039",
-  "name": "우리들복권방(남구청)",
-  "address": "울산 남구 삼산로143번길 23 ",
+  "name": "이마트편의점",
+  "address": "울산 남구  삼산로143번길 23 이마트24울산동평점",
   "phone": "052-227-7110",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 35.538299,
   "longitude": 129.322056,
-  "updated_at": "2026-01-12T11:26:04.915767"
+  "updated_at": "2026-02-03T18:07:32.987456",
+  "first_prize_draws": [
+    620
+  ],
+  "second_prize_draws": [
+    931,
+    719,
+    572,
+    358
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14390023",
   "name": "로또하복대두진점",
-  "address": "충북 청주시 흥덕구 증안로 33 ",
+  "address": "충북 청주시 흥덕구  증안로 33 두진백로상가1층102호",
   "phone": "043-237-7979",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 36.637378,
   "longitude": 127.426928,
-  "updated_at": "2026-01-12T11:54:36.242159"
+  "updated_at": "2026-02-03T18:20:42.175441",
+  "first_prize_draws": [
+    1091
+  ],
+  "second_prize_draws": [
+    851,
+    641,
+    578,
+    428,
+    425
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

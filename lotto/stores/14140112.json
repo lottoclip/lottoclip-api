@@ -1,7 +1,7 @@
 {
   "store_id": "14140112",
   "name": "복권사랑",
-  "address": "경기 안산시 단원구 와동 112-8 ",
+  "address": "경기 안산시 단원구  와동로 117 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 37.340342,
   "longitude": 126.826882,
-  "updated_at": "2026-01-12T11:36:52.813242"
+  "updated_at": "2026-02-03T18:07:28.438073",
+  "first_prize_draws": [
+    801
+  ],
+  "second_prize_draws": [
+    930,
+    895
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

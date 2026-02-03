@@ -1,7 +1,7 @@
 {
   "store_id": "13000143",
   "name": "금맥을캐다",
-  "address": "대전 중구 대둔산로 472-1 ",
+  "address": "대전 중구  대둔산로 472-1 ",
   "phone": "042-585-7066",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 36.311199,
   "longitude": 127.388842,
-  "updated_at": "2026-01-12T11:33:52.805455"
+  "updated_at": "2026-02-03T18:22:28.573683",
+  "first_prize_draws": [
+    749
+  ],
+  "second_prize_draws": [
+    1116,
+    977,
+    838,
+    632,
+    559,
+    272
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

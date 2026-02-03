@@ -1,8 +1,8 @@
 {
   "store_id": "14700117",
   "name": "안동슈퍼",
-  "address": "경북 안동시 경동로 669-3 ",
-  "phone": null,
+  "address": "경북 안동시  경동로 669-3 ",
+  "phone": "054-857-8706",
   "lottery_types": [
     "lotto645",
     "pension720",
@@ -10,5 +10,17 @@
   ],
   "latitude": 36.563347,
   "longitude": 128.73108,
-  "updated_at": "2026-01-12T11:54:58.305621"
+  "updated_at": "2026-02-03T18:24:09.638997",
+  "first_prize_draws": [
+    1098
+  ],
+  "second_prize_draws": [
+    1136,
+    991,
+    904,
+    854,
+    831
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

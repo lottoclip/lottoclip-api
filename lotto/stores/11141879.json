@@ -1,7 +1,7 @@
 {
   "store_id": "11141879",
   "name": "대박 동행로또복권",
-  "address": "서울 중구 청계천로 246 ",
+  "address": "서울 중구  청계천로 246 평화시장1층 84호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,11 @@
   ],
   "latitude": 37.56936,
   "longitude": 127.00455,
-  "updated_at": "2026-01-12T11:58:36.598530"
+  "updated_at": "2026-02-03T18:25:33.646857",
+  "first_prize_draws": [
+    1152
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

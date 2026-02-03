@@ -1,7 +1,7 @@
 {
   "store_id": "14700009",
   "name": "모퉁이슈퍼",
-  "address": "경북 안동시 서동문로 102 ",
+  "address": "경북 안동시  서동문로 102 ",
   "phone": "054-853-7887",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 36.566682,
   "longitude": 128.722933,
-  "updated_at": "2026-01-12T11:19:44.074723"
+  "updated_at": "2026-02-03T18:14:21.736792",
+  "first_prize_draws": [
+    509
+  ],
+  "second_prize_draws": [
+    1015,
+    679
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

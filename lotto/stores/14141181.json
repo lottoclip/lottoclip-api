@@ -1,7 +1,7 @@
 {
   "store_id": "14141181",
   "name": "동하인터내셔날",
-  "address": "경기 남양주시 진건오남로884번길 23 ",
+  "address": "경기 남양주시  진건오남로884번길 23 105106호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 37.70544,
   "longitude": 127.198086,
-  "updated_at": "2026-01-12T12:01:51.512831"
+  "updated_at": "2026-02-03T18:29:31.571296",
+  "first_prize_draws": [
+    1203
+  ],
+  "second_prize_draws": [
+    1197,
+    1194,
+    1009
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

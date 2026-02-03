@@ -1,7 +1,7 @@
 {
   "store_id": "12600077",
   "name": "왕대박",
-  "address": "부산 동래구 여고로113번길 59-4 ",
+  "address": "부산 동래구  여고로113번길 59-4 ",
   "phone": "051-503-1524",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 35.201071,
   "longitude": 129.074097,
-  "updated_at": "2026-01-12T11:43:59.607670"
+  "updated_at": "2026-02-03T18:13:50.972270",
+  "first_prize_draws": [
+    923,
+    701,
+    316
+  ],
+  "second_prize_draws": [
+    1008,
+    977,
+    943,
+    816,
+    811,
+    810,
+    724,
+    637
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 8
 }

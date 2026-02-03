@@ -1,7 +1,7 @@
 {
   "store_id": "14740360",
   "name": "복권판매점 약목점",
-  "address": "경북 칠곡군 약목로 75-3 ",
+  "address": "경북 칠곡군  약목로 75-3 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 36.033074,
   "longitude": 128.365922,
-  "updated_at": "2026-01-12T11:58:23.650114"
+  "updated_at": "2026-02-03T18:26:32.954378",
+  "first_prize_draws": [
+    1148
+  ],
+  "second_prize_draws": [
+    1162,
+    1158
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

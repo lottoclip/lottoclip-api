@@ -1,7 +1,7 @@
 {
   "store_id": "14840435",
-  "name": "돈벼락맞는곳 로또점",
-  "address": "경남 김해시 선천로 117 ",
+  "name": "돈벼락맞는곳로또점",
+  "address": "경남 김해시  선천로 117 복권판매점",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 35.234468,
   "longitude": 128.84519,
-  "updated_at": "2026-01-12T11:56:08.020009"
+  "updated_at": "2026-02-03T18:29:01.579013",
+  "first_prize_draws": [
+    1115
+  ],
+  "second_prize_draws": [
+    1196,
+    1175,
+    1077
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

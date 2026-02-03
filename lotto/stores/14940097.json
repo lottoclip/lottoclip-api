@@ -1,7 +1,7 @@
 {
   "store_id": "14940097",
   "name": "제주 일번가",
-  "address": "제주 제주시 하귀로23길 1 ",
+  "address": "제주 제주시  하귀로23길 1 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 33.480183,
   "longitude": 126.402816,
-  "updated_at": "2026-01-12T11:56:08.026599"
+  "updated_at": "2026-02-03T18:25:29.904758",
+  "first_prize_draws": [
+    1115
+  ],
+  "second_prize_draws": [
+    1151,
+    1100
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

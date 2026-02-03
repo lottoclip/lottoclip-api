@@ -1,7 +1,7 @@
 {
   "store_id": "14740011",
   "name": "레인보우",
-  "address": "경북 경산시 성동로 16 ",
+  "address": "경북 경산시  성동로 16 101호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 35.836172,
   "longitude": 128.725576,
-  "updated_at": "2026-01-12T11:59:08.969974"
+  "updated_at": "2026-02-03T18:26:32.936514",
+  "first_prize_draws": [
+    1162
+  ],
+  "second_prize_draws": [
+    1017,
+    978,
+    955,
+    931
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

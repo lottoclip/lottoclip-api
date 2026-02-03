@@ -1,7 +1,7 @@
 {
   "store_id": "24900003",
   "name": "GS25(노형런던점)",
-  "address": "제주 제주시 노형동 1045-15 ",
+  "address": "제주 제주시  다랑곶6길 51 ",
   "phone": "064-748-3933",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,23 @@
   ],
   "latitude": 33.491116,
   "longitude": 126.478615,
-  "updated_at": "2026-01-12T11:34:11.620084"
+  "updated_at": "2026-02-03T18:14:34.164163",
+  "first_prize_draws": [
+    755
+  ],
+  "second_prize_draws": [
+    1018,
+    922,
+    891,
+    831,
+    737,
+    723,
+    707,
+    530,
+    431,
+    359,
+    292
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 11
 }

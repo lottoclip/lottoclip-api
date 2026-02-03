@@ -1,7 +1,7 @@
 {
   "store_id": "14440290",
   "name": "신불당 아이캔로또",
-  "address": "충남 천안시 서북구 불당25로 226 ",
+  "address": "충남 천안시 서북구  불당25로 226 골든스퀘어빌딩 118호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 36.822061,
   "longitude": 127.111202,
-  "updated_at": "2026-01-12T11:53:50.262907"
+  "updated_at": "2026-02-03T18:26:54.231108",
+  "first_prize_draws": [
+    1086
+  ],
+  "second_prize_draws": [
+    1167,
+    1145,
+    1065,
+    995
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

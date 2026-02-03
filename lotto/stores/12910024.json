@@ -1,7 +1,7 @@
 {
   "store_id": "12910024",
   "name": "알리바이로또하남3지구점",
-  "address": "광주 광산구 하남대로 95 ",
+  "address": "광주 광산구  하남대로 95 알리바이하남3지구점",
   "phone": "062-956-1282",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 35.18028,
   "longitude": 126.80372,
-  "updated_at": "2026-01-12T11:45:48.931523"
+  "updated_at": "2026-02-03T18:27:20.562332",
+  "first_prize_draws": [
+    958
+  ],
+  "second_prize_draws": [
+    1173,
+    1062,
+    1032,
+    800,
+    623
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

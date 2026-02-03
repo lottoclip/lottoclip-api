@@ -1,7 +1,7 @@
 {
   "store_id": "12800129",
   "name": "복권광장",
-  "address": "인천 부평구 백범로 500 ",
+  "address": "인천 부평구  백범로 500 1층(십정동)",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 37.47005,
   "longitude": 126.696399,
-  "updated_at": "2026-01-12T11:48:06.743773"
+  "updated_at": "2026-02-03T18:28:25.396585",
+  "first_prize_draws": [
+    997,
+    809
+  ],
+  "second_prize_draws": [
+    1188,
+    1070,
+    1062,
+    927,
+    890,
+    777,
+    747,
+    740,
+    667,
+    459
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 10
 }

@@ -1,12 +1,21 @@
 {
   "store_id": "14200020",
   "name": "복권세상도영점",
-  "address": "강원 원주시 예술관길 3 ",
+  "address": "강원 원주시  예술관길 3 1층",
   "phone": "033-764-7346",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.334284,
   "longitude": 127.94383,
-  "updated_at": "2026-01-12T11:12:08.903290"
+  "updated_at": "2026-02-03T18:16:47.570586",
+  "first_prize_draws": [
+    382
+  ],
+  "second_prize_draws": [
+    1045,
+    948
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

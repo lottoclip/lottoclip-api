@@ -1,0 +1,26 @@
+{
+  "store_id": "12890041",
+  "name": "복권왕권",
+  "address": "인천 남동구 간석동 114-6번지 ",
+  "phone": "032-435-9194",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.465894,
+  "longitude": 126.711024,
+  "updated_at": "2026-02-03T18:04:59.861401",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    902,
+    886,
+    851,
+    799,
+    762,
+    695,
+    518
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 7
+}

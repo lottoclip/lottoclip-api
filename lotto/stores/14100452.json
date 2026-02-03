@@ -1,7 +1,7 @@
 {
   "store_id": "14100452",
   "name": "복권판매점",
-  "address": "경기 고양시 일산서구 일산로 502 ",
+  "address": "경기 고양시 일산서구  일산로 502 분산상가동 1층 4호(일산동 후곡마을14단지)",
   "phone": "031-976-3940",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 37.676172,
   "longitude": 126.771956,
-  "updated_at": "2026-01-12T12:01:23.282893"
+  "updated_at": "2026-02-03T18:29:13.969100",
+  "first_prize_draws": [
+    1199,
+    725
+  ],
+  "second_prize_draws": [
+    1057,
+    1047,
+    979,
+    802,
+    742,
+    635,
+    522
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 7
 }

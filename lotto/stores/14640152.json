@@ -1,12 +1,20 @@
 {
   "store_id": "14640152",
   "name": "땅끝 로또",
-  "address": "전남 해남군 산정1길 111 ",
+  "address": "전남 해남군  산정1길 111 세븐일레븐",
   "phone": null,
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 34.36887,
   "longitude": 126.5191,
-  "updated_at": "2026-01-12T12:01:48.080228"
+  "updated_at": "2026-02-03T18:29:27.249155",
+  "first_prize_draws": [
+    1202
+  ],
+  "second_prize_draws": [
+    1112
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

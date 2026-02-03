@@ -1,7 +1,7 @@
 {
   "store_id": "14510107",
   "name": "행운복권방",
-  "address": "전북 부안군 번영로 109 ",
+  "address": "전북 부안군  번영로 109 ",
   "phone": "063-581-9951",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 35.72662,
   "longitude": 126.732553,
-  "updated_at": "2026-01-12T12:01:06.899595"
+  "updated_at": "2026-02-03T18:28:52.767006",
+  "first_prize_draws": [
+    1194
+  ],
+  "second_prize_draws": [
+    1116,
+    997,
+    922,
+    874,
+    579
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

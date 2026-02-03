@@ -1,7 +1,7 @@
 {
   "store_id": "14140587",
   "name": "MY레몬",
-  "address": "경기 광명시 금하로 533 ",
+  "address": "경기 광명시  금하로 533 1층일부(소하동)",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 37.451747,
   "longitude": 126.891289,
-  "updated_at": "2026-01-12T11:45:42.696465"
+  "updated_at": "2026-02-03T18:25:38.301210",
+  "first_prize_draws": [
+    956
+  ],
+  "second_prize_draws": [
+    1153,
+    1102,
+    943
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

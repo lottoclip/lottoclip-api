@@ -1,7 +1,7 @@
 {
   "store_id": "13030007",
   "name": "힐링로또",
-  "address": "대전 대덕구 송촌남로47번길 2 ",
+  "address": "대전 대덕구  송촌남로47번길 2 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 36.355906,
   "longitude": 127.44237,
-  "updated_at": "2026-01-12T11:40:29.064339"
+  "updated_at": "2026-02-03T18:23:13.468072",
+  "first_prize_draws": [
+    870
+  ],
+  "second_prize_draws": [
+    1123,
+    989,
+    873,
+    852,
+    807
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

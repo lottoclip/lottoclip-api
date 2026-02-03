@@ -1,12 +1,24 @@
 {
   "store_id": "13110078",
   "name": "화봉행운복권방",
-  "address": "울산 북구 연암동  417-1 1층코너",
+  "address": "울산 북구 연암동  417-1번지 1층우리들편의점",
   "phone": "052-286-6138",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 35.62844,
   "longitude": 129.353456,
-  "updated_at": "2026-01-12T11:18:41.208089"
+  "updated_at": "2026-02-03T17:41:43.971706",
+  "first_prize_draws": [
+    494
+  ],
+  "second_prize_draws": [
+    619,
+    582,
+    560,
+    467,
+    426
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

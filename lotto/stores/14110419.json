@@ -1,7 +1,7 @@
 {
   "store_id": "14110419",
   "name": "영일종합장식",
-  "address": "경기 안산시 단원구 고잔로 112 ",
+  "address": "경기 안산시 단원구  고잔로 112 신광프라자102호",
   "phone": "031-482-0039",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 37.318695,
   "longitude": 126.838532,
-  "updated_at": "2026-01-12T11:30:45.023865"
+  "updated_at": "2026-02-03T18:28:30.220030",
+  "first_prize_draws": [
+    695
+  ],
+  "second_prize_draws": [
+    1189,
+    1081,
+    996,
+    979,
+    901,
+    883,
+    509,
+    390,
+    312
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 9
 }

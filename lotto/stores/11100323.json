@@ -1,7 +1,7 @@
 {
   "store_id": "11100323",
   "name": "진흥슈퍼",
-  "address": "서울 강남구 논현로150길 31 ",
+  "address": "서울 강남구  논현로150길 31 ",
   "phone": "02-546-9053",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 37.519838,
   "longitude": 127.030928,
-  "updated_at": "2026-01-12T11:34:49.145074"
+  "updated_at": "2026-02-03T18:23:13.280501",
+  "first_prize_draws": [
+    767,
+    611
+  ],
+  "second_prize_draws": [
+    1123,
+    972,
+    955,
+    772,
+    725,
+    723,
+    624,
+    544,
+    412
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 9
 }

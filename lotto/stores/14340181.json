@@ -1,7 +1,7 @@
 {
   "store_id": "14340181",
   "name": "오사랑복권",
-  "address": "충북 청주시 흥덕구 진재로 42 ",
+  "address": "충북 청주시 흥덕구  진재로 42 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,12 @@
   ],
   "latitude": 36.634895,
   "longitude": 127.429641,
-  "updated_at": "2026-01-12T11:59:50.554977"
+  "updated_at": "2026-02-03T18:27:29.675445",
+  "first_prize_draws": [
+    1175,
+    1151
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 2,
+  "second_prize_count": 0
 }

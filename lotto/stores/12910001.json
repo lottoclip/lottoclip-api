@@ -1,7 +1,7 @@
 {
   "store_id": "12910001",
   "name": "천하명당복권방",
-  "address": "광주 서구 풍암순환로 5 ",
+  "address": "광주 서구  풍암순환로 5 대주파크빌아파트상가1층102호",
   "phone": "062-682-8984",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 35.126018,
   "longitude": 126.876624,
-  "updated_at": "2026-01-12T12:01:44.760828"
+  "updated_at": "2026-02-03T18:29:22.607040",
+  "first_prize_draws": [
+    1201
+  ],
+  "second_prize_draws": [
+    1167,
+    888,
+    653
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

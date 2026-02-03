@@ -1,7 +1,7 @@
 {
   "store_id": "14840320",
   "name": "스마일",
-  "address": "경남 양산시 북안남4길 2 ",
+  "address": "경남 양산시  북안남4길 2 복권판매점",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 35.34539,
   "longitude": 129.0383,
-  "updated_at": "2026-01-12T11:49:31.601296"
+  "updated_at": "2026-02-03T18:26:50.019816",
+  "first_prize_draws": [
+    1019,
+    1014
+  ],
+  "second_prize_draws": [
+    1166,
+    1150,
+    1131,
+    1083,
+    1050,
+    1015
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 6
 }

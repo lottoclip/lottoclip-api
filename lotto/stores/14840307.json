@@ -1,7 +1,7 @@
 {
   "store_id": "14840307",
   "name": "로또GS송림점",
-  "address": "경남 밀양시 삼문중앙로 48 ",
+  "address": "경남 밀양시  삼문중앙로 48 GS편의점 내",
   "phone": "055-355-3830",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 35.48572,
   "longitude": 128.7571,
-  "updated_at": "2026-01-12T11:54:52.085730"
+  "updated_at": "2026-02-03T18:27:16.511288",
+  "first_prize_draws": [
+    1096
+  ],
+  "second_prize_draws": [
+    1172
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

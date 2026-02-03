@@ -1,7 +1,7 @@
 {
   "store_id": "11100527",
   "name": "엔마트",
-  "address": "서울 동대문구 장한로31길 10 ",
+  "address": "서울 동대문구  장한로31길 10 ",
   "phone": "02-2244-2840",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 37.575423,
   "longitude": 127.071296,
-  "updated_at": "2026-01-12T11:59:08.714732"
+  "updated_at": "2026-02-03T18:26:32.336031",
+  "first_prize_draws": [
+    1162,
+    1132
+  ],
+  "second_prize_draws": [
+    836,
+    651,
+    623,
+    525,
+    502
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 5
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14140173",
   "name": "유방매표소",
-  "address": "경기 용인시 처인구 백옥대로 1388 ",
+  "address": "경기 용인시 처인구  백옥대로 1388 ",
   "phone": "031-338-2510",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 37.25881,
   "longitude": 127.212921,
-  "updated_at": "2026-01-12T11:56:38.842541"
+  "updated_at": "2026-02-03T18:24:30.801823",
+  "first_prize_draws": [
+    1120,
+    896,
+    844,
+    774
+  ],
+  "second_prize_draws": [
+    1141,
+    1120,
+    1119,
+    1082,
+    1052,
+    949,
+    904,
+    855,
+    811
+  ],
+  "first_prize_count": 4,
+  "second_prize_count": 9
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "11110123",
   "name": "로또방",
-  "address": "서울 영등포구 영중로 12 ",
+  "address": "서울 영등포구  영중로 12 ",
   "phone": "02-2675-5400",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,27 @@
   ],
   "latitude": 37.517626,
   "longitude": 126.906481,
-  "updated_at": "2026-01-12T11:51:31.685451"
+  "updated_at": "2026-02-03T18:27:11.465143",
+  "first_prize_draws": [
+    1052,
+    999,
+    736
+  ],
+  "second_prize_draws": [
+    1171,
+    1129,
+    1087,
+    982,
+    768,
+    751,
+    741,
+    619,
+    497,
+    386,
+    360,
+    280,
+    278
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 13
 }

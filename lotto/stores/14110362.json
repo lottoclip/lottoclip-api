@@ -1,7 +1,7 @@
 {
   "store_id": "14110362",
   "name": "로또복권",
-  "address": "경기 광명시 하안동 260-2번지 8단지종합상가공유지",
+  "address": "경기 광명시  금당로 36 8단지종합상가공유지",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.458889,
   "longitude": 126.882168,
-  "updated_at": "2026-01-12T11:30:16.730673"
+  "updated_at": "2026-02-03T18:14:25.659913",
+  "first_prize_draws": [
+    686
+  ],
+  "second_prize_draws": [
+    1016,
+    942,
+    882,
+    694,
+    422,
+    370,
+    276
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

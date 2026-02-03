@@ -1,7 +1,7 @@
 {
   "store_id": "12840217",
   "name": "일등복권방",
-  "address": "인천 계양구 임학동로 12 ",
+  "address": "인천 계양구  임학동로 12 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,11 @@
   ],
   "latitude": 37.543872,
   "longitude": 126.734598,
-  "updated_at": "2026-01-12T11:54:36.227309"
+  "updated_at": "2026-02-03T18:20:42.026438",
+  "first_prize_draws": [
+    1091
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

@@ -1,12 +1,22 @@
 {
   "store_id": "13010061",
   "name": "애니타임로또",
-  "address": "대전 유성구 계룡로46번길 85 ",
+  "address": "대전 유성구 장대동 281-23번지 커피숍 내",
   "phone": null,
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 36.351691,
   "longitude": 127.334497,
-  "updated_at": "2026-01-12T11:28:27.434950"
+  "updated_at": "2026-02-03T17:57:25.657356",
+  "first_prize_draws": [
+    661
+  ],
+  "second_prize_draws": [
+    807,
+    744,
+    728
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

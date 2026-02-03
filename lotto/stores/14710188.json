@@ -1,7 +1,7 @@
 {
   "store_id": "14710188",
-  "name": "훼미리마트 상도점",
-  "address": "경북 포항시 남구 문예로 68 ",
+  "name": "행복나눔 복권",
+  "address": "경북 포항시 남구  문예로 68 우측상가",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 36.013434,
   "longitude": 129.364163,
-  "updated_at": "2026-01-12T11:07:12.629354"
+  "updated_at": "2026-02-03T18:20:11.845370",
+  "first_prize_draws": [
+    305,
+    296
+  ],
+  "second_prize_draws": [
+    1084,
+    662,
+    627,
+    573,
+    406,
+    402,
+    355,
+    271
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 8
 }

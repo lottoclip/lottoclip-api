@@ -1,7 +1,7 @@
 {
   "store_id": "14430016",
   "name": "이마트24보령골드점",
-  "address": "충남 보령시 대천방조제로 20 ",
+  "address": "충남 보령시  대천방조제로 20 주2동 1~2호",
   "phone": "041-934-4657",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 36.346241,
   "longitude": 126.589058,
-  "updated_at": "2026-01-12T11:39:51.339157"
+  "updated_at": "2026-02-03T18:21:41.850308",
+  "first_prize_draws": [
+    858,
+    724
+  ],
+  "second_prize_draws": [
+    1105,
+    1006,
+    962,
+    894
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 4
 }

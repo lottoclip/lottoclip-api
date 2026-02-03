@@ -1,7 +1,7 @@
 {
   "store_id": "14490021",
   "name": "공주복권방",
-  "address": "충남 공주시 웅진로 210-2 ",
+  "address": "충남 공주시  웅진로 210-2 ",
   "phone": "041-854-3744",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 36.459109,
   "longitude": 127.125099,
-  "updated_at": "2026-01-12T11:43:19.872184"
+  "updated_at": "2026-02-03T18:28:17.232559",
+  "first_prize_draws": [
+    915,
+    529
+  ],
+  "second_prize_draws": [
+    1186,
+    1151,
+    1049,
+    964,
+    881,
+    682,
+    676,
+    554,
+    553,
+    496,
+    481
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 11
 }

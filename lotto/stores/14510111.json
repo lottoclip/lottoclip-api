@@ -1,7 +1,7 @@
 {
   "store_id": "14510111",
   "name": "복조리복권방",
-  "address": "전북 장수군 장계천변길 55-4 ",
+  "address": "전북 장수군  장계천변길 55-4 ",
   "phone": "063-351-0998",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 35.731015,
   "longitude": 127.583521,
-  "updated_at": "2026-01-12T11:59:05.628338"
+  "updated_at": "2026-02-03T18:26:37.119540",
+  "first_prize_draws": [
+    1161,
+    1067,
+    872,
+    516
+  ],
+  "second_prize_draws": [
+    1163,
+    942
+  ],
+  "first_prize_count": 4,
+  "second_prize_count": 2
 }

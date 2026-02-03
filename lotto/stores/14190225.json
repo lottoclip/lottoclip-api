@@ -1,7 +1,7 @@
 {
   "store_id": "14190225",
   "name": "복권방",
-  "address": "경기 용인시 기흥구 신갈로68번길 24 ",
+  "address": "경기 용인시 기흥구 신갈동 51번지 ",
   "phone": "031-282-2545",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 37.273156,
   "longitude": 127.108145,
-  "updated_at": "2026-01-12T11:37:48.945055"
+  "updated_at": "2026-02-03T18:02:45.794129",
+  "first_prize_draws": [
+    819,
+    653
+  ],
+  "second_prize_draws": [
+    875,
+    858,
+    823,
+    672,
+    606,
+    519,
+    313
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 7
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14420029",
-  "name": "로또복권",
-  "address": "충남 아산시 온천대로 2240 ",
+  "name": "로또복권 아이스마트호서점",
+  "address": "충남 아산시  온천대로 2240 101호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 36.777119,
   "longitude": 127.08152,
-  "updated_at": "2026-01-12T11:31:19.051084"
+  "updated_at": "2026-02-03T18:27:42.651742",
+  "first_prize_draws": [
+    706
+  ],
+  "second_prize_draws": [
+    1178,
+    1135,
+    1062,
+    971,
+    863,
+    788,
+    787,
+    748,
+    746,
+    718
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

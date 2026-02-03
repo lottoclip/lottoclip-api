@@ -1,12 +1,20 @@
 {
   "store_id": "11101161",
   "name": "행운마트",
-  "address": "서울 강동구 구천면로34길 71 ",
+  "address": "서울 강동구 천호동 100-3번지 ",
   "phone": "02-476-9497",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.542875,
   "longitude": 127.135038,
-  "updated_at": "2026-01-12T11:28:37.012724"
+  "updated_at": "2026-02-03T18:05:28.577730",
+  "first_prize_draws": [
+    664
+  ],
+  "second_prize_draws": [
+    905
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

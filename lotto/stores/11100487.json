@@ -1,12 +1,25 @@
 {
   "store_id": "11100487",
   "name": "호야식품",
-  "address": "서울 양천구 중앙로 234 ",
+  "address": "서울 양천구  중앙로 234 ",
   "phone": "02-2646-0247",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.517449,
   "longitude": 126.854329,
-  "updated_at": "2026-01-12T11:57:39.872657"
+  "updated_at": "2026-02-03T18:24:21.958876",
+  "first_prize_draws": [
+    1139,
+    1061
+  ],
+  "second_prize_draws": [
+    1113,
+    1030,
+    866,
+    427,
+    416
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 5
 }

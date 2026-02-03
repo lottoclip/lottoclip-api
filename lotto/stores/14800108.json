@@ -1,7 +1,7 @@
 {
   "store_id": "14800108",
   "name": "MONEY(편의점)",
-  "address": "경남 김해시 삼문로 25 ",
+  "address": "경남 김해시  삼문로 25 110호 복권판매점",
   "phone": "055-314-7717",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 35.192936,
   "longitude": 128.803316,
-  "updated_at": "2026-01-12T11:40:51.277414"
+  "updated_at": "2026-02-03T18:23:39.616578",
+  "first_prize_draws": [
+    877
+  ],
+  "second_prize_draws": [
+    1129,
+    470,
+    304
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

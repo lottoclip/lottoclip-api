@@ -1,7 +1,7 @@
 {
   "store_id": "14141906",
   "name": "금손로또방",
-  "address": "경기 의정부시 시민로121번길 34-5 ",
+  "address": "경기 의정부시  시민로121번길 34-5 1층(의정부동)",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 37.73986,
   "longitude": 127.049655,
-  "updated_at": "2026-01-12T11:51:18.703551"
+  "updated_at": "2026-02-03T18:27:07.096795",
+  "first_prize_draws": [
+    1048
+  ],
+  "second_prize_draws": [
+    1170,
+    1087
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

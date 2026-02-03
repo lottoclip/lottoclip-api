@@ -1,7 +1,7 @@
 {
   "store_id": "12600148",
   "name": "금성상회",
-  "address": "부산 동래구 충렬대로107번길 92-4 ",
+  "address": "부산 동래구  충렬대로107번길 92-4 ",
   "phone": "051-555-9998",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 35.210741,
   "longitude": 129.073664,
-  "updated_at": "2026-01-12T11:25:48.242705"
+  "updated_at": "2026-02-03T18:23:00.717287",
+  "first_prize_draws": [
+    615
+  ],
+  "second_prize_draws": [
+    1120,
+    952,
+    888,
+    751,
+    731,
+    678,
+    663,
+    650,
+    639
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 9
 }

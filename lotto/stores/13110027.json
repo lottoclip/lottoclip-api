@@ -1,7 +1,7 @@
 {
   "store_id": "13110027",
   "name": "행운복권방",
-  "address": "울산 중구 서동  53-1 1층 우리들편의점내",
+  "address": "울산 중구 서동 53-1번지 세븐일레븐 내",
   "phone": "052-293-4936",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,15 @@
   ],
   "latitude": 35.581032,
   "longitude": 129.347052,
-  "updated_at": "2026-01-12T11:12:27.231423"
+  "updated_at": "2026-02-03T17:56:51.581799",
+  "first_prize_draws": [
+    388
+  ],
+  "second_prize_draws": [
+    799,
+    794,
+    415
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

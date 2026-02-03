@@ -1,7 +1,7 @@
 {
   "store_id": "14190047",
   "name": "복권천국",
-  "address": "경기 광명시 기아로 6 ",
+  "address": "경기 광명시  기아로 6 ",
   "phone": "02-897-9174",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,27 @@
   ],
   "latitude": 37.436338,
   "longitude": 126.880292,
-  "updated_at": "2026-01-12T12:00:22.596506"
+  "updated_at": "2026-02-03T18:28:12.478684",
+  "first_prize_draws": [
+    1185,
+    1132
+  ],
+  "second_prize_draws": [
+    1137,
+    1116,
+    1079,
+    1013,
+    984,
+    872,
+    795,
+    775,
+    727,
+    696,
+    667,
+    429,
+    415,
+    411
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 14
 }

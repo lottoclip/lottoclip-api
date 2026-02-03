@@ -1,7 +1,7 @@
 {
   "store_id": "12640415",
   "name": "로또성지",
-  "address": "부산 부산진구 백양관문로 104-1 ",
+  "address": "부산 부산진구  백양관문로 104-1 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 35.168536,
   "longitude": 129.028557,
-  "updated_at": "2026-01-12T12:01:06.723573"
+  "updated_at": "2026-02-03T18:28:52.388817",
+  "first_prize_draws": [
+    1194
+  ],
+  "second_prize_draws": [
+    1111
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

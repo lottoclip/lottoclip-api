@@ -1,7 +1,7 @@
 {
   "store_id": "11100245",
   "name": "천하명당",
-  "address": "서울 관악구 신림동  613-3",
+  "address": "서울 관악구  난우길 18 1층",
   "phone": "02-867-6393",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 37.47456,
   "longitude": 126.91871,
-  "updated_at": "2026-01-12T11:17:23.486570"
+  "updated_at": "2026-02-03T18:21:32.968868",
+  "first_prize_draws": [
+    469
+  ],
+  "second_prize_draws": [
+    1103,
+    1072,
+    1019,
+    1008,
+    898,
+    832,
+    539,
+    369
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

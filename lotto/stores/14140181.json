@@ -1,7 +1,7 @@
 {
   "store_id": "14140181",
   "name": "씨유 용인포곡둔전점",
-  "address": "경기 용인시 처인구 포곡로118번길 26-1 ",
+  "address": "경기 용인시 처인구  포곡로118번길 26-1 103호",
   "phone": "031-339-0747",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 37.268516,
   "longitude": 127.220758,
-  "updated_at": "2026-01-12T11:44:55.572551"
+  "updated_at": "2026-02-03T18:28:03.769007",
+  "first_prize_draws": [
+    941
+  ],
+  "second_prize_draws": [
+    1183,
+    976
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

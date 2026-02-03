@@ -1,7 +1,7 @@
 {
   "store_id": "14620003",
   "name": "복권판매점",
-  "address": "전남 광양시 용강로 35 ",
+  "address": "전남 광양시  용강로 35 ",
   "phone": "061-761-6516",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 34.972713,
   "longitude": 127.608404,
-  "updated_at": "2026-01-12T11:49:44.092600"
+  "updated_at": "2026-02-03T18:21:16.467117",
+  "first_prize_draws": [
+    1023
+  ],
+  "second_prize_draws": [
+    1099,
+    987
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

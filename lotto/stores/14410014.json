@@ -1,7 +1,7 @@
 {
   "store_id": "14410014",
   "name": "동덕로또방",
-  "address": "충남 아산시 시장남길 26 ",
+  "address": "충남 아산시  시장남길 26 ",
   "phone": "041-545-4680",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 36.782608,
   "longitude": 127.003308,
-  "updated_at": "2026-01-12T11:51:15.483658"
+  "updated_at": "2026-02-03T18:17:11.044005",
+  "first_prize_draws": [
+    1047,
+    776
+  ],
+  "second_prize_draws": [
+    843,
+    786,
+    622,
+    321
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 4
 }

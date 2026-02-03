@@ -1,7 +1,7 @@
 {
   "store_id": "14590023",
   "name": "순창복권방",
-  "address": "전북 순창군 장류로 369 ",
+  "address": "전북 순창군  장류로 369 ",
   "phone": "063-653-0203",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 35.376489,
   "longitude": 127.1428,
-  "updated_at": "2026-01-12T11:50:41.407884"
+  "updated_at": "2026-02-03T18:24:01.114831",
+  "first_prize_draws": [
+    1041,
+    980
+  ],
+  "second_prize_draws": [
+    1134,
+    1099,
+    721,
+    489
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 4
 }

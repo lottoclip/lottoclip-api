@@ -1,0 +1,25 @@
+{
+  "store_id": "14130002",
+  "name": "선택복권방",
+  "address": "경기 수원시 장안구  조원로 99-2 1층 101호",
+  "phone": null,
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.301556,
+  "longitude": 127.014804,
+  "updated_at": "2026-02-03T18:25:51.098468",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1156,
+    1122,
+    929,
+    926,
+    896,
+    783
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 6
+}

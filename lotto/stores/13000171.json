@@ -1,7 +1,7 @@
 {
   "store_id": "13000171",
   "name": "대박마트",
-  "address": "대전 중구 충무로 124 ",
+  "address": "대전 중구 대사동 69-59번지 ",
   "phone": "042-257-4959",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 36.318713,
   "longitude": 127.430582,
-  "updated_at": "2026-01-12T11:39:42.124254"
+  "updated_at": "2026-02-03T18:01:19.526094",
+  "first_prize_draws": [
+    855,
+    388
+  ],
+  "second_prize_draws": [
+    545,
+    464,
+    291
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 3
 }

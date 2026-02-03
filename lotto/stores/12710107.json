@@ -1,7 +1,7 @@
 {
   "store_id": "12710107",
   "name": "훼미리마트노원영성점",
-  "address": "대구 북구 노원동3가  58-46",
+  "address": "대구 북구 노원동3가 58-46번지 ",
   "phone": "053-355-0061",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,15 @@
   ],
   "latitude": 35.900183,
   "longitude": 128.571848,
-  "updated_at": "2026-01-12T11:16:22.145057"
+  "updated_at": "2026-02-03T17:56:59.944862",
+  "first_prize_draws": [
+    454
+  ],
+  "second_prize_draws": [
+    801,
+    746,
+    308
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

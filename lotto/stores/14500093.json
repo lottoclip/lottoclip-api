@@ -1,12 +1,20 @@
 {
   "store_id": "14500093",
   "name": "드림복권",
-  "address": "전북 익산시 무왕로20길 20-2 ",
+  "address": "전북 익산시 어양동  643-6번지",
   "phone": "063-834-8808",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 35.957022,
   "longitude": 126.979917,
-  "updated_at": "2026-01-12T11:09:17.874363"
+  "updated_at": "2026-02-03T17:45:04.340594",
+  "first_prize_draws": [
+    341
+  ],
+  "second_prize_draws": [
+    661
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

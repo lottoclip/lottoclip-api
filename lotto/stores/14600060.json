@@ -1,7 +1,7 @@
 {
   "store_id": "14600060",
   "name": "알짜마트왕지점",
-  "address": "전남 순천시 왕궁길 60 ",
+  "address": "전남 순천시  왕궁길 60 중흥파크상가 309-101호",
   "phone": "061-725-2990",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 34.956314,
   "longitude": 127.53233,
-  "updated_at": "2026-01-12T11:57:07.938358"
+  "updated_at": "2026-02-03T18:23:39.540843",
+  "first_prize_draws": [
+    1129,
+    745,
+    334
+  ],
+  "second_prize_draws": [
+    1059,
+    1021,
+    972,
+    952,
+    838,
+    744,
+    271
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 7
 }

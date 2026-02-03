@@ -1,7 +1,7 @@
 {
   "store_id": "14141306",
   "name": "로또복권로데오서현점",
-  "address": "경기 성남시 분당구 분당로53번길 20 ",
+  "address": "경기 성남시 분당구  분당로53번길 20 1층 109호(서현동 이랜드분당프라자)",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 37.38407,
   "longitude": 127.12263,
-  "updated_at": "2026-01-12T11:58:33.402654"
+  "updated_at": "2026-02-03T18:28:30.123652",
+  "first_prize_draws": [
+    1151
+  ],
+  "second_prize_draws": [
+    1189
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

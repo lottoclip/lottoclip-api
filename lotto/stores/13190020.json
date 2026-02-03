@@ -1,7 +1,7 @@
 {
   "store_id": "13190020",
-  "name": "참조은 복권",
-  "address": "울산 중구 성안로 167 ",
+  "name": "참조은복권",
+  "address": "울산 중구 성안로 167 금관상가1층  ",
   "phone": "052-222-4482",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 35.575464,
   "longitude": 129.31623,
-  "updated_at": "2026-01-12T11:41:40.430962"
+  "updated_at": "2026-02-03T18:29:44.697085",
+  "first_prize_draws": [
+    883
+  ],
+  "second_prize_draws": [
+    1206,
+    969,
+    926,
+    695,
+    599,
+    381
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

@@ -1,12 +1,24 @@
 {
   "store_id": "12990040",
   "name": "훼미리그랜드",
-  "address": "광주 동구 의재로 34-1 ",
+  "address": "광주 동구  의재로 34-1 CU그랜드점내",
   "phone": "062-222-3694",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 35.13252,
   "longitude": 126.931364,
-  "updated_at": "2026-01-12T11:52:08.983649"
+  "updated_at": "2026-02-03T18:21:54.383172",
+  "first_prize_draws": [
+    1059
+  ],
+  "second_prize_draws": [
+    1108,
+    1058,
+    1006,
+    768,
+    478
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

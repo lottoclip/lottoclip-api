@@ -1,7 +1,7 @@
 {
   "store_id": "14130017",
   "name": "나눔로또",
-  "address": "경기 수원시 팔달구 팔달로2가(행궁동) 91-1 병원 앞 가판점",
+  "address": "경기 수원시 팔달구  정조로 791 병원 앞 가판점",
   "phone": "031-244-3810",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 37.278759,
   "longitude": 127.016276,
-  "updated_at": "2026-01-12T11:38:54.880563"
+  "updated_at": "2026-02-03T18:20:46.416071",
+  "first_prize_draws": [
+    840
+  ],
+  "second_prize_draws": [
+    1092,
+    951
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

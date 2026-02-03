@@ -1,7 +1,7 @@
 {
   "store_id": "14740374",
   "name": "우리복권판매점",
-  "address": "경북 포항시 북구 죽파로 35-1 ",
+  "address": "경북 포항시 북구  죽파로 35-1 1층 101호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,11 @@
   ],
   "latitude": 36.02839,
   "longitude": 129.360324,
-  "updated_at": "2026-01-12T11:59:31.419321"
+  "updated_at": "2026-02-03T18:27:02.842660",
+  "first_prize_draws": [
+    1169
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

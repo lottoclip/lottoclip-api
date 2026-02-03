@@ -1,7 +1,7 @@
 {
   "store_id": "13000150",
   "name": "형제상회",
-  "address": "대전 서구 계룡로 664-1 ",
+  "address": "대전 서구 용문동 256-3번지 ",
   "phone": "042-533-1071",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 36.336786,
   "longitude": 127.394722,
-  "updated_at": "2026-01-12T11:43:16.686387"
+  "updated_at": "2026-02-03T18:06:09.907439",
+  "first_prize_draws": [
+    914,
+    857,
+    495,
+    310
+  ],
+  "second_prize_draws": [
+    755,
+    666,
+    631,
+    614,
+    492,
+    406
+  ],
+  "first_prize_count": 4,
+  "second_prize_count": 6
 }

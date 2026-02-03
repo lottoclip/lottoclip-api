@@ -1,12 +1,22 @@
 {
   "store_id": "21100207",
   "name": "GS25(성애병원점)",
-  "address": "서울 영등포구 신길동(신길제1동) 467-3 ",
+  "address": "서울 영등포구  여의대방로53길 28 보성빌딩 ",
   "phone": "02-842-9691",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.512156,
   "longitude": 126.921698,
-  "updated_at": "2026-01-12T11:37:23.727393"
+  "updated_at": "2026-02-03T18:10:27.564829",
+  "first_prize_draws": [
+    811,
+    675
+  ],
+  "second_prize_draws": [
+    965,
+    849
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 2
 }

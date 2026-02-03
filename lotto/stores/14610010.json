@@ -1,7 +1,7 @@
 {
   "store_id": "14610010",
   "name": "우리로또복권방",
-  "address": "전남 여수시 무선중앙로 71 ",
+  "address": "전남 여수시  무선중앙로 71 ",
   "phone": "061-686-0607",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 34.772802,
   "longitude": 127.651816,
-  "updated_at": "2026-01-12T11:59:28.145144"
+  "updated_at": "2026-02-03T18:26:58.402521",
+  "first_prize_draws": [
+    1168,
+    870,
+    433
+  ],
+  "second_prize_draws": [
+    1110,
+    1082,
+    1036,
+    1007,
+    1002,
+    984,
+    968,
+    809,
+    467
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 9
 }

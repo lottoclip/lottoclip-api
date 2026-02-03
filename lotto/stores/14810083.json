@@ -1,7 +1,7 @@
 {
   "store_id": "14810083",
   "name": "상남로또방",
-  "address": "경남 밀양시 상남로 1147 ",
+  "address": "경남 밀양시 상남면 기산리 1475-4번지 ",
   "phone": "055-355-9678",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 35.458393,
   "longitude": 128.751321,
-  "updated_at": "2026-01-12T11:15:38.755616"
+  "updated_at": "2026-02-03T18:07:19.709488",
+  "first_prize_draws": [
+    440
+  ],
+  "second_prize_draws": [
+    928,
+    907,
+    545
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

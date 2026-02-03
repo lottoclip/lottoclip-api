@@ -1,7 +1,7 @@
 {
   "store_id": "11100673",
   "name": "대화식품",
-  "address": "서울 금천구 가산로 58 ",
+  "address": "서울 금천구  가산로 53 3호",
   "phone": "02-867-6372",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.471794,
   "longitude": 126.896701,
-  "updated_at": "2026-01-12T11:44:30.499491"
+  "updated_at": "2026-02-03T18:08:15.896615",
+  "first_prize_draws": [
+    933
+  ],
+  "second_prize_draws": [
+    940,
+    829,
+    792,
+    700,
+    670,
+    332,
+    280
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

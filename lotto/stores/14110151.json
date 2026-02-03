@@ -1,7 +1,7 @@
 {
   "store_id": "14110151",
   "name": "부자되세요복권방",
-  "address": "경기 평택시 진위서로 3 ",
+  "address": "경기 평택시  진위서로 3 2호",
   "phone": "031-668-9669",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 37.109638,
   "longitude": 127.063778,
-  "updated_at": "2026-01-12T11:46:04.564267"
+  "updated_at": "2026-02-03T18:27:59.579471",
+  "first_prize_draws": [
+    963,
+    432
+  ],
+  "second_prize_draws": [
+    1182,
+    809,
+    757,
+    751,
+    745,
+    707,
+    694,
+    596,
+    595,
+    593,
+    414
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 11
 }

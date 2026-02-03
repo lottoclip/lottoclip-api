@@ -1,7 +1,7 @@
 {
   "store_id": "14800113",
-  "name": "씨유월영마을점",
-  "address": "경남 창원시 마산합포구 월영남로 21 ",
+  "name": "씨유 월영마을점",
+  "address": "경남 창원시 마산합포구  월영남로 21 ",
   "phone": "055-221-3433",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 35.176915,
   "longitude": 128.558655,
-  "updated_at": "2026-01-12T11:32:33.685068"
+  "updated_at": "2026-02-03T18:15:10.725941",
+  "first_prize_draws": [
+    729,
+    270
+  ],
+  "second_prize_draws": [
+    1023,
+    1004,
+    831,
+    782,
+    641
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 5
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "12690072",
   "name": "대학도슈퍼",
-  "address": "부산 사상구 가야대로 366-1 ",
+  "address": "부산 사상구  가야대로 366-1 ",
   "phone": "051-324-2300",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 35.150974,
   "longitude": 129.012551,
-  "updated_at": "2026-01-12T11:26:48.875252"
+  "updated_at": "2026-02-03T18:23:17.533196",
+  "first_prize_draws": [
+    634,
+    577
+  ],
+  "second_prize_draws": [
+    1124,
+    1112,
+    909,
+    651,
+    407,
+    341
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 6
 }

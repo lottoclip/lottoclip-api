@@ -1,7 +1,7 @@
 {
   "store_id": "12840524",
   "name": "드림복권방",
-  "address": "인천 연수구 아트센터대로168번길 100 ",
+  "address": "인천 연수구  아트센터대로168번길 100 G동 180호(송도동한라 웨스턴파크 송도)",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 37.405178,
   "longitude": 126.62886,
-  "updated_at": "2026-01-12T11:59:05.557701"
+  "updated_at": "2026-02-03T18:27:20.555734",
+  "first_prize_draws": [
+    1161
+  ],
+  "second_prize_draws": [
+    1173,
+    1160
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

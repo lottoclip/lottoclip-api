@@ -1,0 +1,28 @@
+{
+  "store_id": "14130059",
+  "name": "로또마트",
+  "address": "경기 평택시  안현로서7길 2 1층 1001호(전일빌딩)",
+  "phone": null,
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 36.980785,
+  "longitude": 126.92693,
+  "updated_at": "2026-02-03T18:29:01.358652",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1196,
+    1194,
+    1123,
+    1106,
+    1081,
+    1010,
+    966,
+    954,
+    915
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 9
+}

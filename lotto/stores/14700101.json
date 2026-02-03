@@ -1,7 +1,7 @@
 {
   "store_id": "14700101",
   "name": "코리아25시",
-  "address": "경북 구미시 형곡동로 115 ",
+  "address": "경북 구미시  형곡동로 115 ",
   "phone": "054-455-9962",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 36.112697,
   "longitude": 128.335792,
-  "updated_at": "2026-01-12T11:53:24.791045"
+  "updated_at": "2026-02-03T18:27:55.452329",
+  "first_prize_draws": [
+    1078
+  ],
+  "second_prize_draws": [
+    1181,
+    1172,
+    1168,
+    1078,
+    980,
+    953,
+    911,
+    829,
+    763,
+    526
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

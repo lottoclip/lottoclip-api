@@ -1,7 +1,7 @@
 {
   "store_id": "14540046",
   "name": "좋은날 복권방",
-  "address": "전북 남원시 의총로 78 ",
+  "address": "전북 남원시  의총로 78 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 35.407716,
   "longitude": 127.376661,
-  "updated_at": "2026-01-12T11:53:21.374189"
+  "updated_at": "2026-02-03T18:26:45.609125",
+  "first_prize_draws": [
+    1077,
+    953
+  ],
+  "second_prize_draws": [
+    1165,
+    1033,
+    989
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 3
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14100153",
   "name": "황금대박복권나라",
-  "address": "경기 용인시 처인구 금령로85번길 16 ",
+  "address": "경기 용인시 처인구  금령로85번길 16 ",
   "phone": "031-335-2740",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,25 @@
   ],
   "latitude": 37.236787,
   "longitude": 127.205755,
-  "updated_at": "2026-01-12T11:36:49.675830"
+  "updated_at": "2026-02-03T18:27:02.620345",
+  "first_prize_draws": [
+    800
+  ],
+  "second_prize_draws": [
+    1169,
+    1156,
+    1045,
+    1002,
+    739,
+    694,
+    614,
+    612,
+    550,
+    528,
+    477,
+    442,
+    279
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 13
 }

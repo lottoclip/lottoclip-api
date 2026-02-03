@@ -1,7 +1,7 @@
 {
   "store_id": "14740072",
   "name": "칠복복권방",
-  "address": "경북 경주시 입실로 68 ",
+  "address": "경북 경주시  입실로 68 1층",
   "phone": "054-000-0000",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 35.714399,
   "longitude": 129.324616,
-  "updated_at": "2026-01-12T11:58:49.466650"
+  "updated_at": "2026-02-03T18:28:17.295953",
+  "first_prize_draws": [
+    1156
+  ],
+  "second_prize_draws": [
+    1186
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

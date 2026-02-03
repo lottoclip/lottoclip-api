@@ -1,7 +1,7 @@
 {
   "store_id": "14510039",
   "name": "100억만들기",
-  "address": "전북 전주시 덕진구 금암동 760-15번지",
+  "address": "전북 전주시 덕진구 송천동2가 354-3 ",
   "phone": "063-241-9560",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,14 @@
   ],
   "latitude": 35.794644,
   "longitude": 127.133719,
-  "updated_at": "2026-01-12T11:21:27.079053"
+  "updated_at": "2026-02-03T18:02:32.887996",
+  "first_prize_draws": [
+    542
+  ],
+  "second_prize_draws": [
+    872,
+    633
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

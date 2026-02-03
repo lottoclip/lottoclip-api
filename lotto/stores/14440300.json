@@ -1,7 +1,7 @@
 {
   "store_id": "14440300",
   "name": "황금로또 양당점",
-  "address": "충남 천안시 서북구 상덕로 185 ",
+  "address": "충남 천안시 서북구  상덕로 185 106호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 36.88308,
   "longitude": 127.123737,
-  "updated_at": "2026-01-12T11:56:58.066203"
+  "updated_at": "2026-02-03T18:23:26.269200",
+  "first_prize_draws": [
+    1126
+  ],
+  "second_prize_draws": [
+    1053,
+    1041
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

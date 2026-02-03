@@ -1,7 +1,7 @@
 {
   "store_id": "14510112",
   "name": "로또판매점",
-  "address": "전북 장수군 싸리재로 18 ",
+  "address": "전북 장수군  싸리재로 18 ",
   "phone": "063-351-1717",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 35.648822,
   "longitude": 127.520747,
-  "updated_at": "2026-01-12T11:30:10.563059"
+  "updated_at": "2026-02-03T18:29:05.766284",
+  "first_prize_draws": [
+    684,
+    344
+  ],
+  "second_prize_draws": [
+    1197,
+    1189,
+    785,
+    759,
+    747,
+    657,
+    440,
+    426,
+    326,
+    288
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 10
 }

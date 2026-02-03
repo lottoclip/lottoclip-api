@@ -1,7 +1,7 @@
 {
   "store_id": "11190089",
-  "name": "천하명당복권방동소문점",
-  "address": "서울 성북구 동소문로2길 13 ",
+  "name": "천하명당 미마트점",
+  "address": "서울 성북구  도봉로3길 9 1층",
   "phone": "02-922-5161",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 37.588129,
   "longitude": 127.007238,
-  "updated_at": "2026-01-12T11:39:07.334025"
+  "updated_at": "2026-02-03T18:19:54.148671",
+  "first_prize_draws": [
+    844,
+    455
+  ],
+  "second_prize_draws": [
+    1080,
+    669,
+    648,
+    593,
+    568,
+    507,
+    289
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 7
 }

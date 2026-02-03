@@ -1,7 +1,7 @@
 {
   "store_id": "14140650",
   "name": "지엘복권 및 위로마트",
-  "address": "경기 김포시 김포한강4로 565 ",
+  "address": "경기 김포시  김포한강4로 565 104호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 37.644853,
   "longitude": 126.621177,
-  "updated_at": "2026-01-12T11:49:53.526735"
+  "updated_at": "2026-02-03T18:29:01.247480",
+  "first_prize_draws": [
+    1026
+  ],
+  "second_prize_draws": [
+    1196,
+    1104,
+    1046
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

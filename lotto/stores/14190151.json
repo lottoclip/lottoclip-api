@@ -1,7 +1,7 @@
 {
   "store_id": "14190151",
   "name": "가야홀인원복권방",
-  "address": "경기 의정부시 체육로 306-14 ",
+  "address": "경기 의정부시  체육로 306-14 ",
   "phone": "031-855-8404",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 37.760474,
   "longitude": 127.041321,
-  "updated_at": "2026-01-12T11:54:36.235145"
+  "updated_at": "2026-02-03T18:26:45.429733",
+  "first_prize_draws": [
+    1091,
+    672
+  ],
+  "second_prize_draws": [
+    1165,
+    699
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 2
 }

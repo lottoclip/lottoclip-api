@@ -1,7 +1,7 @@
 {
   "store_id": "14100704",
   "name": "재우텔레콤",
-  "address": "경기 하남시 신평로 74 ",
+  "address": "경기 하남시 신장동 427-29번지 ",
   "phone": "031-796-3011",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 37.539893,
   "longitude": 127.206071,
-  "updated_at": "2026-01-12T11:28:52.531638"
+  "updated_at": "2026-02-03T17:47:33.181258",
+  "first_prize_draws": [
+    669,
+    341
+  ],
+  "second_prize_draws": [
+    694,
+    464,
+    463
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 3
 }

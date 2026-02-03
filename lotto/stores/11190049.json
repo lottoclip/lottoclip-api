@@ -1,7 +1,7 @@
 {
   "store_id": "11190049",
   "name": "엘도라도복권점문점",
-  "address": "서울 광진구 용마산로 47 ",
+  "address": "서울 광진구  용마산로 47 ",
   "phone": "02-455-0128",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 37.557813,
   "longitude": 127.087593,
-  "updated_at": "2026-01-12T11:54:45.812883"
+  "updated_at": "2026-02-03T18:20:54.849009",
+  "first_prize_draws": [
+    1094,
+    866,
+    852,
+    443
+  ],
+  "second_prize_draws": [
+    936,
+    663,
+    655,
+    637,
+    636,
+    468,
+    462
+  ],
+  "first_prize_count": 4,
+  "second_prize_count": 7
 }

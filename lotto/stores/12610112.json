@@ -1,7 +1,7 @@
 {
   "store_id": "12610112",
   "name": "서원복권방",
-  "address": "부산 강서구 공항로811번길 9 ",
+  "address": "부산 강서구  공항로811번길 9 ",
   "phone": "051-973-3338",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 35.179451,
   "longitude": 128.957306,
-  "updated_at": "2026-01-12T11:56:48.589122"
+  "updated_at": "2026-02-03T18:23:47.735922",
+  "first_prize_draws": [
+    1123
+  ],
+  "second_prize_draws": [
+    1131,
+    1125,
+    1076,
+    958,
+    845,
+    722,
+    555,
+    449,
+    446
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 9
 }

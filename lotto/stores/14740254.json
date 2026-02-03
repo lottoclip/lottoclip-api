@@ -1,7 +1,7 @@
 {
   "store_id": "14740254",
   "name": "역전로또",
-  "address": "경북 구미시 구미중앙로 72 ",
+  "address": "경북 구미시  구미중앙로 72 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 36.129061,
   "longitude": 128.330608,
-  "updated_at": "2026-01-12T12:00:19.264994"
+  "updated_at": "2026-02-03T18:28:08.289794",
+  "first_prize_draws": [
+    1184
+  ],
+  "second_prize_draws": [
+    1057
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

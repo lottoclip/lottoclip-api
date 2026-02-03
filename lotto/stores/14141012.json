@@ -1,7 +1,7 @@
 {
   "store_id": "14141012",
   "name": "대흥복권",
-  "address": "경기 화성시 행정서로3길 4-46 ",
+  "address": "경기 화성시 행정서로3길 4-46 101호  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.130063,
   "longitude": 126.917227,
-  "updated_at": "2026-01-12T11:54:42.728214"
+  "updated_at": "2026-02-03T18:29:40.631245",
+  "first_prize_draws": [
+    1093
+  ],
+  "second_prize_draws": [
+    1205,
+    1151,
+    1150,
+    1100,
+    1079,
+    1065,
+    935
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

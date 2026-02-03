@@ -1,7 +1,7 @@
 {
   "store_id": "11110427",
-  "name": "압구정로또",
-  "address": "서울 강남구 삼성동  112위드미",
+  "name": "강남자곡로또",
+  "address": "서울 강남구 자곡동(세곡동) 651 유탑블래스 미니스톱",
   "phone": "02-000-0000",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,15 @@
   ],
   "latitude": 37.473579,
   "longitude": 127.103014,
-  "updated_at": "2026-01-12T11:16:49.469392"
+  "updated_at": "2026-02-03T17:51:56.147708",
+  "first_prize_draws": [
+    458,
+    439
+  ],
+  "second_prize_draws": [
+    739,
+    649
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 2
 }

@@ -63,10 +63,40 @@ class LottoCrawler:
             with open(STORES_FILE, 'w', encoding='utf-8') as f:
                 json.dump(self.stores_data, f, ensure_ascii=False, indent=2)
             logger.info(f"통합 판매점 정보 파일 저장 완료: {len(self.stores_data)}개 판매점")
+            
+            # 판매점 인덱스 파일 업데이트
+            self.update_store_index_file()
+            
             return True
         except Exception as e:
             logger.error(f"통합 판매점 정보 파일 저장 실패: {e}")
             return False
+
+    def update_store_index_file(self):
+        """판매점 목록 인덱스 파일을 업데이트합니다 (lotto/stores/index.json)."""
+        try:
+            index_path = STORES_DIR / "index.json"
+            stores_list = []
+            
+            for store_id, data in self.stores_data.items():
+                stores_list.append({
+                    "id": store_id,
+                    "name": data.get("name"),
+                    "lat": data.get("latitude"),
+                    "lon": data.get("longitude"),
+                    "types": data.get("lottery_types", []),
+                    "1st": data.get("first_prize_count", 0),
+                    "2nd": data.get("second_prize_count", 0)
+                })
+            
+            with open(index_path, 'w', encoding='utf-8') as f:
+                json.dump(stores_list, f, ensure_ascii=False) # Compact format for index
+                
+            logger.info(f"판매점 인덱스 파일 업데이트 완료: {len(stores_list)}개")
+            
+        except Exception as e:
+            logger.error(f"판매점 인덱스 파일 업데이트 실패: {e}")
+
         
     def _fetch_with_retry(self, url, params=None, max_retries=3):
         """재시도 로직이 포함된 GET 요청"""
@@ -132,8 +162,9 @@ class LottoCrawler:
                 # wnShpRnk: 등수 (1, 2)
                 rank = store.get('wnShpRnk')
                 
-                # 타입 변환을 통한 안전한 비교 (1, "1" 모두 처리)
-                if str(rank) != '1':
+                # 타입 변환을 통한 안전한 비교
+                # 1등과 2등 모두 수집하지만, 함수 반환값(draw info)에는 1등만 포함
+                if str(rank) != '1' and str(rank) != '2':
                     continue
                     
                 store_id = str(store.get('ltShpId'))
@@ -161,22 +192,24 @@ class LottoCrawler:
                 except (ValueError, TypeError):
                     lat, lon = 0.0, 0.0
 
-                # 판매점 정보 저장 및 업데이트
-                self.save_single_store_info(store_id, store_name, store_address, store_phone, lottery_types, lat, lon)
+                # 판매점 정보 저장 및 업데이트 (회차 및 등수 정보 포함)
+                self.save_single_store_info(store_id, store_name, store_address, store_phone, lottery_types, lat, lon, draw_no=draw_no, rank=rank)
                 
-                store_info.append({
-                    "store_id": store_id,
-                    "type": store.get('atmtPsvYnTxt', '') # 자동/수동/반자동 등
-                })
+                # 1등인 경우에만 반환 리스트에 추가
+                if str(rank) == '1':
+                    store_info.append({
+                        "store_id": store_id,
+                        "type": store.get('atmtPsvYnTxt', '') # 자동/수동/반자동 등
+                    })
             
-            logger.info(f"회차 {draw_no}의 1등 판매점 정보 {len(store_info)}개 추출 완료")
+            logger.info(f"회차 {draw_no}의 판매점 정보 처리 완료 (1등: {len(store_info)}개)")
             
         except Exception as e:
-            logger.error(f"1등 판매점 정보 추출 실패: {e}")
+            logger.error(f"판매점 정보 추출 실패: {e}")
             
         return store_info
     
-    def save_single_store_info(self, store_id, name, address, phone, lottery_types, lat, lon):
+    def save_single_store_info(self, store_id, name, address, phone, lottery_types, lat, lon, draw_no=None, rank=None):
         """판매점 정보를 개별 파일 및 메모리에 저장합니다."""
         try:
             store_data = {
@@ -193,12 +226,36 @@ class LottoCrawler:
             # 개별 파일로 저장
             store_file = STORES_DIR / f"{store_id}.json"
             
-            # 기존 데이터가 있으면 유지할 필드가 있는지 확인 (현재는 덮어쓰기 위주)
+            # 기존 데이터가 있으면 유지할 필드가 있는지 확인
             if os.path.exists(store_file):
                 with open(store_file, 'r', encoding='utf-8') as f:
                     old_data = json.load(f)
-                    # 필요한 경우 병합 로직 추가
+                    # 기존 데이터 병합 (history 필드 등 보존)
                     store_data = {**old_data, **store_data}
+            
+            # 당첨 이력 업데이트
+            if draw_no and rank:
+                # 초기화
+                if 'first_prize_draws' not in store_data: store_data['first_prize_draws'] = []
+                if 'second_prize_draws' not in store_data: store_data['second_prize_draws'] = []
+                
+                rank_str = str(rank)
+                draw_val = int(draw_no)
+                
+                if rank_str == '1':
+                    if draw_val not in store_data['first_prize_draws']:
+                        store_data['first_prize_draws'].append(draw_val)
+                        # 회차 내림차순 정렬
+                        store_data['first_prize_draws'].sort(reverse=True)
+                elif rank_str == '2':
+                    if draw_val not in store_data['second_prize_draws']:
+                        store_data['second_prize_draws'].append(draw_val)
+                        # 회차 내림차순 정렬
+                        store_data['second_prize_draws'].sort(reverse=True)
+                
+                # 카운트 업데이트
+                store_data['first_prize_count'] = len(store_data['first_prize_draws'])
+                store_data['second_prize_count'] = len(store_data['second_prize_draws'])
             
             with open(store_file, 'w', encoding='utf-8') as f:
                 json.dump(store_data, f, ensure_ascii=False, indent=2)
@@ -207,7 +264,7 @@ class LottoCrawler:
             self.stores_data[store_id] = store_data
             
         except Exception as e:
-            logger.error(f"판매점 정보 저장 실패: {store_id} - {e}")
+            logger.error(f"판매점 정보 저장 실패: {store_id} - {e} (Draw: {draw_no}, Rank: {rank})")
 
     def format_date(self, ymd_str):
         """YYYYMMDD 문자열을 YYYY-MM-DD 형식으로 변환"""

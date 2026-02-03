@@ -1,7 +1,7 @@
 {
   "store_id": "14100069",
   "name": "성안편의점",
-  "address": "경기 안산시 상록구 용신로 197 ",
+  "address": "경기 안산시 상록구 사동(사1동) 1551-1 ",
   "phone": "031-501-0806",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,11 @@
   ],
   "latitude": 37.303665,
   "longitude": 126.844192,
-  "updated_at": "2026-01-12T11:31:06.733319"
+  "updated_at": "2026-02-03T17:48:11.198847",
+  "first_prize_draws": [
+    702
+  ],
+  "second_prize_draws": [],
+  "first_prize_count": 1,
+  "second_prize_count": 0
 }

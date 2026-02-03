@@ -1,7 +1,7 @@
 {
   "store_id": "13100006",
   "name": "샘복권방",
-  "address": "울산 울주군 천상중앙길 69 ",
+  "address": "울산 울주군  천상중앙길 69 ",
   "phone": "052-211-0180",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 35.56302,
   "longitude": 129.228732,
-  "updated_at": "2026-01-12T11:30:51.353704"
+  "updated_at": "2026-02-03T18:16:51.716804",
+  "first_prize_draws": [
+    697,
+    429
+  ],
+  "second_prize_draws": [
+    1046,
+    928,
+    903,
+    760,
+    749,
+    708,
+    629
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 7
 }

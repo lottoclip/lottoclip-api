@@ -1,7 +1,7 @@
 {
   "store_id": "12990007",
   "name": "복권나라(매곡동)",
-  "address": "광주 북구 서하로 117 ",
+  "address": "광주 북구  서하로 117 101호 (매곡동)",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 35.187522,
   "longitude": 126.893444,
-  "updated_at": "2026-01-12T12:00:00.205309"
+  "updated_at": "2026-02-03T18:27:42.419321",
+  "first_prize_draws": [
+    1178,
+    1059,
+    656,
+    408
+  ],
+  "second_prize_draws": [
+    1122,
+    1112,
+    1055,
+    1046,
+    666,
+    651,
+    617,
+    548,
+    533
+  ],
+  "first_prize_count": 4,
+  "second_prize_count": 9
 }

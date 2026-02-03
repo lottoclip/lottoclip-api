@@ -1,7 +1,7 @@
 {
   "store_id": "12810193",
   "name": "로또복권",
-  "address": "인천 서구 파랑로 495 ",
+  "address": "인천 서구  중봉대로612번길 10-16 109호(청라동 마르씨엘)",
   "phone": "070-7737-5128",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 37.524882,
   "longitude": 126.65115,
-  "updated_at": "2026-01-12T11:29:39.692600"
+  "updated_at": "2026-02-03T18:17:57.031438",
+  "first_prize_draws": [
+    679
+  ],
+  "second_prize_draws": [
+    1057,
+    846,
+    811,
+    710,
+    668,
+    609
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

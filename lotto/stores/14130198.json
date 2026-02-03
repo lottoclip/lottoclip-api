@@ -1,7 +1,7 @@
 {
   "store_id": "14130198",
   "name": "송산로또천하",
-  "address": "경기 화성시 송산포도로 80 ",
+  "address": "경기 화성시  송산포도로 80 109호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,27 @@
   ],
   "latitude": 37.213675,
   "longitude": 126.740261,
-  "updated_at": "2026-01-12T11:50:41.386588"
+  "updated_at": "2026-02-03T18:26:54.140674",
+  "first_prize_draws": [
+    1041,
+    822
+  ],
+  "second_prize_draws": [
+    1167,
+    1163,
+    1155,
+    1115,
+    1092,
+    1084,
+    1039,
+    1030,
+    987,
+    977,
+    956,
+    889,
+    830,
+    706
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 14
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14100463",
   "name": "예스24",
-  "address": "경기 고양시 덕양구 화정동  977번지 밀레니엄타워105",
+  "address": "경기 고양시 덕양구 화정동 977번지 밀레니엄타워105",
   "phone": "031-974-4071",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,15 @@
   ],
   "latitude": 37.632136,
   "longitude": 126.833059,
-  "updated_at": "2026-01-12T11:29:27.002121"
+  "updated_at": "2026-02-03T17:51:32.866841",
+  "first_prize_draws": [
+    675,
+    263
+  ],
+  "second_prize_draws": [
+    734,
+    549
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 2
 }

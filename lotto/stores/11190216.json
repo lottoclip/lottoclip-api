@@ -1,7 +1,7 @@
 {
   "store_id": "11190216",
   "name": "종로슈퍼",
-  "address": "서울 종로구 돈화문로10길 14 ",
+  "address": "서울 종로구  돈화문로10길 14 ",
   "phone": "02-765-3478",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 37.572504,
   "longitude": 126.992415,
-  "updated_at": "2026-01-12T11:09:38.949470"
+  "updated_at": "2026-02-03T18:20:50.456937",
+  "first_prize_draws": [
+    343
+  ],
+  "second_prize_draws": [
+    1093,
+    1092,
+    946,
+    885,
+    712,
+    566,
+    534,
+    426,
+    323
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 9
 }

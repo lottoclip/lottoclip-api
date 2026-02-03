@@ -1,7 +1,7 @@
 {
   "store_id": "12890026",
-  "name": "다운이앤씨",
-  "address": "인천 부평구 평천로 102-1 ",
+  "name": "행운복권 IGA",
+  "address": "인천 부평구 평천로 102-1 1층  ",
   "phone": "032-524-1288",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,25 @@
   ],
   "latitude": 37.517489,
   "longitude": 126.702544,
-  "updated_at": "2026-01-12T11:37:45.531717"
+  "updated_at": "2026-02-03T18:29:44.666782",
+  "first_prize_draws": [
+    818,
+    508
+  ],
+  "second_prize_draws": [
+    1206,
+    1156,
+    1026,
+    979,
+    943,
+    935,
+    694,
+    673,
+    671,
+    605,
+    465,
+    432
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 12
 }

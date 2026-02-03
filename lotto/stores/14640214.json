@@ -1,7 +1,7 @@
 {
   "store_id": "14640214",
   "name": "터미널",
-  "address": "전남 진도군 남문길 5 ",
+  "address": "전남 진도군  남문길 5 진도공용버스터미널",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 34.47865,
   "longitude": 126.261573,
-  "updated_at": "2026-01-12T11:58:49.457897"
+  "updated_at": "2026-02-03T18:25:51.305587",
+  "first_prize_draws": [
+    1156
+  ],
+  "second_prize_draws": [
+    1129,
+    1105,
+    1104
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14200110",
   "name": "해피데이",
-  "address": "강원 춘천시 행촌로 11 ",
+  "address": "강원 춘천시  행촌로 11 한성아파트상가102호",
   "phone": "033-242-3242",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 37.858654,
   "longitude": 127.722325,
-  "updated_at": "2026-01-12T11:17:01.877125"
+  "updated_at": "2026-02-03T18:27:55.375488",
+  "first_prize_draws": [
+    462
+  ],
+  "second_prize_draws": [
+    1181,
+    523
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

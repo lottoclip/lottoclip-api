@@ -1,7 +1,7 @@
 {
   "store_id": "14710170",
   "name": "지에스GS오천두배점",
-  "address": "경북 포항시 남구 원동로 98 ",
+  "address": "경북 포항시 남구  원동로 98 1층좌측첫번째상가GS25오천두배점",
   "phone": "054-000-0000",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 35.971854,
   "longitude": 129.402805,
-  "updated_at": "2026-01-12T11:59:18.541841"
+  "updated_at": "2026-02-03T18:26:45.676282",
+  "first_prize_draws": [
+    1165,
+    910
+  ],
+  "second_prize_draws": [
+    1029,
+    1026,
+    988,
+    966,
+    951
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 5
 }

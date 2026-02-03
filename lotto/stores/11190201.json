@@ -1,7 +1,7 @@
 {
   "store_id": "11190201",
   "name": "오목미니슈퍼",
-  "address": "서울 양천구 신목로 119 ",
+  "address": "서울 양천구  신목로 119 ",
   "phone": "02-2645-9868",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 37.525067,
   "longitude": 126.876257,
-  "updated_at": "2026-01-12T11:08:44.247833"
+  "updated_at": "2026-02-03T18:27:20.415445",
+  "first_prize_draws": [
+    330
+  ],
+  "second_prize_draws": [
+    1173,
+    1127,
+    964,
+    910,
+    642,
+    624,
+    586,
+    486,
+    452,
+    434,
+    306
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 11
 }

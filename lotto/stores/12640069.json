@@ -1,7 +1,7 @@
 {
   "store_id": "12640069",
   "name": "황금돼지로또",
-  "address": "부산 수영구 광남로48번길 12 ",
+  "address": "부산 수영구  광남로48번길 12 남천동",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 35.146393,
   "longitude": 129.11248,
-  "updated_at": "2026-01-12T11:44:43.119988"
+  "updated_at": "2026-02-03T18:28:12.397726",
+  "first_prize_draws": [
+    937
+  ],
+  "second_prize_draws": [
+    1185,
+    1157,
+    1139,
+    1066,
+    1018,
+    1000,
+    968
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

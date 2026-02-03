@@ -1,7 +1,7 @@
 {
   "store_id": "14710048",
   "name": "로또복권애니타임점",
-  "address": "경북 구미시 인동중앙로11길 24 ",
+  "address": "경북 구미시  인동중앙로11길 24 애니타임편의점 내",
   "phone": "054-476-8130",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 36.109038,
   "longitude": 128.420003,
-  "updated_at": "2026-01-12T11:53:21.395080"
+  "updated_at": "2026-02-03T18:19:26.419888",
+  "first_prize_draws": [
+    1077,
+    903,
+    797
+  ],
+  "second_prize_draws": [
+    912,
+    887,
+    803,
+    753,
+    436,
+    366,
+    282
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 7
 }

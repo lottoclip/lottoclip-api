@@ -1,7 +1,7 @@
 {
   "store_id": "13040030",
   "name": "성호복권방",
-  "address": "대전 대덕구 신일동로 1 ",
+  "address": "대전 대덕구 신일동로 1  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 36.444743,
   "longitude": 127.405115,
-  "updated_at": "2026-01-12T12:00:00.215407"
+  "updated_at": "2026-02-03T18:29:44.681202",
+  "first_prize_draws": [
+    1178,
+    1111,
+    1033,
+    970
+  ],
+  "second_prize_draws": [
+    1206,
+    1203,
+    1183,
+    1084,
+    935
+  ],
+  "first_prize_count": 4,
+  "second_prize_count": 5
 }

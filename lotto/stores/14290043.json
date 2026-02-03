@@ -1,7 +1,7 @@
 {
   "store_id": "14290043",
   "name": "인제복권방",
-  "address": "강원 인제군 비봉로 11-1 ",
+  "address": "강원 인제군  비봉로 11-1 ",
   "phone": "033-463-0645",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,25 @@
   ],
   "latitude": 38.068174,
   "longitude": 128.172743,
-  "updated_at": "2026-01-12T11:53:05.762172"
+  "updated_at": "2026-02-03T18:29:31.874857",
+  "first_prize_draws": [
+    1072,
+    1061,
+    839,
+    759
+  ],
+  "second_prize_draws": [
+    1203,
+    1134,
+    1110,
+    1072,
+    1069,
+    1029,
+    1010,
+    970,
+    719,
+    546
+  ],
+  "first_prize_count": 4,
+  "second_prize_count": 10
 }

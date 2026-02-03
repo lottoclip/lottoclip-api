@@ -1,7 +1,7 @@
 {
   "store_id": "21100153",
   "name": "GS25(사당남사점)",
-  "address": "서울 동작구 사당동 1005-54번지 ",
+  "address": "서울 동작구  동작대로17길 10 ",
   "phone": "02-521-2274",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,18 @@
   ],
   "latitude": 37.482854,
   "longitude": 126.98076,
-  "updated_at": "2026-01-12T11:40:54.282260"
+  "updated_at": "2026-02-03T18:10:36.104540",
+  "first_prize_draws": [
+    878,
+    718
+  ],
+  "second_prize_draws": [
+    967,
+    847,
+    626,
+    530,
+    398
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 5
 }

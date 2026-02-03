@@ -1,7 +1,7 @@
 {
   "store_id": "14540105",
   "name": "로또로복권",
-  "address": "전북 전주시 완산구 모악로 4729 ",
+  "address": "전북 전주시 완산구  모악로 4729 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 35.791546,
   "longitude": 127.131295,
-  "updated_at": "2026-01-12T12:01:44.809128"
+  "updated_at": "2026-02-03T18:29:22.829271",
+  "first_prize_draws": [
+    1201,
+    1194,
+    1158
+  ],
+  "second_prize_draws": [
+    1071
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 1
 }

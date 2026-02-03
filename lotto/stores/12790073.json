@@ -1,7 +1,7 @@
 {
   "store_id": "12790073",
   "name": "복권천국(성서점)",
-  "address": "대구 달서구 성서로 377 ",
+  "address": "대구 달서구  성서로 377 ",
   "phone": "053-583-4122",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 35.851085,
   "longitude": 128.506845,
-  "updated_at": "2026-01-12T11:44:30.515362"
+  "updated_at": "2026-02-03T18:19:58.600373",
+  "first_prize_draws": [
+    933
+  ],
+  "second_prize_draws": [
+    1081,
+    1069,
+    1039,
+    964,
+    796,
+    702,
+    493,
+    472,
+    470,
+    376,
+    315,
+    284
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 12
 }

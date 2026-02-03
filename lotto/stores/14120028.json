@@ -1,7 +1,7 @@
 {
   "store_id": "14120028",
   "name": "헬로 로또편의점",
-  "address": "경기 남양주시 별내5로5번길 4-8 ",
+  "address": "경기 남양주시  별내5로5번길 4-8 1층 102호",
   "phone": "031-573-6330",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 37.65006,
   "longitude": 127.114018,
-  "updated_at": "2026-01-12T11:41:00.740600"
+  "updated_at": "2026-02-03T18:25:46.739504",
+  "first_prize_draws": [
+    880
+  ],
+  "second_prize_draws": [
+    1155,
+    1144,
+    1012,
+    871,
+    866
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

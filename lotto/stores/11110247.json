@@ -1,0 +1,21 @@
+{
+  "store_id": "11110247",
+  "name": "로또복권",
+  "address": "서울 노원구 공릉동 362-3번지 1층",
+  "phone": "02-949-1391",
+  "lottery_types": [
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 37.628496,
+  "longitude": 127.071851,
+  "updated_at": "2026-02-03T17:55:49.587806",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    785,
+    408,
+    287
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 3
+}

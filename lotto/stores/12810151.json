@@ -1,7 +1,7 @@
 {
   "store_id": "12810151",
   "name": "한일로또",
-  "address": "인천 남동구 경인로 664-1 ",
+  "address": "인천 남동구  경인로 664-1 1층점포101호",
   "phone": "032-425-6855",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 37.469136,
   "longitude": 126.708267,
-  "updated_at": "2026-01-12T11:39:19.883845"
+  "updated_at": "2026-02-03T18:28:16.925386",
+  "first_prize_draws": [
+    848
+  ],
+  "second_prize_draws": [
+    1186,
+    1154,
+    1151,
+    1045,
+    926,
+    298
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

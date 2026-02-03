@@ -1,7 +1,7 @@
 {
   "store_id": "14100548",
   "name": "로또명당매표소",
-  "address": "경기 수원시 팔달구 중부대로223번길 4 ",
+  "address": "경기 수원시 팔달구  중부대로 241 ",
   "phone": "031-212-3673",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 37.275506,
   "longitude": 127.042545,
-  "updated_at": "2026-01-12T11:26:20.708184"
+  "updated_at": "2026-02-03T18:24:13.739495",
+  "first_prize_draws": [
+    625
+  ],
+  "second_prize_draws": [
+    1137,
+    1127,
+    1011,
+    971,
+    793,
+    359
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

@@ -1,12 +1,28 @@
 {
   "store_id": "11101008",
   "name": "이마트24 서울고속터미널4호점",
-  "address": "서울 서초구 신반포로 194 ",
+  "address": "서울 서초구  신반포로 194 본관1층 쇼케이스4호",
   "phone": "02-532-2029",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.505509,
   "longitude": 127.007038,
-  "updated_at": "2026-01-12T11:54:58.223534"
+  "updated_at": "2026-02-03T18:28:29.691989",
+  "first_prize_draws": [
+    1098
+  ],
+  "second_prize_draws": [
+    1189,
+    933,
+    768,
+    708,
+    695,
+    622,
+    565,
+    489,
+    451
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 9
 }

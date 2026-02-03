@@ -1,7 +1,7 @@
 {
   "store_id": "14220013",
   "name": "홍천대명로또",
-  "address": "강원 홍천군 서면 굴업리 361-7 1층 (with-me편의점)",
+  "address": "강원 홍천군 홍천읍 진리 16-13 1층 세방마트",
   "phone": "033-433-8899",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 37.693014,
   "longitude": 127.89306,
-  "updated_at": "2026-01-12T11:30:26.411962"
+  "updated_at": "2026-02-03T17:53:37.575135",
+  "first_prize_draws": [
+    689
+  ],
+  "second_prize_draws": [
+    757
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

@@ -1,0 +1,27 @@
+{
+  "store_id": "12600043",
+  "name": "복권은 내친구",
+  "address": "부산 동구  초량로 46-2 ",
+  "phone": "051-466-4139",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 35.120268,
+  "longitude": 129.037432,
+  "updated_at": "2026-02-03T18:23:04.976876",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1121,
+    961,
+    910,
+    786,
+    779,
+    592,
+    555,
+    381
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 8
+}

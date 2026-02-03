@@ -1,7 +1,7 @@
 {
   "store_id": "14240125",
   "name": "평창로또",
-  "address": "강원 평창군 평창중앙로 42 ",
+  "address": "강원 평창군  평창중앙로 42 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 37.367919,
   "longitude": 128.395599,
-  "updated_at": "2026-01-12T11:56:48.640568"
+  "updated_at": "2026-02-03T18:29:01.402263",
+  "first_prize_draws": [
+    1123
+  ],
+  "second_prize_draws": [
+    1196,
+    1174,
+    1119
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

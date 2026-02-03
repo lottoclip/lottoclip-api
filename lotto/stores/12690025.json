@@ -1,7 +1,7 @@
 {
   "store_id": "12690025",
   "name": "돈벼락맞는곳",
-  "address": "부산 사상구 낙동대로 910 ",
+  "address": "부산 사상구  낙동대로 910 마트월드 A-160호",
   "phone": "051-310-0854",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 35.141866,
   "longitude": 128.970994,
-  "updated_at": "2026-01-12T12:00:45.150034"
+  "updated_at": "2026-02-03T18:28:43.574883",
+  "first_prize_draws": [
+    1192,
+    835
+  ],
+  "second_prize_draws": [
+    1155,
+    1033,
+    468,
+    462,
+    403
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 5
 }

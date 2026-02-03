@@ -1,7 +1,7 @@
 {
   "store_id": "14590035",
   "name": "뉴팡팡복권",
-  "address": "전북 전주시 덕진구 쪽구름로 117 ",
+  "address": "전북 전주시 덕진구  쪽구름로 117 ",
   "phone": "063-212-5382",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,25 @@
   ],
   "latitude": 35.873689,
   "longitude": 127.072432,
-  "updated_at": "2026-01-12T11:32:27.389683"
+  "updated_at": "2026-02-03T18:27:12.077838",
+  "first_prize_draws": [
+    727
+  ],
+  "second_prize_draws": [
+    1171,
+    1160,
+    1149,
+    1131,
+    1085,
+    956,
+    953,
+    952,
+    884,
+    759,
+    757,
+    497,
+    398
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 13
 }

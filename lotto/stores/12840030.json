@@ -1,7 +1,7 @@
 {
   "store_id": "12840030",
   "name": "연우로또",
-  "address": "인천 계양구 향교로 32-1 ",
+  "address": "인천 계양구  향교로 32-1 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 37.540272,
   "longitude": 126.721735,
-  "updated_at": "2026-01-12T11:42:39.359614"
+  "updated_at": "2026-02-03T18:21:03.571092",
+  "first_prize_draws": [
+    902
+  ],
+  "second_prize_draws": [
+    1096,
+    1067,
+    1059,
+    893
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14430043",
-  "name": "대박로또",
-  "address": "충남 당진시 서해로 6869 ",
+  "name": "GS25 당진서해로점",
+  "address": "충남 당진시  서해로 6869 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 36.8866,
   "longitude": 126.740257,
-  "updated_at": "2026-01-12T11:48:28.988092"
+  "updated_at": "2026-02-03T18:29:05.742684",
+  "first_prize_draws": [
+    1004
+  ],
+  "second_prize_draws": [
+    1197,
+    1125,
+    1098,
+    1092,
+    1073,
+    1063,
+    959,
+    949
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

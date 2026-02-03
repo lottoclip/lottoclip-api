@@ -1,7 +1,7 @@
 {
   "store_id": "14430011",
   "name": "신불당로또",
-  "address": "충남 천안시 서북구 불당21로 40 ",
+  "address": "충남 천안시 서북구  불당21로 40 501동 지1층 B143호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 36.813257,
   "longitude": 127.104488,
-  "updated_at": "2026-01-12T11:58:46.225402"
+  "updated_at": "2026-02-03T18:25:46.935293",
+  "first_prize_draws": [
+    1155,
+    1102,
+    1046,
+    1039
+  ],
+  "second_prize_draws": [
+    956,
+    944,
+    800
+  ],
+  "first_prize_count": 4,
+  "second_prize_count": 3
 }

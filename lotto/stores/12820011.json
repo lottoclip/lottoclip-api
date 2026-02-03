@@ -1,0 +1,25 @@
+{
+  "store_id": "12820011",
+  "name": "로또카페",
+  "address": "인천 서구  경명대로 650 (연희동)",
+  "phone": "032-511-8700",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.552305,
+  "longitude": 126.683647,
+  "updated_at": "2026-02-03T18:25:55.314460",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1157,
+    1151,
+    994,
+    792,
+    781,
+    743
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 6
+}

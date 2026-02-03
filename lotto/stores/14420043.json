@@ -1,7 +1,7 @@
 {
   "store_id": "14420043",
   "name": "차암일등로또",
-  "address": "충남 천안시 서북구 밤개울1길 1-5 ",
+  "address": "충남 천안시 서북구  밤개울1길 1-5 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 36.840474,
   "longitude": 127.101369,
-  "updated_at": "2026-01-12T11:48:54.510225"
+  "updated_at": "2026-02-03T18:15:06.517487",
+  "first_prize_draws": [
+    1012,
+    965
+  ],
+  "second_prize_draws": [
+    1022,
+    1005,
+    961,
+    901
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 4
 }

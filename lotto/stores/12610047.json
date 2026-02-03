@@ -1,7 +1,7 @@
 {
   "store_id": "12610047",
-  "name": "탑훼미리마트",
-  "address": "부산 해운대구 중동  1392-90번지",
+  "name": "세븐해운대구청점",
+  "address": "부산 해운대구 중동(중제1동) 1394-328 세븐일레븐해운대구청점내",
   "phone": "051-742-9567",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,14 @@
   ],
   "latitude": 35.162029,
   "longitude": 129.163739,
-  "updated_at": "2026-01-12T11:29:30.132457"
+  "updated_at": "2026-02-03T17:47:11.775060",
+  "first_prize_draws": [
+    676
+  ],
+  "second_prize_draws": [
+    689,
+    604
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

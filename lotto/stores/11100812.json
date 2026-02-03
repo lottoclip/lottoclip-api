@@ -1,7 +1,7 @@
 {
   "store_id": "11100812",
   "name": "종합가판제141호",
-  "address": "서울 중구 퇴계로 447 ",
+  "address": "서울 중구  퇴계로 447 황학 아크로타워",
   "phone": "02-2236-5931",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 37.566042,
   "longitude": 127.021722,
-  "updated_at": "2026-01-12T12:01:20.105354"
+  "updated_at": "2026-02-03T18:29:09.648523",
+  "first_prize_draws": [
+    1198,
+    900
+  ],
+  "second_prize_draws": [
+    1155,
+    1109,
+    1035,
+    991,
+    849,
+    797,
+    732,
+    695,
+    629
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 9
 }

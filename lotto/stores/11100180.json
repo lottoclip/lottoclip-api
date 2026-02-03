@@ -1,7 +1,7 @@
 {
   "store_id": "11100180",
   "name": "신명",
-  "address": "서울 강서구 방화동로 10-2 ",
+  "address": "서울 강서구  방화동로3길 1 ",
   "phone": "02-2663-6500",
   "lottery_types": [
     "lotto645",
@@ -9,6 +9,30 @@
     "speetto"
   ],
   "latitude": 37.562246,
-  "longitude": 126.809044,
-  "updated_at": "2026-01-12T11:45:42.664477"
+  "longitude": 126.80904,
+  "updated_at": "2026-02-03T18:27:37.995880",
+  "first_prize_draws": [
+    956,
+    393,
+    309,
+    291
+  ],
+  "second_prize_draws": [
+    1177,
+    1135,
+    1077,
+    1065,
+    967,
+    923,
+    918,
+    833,
+    793,
+    788,
+    609,
+    604,
+    510,
+    325
+  ],
+  "first_prize_count": 4,
+  "second_prize_count": 14
 }

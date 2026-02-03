@@ -1,7 +1,7 @@
 {
   "store_id": "14600078",
   "name": "굿모닝",
-  "address": "전남 순천시 중앙로 220 ",
+  "address": "전남 순천시  중앙로 220 굿모닝",
   "phone": "061-752-4325",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,26 @@
   ],
   "latitude": 34.965293,
   "longitude": 127.484984,
-  "updated_at": "2026-01-12T11:59:50.581546"
+  "updated_at": "2026-02-03T18:27:29.747016",
+  "first_prize_draws": [
+    1175,
+    960,
+    707
+  ],
+  "second_prize_draws": [
+    1165,
+    1105,
+    840,
+    833,
+    749,
+    698,
+    697,
+    688,
+    612,
+    443,
+    403,
+    365
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 12
 }

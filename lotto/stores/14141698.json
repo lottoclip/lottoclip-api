@@ -1,7 +1,7 @@
 {
   "store_id": "14141698",
   "name": "복권판매점",
-  "address": "경기 광명시 광명로 908 ",
+  "address": "경기 광명시  광명로 908 (광명동)",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 37.479883,
   "longitude": 126.854944,
-  "updated_at": "2026-01-12T12:01:44.781043"
+  "updated_at": "2026-02-03T18:29:22.667807",
+  "first_prize_draws": [
+    1201,
+    1184
+  ],
+  "second_prize_draws": [
+    1057
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 1
 }

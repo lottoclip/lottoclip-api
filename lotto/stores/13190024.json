@@ -1,7 +1,7 @@
 {
   "store_id": "13190024",
   "name": "조은복권방",
-  "address": "울산 남구 수암로 128-1 ",
+  "address": "울산 남구  수암로 124 ",
   "phone": "052-257-9868",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 35.527505,
   "longitude": 129.321004,
-  "updated_at": "2026-01-12T11:30:51.338629"
+  "updated_at": "2026-02-03T18:25:19.887062",
+  "first_prize_draws": [
+    697,
+    466
+  ],
+  "second_prize_draws": [
+    1149,
+    884,
+    737,
+    690,
+    374
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 5
 }

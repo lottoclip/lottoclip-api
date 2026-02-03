@@ -1,7 +1,7 @@
 {
   "store_id": "12640081",
   "name": "오륜",
-  "address": "부산 금정구 체육공원로 591 ",
+  "address": "부산 금정구  체육공원로 591 복권판매점",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 35.293481,
   "longitude": 129.111246,
-  "updated_at": "2026-01-12T11:58:58.973766"
+  "updated_at": "2026-02-03T18:29:05.443192",
+  "first_prize_draws": [
+    1159
+  ],
+  "second_prize_draws": [
+    1197,
+    1181,
+    1138,
+    1056,
+    1052
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "12990024",
   "name": "대박(토토)",
-  "address": "광주 북구 군왕로 196 ",
+  "address": "광주 북구 군왕로 196  ",
   "phone": "062-262-1896",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 35.178318,
   "longitude": 126.935093,
-  "updated_at": "2026-01-12T11:38:13.861230"
+  "updated_at": "2026-02-03T18:29:40.438621",
+  "first_prize_draws": [
+    827,
+    508
+  ],
+  "second_prize_draws": [
+    1205,
+    1181,
+    928,
+    873,
+    653,
+    616,
+    559,
+    446,
+    336,
+    284
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 10
 }

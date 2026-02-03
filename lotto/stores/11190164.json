@@ -1,7 +1,7 @@
 {
   "store_id": "11190164",
   "name": "선서적",
-  "address": "서울 금천구 독산로74길 6 ",
+  "address": "서울 금천구 독산동 1020-3 ",
   "phone": "02-869-4027",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 37.468634,
   "longitude": 126.902606,
-  "updated_at": "2026-01-12T11:31:28.252727"
+  "updated_at": "2026-02-03T18:06:19.084016",
+  "first_prize_draws": [
+    709
+  ],
+  "second_prize_draws": [
+    916,
+    821,
+    444
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

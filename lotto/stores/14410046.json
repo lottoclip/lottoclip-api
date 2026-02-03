@@ -1,7 +1,7 @@
 {
   "store_id": "14410046",
   "name": "백합문구",
-  "address": "충남 천안시 서북구 직산읍 모시리237-11번지 공단할인마트내",
+  "address": "충남 천안시 서북구 직산읍 모시리 237-11번지 공단할인마트내",
   "phone": "041-583-3377",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,15 @@
   ],
   "latitude": 36.862881,
   "longitude": 127.12465,
-  "updated_at": "2026-01-12T11:14:52.263572"
+  "updated_at": "2026-02-03T17:53:03.828398",
+  "first_prize_draws": [
+    430
+  ],
+  "second_prize_draws": [
+    753,
+    685,
+    533
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

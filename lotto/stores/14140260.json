@@ -1,7 +1,7 @@
 {
   "store_id": "14140260",
   "name": "일등드림복권방",
-  "address": "경기 화성시 경기동로 476 ",
+  "address": "경기 화성시  경기동로 476 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 37.152333,
   "longitude": 127.122753,
-  "updated_at": "2026-01-12T11:44:55.580345"
+  "updated_at": "2026-02-03T18:28:39.481780",
+  "first_prize_draws": [
+    941
+  ],
+  "second_prize_draws": [
+    1191,
+    1027,
+    993,
+    892,
+    841
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

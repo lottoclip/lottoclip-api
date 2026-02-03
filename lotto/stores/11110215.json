@@ -1,0 +1,27 @@
+{
+  "store_id": "11110215",
+  "name": "복권명가",
+  "address": "서울 관악구  관악로24길 70 ",
+  "phone": "02-885-5166",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 37.48572,
+  "longitude": 126.957518,
+  "updated_at": "2026-02-03T18:24:21.900919",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1139,
+    917,
+    766,
+    654,
+    630,
+    416,
+    320,
+    296
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 8
+}

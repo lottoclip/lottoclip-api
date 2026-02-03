@@ -1,7 +1,7 @@
 {
   "store_id": "11101283",
   "name": "꿈이현실로",
-  "address": "서울 중구 청계천로 182 ",
+  "address": "서울 중구  청계천로 182 ",
   "phone": "02-2285-6324",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 37.568574,
   "longitude": 126.997749,
-  "updated_at": "2026-01-12T12:00:12.721354"
+  "updated_at": "2026-02-03T18:27:59.287878",
+  "first_prize_draws": [
+    1182,
+    1041,
+    824
+  ],
+  "second_prize_draws": [
+    1128,
+    958,
+    712,
+    642,
+    448,
+    356
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 6
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "12900146",
   "name": "버블샵카페 고래의꿈",
-  "address": "광주 광산구 목련로273번길 88 ",
+  "address": "광주 광산구  목련로273번길 88 운남주공아파트 상가108호",
   "phone": "062-956-7888",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 35.177953,
   "longitude": 126.825056,
-  "updated_at": "2026-01-12T11:38:32.870268"
+  "updated_at": "2026-02-03T18:23:30.259158",
+  "first_prize_draws": [
+    833,
+    709,
+    433
+  ],
+  "second_prize_draws": [
+    1127,
+    1053,
+    764,
+    429,
+    290
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 5
 }

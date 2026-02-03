@@ -1,7 +1,7 @@
 {
   "store_id": "12840070",
   "name": "1등 복권",
-  "address": "인천 부평구 부평대로87번길 3 ",
+  "address": "인천 부평구  부평대로87번길 3 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 37.499163,
   "longitude": 126.721818,
-  "updated_at": "2026-01-12T11:42:23.804591"
+  "updated_at": "2026-02-03T18:15:31.677665",
+  "first_prize_draws": [
+    897
+  ],
+  "second_prize_draws": [
+    1028,
+    1001,
+    972
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

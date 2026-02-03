@@ -1,7 +1,7 @@
 {
   "store_id": "14390033",
   "name": "이마트24사창대로점",
-  "address": "충북 청주시 서원구 1순환로 635 ",
+  "address": "충북 청주시 서원구  1순환로 635 ",
   "phone": "043-273-3223",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 36.636942,
   "longitude": 127.459805,
-  "updated_at": "2026-01-12T11:43:29.084834"
+  "updated_at": "2026-02-03T18:28:21.341240",
+  "first_prize_draws": [
+    918
+  ],
+  "second_prize_draws": [
+    1187
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "11100981",
   "name": "가판점",
-  "address": "서울 서초구 효령로 283 ",
+  "address": "서울 서초구  효령로 283 가판",
   "phone": "02-525-5609",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 37.485101,
   "longitude": 127.014967,
-  "updated_at": "2026-01-12T11:53:43.305514"
+  "updated_at": "2026-02-03T18:23:43.497543",
+  "first_prize_draws": [
+    1084,
+    897,
+    849,
+    819
+  ],
+  "second_prize_draws": [
+    1130,
+    1082,
+    937,
+    702,
+    538,
+    299
+  ],
+  "first_prize_count": 4,
+  "second_prize_count": 6
 }

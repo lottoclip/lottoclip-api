@@ -1,7 +1,7 @@
 {
   "store_id": "12610155",
   "name": "만구수산유통",
-  "address": "부산 서구 남부민동  685현대타운1층86호",
+  "address": "부산 서구 남부민동 685번지 현대타운상가1층86호 복권판매점",
   "phone": "051-253-3573",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,17 @@
   ],
   "latitude": 35.092637,
   "longitude": 129.024455,
-  "updated_at": "2026-01-12T11:14:55.316382"
+  "updated_at": "2026-02-03T18:00:53.084020",
+  "first_prize_draws": [
+    431
+  ],
+  "second_prize_draws": [
+    849,
+    788,
+    563,
+    374,
+    307
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

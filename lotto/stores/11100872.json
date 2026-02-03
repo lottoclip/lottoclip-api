@@ -1,7 +1,7 @@
 {
   "store_id": "11100872",
   "name": "행복편의점",
-  "address": "서울 구로구 구로중앙로 14 ",
+  "address": "서울 구로구  구로중앙로 14 ",
   "phone": "02-855-5485",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 37.491585,
   "longitude": 126.892279,
-  "updated_at": "2026-01-12T11:42:54.794684"
+  "updated_at": "2026-02-03T18:23:08.977746",
+  "first_prize_draws": [
+    907,
+    745
+  ],
+  "second_prize_draws": [
+    1122
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 1
 }

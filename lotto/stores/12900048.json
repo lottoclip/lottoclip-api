@@ -1,7 +1,7 @@
 {
   "store_id": "12900048",
   "name": "동원슈퍼",
-  "address": "광주 남구 대남대로 277-1 ",
+  "address": "광주 남구  대남대로 277-1 ",
   "phone": "062-362-3406",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 35.137066,
   "longitude": 126.896654,
-  "updated_at": "2026-01-12T11:28:18.162942"
+  "updated_at": "2026-02-03T18:25:29.512133",
+  "first_prize_draws": [
+    658,
+    384,
+    305
+  ],
+  "second_prize_draws": [
+    1151,
+    1115,
+    1057,
+    1043,
+    925,
+    878,
+    778,
+    774,
+    758,
+    698
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 10
 }

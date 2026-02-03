@@ -1,7 +1,7 @@
 {
   "store_id": "11120011",
   "name": "소비자할인마트",
-  "address": "서울 관악구 조원로10길 37 ",
+  "address": "서울 관악구  조원로10길 37 ",
   "phone": "02-867-0979",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 37.48196,
   "longitude": 126.905106,
-  "updated_at": "2026-01-12T11:57:04.194345"
+  "updated_at": "2026-02-03T18:23:34.344065",
+  "first_prize_draws": [
+    1128
+  ],
+  "second_prize_draws": [
+    1095,
+    819
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

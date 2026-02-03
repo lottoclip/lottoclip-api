@@ -1,7 +1,7 @@
 {
   "store_id": "11110621",
-  "name": "행운복권방",
-  "address": "서울 중랑구 면목동  183-26번지",
+  "name": "골드복권방(웨이스탑면목점)",
+  "address": "서울 중랑구  면목로 423 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.589804,
   "longitude": 127.08696,
-  "updated_at": "2026-01-12T11:24:37.542690"
+  "updated_at": "2026-02-03T18:19:12.359867",
+  "first_prize_draws": [
+    598,
+    555
+  ],
+  "second_prize_draws": [
+    1074,
+    764,
+    717,
+    595,
+    479,
+    324
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 6
 }

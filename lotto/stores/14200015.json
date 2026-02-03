@@ -1,7 +1,7 @@
 {
   "store_id": "14200015",
   "name": "로또토토대박",
-  "address": "강원 원주시 무실로 78 ",
+  "address": "강원 원주시  무실로 78 1층",
   "phone": "033-744-1346",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.345649,
   "longitude": 127.945541,
-  "updated_at": "2026-01-12T11:24:44.666244"
+  "updated_at": "2026-02-03T18:21:29.061085",
+  "first_prize_draws": [
+    600
+  ],
+  "second_prize_draws": [
+    1102,
+    903,
+    810,
+    633,
+    501,
+    367,
+    284
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

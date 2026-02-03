@@ -1,7 +1,7 @@
 {
   "store_id": "12600062",
   "name": "로또25시",
-  "address": "부산 사하구 하단2동  525-3",
+  "address": "부산 사하구 하단동  525-2번지",
   "phone": "051-201-2437",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,17 @@
   ],
   "latitude": 35.106529,
   "longitude": 128.965047,
-  "updated_at": "2026-01-12T11:15:35.660684"
+  "updated_at": "2026-02-03T17:46:12.196769",
+  "first_prize_draws": [
+    439
+  ],
+  "second_prize_draws": [
+    676,
+    591,
+    480,
+    293,
+    281
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

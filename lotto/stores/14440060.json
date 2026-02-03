@@ -1,7 +1,7 @@
 {
   "store_id": "14440060",
   "name": "king편의점",
-  "address": "충남 태안군 태안읍 평천리 611-8 2호",
+  "address": "충남 태안군  서해로 1988 2호",
   "phone": "041-674-4608",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 36.754387,
   "longitude": 126.3256,
-  "updated_at": "2026-01-12T11:37:55.114297"
+  "updated_at": "2026-02-03T18:15:45.002586",
+  "first_prize_draws": [
+    821
+  ],
+  "second_prize_draws": [
+    1031,
+    998,
+    962
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

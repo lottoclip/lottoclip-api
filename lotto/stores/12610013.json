@@ -1,7 +1,7 @@
 {
   "store_id": "12610013",
-  "name": "승리 로또당리점",
-  "address": "부산 사하구 당리동  324-19",
+  "name": "승리로또당리점",
+  "address": "부산 사하구 당리동  331-55번지 인더코너편의점",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,14 @@
   ],
   "latitude": 35.096387,
   "longitude": 128.994009,
-  "updated_at": "2026-01-12T11:05:17.322886"
+  "updated_at": "2026-02-03T17:39:03.738026",
+  "first_prize_draws": [
+    272
+  ],
+  "second_prize_draws": [
+    582,
+    552
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14120145",
   "name": "서해로또방",
-  "address": "경기 화성시 화성로 1471 ",
+  "address": "경기 화성시  화성로 1471 ",
   "phone": "070-4274-8801",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 37.223217,
   "longitude": 126.842565,
-  "updated_at": "2026-01-12T11:49:44.075323"
+  "updated_at": "2026-02-03T18:29:22.737718",
+  "first_prize_draws": [
+    1023,
+    1019,
+    970,
+    770,
+    727
+  ],
+  "second_prize_draws": [
+    1201,
+    1135,
+    1096,
+    1086,
+    971,
+    955,
+    942
+  ],
+  "first_prize_count": 5,
+  "second_prize_count": 7
 }

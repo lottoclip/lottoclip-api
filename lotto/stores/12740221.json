@@ -1,7 +1,7 @@
 {
   "store_id": "12740221",
   "name": "홀인원복권",
-  "address": "대구 수성구 범어로19길 14 ",
+  "address": "대구 수성구  범어로19길 14 우측동1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 35.857967,
   "longitude": 128.635087,
-  "updated_at": "2026-01-12T11:58:07.632430"
+  "updated_at": "2026-02-03T18:29:26.751195",
+  "first_prize_draws": [
+    1143
+  ],
+  "second_prize_draws": [
+    1202
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

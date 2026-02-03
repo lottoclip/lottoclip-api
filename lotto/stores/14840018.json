@@ -1,7 +1,7 @@
 {
   "store_id": "14840018",
-  "name": "오름복권",
-  "address": "경남 김해시 진례로 277 ",
+  "name": "게임콕",
+  "address": "경남 김해시  진례로 277 2호 복권판매점",
   "phone": "055-343-8245",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 35.252477,
   "longitude": 128.747375,
-  "updated_at": "2026-01-12T11:38:58.080494"
+  "updated_at": "2026-02-03T18:23:39.624539",
+  "first_prize_draws": [
+    841
+  ],
+  "second_prize_draws": [
+    1129
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

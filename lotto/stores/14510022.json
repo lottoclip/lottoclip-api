@@ -1,7 +1,7 @@
 {
   "store_id": "14510022",
   "name": "춘향로또",
-  "address": "전북 남원시 동림로 102-1 ",
+  "address": "전북 남원시  동림로 102-1 ",
   "phone": "063-625-2122",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 35.417068,
   "longitude": 127.384929,
-  "updated_at": "2026-01-12T12:01:17.078707"
+  "updated_at": "2026-02-03T18:29:05.758996",
+  "first_prize_draws": [
+    1197,
+    1010,
+    975
+  ],
+  "second_prize_draws": [
+    1163,
+    1158,
+    1149,
+    1008,
+    995,
+    873,
+    354,
+    268
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 8
 }

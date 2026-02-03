@@ -1,7 +1,7 @@
 {
   "store_id": "12690063",
   "name": "오렌지데이연산점",
-  "address": "부산 연제구 거제천로 174 ",
+  "address": "부산 연제구  거제천로 174 ",
   "phone": "051-866-9581",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 35.18836,
   "longitude": 129.078086,
-  "updated_at": "2026-01-12T11:45:45.694319"
+  "updated_at": "2026-02-03T18:14:21.285399",
+  "first_prize_draws": [
+    957
+  ],
+  "second_prize_draws": [
+    1015,
+    918,
+    908,
+    733,
+    621,
+    485,
+    440,
+    337
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

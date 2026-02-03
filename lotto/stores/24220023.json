@@ -1,7 +1,7 @@
 {
   "store_id": "24220023",
   "name": "CU(포남뷰티점)",
-  "address": "강원 강릉시 포남동  1150",
+  "address": "강원 강릉시  남구길18번길 44 ",
   "phone": "033-645-7947",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 37.767353,
   "longitude": 128.909252,
-  "updated_at": "2026-01-12T11:20:53.198058"
+  "updated_at": "2026-02-03T18:09:32.768119",
+  "first_prize_draws": [
+    531
+  ],
+  "second_prize_draws": [
+    953,
+    908,
+    687,
+    475
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

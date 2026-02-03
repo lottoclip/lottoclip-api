@@ -1,7 +1,7 @@
 {
   "store_id": "14140267",
   "name": "로또1등판매점",
-  "address": "경기 화성시 초록로 20-3 ",
+  "address": "경기 화성시  초록로 20-3 101호",
   "phone": "031-353-3573",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 37.080873,
   "longitude": 126.94745,
-  "updated_at": "2026-01-12T11:58:07.660409"
+  "updated_at": "2026-02-03T18:24:39.443135",
+  "first_prize_draws": [
+    1143,
+    1065
+  ],
+  "second_prize_draws": [
+    1113,
+    1025,
+    873,
+    780,
+    749
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 5
 }

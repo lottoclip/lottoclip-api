@@ -1,12 +1,25 @@
 {
   "store_id": "13000088",
   "name": "후생사제3매장",
-  "address": "대전 동구 비래서로42번길 105 ",
+  "address": "대전 동구  비래서로42번길 105 ",
   "phone": "042-623-2525",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 36.349723,
   "longitude": 127.446817,
-  "updated_at": "2026-01-12T11:38:23.031252"
+  "updated_at": "2026-02-03T18:14:29.800846",
+  "first_prize_draws": [
+    830,
+    287
+  ],
+  "second_prize_draws": [
+    1017,
+    973,
+    904,
+    862,
+    764
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 5
 }

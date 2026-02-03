@@ -1,7 +1,7 @@
 {
   "store_id": "14400023",
   "name": "천사마트",
-  "address": "충남 천안시 서북구 두정로 117 ",
+  "address": "충남 천안시 서북구  두정로 117 상가1층6호",
   "phone": "041-554-5979",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,25 @@
   ],
   "latitude": 36.834195,
   "longitude": 127.129969,
-  "updated_at": "2026-01-12T11:39:42.132402"
+  "updated_at": "2026-02-03T18:24:43.787849",
+  "first_prize_draws": [
+    855,
+    725
+  ],
+  "second_prize_draws": [
+    1144,
+    921,
+    894,
+    893,
+    832,
+    825,
+    732,
+    679,
+    674,
+    671,
+    464,
+    289
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 12
 }

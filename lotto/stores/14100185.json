@@ -1,7 +1,7 @@
 {
   "store_id": "14100185",
   "name": "일산복권",
-  "address": "경기 고양시 일산서구 중앙로 1493 ",
+  "address": "경기 고양시 일산서구  중앙로 1493 애비뉴상가1090호",
   "phone": "031-813-7711",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.67238,
   "longitude": 126.754694,
-  "updated_at": "2026-01-12T11:57:17.522966"
+  "updated_at": "2026-02-03T18:23:52.599840",
+  "first_prize_draws": [
+    1132
+  ],
+  "second_prize_draws": [
+    1081,
+    991,
+    839,
+    838,
+    808,
+    658,
+    285
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14810011",
   "name": "운수대통",
-  "address": "경남 거제시 능포동  727-2동헌상가가-111",
+  "address": "경남 거제시 능포동 727-2번지 동헌상가 가-111호",
   "phone": "055-681-6458",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,22 @@
   ],
   "latitude": 34.873497,
   "longitude": 128.73126,
-  "updated_at": "2026-01-12T11:12:05.843907"
+  "updated_at": "2026-02-03T17:49:23.904349",
+  "first_prize_draws": [
+    381,
+    285
+  ],
+  "second_prize_draws": [
+    715,
+    689,
+    605,
+    499,
+    488,
+    458,
+    448,
+    402,
+    353
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 9
 }

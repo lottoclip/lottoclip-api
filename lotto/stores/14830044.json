@@ -1,7 +1,7 @@
 {
   "store_id": "14830044",
   "name": "대복로또",
-  "address": "경남 양산시 청운로 46-1 ",
+  "address": "경남 양산시  대운로 338 대동이미지타운 상가동101호 복권판매점",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 35.307914,
   "longitude": 128.99241,
-  "updated_at": "2026-01-12T11:33:14.482577"
+  "updated_at": "2026-02-03T18:13:12.551898",
+  "first_prize_draws": [
+    737
+  ],
+  "second_prize_draws": [
+    999,
+    752
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

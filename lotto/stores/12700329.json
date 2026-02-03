@@ -1,7 +1,7 @@
 {
   "store_id": "12700329",
   "name": "가인안경",
-  "address": "대구 동구 아양로50길 68 ",
+  "address": "대구 동구 효목동 120-48번지 ",
   "phone": "053-958-7300",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 35.884319,
   "longitude": 128.640963,
-  "updated_at": "2026-01-12T11:17:32.674433"
+  "updated_at": "2026-02-03T18:04:32.898584",
+  "first_prize_draws": [
+    472
+  ],
+  "second_prize_draws": [
+    896,
+    806,
+    362,
+    335
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

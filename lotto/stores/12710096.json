@@ -1,7 +1,7 @@
 {
   "store_id": "12710096",
   "name": "복권천국",
-  "address": "대구 북구 관음중앙로25길 3 ",
+  "address": "대구 북구  관음중앙로25길 3 ",
   "phone": "053-324-6826",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 35.944693,
   "longitude": 128.545345,
-  "updated_at": "2026-01-12T11:51:25.052238"
+  "updated_at": "2026-02-03T18:18:07.658270",
+  "first_prize_draws": [
+    1050
+  ],
+  "second_prize_draws": [
+    1059,
+    787,
+    786,
+    711
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "12710028",
   "name": "쿨마트영남네오빌점",
-  "address": "대구 달서구 대명천로 250 ",
+  "address": "대구 달서구  대명천로 250 영남네오빌비스타상가201동101호",
   "phone": "070-7656-7943",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 35.842273,
   "longitude": 128.533094,
-  "updated_at": "2026-01-12T11:12:05.737854"
+  "updated_at": "2026-02-03T18:29:35.997567",
+  "first_prize_draws": [
+    381
+  ],
+  "second_prize_draws": [
+    1204,
+    1150,
+    821,
+    597,
+    482,
+    402
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

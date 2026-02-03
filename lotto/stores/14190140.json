@@ -1,7 +1,7 @@
 {
   "store_id": "14190140",
   "name": "백만장자",
-  "address": "경기 용인시 기흥구 영덕동 974-10흥덕유프라자 111호",
+  "address": "경기 용인시 기흥구 영덕동  974-10번지 흥덕유프라자111호",
   "phone": "031-211-1180",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,18 @@
   ],
   "latitude": 37.27728,
   "longitude": 127.073332,
-  "updated_at": "2026-01-12T11:21:17.884032"
+  "updated_at": "2026-02-03T17:40:41.984891",
+  "first_prize_draws": [
+    539,
+    380
+  ],
+  "second_prize_draws": [
+    605,
+    562,
+    542,
+    499,
+    369
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 5
 }

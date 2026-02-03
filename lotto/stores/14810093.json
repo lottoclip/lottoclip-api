@@ -1,7 +1,7 @@
 {
   "store_id": "14810093",
   "name": "금산로또",
-  "address": "경남 진주시 금산면  중천리  331-7번지",
+  "address": "경남 진주시  금산로 36 1층",
   "phone": "055-761-5738",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,21 @@
   ],
   "latitude": 35.213949,
   "longitude": 128.140321,
-  "updated_at": "2026-01-12T11:23:31.936596"
+  "updated_at": "2026-02-03T18:08:21.481422",
+  "first_prize_draws": [
+    577
+  ],
+  "second_prize_draws": [
+    941,
+    887,
+    807,
+    708,
+    682,
+    640,
+    585,
+    501,
+    462
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 9
 }

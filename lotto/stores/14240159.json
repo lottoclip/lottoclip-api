@@ -1,7 +1,7 @@
 {
   "store_id": "14240159",
   "name": "엠에스리테일점",
-  "address": "강원 춘천시 춘천순환로 600 ",
+  "address": "강원 춘천시  춘천순환로 600 MS마트 상가",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 37.892464,
   "longitude": 127.757386,
-  "updated_at": "2026-01-12T11:59:34.578434"
+  "updated_at": "2026-02-03T18:27:07.153105",
+  "first_prize_draws": [
+    1170
+  ],
+  "second_prize_draws": [
+    1139,
+    1047
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

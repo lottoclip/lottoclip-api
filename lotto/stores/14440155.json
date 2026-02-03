@@ -1,7 +1,7 @@
 {
   "store_id": "14440155",
   "name": "153로또판매점",
-  "address": "충남 아산시 배방로 57-23 ",
+  "address": "충남 아산시  배방로 57-23 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 36.772295,
   "longitude": 127.057344,
-  "updated_at": "2026-01-12T12:01:06.825683"
+  "updated_at": "2026-02-03T18:29:22.804572",
+  "first_prize_draws": [
+    1194,
+    972
+  ],
+  "second_prize_draws": [
+    1201,
+    1185,
+    1133,
+    1076,
+    1057,
+    1049,
+    1038,
+    996
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 8
 }

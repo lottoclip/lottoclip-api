@@ -1,0 +1,29 @@
+{
+  "store_id": "14800024",
+  "name": "복권방",
+  "address": "경남 사천시  수남길 17 ",
+  "phone": null,
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 34.928425,
+  "longitude": 128.073197,
+  "updated_at": "2026-02-03T18:22:20.371409",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1114,
+    1080,
+    999,
+    969,
+    906,
+    752,
+    751,
+    499,
+    484,
+    463
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 10
+}

@@ -1,7 +1,7 @@
 {
   "store_id": "13100061",
   "name": "이마트24중울산점",
-  "address": "울산 중구 옥골샘4길 21 ",
+  "address": "울산 중구  옥골샘4길 21 ",
   "phone": "052-244-1745",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 35.557142,
   "longitude": 129.323823,
-  "updated_at": "2026-01-12T11:59:05.565908"
+  "updated_at": "2026-02-03T18:26:28.140607",
+  "first_prize_draws": [
+    1161,
+    363
+  ],
+  "second_prize_draws": [
+    1145,
+    920,
+    869,
+    831,
+    728,
+    686,
+    570,
+    569,
+    473,
+    377
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 10
 }

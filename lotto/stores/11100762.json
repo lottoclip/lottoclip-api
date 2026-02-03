@@ -1,7 +1,7 @@
 {
   "store_id": "11100762",
   "name": "해태24시",
-  "address": "서울 양천구 곰달래로 11 ",
+  "address": "서울 양천구 신월동  145-1",
   "phone": "02-2696-1735",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 37.529906,
   "longitude": 126.833911,
-  "updated_at": "2026-01-12T11:07:43.332639"
+  "updated_at": "2026-02-03T17:26:03.650022",
+  "first_prize_draws": [
+    315
+  ],
+  "second_prize_draws": [
+    402,
+    397,
+    396,
+    305
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

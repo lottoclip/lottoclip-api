@@ -1,7 +1,7 @@
 {
   "store_id": "11100198",
   "name": "복권방",
-  "address": "서울 마포구 백범로 127 ",
+  "address": "서울 마포구  백범로 127 ",
   "phone": "02-701-0866",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 37.54653,
   "longitude": 126.945442,
-  "updated_at": "2026-01-12T11:51:34.797749"
+  "updated_at": "2026-02-03T18:24:43.320986",
+  "first_prize_draws": [
+    1053,
+    984
+  ],
+  "second_prize_draws": [
+    1144,
+    1122,
+    1071,
+    1033,
+    862,
+    765,
+    572
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 7
 }

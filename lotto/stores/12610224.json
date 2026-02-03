@@ -1,7 +1,7 @@
 {
   "store_id": "12610224",
   "name": "대박유통",
-  "address": "부산 중구 구덕로 80 ",
+  "address": "부산 중구  구덕로 80 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,28 @@
   ],
   "latitude": 35.097703,
   "longitude": 129.027162,
-  "updated_at": "2026-01-12T11:55:01.692687"
+  "updated_at": "2026-02-03T18:23:52.500360",
+  "first_prize_draws": [
+    1099,
+    979,
+    568,
+    504
+  ],
+  "second_prize_draws": [
+    1132,
+    1109,
+    1070,
+    1056,
+    1049,
+    1030,
+    992,
+    977,
+    861,
+    831,
+    738,
+    701,
+    475
+  ],
+  "first_prize_count": 4,
+  "second_prize_count": 13
 }

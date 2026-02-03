@@ -1,7 +1,7 @@
 {
   "store_id": "14700166",
   "name": "오태NG24시복권방",
-  "address": "경북 구미시 형곡서로 21-9 ",
+  "address": "경북 구미시 오태동  54-1번지",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 36.104339,
   "longitude": 128.333997,
-  "updated_at": "2026-01-12T11:20:12.327263"
+  "updated_at": "2026-02-03T17:39:30.021215",
+  "first_prize_draws": [
+    518
+  ],
+  "second_prize_draws": [
+    588,
+    510,
+    358,
+    292
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

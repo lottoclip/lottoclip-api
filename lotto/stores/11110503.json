@@ -1,7 +1,7 @@
 {
   "store_id": "11110503",
   "name": "어머화장품",
-  "address": "서울 송파구 가락로11길 19 ",
+  "address": "서울 송파구  가락로11길 19 ",
   "phone": "02-420-1506",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 37.502046,
   "longitude": 127.104049,
-  "updated_at": "2026-01-12T11:48:41.438138"
+  "updated_at": "2026-02-03T18:28:03.420480",
+  "first_prize_draws": [
+    1008,
+    944,
+    745
+  ],
+  "second_prize_draws": [
+    1183,
+    1092,
+    1066,
+    1045,
+    1010,
+    981,
+    748,
+    698,
+    267
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 9
 }

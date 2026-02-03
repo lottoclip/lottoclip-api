@@ -1,7 +1,7 @@
 {
   "store_id": "11190041",
   "name": "호미복권방",
-  "address": "서울 관악구 인헌4길 9 ",
+  "address": "서울 관악구  인헌4길 9 ",
   "phone": "02-871-6723",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.474532,
   "longitude": 126.966239,
-  "updated_at": "2026-01-12T11:31:57.809487"
+  "updated_at": "2026-02-03T18:25:59.615786",
+  "first_prize_draws": [
+    718
+  ],
+  "second_prize_draws": [
+    1158,
+    1117,
+    1059,
+    1030,
+    1019,
+    896,
+    457
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

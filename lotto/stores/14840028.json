@@ -1,7 +1,7 @@
 {
   "store_id": "14840028",
   "name": "행운로또방",
-  "address": "경남 김해시 장등로19번길 15 ",
+  "address": "경남 김해시  장등로19번길 15 103호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 35.308147,
   "longitude": 128.733375,
-  "updated_at": "2026-01-12T11:36:01.160841"
+  "updated_at": "2026-02-03T18:28:30.621773",
+  "first_prize_draws": [
+    785
+  ],
+  "second_prize_draws": [
+    1189,
+    1110,
+    1040,
+    1012,
+    1004
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

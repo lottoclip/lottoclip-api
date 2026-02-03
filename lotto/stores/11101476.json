@@ -1,12 +1,21 @@
 {
   "store_id": "11101476",
-  "name": "행운복권방",
-  "address": "서울 강서구 화곡동  1068-32",
+  "name": "아카데미안경",
+  "address": "서울 강서구 화곡동 1068-32번지 ",
   "phone": "02-2695-3006",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.540214,
   "longitude": 126.834193,
-  "updated_at": "2026-01-12T11:07:43.316839"
+  "updated_at": "2026-02-03T17:53:42.034307",
+  "first_prize_draws": [
+    315
+  ],
+  "second_prize_draws": [
+    758,
+    725
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

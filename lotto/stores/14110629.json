@@ -1,7 +1,7 @@
 {
   "store_id": "14110629",
   "name": "천마산 쉼터 복권명당",
-  "address": "경기 남양주시 묵현로 11-19 ",
+  "address": "경기 남양주시  묵현로 11-3 1층 7호",
   "phone": "031-511-4799",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 37.657408,
   "longitude": 127.288886,
-  "updated_at": "2026-01-12T11:44:55.542442"
+  "updated_at": "2026-02-03T18:20:59.440336",
+  "first_prize_draws": [
+    941
+  ],
+  "second_prize_draws": [
+    1095,
+    1052,
+    772,
+    420,
+    333
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

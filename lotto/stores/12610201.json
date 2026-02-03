@@ -1,7 +1,7 @@
 {
   "store_id": "12610201",
-  "name": "에이스상사",
-  "address": "부산 연제구 연수로 224 ",
+  "name": "씨유연산배산역점",
+  "address": "부산 연제구  연수로 224 ",
   "phone": "051-852-6960",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 35.17336,
   "longitude": 129.095087,
-  "updated_at": "2026-01-12T11:19:47.147063"
+  "updated_at": "2026-02-03T18:27:20.469637",
+  "first_prize_draws": [
+    510
+  ],
+  "second_prize_draws": [
+    1173,
+    1122,
+    745
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

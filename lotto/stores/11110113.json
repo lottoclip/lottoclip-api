@@ -1,7 +1,7 @@
 {
   "store_id": "11110113",
   "name": "로또하우스",
-  "address": "서울 양천구 목동 907-10번지 현대파리지앙107호",
+  "address": "서울 양천구  목동서로 57 현대파리지앙107호",
   "phone": "02-2655-1206",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,20 @@
   ],
   "latitude": 37.536662,
   "longitude": 126.879824,
-  "updated_at": "2026-01-12T11:31:50.366562"
+  "updated_at": "2026-02-03T18:08:44.901561",
+  "first_prize_draws": [
+    716,
+    318
+  ],
+  "second_prize_draws": [
+    943,
+    933,
+    808,
+    768,
+    527,
+    410,
+    378
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 7
 }

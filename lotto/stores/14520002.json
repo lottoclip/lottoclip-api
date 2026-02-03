@@ -1,7 +1,7 @@
 {
   "store_id": "14520002",
   "name": "피씨마트",
-  "address": "전북 군산시 경기장로 20 ",
+  "address": "전북 군산시  경기장로 20 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 35.96469,
   "longitude": 126.75007,
-  "updated_at": "2026-01-12T11:59:37.774303"
+  "updated_at": "2026-02-03T18:28:17.242319",
+  "first_prize_draws": [
+    1171,
+    1078
+  ],
+  "second_prize_draws": [
+    1186,
+    1169,
+    1163,
+    1064,
+    1053,
+    975,
+    942,
+    804,
+    756
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 9
 }

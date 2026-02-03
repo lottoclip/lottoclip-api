@@ -1,7 +1,7 @@
 {
   "store_id": "12600300",
   "name": "싱글벙글 6/45",
-  "address": "부산 연제구 중앙대로 1041 ",
+  "address": "부산 연제구  중앙대로 1041 좌측 싱글벙글복권방",
   "phone": "051-751-0010",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 35.181577,
   "longitude": 129.077781,
-  "updated_at": "2026-01-12T11:43:50.156590"
+  "updated_at": "2026-02-03T18:09:13.280529",
+  "first_prize_draws": [
+    920,
+    843,
+    770
+  ],
+  "second_prize_draws": [
+    949,
+    808,
+    770,
+    754,
+    698,
+    654,
+    633,
+    580,
+    571
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 9
 }

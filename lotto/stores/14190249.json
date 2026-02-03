@@ -1,7 +1,7 @@
 {
   "store_id": "14190249",
   "name": "협신복권방",
-  "address": "경기 여주시 도예로 28 ",
+  "address": "경기 여주시  도예로 28 CU편의점내",
   "phone": "031-882-7707",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 37.306475,
   "longitude": 127.640014,
-  "updated_at": "2026-01-12T11:49:44.067460"
+  "updated_at": "2026-02-03T18:21:03.787149",
+  "first_prize_draws": [
+    1023,
+    914
+  ],
+  "second_prize_draws": [
+    1096
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 1
 }

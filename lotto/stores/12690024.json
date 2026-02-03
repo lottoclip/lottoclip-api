@@ -1,7 +1,7 @@
 {
   "store_id": "12690024",
   "name": "감전복권방",
-  "address": "부산 사상구 감전동  681-4",
+  "address": "부산 사상구  새벽시장로 59 야따이 ",
   "phone": "051-322-9260",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,20 @@
   ],
   "latitude": 35.15534,
   "longitude": 128.980295,
-  "updated_at": "2026-01-12T11:20:56.253722"
+  "updated_at": "2026-02-03T18:17:28.410436",
+  "first_prize_draws": [
+    532
+  ],
+  "second_prize_draws": [
+    1051,
+    952,
+    902,
+    709,
+    698,
+    656,
+    617,
+    290
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

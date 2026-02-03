@@ -1,7 +1,7 @@
 {
   "store_id": "12890004",
   "name": "찬스센타백운점",
-  "address": "인천 부평구 신촌로7번길 3 ",
+  "address": "인천 부평구  신촌로7번길 3 ",
   "phone": "032-523-4188",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.484804,
   "longitude": 126.708788,
-  "updated_at": "2026-01-12T11:52:12.126898"
+  "updated_at": "2026-02-03T18:28:29.931956",
+  "first_prize_draws": [
+    1060,
+    291
+  ],
+  "second_prize_draws": [
+    1189,
+    1159,
+    996,
+    682,
+    540,
+    271
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 6
 }

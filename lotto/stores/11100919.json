@@ -1,7 +1,7 @@
 {
   "store_id": "11100919",
   "name": "가로판매대제13호",
-  "address": "서울 중구 퇴계로 36 ",
+  "address": "서울 중구  퇴계로 36 ",
   "phone": "02-319-2065",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 37.557289,
   "longitude": 126.977015,
-  "updated_at": "2026-01-12T11:22:51.584283"
+  "updated_at": "2026-02-03T18:25:06.782323",
+  "first_prize_draws": [
+    564
+  ],
+  "second_prize_draws": [
+    1146,
+    1087,
+    923,
+    855,
+    801,
+    708,
+    459,
+    438
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

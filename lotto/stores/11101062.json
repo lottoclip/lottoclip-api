@@ -1,7 +1,7 @@
 {
   "store_id": "11101062",
   "name": "복권세상",
-  "address": "서울 양천구 신월로 187 ",
+  "address": "서울 양천구  신월로 187 1층",
   "phone": "02-2644-7598",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 37.519693,
   "longitude": 126.843644,
-  "updated_at": "2026-01-12T11:36:37.225725"
+  "updated_at": "2026-02-03T18:29:31.311135",
+  "first_prize_draws": [
+    796,
+    532
+  ],
+  "second_prize_draws": [
+    1203,
+    1172,
+    899,
+    853,
+    834,
+    817,
+    786,
+    740,
+    739,
+    704
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 10
 }

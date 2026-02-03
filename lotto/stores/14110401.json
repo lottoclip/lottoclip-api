@@ -1,7 +1,7 @@
 {
   "store_id": "14110401",
   "name": "꿈에본그자리",
-  "address": "경기 성남시 중원구 금광동  4752번지",
+  "address": "경기 성남시 중원구  산성대로 458 ",
   "phone": "031-742-6888",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 37.452456,
   "longitude": 127.160622,
-  "updated_at": "2026-01-12T11:26:52.025677"
+  "updated_at": "2026-02-03T18:09:32.670910",
+  "first_prize_draws": [
+    635
+  ],
+  "second_prize_draws": [
+    953,
+    845,
+    802,
+    748,
+    601,
+    596,
+    578,
+    530,
+    384,
+    297
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

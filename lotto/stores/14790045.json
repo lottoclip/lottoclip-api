@@ -1,7 +1,7 @@
 {
   "store_id": "14790045",
   "name": "복권나라",
-  "address": "경북 포항시 북구 장량로140번길 9 ",
+  "address": "경북 포항시 북구  장량로140번길 9 ",
   "phone": "054-255-3074",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 36.080859,
   "longitude": 129.396027,
-  "updated_at": "2026-01-12T12:01:06.919883"
+  "updated_at": "2026-02-03T18:28:52.814937",
+  "first_prize_draws": [
+    1194,
+    1094,
+    996
+  ],
+  "second_prize_draws": [
+    918,
+    892,
+    854,
+    786,
+    584,
+    553
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 6
 }

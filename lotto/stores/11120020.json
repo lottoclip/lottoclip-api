@@ -1,7 +1,7 @@
 {
   "store_id": "11120020",
   "name": "행운로또복권판매점",
-  "address": "서울 구로구 고척로 123-2 ",
+  "address": "서울 구로구 고척로 123-2  ",
   "phone": "02-2066-0645",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 37.502303,
   "longitude": 126.847978,
-  "updated_at": "2026-01-12T11:42:26.896473"
+  "updated_at": "2026-02-03T18:29:48.737638",
+  "first_prize_draws": [
+    898,
+    761
+  ],
+  "second_prize_draws": [
+    1207,
+    1036,
+    1034,
+    898,
+    895,
+    850,
+    761
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 7
 }

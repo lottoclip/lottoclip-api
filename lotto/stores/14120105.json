@@ -1,7 +1,7 @@
 {
   "store_id": "14120105",
   "name": "명지나눔로또",
-  "address": "경기 용인시 처인구 명지로 41 ",
+  "address": "경기 용인시 처인구  명지로 41 에이치탑용인빌딩5 제지1층 제비111호",
   "phone": "031-332-0929",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 37.230342,
   "longitude": 127.187722,
-  "updated_at": "2026-01-12T11:47:22.371259"
+  "updated_at": "2026-02-03T18:21:50.195539",
+  "first_prize_draws": [
+    983,
+    753
+  ],
+  "second_prize_draws": [
+    1107,
+    1081,
+    907,
+    905,
+    901,
+    837,
+    814,
+    748
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 8
 }

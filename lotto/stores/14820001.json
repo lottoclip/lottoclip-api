@@ -1,7 +1,7 @@
 {
   "store_id": "14820001",
   "name": "이효민나눔로또",
-  "address": "경남 거제시 능포동 376-3번지 ",
+  "address": "경남 거제시  능포로 164 1층",
   "phone": "055-681-7889",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 34.877944,
   "longitude": 128.73323,
-  "updated_at": "2026-01-12T11:28:43.168209"
+  "updated_at": "2026-02-03T18:25:11.509334",
+  "first_prize_draws": [
+    666
+  ],
+  "second_prize_draws": [
+    1147,
+    1007,
+    998
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

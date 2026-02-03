@@ -1,7 +1,7 @@
 {
   "store_id": "14140230",
   "name": "로또또",
-  "address": "경기 김포시 봉수대로 1704 ",
+  "address": "경기 김포시  봉수대로 1704 102호",
   "phone": "031-986-1020",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 37.62097,
   "longitude": 126.63304,
-  "updated_at": "2026-01-12T12:00:03.385429"
+  "updated_at": "2026-02-03T18:29:31.556593",
+  "first_prize_draws": [
+    1179,
+    947,
+    809,
+    752
+  ],
+  "second_prize_draws": [
+    1203,
+    1188,
+    1151,
+    1134,
+    1026,
+    1004,
+    929,
+    915,
+    812
+  ],
+  "first_prize_count": 4,
+  "second_prize_count": 9
 }

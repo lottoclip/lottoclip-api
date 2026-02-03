@@ -1,7 +1,7 @@
 {
   "store_id": "14900013",
   "name": "원희슈퍼",
-  "address": "제주 제주시 신광로 28 ",
+  "address": "제주 제주시  신광로 28 ",
   "phone": "064-747-1709",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 33.489684,
   "longitude": 126.489975,
-  "updated_at": "2026-01-12T11:23:13.303957"
+  "updated_at": "2026-02-03T18:07:56.741169",
+  "first_prize_draws": [
+    571
+  ],
+  "second_prize_draws": [
+    936,
+    920,
+    615,
+    404
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

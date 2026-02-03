@@ -1,7 +1,7 @@
 {
   "store_id": "12810092",
   "name": "초이스마트 작전역점",
-  "address": "인천 계양구 작전동  864-241층102",
+  "address": "인천 계양구 작전동  864-24번지 1층102",
   "phone": "032-548-3427",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 37.534402,
   "longitude": 126.73251,
-  "updated_at": "2026-01-12T11:20:12.293016"
+  "updated_at": "2026-02-03T17:45:13.893844",
+  "first_prize_draws": [
+    518
+  ],
+  "second_prize_draws": [
+    663,
+    306
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

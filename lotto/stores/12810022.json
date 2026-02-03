@@ -1,7 +1,7 @@
 {
   "store_id": "12810022",
   "name": "무한대박",
-  "address": "인천 연수구 새말로 107 ",
+  "address": "인천 연수구  새말로 107 ",
   "phone": "032-811-0752",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 37.41867,
   "longitude": 126.681149,
-  "updated_at": "2026-01-12T11:31:22.079041"
+  "updated_at": "2026-02-03T18:28:29.970654",
+  "first_prize_draws": [
+    707
+  ],
+  "second_prize_draws": [
+    1189,
+    1141,
+    1115,
+    1110,
+    1019,
+    880,
+    638,
+    477,
+    319,
+    284
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

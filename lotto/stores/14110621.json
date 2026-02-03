@@ -1,7 +1,7 @@
 {
   "store_id": "14110621",
   "name": "다터져복권방",
-  "address": "경기 평택시 중앙2로 42 ",
+  "address": "경기 평택시  중앙2로 42 ",
   "phone": "070-8210-8705",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 36.991208,
   "longitude": 127.091525,
-  "updated_at": "2026-01-12T11:43:04.239184"
+  "updated_at": "2026-02-03T18:26:04.679151",
+  "first_prize_draws": [
+    910,
+    826
+  ],
+  "second_prize_draws": [
+    1159,
+    968,
+    909,
+    889,
+    534,
+    437
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 6
 }

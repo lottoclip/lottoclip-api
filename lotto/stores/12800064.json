@@ -1,7 +1,7 @@
 {
   "store_id": "12800064",
   "name": "복권나라",
-  "address": "인천 중구 신흥동2가 16-37번지 ",
+  "address": "인천 중구  제물량로 84-3 ",
   "phone": "032-889-2777",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 37.467393,
   "longitude": 126.633717,
-  "updated_at": "2026-01-12T11:34:17.880381"
+  "updated_at": "2026-02-03T18:18:03.263002",
+  "first_prize_draws": [
+    757,
+    466
+  ],
+  "second_prize_draws": [
+    1058,
+    1056,
+    982,
+    849,
+    415,
+    317
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 6
 }

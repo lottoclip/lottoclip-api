@@ -1,7 +1,7 @@
 {
   "store_id": "14100477",
   "name": "SPAR편의점",
-  "address": "경기 부천시 부흥로 469-1 ",
+  "address": "경기 부천시  부흥로 469-1 ",
   "phone": "032-345-1456",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 37.485882,
   "longitude": 126.791133,
-  "updated_at": "2026-01-12T11:57:04.477055"
+  "updated_at": "2026-02-03T18:23:34.804316",
+  "first_prize_draws": [
+    1128
+  ],
+  "second_prize_draws": [
+    965,
+    884,
+    733,
+    726,
+    648,
+    349
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

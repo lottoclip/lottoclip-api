@@ -1,7 +1,7 @@
 {
   "store_id": "14440246",
   "name": "로또 유",
-  "address": "충남 서산시 시장3길 19 ",
+  "address": "충남 서산시  시장3길 19 옷가게 내",
   "phone": "041-681-4456",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 36.782335,
   "longitude": 126.45702,
-  "updated_at": "2026-01-12T11:52:02.603923"
+  "updated_at": "2026-02-03T18:29:22.796313",
+  "first_prize_draws": [
+    1057
+  ],
+  "second_prize_draws": [
+    1201,
+    1190,
+    1174,
+    1155,
+    1102
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

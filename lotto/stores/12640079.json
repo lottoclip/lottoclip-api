@@ -1,7 +1,7 @@
 {
   "store_id": "12640079",
   "name": "복권판매점 명지국제신도시점",
-  "address": "부산 강서구 명지국제2로 80 ",
+  "address": "부산 강서구  명지국제2로 80 비주거시설동1층 54호",
   "phone": "051-292-8249",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 35.098767,
   "longitude": 128.908422,
-  "updated_at": "2026-01-12T11:55:27.189599"
+  "updated_at": "2026-02-03T18:29:18.061609",
+  "first_prize_draws": [
+    1107
+  ],
+  "second_prize_draws": [
+    1200,
+    1191,
+    1186,
+    1144,
+    1135,
+    1134,
+    1100,
+    1057,
+    984,
+    972
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

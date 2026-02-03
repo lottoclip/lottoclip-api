@@ -1,7 +1,7 @@
 {
   "store_id": "14141739",
   "name": "찐대박복권방",
-  "address": "경기 부천시 삼작로 110 ",
+  "address": "경기 부천시  삼작로 110 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 37.520003,
   "longitude": 126.773274,
-  "updated_at": "2026-01-12T11:56:20.696546"
+  "updated_at": "2026-02-03T18:28:43.791174",
+  "first_prize_draws": [
+    1119
+  ],
+  "second_prize_draws": [
+    1192
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

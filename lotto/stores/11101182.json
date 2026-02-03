@@ -1,7 +1,7 @@
 {
   "store_id": "11101182",
   "name": "사당",
-  "address": "서울 관악구 과천대로 953 ",
+  "address": "서울 관악구  과천대로 953 ",
   "phone": "02-525-7630",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 37.475728,
   "longitude": 126.981447,
-  "updated_at": "2026-01-12T12:01:48.015588"
+  "updated_at": "2026-02-03T18:29:26.645247",
+  "first_prize_draws": [
+    1202,
+    1191
+  ],
+  "second_prize_draws": [
+    1175,
+    1171,
+    1107,
+    941,
+    819,
+    758,
+    736,
+    718,
+    683,
+    627,
+    587
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 11
 }

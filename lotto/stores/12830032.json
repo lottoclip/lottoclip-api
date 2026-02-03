@@ -1,7 +1,7 @@
 {
   "store_id": "12830032",
   "name": "희망복권판매점",
-  "address": "인천 서구 보듬5로 5 ",
+  "address": "인천 서구  보듬5로 5 104호일부",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 37.594206,
   "longitude": 126.612281,
-  "updated_at": "2026-01-12T12:01:06.730991"
+  "updated_at": "2026-02-03T18:28:52.424687",
+  "first_prize_draws": [
+    1194,
+    972
+  ],
+  "second_prize_draws": [
+    1141,
+    1009,
+    899,
+    714
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 4
 }

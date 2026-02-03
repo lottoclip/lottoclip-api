@@ -1,0 +1,25 @@
+{
+  "store_id": "14110121",
+  "name": "돈벌마트 복권방",
+  "address": "경기 용인시 수지구 상현동 1133번지 엘리치안빌딩 105호",
+  "phone": "031-266-8119",
+  "lottery_types": [
+    "lotto645",
+    "speetto"
+  ],
+  "latitude": 37.34034,
+  "longitude": 127.098615,
+  "updated_at": "2026-02-03T17:52:01.803001",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    740,
+    606,
+    533,
+    409,
+    343,
+    312,
+    281
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 7
+}

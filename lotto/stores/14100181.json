@@ -1,7 +1,7 @@
 {
   "store_id": "14100181",
   "name": "경민복권방",
-  "address": "경기 수원시 팔달구 정조로 866-2 ",
+  "address": "경기 수원시 팔달구 북수동  372-1번지",
   "phone": "031-241-3844",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 37.285471,
   "longitude": 127.015814,
-  "updated_at": "2026-01-12T11:24:12.365434"
+  "updated_at": "2026-02-03T17:39:38.678547",
+  "first_prize_draws": [
+    590
+  ],
+  "second_prize_draws": [
+    421
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

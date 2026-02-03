@@ -1,7 +1,7 @@
 {
   "store_id": "21100323",
   "name": "CU(대림중앙점)",
-  "address": "서울 영등포구 대림3동 775-7번지 서초한강아파트",
+  "address": "서울 영등포구  대림로 209 1층",
   "phone": "02-834-1930",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 37.499257,
   "longitude": 126.897676,
-  "updated_at": "2026-01-12T11:31:06.713343"
+  "updated_at": "2026-02-03T18:16:10.267054",
+  "first_prize_draws": [
+    702,
+    591,
+    445,
+    431
+  ],
+  "second_prize_draws": [
+    1037,
+    986,
+    779,
+    759,
+    701,
+    622,
+    340,
+    324
+  ],
+  "first_prize_count": 4,
+  "second_prize_count": 8
 }

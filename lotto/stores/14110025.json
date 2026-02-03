@@ -1,7 +1,7 @@
 {
   "store_id": "14110025",
   "name": "은미복권방",
-  "address": "경기 부천시 소사로794번길 6 ",
+  "address": "경기 부천시  소사로794번길 6 ",
   "phone": "032-682-0570",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 37.52689,
   "longitude": 126.805128,
-  "updated_at": "2026-01-12T11:50:34.684378"
+  "updated_at": "2026-02-03T18:22:03.050268",
+  "first_prize_draws": [
+    1039,
+    832,
+    680,
+    537
+  ],
+  "second_prize_draws": [
+    1110,
+    998,
+    959,
+    887,
+    517,
+    275
+  ],
+  "first_prize_count": 4,
+  "second_prize_count": 6
 }

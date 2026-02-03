@@ -1,7 +1,7 @@
 {
   "store_id": "14120130",
   "name": "프림",
-  "address": "경기 평택시 서해로 1402 ",
+  "address": "경기 평택시  서해로 1402 GS편의점 내",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 37.017501,
   "longitude": 126.94532,
-  "updated_at": "2026-01-12T11:52:31.392148"
+  "updated_at": "2026-02-03T18:27:07.105025",
+  "first_prize_draws": [
+    1066,
+    838,
+    717
+  ],
+  "second_prize_draws": [
+    1170,
+    1122,
+    1071,
+    979,
+    950,
+    894,
+    866,
+    844,
+    775
+  ],
+  "first_prize_count": 3,
+  "second_prize_count": 9
 }

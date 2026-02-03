@@ -1,7 +1,7 @@
 {
   "store_id": "12610196",
   "name": "행복복권방",
-  "address": "부산 사상구 주례동  183-5훼미리마트내",
+  "address": "부산 사상구 주례동  183-5번지 CU편의점",
   "phone": "051-311-8281",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,13 @@
   ],
   "latitude": 35.12831,
   "longitude": 128.974765,
-  "updated_at": "2026-01-12T11:18:00.785717"
+  "updated_at": "2026-02-03T17:45:18.957967",
+  "first_prize_draws": [
+    481
+  ],
+  "second_prize_draws": [
+    664
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

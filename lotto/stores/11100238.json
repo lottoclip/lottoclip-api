@@ -1,7 +1,7 @@
 {
   "store_id": "11100238",
   "name": "행운으뜸",
-  "address": "서울 관악구 신림로17길 45 ",
+  "address": "서울 관악구  신림로17길 45 1층",
   "phone": "070-8849-5368",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 37.46864,
   "longitude": 126.9365,
-  "updated_at": "2026-01-12T11:55:17.552855"
+  "updated_at": "2026-02-03T18:24:17.798452",
+  "first_prize_draws": [
+    1104
+  ],
+  "second_prize_draws": [
+    1138
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

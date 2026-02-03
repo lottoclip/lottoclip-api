@@ -1,7 +1,7 @@
 {
   "store_id": "11100946",
   "name": "운수대통가판점",
-  "address": "서울 성동구 왕십리로 327 ",
+  "address": "서울 성동구  왕십리로 327 ",
   "phone": "02-2281-7211",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 37.562363,
   "longitude": 127.033182,
-  "updated_at": "2026-01-12T11:58:46.185608"
+  "updated_at": "2026-02-03T18:25:46.515983",
+  "first_prize_draws": [
+    1155,
+    847,
+    754,
+    711
+  ],
+  "second_prize_draws": [
+    1111,
+    1072,
+    1063,
+    998,
+    989,
+    923,
+    644
+  ],
+  "first_prize_count": 4,
+  "second_prize_count": 7
 }

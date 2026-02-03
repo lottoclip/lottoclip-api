@@ -1,7 +1,7 @@
 {
   "store_id": "12790038",
   "name": "1등다수복권마트",
-  "address": "대구 북구 팔달로27길 81 ",
+  "address": "대구 북구  팔달로27길 81 1층",
   "phone": "053-283-3033",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,26 @@
   ],
   "latitude": 35.892208,
   "longitude": 128.568135,
-  "updated_at": "2026-01-12T11:57:26.928752"
+  "updated_at": "2026-02-03T18:25:33.732419",
+  "first_prize_draws": [
+    1135,
+    693
+  ],
+  "second_prize_draws": [
+    1152,
+    1148,
+    1111,
+    1073,
+    1066,
+    1043,
+    977,
+    971,
+    882,
+    782,
+    771,
+    603,
+    319
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 13
 }

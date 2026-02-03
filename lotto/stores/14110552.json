@@ -1,7 +1,7 @@
 {
   "store_id": "14110552",
   "name": "진성복권방",
-  "address": "경기 포천시 가산로 380 ",
+  "address": "경기 포천시  가산로 380 ",
   "phone": "031-541-0987",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 37.847607,
   "longitude": 127.191167,
-  "updated_at": "2026-01-12T11:40:35.292248"
+  "updated_at": "2026-02-03T18:29:31.750892",
+  "first_prize_draws": [
+    872,
+    303
+  ],
+  "second_prize_draws": [
+    1203,
+    1184,
+    1157,
+    1053,
+    969,
+    761,
+    746,
+    682,
+    503,
+    496
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 10
 }

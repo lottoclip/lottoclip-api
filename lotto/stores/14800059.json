@@ -1,7 +1,7 @@
 {
   "store_id": "14800059",
   "name": "씨유 창원역점",
-  "address": "경남 창원시 의창구 의창대로 66 ",
+  "address": "경남 창원시 의창구  의창대로 66 CU편의점",
   "phone": "055-294-5356",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 35.256945,
   "longitude": 128.607699,
-  "updated_at": "2026-01-12T11:59:47.348508"
+  "updated_at": "2026-02-03T18:27:25.366355",
+  "first_prize_draws": [
+    1174
+  ],
+  "second_prize_draws": [
+    1057,
+    948,
+    932,
+    916,
+    893,
+    865,
+    514,
+    501,
+    441
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 9
 }

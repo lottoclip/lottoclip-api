@@ -1,7 +1,7 @@
 {
   "store_id": "14110112",
   "name": "로또복권짱",
-  "address": "경기 용인시 처인구 백옥대로 1286 ",
+  "address": "경기 용인시 처인구  백옥대로 1286 용호빌딩1층 103호",
   "phone": "031-338-6590",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 37.249629,
   "longitude": 127.212806,
-  "updated_at": "2026-01-12T11:43:22.903901"
+  "updated_at": "2026-02-03T18:27:07.081825",
+  "first_prize_draws": [
+    916,
+    600
+  ],
+  "second_prize_draws": [
+    1170,
+    1145,
+    631,
+    600,
+    375
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 5
 }

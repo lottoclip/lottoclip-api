@@ -1,7 +1,7 @@
 {
   "store_id": "14130212",
-  "name": "한아름 복권판매점",
-  "address": "경기 광주시 광동로 50 ",
+  "name": "한아름 복권판매점(퇴촌점)",
+  "address": "경기 광주시  광동로 50 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 37.47031,
   "longitude": 127.308094,
-  "updated_at": "2026-01-12T11:52:25.016861"
+  "updated_at": "2026-02-03T18:24:39.259455",
+  "first_prize_draws": [
+    1064,
+    860
+  ],
+  "second_prize_draws": [
+    1143,
+    1118,
+    1063,
+    969,
+    931,
+    911,
+    799,
+    763
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 8
 }

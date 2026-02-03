@@ -1,7 +1,7 @@
 {
   "store_id": "14420042",
   "name": "이마트24 천안성환명당점",
-  "address": "충남 천안시 서북구 천안대로 1746 ",
+  "address": "충남 천안시 서북구  천안대로 1746 아마트24",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,15 @@
   ],
   "latitude": 36.894531,
   "longitude": 127.136591,
-  "updated_at": "2026-01-12T11:56:38.864490"
+  "updated_at": "2026-02-03T18:29:18.516870",
+  "first_prize_draws": [
+    1120
+  ],
+  "second_prize_draws": [
+    1200,
+    1120,
+    952
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 3
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14190219",
   "name": "로또슈퍼",
-  "address": "경기 안산시 상록구 매화로4길 8-1 ",
+  "address": "경기 안산시 상록구  광덕1로 326 102호",
   "phone": "031-502-6700",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 37.304623,
   "longitude": 126.86204,
-  "updated_at": "2026-01-12T11:16:12.713434"
+  "updated_at": "2026-02-03T18:24:43.638570",
+  "first_prize_draws": [
+    451
+  ],
+  "second_prize_draws": [
+    1144,
+    1136,
+    1084,
+    994,
+    985,
+    910,
+    690,
+    683,
+    491,
+    370,
+    368
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 11
 }

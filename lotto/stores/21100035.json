@@ -1,7 +1,7 @@
 {
   "store_id": "21100035",
-  "name": "씨스페이스(명지성모점)",
-  "address": "서울 영등포구 대림동  7091층",
+  "name": "씨스페이스(대림점)",
+  "address": "서울 영등포구 대림동(대림제2동) 993-57 1동 9호",
   "phone": "02-849-7272",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 37.486953,
   "longitude": 126.904279,
-  "updated_at": "2026-01-12T11:09:38.942028"
+  "updated_at": "2026-02-03T17:59:51.930463",
+  "first_prize_draws": [
+    343
+  ],
+  "second_prize_draws": [
+    835,
+    531
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

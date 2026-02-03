@@ -1,7 +1,7 @@
 {
   "store_id": "14340020",
   "name": "금강로또",
-  "address": "충북 옥천군 금강로 596 ",
+  "address": "충북 옥천군 금강로 596 금강휴게소  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,29 @@
   ],
   "latitude": 36.279103,
   "longitude": 127.671476,
-  "updated_at": "2026-01-12T11:56:38.850202"
+  "updated_at": "2026-02-03T18:29:53.305871",
+  "first_prize_draws": [
+    1120,
+    1111
+  ],
+  "second_prize_draws": [
+    1208,
+    1190,
+    1176,
+    1167,
+    1162,
+    1142,
+    1138,
+    1120,
+    1117,
+    1078,
+    981,
+    885,
+    811,
+    798,
+    784,
+    773
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 16
 }

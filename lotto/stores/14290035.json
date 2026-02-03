@@ -1,7 +1,7 @@
 {
   "store_id": "14290035",
   "name": "왕대박복권",
-  "address": "강원 속초시 번영로 142 ",
+  "address": "강원 속초시  번영로 142 1층 102호",
   "phone": "033-638-0292",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,27 @@
   ],
   "latitude": 38.211353,
   "longitude": 128.589321,
-  "updated_at": "2026-01-12T12:01:06.811955"
+  "updated_at": "2026-02-03T18:28:52.698435",
+  "first_prize_draws": [
+    1194,
+    976,
+    743,
+    378
+  ],
+  "second_prize_draws": [
+    1169,
+    863,
+    841,
+    764,
+    761,
+    719,
+    640,
+    636,
+    573,
+    552,
+    467,
+    449
+  ],
+  "first_prize_count": 4,
+  "second_prize_count": 12
 }

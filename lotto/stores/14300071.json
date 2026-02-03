@@ -1,7 +1,7 @@
 {
   "store_id": "14300071",
-  "name": "창운로또",
-  "address": "충북 청주시 흥덕구 오송생명로 208-9 ",
+  "name": "오송창운로또복권",
+  "address": "충북 청주시 흥덕구  오송생명로 208-9 리움오피스텔 1층 104호",
   "phone": "043-273-5507",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 36.630149,
   "longitude": 127.332323,
-  "updated_at": "2026-01-12T11:26:42.480268"
+  "updated_at": "2026-02-03T18:21:16.409904",
+  "first_prize_draws": [
+    632
+  ],
+  "second_prize_draws": [
+    1099,
+    881,
+    855,
+    821,
+    417
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

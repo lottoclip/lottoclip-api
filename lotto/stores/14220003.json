@@ -1,7 +1,7 @@
 {
   "store_id": "14220003",
   "name": "속초등대로또복권",
-  "address": "강원 속초시 영금정로 23 ",
+  "address": "강원 속초시  영금정로 23 ",
   "phone": "033-633-4880",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 38.212677,
   "longitude": 128.599056,
-  "updated_at": "2026-01-12T12:01:06.805321"
+  "updated_at": "2026-02-03T18:28:52.692358",
+  "first_prize_draws": [
+    1194,
+    1044
+  ],
+  "second_prize_draws": [
+    1155,
+    1115,
+    835,
+    830,
+    663,
+    656
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 6
 }

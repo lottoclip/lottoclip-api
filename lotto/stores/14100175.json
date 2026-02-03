@@ -1,7 +1,7 @@
 {
   "store_id": "14100175",
   "name": "복권나라",
-  "address": "경기 수원시 장안구 장안로 288 ",
+  "address": "경기 수원시 장안구  장안로 288 1층",
   "phone": "031-251-9332",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,25 @@
   ],
   "latitude": 37.307372,
   "longitude": 126.990304,
-  "updated_at": "2026-01-12T11:48:51.294931"
+  "updated_at": "2026-02-03T18:27:25.158537",
+  "first_prize_draws": [
+    1011
+  ],
+  "second_prize_draws": [
+    1174,
+    1106,
+    1009,
+    982,
+    924,
+    901,
+    795,
+    770,
+    664,
+    574,
+    482,
+    419,
+    348
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 13
 }

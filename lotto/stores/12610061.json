@@ -1,7 +1,7 @@
 {
   "store_id": "12610061",
   "name": "로또판매점",
-  "address": "부산 남구 석포로 41 ",
+  "address": "부산 남구  석포로 41 ",
   "phone": "051-633-7620",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,22 @@
   ],
   "latitude": 35.123303,
   "longitude": 129.085336,
-  "updated_at": "2026-01-12T11:24:31.299590"
+  "updated_at": "2026-02-03T18:27:16.095592",
+  "first_prize_draws": [
+    596
+  ],
+  "second_prize_draws": [
+    1172,
+    1159,
+    956,
+    924,
+    725,
+    695,
+    605,
+    476,
+    440,
+    344
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 10
 }

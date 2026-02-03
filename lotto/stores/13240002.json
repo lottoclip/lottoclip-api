@@ -1,7 +1,7 @@
 {
   "store_id": "13240002",
   "name": "나눔로또",
-  "address": "세종   운주산로 1164 ",
+  "address": "세종   운주산로 1164 2동",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 36.679678,
   "longitude": 127.20769,
-  "updated_at": "2026-01-12T11:52:28.233670"
+  "updated_at": "2026-02-03T18:29:09.770141",
+  "first_prize_draws": [
+    1065
+  ],
+  "second_prize_draws": [
+    1198,
+    1161,
+    1153,
+    1126,
+    1094,
+    916,
+    902
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

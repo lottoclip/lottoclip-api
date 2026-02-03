@@ -1,7 +1,7 @@
 {
   "store_id": "14430002",
   "name": "황실복권방",
-  "address": "충남 천안시 동남구 충절로 799 ",
+  "address": "충남 천안시 동남구  충절로 799 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,21 @@
   ],
   "latitude": 36.769257,
   "longitude": 127.200641,
-  "updated_at": "2026-01-12T11:55:08.144942"
+  "updated_at": "2026-02-03T18:24:35.055589",
+  "first_prize_draws": [
+    1101,
+    992,
+    901,
+    789
+  ],
+  "second_prize_draws": [
+    1142,
+    1139,
+    949,
+    863,
+    839,
+    810
+  ],
+  "first_prize_count": 4,
+  "second_prize_count": 6
 }

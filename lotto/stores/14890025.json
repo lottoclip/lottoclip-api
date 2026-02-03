@@ -1,7 +1,7 @@
 {
   "store_id": "14890025",
   "name": "해피데이복권방",
-  "address": "경남 의령군 충익로 39 ",
+  "address": "경남 의령군  충익로 39 ",
   "phone": "055-572-0505",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,25 @@
   ],
   "latitude": 35.319485,
   "longitude": 128.261872,
-  "updated_at": "2026-01-12T11:18:22.538961"
+  "updated_at": "2026-02-03T18:27:16.542002",
+  "first_prize_draws": [
+    488,
+    397
+  ],
+  "second_prize_draws": [
+    1172,
+    1165,
+    1150,
+    1128,
+    1047,
+    997,
+    944,
+    894,
+    863,
+    812,
+    647,
+    432
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 12
 }

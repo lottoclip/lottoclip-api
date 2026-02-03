@@ -1,7 +1,7 @@
 {
   "store_id": "24100268",
-  "name": "GS25(수지수석)",
-  "address": "경기 용인시 수지구 풍덕천동  1080-1번지 수석프라자103호",
+  "name": "GS25(수지수석점)",
+  "address": "경기 용인시 수지구 풍덕천동 1080-1 수석프라자103호",
   "phone": "031-304-0025",
   "lottery_types": [
     "lotto645",
@@ -9,5 +9,20 @@
   ],
   "latitude": 37.321805,
   "longitude": 127.094073,
-  "updated_at": "2026-01-12T11:25:31.221275"
+  "updated_at": "2026-02-03T18:07:15.424138",
+  "first_prize_draws": [
+    610
+  ],
+  "second_prize_draws": [
+    927,
+    837,
+    818,
+    648,
+    610,
+    445,
+    332,
+    301
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 8
 }

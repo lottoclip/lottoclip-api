@@ -1,0 +1,30 @@
+{
+  "store_id": "14900012",
+  "name": "황금복권",
+  "address": "제주 제주시  서광로 171 ",
+  "phone": "064-756-1466",
+  "lottery_types": [
+    "lotto645",
+    "pension720",
+    "speetto"
+  ],
+  "latitude": 33.50026,
+  "longitude": 126.514699,
+  "updated_at": "2026-02-03T18:23:01.211529",
+  "first_prize_draws": [],
+  "second_prize_draws": [
+    1120,
+    1110,
+    1057,
+    980,
+    950,
+    897,
+    758,
+    676,
+    621,
+    460,
+    282
+  ],
+  "first_prize_count": 0,
+  "second_prize_count": 11
+}

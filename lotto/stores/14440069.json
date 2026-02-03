@@ -1,7 +1,7 @@
 {
   "store_id": "14440069",
   "name": "청룡로또판매점",
-  "address": "충남 당진시 청룡길 159 ",
+  "address": "충남 당진시  청룡길 159 용기빌딩",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,14 @@
   ],
   "latitude": 36.888615,
   "longitude": 126.632627,
-  "updated_at": "2026-01-12T11:53:08.806649"
+  "updated_at": "2026-02-03T18:24:01.097292",
+  "first_prize_draws": [
+    1073
+  ],
+  "second_prize_draws": [
+    1134,
+    1080
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 2
 }

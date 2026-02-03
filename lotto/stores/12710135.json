@@ -1,7 +1,7 @@
 {
   "store_id": "12710135",
   "name": "행운마트",
-  "address": "대구 달서구 달구벌대로 1600 ",
+  "address": "대구 달서구  달구벌대로 1600 ",
   "phone": "053-567-0555",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,16 @@
   ],
   "latitude": 35.851526,
   "longitude": 128.541734,
-  "updated_at": "2026-01-12T11:15:04.711108"
+  "updated_at": "2026-02-03T18:17:45.894013",
+  "first_prize_draws": [
+    434
+  ],
+  "second_prize_draws": [
+    1055,
+    1044,
+    803,
+    514
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 4
 }

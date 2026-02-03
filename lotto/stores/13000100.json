@@ -1,7 +1,7 @@
 {
   "store_id": "13000100",
-  "name": "그린로또",
-  "address": "대전 중구 대흥로 94 ",
+  "name": "복권명당",
+  "address": "대전 중구  대흥로 94 ",
   "phone": "042-252-1241",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,23 @@
   ],
   "latitude": 36.322495,
   "longitude": 127.422512,
-  "updated_at": "2026-01-12T11:38:23.039341"
+  "updated_at": "2026-02-03T18:25:55.405120",
+  "first_prize_draws": [
+    830,
+    742
+  ],
+  "second_prize_draws": [
+    1157,
+    1042,
+    881,
+    862,
+    634,
+    573,
+    564,
+    553,
+    499,
+    412
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 10
 }

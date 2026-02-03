@@ -1,7 +1,7 @@
 {
   "store_id": "11100227",
   "name": "단골집편의점",
-  "address": "서울 강동구 구천면로 194 ",
+  "address": "서울 강동구  구천면로 194 ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,20 @@
   ],
   "latitude": 37.540585,
   "longitude": 127.126223,
-  "updated_at": "2026-01-12T11:33:36.758310"
+  "updated_at": "2026-02-03T18:20:59.188692",
+  "first_prize_draws": [
+    744,
+    549
+  ],
+  "second_prize_draws": [
+    1095,
+    935,
+    753,
+    752,
+    673,
+    595,
+    443
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 7
 }

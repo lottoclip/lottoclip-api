@@ -1,7 +1,7 @@
 {
   "store_id": "14490011",
   "name": "행운천하명당",
-  "address": "충남 서천군 충절로 34 ",
+  "address": "충남 서천군 충절로 34  ",
   "phone": "041-952-7200",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,24 @@
   ],
   "latitude": 36.075369,
   "longitude": 126.686395,
-  "updated_at": "2026-01-12T11:57:01.143116"
+  "updated_at": "2026-02-03T18:29:44.863876",
+  "first_prize_draws": [
+    1127,
+    627
+  ],
+  "second_prize_draws": [
+    1206,
+    1188,
+    1153,
+    887,
+    886,
+    881,
+    779,
+    742,
+    684,
+    668,
+    546
+  ],
+  "first_prize_count": 2,
+  "second_prize_count": 11
 }

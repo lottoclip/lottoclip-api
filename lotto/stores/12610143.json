@@ -1,7 +1,7 @@
 {
   "store_id": "12610143",
   "name": "당신대박",
-  "address": "부산 북구 금곡대로285번길 19 ",
+  "address": "부산 북구  금곡대로285번길 19 리버사이드빌딩103-1호",
   "phone": "051-363-7717",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,19 @@
   ],
   "latitude": 35.233796,
   "longitude": 129.012335,
-  "updated_at": "2026-01-12T11:11:10.634700"
+  "updated_at": "2026-02-03T18:23:25.927398",
+  "first_prize_draws": [
+    368
+  ],
+  "second_prize_draws": [
+    1126,
+    846,
+    802,
+    777,
+    515,
+    463,
+    293
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 7
 }

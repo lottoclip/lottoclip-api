@@ -1,12 +1,20 @@
 {
   "store_id": "12840008",
-  "name": "CU로또",
-  "address": "인천 미추홀구 경인로 438 ",
+  "name": "씨유 주안 사랑점",
+  "address": "인천 미추홀구  경인로 438 1층(주안동)",
   "phone": null,
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.456227,
   "longitude": 126.651218,
-  "updated_at": "2026-01-12T11:39:10.630062"
+  "updated_at": "2026-02-03T18:27:33.778140",
+  "first_prize_draws": [
+    845
+  ],
+  "second_prize_draws": [
+    1176
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }

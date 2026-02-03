@@ -1,7 +1,7 @@
 {
   "store_id": "14110030",
   "name": "일등복권방",
-  "address": "경기 부천시 삼작로 481 ",
+  "address": "경기 부천시  삼작로 481 영미빌딩",
   "phone": "032-679-1494",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,18 @@
   ],
   "latitude": 37.518859,
   "longitude": 126.815118,
-  "updated_at": "2026-01-12T11:44:39.759279"
+  "updated_at": "2026-02-03T18:07:56.367502",
+  "first_prize_draws": [
+    936
+  ],
+  "second_prize_draws": [
+    624,
+    592,
+    544,
+    414,
+    403,
+    266
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 6
 }

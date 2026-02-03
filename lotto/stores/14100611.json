@@ -1,7 +1,7 @@
 {
   "store_id": "14100611",
   "name": "버스표판매소",
-  "address": "경기 의정부시 평화로 535 ",
+  "address": "경기 의정부시  평화로 535 의정부역 동부광장 앞(버스정류장)",
   "phone": "031-845-1816",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,17 @@
   ],
   "latitude": 37.740176,
   "longitude": 127.04713,
-  "updated_at": "2026-01-12T11:27:47.317784"
+  "updated_at": "2026-02-03T18:27:59.555448",
+  "first_prize_draws": [
+    648
+  ],
+  "second_prize_draws": [
+    1182,
+    952,
+    803,
+    757,
+    701
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 5
 }

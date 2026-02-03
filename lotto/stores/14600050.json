@@ -1,7 +1,7 @@
 {
   "store_id": "14600050",
   "name": "미평디씨로또",
-  "address": "전남 여수시 미평로 50 ",
+  "address": "전남 여수시  미평로 50 DC미평점",
   "phone": "061-666-1257",
   "lottery_types": [
     "lotto645",
@@ -10,5 +10,13 @@
   ],
   "latitude": 34.767355,
   "longitude": 127.708397,
-  "updated_at": "2026-01-12T11:57:04.752751"
+  "updated_at": "2026-02-03T18:23:35.143879",
+  "first_prize_draws": [
+    1128
+  ],
+  "second_prize_draws": [
+    1119
+  ],
+  "first_prize_count": 1,
+  "second_prize_count": 1
 }
