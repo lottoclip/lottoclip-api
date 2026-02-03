@@ -82,8 +82,7 @@ class LottoCrawler:
                 stores_list.append({
                     "id": store_id,
                     "name": data.get("name"),
-                    "lat": data.get("latitude"),
-                    "lon": data.get("longitude"),
+                    "address": data.get("address"),
                     "types": data.get("lottery_types", []),
                     "1st": data.get("first_prize_count", 0),
                     "2nd": data.get("second_prize_count", 0)
