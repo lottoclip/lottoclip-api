@@ -1,7 +1,7 @@
 {
   "store_id": "12830010",
   "name": "로또슈퍼",
-  "address": "인천 연수구  청량로185번길 27 1동 1층 103호",
+  "address": "인천 연수구 청량로185번길 27 1동 1층 103호  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,14 +10,15 @@
   ],
   "latitude": 37.42315,
   "longitude": 126.65144,
-  "updated_at": "2026-02-03T18:17:32.952907",
+  "updated_at": "2026-02-07T13:26:12.388379",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1210,
     1052,
     1034,
     827,
     761
   ],
   "first_prize_count": 0,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }

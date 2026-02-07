@@ -1,7 +1,7 @@
 {
   "store_id": "14110474",
   "name": "행운로또",
-  "address": "경기 하남시  미사강변중앙로 164 101호",
+  "address": "경기 하남시 미사강변중앙로 164 101호  ",
   "phone": "031-792-4050",
   "lottery_types": [
     "lotto645",
@@ -10,13 +10,14 @@
   ],
   "latitude": 37.561512,
   "longitude": 127.191131,
-  "updated_at": "2026-02-03T18:23:05.183121",
+  "updated_at": "2026-02-07T13:26:12.398590",
   "first_prize_draws": [
     915,
     827,
     694
   ],
   "second_prize_draws": [
+    1210,
     1121,
     1117,
     1088,
@@ -34,5 +35,5 @@
     458
   ],
   "first_prize_count": 3,
-  "second_prize_count": 15
+  "second_prize_count": 16
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14740173",
   "name": "광장로또판매점",
-  "address": "경북 구미시  산업로4길 52 1층",
+  "address": "경북 구미시 산업로4길 48-1 1층  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,12 +10,13 @@
   ],
   "latitude": 36.130744,
   "longitude": 128.33165,
-  "updated_at": "2026-02-03T18:24:05.493460",
+  "updated_at": "2026-02-07T13:26:12.406455",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1210,
     1135,
     1090
   ],
   "first_prize_count": 0,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

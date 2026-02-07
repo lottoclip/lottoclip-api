@@ -1,7 +1,7 @@
 {
   "store_id": "14240036",
   "name": "명당복권",
-  "address": "강원 철원군  금학로 253 ",
+  "address": "강원 철원군 금학로 253  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,13 +10,14 @@
   ],
   "latitude": 38.210866,
   "longitude": 127.216016,
-  "updated_at": "2026-02-03T18:23:05.191309",
+  "updated_at": "2026-02-07T13:26:12.400364",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1210,
     1121,
     951,
     943
   ],
   "first_prize_count": 0,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

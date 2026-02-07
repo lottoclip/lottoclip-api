@@ -1,7 +1,7 @@
 {
   "store_id": "14130192",
   "name": "동명로또",
-  "address": "경기 화성시  동탄기흥로257번나길 8-1 103호",
+  "address": "경기 화성시 동탄기흥로257번나길 8-1 103호  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,11 +10,12 @@
   ],
   "latitude": 37.182602,
   "longitude": 127.089642,
-  "updated_at": "2026-02-03T18:25:06.984843",
+  "updated_at": "2026-02-07T13:26:12.399207",
   "first_prize_draws": [
     977
   ],
   "second_prize_draws": [
+    1210,
     1146,
     1057,
     1052,
@@ -30,5 +31,5 @@
     709
   ],
   "first_prize_count": 1,
-  "second_prize_count": 13
+  "second_prize_count": 14
 }

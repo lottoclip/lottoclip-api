@@ -1,7 +1,7 @@
 {
   "store_id": "11100558",
   "name": "묵동식품",
-  "address": "서울 중랑구  동일로 919 ",
+  "address": "서울 중랑구 동일로 919  ",
   "phone": "02-979-3157",
   "lottery_types": [
     "lotto645",
@@ -10,7 +10,7 @@
   ],
   "latitude": 37.612457,
   "longitude": 127.07704,
-  "updated_at": "2026-02-03T18:27:29.329848",
+  "updated_at": "2026-02-07T13:26:12.385618",
   "first_prize_draws": [
     1163,
     1095,
@@ -26,6 +26,7 @@
     333
   ],
   "second_prize_draws": [
+    1210,
     1175,
     1174,
     1162,
@@ -72,5 +73,5 @@
     342
   ],
   "first_prize_count": 12,
-  "second_prize_count": 44
+  "second_prize_count": 45
 }

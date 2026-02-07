@@ -1,19 +1,20 @@
 {
   "store_id": "14290005",
   "name": "행운의시작복권전문점",
-  "address": "강원 삼척시  사대안길 5 8통1반",
+  "address": "강원 삼척시 사대안길 5 8통1반  ",
   "phone": "033-574-7399",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 37.444269,
   "longitude": 129.165418,
-  "updated_at": "2026-02-03T18:22:11.836963",
+  "updated_at": "2026-02-07T13:26:12.400177",
   "first_prize_draws": [
     816,
     768
   ],
   "second_prize_draws": [
+    1210,
     1112,
     1110,
     1047,
@@ -34,5 +35,5 @@
     277
   ],
   "first_prize_count": 2,
-  "second_prize_count": 18
+  "second_prize_count": 19
 }

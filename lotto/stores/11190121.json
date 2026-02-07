@@ -1,7 +1,7 @@
 {
   "store_id": "11190121",
   "name": "제이복권방",
-  "address": "서울 종로구  종로 225-1 평창빌딩 1층 103호",
+  "address": "서울 종로구 종로 225-1 평창빌딩 1층 103호  ",
   "phone": "02-764-3232",
   "lottery_types": [
     "lotto645",
@@ -10,7 +10,7 @@
   ],
   "latitude": 37.571291,
   "longitude": 127.002831,
-  "updated_at": "2026-02-03T18:29:31.355698",
+  "updated_at": "2026-02-07T13:26:12.385156",
   "first_prize_draws": [
     1149,
     1143,
@@ -30,6 +30,7 @@
     351
   ],
   "second_prize_draws": [
+    1210,
     1203,
     1199,
     1186,
@@ -136,5 +137,5 @@
     287
   ],
   "first_prize_count": 16,
-  "second_prize_count": 104
+  "second_prize_count": 105
 }

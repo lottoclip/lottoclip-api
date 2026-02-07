@@ -1,7 +1,7 @@
 {
   "store_id": "14600020",
   "name": "대박복권",
-  "address": "전남 나주시  구진포로 483 대박복권",
+  "address": "전남 나주시 구진포로 483 대박복권  ",
   "phone": "061-332-5747",
   "lottery_types": [
     "lotto645",
@@ -10,16 +10,17 @@
   ],
   "latitude": 35.009707,
   "longitude": 126.711399,
-  "updated_at": "2026-02-03T18:15:45.025558",
+  "updated_at": "2026-02-07T13:26:12.404516",
   "first_prize_draws": [
     796
   ],
   "second_prize_draws": [
+    1210,
     1031,
     964,
     905,
     659
   ],
   "first_prize_count": 1,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }

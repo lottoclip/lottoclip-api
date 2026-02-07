@@ -1,7 +1,7 @@
 {
   "store_id": "14141375",
   "name": "복권명가",
-  "address": "경기 시흥시  능곡로 174 106호",
+  "address": "경기 시흥시 능곡로 174 106호  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,13 +10,14 @@
   ],
   "latitude": 37.367987,
   "longitude": 126.812257,
-  "updated_at": "2026-02-03T18:28:25.540602",
+  "updated_at": "2026-02-07T13:26:12.394154",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1210,
     1188,
     1102,
     1060
   ],
   "first_prize_count": 0,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

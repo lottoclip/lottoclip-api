@@ -1,7 +1,7 @@
 {
   "store_id": "14610067",
   "name": "24그린마트",
-  "address": "전남 신안군  지도읍 봉리길 10 24그린마트",
+  "address": "전남 신안군 봉리길 10 24그린마트  ",
   "phone": "061-275-5386",
   "lottery_types": [
     "lotto645",
@@ -9,9 +9,10 @@
   ],
   "latitude": 35.060022,
   "longitude": 126.211204,
-  "updated_at": "2026-02-03T18:18:42.538214",
+  "updated_at": "2026-02-07T13:26:12.405491",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1210,
     1067,
     1043,
     957,
@@ -24,5 +25,5 @@
     272
   ],
   "first_prize_count": 0,
-  "second_prize_count": 10
+  "second_prize_count": 11
 }

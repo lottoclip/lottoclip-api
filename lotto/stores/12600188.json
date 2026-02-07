@@ -1,7 +1,7 @@
 {
   "store_id": "12600188",
   "name": "재벌로터리",
-  "address": "부산 중구  구덕로 1 재벌마트",
+  "address": "부산 중구 구덕로 1 재벌마트  ",
   "phone": "070-8851-4888",
   "lottery_types": [
     "lotto645",
@@ -10,12 +10,13 @@
   ],
   "latitude": 35.097616,
   "longitude": 129.035455,
-  "updated_at": "2026-02-03T18:29:26.720055",
+  "updated_at": "2026-02-07T13:26:12.387223",
   "first_prize_draws": [
     688,
     635
   ],
   "second_prize_draws": [
+    1210,
     1202,
     1175,
     1039,
@@ -25,5 +26,5 @@
     851
   ],
   "first_prize_count": 2,
-  "second_prize_count": 7
+  "second_prize_count": 8
 }

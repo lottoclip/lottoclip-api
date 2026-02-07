@@ -1,7 +1,7 @@
 {
   "store_id": "14810122",
   "name": "목화휴게소",
-  "address": "경남 사천시  사천대로 912 ",
+  "address": "경남 사천시 사천대로 912  ",
   "phone": "055-835-2780",
   "lottery_types": [
     "lotto645",
@@ -10,7 +10,7 @@
   ],
   "latitude": 35.001799,
   "longitude": 128.054159,
-  "updated_at": "2026-02-03T18:28:30.637326",
+  "updated_at": "2026-02-07T13:26:12.409035",
   "first_prize_draws": [
     1189,
     1128,
@@ -34,6 +34,7 @@
     332
   ],
   "second_prize_draws": [
+    1210,
     1179,
     1165,
     1158,
@@ -148,5 +149,5 @@
     274
   ],
   "first_prize_count": 20,
-  "second_prize_count": 112
+  "second_prize_count": 113
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "11190241",
   "name": "원스탑",
-  "address": "서울 송파구  백제고분로7길 39 ",
+  "address": "서울 송파구 백제고분로7길 39  ",
   "phone": "02-418-8605",
   "lottery_types": [
     "lotto645",
@@ -10,7 +10,7 @@
   ],
   "latitude": 37.510902,
   "longitude": 127.083215,
-  "updated_at": "2026-02-03T18:26:40.898203",
+  "updated_at": "2026-02-07T13:26:12.384155",
   "first_prize_draws": [
     1059,
     974,
@@ -21,6 +21,7 @@
     290
   ],
   "second_prize_draws": [
+    1210,
     1164,
     1151,
     1148,
@@ -46,5 +47,5 @@
     403
   ],
   "first_prize_count": 7,
-  "second_prize_count": 23
+  "second_prize_count": 24
 }

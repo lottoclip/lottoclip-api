@@ -1,7 +1,7 @@
 {
   "store_id": "14690003",
   "name": "드림마트",
-  "address": "전남 목포시  산정로 159-3 1층",
+  "address": "전남 목포시 산정로 159-3 1층  ",
   "phone": "061-276-8949",
   "lottery_types": [
     "lotto645",
@@ -10,9 +10,10 @@
   ],
   "latitude": 34.802836,
   "longitude": 126.392368,
-  "updated_at": "2026-02-03T18:24:05.482075",
+  "updated_at": "2026-02-07T13:26:12.405118",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1210,
     1135,
     1061,
     758,
@@ -23,5 +24,5 @@
     471
   ],
   "first_prize_count": 0,
-  "second_prize_count": 8
+  "second_prize_count": 9
 }

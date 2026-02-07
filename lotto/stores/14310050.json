@@ -1,7 +1,7 @@
 {
   "store_id": "14310050",
   "name": "대소원로또",
-  "address": "충북 충주시  중원대로 4373 휴게소내 컨테이너",
+  "address": "충북 충주시 중원대로 4373 휴게소내 컨테이너  ",
   "phone": "043-851-9534",
   "lottery_types": [
     "lotto645",
@@ -9,13 +9,14 @@
   ],
   "latitude": 36.973255,
   "longitude": 127.823596,
-  "updated_at": "2026-02-03T18:27:42.623011",
+  "updated_at": "2026-02-07T13:26:12.402367",
   "first_prize_draws": [
     1174,
     611,
     450
   ],
   "second_prize_draws": [
+    1210,
     1178,
     1140,
     1124,
@@ -39,5 +40,5 @@
     373
   ],
   "first_prize_count": 3,
-  "second_prize_count": 21
+  "second_prize_count": 22
 }

@@ -1,18 +1,19 @@
 {
   "store_id": "14690020",
   "name": "보물섬",
-  "address": "전남 목포시  산정로 268-3 근화상가 110호",
+  "address": "전남 목포시 산정로 268-3 근화상가 110호  ",
   "phone": "061-278-4662",
   "lottery_types": [
     "lotto645"
   ],
   "latitude": 34.81154,
   "longitude": 126.387006,
-  "updated_at": "2026-02-03T18:28:39.692932",
+  "updated_at": "2026-02-07T13:26:12.404916",
   "first_prize_draws": [
     466
   ],
   "second_prize_draws": [
+    1210,
     1191,
     1181,
     1102,
@@ -28,5 +29,5 @@
     356
   ],
   "first_prize_count": 1,
-  "second_prize_count": 13
+  "second_prize_count": 14
 }

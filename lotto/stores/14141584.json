@@ -1,7 +1,7 @@
 {
   "store_id": "14141584",
   "name": "탄현대박로또복권",
-  "address": "경기 파주시  방촌로 661 1층상가 좌측",
+  "address": "경기 파주시 방촌로 661 1층상가 좌측  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,11 +10,13 @@
   ],
   "latitude": 37.803196,
   "longitude": 126.718256,
-  "updated_at": "2026-02-03T18:16:38.751609",
-  "first_prize_draws": [],
+  "updated_at": "2026-02-07T13:26:12.397524",
+  "first_prize_draws": [
+    1210
+  ],
   "second_prize_draws": [
     1043
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 1
 }

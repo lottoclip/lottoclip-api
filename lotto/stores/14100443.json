@@ -1,7 +1,7 @@
 {
   "store_id": "14100443",
   "name": "프리웨이스토어",
-  "address": "경기 광주시  회안대로 605 1층",
+  "address": "경기 광주시 회안대로 605 1층  ",
   "phone": "031-763-5369",
   "lottery_types": [
     "lotto645",
@@ -10,12 +10,13 @@
   ],
   "latitude": 37.406817,
   "longitude": 127.237947,
-  "updated_at": "2026-02-03T18:25:38.316211",
+  "updated_at": "2026-02-07T13:26:12.391545",
   "first_prize_draws": [
     728,
     647
   ],
   "second_prize_draws": [
+    1210,
     1153,
     1111,
     1085,
@@ -40,5 +41,5 @@
     271
   ],
   "first_prize_count": 2,
-  "second_prize_count": 22
+  "second_prize_count": 23
 }

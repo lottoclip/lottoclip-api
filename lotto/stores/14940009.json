@@ -1,7 +1,7 @@
 {
   "store_id": "14940009",
   "name": "송악로또",
-  "address": "제주 서귀포시  동일하모로 206-1 팔도상회",
+  "address": "제주 서귀포시 동일하모로 206-1 팔도상회  ",
   "phone": "064-794-3164",
   "lottery_types": [
     "lotto645",
@@ -10,9 +10,10 @@
   ],
   "latitude": 33.225634,
   "longitude": 126.253192,
-  "updated_at": "2026-02-03T18:27:42.841754",
+  "updated_at": "2026-02-07T13:26:12.409908",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1210,
     1178,
     1136,
     1132,
@@ -22,5 +23,5 @@
     877
   ],
   "first_prize_count": 0,
-  "second_prize_count": 7
+  "second_prize_count": 8
 }

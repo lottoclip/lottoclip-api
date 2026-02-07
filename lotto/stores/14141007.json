@@ -1,7 +1,7 @@
 {
   "store_id": "14141007",
-  "name": "동탄산단점",
-  "address": "경기 화성시  동탄산단8길 19 108호",
+  "name": "로또복권판매점(동탄산단점)",
+  "address": "경기 화성시 동탄산단8길 19 108호  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,9 +10,10 @@
   ],
   "latitude": 37.17287,
   "longitude": 127.08917,
-  "updated_at": "2026-02-03T18:26:23.943853",
+  "updated_at": "2026-02-07T13:26:12.399997",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1210,
     1160,
     1153,
     1085,
@@ -20,5 +21,5 @@
     1053
   ],
   "first_prize_count": 0,
-  "second_prize_count": 5
+  "second_prize_count": 6
 }

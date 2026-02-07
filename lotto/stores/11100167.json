@@ -1,7 +1,7 @@
 {
   "store_id": "11100167",
   "name": "행운복권방",
-  "address": "서울 은평구  연서로 258 상가102호",
+  "address": "서울 은평구 연서로 258 상가102호  ",
   "phone": "02-386-6867",
   "lottery_types": [
     "lotto645",
@@ -10,12 +10,13 @@
   ],
   "latitude": 37.619786,
   "longitude": 126.92332,
-  "updated_at": "2026-02-03T18:28:07.854485",
+  "updated_at": "2026-02-07T13:26:12.384765",
   "first_prize_draws": [
     761,
     268
   ],
   "second_prize_draws": [
+    1210,
     1184,
     1066,
     1048,
@@ -36,5 +37,5 @@
     353
   ],
   "first_prize_count": 2,
-  "second_prize_count": 18
+  "second_prize_count": 19
 }

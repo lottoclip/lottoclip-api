@@ -1,7 +1,7 @@
 {
   "store_id": "14141125",
   "name": "담꾹 구리수택점",
-  "address": "경기 구리시  안골로 101 ",
+  "address": "경기 구리시 안골로 101  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,13 +10,14 @@
   ],
   "latitude": 37.597643,
   "longitude": 127.142443,
-  "updated_at": "2026-02-03T18:27:06.960726",
+  "updated_at": "2026-02-07T13:26:12.391955",
   "first_prize_draws": [
     1156,
     1010,
     981
   ],
   "second_prize_draws": [
+    1210,
     1170,
     1153,
     1148,
@@ -25,5 +26,5 @@
     1103
   ],
   "first_prize_count": 3,
-  "second_prize_count": 6
+  "second_prize_count": 7
 }

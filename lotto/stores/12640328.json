@@ -1,7 +1,7 @@
 {
   "store_id": "12640328",
-  "name": "로또 앤 커피",
-  "address": "부산 수영구  광안해변로295번길 3 101호(민락동 드림팰리스)",
+  "name": "제트킹커피",
+  "address": "부산 수영구 광안해변로277번길 3 1층ZKING COFFEE  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,11 +10,12 @@
   ],
   "latitude": 35.156016,
   "longitude": 129.124,
-  "updated_at": "2026-02-03T18:14:16.993350",
+  "updated_at": "2026-02-07T13:26:12.386836",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1210,
     1014
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

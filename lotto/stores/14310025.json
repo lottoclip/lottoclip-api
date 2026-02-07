@@ -1,7 +1,7 @@
 {
   "store_id": "14310025",
   "name": "로또복권방",
-  "address": "충북 영동군  중앙로 28 ",
+  "address": "충북 영동군 중앙로 28  ",
   "phone": "043-745-0645",
   "lottery_types": [
     "lotto645",
@@ -10,9 +10,10 @@
   ],
   "latitude": 36.174507,
   "longitude": 127.776576,
-  "updated_at": "2026-02-03T18:27:34.052537",
+  "updated_at": "2026-02-07T13:26:12.401757",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1210,
     1176,
     1062,
     1042,
@@ -29,5 +30,5 @@
     520
   ],
   "first_prize_count": 0,
-  "second_prize_count": 14
+  "second_prize_count": 15
 }

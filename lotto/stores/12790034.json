@@ -1,7 +1,7 @@
 {
   "store_id": "12790034",
   "name": "왕대박(복권방)",
-  "address": "대구 북구  칠성남로 143 1층전체",
+  "address": "대구 북구 칠성남로 143 1층전체  ",
   "phone": "053-423-1011",
   "lottery_types": [
     "lotto645",
@@ -10,12 +10,13 @@
   ],
   "latitude": 35.877491,
   "longitude": 128.596489,
-  "updated_at": "2026-02-03T18:27:33.754410",
+  "updated_at": "2026-02-07T13:26:12.387813",
   "first_prize_draws": [
     1150,
     914
   ],
   "second_prize_draws": [
+    1210,
     1176,
     1136,
     1105,
@@ -37,5 +38,5 @@
     265
   ],
   "first_prize_count": 2,
-  "second_prize_count": 19
+  "second_prize_count": 20
 }

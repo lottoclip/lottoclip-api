@@ -1,7 +1,7 @@
 {
   "store_id": "14141016",
   "name": "이제이",
-  "address": "경기 화성시  동탄산척로2나길 4-12 102호",
+  "address": "경기 화성시 동탄산척로2나길 4-12 102호  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,14 +10,15 @@
   ],
   "latitude": 37.17465,
   "longitude": 127.11433,
-  "updated_at": "2026-02-03T18:25:02.905785",
+  "updated_at": "2026-02-07T13:26:12.399022",
   "first_prize_draws": [
     1141
   ],
   "second_prize_draws": [
+    1210,
     1145,
     972
   ],
   "first_prize_count": 1,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

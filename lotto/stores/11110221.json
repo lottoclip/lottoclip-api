@@ -1,7 +1,7 @@
 {
   "store_id": "11110221",
   "name": "대박복권방",
-  "address": "서울 구로구  개봉로17길 18 ",
+  "address": "서울 구로구 개봉로17길 18  ",
   "phone": "02-2681-1606",
   "lottery_types": [
     "lotto645",
@@ -10,11 +10,12 @@
   ],
   "latitude": 37.491714,
   "longitude": 126.854764,
-  "updated_at": "2026-02-03T18:14:29.600058",
+  "updated_at": "2026-02-07T13:26:12.379260",
   "first_prize_draws": [
     1017
   ],
   "second_prize_draws": [
+    1210,
     846,
     811,
     760,
@@ -22,5 +23,5 @@
     538
   ],
   "first_prize_count": 1,
-  "second_prize_count": 5
+  "second_prize_count": 6
 }

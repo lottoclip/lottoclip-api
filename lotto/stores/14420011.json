@@ -1,7 +1,7 @@
 {
   "store_id": "14420011",
   "name": "이마트24당진합덕점",
-  "address": "충남 당진시  덕평로 561 ",
+  "address": "충남 당진시 덕평로 561  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,16 +10,17 @@
   ],
   "latitude": 36.809129,
   "longitude": 126.775928,
-  "updated_at": "2026-02-03T18:28:39.604779",
+  "updated_at": "2026-02-07T13:26:12.402570",
   "first_prize_draws": [
     861
   ],
   "second_prize_draws": [
+    1210,
     1191,
     1179,
     922,
     881
   ],
   "first_prize_count": 1,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }

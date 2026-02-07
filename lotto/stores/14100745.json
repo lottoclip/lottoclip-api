@@ -1,7 +1,7 @@
 {
   "store_id": "14100745",
   "name": "다니엘사",
-  "address": "경기 안산시 단원구  원선1로 38 101호",
+  "address": "경기 안산시 단원구 원선1로 38 101호  ",
   "phone": "031-493-2848",
   "lottery_types": [
     "lotto645",
@@ -10,8 +10,9 @@
   ],
   "latitude": 37.326073,
   "longitude": 126.804168,
-  "updated_at": "2026-02-03T18:28:30.211355",
+  "updated_at": "2026-02-07T13:26:12.394964",
   "first_prize_draws": [
+    1210,
     1160,
     1159,
     1075,
@@ -74,6 +75,6 @@
     306,
     305
   ],
-  "first_prize_count": 9,
+  "first_prize_count": 10,
   "second_prize_count": 50
 }

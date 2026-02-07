@@ -1,7 +1,7 @@
 {
   "store_id": "14510078",
   "name": "참깨열쇠.복권",
-  "address": "전북 전주시 완산구  용리로 43 1층",
+  "address": "전북 전주시 완산구 용리로 43 1층  ",
   "phone": "063-224-1305",
   "lottery_types": [
     "lotto645",
@@ -10,13 +10,14 @@
   ],
   "latitude": 35.798842,
   "longitude": 127.114664,
-  "updated_at": "2026-02-03T18:29:14.228198",
+  "updated_at": "2026-02-07T13:26:12.403952",
   "first_prize_draws": [
     1199,
     311,
     294
   ],
   "second_prize_draws": [
+    1210,
     1193,
     929,
     928,
@@ -27,5 +28,5 @@
     429
   ],
   "first_prize_count": 3,
-  "second_prize_count": 8
+  "second_prize_count": 9
 }

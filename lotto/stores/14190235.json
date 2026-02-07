@@ -1,7 +1,7 @@
 {
   "store_id": "14190235",
   "name": "훼미리마트",
-  "address": "경기 포천시  중앙로 148 신읍동",
+  "address": "경기 포천시 중앙로 148 신읍동  ",
   "phone": "031-535-5944",
   "lottery_types": [
     "lotto645",
@@ -10,12 +10,13 @@
   ],
   "latitude": 37.899298,
   "longitude": 127.205417,
-  "updated_at": "2026-02-03T18:27:59.586581",
+  "updated_at": "2026-02-07T13:26:12.398197",
   "first_prize_draws": [
     1182,
     1078
   ],
   "second_prize_draws": [
+    1210,
     1112,
     1101,
     1010,
@@ -29,5 +30,5 @@
     519
   ],
   "first_prize_count": 2,
-  "second_prize_count": 11
+  "second_prize_count": 12
 }

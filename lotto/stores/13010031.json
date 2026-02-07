@@ -1,7 +1,7 @@
 {
   "store_id": "13010031",
   "name": "드림로또",
-  "address": "대전 중구  대둔산로 365-2 ",
+  "address": "대전 중구 대둔산로 365-2  ",
   "phone": "042-585-4093",
   "lottery_types": [
     "lotto645",
@@ -10,17 +10,18 @@
   ],
   "latitude": 36.302053,
   "longitude": 127.385861,
-  "updated_at": "2026-02-03T18:20:50.607917",
+  "updated_at": "2026-02-07T13:26:12.389617",
   "first_prize_draws": [
     637,
     435
   ],
   "second_prize_draws": [
+    1210,
     1093,
     747,
     701,
     451
   ],
   "first_prize_count": 2,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }

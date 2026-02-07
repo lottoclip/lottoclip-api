@@ -1,7 +1,7 @@
 {
   "store_id": "14840658",
   "name": "로또플렉스 시티세븐점",
-  "address": "경남 창원시 성산구  원이대로 320 1층 S-108호(더시티세븐)",
+  "address": "경남 창원시 성산구 원이대로 320 1층 S-108호(더시티세븐)  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,11 +10,13 @@
   ],
   "latitude": 35.240393,
   "longitude": 128.653998,
-  "updated_at": "2026-02-03T18:27:07.406693",
-  "first_prize_draws": [],
+  "updated_at": "2026-02-07T13:26:12.409499",
+  "first_prize_draws": [
+    1210
+  ],
   "second_prize_draws": [
     1170
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 1
 }

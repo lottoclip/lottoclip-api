@@ -1,7 +1,7 @@
 {
   "store_id": "11100873",
   "name": "버스토큰판매소",
-  "address": "서울 구로구  시흥대로 577 구로디지털단지 6번출구앞 가판점",
+  "address": "서울 구로구 시흥대로 577 구로디지털단지 6번출구앞 가판점  ",
   "phone": "02-856-5898",
   "lottery_types": [
     "lotto645",
@@ -10,13 +10,14 @@
   ],
   "latitude": 37.48444,
   "longitude": 126.902251,
-  "updated_at": "2026-02-03T18:23:52.249172",
+  "updated_at": "2026-02-07T13:26:12.378714",
   "first_prize_draws": [
     914,
     853,
     658
   ],
   "second_prize_draws": [
+    1210,
     1132,
     1094,
     1063,
@@ -34,5 +35,5 @@
     439
   ],
   "first_prize_count": 3,
-  "second_prize_count": 15
+  "second_prize_count": 16
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "13090030",
   "name": "베스토아(용전2호)",
-  "address": "대전 동구  동서대로 1689 복합터미널서관 1층 59호",
+  "address": "대전 동구 동서대로 1689 복합터미널서관 1층 59호  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,8 +10,9 @@
   ],
   "latitude": 36.350379,
   "longitude": 127.436635,
-  "updated_at": "2026-02-03T18:29:22.614670",
+  "updated_at": "2026-02-07T13:26:12.389403",
   "first_prize_draws": [
+    1210,
     1135,
     1120,
     972,
@@ -20,6 +21,7 @@
     790
   ],
   "second_prize_draws": [
+    1210,
     1201,
     1186,
     1180,
@@ -49,6 +51,6 @@
     287,
     274
   ],
-  "first_prize_count": 6,
-  "second_prize_count": 28
+  "first_prize_count": 7,
+  "second_prize_count": 29
 }

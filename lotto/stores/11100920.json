@@ -1,7 +1,7 @@
 {
   "store_id": "11100920",
   "name": "가판14호",
-  "address": "서울 중구  퇴계로 37 ",
+  "address": "서울 중구 퇴계로 37  ",
   "phone": "02-778-8638",
   "lottery_types": [
     "lotto645",
@@ -10,7 +10,7 @@
   ],
   "latitude": 37.557815,
   "longitude": 126.976709,
-  "updated_at": "2026-02-03T18:27:38.085070",
+  "updated_at": "2026-02-07T13:26:12.385404",
   "first_prize_draws": [
     1123,
     1067,
@@ -20,6 +20,7 @@
     522
   ],
   "second_prize_draws": [
+    1210,
     1177,
     1174,
     1155,
@@ -40,5 +41,5 @@
     390
   ],
   "first_prize_count": 6,
-  "second_prize_count": 18
+  "second_prize_count": 19
 }

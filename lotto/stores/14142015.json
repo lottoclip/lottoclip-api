@@ -1,7 +1,7 @@
 {
   "store_id": "14142015",
   "name": "리맥스복권방",
-  "address": "경기 구리시  경춘로 239 리맥스프라자 앞 가판대(인창동 676-1)",
+  "address": "경기 구리시 경춘로 239 리맥스프라자 앞 가판대(인창동 676-1)  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,8 +10,9 @@
   ],
   "latitude": 37.601614,
   "longitude": 127.141629,
-  "updated_at": "2026-02-03T18:29:09.786597",
+  "updated_at": "2026-02-07T13:26:12.391761",
   "first_prize_draws": [
+    1210,
     1100
   ],
   "second_prize_draws": [
@@ -20,6 +21,6 @@
     1141,
     1111
   ],
-  "first_prize_count": 1,
+  "first_prize_count": 2,
   "second_prize_count": 4
 }

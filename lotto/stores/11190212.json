@@ -1,7 +1,7 @@
 {
   "store_id": "11190212",
   "name": "씨스페이스 응암역점",
-  "address": "서울 은평구  연서로 9 센터폴리스 1층 107호",
+  "address": "서울 은평구 연서로 9 센터폴리스 1층 107호  ",
   "phone": "02-355-9025",
   "lottery_types": [
     "lotto645",
@@ -10,8 +10,9 @@
   ],
   "latitude": 37.600133,
   "longitude": 126.91551,
-  "updated_at": "2026-02-03T18:26:36.724796",
+  "updated_at": "2026-02-07T13:26:12.384970",
   "first_prize_draws": [
+    1210,
     1102
   ],
   "second_prize_draws": [
@@ -24,6 +25,6 @@
     299,
     296
   ],
-  "first_prize_count": 1,
+  "first_prize_count": 2,
   "second_prize_count": 8
 }

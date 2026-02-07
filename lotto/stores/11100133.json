@@ -1,7 +1,7 @@
 {
   "store_id": "11100133",
   "name": "노다지복권방",
-  "address": "서울 동대문구  한빛로 1-1 ",
+  "address": "서울 동대문구 한빛로 1-1  ",
   "phone": "02-926-8471",
   "lottery_types": [
     "lotto645",
@@ -10,12 +10,13 @@
   ],
   "latitude": 37.576339,
   "longitude": 127.023919,
-  "updated_at": "2026-02-03T18:16:18.918275",
+  "updated_at": "2026-02-07T13:26:12.379857",
   "first_prize_draws": [
     1028,
     1003
   ],
   "second_prize_draws": [
+    1210,
     1039,
     1033,
     980,
@@ -29,5 +30,5 @@
     290
   ],
   "first_prize_count": 2,
-  "second_prize_count": 11
+  "second_prize_count": 12
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14100538",
   "name": "교통카드충전소",
-  "address": "경기 고양시 덕양구  화정로 58 화정역 2번출구",
+  "address": "경기 고양시 덕양구 화정로 58 화정역 2번출구  ",
   "phone": "031-978-0261",
   "lottery_types": [
     "lotto645",
@@ -10,7 +10,7 @@
   ],
   "latitude": 37.634551,
   "longitude": 126.833213,
-  "updated_at": "2026-02-03T18:29:18.291592",
+  "updated_at": "2026-02-07T13:26:12.390494",
   "first_prize_draws": [
     1136,
     1093,
@@ -21,6 +21,7 @@
     324
   ],
   "second_prize_draws": [
+    1210,
     1200,
     1198,
     1178,
@@ -67,5 +68,5 @@
     287
   ],
   "first_prize_count": 7,
-  "second_prize_count": 44
+  "second_prize_count": 45
 }

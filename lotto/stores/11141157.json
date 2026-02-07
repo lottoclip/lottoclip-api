@@ -1,7 +1,7 @@
 {
   "store_id": "11141157",
   "name": "소망복권",
-  "address": "서울 구로구  경인로35길 83 1층 101호(고척동)",
+  "address": "서울 구로구 경인로35길 83 1층 101호(고척동)  ",
   "phone": "02-2686-4283",
   "lottery_types": [
     "lotto645",
@@ -10,11 +10,12 @@
   ],
   "latitude": 37.500151,
   "longitude": 126.852353,
-  "updated_at": "2026-02-03T18:26:32.327842",
+  "updated_at": "2026-02-07T13:26:12.378919",
   "first_prize_draws": [
+    1210,
     1162
   ],
   "second_prize_draws": [],
-  "first_prize_count": 1,
+  "first_prize_count": 2,
   "second_prize_count": 0
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14140734",
   "name": "복권판매점",
-  "address": "경기 성남시 중원구  성남대로1130번길 3 제1층 제101호",
+  "address": "경기 성남시 중원구 성남대로1130번길 3 제1층 제101호  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,12 +10,13 @@
   ],
   "latitude": 37.4307,
   "longitude": 127.1296,
-  "updated_at": "2026-02-03T18:28:30.138959",
+  "updated_at": "2026-02-07T13:26:12.392936",
   "first_prize_draws": [
     1173,
     1110
   ],
   "second_prize_draws": [
+    1210,
     1189,
     1132,
     1116,
@@ -23,5 +24,5 @@
     958
   ],
   "first_prize_count": 2,
-  "second_prize_count": 5
+  "second_prize_count": 6
 }
