@@ -2,9 +2,9 @@ name: 로또 데이터 수집 및 분석
 
 on:
   schedule:
-    # 매주 토요일 오후 10시(UTC+9 기준 오후 9시 30분, UTC 기준 12시 30분)에 실행
+    # 매주 토요일 오후 9시 30분(UTC+9 기준 오후 9시 30분, UTC 기준 12시 30분)에 실행 (1차)
     - cron: '30 12 * * 6'
-    # 매주 토요일 오후 11시(UTC+9 기준 오후 11시, UTC 기준 14시)에 실행
+    # 매주 토요일 오후 11시(UTC+9 기준 오후 11시, UTC 기준 14시)에 실행 (2차)
     - cron: '0 14 * * 6'
   workflow_dispatch:
     # 수동 실행 옵션
@@ -46,7 +46,7 @@ jobs:
       - name: Python 설정
         uses: actions/setup-python@v4
         with:
-          python-version: '3.9'
+          python-version: '3.12'
           cache: 'pip'
       
       - name: 의존성 설치

@@ -49,7 +49,7 @@ jobs:
       - name: Python 설정
         uses: actions/setup-python@v4
         with:
-          python-version: '3.9'
+          python-version: '3.12'
           cache: 'pip'
       
       - name: 의존성 설치
