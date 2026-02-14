@@ -1,7 +1,7 @@
 {
   "store_id": "14190117",
   "name": "노다지복권방",
-  "address": "경기 안산시 단원구  와동로 17 103호",
+  "address": "경기 안산시 단원구 와동로 17 103호  ",
   "phone": "031-487-3244",
   "lottery_types": [
     "lotto645",
@@ -10,11 +10,12 @@
   ],
   "latitude": 37.33237,
   "longitude": 126.827171,
-  "updated_at": "2026-02-03T18:26:23.902778",
+  "updated_at": "2026-02-14T13:27:22.508745",
   "first_prize_draws": [
     619
   ],
   "second_prize_draws": [
+    1211,
     1160,
     1083,
     1060,
@@ -25,5 +26,5 @@
     370
   ],
   "first_prize_count": 1,
-  "second_prize_count": 8
+  "second_prize_count": 9
 }

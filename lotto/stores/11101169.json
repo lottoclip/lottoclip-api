@@ -1,7 +1,7 @@
 {
   "store_id": "11101169",
   "name": "가로판매대",
-  "address": "서울 강동구  올림픽로 648 천호역 3번 출구 앞(가판점)",
+  "address": "서울 강동구 올림픽로 648 천호역 3번 출구 앞(가판점)  ",
   "phone": "02-486-0580",
   "lottery_types": [
     "lotto645",
@@ -10,7 +10,7 @@
   ],
   "latitude": 37.538975,
   "longitude": 127.124442,
-  "updated_at": "2026-02-03T18:28:39.027720",
+  "updated_at": "2026-02-14T13:27:22.495326",
   "first_prize_draws": [
     1061,
     1042,
@@ -18,6 +18,7 @@
     369
   ],
   "second_prize_draws": [
+    1211,
     1191,
     1187,
     1185,
@@ -43,5 +44,5 @@
     385
   ],
   "first_prize_count": 4,
-  "second_prize_count": 23
+  "second_prize_count": 24
 }

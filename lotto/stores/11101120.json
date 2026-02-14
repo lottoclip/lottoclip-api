@@ -1,7 +1,7 @@
 {
   "store_id": "11101120",
   "name": "대박종합복권가로판매점",
-  "address": "서울 서대문구  신촌로 75 ",
+  "address": "서울 서대문구 신촌로 75 가로판매대  ",
   "phone": "02-324-9175",
   "lottery_types": [
     "lotto645",
@@ -10,12 +10,13 @@
   ],
   "latitude": 37.556063,
   "longitude": 126.93479,
-  "updated_at": "2026-02-03T18:25:55.087582",
+  "updated_at": "2026-02-14T13:27:22.496561",
   "first_prize_draws": [
     964,
     702
   ],
   "second_prize_draws": [
+    1211,
     1157,
     1114,
     1110,
@@ -26,5 +27,5 @@
     474
   ],
   "first_prize_count": 2,
-  "second_prize_count": 8
+  "second_prize_count": 9
 }

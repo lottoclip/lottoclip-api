@@ -1,7 +1,7 @@
 {
   "store_id": "14140978",
   "name": "해피로또",
-  "address": "경기 평택시  비전2로 121 103호",
+  "address": "경기 평택시 비전2로 121 103호  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,11 +10,12 @@
   ],
   "latitude": 37.002361,
   "longitude": 127.104245,
-  "updated_at": "2026-02-03T18:25:51.170304",
+  "updated_at": "2026-02-14T13:27:22.511206",
   "first_prize_draws": [
     981
   ],
   "second_prize_draws": [
+    1211,
     1156,
     1106,
     1029,
@@ -23,5 +24,5 @@
     954
   ],
   "first_prize_count": 1,
-  "second_prize_count": 6
+  "second_prize_count": 7
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14141909",
   "name": "캐슬복권",
-  "address": "경기 이천시  구만리로 191 근린생활동 알 117호",
+  "address": "경기 이천시 구만리로 191 근린생활동 알 117호  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,12 +10,13 @@
   ],
   "latitude": 37.274278,
   "longitude": 127.454447,
-  "updated_at": "2026-02-03T18:27:25.189947",
+  "updated_at": "2026-02-14T13:27:22.510356",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1211,
     1174,
     1122
   ],
   "first_prize_count": 0,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

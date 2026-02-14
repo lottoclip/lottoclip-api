@@ -1,7 +1,7 @@
 {
   "store_id": "14740224",
   "name": "건행복권",
-  "address": "경북 포항시 북구  소티재로 398 가동 102호 복권판매점",
+  "address": "경북 포항시 북구 소티재로 398 가동 102호 복권판매점  ",
   "phone": "054-254-8544",
   "lottery_types": [
     "lotto645",
@@ -10,11 +10,12 @@
   ],
   "latitude": 36.084346,
   "longitude": 129.342564,
-  "updated_at": "2026-02-03T18:25:47.005189",
+  "updated_at": "2026-02-14T13:27:22.515486",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1211,
     1155
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

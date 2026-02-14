@@ -1,7 +1,7 @@
 {
   "store_id": "12600368",
   "name": "올라운드투어",
-  "address": "부산 서구  대영로 94-1 로또슈퍼센타",
+  "address": "부산 서구 대영로 94-1 로또슈퍼센타  ",
   "phone": "051-246-3713",
   "lottery_types": [
     "lotto645",
@@ -10,14 +10,15 @@
   ],
   "latitude": 35.111134,
   "longitude": 129.021402,
-  "updated_at": "2026-02-03T18:22:28.492237",
+  "updated_at": "2026-02-14T13:27:22.502680",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1211,
     1116,
     1087,
     985,
     401
   ],
   "first_prize_count": 0,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }

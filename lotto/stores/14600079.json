@@ -1,7 +1,7 @@
 {
   "store_id": "14600079",
   "name": "나눔로또편의점",
-  "address": "전남 광양시  공영로 90 ",
+  "address": "전남 광양시 공영로 90  ",
   "phone": "061-795-3364",
   "lottery_types": [
     "lotto645",
@@ -10,8 +10,9 @@
   ],
   "latitude": 34.935659,
   "longitude": 127.699065,
-  "updated_at": "2026-02-03T18:26:00.132026",
+  "updated_at": "2026-02-14T13:27:22.514508",
   "first_prize_draws": [
+    1211,
     1158,
     1042,
     410
@@ -33,6 +34,6 @@
     711,
     710
   ],
-  "first_prize_count": 3,
+  "first_prize_count": 4,
   "second_prize_count": 15
 }

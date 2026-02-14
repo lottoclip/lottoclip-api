@@ -1,7 +1,7 @@
 {
   "store_id": "12810029",
-  "name": "로또복권방",
-  "address": "인천 연수구  독배로40번길 7 103호",
+  "name": "행운나래복권방",
+  "address": "인천 연수구 인천타워대로 323 상가동 1층 디 107호  ",
   "phone": "032-831-0645",
   "lottery_types": [
     "lotto645",
@@ -10,11 +10,12 @@
   ],
   "latitude": 37.399138,
   "longitude": 126.630363,
-  "updated_at": "2026-02-03T18:25:06.846046",
+  "updated_at": "2026-02-14T13:27:22.504021",
   "first_prize_draws": [
     845
   ],
   "second_prize_draws": [
+    1211,
     1146,
     1081,
     1010,
@@ -24,5 +25,5 @@
     475
   ],
   "first_prize_count": 1,
-  "second_prize_count": 7
+  "second_prize_count": 8
 }

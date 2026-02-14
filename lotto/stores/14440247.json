@@ -1,7 +1,7 @@
 {
   "store_id": "14440247",
   "name": "일등복권방",
-  "address": "충남 아산시  음봉로 307 101호 CU편의점",
+  "address": "충남 아산시 음봉로 307 101호 CU편의점  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,14 +10,15 @@
   ],
   "latitude": 36.845691,
   "longitude": 127.044995,
-  "updated_at": "2026-02-03T18:28:48.408184",
+  "updated_at": "2026-02-14T13:27:22.512978",
   "first_prize_draws": [
     1066
   ],
   "second_prize_draws": [
+    1211,
     1193,
     1176
   ],
   "first_prize_count": 1,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

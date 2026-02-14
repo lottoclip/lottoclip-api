@@ -1,7 +1,7 @@
 {
   "store_id": "12710129",
   "name": "일등복권편의점",
-  "address": "대구 달서구  대명천로 220 1층",
+  "address": "대구 달서구 대명천로 220 1층  ",
   "phone": "053-522-6808",
   "lottery_types": [
     "lotto645",
@@ -10,7 +10,7 @@
   ],
   "latitude": 35.842204,
   "longitude": 128.53619,
-  "updated_at": "2026-02-03T18:29:31.389902",
+  "updated_at": "2026-02-14T13:27:22.503215",
   "first_prize_draws": [
     1188,
     1093,
@@ -43,6 +43,7 @@
     300
   ],
   "second_prize_draws": [
+    1211,
     1203,
     1202,
     1201,
@@ -188,5 +189,5 @@
     362
   ],
   "first_prize_count": 29,
-  "second_prize_count": 143
+  "second_prize_count": 144
 }

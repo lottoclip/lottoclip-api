@@ -1,7 +1,7 @@
 {
   "store_id": "14100195",
   "name": "복권백화점",
-  "address": "경기 파주시  평화로 70 ",
+  "address": "경기 파주시 평화로 70  ",
   "phone": "031-943-7477",
   "lottery_types": [
     "lotto645",
@@ -10,7 +10,7 @@
   ],
   "latitude": 37.763587,
   "longitude": 126.76989,
-  "updated_at": "2026-02-03T18:29:18.401829",
+  "updated_at": "2026-02-14T13:27:22.510560",
   "first_prize_draws": [
     1193,
     1118,
@@ -28,6 +28,7 @@
     477
   ],
   "second_prize_draws": [
+    1211,
     1200,
     1197,
     1196,
@@ -83,5 +84,5 @@
     287
   ],
   "first_prize_count": 14,
-  "second_prize_count": 53
+  "second_prize_count": 54
 }

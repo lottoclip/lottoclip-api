@@ -1,7 +1,7 @@
 {
   "store_id": "14830045",
   "name": "나나 복권판매소",
-  "address": "경남 양산시  상북중앙로 319 복권판매점",
+  "address": "경남 양산시 상북중앙로 319 복권판매점  ",
   "phone": "055-375-8460",
   "lottery_types": [
     "lotto645",
@@ -10,8 +10,9 @@
   ],
   "latitude": 35.412201,
   "longitude": 129.059186,
-  "updated_at": "2026-02-03T18:24:26.736052",
+  "updated_at": "2026-02-14T13:27:22.516756",
   "first_prize_draws": [
+    1211,
     988,
     847,
     784,
@@ -31,6 +32,6 @@
     802,
     703
   ],
-  "first_prize_count": 5,
+  "first_prize_count": 6,
   "second_prize_count": 11
 }

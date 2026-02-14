@@ -1,7 +1,7 @@
 {
   "store_id": "14130185",
   "name": "화랑로또판매점",
-  "address": "경기 화성시  푸른들판로 660 정수상가 ",
+  "address": "경기 화성시 푸른들판로 660  ",
   "phone": "031-354-3554",
   "lottery_types": [
     "lotto645",
@@ -10,8 +10,9 @@
   ],
   "latitude": 37.167335,
   "longitude": 126.895711,
-  "updated_at": "2026-02-03T18:20:07.160615",
+  "updated_at": "2026-02-14T13:27:22.511743",
   "first_prize_draws": [
+    1211,
     1068
   ],
   "second_prize_draws": [
@@ -20,6 +21,6 @@
     938,
     900
   ],
-  "first_prize_count": 1,
+  "first_prize_count": 2,
   "second_prize_count": 4
 }

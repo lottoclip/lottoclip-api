@@ -1,7 +1,7 @@
 {
   "store_id": "12640344",
   "name": "명성복권방",
-  "address": "부산 연제구  고분로236번길 13 101동 상가호(연산동)",
+  "address": "부산 연제구 고분로236번길 13 101동 상가호(연산동)  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,13 +10,14 @@
   ],
   "latitude": 35.183585,
   "longitude": 129.108238,
-  "updated_at": "2026-02-03T18:26:58.052637",
+  "updated_at": "2026-02-14T13:27:22.502859",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1211,
     1168,
     1034,
     993
   ],
   "first_prize_count": 0,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

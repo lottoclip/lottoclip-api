@@ -1,7 +1,7 @@
 {
   "store_id": "12940148",
   "name": "열정복권",
-  "address": "광주 북구  하남대로 821 1층",
+  "address": "광주 북구 하남대로 821 1층  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,11 +10,13 @@
   ],
   "latitude": 35.171238,
   "longitude": 126.882499,
-  "updated_at": "2026-02-03T18:26:23.785710",
+  "updated_at": "2026-02-14T13:27:22.504486",
   "first_prize_draws": [
     1160
   ],
-  "second_prize_draws": [],
+  "second_prize_draws": [
+    1211
+  ],
   "first_prize_count": 1,
-  "second_prize_count": 0
+  "second_prize_count": 1
 }

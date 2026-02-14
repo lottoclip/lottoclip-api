@@ -1,7 +1,7 @@
 {
   "store_id": "12900033",
   "name": "오천억복권방",
-  "address": "광주 서구  상무대로 1087 ",
+  "address": "광주 서구 상무대로 1087  ",
   "phone": "062-363-1471",
   "lottery_types": [
     "lotto645",
@@ -10,8 +10,9 @@
   ],
   "latitude": 35.152922,
   "longitude": 126.880727,
-  "updated_at": "2026-02-03T18:29:36.173406",
+  "updated_at": "2026-02-14T13:27:22.505140",
   "first_prize_draws": [
+    1211,
     1183,
     1169,
     1147,
@@ -29,6 +30,7 @@
     441
   ],
   "second_prize_draws": [
+    1211,
     1204,
     1203,
     1193,
@@ -83,6 +85,6 @@
     330,
     296
   ],
-  "first_prize_count": 15,
-  "second_prize_count": 53
+  "first_prize_count": 16,
+  "second_prize_count": 54
 }

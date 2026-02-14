@@ -1,7 +1,7 @@
 {
   "store_id": "14140229",
   "name": "금강복권",
-  "address": "경기 김포시  율생로 3 ",
+  "address": "경기 김포시 율생로 3  ",
   "phone": "031-985-7321",
   "lottery_types": [
     "lotto645",
@@ -10,7 +10,7 @@
   ],
   "latitude": 37.652786,
   "longitude": 126.590659,
-  "updated_at": "2026-02-03T18:29:05.559407",
+  "updated_at": "2026-02-14T13:27:22.506935",
   "first_prize_draws": [
     1076,
     1009,
@@ -19,6 +19,7 @@
     864
   ],
   "second_prize_draws": [
+    1211,
     1197,
     1192,
     1190,
@@ -36,5 +37,5 @@
     895
   ],
   "first_prize_count": 5,
-  "second_prize_count": 15
+  "second_prize_count": 16
 }

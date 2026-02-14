@@ -1,7 +1,7 @@
 {
   "store_id": "14410031",
   "name": "행복을주는집",
-  "address": "충남 예산군  예덕로 13 ",
+  "address": "충남 예산군 예덕로 13  ",
   "phone": "041-337-5757",
   "lottery_types": [
     "lotto645",
@@ -10,11 +10,12 @@
   ],
   "latitude": 36.705246,
   "longitude": 126.66933,
-  "updated_at": "2026-02-03T18:27:38.416623",
+  "updated_at": "2026-02-14T13:27:22.513343",
   "first_prize_draws": [
     691
   ],
   "second_prize_draws": [
+    1211,
     1177,
     1168,
     978,
@@ -23,5 +24,5 @@
     523
   ],
   "first_prize_count": 1,
-  "second_prize_count": 6
+  "second_prize_count": 7
 }

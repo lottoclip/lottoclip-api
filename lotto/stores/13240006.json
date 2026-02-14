@@ -1,7 +1,7 @@
 {
   "store_id": "13240006",
   "name": "세종로또방",
-  "address": "세종   용포로 32 ",
+  "address": "세종  용포로 32  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,7 +10,7 @@
   ],
   "latitude": 36.461653,
   "longitude": 127.280682,
-  "updated_at": "2026-02-03T18:29:22.631053",
+  "updated_at": "2026-02-14T13:27:22.506740",
   "first_prize_draws": [
     1201,
     1154,
@@ -19,6 +19,7 @@
     907
   ],
   "second_prize_draws": [
+    1211,
     1178,
     1177,
     1127,
@@ -26,5 +27,5 @@
     936
   ],
   "first_prize_count": 5,
-  "second_prize_count": 5
+  "second_prize_count": 6
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14810127",
   "name": "로또판매업",
-  "address": "경남 양산시  북정로 31 CU편의점 내",
+  "address": "경남 양산시 북정로 31 CU편의점 내  ",
   "phone": "055-366-7119",
   "lottery_types": [
     "lotto645",
@@ -10,13 +10,14 @@
   ],
   "latitude": 35.35902,
   "longitude": 129.043715,
-  "updated_at": "2026-02-03T18:26:54.265814",
+  "updated_at": "2026-02-14T13:27:22.516550",
   "first_prize_draws": [
     972,
     381,
     272
   ],
   "second_prize_draws": [
+    1211,
     1167,
     1090,
     1076,
@@ -33,5 +34,5 @@
     342
   ],
   "first_prize_count": 3,
-  "second_prize_count": 14
+  "second_prize_count": 15
 }

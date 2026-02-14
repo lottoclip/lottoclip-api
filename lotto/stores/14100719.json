@@ -1,7 +1,7 @@
 {
   "store_id": "14100719",
   "name": "ANY로또",
-  "address": "경기 수원시 장안구  정조로 966 ",
+  "address": "경기 수원시 장안구 정조로 966  ",
   "phone": "031-257-6247",
   "lottery_types": [
     "lotto645",
@@ -10,9 +10,10 @@
   ],
   "latitude": 37.293498,
   "longitude": 127.010995,
-  "updated_at": "2026-02-03T18:24:34.960486",
+  "updated_at": "2026-02-14T13:27:22.507818",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1211,
     1142,
     1032,
     927,
@@ -22,5 +23,5 @@
     446
   ],
   "first_prize_count": 0,
-  "second_prize_count": 7
+  "second_prize_count": 8
 }

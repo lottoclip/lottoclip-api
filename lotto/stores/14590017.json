@@ -1,7 +1,7 @@
 {
   "store_id": "14590017",
   "name": "영유통(로또복권)",
-  "address": "전북 군산시  미룡로 45 ",
+  "address": "전북 군산시 미룡로 45  ",
   "phone": "063-468-6541",
   "lottery_types": [
     "lotto645",
@@ -10,8 +10,9 @@
   ],
   "latitude": 35.944041,
   "longitude": 126.689947,
-  "updated_at": "2026-02-03T18:27:34.120029",
+  "updated_at": "2026-02-14T13:27:22.514297",
   "first_prize_draws": [
+    1211,
     1128,
     1000,
     740
@@ -33,6 +34,6 @@
     404,
     349
   ],
-  "first_prize_count": 3,
+  "first_prize_count": 4,
   "second_prize_count": 15
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "11100027",
   "name": "팡팡복권방",
-  "address": "서울 중구 회현동1가 194-11번지 ",
+  "address": "서울 중구 퇴계로6길 5 1층  ",
   "phone": "02-753-7960",
   "lottery_types": [
     "lotto645",
@@ -10,11 +10,12 @@
   ],
   "latitude": 37.557969,
   "longitude": 126.978348,
-  "updated_at": "2026-02-03T18:00:22.598527",
+  "updated_at": "2026-02-14T13:27:22.501943",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1211,
     842
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

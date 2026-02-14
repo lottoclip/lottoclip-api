@@ -1,7 +1,7 @@
 {
   "store_id": "14110100",
   "name": "마실더그린테이블",
-  "address": "경기 용인시 기흥구  평촌1로1번길 7 101호 마실",
+  "address": "경기 용인시 기흥구 평촌1로1번길 7 101호 마실  ",
   "phone": "070-4120-1991",
   "lottery_types": [
     "lotto645",
@@ -10,11 +10,12 @@
   ],
   "latitude": 37.283544,
   "longitude": 127.153471,
-  "updated_at": "2026-02-03T18:27:51.115745",
+  "updated_at": "2026-02-14T13:27:22.509514",
   "first_prize_draws": [
     673
   ],
   "second_prize_draws": [
+    1211,
     1180,
     1072,
     943,
@@ -23,5 +24,5 @@
     508
   ],
   "first_prize_count": 1,
-  "second_prize_count": 6
+  "second_prize_count": 7
 }
