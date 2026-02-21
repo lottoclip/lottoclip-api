@@ -3,6 +3,7 @@
 
 import os
 import json
+import csv
 import requests
 import datetime
 import re
@@ -28,6 +29,21 @@ DATA_DIR = Path("lotto")
 DRAWS_DIR = DATA_DIR / "draws"  # 회차별 데이터 디렉토리 추가
 STORES_DIR = Path("lotto/stores")
 STORES_FILE = DATA_DIR / "lotto_stores.json"
+
+def parse_address_parts(address: str) -> tuple[str, str]:
+    """주소 문자열에서 시도(province)와 시군구(city)를 추출합니다.
+    
+    주소 형식: "서울 강서구  까치산로 177 1층 101호"
+    → province: "서울", city: "강서구"
+    
+    두 번째 토큰이 없으면 빈 문자열을 반환합니다.
+    """
+    # 연속된 공백 제거 후 분리
+    tokens = address.strip().split() if address else []
+    province = tokens[0] if len(tokens) >= 1 else ""
+    city = tokens[1] if len(tokens) >= 2 else ""
+    return province, city
+
 
 class LottoCrawler:
     def __init__(self):
@@ -73,26 +89,53 @@ class LottoCrawler:
             return False
 
     def update_store_index_file(self):
-        """판매점 목록 인덱스 파일을 업데이트합니다 (lotto/stores/index.json)."""
+        """판매점 목록 인덱스 파일을 업데이트합니다 (lotto/stores/index.json + index.csv).
+        
+        - index.json: 기존 필드 + province(시도), city(시군구) 추가
+        - index.csv : 동일 데이터를 CSV 형식으로 함께 저장
+        """
         try:
             index_path = STORES_DIR / "index.json"
+            csv_path = STORES_DIR / "index.csv"
             stores_list = []
-            
+
             for store_id, data in self.stores_data.items():
+                address = data.get("address", "") or ""
+                # 주소에서 시도(province)와 시군구(city) 추출
+                province, city = parse_address_parts(address)
+
                 stores_list.append({
                     "id": store_id,
                     "name": data.get("name"),
-                    "address": data.get("address"),
+                    "province": province,
+                    "city": city,
+                    "address": address,
                     "types": data.get("lottery_types", []),
                     "1st": data.get("first_prize_count", 0),
                     "2nd": data.get("second_prize_count", 0)
                 })
-            
+
+            # ── JSON 저장 ─────────────────────────────────────────────────
             with open(index_path, 'w', encoding='utf-8') as f:
-                json.dump(stores_list, f, ensure_ascii=False) # Compact format for index
-                
-            logger.info(f"판매점 인덱스 파일 업데이트 완료: {len(stores_list)}개")
-            
+                json.dump(stores_list, f, ensure_ascii=False)  # Compact format for index
+
+            # ── CSV 저장 ──────────────────────────────────────────────────
+            CSV_FIELDS = ["id", "name", "province", "city", "address", "types", "1st", "2nd"]
+            with open(csv_path, 'w', encoding='utf-8-sig', newline='') as f:
+                # utf-8-sig: BOM 포함 → 엑셀 등에서 한글 깨짐 없이 열 수 있음
+                writer = csv.DictWriter(f, fieldnames=CSV_FIELDS)
+                writer.writeheader()
+                for store in stores_list:
+                    row = {**store}
+                    # types 리스트를 파이프(|) 구분 문자열로 변환 ("lotto645|pension720")
+                    row["types"] = "|".join(store.get("types", []))
+                    writer.writerow(row)
+
+            logger.info(
+                f"판매점 인덱스 파일 업데이트 완료: {len(stores_list)}개 "
+                f"(index.json + index.csv)"
+            )
+
         except Exception as e:
             logger.error(f"판매점 인덱스 파일 업데이트 실패: {e}")
 
