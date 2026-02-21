@@ -1,7 +1,7 @@
 {
   "store_id": "12810134",
   "name": "대박로또방",
-  "address": "인천 미추홀구  낙섬서로 46 ",
+  "address": "인천 미추홀구 낙섬서로 46  ",
   "province": "인천",
   "city": "미추홀구",
   "phone": "032-886-8889",
@@ -12,11 +12,12 @@
   ],
   "latitude": 37.453268,
   "longitude": 126.636084,
-  "updated_at": "2026-02-03T18:29:13.889541",
+  "updated_at": "2026-02-21T13:13:10.909703",
   "first_prize_draws": [
     1072
   ],
   "second_prize_draws": [
+    1212,
     1199,
     1159,
     1071,
@@ -34,5 +35,5 @@
     482
   ],
   "first_prize_count": 1,
-  "second_prize_count": 15
+  "second_prize_count": 16
 }

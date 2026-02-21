@@ -1,7 +1,7 @@
 {
   "store_id": "12700095",
   "name": "로또 태크노폴리스점",
-  "address": "대구 달성군  테크노순환로 83 104호",
+  "address": "대구 달성군 테크노순환로 83 104호  ",
   "province": "대구",
   "city": "달성군",
   "phone": null,
@@ -12,9 +12,10 @@
   ],
   "latitude": 35.676407,
   "longitude": 128.454787,
-  "updated_at": "2026-02-03T18:28:39.164356",
+  "updated_at": "2026-02-21T13:13:10.907123",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1212,
     1191,
     1172,
     1068,
@@ -27,5 +28,5 @@
     425
   ],
   "first_prize_count": 0,
-  "second_prize_count": 10
+  "second_prize_count": 11
 }

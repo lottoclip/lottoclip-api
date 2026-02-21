@@ -1,7 +1,7 @@
 {
   "store_id": "12890031",
   "name": "복권천국",
-  "address": "인천 부평구  평천로391번길 4 102호",
+  "address": "인천 부평구 평천로391번길 4 102호  ",
   "province": "인천",
   "city": "부평구",
   "phone": "032-519-8133",
@@ -12,9 +12,10 @@
   ],
   "latitude": 37.517694,
   "longitude": 126.733978,
-  "updated_at": "2026-02-03T18:21:37.313864",
+  "updated_at": "2026-02-21T13:13:10.910184",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1212,
     1104,
     1090,
     1075,
@@ -28,5 +29,5 @@
     268
   ],
   "first_prize_count": 0,
-  "second_prize_count": 11
+  "second_prize_count": 12
 }

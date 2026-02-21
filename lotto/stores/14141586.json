@@ -1,7 +1,7 @@
 {
   "store_id": "14141586",
   "name": "씨유 파주신촌점",
-  "address": "경기 파주시  소라지로 79-3 ",
+  "address": "경기 파주시 소라지로 79-3  ",
   "province": "경기",
   "city": "파주시",
   "phone": null,
@@ -12,12 +12,14 @@
   ],
   "latitude": 37.734715,
   "longitude": 126.70249,
-  "updated_at": "2026-02-03T18:28:03.791436",
-  "first_prize_draws": [],
+  "updated_at": "2026-02-21T13:13:10.917731",
+  "first_prize_draws": [
+    1212
+  ],
   "second_prize_draws": [
     1183,
     988
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 2
 }

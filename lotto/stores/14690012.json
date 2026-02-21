@@ -1,7 +1,7 @@
 {
   "store_id": "14690012",
   "name": "복권전문점(고흥)",
-  "address": "전남 고흥군  고흥로 1740-2 복권전문점",
+  "address": "전남 고흥군 고흥로 1740-2 복권전문점  ",
   "province": "전남",
   "city": "고흥군",
   "phone": "061-832-0545",
@@ -12,8 +12,10 @@
   ],
   "latitude": 34.607405,
   "longitude": 127.284641,
-  "updated_at": "2026-02-03T18:23:01.184921",
-  "first_prize_draws": [],
+  "updated_at": "2026-02-21T13:13:10.920712",
+  "first_prize_draws": [
+    1212
+  ],
   "second_prize_draws": [
     1120,
     982,
@@ -28,6 +30,6 @@
     286,
     285
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 12
 }

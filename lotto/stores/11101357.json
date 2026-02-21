@@ -1,7 +1,7 @@
 {
   "store_id": "11101357",
   "name": "지원물산",
-  "address": "서울 노원구  공릉로 108 ",
+  "address": "서울 노원구 공릉로 108  ",
   "province": "서울",
   "city": "노원구",
   "phone": "02-978-5479",
@@ -12,8 +12,9 @@
   ],
   "latitude": 37.619831,
   "longitude": 127.078092,
-  "updated_at": "2026-02-03T18:27:59.230821",
+  "updated_at": "2026-02-21T13:13:10.896391",
   "first_prize_draws": [
+    1212,
     1082,
     1037,
     841,
@@ -23,6 +24,7 @@
     276
   ],
   "second_prize_draws": [
+    1212,
     1182,
     1157,
     1155,
@@ -44,6 +46,6 @@
     304,
     272
   ],
-  "first_prize_count": 7,
-  "second_prize_count": 20
+  "first_prize_count": 8,
+  "second_prize_count": 21
 }

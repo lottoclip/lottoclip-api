@@ -1,7 +1,7 @@
 {
   "store_id": "14110595",
   "name": "로또25시",
-  "address": "경기 수원시 권선구  금곡로102번길 15 비즈웍스 111호",
+  "address": "경기 수원시 권선구 금곡로102번길 15 비즈웍스 111호  ",
   "province": "경기",
   "city": "수원시",
   "phone": "031-294-4149",
@@ -12,13 +12,14 @@
   ],
   "latitude": 37.27328,
   "longitude": 126.941831,
-  "updated_at": "2026-02-03T18:23:21.927947",
+  "updated_at": "2026-02-21T13:13:10.913609",
   "first_prize_draws": [
     1010,
     990,
     974
   ],
   "second_prize_draws": [
+    1212,
     1125,
     1105,
     994,
@@ -38,5 +39,5 @@
     386
   ],
   "first_prize_count": 3,
-  "second_prize_count": 17
+  "second_prize_count": 18
 }

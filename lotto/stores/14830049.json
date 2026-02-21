@@ -1,7 +1,7 @@
 {
   "store_id": "14830049",
   "name": "행운드림스토어",
-  "address": "경남 양산시  금오2길 67 복권판매점",
+  "address": "경남 양산시 금오2길 67 복권판매점  ",
   "province": "경남",
   "city": "양산시",
   "phone": null,
@@ -12,9 +12,10 @@
   ],
   "latitude": 35.314446,
   "longitude": 129.02493,
-  "updated_at": "2026-02-03T18:28:17.325914",
+  "updated_at": "2026-02-21T13:13:10.922456",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1212,
     1186,
     1117,
     1021,
@@ -24,5 +25,5 @@
     879
   ],
   "first_prize_count": 0,
-  "second_prize_count": 7
+  "second_prize_count": 8
 }

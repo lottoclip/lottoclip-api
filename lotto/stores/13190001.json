@@ -1,7 +1,7 @@
 {
   "store_id": "13190001",
   "name": "영화유통(1등복권방)",
-  "address": "울산 남구  신정로 19 삼성아파트 상가 204-101",
+  "address": "울산 남구 신정로 19 삼성아파트 상가 204-101  ",
   "province": "울산",
   "city": "남구",
   "phone": "052-269-9851",
@@ -12,7 +12,7 @@
   ],
   "latitude": 35.533833,
   "longitude": 129.322055,
-  "updated_at": "2026-02-03T18:29:01.203765",
+  "updated_at": "2026-02-21T13:13:10.911957",
   "first_prize_draws": [
     1189,
     1144,
@@ -30,6 +30,7 @@
     343
   ],
   "second_prize_draws": [
+    1212,
     1196,
     1191,
     1159,
@@ -97,5 +98,5 @@
     278
   ],
   "first_prize_count": 14,
-  "second_prize_count": 65
+  "second_prize_count": 66
 }

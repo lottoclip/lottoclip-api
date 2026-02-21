@@ -1,7 +1,7 @@
 {
   "store_id": "14190098",
   "name": "좋은소식",
-  "address": "경기 수원시 팔달구  효원로249번길 18-1 1층 104호",
+  "address": "경기 수원시 팔달구 효원로249번길 18-1 1층 104호  ",
   "province": "경기",
   "city": "수원시",
   "phone": null,
@@ -12,9 +12,10 @@
   ],
   "latitude": 37.26357,
   "longitude": 127.02971,
-  "updated_at": "2026-02-03T18:28:39.372719",
+  "updated_at": "2026-02-21T13:13:10.914271",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1212,
     1191,
     1097,
     1059,
@@ -26,5 +27,5 @@
     565
   ],
   "first_prize_count": 0,
-  "second_prize_count": 9
+  "second_prize_count": 10
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14100544",
   "name": "일주일행복로또(파장매표소)",
-  "address": "경기 수원시 장안구  파장로82번길 3 ",
+  "address": "경기 수원시 장안구 파장로82번길 3  ",
   "province": "경기",
   "city": "수원시",
   "phone": "031-253-7410",
@@ -12,12 +12,13 @@
   ],
   "latitude": 37.30682,
   "longitude": 126.991824,
-  "updated_at": "2026-02-03T18:29:31.668813",
+  "updated_at": "2026-02-21T13:13:10.914058",
   "first_prize_draws": [
     1203,
     949
   ],
   "second_prize_draws": [
+    1212,
     1131,
     1120,
     1055,
@@ -28,5 +29,5 @@
     503
   ],
   "first_prize_count": 2,
-  "second_prize_count": 8
+  "second_prize_count": 9
 }

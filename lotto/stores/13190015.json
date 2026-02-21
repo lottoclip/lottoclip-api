@@ -1,7 +1,7 @@
 {
   "store_id": "13190015",
   "name": "덕하복권명당",
-  "address": "울산 울주군  덕하로 238 ",
+  "address": "울산 울주군 덕하로 238  ",
   "province": "울산",
   "city": "울주군",
   "phone": "052-265-6450",
@@ -12,12 +12,13 @@
   ],
   "latitude": 35.49198,
   "longitude": 129.305162,
-  "updated_at": "2026-02-03T18:28:48.137678",
+  "updated_at": "2026-02-21T13:13:10.912233",
   "first_prize_draws": [
     623,
     294
   ],
   "second_prize_draws": [
+    1212,
     1193,
     1140,
     1128,
@@ -45,5 +46,5 @@
     356
   ],
   "first_prize_count": 2,
-  "second_prize_count": 25
+  "second_prize_count": 26
 }

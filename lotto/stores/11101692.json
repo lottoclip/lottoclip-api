@@ -1,7 +1,7 @@
 {
   "store_id": "11101692",
   "name": "천하명당복권방",
-  "address": "서울 동작구  동작대로7길 11 ",
+  "address": "서울 동작구 동작대로7길 11  ",
   "province": "서울",
   "city": "동작구",
   "phone": "02-3472-1451",
@@ -12,11 +12,12 @@
   ],
   "latitude": 37.479813,
   "longitude": 126.980957,
-  "updated_at": "2026-02-03T18:17:32.743736",
+  "updated_at": "2026-02-21T13:13:10.902959",
   "first_prize_draws": [
     640
   ],
   "second_prize_draws": [
+    1212,
     1052,
     1008,
     1006,
@@ -32,5 +33,5 @@
     299
   ],
   "first_prize_count": 1,
-  "second_prize_count": 13
+  "second_prize_count": 14
 }

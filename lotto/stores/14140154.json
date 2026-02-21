@@ -1,7 +1,7 @@
 {
   "store_id": "14140154",
   "name": "1등복권방",
-  "address": "경기 시흥시  은계번영길 7 112호",
+  "address": "경기 시흥시 은계번영길 7 112호  ",
   "province": "경기",
   "city": "시흥시",
   "phone": null,
@@ -12,11 +12,12 @@
   ],
   "latitude": 37.437098,
   "longitude": 126.80162,
-  "updated_at": "2026-02-03T18:18:03.365775",
+  "updated_at": "2026-02-21T13:13:10.914962",
   "first_prize_draws": [
     913
   ],
   "second_prize_draws": [
+    1212,
     1058,
     1020,
     1008,
@@ -26,5 +27,5 @@
     790
   ],
   "first_prize_count": 1,
-  "second_prize_count": 7
+  "second_prize_count": 8
 }

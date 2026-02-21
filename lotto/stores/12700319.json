@@ -1,7 +1,7 @@
 {
   "store_id": "12700319",
   "name": "복권명당",
-  "address": "대구 수성구  들안로 243 ",
+  "address": "대구 수성구 들안로 243  ",
   "province": "대구",
   "city": "수성구",
   "phone": "053-766-2827",
@@ -12,13 +12,14 @@
   ],
   "latitude": 35.851865,
   "longitude": 128.616694,
-  "updated_at": "2026-02-03T18:28:16.902393",
+  "updated_at": "2026-02-21T13:13:10.907707",
   "first_prize_draws": [
     986,
     947,
     341
   ],
   "second_prize_draws": [
+    1212,
     1186,
     1163,
     1153,
@@ -45,5 +46,5 @@
     381
   ],
   "first_prize_count": 3,
-  "second_prize_count": 24
+  "second_prize_count": 25
 }

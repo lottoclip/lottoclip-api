@@ -1,7 +1,7 @@
 {
   "store_id": "14110262",
   "name": "대박",
-  "address": "경기 안양시 동안구  관평로170번길 33 ",
+  "address": "경기 안양시 동안구 관평로170번길 33  ",
   "province": "경기",
   "city": "안양시",
   "phone": "031-382-0380",
@@ -12,13 +12,14 @@
   ],
   "latitude": 37.392974,
   "longitude": 126.962233,
-  "updated_at": "2026-02-03T18:25:29.650935",
+  "updated_at": "2026-02-21T13:13:10.915189",
   "first_prize_draws": [
     1105,
     824,
     747
   ],
   "second_prize_draws": [
+    1212,
     1151,
     1010,
     1005,
@@ -38,5 +39,5 @@
     317
   ],
   "first_prize_count": 3,
-  "second_prize_count": 17
+  "second_prize_count": 18
 }

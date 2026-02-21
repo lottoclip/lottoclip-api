@@ -1,0 +1,135 @@
+{
+  "draw_no": 1212,
+  "draw_date": "2026-02-21",
+  "numbers": [
+    5,
+    8,
+    25,
+    31,
+    41,
+    44
+  ],
+  "bonus_number": 45,
+  "prize_info": [
+    {
+      "rank": "1등",
+      "total_prize": "31849068384",
+      "winner_count": "12",
+      "prize_per_winner": "2654089032"
+    },
+    {
+      "rank": "2등",
+      "total_prize": "5308178112",
+      "winner_count": "79",
+      "prize_per_winner": "67192128"
+    },
+    {
+      "rank": "3등",
+      "total_prize": "5308180166",
+      "winner_count": "3482",
+      "prize_per_winner": "1524463"
+    },
+    {
+      "rank": "4등",
+      "total_prize": "8780450000",
+      "winner_count": "175609",
+      "prize_per_winner": "50000"
+    },
+    {
+      "rank": "5등",
+      "total_prize": "14618090000",
+      "winner_count": "2923618",
+      "prize_per_winner": "5000"
+    }
+  ],
+  "total_sales_amount": "131727929000",
+  "first_prize_store_info": [
+    {
+      "store_id": "11101357",
+      "type": "자동"
+    },
+    {
+      "store_id": "51100000",
+      "type": "수동"
+    },
+    {
+      "store_id": "11100558",
+      "type": "자동"
+    },
+    {
+      "store_id": "12690002",
+      "type": "자동"
+    },
+    {
+      "store_id": "12640060",
+      "type": "자동"
+    },
+    {
+      "store_id": "12810060",
+      "type": "자동"
+    },
+    {
+      "store_id": "13000073",
+      "type": "자동"
+    },
+    {
+      "store_id": "14140163",
+      "type": "자동"
+    },
+    {
+      "store_id": "14100023",
+      "type": "자동"
+    },
+    {
+      "store_id": "14100758",
+      "type": "자동"
+    },
+    {
+      "store_id": "14141586",
+      "type": "자동"
+    },
+    {
+      "store_id": "14690012",
+      "type": "자동"
+    }
+  ],
+  "analysis_stats": {
+    "number_properties": {
+      "sum_total": 154,
+      "odd_even_pattern": "4:2",
+      "high_low_pattern": "2:4",
+      "ac_value": 8,
+      "prime_count": 3
+    },
+    "range_and_sequence": {
+      "section_counts": {
+        "unit": 2,
+        "ten": 0,
+        "twenty": 1,
+        "thirty": 1,
+        "forty": 2
+      },
+      "consecutive_sets": 0,
+      "missing_sections": [
+        "10"
+      ]
+    },
+    "last_digit_stats": {
+      "last_digit_sum": 24,
+      "duplicate_last_digits": [
+        1,
+        5
+      ]
+    },
+    "winner_insight": {
+      "total_payout_rate": 50.0,
+      "winner_method_rate": {
+        "auto": 91.7,
+        "manual": 8.3,
+        "semi": 0.0
+      },
+      "tax_adjusted_prize": 1811239982
+    }
+  },
+  "updated_at": "2026-02-21T13:13:11.276928"
+}

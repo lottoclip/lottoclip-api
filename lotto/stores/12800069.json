@@ -1,7 +1,7 @@
 {
   "store_id": "12800069",
   "name": "복권전문점",
-  "address": "인천 부평구  원적로 437 ",
+  "address": "인천 부평구 원적로 437  ",
   "province": "인천",
   "city": "부평구",
   "phone": null,
@@ -12,7 +12,7 @@
   ],
   "latitude": 37.50383,
   "longitude": 126.715106,
-  "updated_at": "2026-02-03T18:29:36.053086",
+  "updated_at": "2026-02-21T13:13:10.910395",
   "first_prize_draws": [
     1113,
     1030,
@@ -25,6 +25,7 @@
     401
   ],
   "second_prize_draws": [
+    1212,
     1204,
     1184,
     1164,
@@ -71,5 +72,5 @@
     277
   ],
   "first_prize_count": 9,
-  "second_prize_count": 44
+  "second_prize_count": 45
 }

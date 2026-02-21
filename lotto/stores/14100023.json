@@ -1,7 +1,7 @@
 {
   "store_id": "14100023",
   "name": "노다지복권방",
-  "address": "경기 시흥시  복지로 103-1 1층상가",
+  "address": "경기 시흥시 복지로 103-1 1층상가  ",
   "province": "경기",
   "city": "시흥시",
   "phone": "031-314-1016",
@@ -10,8 +10,9 @@
   ],
   "latitude": 37.448232,
   "longitude": 126.792061,
-  "updated_at": "2026-02-03T18:27:33.939864",
+  "updated_at": "2026-02-21T13:13:10.914735",
   "first_prize_draws": [
+    1212,
     1104,
     1087,
     1058,
@@ -53,6 +54,6 @@
     540,
     468
   ],
-  "first_prize_count": 8,
+  "first_prize_count": 9,
   "second_prize_count": 30
 }

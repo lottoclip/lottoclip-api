@@ -1,7 +1,7 @@
 {
   "store_id": "12840123",
-  "name": "복권판매점",
-  "address": "인천 남동구  인하로 559 센트럴프라자 107호",
+  "name": "아시아드 복권방",
+  "address": "인천 남동구 인하로 559 107호  ",
   "province": "인천",
   "city": "남동구",
   "phone": null,
@@ -12,13 +12,14 @@
   ],
   "latitude": 37.443092,
   "longitude": 126.708864,
-  "updated_at": "2026-02-03T18:17:56.875663",
+  "updated_at": "2026-02-21T13:13:10.908226",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1212,
     1057,
     989,
     983
   ],
   "first_prize_count": 0,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

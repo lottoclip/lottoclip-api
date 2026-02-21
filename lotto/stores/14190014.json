@@ -1,7 +1,7 @@
 {
   "store_id": "14190014",
   "name": "당첨희망복권점",
-  "address": "경기 이천시  영창로 145 관고사거리",
+  "address": "경기 이천시 영창로 145 관고사거리  ",
   "province": "경기",
   "city": "이천시",
   "phone": "031-633-0647",
@@ -12,13 +12,14 @@
   ],
   "latitude": 37.282045,
   "longitude": 127.438783,
-  "updated_at": "2026-02-03T18:22:37.181299",
+  "updated_at": "2026-02-21T13:13:10.917533",
   "first_prize_draws": [
     877,
     791,
     624
   ],
   "second_prize_draws": [
+    1212,
     1118,
     1090,
     967,
@@ -37,5 +38,5 @@
     309
   ],
   "first_prize_count": 3,
-  "second_prize_count": 16
+  "second_prize_count": 17
 }

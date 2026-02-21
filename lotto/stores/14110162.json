@@ -1,7 +1,7 @@
 {
   "store_id": "14110162",
   "name": "1등로또방",
-  "address": "경기 고양시 일산동구  중앙로 1048 ",
+  "address": "경기 고양시 일산동구 중앙로 1048  ",
   "province": "경기",
   "city": "고양시",
   "phone": "031-906-8131",
@@ -12,9 +12,10 @@
   ],
   "latitude": 37.64364,
   "longitude": 126.78784,
-  "updated_at": "2026-02-03T18:26:54.080043",
+  "updated_at": "2026-02-21T13:13:10.912453",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1212,
     1167,
     1152,
     1016,
@@ -31,5 +32,5 @@
     490
   ],
   "first_prize_count": 0,
-  "second_prize_count": 14
+  "second_prize_count": 15
 }

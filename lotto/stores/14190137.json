@@ -1,7 +1,7 @@
 {
   "store_id": "14190137",
   "name": "대박복권방",
-  "address": "경기 연천군  온골로 57-1 ",
+  "address": "경기 연천군 온골로 57-1  ",
   "province": "경기",
   "city": "연천군",
   "phone": "031-835-2010",
@@ -12,7 +12,7 @@
   ],
   "latitude": 38.02602,
   "longitude": 127.067657,
-  "updated_at": "2026-02-03T18:27:07.065948",
+  "updated_at": "2026-02-21T13:13:10.915405",
   "first_prize_draws": [
     1122,
     905,
@@ -23,6 +23,7 @@
     315
   ],
   "second_prize_draws": [
+    1212,
     1170,
     1108,
     1031,
@@ -41,5 +42,5 @@
     325
   ],
   "first_prize_count": 7,
-  "second_prize_count": 16
+  "second_prize_count": 17
 }
