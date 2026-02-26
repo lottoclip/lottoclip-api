@@ -430,10 +430,19 @@ class LottoCrawler:
                         'draw_date': data['draw_date'],
                         'file': f"draws/{file_path.name}"  # 상대 경로 포함
                     }
+                    if 'numbers' in data:
+                        new_draw['numbers'] = data['numbers']
+                    if 'bonus_number' in data:
+                        new_draw['bonus_number'] = data['bonus_number']
                     
-                    # 기존 정보가 있으면 유지, 없으면 새로 추가
+                    # 기존 정보가 있으면 기존 것에 데이터를 병합하여 유지, 없으면 새로 추가
                     if draw_no in existing_draws:
-                        draws.append(existing_draws[draw_no])
+                        existing_draw = existing_draws[draw_no]
+                        if 'numbers' in new_draw and 'numbers' not in existing_draw:
+                            existing_draw['numbers'] = new_draw['numbers']
+                        if 'bonus_number' in new_draw and 'bonus_number' not in existing_draw:
+                            existing_draw['bonus_number'] = new_draw['bonus_number']
+                        draws.append(existing_draw)
                     else:
                         draws.append(new_draw)
                         
