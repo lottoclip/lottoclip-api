@@ -434,6 +434,10 @@ class LottoCrawler:
                         new_draw['numbers'] = data['numbers']
                     if 'bonus_number' in data:
                         new_draw['bonus_number'] = data['bonus_number']
+                    if 'prize_info' in data:
+                        first_prize = [p for p in data['prize_info'] if p.get('rank') == '1등']
+                        if first_prize:
+                            new_draw['prize_info'] = first_prize
                     
                     # 기존 정보가 있으면 기존 것에 데이터를 병합하여 유지, 없으면 새로 추가
                     if draw_no in existing_draws:
@@ -442,6 +446,8 @@ class LottoCrawler:
                             existing_draw['numbers'] = new_draw['numbers']
                         if 'bonus_number' in new_draw and 'bonus_number' not in existing_draw:
                             existing_draw['bonus_number'] = new_draw['bonus_number']
+                        if 'prize_info' in new_draw and 'prize_info' not in existing_draw:
+                            existing_draw['prize_info'] = new_draw['prize_info']
                         draws.append(existing_draw)
                     else:
                         draws.append(new_draw)
