@@ -1,7 +1,7 @@
 {
   "store_id": "14141460",
   "name": "동행복권여주도깨비점",
-  "address": "경기 여주시  여양로 276 1층 102호",
+  "address": "경기 여주시 여양로 276 1층 102호  ",
   "province": "경기",
   "city": "여주시",
   "phone": null,
@@ -12,11 +12,12 @@
   ],
   "latitude": 37.306561,
   "longitude": 127.646221,
-  "updated_at": "2026-02-03T18:25:51.123349",
+  "updated_at": "2026-02-28T13:19:41.071647",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1213,
     1156
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

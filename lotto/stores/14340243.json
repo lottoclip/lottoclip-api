@@ -1,7 +1,7 @@
 {
   "store_id": "14340243",
   "name": "동남운천복권",
-  "address": "충북 청주시 상당구  중고개로125번길 17 ",
+  "address": "충북 청주시 상당구 중고개로125번길 17  ",
   "province": "충북",
   "city": "청주시",
   "phone": null,
@@ -12,12 +12,13 @@
   ],
   "latitude": 36.61543,
   "longitude": 127.517414,
-  "updated_at": "2026-02-03T18:29:22.774156",
+  "updated_at": "2026-02-28T13:19:41.075421",
   "first_prize_draws": [
     1201,
     1144
   ],
   "second_prize_draws": [
+    1213,
     1161,
     1160,
     1149,
@@ -25,5 +26,5 @@
     1072
   ],
   "first_prize_count": 2,
-  "second_prize_count": 5
+  "second_prize_count": 6
 }

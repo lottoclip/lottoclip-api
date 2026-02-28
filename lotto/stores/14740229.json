@@ -1,7 +1,7 @@
 {
   "store_id": "14740229",
   "name": "행복충전",
-  "address": "경북 포항시 북구  삼흥로 441 3호",
+  "address": "경북 포항시 북구 삼흥로 441 3호  ",
   "province": "경북",
   "city": "포항시",
   "phone": null,
@@ -12,12 +12,13 @@
   ],
   "latitude": 36.097492,
   "longitude": 129.371159,
-  "updated_at": "2026-02-03T18:28:44.138102",
+  "updated_at": "2026-02-28T13:19:41.080746",
   "first_prize_draws": [
     1144,
     1002
   ],
   "second_prize_draws": [
+    1213,
     1192,
     1186,
     1123,
@@ -26,5 +27,5 @@
     1084
   ],
   "first_prize_count": 2,
-  "second_prize_count": 6
+  "second_prize_count": 7
 }

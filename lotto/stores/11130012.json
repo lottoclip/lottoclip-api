@@ -1,7 +1,7 @@
 {
   "store_id": "11130012",
   "name": "드림로또",
-  "address": "서울 은평구  진관2로 15-8 웅신 미켈란의아침 108호",
+  "address": "서울 은평구 진관2로 15-8 웅신 미켈란의아침 108호  ",
   "province": "서울",
   "city": "은평구",
   "phone": null,
@@ -12,14 +12,15 @@
   ],
   "latitude": 37.635394,
   "longitude": 126.919559,
-  "updated_at": "2026-02-03T18:28:03.476592",
+  "updated_at": "2026-02-28T13:19:41.057596",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1213,
     1183,
     1094,
     1085,
     739
   ],
   "first_prize_count": 0,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }

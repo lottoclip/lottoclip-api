@@ -1,7 +1,7 @@
 {
   "store_id": "14820036",
   "name": "나눔로또봉평점",
-  "address": "경남 통영시  도남로 81 ",
+  "address": "경남 통영시 도남로 81  ",
   "province": "경남",
   "city": "통영시",
   "phone": null,
@@ -12,13 +12,14 @@
   ],
   "latitude": 34.831633,
   "longitude": 128.413647,
-  "updated_at": "2026-02-03T18:28:21.428841",
+  "updated_at": "2026-02-28T13:19:41.082315",
   "first_prize_draws": [
     1187,
     1041,
     820
   ],
   "second_prize_draws": [
+    1213,
     1106,
     1101,
     1018,
@@ -29,5 +30,5 @@
     733
   ],
   "first_prize_count": 3,
-  "second_prize_count": 8
+  "second_prize_count": 9
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "12890074",
   "name": "좋은터",
-  "address": "인천 계양구  효서로 204 1층",
+  "address": "인천 계양구 효서로 204 1층  ",
   "province": "인천",
   "city": "계양구",
   "phone": "032-552-5587",
@@ -12,13 +12,14 @@
   ],
   "latitude": 37.527792,
   "longitude": 126.718528,
-  "updated_at": "2026-02-03T18:29:26.773586",
+  "updated_at": "2026-02-28T13:19:41.062695",
   "first_prize_draws": [
     1202,
     1171,
     1088
   ],
   "second_prize_draws": [
+    1213,
     1163,
     1150,
     757,
@@ -26,5 +27,5 @@
     426
   ],
   "first_prize_count": 3,
-  "second_prize_count": 5
+  "second_prize_count": 6
 }

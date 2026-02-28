@@ -1,7 +1,7 @@
 {
   "store_id": "14190006",
   "name": "즉석복권방",
-  "address": "경기 수원시 영통구  산남로 2 ",
+  "address": "경기 수원시 영통구 산남로 2  ",
   "province": "경기",
   "city": "수원시",
   "phone": "031-212-5841",
@@ -12,12 +12,14 @@
   ],
   "latitude": 37.263892,
   "longitude": 127.04714,
-  "updated_at": "2026-02-03T18:25:24.631495",
-  "first_prize_draws": [],
+  "updated_at": "2026-02-28T13:19:41.069770",
+  "first_prize_draws": [
+    1213
+  ],
   "second_prize_draws": [
     1150,
     921
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 2
 }

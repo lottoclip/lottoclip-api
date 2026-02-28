@@ -1,7 +1,7 @@
 {
   "store_id": "12710106",
   "name": "행운복권",
-  "address": "대구 북구  노원로 33 ",
+  "address": "대구 북구 노원로 33  ",
   "province": "대구",
   "city": "북구",
   "phone": null,
@@ -12,11 +12,12 @@
   ],
   "latitude": 35.892085,
   "longitude": 128.566442,
-  "updated_at": "2026-02-03T18:11:21.317452",
+  "updated_at": "2026-02-28T13:19:41.061803",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1213,
     977
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

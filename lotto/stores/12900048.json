@@ -1,7 +1,7 @@
 {
   "store_id": "12900048",
   "name": "동원슈퍼",
-  "address": "광주 남구  대남대로 277-1 ",
+  "address": "광주 남구 대남대로 277-1  ",
   "province": "광주",
   "city": "남구",
   "phone": "062-362-3406",
@@ -12,13 +12,14 @@
   ],
   "latitude": 35.137066,
   "longitude": 126.896654,
-  "updated_at": "2026-02-03T18:25:29.512133",
+  "updated_at": "2026-02-28T13:19:41.065451",
   "first_prize_draws": [
     658,
     384,
     305
   ],
   "second_prize_draws": [
+    1213,
     1151,
     1115,
     1057,
@@ -31,5 +32,5 @@
     698
   ],
   "first_prize_count": 3,
-  "second_prize_count": 10
+  "second_prize_count": 11
 }

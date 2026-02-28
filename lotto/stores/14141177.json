@@ -1,7 +1,7 @@
 {
   "store_id": "14141177",
   "name": "영앤로또",
-  "address": "경기 남양주시  다산중앙로123번길 47 메트로3단지 상기 106호",
+  "address": "경기 남양주시 다산중앙로123번길 47 메트로3단지 상기 106호  ",
   "province": "경기",
   "city": "남양주시",
   "phone": null,
@@ -12,15 +12,16 @@
   ],
   "latitude": 37.622903,
   "longitude": 127.147575,
-  "updated_at": "2026-02-03T18:29:31.564323",
+  "updated_at": "2026-02-28T13:19:41.068761",
   "first_prize_draws": [
     1203
   ],
   "second_prize_draws": [
+    1213,
     1185,
     1159,
     1106
   ],
   "first_prize_count": 1,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

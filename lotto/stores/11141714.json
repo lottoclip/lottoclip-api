@@ -1,7 +1,7 @@
 {
   "store_id": "11141714",
   "name": "복돌이네로또",
-  "address": "서울 서대문구  거북골로 206 1층 좌측",
+  "address": "서울 서대문구 거북골로 206 1층 좌측  ",
   "province": "서울",
   "city": "서대문구",
   "phone": null,
@@ -12,12 +12,13 @@
   ],
   "latitude": 37.578885,
   "longitude": 126.908416,
-  "updated_at": "2026-02-03T18:26:32.343364",
+  "updated_at": "2026-02-28T13:19:41.053836",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1213,
     1162,
     1141
   ],
   "first_prize_count": 0,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

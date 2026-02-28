@@ -1,7 +1,7 @@
 {
   "store_id": "14100112",
   "name": "복권마을",
-  "address": "경기 안양시 동안구  흥안대로133번길 4 제1동 제1층 제104호",
+  "address": "경기 안양시 동안구 흥안대로133번길 4 제1동 제1층 제104호  ",
   "province": "경기",
   "city": "안양시",
   "phone": "031-457-1571",
@@ -12,12 +12,13 @@
   ],
   "latitude": 37.371515,
   "longitude": 126.957392,
-  "updated_at": "2026-02-03T18:27:29.600879",
+  "updated_at": "2026-02-28T13:19:41.070672",
   "first_prize_draws": [
     596,
     464
   ],
   "second_prize_draws": [
+    1213,
     1175,
     1124,
     912,
@@ -38,5 +39,5 @@
     277
   ],
   "first_prize_count": 2,
-  "second_prize_count": 18
+  "second_prize_count": 19
 }

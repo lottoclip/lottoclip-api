@@ -1,7 +1,7 @@
 {
   "store_id": "14440170",
   "name": "이민복권방",
-  "address": "충남 천안시 서북구  천안대로 1476 1층",
+  "address": "충남 천안시 서북구 천안대로 1476 1층  ",
   "province": "충남",
   "city": "천안시",
   "phone": null,
@@ -12,12 +12,13 @@
   ],
   "latitude": 36.872249,
   "longitude": 127.148081,
-  "updated_at": "2026-02-03T18:26:28.446123",
+  "updated_at": "2026-02-28T13:19:41.076936",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1213,
     1161,
     1129
   ],
   "first_prize_count": 0,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

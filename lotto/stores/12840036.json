@@ -1,7 +1,7 @@
 {
   "store_id": "12840036",
   "name": "일등로또",
-  "address": "인천 서구  청라커낼로 252 청라 롯데캐슬 제비동 제1층 107호  CU청라캐슬점",
+  "address": "인천 서구 청라커낼로 252 제비동 제1층 107호  CU청라캐슬점  ",
   "province": "인천",
   "city": "서구",
   "phone": null,
@@ -12,13 +12,14 @@
   ],
   "latitude": 37.530745,
   "longitude": 126.645023,
-  "updated_at": "2026-02-03T18:08:20.907234",
+  "updated_at": "2026-02-28T13:19:41.064118",
   "first_prize_draws": [
     855
   ],
   "second_prize_draws": [
+    1213,
     941
   ],
   "first_prize_count": 1,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

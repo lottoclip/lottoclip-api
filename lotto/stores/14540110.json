@@ -1,7 +1,7 @@
 {
   "store_id": "14540110",
   "name": "아주대박복권방",
-  "address": "전북 전주시 완산구  모악로 4767 ",
+  "address": "전북 전주시 완산구 모악로 4767  ",
   "province": "전북",
   "city": "전주시",
   "phone": "063-229-2291",
@@ -12,13 +12,14 @@
   ],
   "latitude": 35.794815,
   "longitude": 127.132169,
-  "updated_at": "2026-02-03T18:22:37.313393",
+  "updated_at": "2026-02-28T13:19:41.078447",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1213,
     1118,
     1075,
     1057
   ],
   "first_prize_count": 0,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

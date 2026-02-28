@@ -1,7 +1,7 @@
 {
   "store_id": "14110489",
   "name": "로또복권방 웨스턴점",
-  "address": "경기 고양시 일산동구  정발산로 24 1층 K-114호",
+  "address": "경기 고양시 일산동구 정발산로 24 1층 K-114호  ",
   "province": "경기",
   "city": "고양시",
   "phone": null,
@@ -12,13 +12,14 @@
   ],
   "latitude": 37.654771,
   "longitude": 126.772631,
-  "updated_at": "2026-02-03T18:29:26.879933",
+  "updated_at": "2026-02-28T13:19:41.066980",
   "first_prize_draws": [
     904,
     628,
     282
   ],
   "second_prize_draws": [
+    1213,
     1202,
     1008,
     582,
@@ -26,5 +27,5 @@
     315
   ],
   "first_prize_count": 3,
-  "second_prize_count": 5
+  "second_prize_count": 6
 }

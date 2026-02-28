@@ -1,7 +1,7 @@
 {
   "store_id": "12840296",
   "name": "대박복권방",
-  "address": "인천 서구  북항로32번안길 35 108호",
+  "address": "인천 서구 북항로32번안길 35 108호  ",
   "province": "인천",
   "city": "서구",
   "phone": "032-777-0111",
@@ -12,12 +12,13 @@
   ],
   "latitude": 37.508631,
   "longitude": 126.647182,
-  "updated_at": "2026-02-03T18:26:28.086883",
+  "updated_at": "2026-02-28T13:19:41.063799",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1213,
     1161,
     999
   ],
   "first_prize_count": 0,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

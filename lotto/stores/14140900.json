@@ -1,7 +1,7 @@
 {
   "store_id": "14140900",
   "name": "조은하루",
-  "address": "경기 용인시 처인구  낙은로 22 ",
+  "address": "경기 용인시 처인구 낙은로 22  ",
   "province": "경기",
   "city": "용인시",
   "phone": null,
@@ -12,14 +12,15 @@
   ],
   "latitude": 37.23934,
   "longitude": 127.19856,
-  "updated_at": "2026-02-03T18:28:48.333930",
+  "updated_at": "2026-02-28T13:19:41.072486",
   "first_prize_draws": [
     1193
   ],
   "second_prize_draws": [
+    1213,
     1120,
     1055
   ],
   "first_prize_count": 1,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

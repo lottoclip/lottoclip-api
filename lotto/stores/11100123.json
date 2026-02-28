@@ -1,7 +1,7 @@
 {
   "store_id": "11100123",
   "name": "짱복권",
-  "address": "서울 종로구  종로 269 삼신빌딩 1층",
+  "address": "서울 종로구 종로 269 삼신빌딩 1층  ",
   "province": "서울",
   "city": "종로구",
   "phone": "02-720-5794",
@@ -12,7 +12,7 @@
   ],
   "latitude": 37.571329,
   "longitude": 127.007897,
-  "updated_at": "2026-02-03T18:25:15.335835",
+  "updated_at": "2026-02-28T13:19:41.058372",
   "first_prize_draws": [
     1148,
     1125,
@@ -20,6 +20,7 @@
     1050
   ],
   "second_prize_draws": [
+    1213,
     1049,
     1046,
     1043,
@@ -30,5 +31,5 @@
     287
   ],
   "first_prize_count": 4,
-  "second_prize_count": 8
+  "second_prize_count": 9
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14400049",
   "name": "테크노벨리복권",
-  "address": "충남 아산시  아산밸리중앙로 102 1층 102호",
+  "address": "충남 아산시 아산밸리중앙로 102 1층 102호  ",
   "province": "충남",
   "city": "아산시",
   "phone": "041-545-1736",
@@ -12,16 +12,17 @@
   ],
   "latitude": 36.923239,
   "longitude": 127.059347,
-  "updated_at": "2026-02-03T18:22:28.808278",
+  "updated_at": "2026-02-28T13:19:41.076189",
   "first_prize_draws": [
     1098
   ],
   "second_prize_draws": [
+    1213,
     1116,
     1052,
     1050,
     1030
   ],
   "first_prize_count": 1,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }

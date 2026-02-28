@@ -1,7 +1,7 @@
 {
   "store_id": "14140996",
   "name": "행복",
-  "address": "경기 하남시  덕풍동로 111-21 105호",
+  "address": "경기 하남시 덕풍동로 111-21 105호  ",
   "province": "경기",
   "city": "하남시",
   "phone": "031-794-0525",
@@ -12,11 +12,13 @@
   ],
   "latitude": 37.551799,
   "longitude": 127.207675,
-  "updated_at": "2026-02-03T18:18:55.567804",
+  "updated_at": "2026-02-28T13:19:41.073614",
   "first_prize_draws": [
     1070
   ],
-  "second_prize_draws": [],
+  "second_prize_draws": [
+    1213
+  ],
   "first_prize_count": 1,
-  "second_prize_count": 0
+  "second_prize_count": 1
 }

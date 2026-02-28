@@ -1,7 +1,7 @@
 {
   "store_id": "12700151",
   "name": "로또판매",
-  "address": "대구 서구  당산로45길 6-4 ",
+  "address": "대구 서구 당산로45길 6-4  ",
   "province": "대구",
   "city": "서구",
   "phone": "053-563-1239",
@@ -12,9 +12,10 @@
   ],
   "latitude": 35.856676,
   "longitude": 128.54725,
-  "updated_at": "2026-02-03T18:27:11.631015",
+  "updated_at": "2026-02-28T13:19:41.062055",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1213,
     1171,
     1057,
     919,
@@ -23,5 +24,5 @@
     321
   ],
   "first_prize_count": 0,
-  "second_prize_count": 6
+  "second_prize_count": 7
 }

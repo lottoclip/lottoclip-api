@@ -1,7 +1,7 @@
 {
   "store_id": "12790075",
   "name": "LA24시편의점",
-  "address": "대구 달서구  달구벌대로 995 상가 202동 104호",
+  "address": "대구 달서구 달구벌대로 1005 상가 103호  ",
   "province": "대구",
   "city": "달서구",
   "phone": "053-581-8256",
@@ -12,11 +12,12 @@
   ],
   "latitude": 35.853388,
   "longitude": 128.477076,
-  "updated_at": "2026-02-03T18:24:17.868263",
+  "updated_at": "2026-02-28T13:19:41.060827",
   "first_prize_draws": [
     874
   ],
   "second_prize_draws": [
+    1213,
     1138,
     853,
     841,
@@ -26,5 +27,5 @@
     294
   ],
   "first_prize_count": 1,
-  "second_prize_count": 7
+  "second_prize_count": 8
 }

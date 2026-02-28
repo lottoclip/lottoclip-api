@@ -1,7 +1,7 @@
 {
   "store_id": "12800114",
   "name": "제일슈퍼",
-  "address": "인천 연수구  앵고개로 242 제일상가112호",
+  "address": "인천 연수구 앵고개로 242 제일상가112호  ",
   "province": "인천",
   "city": "연수구",
   "phone": "032-816-5775",
@@ -12,8 +12,9 @@
   ],
   "latitude": 37.408647,
   "longitude": 126.670812,
-  "updated_at": "2026-02-03T18:29:18.234005",
+  "updated_at": "2026-02-28T13:19:41.064692",
   "first_prize_draws": [
+    1213,
     921,
     874,
     670,
@@ -56,6 +57,6 @@
     343,
     302
   ],
-  "first_prize_count": 4,
+  "first_prize_count": 5,
   "second_prize_count": 35
 }

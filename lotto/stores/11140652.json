@@ -1,7 +1,7 @@
 {
   "store_id": "11140652",
   "name": "예지행복",
-  "address": "서울 양천구  월정로 59 가동 101호",
+  "address": "서울 양천구 월정로 59 가동 101호  ",
   "province": "서울",
   "city": "양천구",
   "phone": null,
@@ -12,8 +12,9 @@
   ],
   "latitude": 37.524852,
   "longitude": 126.841315,
-  "updated_at": "2026-02-03T18:25:55.185592",
+  "updated_at": "2026-02-28T13:19:41.057141",
   "first_prize_draws": [
+    1213,
     1157
   ],
   "second_prize_draws": [
@@ -21,6 +22,6 @@
     1056,
     1011
   ],
-  "first_prize_count": 1,
+  "first_prize_count": 2,
   "second_prize_count": 3
 }

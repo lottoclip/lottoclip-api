@@ -1,7 +1,7 @@
 {
   "store_id": "14500055",
   "name": "부자복권방",
-  "address": "전북 군산시  구시장로 4 ",
+  "address": "전북 군산시 구시장로 4  ",
   "province": "전북",
   "city": "군산시",
   "phone": "063-445-7227",
@@ -12,7 +12,7 @@
   ],
   "latitude": 35.980471,
   "longitude": 126.720229,
-  "updated_at": "2026-02-03T18:13:38.621705",
+  "updated_at": "2026-02-28T13:19:41.077395",
   "first_prize_draws": [
     884,
     694,
@@ -20,6 +20,7 @@
     615
   ],
   "second_prize_draws": [
+    1213,
     1005,
     993,
     899,
@@ -29,5 +30,5 @@
     413
   ],
   "first_prize_count": 4,
-  "second_prize_count": 7
+  "second_prize_count": 8
 }

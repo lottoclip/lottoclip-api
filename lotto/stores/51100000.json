@@ -6,12 +6,14 @@
   "city": "",
   "phone": "02-1588-6450",
   "lottery_types": [
-    "lotto645"
+    "lotto645",
+    "pension720"
   ],
   "latitude": 37.482063,
   "longitude": 127.015788,
-  "updated_at": "2026-02-21T14:15:07.215552",
+  "updated_at": "2026-02-28T13:19:41.056583",
   "first_prize_draws": [
+    1213,
     1212,
     1210,
     1208,
@@ -95,6 +97,7 @@
     849
   ],
   "second_prize_draws": [
+    1213,
     1212,
     1211,
     1210,
@@ -365,6 +368,6 @@
     837,
     836
   ],
-  "first_prize_count": 81,
-  "second_prize_count": 269
+  "first_prize_count": 82,
+  "second_prize_count": 270
 }

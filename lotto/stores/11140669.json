@@ -1,7 +1,7 @@
 {
   "store_id": "11140669",
   "name": "해바라기 복권방",
-  "address": "서울 영등포구  대림로 170 101호",
+  "address": "서울 영등포구 대림로 170 101호  ",
   "province": "서울",
   "city": "영등포구",
   "phone": null,
@@ -12,16 +12,17 @@
   ],
   "latitude": 37.496139,
   "longitude": 126.899622,
-  "updated_at": "2026-02-03T18:28:21.083586",
+  "updated_at": "2026-02-28T13:19:41.057367",
   "first_prize_draws": [
     1152
   ],
   "second_prize_draws": [
+    1213,
     1187,
     1183,
     1182,
     1111
   ],
   "first_prize_count": 1,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }

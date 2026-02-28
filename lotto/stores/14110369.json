@@ -1,7 +1,7 @@
 {
   "store_id": "14110369",
   "name": "명당복권방",
-  "address": "경기 남양주시  창현로 7 ",
+  "address": "경기 남양주시 창현로 7  ",
   "province": "경기",
   "city": "남양주시",
   "phone": "031-591-1116",
@@ -12,12 +12,13 @@
   ],
   "latitude": 37.650213,
   "longitude": 127.306244,
-  "updated_at": "2026-02-03T18:25:55.464964",
+  "updated_at": "2026-02-28T13:19:41.068982",
   "first_prize_draws": [
     1157,
     384
   ],
   "second_prize_draws": [
+    1213,
     1118,
     1047,
     1036,
@@ -46,5 +47,5 @@
     266
   ],
   "first_prize_count": 2,
-  "second_prize_count": 26
+  "second_prize_count": 27
 }

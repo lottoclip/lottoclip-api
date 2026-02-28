@@ -1,7 +1,7 @@
 {
   "store_id": "11101662",
   "name": "현경하이퍼마켓",
-  "address": "서울 강북구  삼양로117길 25 ",
+  "address": "서울 강북구 삼양로117길 25  ",
   "province": "서울",
   "city": "강북구",
   "phone": "02-905-3677",
@@ -12,9 +12,10 @@
   ],
   "latitude": 37.643733,
   "longitude": 127.014738,
-  "updated_at": "2026-02-03T18:21:24.471059",
+  "updated_at": "2026-02-28T13:19:41.052675",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1213,
     1101,
     1080,
     1048,
@@ -25,5 +26,5 @@
     696
   ],
   "first_prize_count": 0,
-  "second_prize_count": 8
+  "second_prize_count": 9
 }

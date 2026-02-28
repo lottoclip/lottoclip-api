@@ -1,7 +1,7 @@
 {
   "store_id": "14690032",
   "name": "제일마트",
-  "address": "전남 나주시  중앙로 21 제일마트",
+  "address": "전남 나주시 중앙로 21 제일마트  ",
   "province": "전남",
   "city": "나주시",
   "phone": "061-337-1371",
@@ -12,11 +12,12 @@
   ],
   "latitude": 35.031145,
   "longitude": 126.719745,
-  "updated_at": "2026-02-03T18:28:12.800101",
+  "updated_at": "2026-02-28T13:19:41.079129",
   "first_prize_draws": [
     796
   ],
   "second_prize_draws": [
+    1213,
     1185,
     1090,
     1030,
@@ -25,5 +26,5 @@
     350
   ],
   "first_prize_count": 1,
-  "second_prize_count": 6
+  "second_prize_count": 7
 }

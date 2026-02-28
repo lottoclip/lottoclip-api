@@ -1,7 +1,7 @@
 {
   "store_id": "14300087",
   "name": "부자복권",
-  "address": "충북 제천시 중앙로2가 84-5 1층",
+  "address": "충북 제천시 의림대로16길 20 1층  ",
   "province": "충북",
   "city": "제천시",
   "phone": "043-648-4545",
@@ -12,13 +12,14 @@
   ],
   "latitude": 37.139361,
   "longitude": 128.212693,
-  "updated_at": "2026-02-03T18:05:19.206868",
+  "updated_at": "2026-02-28T13:19:41.074742",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1213,
     903,
     779,
     322
   ],
   "first_prize_count": 0,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

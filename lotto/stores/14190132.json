@@ -1,7 +1,7 @@
 {
   "store_id": "14190132",
   "name": "대박복권방",
-  "address": "경기 양주시  가래비길 33 ",
+  "address": "경기 양주시 가래비길 33  ",
   "province": "경기",
   "city": "양주시",
   "phone": "031-855-8560",
@@ -12,7 +12,7 @@
   ],
   "latitude": 37.822462,
   "longitude": 126.986694,
-  "updated_at": "2026-02-03T18:28:30.251009",
+  "updated_at": "2026-02-28T13:19:41.071409",
   "first_prize_draws": [
     917,
     809,
@@ -20,6 +20,7 @@
     696
   ],
   "second_prize_draws": [
+    1213,
     1189,
     1184,
     1181,
@@ -53,5 +54,5 @@
     321
   ],
   "first_prize_count": 4,
-  "second_prize_count": 31
+  "second_prize_count": 32
 }

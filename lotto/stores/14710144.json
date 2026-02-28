@@ -1,7 +1,7 @@
 {
   "store_id": "14710144",
   "name": "로또복권",
-  "address": "경북 경산시 사동 664-1번지 ",
+  "address": "경북 경산시 백양로32길 15 1층  ",
   "province": "경북",
   "city": "경산시",
   "phone": null,
@@ -12,14 +12,15 @@
   ],
   "latitude": 35.809982,
   "longitude": 128.7582,
-  "updated_at": "2026-02-03T17:57:34.209038",
+  "updated_at": "2026-02-28T13:19:41.079602",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1213,
     809,
     729,
     597,
     590
   ],
   "first_prize_count": 0,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }
