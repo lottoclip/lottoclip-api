@@ -110,6 +110,8 @@ class LottoCrawler:
                     "province": province,
                     "city": city,
                     "address": address,
+                    "latitude": data.get("latitude", 0.0),
+                    "longitude": data.get("longitude", 0.0),
                     "types": data.get("lottery_types", []),
                     "1st": data.get("first_prize_count", 0),
                     "2nd": data.get("second_prize_count", 0)
@@ -120,7 +122,7 @@ class LottoCrawler:
                 json.dump(stores_list, f, ensure_ascii=False)  # Compact format for index
 
             # ── CSV 저장 ──────────────────────────────────────────────────
-            CSV_FIELDS = ["id", "name", "province", "city", "address", "types", "1st", "2nd"]
+            CSV_FIELDS = ["id", "name", "province", "city", "address", "latitude", "longitude", "types", "1st", "2nd"]
             with open(csv_path, 'w', encoding='utf-8-sig', newline='') as f:
                 # utf-8-sig: BOM 포함 → 엑셀 등에서 한글 깨짐 없이 열 수 있음
                 writer = csv.DictWriter(f, fieldnames=CSV_FIELDS)
