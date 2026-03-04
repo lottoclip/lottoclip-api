@@ -28,6 +28,7 @@ LOTTO_STORE_URL = f"{BASE_URL}/wnprchsplcsrch/selectLtWnShp.do"
 DATA_DIR = Path("lotto")
 DRAWS_DIR = DATA_DIR / "draws"  # 회차별 데이터 디렉토리 추가
 STORES_DIR = Path("lotto/stores")
+LEGACY_TOP5_DIR = STORES_DIR / "top5"
 STORES_FILE = DATA_DIR / "lotto_stores.json"
 
 def parse_address_parts(address: str) -> tuple[str, str]:
@@ -57,6 +58,7 @@ class LottoCrawler:
         os.makedirs(DATA_DIR, exist_ok=True)
         os.makedirs(DRAWS_DIR, exist_ok=True)  # 회차별 데이터 디렉토리 생성
         os.makedirs(STORES_DIR, exist_ok=True)
+        os.makedirs(LEGACY_TOP5_DIR, exist_ok=True)
         
         # 통합 판매점 정보 파일 로드
         self.stores_data = self.load_stores_data()
@@ -137,6 +139,43 @@ class LottoCrawler:
                 f"판매점 인덱스 파일 업데이트 완료: {len(stores_list)}개 "
                 f"(index.json + index.csv)"
             )
+            
+            # --- Top 5 Generation ---
+            top5_groups = {'전국': []}
+            
+            for store in stores_list:
+                # 인터넷 상점 제외
+                name = store.get("name") or ""
+                if store["id"] in ("51100000", "00000000", "001160") or "동행복권" in name or "인터넷" in name:
+                    continue
+                    
+                prov = store.get("province") or ""
+                if prov:
+                    # '서울특별시' -> '서울' 등과 같이 간단한 축약 처리 적용 (프론트 통계 일치 목적)
+                    short_prov = prov[:2] if len(prov) > 2 and prov[0:2] in ["서울", "부산", "대구", "인천", "광주", "대전", "울산", "세종", "경기", "강원", "충북", "충남", "전북", "전남", "경북", "경남", "제주"] else prov
+                    
+                    if short_prov not in top5_groups:
+                        top5_groups[short_prov] = []
+                    top5_groups[short_prov].append(store)
+                    
+                top5_groups['전국'].append(store)
+                
+            # 정렬 및 개별 저장
+            all_regions_data = {}
+            for region, group in top5_groups.items():
+                # 1등 배출 많은 순으로 정렬 후 상위 5개 자르기
+                sorted_group = sorted(group, key=lambda x: x.get('1st', 0), reverse=True)[:5]
+                top5_file_path = LEGACY_TOP5_DIR / f"{region}.json"
+                with open(top5_file_path, 'w', encoding='utf-8') as f:
+                    json.dump(sorted_group, f, ensure_ascii=False)
+                all_regions_data[region] = sorted_group
+                    
+            # ── 통합본 추가 저장 (프론트 단일 호출용) ──
+            combined_file = LEGACY_TOP5_DIR / "all_regions.json"
+            with open(combined_file, 'w', encoding='utf-8') as f:
+                json.dump(all_regions_data, f, ensure_ascii=False)
+                
+            logger.info(f"Top 5 통계 파일 생성 완료: 개별 지역 및 통합본(all_regions.json) 저장")
 
         except Exception as e:
             logger.error(f"판매점 인덱스 파일 업데이트 실패: {e}")
