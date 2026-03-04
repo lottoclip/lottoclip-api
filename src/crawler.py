@@ -165,6 +165,10 @@ class LottoCrawler:
             for region, group in top5_groups.items():
                 # 1등 배출 많은 순으로 정렬 후 상위 5개 자르기
                 sorted_group = sorted(group, key=lambda x: x.get('1st', 0), reverse=True)[:5]
+                # 순위(rank) 속성 주입
+                for idx, store_obj in enumerate(sorted_group):
+                    store_obj['rank'] = idx + 1
+                    
                 top5_file_path = LEGACY_TOP5_DIR / f"{region}.json"
                 with open(top5_file_path, 'w', encoding='utf-8') as f:
                     json.dump(sorted_group, f, ensure_ascii=False)
