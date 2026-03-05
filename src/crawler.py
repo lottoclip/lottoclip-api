@@ -223,15 +223,14 @@ class LottoCrawler:
             return None
 
     def get_store_info(self, draw_no):
-        """1등 판매점 정보를 가져옵니다 (API 사용)."""
-        store_info = []
+        """1등 및 2등 판매점 정보를 가져옵니다 (API 사용)."""
+        first_prize_stores = []
+        second_prize_stores = []
         
         try:
-            # 1등 배출점 조회 (srchWnShpRnk=1) - User asked for all but typically we need rank 1 for "first_prize_store_info"
-            # User provided example: https://dhlottery.co.kr/wnprchsplcsrch/selectLtWnShp.do?srchWnShpRnk=all&srchLtEpsd=1200
-            # Let's use 'all' and filter, or just request 1. The code previously filtered for rank 1.
+            # 1등 및 2등 배출점 조회 (srchWnShpRnk=all)
             params = {
-                'srchWnShpRnk': 'all', # 전체 조회 후 필터링이 안전함
+                'srchWnShpRnk': 'all',
                 'srchLtEpsd': draw_no
             }
             
@@ -240,7 +239,7 @@ class LottoCrawler:
             data = response.json()
             if not data.get('data') or not data['data'].get('list'):
                 logger.info(f"회차 {draw_no}의 판매점 데이터가 없습니다.")
-                return store_info
+                return first_prize_stores, second_prize_stores
                 
             stores_list = data['data']['list']
             logger.info(f"API에서 수신된 전체 판매점 수: {len(stores_list)}")
@@ -250,7 +249,6 @@ class LottoCrawler:
                 rank = store.get('wnShpRnk')
                 
                 # 타입 변환을 통한 안전한 비교
-                # 1등과 2등 모두 수집하지만, 함수 반환값(draw info)에는 1등만 포함
                 if str(rank) != '1' and str(rank) != '2':
                     continue
                     
@@ -263,7 +261,7 @@ class LottoCrawler:
                 lottery_types = []
                 if store.get('l645LtNtslYn') == 'Y': lottery_types.append('lotto645')
                 if store.get('pt720NtslYn') == 'Y': lottery_types.append('pension720')
-                if store.get('st5LtNtslYn') == 'Y': lottery_types.append('speetto') # 스피또500
+                if store.get('st5LtNtslYn') == 'Y': lottery_types.append('speetto')
                 if store.get('st10LtNtslYn') == 'Y': lottery_types.append('speetto1000')
                 if store.get('st20LtNtslYn') == 'Y': lottery_types.append('speetto2000')
                 
@@ -282,19 +280,23 @@ class LottoCrawler:
                 # 판매점 정보 저장 및 업데이트 (회차 및 등수 정보 포함)
                 self.save_single_store_info(store_id, store_name, store_address, store_phone, lottery_types, lat, lon, draw_no=draw_no, rank=rank)
                 
-                # 1등인 경우에만 반환 리스트에 추가
+                # 결과 리스트에 추가
+                store_entry = {
+                    "store_id": store_id,
+                    "type": store.get('atmtPsvYnTxt', '') # 자동/수동/반자동 등
+                }
+                
                 if str(rank) == '1':
-                    store_info.append({
-                        "store_id": store_id,
-                        "type": store.get('atmtPsvYnTxt', '') # 자동/수동/반자동 등
-                    })
+                    first_prize_stores.append(store_entry)
+                elif str(rank) == '2':
+                    second_prize_stores.append(store_entry)
             
-            logger.info(f"회차 {draw_no}의 판매점 정보 처리 완료 (1등: {len(store_info)}개)")
+            logger.info(f"회차 {draw_no}의 판매점 정보 처리 완료 (1등: {len(first_prize_stores)}개, 2등: {len(second_prize_stores)}개)")
             
         except Exception as e:
             logger.error(f"판매점 정보 추출 실패: {e}")
             
-        return store_info
+        return first_prize_stores, second_prize_stores
     
     def save_single_store_info(self, store_id, name, address, phone, lottery_types, lat, lon, draw_no=None, rank=None):
         """판매점 정보를 개별 파일 및 메모리에 저장합니다."""
@@ -400,8 +402,8 @@ class LottoCrawler:
             
             total_sales_amount = str(draw_info.get('wholEpsdSumNtslAmt', 0))
             
-            # 1등 판매점 정보
-            first_prize_store_info = self.get_store_info(draw_no)
+            # 1등 및 2등 판매점 정보
+            first_prize_store_info, second_prize_store_info = self.get_store_info(draw_no)
             
             # 통합 판매점 정보 파일 저장
             self.save_stores_data()
@@ -418,6 +420,7 @@ class LottoCrawler:
                 'prize_info': prize_info,
                 'total_sales_amount': total_sales_amount,
                 'first_prize_store_info': first_prize_store_info,
+                'second_prize_store_info': second_prize_store_info,
                 'analysis_stats': analysis_stats,
                 'updated_at': datetime.datetime.now().isoformat()
             }
@@ -543,7 +546,7 @@ class LottoCrawler:
                 success_count += 1
             
             # 과도한 요청 방지를 위한 대기 (2초)
-            time.sleep(2)
+            time.sleep(0.5)
         
         if success_count > 0:
             self.update_index_file()

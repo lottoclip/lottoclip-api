@@ -45,7 +45,7 @@
   "total_sales_amount": "105407618000",
   "first_prize_store_info": [
     {
-      "store_id": "11101179",
+      "store_id": "11100958",
       "type": "자동"
     },
     {
@@ -53,7 +53,7 @@
       "type": "자동"
     },
     {
-      "store_id": "11100958",
+      "store_id": "11101179",
       "type": "자동"
     },
     {
@@ -61,20 +61,20 @@
       "type": "수동"
     },
     {
-      "store_id": "14190235",
-      "type": "자동"
-    },
-    {
       "store_id": "14110478",
       "type": "자동"
     },
     {
-      "store_id": "14440086",
+      "store_id": "14190235",
       "type": "자동"
     },
     {
       "store_id": "14400078",
       "type": "반자동"
+    },
+    {
+      "store_id": "14440086",
+      "type": "자동"
     },
     {
       "store_id": "14520002",
@@ -91,6 +91,316 @@
     {
       "store_id": "14840241",
       "type": "자동"
+    }
+  ],
+  "second_prize_store_info": [
+    {
+      "store_id": "11140729",
+      "type": null
+    },
+    {
+      "store_id": "11101052",
+      "type": null
+    },
+    {
+      "store_id": "11100964",
+      "type": null
+    },
+    {
+      "store_id": "11101248",
+      "type": null
+    },
+    {
+      "store_id": "11140929",
+      "type": null
+    },
+    {
+      "store_id": "11101372",
+      "type": null
+    },
+    {
+      "store_id": "51100000",
+      "type": null
+    },
+    {
+      "store_id": "11100244",
+      "type": null
+    },
+    {
+      "store_id": "12610039",
+      "type": null
+    },
+    {
+      "store_id": "12600027",
+      "type": null
+    },
+    {
+      "store_id": "12600051",
+      "type": null
+    },
+    {
+      "store_id": "12640145",
+      "type": null
+    },
+    {
+      "store_id": "12610132",
+      "type": null
+    },
+    {
+      "store_id": "12640242",
+      "type": null
+    },
+    {
+      "store_id": "12600128",
+      "type": null
+    },
+    {
+      "store_id": "12700046",
+      "type": null
+    },
+    {
+      "store_id": "12700055",
+      "type": null
+    },
+    {
+      "store_id": "12700127",
+      "type": null
+    },
+    {
+      "store_id": "12800092",
+      "type": null
+    },
+    {
+      "store_id": "12840138",
+      "type": null
+    },
+    {
+      "store_id": "12820001",
+      "type": null
+    },
+    {
+      "store_id": "12900121",
+      "type": null
+    },
+    {
+      "store_id": "13000141",
+      "type": null
+    },
+    {
+      "store_id": "13000060",
+      "type": null
+    },
+    {
+      "store_id": "13000156",
+      "type": null
+    },
+    {
+      "store_id": "13140165",
+      "type": null
+    },
+    {
+      "store_id": "14110479",
+      "type": null
+    },
+    {
+      "store_id": "14120148",
+      "type": null
+    },
+    {
+      "store_id": "14140491",
+      "type": null
+    },
+    {
+      "store_id": "14190142",
+      "type": null
+    },
+    {
+      "store_id": "14141430",
+      "type": null
+    },
+    {
+      "store_id": "14141844",
+      "type": null
+    },
+    {
+      "store_id": "14110606",
+      "type": null
+    },
+    {
+      "store_id": "14110436",
+      "type": null
+    },
+    {
+      "store_id": "14140417",
+      "type": null
+    },
+    {
+      "store_id": "14141241",
+      "type": null
+    },
+    {
+      "store_id": "14141220",
+      "type": null
+    },
+    {
+      "store_id": "14140557",
+      "type": null
+    },
+    {
+      "store_id": "14140315",
+      "type": null
+    },
+    {
+      "store_id": "14100536",
+      "type": null
+    },
+    {
+      "store_id": "14210074",
+      "type": null
+    },
+    {
+      "store_id": "14240112",
+      "type": null
+    },
+    {
+      "store_id": "14240112",
+      "type": null
+    },
+    {
+      "store_id": "14240112",
+      "type": null
+    },
+    {
+      "store_id": "14240112",
+      "type": null
+    },
+    {
+      "store_id": "14340020",
+      "type": null
+    },
+    {
+      "store_id": "14440317",
+      "type": null
+    },
+    {
+      "store_id": "14410096",
+      "type": null
+    },
+    {
+      "store_id": "14410058",
+      "type": null
+    },
+    {
+      "store_id": "14400033",
+      "type": null
+    },
+    {
+      "store_id": "14440143",
+      "type": null
+    },
+    {
+      "store_id": "14440127",
+      "type": null
+    },
+    {
+      "store_id": "14440227",
+      "type": null
+    },
+    {
+      "store_id": "14440065",
+      "type": null
+    },
+    {
+      "store_id": "14500034",
+      "type": null
+    },
+    {
+      "store_id": "14640130",
+      "type": null
+    },
+    {
+      "store_id": "14610059",
+      "type": null
+    },
+    {
+      "store_id": "14600034",
+      "type": null
+    },
+    {
+      "store_id": "14620004",
+      "type": null
+    },
+    {
+      "store_id": "14600079",
+      "type": null
+    },
+    {
+      "store_id": "14740134",
+      "type": null
+    },
+    {
+      "store_id": "14790016",
+      "type": null
+    },
+    {
+      "store_id": "14700101",
+      "type": null
+    },
+    {
+      "store_id": "14710010",
+      "type": null
+    },
+    {
+      "store_id": "14810105",
+      "type": null
+    },
+    {
+      "store_id": "14800139",
+      "type": null
+    },
+    {
+      "store_id": "14800094",
+      "type": null
+    },
+    {
+      "store_id": "14800043",
+      "type": null
+    },
+    {
+      "store_id": "14810091",
+      "type": null
+    },
+    {
+      "store_id": "14800025",
+      "type": null
+    },
+    {
+      "store_id": "14820016",
+      "type": null
+    },
+    {
+      "store_id": "14810122",
+      "type": null
+    },
+    {
+      "store_id": "14810050",
+      "type": null
+    },
+    {
+      "store_id": "14940047",
+      "type": null
+    },
+    {
+      "store_id": "14990004",
+      "type": null
+    },
+    {
+      "store_id": "14990004",
+      "type": null
+    },
+    {
+      "store_id": "14940071",
+      "type": null
     }
   ],
   "analysis_stats": {
@@ -131,5 +441,5 @@
       "tax_adjusted_prize": 1467875648
     }
   },
-  "updated_at": "2026-02-03T18:19:31.487607"
+  "updated_at": "2026-03-05T23:54:18.004648"
 }

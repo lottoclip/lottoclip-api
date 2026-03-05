@@ -57,6 +57,112 @@
       "type": "자동"
     }
   ],
+  "second_prize_store_info": [
+    {
+      "store_id": "11190239",
+      "type": null
+    },
+    {
+      "store_id": "11100362",
+      "type": null
+    },
+    {
+      "store_id": "11110666",
+      "type": null
+    },
+    {
+      "store_id": "21100246",
+      "type": null
+    },
+    {
+      "store_id": "11110098",
+      "type": null
+    },
+    {
+      "store_id": "11110049",
+      "type": null
+    },
+    {
+      "store_id": "12790069",
+      "type": null
+    },
+    {
+      "store_id": "12810166",
+      "type": null
+    },
+    {
+      "store_id": "12800083",
+      "type": null
+    },
+    {
+      "store_id": "13090019",
+      "type": null
+    },
+    {
+      "store_id": "13000110",
+      "type": null
+    },
+    {
+      "store_id": "14190167",
+      "type": null
+    },
+    {
+      "store_id": "14100768",
+      "type": null
+    },
+    {
+      "store_id": "14100185",
+      "type": null
+    },
+    {
+      "store_id": "14200098",
+      "type": null
+    },
+    {
+      "store_id": "14310051",
+      "type": null
+    },
+    {
+      "store_id": "14610013",
+      "type": null
+    },
+    {
+      "store_id": "14610038",
+      "type": null
+    },
+    {
+      "store_id": "14690012",
+      "type": null
+    },
+    {
+      "store_id": "14710102",
+      "type": null
+    },
+    {
+      "store_id": "14700030",
+      "type": null
+    },
+    {
+      "store_id": "14800033",
+      "type": null
+    },
+    {
+      "store_id": "14890061",
+      "type": null
+    },
+    {
+      "store_id": "14890033",
+      "type": null
+    },
+    {
+      "store_id": "14810189",
+      "type": null
+    },
+    {
+      "store_id": "14800043",
+      "type": null
+    }
+  ],
   "analysis_stats": {
     "number_properties": {
       "sum_total": 209,
@@ -95,5 +201,5 @@
       "tax_adjusted_prize": 2153128300
     }
   },
-  "updated_at": "2026-02-03T17:18:09.023762"
+  "updated_at": "2026-03-05T23:13:00.314594"
 }

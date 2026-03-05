@@ -45,16 +45,106 @@
   "total_sales_amount": "49218434000",
   "first_prize_store_info": [
     {
-      "store_id": "21100267",
+      "store_id": "11110749",
       "type": "자동"
     },
     {
-      "store_id": "11110749",
+      "store_id": "21100267",
       "type": "자동"
     },
     {
       "store_id": "12890042",
       "type": "자동"
+    }
+  ],
+  "second_prize_store_info": [
+    {
+      "store_id": "11110386",
+      "type": null
+    },
+    {
+      "store_id": "11190101",
+      "type": null
+    },
+    {
+      "store_id": "11100951",
+      "type": null
+    },
+    {
+      "store_id": "12610024",
+      "type": null
+    },
+    {
+      "store_id": "22600128",
+      "type": null
+    },
+    {
+      "store_id": "12800016",
+      "type": null
+    },
+    {
+      "store_id": "13010007",
+      "type": null
+    },
+    {
+      "store_id": "13100061",
+      "type": null
+    },
+    {
+      "store_id": "14100107",
+      "type": null
+    },
+    {
+      "store_id": "14110132",
+      "type": null
+    },
+    {
+      "store_id": "14110283",
+      "type": null
+    },
+    {
+      "store_id": "14110254",
+      "type": null
+    },
+    {
+      "store_id": "14110395",
+      "type": null
+    },
+    {
+      "store_id": "14100518",
+      "type": null
+    },
+    {
+      "store_id": "24100290",
+      "type": null
+    },
+    {
+      "store_id": "14200099",
+      "type": null
+    },
+    {
+      "store_id": "14410108",
+      "type": null
+    },
+    {
+      "store_id": "14410123",
+      "type": null
+    },
+    {
+      "store_id": "14510055",
+      "type": null
+    },
+    {
+      "store_id": "14500023",
+      "type": null
+    },
+    {
+      "store_id": "14790035",
+      "type": null
+    },
+    {
+      "store_id": "14710065",
+      "type": null
     }
   ],
   "analysis_stats": {
@@ -92,5 +182,5 @@
       "tax_adjusted_prize": 2654097550
     }
   },
-  "updated_at": "2026-02-03T17:24:25.678272"
+  "updated_at": "2026-03-05T23:17:27.099009"
 }

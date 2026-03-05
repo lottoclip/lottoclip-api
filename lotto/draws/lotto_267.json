@@ -57,6 +57,120 @@
       "type": "자동"
     }
   ],
+  "second_prize_store_info": [
+    {
+      "store_id": "11100057",
+      "type": null
+    },
+    {
+      "store_id": "11100568",
+      "type": null
+    },
+    {
+      "store_id": "11110385",
+      "type": null
+    },
+    {
+      "store_id": "11101052",
+      "type": null
+    },
+    {
+      "store_id": "11100968",
+      "type": null
+    },
+    {
+      "store_id": "21100501",
+      "type": null
+    },
+    {
+      "store_id": "11110503",
+      "type": null
+    },
+    {
+      "store_id": "11110306",
+      "type": null
+    },
+    {
+      "store_id": "11101551",
+      "type": null
+    },
+    {
+      "store_id": "11110643",
+      "type": null
+    },
+    {
+      "store_id": "11100199",
+      "type": null
+    },
+    {
+      "store_id": "11101560",
+      "type": null
+    },
+    {
+      "store_id": "11110271",
+      "type": null
+    },
+    {
+      "store_id": "11100097",
+      "type": null
+    },
+    {
+      "store_id": "22600093",
+      "type": null
+    },
+    {
+      "store_id": "22600125",
+      "type": null
+    },
+    {
+      "store_id": "12700202",
+      "type": null
+    },
+    {
+      "store_id": "12900036",
+      "type": null
+    },
+    {
+      "store_id": "14110332",
+      "type": null
+    },
+    {
+      "store_id": "14190163",
+      "type": null
+    },
+    {
+      "store_id": "14110071",
+      "type": null
+    },
+    {
+      "store_id": "14110406",
+      "type": null
+    },
+    {
+      "store_id": "14110210",
+      "type": null
+    },
+    {
+      "store_id": "24200003",
+      "type": null
+    },
+    {
+      "store_id": "14300093",
+      "type": null
+    },
+    {
+      "store_id": "14610044",
+      "type": null
+    },
+    {
+      "store_id": "14710079",
+      "type": null
+    },
+    {
+      "store_id": "14710076",
+      "type": null
+    }
+  ],
   "analysis_stats": {
     "number_properties": {
       "sum_total": 150,
@@ -94,5 +208,5 @@
       "tax_adjusted_prize": 2215634750
     }
   },
-  "updated_at": "2026-02-03T17:16:46.897100"
+  "updated_at": "2026-03-05T23:12:00.483747"
 }

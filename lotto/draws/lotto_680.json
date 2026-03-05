@@ -57,7 +57,11 @@
       "type": "수동"
     },
     {
-      "store_id": "14190050",
+      "store_id": "14110327",
+      "type": "수동"
+    },
+    {
+      "store_id": "24100328",
       "type": "수동"
     },
     {
@@ -69,28 +73,24 @@
       "type": "수동"
     },
     {
-      "store_id": "24100328",
+      "store_id": "14190050",
       "type": "수동"
     },
     {
-      "store_id": "14110327",
-      "type": "수동"
-    },
-    {
-      "store_id": "24300017",
-      "type": "수동"
-    },
-    {
-      "store_id": "24300017",
-      "type": "수동"
+      "store_id": "14300097",
+      "type": "자동"
     },
     {
       "store_id": "14310078",
       "type": "수동"
     },
     {
-      "store_id": "14300097",
-      "type": "자동"
+      "store_id": "24300017",
+      "type": "수동"
+    },
+    {
+      "store_id": "24300017",
+      "type": "수동"
     },
     {
       "store_id": "14410043",
@@ -99,6 +99,184 @@
     {
       "store_id": "14510045",
       "type": "자동"
+    }
+  ],
+  "second_prize_store_info": [
+    {
+      "store_id": "11100391",
+      "type": null
+    },
+    {
+      "store_id": "11101248",
+      "type": null
+    },
+    {
+      "store_id": "11101254",
+      "type": null
+    },
+    {
+      "store_id": "11100144",
+      "type": null
+    },
+    {
+      "store_id": "11100641",
+      "type": null
+    },
+    {
+      "store_id": "11100936",
+      "type": null
+    },
+    {
+      "store_id": "11110690",
+      "type": null
+    },
+    {
+      "store_id": "11100506",
+      "type": null
+    },
+    {
+      "store_id": "12700323",
+      "type": null
+    },
+    {
+      "store_id": "12700270",
+      "type": null
+    },
+    {
+      "store_id": "12700271",
+      "type": null
+    },
+    {
+      "store_id": "12790029",
+      "type": null
+    },
+    {
+      "store_id": "12710129",
+      "type": null
+    },
+    {
+      "store_id": "22820002",
+      "type": null
+    },
+    {
+      "store_id": "22800061",
+      "type": null
+    },
+    {
+      "store_id": "12990026",
+      "type": null
+    },
+    {
+      "store_id": "13090030",
+      "type": null
+    },
+    {
+      "store_id": "13110053",
+      "type": null
+    },
+    {
+      "store_id": "14100760",
+      "type": null
+    },
+    {
+      "store_id": "24100152",
+      "type": null
+    },
+    {
+      "store_id": "14100365",
+      "type": null
+    },
+    {
+      "store_id": "14110426",
+      "type": null
+    },
+    {
+      "store_id": "14190102",
+      "type": null
+    },
+    {
+      "store_id": "14100822",
+      "type": null
+    },
+    {
+      "store_id": "14110595",
+      "type": null
+    },
+    {
+      "store_id": "14190210",
+      "type": null
+    },
+    {
+      "store_id": "14100298",
+      "type": null
+    },
+    {
+      "store_id": "14190057",
+      "type": null
+    },
+    {
+      "store_id": "14210067",
+      "type": null
+    },
+    {
+      "store_id": "14310036",
+      "type": null
+    },
+    {
+      "store_id": "14310092",
+      "type": null
+    },
+    {
+      "store_id": "14320002",
+      "type": null
+    },
+    {
+      "store_id": "14410110",
+      "type": null
+    },
+    {
+      "store_id": "14410004",
+      "type": null
+    },
+    {
+      "store_id": "14410024",
+      "type": null
+    },
+    {
+      "store_id": "14500053",
+      "type": null
+    },
+    {
+      "store_id": "14620022",
+      "type": null
+    },
+    {
+      "store_id": "14610021",
+      "type": null
+    },
+    {
+      "store_id": "14690036",
+      "type": null
+    },
+    {
+      "store_id": "14810197",
+      "type": null
+    },
+    {
+      "store_id": "14810145",
+      "type": null
+    },
+    {
+      "store_id": "14810027",
+      "type": null
+    },
+    {
+      "store_id": "14800118",
+      "type": null
+    },
+    {
+      "store_id": "14810161",
+      "type": null
     }
   ],
   "analysis_stats": {
@@ -137,5 +315,5 @@
       "tax_adjusted_prize": 777082613
     }
   },
-  "updated_at": "2026-02-03T17:46:29.437474"
+  "updated_at": "2026-03-05T23:33:44.358299"
 }

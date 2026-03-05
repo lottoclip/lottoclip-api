@@ -53,6 +53,92 @@
       "type": "자동"
     }
   ],
+  "second_prize_store_info": [
+    {
+      "store_id": "11190127",
+      "type": null
+    },
+    {
+      "store_id": "11101278",
+      "type": null
+    },
+    {
+      "store_id": "11100369",
+      "type": null
+    },
+    {
+      "store_id": "11100953",
+      "type": null
+    },
+    {
+      "store_id": "11110464",
+      "type": null
+    },
+    {
+      "store_id": "11100189",
+      "type": null
+    },
+    {
+      "store_id": "12610140",
+      "type": null
+    },
+    {
+      "store_id": "12710150",
+      "type": null
+    },
+    {
+      "store_id": "13000101",
+      "type": null
+    },
+    {
+      "store_id": "13000142",
+      "type": null
+    },
+    {
+      "store_id": "13110085",
+      "type": null
+    },
+    {
+      "store_id": "13110040",
+      "type": null
+    },
+    {
+      "store_id": "14110553",
+      "type": null
+    },
+    {
+      "store_id": "14100511",
+      "type": null
+    },
+    {
+      "store_id": "14110023",
+      "type": null
+    },
+    {
+      "store_id": "14100029",
+      "type": null
+    },
+    {
+      "store_id": "14300065",
+      "type": null
+    },
+    {
+      "store_id": "14390019",
+      "type": null
+    },
+    {
+      "store_id": "14490006",
+      "type": null
+    },
+    {
+      "store_id": "14890061",
+      "type": null
+    },
+    {
+      "store_id": "14800098",
+      "type": null
+    }
+  ],
   "analysis_stats": {
     "number_properties": {
       "sum_total": 130,
@@ -90,5 +176,5 @@
       "tax_adjusted_prize": 3060557210
     }
   },
-  "updated_at": "2026-02-03T17:16:28.748461"
+  "updated_at": "2026-03-05T23:11:33.142590"
 }

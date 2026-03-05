@@ -57,6 +57,132 @@
       "type": "자동"
     }
   ],
+  "second_prize_store_info": [
+    {
+      "store_id": "11190210",
+      "type": null
+    },
+    {
+      "store_id": "11110362",
+      "type": null
+    },
+    {
+      "store_id": "11100479",
+      "type": null
+    },
+    {
+      "store_id": "11100061",
+      "type": null
+    },
+    {
+      "store_id": "11101005",
+      "type": null
+    },
+    {
+      "store_id": "11110287",
+      "type": null
+    },
+    {
+      "store_id": "11100184",
+      "type": null
+    },
+    {
+      "store_id": "11110024",
+      "type": null
+    },
+    {
+      "store_id": "11110205",
+      "type": null
+    },
+    {
+      "store_id": "12600135",
+      "type": null
+    },
+    {
+      "store_id": "12610195",
+      "type": null
+    },
+    {
+      "store_id": "12600094",
+      "type": null
+    },
+    {
+      "store_id": "12600326",
+      "type": null
+    },
+    {
+      "store_id": "12810077",
+      "type": null
+    },
+    {
+      "store_id": "12800069",
+      "type": null
+    },
+    {
+      "store_id": "12800179",
+      "type": null
+    },
+    {
+      "store_id": "12800042",
+      "type": null
+    },
+    {
+      "store_id": "12910071",
+      "type": null
+    },
+    {
+      "store_id": "14100112",
+      "type": null
+    },
+    {
+      "store_id": "14190001",
+      "type": null
+    },
+    {
+      "store_id": "14100512",
+      "type": null
+    },
+    {
+      "store_id": "14190090",
+      "type": null
+    },
+    {
+      "store_id": "14100047",
+      "type": null
+    },
+    {
+      "store_id": "14190043",
+      "type": null
+    },
+    {
+      "store_id": "14290013",
+      "type": null
+    },
+    {
+      "store_id": "14290005",
+      "type": null
+    },
+    {
+      "store_id": "14290015",
+      "type": null
+    },
+    {
+      "store_id": "14300004",
+      "type": null
+    },
+    {
+      "store_id": "14610052",
+      "type": null
+    },
+    {
+      "store_id": "14710021",
+      "type": null
+    },
+    {
+      "store_id": "14910021",
+      "type": null
+    }
+  ],
   "analysis_stats": {
     "number_properties": {
       "sum_total": 104,
@@ -95,5 +221,5 @@
       "tax_adjusted_prize": 2225660960
     }
   },
-  "updated_at": "2026-02-03T17:17:24.846813"
+  "updated_at": "2026-03-05T23:12:40.872704"
 }

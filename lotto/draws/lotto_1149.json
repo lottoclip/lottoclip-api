@@ -45,11 +45,15 @@
   "total_sales_amount": "112146718000",
   "first_prize_store_info": [
     {
+      "store_id": "11140729",
+      "type": "자동"
+    },
+    {
       "store_id": "11190121",
       "type": "자동"
     },
     {
-      "store_id": "11140729",
+      "store_id": "12610157",
       "type": "자동"
     },
     {
@@ -57,20 +61,24 @@
       "type": "수동"
     },
     {
-      "store_id": "12610157",
-      "type": "자동"
+      "store_id": "14141913",
+      "type": "수동"
     },
     {
-      "store_id": "14100528",
-      "type": "자동"
+      "store_id": "14141913",
+      "type": "수동"
     },
     {
-      "store_id": "14140134",
-      "type": "자동"
+      "store_id": "14141913",
+      "type": "수동"
     },
     {
-      "store_id": "14110248",
-      "type": "자동"
+      "store_id": "14141913",
+      "type": "수동"
+    },
+    {
+      "store_id": "14141913",
+      "type": "수동"
     },
     {
       "store_id": "14140860",
@@ -81,24 +89,16 @@
       "type": "자동"
     },
     {
-      "store_id": "14141913",
-      "type": "수동"
+      "store_id": "14110248",
+      "type": "자동"
     },
     {
-      "store_id": "14141913",
-      "type": "수동"
+      "store_id": "14140134",
+      "type": "자동"
     },
     {
-      "store_id": "14141913",
-      "type": "수동"
-    },
-    {
-      "store_id": "14141913",
-      "type": "수동"
-    },
-    {
-      "store_id": "14141913",
-      "type": "수동"
+      "store_id": "14100528",
+      "type": "자동"
     },
     {
       "store_id": "14300097",
@@ -111,6 +111,304 @@
     {
       "store_id": "14840206",
       "type": "반자동"
+    }
+  ],
+  "second_prize_store_info": [
+    {
+      "store_id": "11100433",
+      "type": null
+    },
+    {
+      "store_id": "11190193",
+      "type": null
+    },
+    {
+      "store_id": "11101587",
+      "type": null
+    },
+    {
+      "store_id": "51100000",
+      "type": null
+    },
+    {
+      "store_id": "51100000",
+      "type": null
+    },
+    {
+      "store_id": "11100206",
+      "type": null
+    },
+    {
+      "store_id": "11100891",
+      "type": null
+    },
+    {
+      "store_id": "11101330",
+      "type": null
+    },
+    {
+      "store_id": "11140492",
+      "type": null
+    },
+    {
+      "store_id": "12600111",
+      "type": null
+    },
+    {
+      "store_id": "12600097",
+      "type": null
+    },
+    {
+      "store_id": "12690071",
+      "type": null
+    },
+    {
+      "store_id": "12610101",
+      "type": null
+    },
+    {
+      "store_id": "12610101",
+      "type": null
+    },
+    {
+      "store_id": "12640422",
+      "type": null
+    },
+    {
+      "store_id": "12740147",
+      "type": null
+    },
+    {
+      "store_id": "12710108",
+      "type": null
+    },
+    {
+      "store_id": "12710093",
+      "type": null
+    },
+    {
+      "store_id": "12710129",
+      "type": null
+    },
+    {
+      "store_id": "12840122",
+      "type": null
+    },
+    {
+      "store_id": "12840227",
+      "type": null
+    },
+    {
+      "store_id": "12840227",
+      "type": null
+    },
+    {
+      "store_id": "12840227",
+      "type": null
+    },
+    {
+      "store_id": "12840227",
+      "type": null
+    },
+    {
+      "store_id": "12840227",
+      "type": null
+    },
+    {
+      "store_id": "12940244",
+      "type": null
+    },
+    {
+      "store_id": "12990014",
+      "type": null
+    },
+    {
+      "store_id": "12990014",
+      "type": null
+    },
+    {
+      "store_id": "13040065",
+      "type": null
+    },
+    {
+      "store_id": "13040113",
+      "type": null
+    },
+    {
+      "store_id": "13090029",
+      "type": null
+    },
+    {
+      "store_id": "13000156",
+      "type": null
+    },
+    {
+      "store_id": "13190024",
+      "type": null
+    },
+    {
+      "store_id": "14120123",
+      "type": null
+    },
+    {
+      "store_id": "14100251",
+      "type": null
+    },
+    {
+      "store_id": "14110144",
+      "type": null
+    },
+    {
+      "store_id": "14110144",
+      "type": null
+    },
+    {
+      "store_id": "14140908",
+      "type": null
+    },
+    {
+      "store_id": "14140860",
+      "type": null
+    },
+    {
+      "store_id": "14100587",
+      "type": null
+    },
+    {
+      "store_id": "14141809",
+      "type": null
+    },
+    {
+      "store_id": "14110060",
+      "type": null
+    },
+    {
+      "store_id": "14130006",
+      "type": null
+    },
+    {
+      "store_id": "14142108",
+      "type": null
+    },
+    {
+      "store_id": "14100817",
+      "type": null
+    },
+    {
+      "store_id": "14110512",
+      "type": null
+    },
+    {
+      "store_id": "14120020",
+      "type": null
+    },
+    {
+      "store_id": "14110502",
+      "type": null
+    },
+    {
+      "store_id": "14100458",
+      "type": null
+    },
+    {
+      "store_id": "14240074",
+      "type": null
+    },
+    {
+      "store_id": "14340202",
+      "type": null
+    },
+    {
+      "store_id": "14310034",
+      "type": null
+    },
+    {
+      "store_id": "14340243",
+      "type": null
+    },
+    {
+      "store_id": "14300041",
+      "type": null
+    },
+    {
+      "store_id": "14440204",
+      "type": null
+    },
+    {
+      "store_id": "14430021",
+      "type": null
+    },
+    {
+      "store_id": "14440041",
+      "type": null
+    },
+    {
+      "store_id": "14500087",
+      "type": null
+    },
+    {
+      "store_id": "14590035",
+      "type": null
+    },
+    {
+      "store_id": "14500118",
+      "type": null
+    },
+    {
+      "store_id": "14510022",
+      "type": null
+    },
+    {
+      "store_id": "14690005",
+      "type": null
+    },
+    {
+      "store_id": "14600055",
+      "type": null
+    },
+    {
+      "store_id": "14690007",
+      "type": null
+    },
+    {
+      "store_id": "14610085",
+      "type": null
+    },
+    {
+      "store_id": "14840057",
+      "type": null
+    },
+    {
+      "store_id": "14840347",
+      "type": null
+    },
+    {
+      "store_id": "14890051",
+      "type": null
+    },
+    {
+      "store_id": "14840268",
+      "type": null
+    },
+    {
+      "store_id": "14940054",
+      "type": null
+    },
+    {
+      "store_id": "14910011",
+      "type": null
+    },
+    {
+      "store_id": "14900009",
+      "type": null
+    },
+    {
+      "store_id": "14900005",
+      "type": null
+    },
+    {
+      "store_id": "14940023",
+      "type": null
     }
   ],
   "analysis_stats": {
@@ -148,5 +446,5 @@
       "tax_adjusted_prize": 1113965445
     }
   },
-  "updated_at": "2026-02-03T18:25:20.711372"
+  "updated_at": "2026-03-05T23:57:56.612997"
 }

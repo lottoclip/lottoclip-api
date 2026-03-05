@@ -45,27 +45,23 @@
   "total_sales_amount": "59502096000",
   "first_prize_store_info": [
     {
-      "store_id": "11110453",
-      "type": "자동"
-    },
-    {
-      "store_id": "11101429",
-      "type": "자동"
+      "store_id": "11100819",
+      "type": "수동"
     },
     {
       "store_id": "11101242",
       "type": "수동"
     },
     {
-      "store_id": "11100819",
-      "type": "수동"
+      "store_id": "11101429",
+      "type": "자동"
+    },
+    {
+      "store_id": "11110453",
+      "type": "자동"
     },
     {
       "store_id": "22600035",
-      "type": "수동"
-    },
-    {
-      "store_id": "14100534",
       "type": "수동"
     },
     {
@@ -73,8 +69,198 @@
       "type": "자동"
     },
     {
+      "store_id": "14100534",
+      "type": "수동"
+    },
+    {
       "store_id": "14700067",
       "type": "자동"
+    }
+  ],
+  "second_prize_store_info": [
+    {
+      "store_id": "11190239",
+      "type": null
+    },
+    {
+      "store_id": "11100910",
+      "type": null
+    },
+    {
+      "store_id": "11100846",
+      "type": null
+    },
+    {
+      "store_id": "11100460",
+      "type": null
+    },
+    {
+      "store_id": "11110611",
+      "type": null
+    },
+    {
+      "store_id": "11100479",
+      "type": null
+    },
+    {
+      "store_id": "11190201",
+      "type": null
+    },
+    {
+      "store_id": "11110505",
+      "type": null
+    },
+    {
+      "store_id": "21100021",
+      "type": null
+    },
+    {
+      "store_id": "11100882",
+      "type": null
+    },
+    {
+      "store_id": "11100024",
+      "type": null
+    },
+    {
+      "store_id": "11110031",
+      "type": null
+    },
+    {
+      "store_id": "12600054",
+      "type": null
+    },
+    {
+      "store_id": "12600344",
+      "type": null
+    },
+    {
+      "store_id": "22600014",
+      "type": null
+    },
+    {
+      "store_id": "12700046",
+      "type": null
+    },
+    {
+      "store_id": "12700270",
+      "type": null
+    },
+    {
+      "store_id": "12700153",
+      "type": null
+    },
+    {
+      "store_id": "12810077",
+      "type": null
+    },
+    {
+      "store_id": "12810040",
+      "type": null
+    },
+    {
+      "store_id": "12910010",
+      "type": null
+    },
+    {
+      "store_id": "12910086",
+      "type": null
+    },
+    {
+      "store_id": "14100251",
+      "type": null
+    },
+    {
+      "store_id": "14100251",
+      "type": null
+    },
+    {
+      "store_id": "14100394",
+      "type": null
+    },
+    {
+      "store_id": "14100761",
+      "type": null
+    },
+    {
+      "store_id": "14100117",
+      "type": null
+    },
+    {
+      "store_id": "14100149",
+      "type": null
+    },
+    {
+      "store_id": "14110460",
+      "type": null
+    },
+    {
+      "store_id": "14110544",
+      "type": null
+    },
+    {
+      "store_id": "14190134",
+      "type": null
+    },
+    {
+      "store_id": "14110438",
+      "type": null
+    },
+    {
+      "store_id": "14100745",
+      "type": null
+    },
+    {
+      "store_id": "14100023",
+      "type": null
+    },
+    {
+      "store_id": "14100336",
+      "type": null
+    },
+    {
+      "store_id": "14100698",
+      "type": null
+    },
+    {
+      "store_id": "14200071",
+      "type": null
+    },
+    {
+      "store_id": "14300004",
+      "type": null
+    },
+    {
+      "store_id": "14300069",
+      "type": null
+    },
+    {
+      "store_id": "14310100",
+      "type": null
+    },
+    {
+      "store_id": "14500087",
+      "type": null
+    },
+    {
+      "store_id": "14590030",
+      "type": null
+    },
+    {
+      "store_id": "14600046",
+      "type": null
+    },
+    {
+      "store_id": "14610048",
+      "type": null
+    },
+    {
+      "store_id": "14600083",
+      "type": null
+    },
+    {
+      "store_id": "14990003",
+      "type": null
     }
   ],
   "analysis_stats": {
@@ -114,5 +300,5 @@
       "tax_adjusted_prize": 1224497744
     }
   },
-  "updated_at": "2026-02-03T17:39:22.564344"
+  "updated_at": "2026-03-05T23:29:23.577616"
 }
