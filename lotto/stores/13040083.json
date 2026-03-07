@@ -1,7 +1,7 @@
 {
   "store_id": "13040083",
   "name": "복권판매점",
-  "address": "대전 서구  계백로 1153 지산프리지엄빌딩111호",
+  "address": "대전 서구 계백로 1153 지산프리지엄빌딩111호  ",
   "province": "대전",
   "city": "서구",
   "phone": null,
@@ -12,11 +12,13 @@
   ],
   "latitude": 36.305175,
   "longitude": 127.351262,
-  "updated_at": "2026-03-05T23:52:18.320228",
+  "updated_at": "2026-03-07T14:13:23.491946",
   "first_prize_draws": [
     1044
   ],
-  "second_prize_draws": [],
+  "second_prize_draws": [
+    1214
+  ],
   "first_prize_count": 1,
-  "second_prize_count": 0
+  "second_prize_count": 1
 }

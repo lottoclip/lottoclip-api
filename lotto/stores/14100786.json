@@ -1,7 +1,7 @@
 {
   "store_id": "14100786",
   "name": "신바람복권마트",
-  "address": "경기 평택시  평택3로56번길 28-8 ",
+  "address": "경기 평택시 평택3로56번길 28-8  ",
   "province": "경기",
   "city": "평택시",
   "phone": "031-652-2194",
@@ -12,11 +12,12 @@
   ],
   "latitude": 36.993436,
   "longitude": 127.095339,
-  "updated_at": "2026-03-05T23:58:33.902180",
+  "updated_at": "2026-03-07T14:13:23.496321",
   "first_prize_draws": [
     338
   ],
   "second_prize_draws": [
+    1214,
     1157,
     1065,
     1007,
@@ -27,5 +28,5 @@
     426
   ],
   "first_prize_count": 1,
-  "second_prize_count": 8
+  "second_prize_count": 9
 }

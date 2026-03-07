@@ -1,7 +1,7 @@
 {
   "store_id": "11100130",
   "name": "복권마을",
-  "address": "서울 구로구  구로동로 72 ",
+  "address": "서울 구로구 구로동로 72  ",
   "province": "서울",
   "city": "구로구",
   "phone": "02-3281-0021",
@@ -12,7 +12,7 @@
   ],
   "latitude": 37.485348,
   "longitude": 126.88605,
-  "updated_at": "2026-03-06T00:00:40.175061",
+  "updated_at": "2026-03-07T14:13:23.487008",
   "first_prize_draws": [
     1196,
     1134,
@@ -20,6 +20,7 @@
     1039
   ],
   "second_prize_draws": [
+    1214,
     1091,
     1077,
     1067,
@@ -41,5 +42,5 @@
     270
   ],
   "first_prize_count": 4,
-  "second_prize_count": 19
+  "second_prize_count": 20
 }

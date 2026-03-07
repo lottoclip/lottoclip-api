@@ -1,7 +1,7 @@
 {
   "store_id": "14440041",
   "name": "스타복권방",
-  "address": "충남 논산시  안심로 72 ",
+  "address": "충남 논산시 안심로 72  ",
   "province": "충남",
   "city": "논산시",
   "phone": null,
@@ -12,13 +12,14 @@
   ],
   "latitude": 36.127454,
   "longitude": 127.099382,
-  "updated_at": "2026-03-06T00:00:16.496327",
+  "updated_at": "2026-03-07T14:13:23.503412",
   "first_prize_draws": [
     1021,
     938,
     794
   ],
   "second_prize_draws": [
+    1214,
     1188,
     1149,
     1148,
@@ -29,5 +30,5 @@
     888
   ],
   "first_prize_count": 3,
-  "second_prize_count": 8
+  "second_prize_count": 9
 }

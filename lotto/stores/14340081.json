@@ -1,7 +1,7 @@
 {
   "store_id": "14340081",
   "name": "화산복권판매점",
-  "address": "충북 제천시  내토로 472-1 ",
+  "address": "충북 제천시 내토로 472-1  ",
   "province": "충북",
   "city": "제천시",
   "phone": null,
@@ -12,11 +12,12 @@
   ],
   "latitude": 37.128835,
   "longitude": 128.209525,
-  "updated_at": "2026-03-05T23:53:24.690577",
+  "updated_at": "2026-03-07T14:13:23.502698",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1214,
     1060
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

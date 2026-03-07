@@ -1,7 +1,7 @@
 {
   "store_id": "14490015",
   "name": "잉크와복권방",
-  "address": "충남 천안시 동남구  차돌로 84 ",
+  "address": "충남 천안시 동남구 차돌로 84  ",
   "province": "충남",
   "city": "천안시",
   "phone": "041-592-1677",
@@ -12,7 +12,7 @@
   ],
   "latitude": 36.802126,
   "longitude": 127.139436,
-  "updated_at": "2026-03-06T00:00:37.905838",
+  "updated_at": "2026-03-07T14:13:23.502915",
   "first_prize_draws": [
     1044,
     518,
@@ -20,6 +20,7 @@
     420
   ],
   "second_prize_draws": [
+    1214,
     1195,
     1164,
     1104,
@@ -47,5 +48,5 @@
     361
   ],
   "first_prize_count": 4,
-  "second_prize_count": 25
+  "second_prize_count": 26
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14700108",
   "name": "미니풀 복권판매점",
-  "address": "경북 구미시  상사서로 81 ",
+  "address": "경북 구미시 상사서로 81  ",
   "province": "경북",
   "city": "구미시",
   "phone": "054-465-6556",
@@ -12,16 +12,17 @@
   ],
   "latitude": 36.089808,
   "longitude": 128.354988,
-  "updated_at": "2026-03-05T23:53:15.541308",
+  "updated_at": "2026-03-07T14:13:23.506772",
   "first_prize_draws": [
     816
   ],
   "second_prize_draws": [
+    1214,
     1057,
     801,
     790,
     674
   ],
   "first_prize_count": 1,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }

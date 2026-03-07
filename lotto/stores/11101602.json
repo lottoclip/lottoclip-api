@@ -1,7 +1,7 @@
 {
   "store_id": "11101602",
   "name": "평안당",
-  "address": "서울 종로구  종로 219 ",
+  "address": "서울 종로구 종로 219  ",
   "province": "서울",
   "city": "종로구",
   "phone": "02-762-7723",
@@ -12,7 +12,7 @@
   ],
   "latitude": 37.57123,
   "longitude": 127.002186,
-  "updated_at": "2026-03-06T00:00:31.104896",
+  "updated_at": "2026-03-07T14:13:23.479574",
   "first_prize_draws": [
     1173,
     948,
@@ -24,6 +24,7 @@
     352
   ],
   "second_prize_draws": [
+    1214,
     1193,
     1190,
     1178,
@@ -60,5 +61,5 @@
     466
   ],
   "first_prize_count": 8,
-  "second_prize_count": 34
+  "second_prize_count": 35
 }

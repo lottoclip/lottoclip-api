@@ -1,7 +1,7 @@
 {
   "store_id": "12700215",
   "name": "복권판매소(서문큰장네거리)",
-  "address": "대구 서구  국채보상로 438 ",
+  "address": "대구 서구 국채보상로 438  ",
   "province": "대구",
   "city": "서구",
   "phone": "053-572-1329",
@@ -12,13 +12,14 @@
   ],
   "latitude": 35.870576,
   "longitude": 128.578798,
-  "updated_at": "2026-03-06T00:00:18.986197",
+  "updated_at": "2026-03-07T14:13:23.489149",
   "first_prize_draws": [
     1102,
     519,
     329
   ],
   "second_prize_draws": [
+    1214,
     1189,
     1170,
     1061,
@@ -32,5 +33,5 @@
     303
   ],
   "first_prize_count": 3,
-  "second_prize_count": 11
+  "second_prize_count": 12
 }

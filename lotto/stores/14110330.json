@@ -1,7 +1,7 @@
 {
   "store_id": "14110330",
   "name": "운천대박복권방",
-  "address": "경기 포천시  영북면 영북로 171-1 ",
+  "address": "경기 포천시 영북로 171-1  ",
   "province": "경기",
   "city": "포천시",
   "phone": "031-534-6450",
@@ -12,12 +12,13 @@
   ],
   "latitude": 38.089582,
   "longitude": 127.274459,
-  "updated_at": "2026-03-05T23:55:05.681019",
+  "updated_at": "2026-03-07T14:13:23.493214",
   "first_prize_draws": [
     621,
     307
   ],
   "second_prize_draws": [
+    1214,
     1095,
     1075,
     1044,
@@ -31,5 +32,5 @@
     361
   ],
   "first_prize_count": 2,
-  "second_prize_count": 11
+  "second_prize_count": 12
 }

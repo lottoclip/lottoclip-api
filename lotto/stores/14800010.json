@@ -1,7 +1,7 @@
 {
   "store_id": "14800010",
   "name": "양산노다지복권방",
-  "address": "경남 양산시  북안남2길 52 복권판매점",
+  "address": "경남 양산시 북안남2길 52 복권판매점  ",
   "province": "경남",
   "city": "양산시",
   "phone": "055-386-3774",
@@ -12,8 +12,9 @@
   ],
   "latitude": 35.348255,
   "longitude": 129.03783,
-  "updated_at": "2026-03-05T23:58:51.690956",
+  "updated_at": "2026-03-07T14:13:23.508445",
   "first_prize_draws": [
+    1214,
     951,
     403
   ],
@@ -46,6 +47,6 @@
     361,
     286
   ],
-  "first_prize_count": 2,
+  "first_prize_count": 3,
   "second_prize_count": 27
 }

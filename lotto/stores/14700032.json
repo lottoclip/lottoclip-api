@@ -1,7 +1,7 @@
 {
   "store_id": "14700032",
   "name": "복권명당",
-  "address": "경북 경산시  경안로 214 ",
+  "address": "경북 경산시 경안로 214  ",
   "province": "경북",
   "city": "경산시",
   "phone": "053-815-1186",
@@ -12,7 +12,7 @@
   ],
   "latitude": 35.826631,
   "longitude": 128.736812,
-  "updated_at": "2026-03-06T00:00:31.724288",
+  "updated_at": "2026-03-07T14:13:23.507248",
   "first_prize_draws": [
     1137,
     1125,
@@ -21,6 +21,7 @@
     575
   ],
   "second_prize_draws": [
+    1214,
     1193,
     1171,
     1154,
@@ -47,5 +48,5 @@
     278
   ],
   "first_prize_count": 5,
-  "second_prize_count": 24
+  "second_prize_count": 25
 }

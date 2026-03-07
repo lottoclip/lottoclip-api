@@ -1,7 +1,7 @@
 {
   "store_id": "11140601",
   "name": "반포신논현복권",
-  "address": "서울 서초구  강남대로83길 18 101호",
+  "address": "서울 서초구 강남대로83길 18 101호  ",
   "province": "서울",
   "city": "서초구",
   "phone": null,
@@ -12,12 +12,13 @@
   ],
   "latitude": 37.506349,
   "longitude": 127.022382,
-  "updated_at": "2026-03-05T23:57:15.775065",
+  "updated_at": "2026-03-07T14:13:23.481610",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1214,
     1140,
     1047
   ],
   "first_prize_count": 0,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

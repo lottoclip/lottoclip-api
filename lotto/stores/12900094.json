@@ -1,7 +1,7 @@
 {
   "store_id": "12900094",
   "name": "역전복권방",
-  "address": "광주 광산구  상무대로 208 1층",
+  "address": "광주 광산구 상무대로 208 1층  ",
   "province": "광주",
   "city": "광산구",
   "phone": "062-941-9737",
@@ -12,12 +12,13 @@
   ],
   "latitude": 35.137742,
   "longitude": 126.79203,
-  "updated_at": "2026-03-05T23:59:59.507685",
+  "updated_at": "2026-03-07T14:13:23.490635",
   "first_prize_draws": [
     1182,
     681
   ],
   "second_prize_draws": [
+    1214,
     1150,
     1137,
     1095,
@@ -35,5 +36,5 @@
     404
   ],
   "first_prize_count": 2,
-  "second_prize_count": 15
+  "second_prize_count": 16
 }

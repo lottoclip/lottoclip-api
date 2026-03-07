@@ -1,7 +1,7 @@
 {
   "store_id": "11100539",
   "name": "경성식품",
-  "address": "서울 동대문구  망우로21길 52 ",
+  "address": "서울 동대문구 망우로21길 52  ",
   "province": "서울",
   "city": "동대문구",
   "phone": "02-2243-2680",
@@ -12,7 +12,7 @@
   ],
   "latitude": 37.590435,
   "longitude": 127.060279,
-  "updated_at": "2026-03-06T00:00:13.133185",
+  "updated_at": "2026-03-07T14:13:23.485933",
   "first_prize_draws": [
     1090,
     727,
@@ -22,6 +22,7 @@
     309
   ],
   "second_prize_draws": [
+    1214,
     1187,
     1171,
     1085,
@@ -58,5 +59,5 @@
     330
   ],
   "first_prize_count": 6,
-  "second_prize_count": 34
+  "second_prize_count": 35
 }

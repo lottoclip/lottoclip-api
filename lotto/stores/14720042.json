@@ -1,7 +1,7 @@
 {
   "store_id": "14720042",
   "name": "복권명당",
-  "address": "경북 포항시 남구  원동로 115 ",
+  "address": "경북 포항시 남구 원동로 115  ",
   "province": "경북",
   "city": "포항시",
   "phone": "054-291-5566",
@@ -12,9 +12,10 @@
   ],
   "latitude": 35.973524,
   "longitude": 129.402059,
-  "updated_at": "2026-03-06T00:00:25.985417",
+  "updated_at": "2026-03-07T14:13:23.506084",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1214,
     1191,
     1175,
     1150,
@@ -25,5 +26,5 @@
     705
   ],
   "first_prize_count": 0,
-  "second_prize_count": 8
+  "second_prize_count": 9
 }

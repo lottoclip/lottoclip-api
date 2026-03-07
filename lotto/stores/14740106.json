@@ -1,7 +1,7 @@
 {
   "store_id": "14740106",
   "name": "복권명당 서부점",
-  "address": "경북 안동시  대안로 35 ",
+  "address": "경북 안동시 대안로 35  ",
   "province": "경북",
   "city": "안동시",
   "phone": null,
@@ -12,14 +12,15 @@
   ],
   "latitude": 36.565441,
   "longitude": 128.716598,
-  "updated_at": "2026-03-05T23:58:37.042925",
+  "updated_at": "2026-03-07T14:13:23.506318",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1214,
     1158,
     1117,
     1112,
     1006
   ],
   "first_prize_count": 0,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }

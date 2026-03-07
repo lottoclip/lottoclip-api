@@ -1,7 +1,7 @@
 {
   "store_id": "14141321",
-  "name": "수원역 13번 출구점",
-  "address": "경기 수원시 팔달구  덕영대로 907 1층 2호(매산로1가)",
+  "name": "수원역로또맛집",
+  "address": "경기 수원시 팔달구 덕영대로 907 1층 6호(매산로1가)  ",
   "province": "경기",
   "city": "수원시",
   "phone": null,
@@ -12,11 +12,13 @@
   ],
   "latitude": 37.267674,
   "longitude": 127.000509,
-  "updated_at": "2026-03-05T23:57:08.007323",
-  "first_prize_draws": [],
+  "updated_at": "2026-03-07T14:13:23.499061",
+  "first_prize_draws": [
+    1214
+  ],
   "second_prize_draws": [
     1137
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 1
 }

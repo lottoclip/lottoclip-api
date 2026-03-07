@@ -1,7 +1,7 @@
 {
   "store_id": "14190034",
   "name": "주택복권",
-  "address": "경기 이천시  영창로 187 ",
+  "address": "경기 이천시 영창로 187  ",
   "province": "경기",
   "city": "이천시",
   "phone": "031-636-5605",
@@ -10,11 +10,12 @@
   ],
   "latitude": 37.281433,
   "longitude": 127.443438,
-  "updated_at": "2026-03-05T23:56:06.780885",
+  "updated_at": "2026-03-07T14:13:23.496602",
   "first_prize_draws": [
     583
   ],
   "second_prize_draws": [
+    1214,
     1116,
     989,
     985,
@@ -28,5 +29,5 @@
     439
   ],
   "first_prize_count": 1,
-  "second_prize_count": 11
+  "second_prize_count": 12
 }

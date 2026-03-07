@@ -1,7 +1,7 @@
 {
   "store_id": "13090003",
   "name": "복권명당",
-  "address": "대전 중구  목중로 47 ",
+  "address": "대전 중구 목중로 47  ",
   "province": "대전",
   "city": "중구",
   "phone": "042-252-8979",
@@ -12,7 +12,7 @@
   ],
   "latitude": 36.33757,
   "longitude": 127.40925,
-  "updated_at": "2026-03-05T23:59:04.801159",
+  "updated_at": "2026-03-07T14:13:23.491471",
   "first_prize_draws": [
     1168,
     918,
@@ -20,6 +20,7 @@
     467
   ],
   "second_prize_draws": [
+    1214,
     1164,
     1150,
     1109,
@@ -33,5 +34,5 @@
     461
   ],
   "first_prize_count": 4,
-  "second_prize_count": 11
+  "second_prize_count": 12
 }

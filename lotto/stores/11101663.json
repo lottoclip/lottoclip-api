@@ -1,7 +1,7 @@
 {
   "store_id": "11101663",
   "name": "가로판매소",
-  "address": "서울 구로구  새말로 117-24 (신도림역2번출구)(구로동)",
+  "address": "서울 구로구 새말로 117-24 (신도림역2번출구)(구로동)  ",
   "province": "서울",
   "city": "구로구",
   "phone": "02-862-1615",
@@ -12,7 +12,7 @@
   ],
   "latitude": 37.506963,
   "longitude": 126.890295,
-  "updated_at": "2026-03-06T00:00:59.358431",
+  "updated_at": "2026-03-07T14:13:23.487268",
   "first_prize_draws": [
     1155,
     997,
@@ -23,6 +23,7 @@
     597
   ],
   "second_prize_draws": [
+    1214,
     1203,
     1202,
     1144,
@@ -53,5 +54,5 @@
     341
   ],
   "first_prize_count": 7,
-  "second_prize_count": 28
+  "second_prize_count": 29
 }

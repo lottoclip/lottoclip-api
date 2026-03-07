@@ -1,7 +1,7 @@
 {
   "store_id": "14141599",
   "name": "희망복권",
-  "address": "경기 평택시  만세로 1776 성경마트 동일건물",
+  "address": "경기 평택시 만세로 1776 성경마트 동일건물  ",
   "province": "경기",
   "city": "평택시",
   "phone": null,
@@ -12,12 +12,14 @@
   ],
   "latitude": 37.009361,
   "longitude": 127.107999,
-  "updated_at": "2026-03-05T23:54:19.737284",
-  "first_prize_draws": [],
+  "updated_at": "2026-03-07T14:13:23.493406",
+  "first_prize_draws": [
+    1214
+  ],
   "second_prize_draws": [
     1079,
     1057
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 2
 }

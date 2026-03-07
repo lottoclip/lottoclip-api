@@ -1,7 +1,7 @@
 {
   "store_id": "14140227",
   "name": "안성휴게소 복권판매점(부산방향)",
-  "address": "경기 안성시  경부고속도로 365 안성휴게소 하행선 내",
+  "address": "경기 안성시 경부고속도로 365 안성휴게소 하행선 내  ",
   "province": "경기",
   "city": "안성시",
   "phone": null,
@@ -12,13 +12,14 @@
   ],
   "latitude": 37.013092,
   "longitude": 127.145066,
-  "updated_at": "2026-03-06T00:00:16.248162",
+  "updated_at": "2026-03-07T14:13:23.497608",
   "first_prize_draws": [
     1154,
     1146,
     955
   ],
   "second_prize_draws": [
+    1214,
     1188,
     1182,
     1144,
@@ -33,5 +34,5 @@
     968
   ],
   "first_prize_count": 3,
-  "second_prize_count": 12
+  "second_prize_count": 13
 }

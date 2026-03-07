@@ -1,7 +1,7 @@
 {
   "store_id": "11110002",
   "name": "로또복권방",
-  "address": "서울 강남구  강남대로122길 50 103호",
+  "address": "서울 강남구 강남대로122길 50 103호  ",
   "province": "서울",
   "city": "강남구",
   "phone": "02-3444-7240",
@@ -12,12 +12,13 @@
   ],
   "latitude": 37.508858,
   "longitude": 127.027055,
-  "updated_at": "2026-03-05T23:59:43.103133",
+  "updated_at": "2026-03-07T14:13:23.487736",
   "first_prize_draws": [
     701,
     550
   ],
   "second_prize_draws": [
+    1214,
     1176,
     1136,
     1073,
@@ -41,5 +42,5 @@
     291
   ],
   "first_prize_count": 2,
-  "second_prize_count": 21
+  "second_prize_count": 22
 }

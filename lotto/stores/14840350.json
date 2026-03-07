@@ -1,7 +1,7 @@
 {
   "store_id": "14840350",
   "name": "터미널복권판매점",
-  "address": "경남 창원시 마산회원구  3·15대로 756 1층 102호(마산시외버스터미널)",
+  "address": "경남 창원시 마산회원구 3·15대로 756 1층 102호(마산시외버스터미널)  ",
   "province": "경남",
   "city": "창원시",
   "phone": null,
@@ -12,14 +12,15 @@
   ],
   "latitude": 35.239157,
   "longitude": 128.583531,
-  "updated_at": "2026-03-06T00:00:54.203052",
+  "updated_at": "2026-03-07T14:13:23.508220",
   "first_prize_draws": [
+    1214,
     1201
   ],
   "second_prize_draws": [
     1055,
     1016
   ],
-  "first_prize_count": 1,
+  "first_prize_count": 2,
   "second_prize_count": 2
 }
