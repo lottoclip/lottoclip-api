@@ -1,7 +1,7 @@
 {
   "store_id": "14740075",
   "name": "왕릉복권",
-  "address": "경북 고령군  왕릉로 102 1층  복권방",
+  "address": "경북 고령군 왕릉로 102 1층  복권방  ",
   "province": "경북",
   "city": "고령군",
   "phone": null,
@@ -12,14 +12,16 @@
   ],
   "latitude": 35.728679,
   "longitude": 128.267042,
-  "updated_at": "2026-03-05T23:57:38.421601",
-  "first_prize_draws": [],
+  "updated_at": "2026-03-14T13:16:24.111956",
+  "first_prize_draws": [
+    1215
+  ],
   "second_prize_draws": [
     1148,
     1118,
     995,
     980
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 4
 }

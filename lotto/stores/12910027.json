@@ -1,7 +1,7 @@
 {
   "store_id": "12910027",
   "name": "차밍플라워 로또",
-  "address": "광주 광산구  풍영로 41 동구빌딩1층",
+  "address": "광주 광산구 풍영로 41 동구빌딩1층  ",
   "province": "광주",
   "city": "광산구",
   "phone": "062-956-3366",
@@ -12,8 +12,9 @@
   ],
   "latitude": 35.175619,
   "longitude": 126.811586,
-  "updated_at": "2026-03-06T00:00:56.507383",
+  "updated_at": "2026-03-14T13:16:24.099763",
   "first_prize_draws": [
+    1215,
     1136,
     976,
     797
@@ -35,6 +36,6 @@
     366,
     294
   ],
-  "first_prize_count": 3,
+  "first_prize_count": 4,
   "second_prize_count": 15
 }

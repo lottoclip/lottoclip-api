@@ -1,7 +1,7 @@
 {
   "store_id": "14500143",
   "name": "혜성프라자",
-  "address": "전북 익산시  함열중앙로 10 ",
+  "address": "전북 익산시 함열중앙로 10  ",
   "province": "전북",
   "city": "익산시",
   "phone": "063-862-1900",
@@ -12,11 +12,12 @@
   ],
   "latitude": 36.078931,
   "longitude": 126.9585,
-  "updated_at": "2026-03-05T23:59:02.521815",
+  "updated_at": "2026-03-14T13:16:24.109977",
   "first_prize_draws": [
     430
   ],
   "second_prize_draws": [
+    1215,
     1167,
     1163,
     1104,
@@ -29,5 +30,5 @@
     466
   ],
   "first_prize_count": 1,
-  "second_prize_count": 10
+  "second_prize_count": 11
 }

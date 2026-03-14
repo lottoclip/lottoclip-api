@@ -1,7 +1,7 @@
 {
   "store_id": "14290006",
   "name": "주택복권방",
-  "address": "강원 원주시  우산초교길 29 1층",
+  "address": "강원 원주시 우산초교길 29 1층  ",
   "province": "강원",
   "city": "원주시",
   "phone": "033-744-0410",
@@ -12,7 +12,7 @@
   ],
   "latitude": 37.367352,
   "longitude": 127.937901,
-  "updated_at": "2026-03-06T00:00:37.876783",
+  "updated_at": "2026-03-14T13:16:24.106004",
   "first_prize_draws": [
     1143,
     1123,
@@ -21,6 +21,7 @@
     917
   ],
   "second_prize_draws": [
+    1215,
     1195,
     1194,
     1147,
@@ -35,5 +36,5 @@
     315
   ],
   "first_prize_count": 5,
-  "second_prize_count": 12
+  "second_prize_count": 13
 }

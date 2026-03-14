@@ -1,7 +1,7 @@
 {
   "store_id": "14310083",
   "name": "로또스튜디오",
-  "address": "충북 청주시 청원구  사뜸로 48-1 1층",
+  "address": "충북 청주시 청원구 사뜸로 48-1 1층  ",
   "province": "충북",
   "city": "청주시",
   "phone": "043-216-3927",
@@ -12,7 +12,7 @@
   ],
   "latitude": 36.666543,
   "longitude": 127.481482,
-  "updated_at": "2026-03-06T00:00:05.451551",
+  "updated_at": "2026-03-14T13:16:24.107147",
   "first_prize_draws": [
     1133,
     1068,
@@ -20,6 +20,7 @@
     661
   ],
   "second_prize_draws": [
+    1215,
     1184,
     1160,
     1099,
@@ -30,5 +31,5 @@
     754
   ],
   "first_prize_count": 4,
-  "second_prize_count": 8
+  "second_prize_count": 9
 }

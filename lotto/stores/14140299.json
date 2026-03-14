@@ -1,7 +1,7 @@
 {
   "store_id": "14140299",
   "name": "씨유 포천인생역전점",
-  "address": "경기 포천시  호국로 2538 ",
+  "address": "경기 포천시 호국로 2538  ",
   "province": "경기",
   "city": "포천시",
   "phone": null,
@@ -12,8 +12,10 @@
   ],
   "latitude": 37.970842,
   "longitude": 127.249846,
-  "updated_at": "2026-03-06T00:00:48.396574",
-  "first_prize_draws": [],
+  "updated_at": "2026-03-14T13:16:24.101595",
+  "first_prize_draws": [
+    1215
+  ],
   "second_prize_draws": [
     1199,
     1148,
@@ -25,6 +27,6 @@
     879,
     813
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 9
 }

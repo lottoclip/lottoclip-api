@@ -1,7 +1,7 @@
 {
   "store_id": "14800055",
   "name": "창성로또",
-  "address": "경남 창원시 성산구  원이대로863번길 19 2단지상가 108호",
+  "address": "경남 창원시 성산구 원이대로863번길 19 2단지상가 108호  ",
   "province": "경남",
   "city": "창원시",
   "phone": "055-284-7222",
@@ -12,9 +12,10 @@
   ],
   "latitude": 35.209185,
   "longitude": 128.698632,
-  "updated_at": "2026-03-06T00:00:38.001987",
+  "updated_at": "2026-03-14T13:16:24.112409",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1215,
     1195,
     1194,
     1190,
@@ -26,5 +27,5 @@
     369
   ],
   "first_prize_count": 0,
-  "second_prize_count": 9
+  "second_prize_count": 10
 }

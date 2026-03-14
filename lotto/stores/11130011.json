@@ -1,7 +1,7 @@
 {
   "store_id": "11130011",
   "name": "행운사",
-  "address": "서울 노원구  석계로 8-1 1층",
+  "address": "서울 노원구 석계로 8-1 1층  ",
   "province": "서울",
   "city": "노원구",
   "phone": "02-6402-9797",
@@ -12,11 +12,12 @@
   ],
   "latitude": 37.615678,
   "longitude": 127.064676,
-  "updated_at": "2026-03-05T23:59:02.017989",
+  "updated_at": "2026-03-14T13:16:24.096224",
   "first_prize_draws": [
     1060
   ],
   "second_prize_draws": [
+    1215,
     1167,
     1160,
     1143,
@@ -27,5 +28,5 @@
     875
   ],
   "first_prize_count": 1,
-  "second_prize_count": 8
+  "second_prize_count": 9
 }

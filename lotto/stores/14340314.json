@@ -1,7 +1,7 @@
 {
   "store_id": "14340314",
   "name": "도깨비로또",
-  "address": "충북 충주시  충원대로 1680 1층",
+  "address": "충북 충주시 충원대로 1680 1층  ",
   "province": "충북",
   "city": "충주시",
   "phone": null,
@@ -12,11 +12,12 @@
   ],
   "latitude": 37.072836,
   "longitude": 127.932517,
-  "updated_at": "2026-03-05T23:58:34.099647",
+  "updated_at": "2026-03-14T13:16:24.106689",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1215,
     1157
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

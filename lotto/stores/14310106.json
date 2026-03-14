@@ -1,7 +1,7 @@
 {
   "store_id": "14310106",
   "name": "로또명당",
-  "address": "충북 진천군  중앙북로 61 ",
+  "address": "충북 진천군 생거진천로 1401 휴게소내  ",
   "province": "충북",
   "city": "진천군",
   "phone": null,
@@ -12,11 +12,12 @@
   ],
   "latitude": 36.871677,
   "longitude": 127.433159,
-  "updated_at": "2026-03-05T23:58:43.045783",
+  "updated_at": "2026-03-14T13:16:24.107378",
   "first_prize_draws": [
     288
   ],
   "second_prize_draws": [
+    1215,
     1160,
     1139,
     1028,
@@ -33,5 +34,5 @@
     296
   ],
   "first_prize_count": 1,
-  "second_prize_count": 14
+  "second_prize_count": 15
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "13120012",
   "name": "준복권방",
-  "address": "울산 북구 명촌동(효문동) 790-1 평창리비에르2차상가 105호",
+  "address": "울산 북구 명촌로 85 평창리비에르2차상가 105호  ",
   "province": "울산",
   "city": "북구",
   "phone": "052-289-6588",
@@ -12,14 +12,15 @@
   ],
   "latitude": 35.551852,
   "longitude": 129.353522,
-  "updated_at": "2026-03-05T23:39:27.473562",
+  "updated_at": "2026-03-14T13:16:24.100232",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1215,
     803,
     721,
     697,
     682
   ],
   "first_prize_count": 0,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }

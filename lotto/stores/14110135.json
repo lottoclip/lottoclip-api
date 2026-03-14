@@ -1,7 +1,7 @@
 {
   "store_id": "14110135",
   "name": "로또나라",
-  "address": "경기 파주시  자유로 2212 ",
+  "address": "경기 파주시 자유로 2212  ",
   "province": "경기",
   "city": "파주시",
   "phone": null,
@@ -12,12 +12,13 @@
   ],
   "latitude": 37.700042,
   "longitude": 126.683769,
-  "updated_at": "2026-03-05T23:57:32.471950",
+  "updated_at": "2026-03-14T13:16:24.102053",
   "first_prize_draws": [
     970,
     605
   ],
   "second_prize_draws": [
+    1215,
     1146,
     1097,
     987,
@@ -42,5 +43,5 @@
     287
   ],
   "first_prize_count": 2,
-  "second_prize_count": 22
+  "second_prize_count": 23
 }

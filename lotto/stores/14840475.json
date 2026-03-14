@@ -1,7 +1,7 @@
 {
   "store_id": "14840475",
   "name": "제이에이치마켓",
-  "address": "경남 창원시 의창구  의창대로 914 ",
+  "address": "경남 창원시 의창구 의창대로 914  ",
   "province": "경남",
   "city": "창원시",
   "phone": null,
@@ -12,11 +12,13 @@
   ],
   "latitude": 35.278957,
   "longitude": 128.690462,
-  "updated_at": "2026-03-06T00:00:54.197930",
+  "updated_at": "2026-03-14T13:16:24.112194",
   "first_prize_draws": [
     1201
   ],
-  "second_prize_draws": [],
+  "second_prize_draws": [
+    1215
+  ],
   "first_prize_count": 1,
-  "second_prize_count": 0
+  "second_prize_count": 1
 }

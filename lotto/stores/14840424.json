@@ -1,7 +1,7 @@
 {
   "store_id": "14840424",
   "name": "강남로또판매점",
-  "address": "경남 거창군  거창대로 32 1층",
+  "address": "경남 거창군 거창대로 32 1층  ",
   "province": "경남",
   "city": "거창군",
   "phone": null,
@@ -12,12 +12,13 @@
   ],
   "latitude": 35.684604,
   "longitude": 127.917411,
-  "updated_at": "2026-03-05T23:58:23.224391",
+  "updated_at": "2026-03-14T13:16:24.114157",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1215,
     1153,
     1129
   ],
   "first_prize_count": 0,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

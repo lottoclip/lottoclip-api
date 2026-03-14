@@ -1,7 +1,7 @@
 {
   "store_id": "11101435",
   "name": "복권랜드",
-  "address": "서울 도봉구  도당로 143 대원제니스빌 1층 101호",
+  "address": "서울 도봉구 도당로 143 1층 101호  ",
   "province": "서울",
   "city": "도봉구",
   "phone": "02-3492-2010",
@@ -12,9 +12,10 @@
   ],
   "latitude": 37.667338,
   "longitude": 127.042153,
-  "updated_at": "2026-03-05T23:54:59.840896",
+  "updated_at": "2026-03-14T13:16:24.096024",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1215,
     1093,
     980,
     858,
@@ -22,5 +23,5 @@
     398
   ],
   "first_prize_count": 0,
-  "second_prize_count": 5
+  "second_prize_count": 6
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14810062",
   "name": "꿈의가게",
-  "address": "경남 김해시  계동로 220 102호 복권판매점",
+  "address": "경남 김해시 계동로 220 102호 복권판매점  ",
   "province": "경남",
   "city": "김해시",
   "phone": null,
@@ -12,8 +12,9 @@
   ],
   "latitude": 35.190304,
   "longitude": 128.802199,
-  "updated_at": "2026-03-06T00:01:00.148800",
+  "updated_at": "2026-03-14T13:16:24.113815",
   "first_prize_draws": [
+    1215,
     921,
     546
   ],
@@ -26,6 +27,6 @@
     310,
     268
   ],
-  "first_prize_count": 2,
+  "first_prize_count": 3,
   "second_prize_count": 7
 }

@@ -1,6 +1,28 @@
 {
   "draws": [
     {
+      "draw_no": 1215,
+      "draw_date": "2026-03-14",
+      "file": "draws/lotto_1215.json",
+      "numbers": [
+        13,
+        15,
+        19,
+        21,
+        44,
+        45
+      ],
+      "bonus_number": 39,
+      "prize_info": [
+        {
+          "rank": "1등",
+          "total_prize": "31976674128",
+          "winner_count": "16",
+          "prize_per_winner": "1998542133"
+        }
+      ]
+    },
+    {
       "draw_no": 1214,
       "draw_date": "2026-03-07",
       "file": "draws/lotto_1214.json",
@@ -26709,5 +26731,5 @@
       ]
     }
   ],
-  "last_updated": "2026-03-07T14:13:24.064600"
+  "last_updated": "2026-03-14T13:16:24.663925"
 }

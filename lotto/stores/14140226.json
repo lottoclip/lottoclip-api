@@ -1,7 +1,7 @@
 {
   "store_id": "14140226",
   "name": "행운복권방",
-  "address": "경기 안성시  서동대로 7184 103호",
+  "address": "경기 안성시 서동대로 7184 103호  ",
   "province": "경기",
   "city": "안성시",
   "phone": null,
@@ -12,13 +12,14 @@
   ],
   "latitude": 37.083485,
   "longitude": 127.448035,
-  "updated_at": "2026-03-06T00:00:37.800400",
+  "updated_at": "2026-03-14T13:16:24.102749",
   "first_prize_draws": [
     1037,
     944,
     872
   ],
   "second_prize_draws": [
+    1215,
     1195,
     1175,
     1089,
@@ -34,5 +35,5 @@
     864
   ],
   "first_prize_count": 3,
-  "second_prize_count": 13
+  "second_prize_count": 14
 }

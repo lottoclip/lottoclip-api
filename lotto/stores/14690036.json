@@ -1,7 +1,7 @@
 {
   "store_id": "14690036",
   "name": "로또마트",
-  "address": "전남 목포시  통일대로75번길 10 부영아파트상가109호",
+  "address": "전남 목포시 통일대로75번길 10 부영아파트상가109호  ",
   "province": "전남",
   "city": "목포시",
   "phone": "061-281-6666",
@@ -12,11 +12,12 @@
   ],
   "latitude": 34.80206,
   "longitude": 126.432567,
-  "updated_at": "2026-03-05T23:53:38.869757",
+  "updated_at": "2026-03-14T13:16:24.111138",
   "first_prize_draws": [
     317
   ],
   "second_prize_draws": [
+    1215,
     1065,
     1037,
     1031,
@@ -38,5 +39,5 @@
     347
   ],
   "first_prize_count": 1,
-  "second_prize_count": 19
+  "second_prize_count": 20
 }
