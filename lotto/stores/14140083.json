@@ -1,7 +1,7 @@
 {
   "store_id": "14140083",
   "name": "이충복권방",
-  "address": "경기 평택시  송탄로 108 1층103호",
+  "address": "경기 평택시 송탄로 108 1층103호  ",
   "province": "경기",
   "city": "평택시",
   "phone": null,
@@ -12,12 +12,13 @@
   ],
   "latitude": 37.054465,
   "longitude": 127.056068,
-  "updated_at": "2026-03-05T23:59:46.187164",
+  "updated_at": "2026-03-21T13:13:36.368802",
   "first_prize_draws": [
     1111,
     1041
   ],
   "second_prize_draws": [
+    1216,
     1177,
     1172,
     1057,
@@ -26,5 +27,5 @@
     851
   ],
   "first_prize_count": 2,
-  "second_prize_count": 6
+  "second_prize_count": 7
 }

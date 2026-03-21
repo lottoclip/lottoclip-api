@@ -1,7 +1,7 @@
 {
   "store_id": "11140866",
   "name": "싹쓸이 로또",
-  "address": "서울 마포구  양화로 59 101호(서교동)",
+  "address": "서울 마포구 양화로 59 101호(서교동)  ",
   "province": "서울",
   "city": "마포구",
   "phone": null,
@@ -12,13 +12,14 @@
   ],
   "latitude": 37.550659,
   "longitude": 126.914885,
-  "updated_at": "2026-03-06T00:00:42.993066",
+  "updated_at": "2026-03-21T13:13:36.360643",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1216,
     1197,
     1158,
     1118
   ],
   "first_prize_count": 0,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

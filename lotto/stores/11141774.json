@@ -1,7 +1,7 @@
 {
   "store_id": "11141774",
   "name": "방이먹자골목 천하명당 일등복권",
-  "address": "서울 송파구  오금로11길 24 제1층 주차장 옆",
+  "address": "서울 송파구 오금로11길 24 제1층 주차장 옆  ",
   "province": "서울",
   "city": "송파구",
   "phone": null,
@@ -12,14 +12,15 @@
   ],
   "latitude": 37.514875,
   "longitude": 127.109814,
-  "updated_at": "2026-03-06T00:01:02.226873",
+  "updated_at": "2026-03-21T13:13:36.357446",
   "first_prize_draws": [
     1204
   ],
   "second_prize_draws": [
+    1216,
     1170,
     1148
   ],
   "first_prize_count": 1,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

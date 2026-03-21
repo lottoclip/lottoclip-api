@@ -1,7 +1,7 @@
 {
   "store_id": "12800045",
   "name": "복슈퍼",
-  "address": "인천 계양구  계산로108번길 4 ",
+  "address": "인천 계양구 계산로108번길 4  ",
   "province": "인천",
   "city": "계양구",
   "phone": "032-551-6829",
@@ -12,12 +12,13 @@
   ],
   "latitude": 37.537194,
   "longitude": 126.724081,
-  "updated_at": "2026-03-06T00:00:19.120476",
+  "updated_at": "2026-03-21T13:13:36.365622",
   "first_prize_draws": [
     1063,
     909
   ],
   "second_prize_draws": [
+    1216,
     1189,
     1105,
     997,
@@ -29,5 +30,5 @@
     435
   ],
   "first_prize_count": 2,
-  "second_prize_count": 9
+  "second_prize_count": 10
 }

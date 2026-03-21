@@ -1,7 +1,7 @@
 {
   "store_id": "14140236",
   "name": "나눔로또",
-  "address": "경기 김포시  양곡로 531 ",
+  "address": "경기 김포시 양곡로 531 좌동  ",
   "province": "경기",
   "city": "김포시",
   "phone": null,
@@ -12,9 +12,10 @@
   ],
   "latitude": 37.65493,
   "longitude": 126.624199,
-  "updated_at": "2026-03-05T23:55:39.647832",
+  "updated_at": "2026-03-21T13:13:36.373012",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1216,
     1107,
     1038,
     1002,
@@ -22,5 +23,5 @@
     909
   ],
   "first_prize_count": 0,
-  "second_prize_count": 5
+  "second_prize_count": 6
 }

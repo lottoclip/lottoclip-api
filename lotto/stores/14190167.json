@@ -1,7 +1,7 @@
 {
   "store_id": "14190167",
   "name": "봉담복자리복권과편의점",
-  "address": "경기 화성시  삼천병마로 1276 ",
+  "address": "경기 화성시 삼천병마로 1276  ",
   "province": "경기",
   "city": "화성시",
   "phone": "031-227-0071",
@@ -12,11 +12,12 @@
   ],
   "latitude": 37.219655,
   "longitude": 126.948774,
-  "updated_at": "2026-03-05T23:59:51.364634",
+  "updated_at": "2026-03-21T13:13:36.367753",
   "first_prize_draws": [
     548
   ],
   "second_prize_draws": [
+    1216,
     1179,
     1140,
     1088,
@@ -36,5 +37,5 @@
     285
   ],
   "first_prize_count": 1,
-  "second_prize_count": 17
+  "second_prize_count": 18
 }

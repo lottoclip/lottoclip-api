@@ -1,7 +1,7 @@
 {
   "store_id": "14290054",
   "name": "복권마트 & 씨스페이스 홍천점",
-  "address": "강원 홍천군  홍천로 409 1층",
+  "address": "강원 홍천군 홍천로 409 1층  ",
   "province": "강원",
   "city": "홍천군",
   "phone": "033-432-7440",
@@ -12,7 +12,7 @@
   ],
   "latitude": 37.690258,
   "longitude": 127.889472,
-  "updated_at": "2026-03-06T00:00:40.596332",
+  "updated_at": "2026-03-21T13:13:36.373931",
   "first_prize_draws": [
     1186,
     1045,
@@ -22,6 +22,7 @@
     513
   ],
   "second_prize_draws": [
+    1216,
     1196,
     1193,
     1170,
@@ -48,5 +49,5 @@
     689
   ],
   "first_prize_count": 6,
-  "second_prize_count": 24
+  "second_prize_count": 25
 }

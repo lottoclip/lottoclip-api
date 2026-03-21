@@ -1,7 +1,7 @@
 {
   "store_id": "13000084",
   "name": "복권전문판매점",
-  "address": "대전 동구  가양로 104 ",
+  "address": "대전 동구 매봉로 25-1  ",
   "province": "대전",
   "city": "동구",
   "phone": "042-673-8937",
@@ -12,12 +12,13 @@
   ],
   "latitude": 36.345519,
   "longitude": 127.44271,
-  "updated_at": "2026-03-05T23:58:30.762378",
+  "updated_at": "2026-03-21T13:13:36.367004",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1216,
     1156,
     956
   ],
   "first_prize_count": 0,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

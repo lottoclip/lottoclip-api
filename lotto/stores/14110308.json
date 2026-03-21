@@ -1,7 +1,7 @@
 {
   "store_id": "14110308",
   "name": "서울로또",
-  "address": "경기 의정부시  신흥로 93 ",
+  "address": "경기 의정부시 신흥로 93  ",
   "province": "경기",
   "city": "의정부시",
   "phone": "031-871-9371",
@@ -12,8 +12,10 @@
   ],
   "latitude": 37.724427,
   "longitude": 127.043527,
-  "updated_at": "2026-03-05T23:51:28.229722",
-  "first_prize_draws": [],
+  "updated_at": "2026-03-21T13:13:36.370460",
+  "first_prize_draws": [
+    1216
+  ],
   "second_prize_draws": [
     1028,
     999,
@@ -21,6 +23,6 @@
     745,
     659
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 5
 }

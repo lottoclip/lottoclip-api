@@ -1,7 +1,7 @@
 {
   "store_id": "14141049",
   "name": "굿샷",
-  "address": "경기 고양시 일산동구  위시티로 49 104호",
+  "address": "경기 고양시 일산동구 위시티로 49 104호  ",
   "province": "경기",
   "city": "고양시",
   "phone": null,
@@ -12,11 +12,13 @@
   ],
   "latitude": 37.676719,
   "longitude": 126.809846,
-  "updated_at": "2026-03-05T23:57:08.139790",
+  "updated_at": "2026-03-21T13:13:36.373580",
   "first_prize_draws": [
     1137
   ],
-  "second_prize_draws": [],
+  "second_prize_draws": [
+    1216
+  ],
   "first_prize_count": 1,
-  "second_prize_count": 0
+  "second_prize_count": 1
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14440136",
   "name": "황금로또",
-  "address": "충남 보령시  원평1길 55 ",
+  "address": "충남 보령시 원평1길 55  ",
   "province": "충남",
   "city": "보령시",
   "phone": null,
@@ -12,13 +12,14 @@
   ],
   "latitude": 36.354999,
   "longitude": 126.616221,
-  "updated_at": "2026-03-05T23:52:12.884382",
+  "updated_at": "2026-03-21T13:13:36.375330",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1216,
     1042,
     949,
     934
   ],
   "first_prize_count": 0,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14110146",
   "name": "L마트",
-  "address": "경기 평택시  안청로 340 케이디프라자 제1층 114호",
+  "address": "경기 평택시 안청로 340 케이디프라자 제1층 114호  ",
   "province": "경기",
   "city": "평택시",
   "phone": null,
@@ -12,9 +12,10 @@
   ],
   "latitude": 37.0183,
   "longitude": 126.915642,
-  "updated_at": "2026-03-05T23:54:30.779034",
+  "updated_at": "2026-03-21T13:13:36.368427",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1216,
     1083,
     1082,
     1060,
@@ -34,5 +35,5 @@
     433
   ],
   "first_prize_count": 0,
-  "second_prize_count": 17
+  "second_prize_count": 18
 }

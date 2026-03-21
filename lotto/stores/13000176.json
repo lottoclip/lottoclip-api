@@ -1,7 +1,7 @@
 {
   "store_id": "13000176",
   "name": "플러스복권",
-  "address": "대전 서구  대덕대로168번길 82 웰리움 편의점 내",
+  "address": "대전 서구 대덕대로168번길 82 편의점 내  ",
   "province": "대전",
   "city": "서구",
   "phone": "042-525-0460",
@@ -12,11 +12,12 @@
   ],
   "latitude": 36.34499,
   "longitude": 127.378751,
-  "updated_at": "2026-03-05T23:54:28.242927",
+  "updated_at": "2026-03-21T13:13:36.366819",
   "first_prize_draws": [
     278
   ],
   "second_prize_draws": [
+    1216,
     1082,
     837,
     461,
@@ -24,5 +25,5 @@
     317
   ],
   "first_prize_count": 1,
-  "second_prize_count": 5
+  "second_prize_count": 6
 }

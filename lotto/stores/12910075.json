@@ -1,7 +1,7 @@
 {
   "store_id": "12910075",
   "name": "예스로또복권",
-  "address": "광주 남구  대남대로 51 ",
+  "address": "광주 남구 대남대로 51  ",
   "province": "광주",
   "city": "남구",
   "phone": "062-433-6009",
@@ -12,12 +12,13 @@
   ],
   "latitude": 35.136013,
   "longitude": 126.918888,
-  "updated_at": "2026-03-05T23:53:53.258356",
+  "updated_at": "2026-03-21T13:13:36.366229",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1216,
     1070,
     978
   ],
   "first_prize_count": 0,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

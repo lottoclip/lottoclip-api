@@ -1,7 +1,7 @@
 {
   "store_id": "11190018",
   "name": "대박복권마을",
-  "address": "서울 영등포구  당산로 140 ",
+  "address": "서울 영등포구 당산로 140  ",
   "province": "서울",
   "city": "영등포구",
   "phone": "02-2632-9780",
@@ -12,11 +12,12 @@
   ],
   "latitude": 37.527055,
   "longitude": 126.89711,
-  "updated_at": "2026-03-06T00:00:18.763893",
+  "updated_at": "2026-03-21T13:13:36.356927",
   "first_prize_draws": [
     934
   ],
   "second_prize_draws": [
+    1216,
     1189,
     942,
     887,
@@ -30,5 +31,5 @@
     386
   ],
   "first_prize_count": 1,
-  "second_prize_count": 11
+  "second_prize_count": 12
 }

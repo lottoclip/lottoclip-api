@@ -1,7 +1,7 @@
 {
   "store_id": "12900017",
   "name": "노다지복권방백운점",
-  "address": "광주 남구  서문대로 827 봉선주월대라수어썸브릿지상가동107호",
+  "address": "광주 남구 서문대로 827 봉선주월대라수어썸브릿지상가동107호  ",
   "province": "광주",
   "city": "남구",
   "phone": "062-673-0052",
@@ -12,11 +12,12 @@
   ],
   "latitude": 35.131968,
   "longitude": 126.900178,
-  "updated_at": "2026-03-05T23:59:48.623585",
+  "updated_at": "2026-03-21T13:13:36.366416",
   "first_prize_draws": [
     1125
   ],
   "second_prize_draws": [
+    1216,
     1178,
     1126,
     994,
@@ -24,5 +25,5 @@
     464
   ],
   "first_prize_count": 1,
-  "second_prize_count": 5
+  "second_prize_count": 6
 }

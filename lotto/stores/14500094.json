@@ -1,7 +1,7 @@
 {
   "store_id": "14500094",
   "name": "대흥슈퍼",
-  "address": "전북 익산시  익산대로20길 43 ",
+  "address": "전북 익산시 익산대로20길 43  ",
   "province": "전북",
   "city": "익산시",
   "phone": "063-855-0372",
@@ -12,11 +12,12 @@
   ],
   "latitude": 35.941714,
   "longitude": 126.952849,
-  "updated_at": "2026-03-05T23:51:19.939610",
+  "updated_at": "2026-03-21T13:13:36.375901",
   "first_prize_draws": [
     722
   ],
   "second_prize_draws": [
+    1216,
     1025,
     780,
     567,
@@ -24,5 +25,5 @@
     274
   ],
   "first_prize_count": 1,
-  "second_prize_count": 5
+  "second_prize_count": 6
 }

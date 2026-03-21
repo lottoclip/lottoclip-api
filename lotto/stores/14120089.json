@@ -1,7 +1,7 @@
 {
   "store_id": "14120089",
   "name": "로또가게",
-  "address": "경기 용인시 처인구  경기동로706번길 1 ",
+  "address": "경기 용인시 처인구 경기동로706번길 1  ",
   "province": "경기",
   "city": "용인시",
   "phone": null,
@@ -12,11 +12,12 @@
   ],
   "latitude": 37.13827,
   "longitude": 127.19789,
-  "updated_at": "2026-03-05T23:58:19.939512",
+  "updated_at": "2026-03-21T13:13:36.370822",
   "first_prize_draws": [
     657
   ],
   "second_prize_draws": [
+    1216,
     1152,
     1150,
     1000,
@@ -24,5 +25,5 @@
     672
   ],
   "first_prize_count": 1,
-  "second_prize_count": 5
+  "second_prize_count": 6
 }

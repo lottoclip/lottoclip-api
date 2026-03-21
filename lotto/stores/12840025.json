@@ -1,7 +1,7 @@
 {
   "store_id": "12840025",
   "name": "운수대통",
-  "address": "인천 부평구  동암광장로 6 1층 A호",
+  "address": "인천 부평구 동암광장로 6 1층 A호  ",
   "province": "인천",
   "city": "부평구",
   "phone": null,
@@ -12,7 +12,7 @@
   ],
   "latitude": 37.470838,
   "longitude": 126.702169,
-  "updated_at": "2026-03-06T00:00:48.275412",
+  "updated_at": "2026-03-21T13:13:36.364803",
   "first_prize_draws": [
     1118,
     1016,
@@ -20,6 +20,7 @@
     806
   ],
   "second_prize_draws": [
+    1216,
     1199,
     1169,
     1124,
@@ -42,5 +43,5 @@
     806
   ],
   "first_prize_count": 4,
-  "second_prize_count": 20
+  "second_prize_count": 21
 }

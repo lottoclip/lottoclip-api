@@ -1,7 +1,7 @@
 {
   "store_id": "14590021",
   "name": "부안복권방",
-  "address": "전북 부안군  번영로 135 ",
+  "address": "전북 부안군 번영로 135  ",
   "province": "전북",
   "city": "부안군",
   "phone": "063-581-3256",
@@ -12,12 +12,13 @@
   ],
   "latitude": 35.726229,
   "longitude": 126.735427,
-  "updated_at": "2026-03-06T00:00:35.231259",
+  "updated_at": "2026-03-21T13:13:36.376082",
   "first_prize_draws": [
     1194,
     1027
   ],
   "second_prize_draws": [
+    1216,
     1193,
     1151,
     1073,
@@ -30,5 +31,5 @@
     513
   ],
   "first_prize_count": 2,
-  "second_prize_count": 10
+  "second_prize_count": 11
 }

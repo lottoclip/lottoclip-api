@@ -1,7 +1,7 @@
 {
   "store_id": "14500135",
   "name": "로또편의점",
-  "address": "전북 전주시 덕진구  아중로 173 ",
+  "address": "전북 전주시 덕진구 아중로 173  ",
   "province": "전북",
   "city": "전주시",
   "phone": "063-241-7754",
@@ -12,13 +12,14 @@
   ],
   "latitude": 35.827096,
   "longitude": 127.168296,
-  "updated_at": "2026-03-05T23:58:02.541615",
+  "updated_at": "2026-03-21T13:13:36.375509",
   "first_prize_draws": [
     1125,
     849,
     762
   ],
   "second_prize_draws": [
+    1216,
     1151,
     1150,
     1145,
@@ -36,5 +37,5 @@
     306
   ],
   "first_prize_count": 3,
-  "second_prize_count": 15
+  "second_prize_count": 16
 }
