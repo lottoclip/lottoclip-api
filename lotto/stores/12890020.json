@@ -1,7 +1,7 @@
 {
   "store_id": "12890020",
   "name": "복권천국",
-  "address": "인천 남동구  석산로 120 ",
+  "address": "인천 남동구 석산로 120  ",
   "province": "인천",
   "city": "남동구",
   "phone": "032-424-6997",
@@ -12,12 +12,13 @@
   ],
   "latitude": 37.460194,
   "longitude": 126.705047,
-  "updated_at": "2026-03-05T23:50:18.277546",
+  "updated_at": "2026-03-28T13:28:56.027060",
   "first_prize_draws": [
     970,
     839
   ],
   "second_prize_draws": [
+    1217,
     1008,
     1003,
     932,
@@ -27,5 +28,5 @@
     301
   ],
   "first_prize_count": 2,
-  "second_prize_count": 7
+  "second_prize_count": 8
 }

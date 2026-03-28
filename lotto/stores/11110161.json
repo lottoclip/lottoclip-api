@@ -7,15 +7,17 @@
   "phone": null,
   "lottery_types": [
     "lotto645",
-    "pension720"
+    "pension720",
+    "speetto"
   ],
   "latitude": 37.598976,
   "longitude": 127.097613,
-  "updated_at": "2026-03-06T00:01:13.294766",
+  "updated_at": "2026-03-28T13:28:56.017164",
   "first_prize_draws": [
     1200
   ],
   "second_prize_draws": [
+    1217,
     1208,
     1199,
     1160,
@@ -31,5 +33,5 @@
     678
   ],
   "first_prize_count": 1,
-  "second_prize_count": 13
+  "second_prize_count": 14
 }

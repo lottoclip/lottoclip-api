@@ -1,7 +1,7 @@
 {
   "store_id": "14141027",
   "name": "대박로또점",
-  "address": "경기 화성시  발안로 101 108호",
+  "address": "경기 화성시 발안로 101 108호  ",
   "province": "경기",
   "city": "화성시",
   "phone": "031-353-2645",
@@ -12,8 +12,10 @@
   ],
   "latitude": 37.13174,
   "longitude": 126.92153,
-  "updated_at": "2026-03-06T00:00:22.317429",
-  "first_prize_draws": [],
+  "updated_at": "2026-03-28T13:28:56.030022",
+  "first_prize_draws": [
+    1217
+  ],
   "second_prize_draws": [
     1190,
     1172,
@@ -21,6 +23,6 @@
     959,
     956
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 5
 }

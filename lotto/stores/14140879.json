@@ -1,7 +1,7 @@
 {
   "store_id": "14140879",
   "name": "지니로또복권방",
-  "address": "경기 오산시  대호로 70 ",
+  "address": "경기 오산시 대호로 70  ",
   "province": "경기",
   "city": "오산시",
   "phone": null,
@@ -12,14 +12,15 @@
   ],
   "latitude": 37.15661,
   "longitude": 127.05448,
-  "updated_at": "2026-03-05T23:54:19.785850",
+  "updated_at": "2026-03-28T13:28:56.031393",
   "first_prize_draws": [
     1006
   ],
   "second_prize_draws": [
+    1217,
     1079,
     1022
   ],
   "first_prize_count": 1,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

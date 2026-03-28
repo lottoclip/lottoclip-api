@@ -1,7 +1,7 @@
 {
   "store_id": "14590033",
   "name": "Letsgo복권방(동산점)",
-  "address": "전북 전주시 덕진구  쪽구름로 57-1 ",
+  "address": "전북 전주시 덕진구 쪽구름로 57-1  ",
   "province": "전북",
   "city": "전주시",
   "phone": "063-213-2109",
@@ -10,13 +10,14 @@
   ],
   "latitude": 35.870601,
   "longitude": 127.076554,
-  "updated_at": "2026-03-05T23:56:07.095884",
+  "updated_at": "2026-03-28T13:28:56.036639",
   "first_prize_draws": [
     1116,
     904,
     620
   ],
   "second_prize_draws": [
+    1217,
     1077,
     1053,
     1032,
@@ -29,5 +30,5 @@
     395
   ],
   "first_prize_count": 3,
-  "second_prize_count": 10
+  "second_prize_count": 11
 }

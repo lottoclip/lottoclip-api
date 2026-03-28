@@ -1,7 +1,7 @@
 {
   "store_id": "12800169",
   "name": "드림복권방",
-  "address": "인천 중구  인중로 97-1 버스정류장 앞 GS편의점 옆",
+  "address": "인천 중구 인중로 97-1 버스정류장 앞 GS편의점 옆  ",
   "province": "인천",
   "city": "중구",
   "phone": "032-882-1800",
@@ -12,13 +12,14 @@
   ],
   "latitude": 37.464121,
   "longitude": 126.633091,
-  "updated_at": "2026-03-06T00:00:19.004824",
+  "updated_at": "2026-03-28T13:28:56.026122",
   "first_prize_draws": [
     1171,
     1079,
     863
   ],
   "second_prize_draws": [
+    1217,
     1189,
     1169,
     1153,
@@ -30,5 +31,5 @@
     393
   ],
   "first_prize_count": 3,
-  "second_prize_count": 9
+  "second_prize_count": 10
 }

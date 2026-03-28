@@ -1,7 +1,7 @@
 {
   "store_id": "11140767",
   "name": "금용",
-  "address": "서울 강북구  4.19로 1 1층",
+  "address": "서울 강북구 4.19로 1 1층  ",
   "province": "서울",
   "city": "강북구",
   "phone": null,
@@ -12,11 +12,12 @@
   ],
   "latitude": 37.648088,
   "longitude": 127.014074,
-  "updated_at": "2026-03-06T00:00:13.159396",
+  "updated_at": "2026-03-28T13:28:56.024604",
   "first_prize_draws": [
     1163
   ],
   "second_prize_draws": [
+    1217,
     1187,
     1167,
     1166,
@@ -25,5 +26,5 @@
     1047
   ],
   "first_prize_count": 1,
-  "second_prize_count": 6
+  "second_prize_count": 7
 }

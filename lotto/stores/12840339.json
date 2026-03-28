@@ -1,7 +1,7 @@
 {
   "store_id": "12840339",
   "name": "대박로또장",
-  "address": "인천 남동구  하촌로 49 제1호",
+  "address": "인천 남동구 하촌로 49 제1호  ",
   "province": "인천",
   "city": "남동구",
   "phone": null,
@@ -12,12 +12,13 @@
   ],
   "latitude": 37.452314,
   "longitude": 126.732617,
-  "updated_at": "2026-03-05T23:59:43.194368",
+  "updated_at": "2026-03-28T13:28:56.027253",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1217,
     1176,
     1118
   ],
   "first_prize_count": 0,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

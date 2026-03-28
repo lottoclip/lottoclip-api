@@ -1,7 +1,7 @@
 {
   "store_id": "14110663",
   "name": "평택포승점로또",
-  "address": "경기 평택시  여술로 24 CU편의점 내",
+  "address": "경기 평택시 여술로 24 CU편의점 내  ",
   "province": "경기",
   "city": "평택시",
   "phone": "031-682-9985",
@@ -12,8 +12,9 @@
   ],
   "latitude": 36.988069,
   "longitude": 126.845387,
-  "updated_at": "2026-03-06T00:00:53.829947",
+  "updated_at": "2026-03-28T13:28:56.030408",
   "first_prize_draws": [
+    1217,
     700,
     429
   ],
@@ -38,6 +39,6 @@
     466,
     423
   ],
-  "first_prize_count": 2,
+  "first_prize_count": 3,
   "second_prize_count": 19
 }

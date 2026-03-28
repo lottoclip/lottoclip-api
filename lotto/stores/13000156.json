@@ -1,7 +1,7 @@
 {
   "store_id": "13000156",
   "name": "대전우표사",
-  "address": "대전 동구  중앙로204번길 16-1 ",
+  "address": "대전 동구 중앙로204번길 16-1  ",
   "province": "대전",
   "city": "동구",
   "phone": "042-256-8415",
@@ -12,8 +12,9 @@
   ],
   "latitude": 36.330037,
   "longitude": 127.432072,
-  "updated_at": "2026-03-06T00:00:48.345541",
+  "updated_at": "2026-03-28T13:28:56.029600",
   "first_prize_draws": [
+    1217,
     1197,
     1165,
     1156,
@@ -40,6 +41,6 @@
     755,
     601
   ],
-  "first_prize_count": 6,
+  "first_prize_count": 7,
   "second_prize_count": 17
 }

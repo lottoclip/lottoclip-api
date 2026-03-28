@@ -1,7 +1,7 @@
 {
   "store_id": "14800103",
-  "name": "현동로또판매점",
-  "address": "경남 창원시 마산합포구  현동6길 18 1층 103호",
+  "name": "이마트24마산현동파크점",
+  "address": "경남 창원시 마산합포구 현동6길 18 1층 103호  ",
   "province": "경남",
   "city": "창원시",
   "phone": "055-224-2490",
@@ -12,9 +12,10 @@
   ],
   "latitude": 35.145887,
   "longitude": 128.555958,
-  "updated_at": "2026-03-05T23:56:09.968067",
+  "updated_at": "2026-03-28T13:28:56.038782",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1217,
     1117,
     942,
     716,
@@ -23,5 +24,5 @@
     499
   ],
   "first_prize_count": 0,
-  "second_prize_count": 6
+  "second_prize_count": 7
 }

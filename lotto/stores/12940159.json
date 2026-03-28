@@ -1,7 +1,7 @@
 {
   "store_id": "12940159",
   "name": "복권판매점",
-  "address": "광주 광산구  단전4길 10 상가 가동 107호",
+  "address": "광주 광산구 단전4길 10 상가 가동 107호  ",
   "province": "광주",
   "city": "광산구",
   "phone": null,
@@ -12,14 +12,15 @@
   ],
   "latitude": 35.180402,
   "longitude": 126.799341,
-  "updated_at": "2026-03-06T00:01:02.603760",
+  "updated_at": "2026-03-28T13:28:56.028834",
   "first_prize_draws": [
     1134
   ],
   "second_prize_draws": [
+    1217,
     1204,
     1103
   ],
   "first_prize_count": 1,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }
