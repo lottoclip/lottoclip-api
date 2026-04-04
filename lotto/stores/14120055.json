@@ -1,7 +1,7 @@
 {
   "store_id": "14120055",
   "name": "대박복권 안산휴게소점",
-  "address": "경기 안산시 단원구 영동고속도로 15 1층 (약국맞은편)  ",
+  "address": "경기 안산시 단원구 영동고속도로 15 1층 (푸드코트계산대 앞)  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,11 +10,12 @@
   ],
   "latitude": 37.350535,
   "longitude": 126.82022,
-  "updated_at": "2026-03-14T14:17:15.826673",
+  "updated_at": "2026-04-04T13:30:35.898117",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1218,
     1215
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

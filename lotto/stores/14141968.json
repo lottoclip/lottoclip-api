@@ -1,7 +1,7 @@
 {
   "store_id": "14141968",
   "name": "복권방",
-  "address": "경기 고양시 덕양구  통일로 1267 106호",
+  "address": "경기 고양시 덕양구 통일로 1267 106호  ",
   "province": "경기",
   "city": "고양시",
   "phone": null,
@@ -12,11 +12,12 @@
   ],
   "latitude": 37.725376,
   "longitude": 126.842665,
-  "updated_at": "2026-03-05T23:57:21.626736",
+  "updated_at": "2026-04-04T13:30:35.901137",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1218,
     1142
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

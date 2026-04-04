@@ -1,7 +1,7 @@
 {
   "store_id": "14141998",
   "name": "지바",
-  "address": "경기 광명시  금당로 36 1층 126호(하안동)",
+  "address": "경기 광명시 금당로 36 1층 118호  ",
   "province": "경기",
   "city": "광명시",
   "phone": null,
@@ -12,11 +12,13 @@
   ],
   "latitude": 37.45919,
   "longitude": 126.88237,
-  "updated_at": "2026-03-05T23:55:02.911854",
-  "first_prize_draws": [],
+  "updated_at": "2026-04-04T13:30:35.900931",
+  "first_prize_draws": [
+    1218
+  ],
   "second_prize_draws": [
     1094
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 1
 }

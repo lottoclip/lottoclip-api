@@ -1,7 +1,7 @@
 {
   "store_id": "14140005",
   "name": "로또복권편의점",
-  "address": "경기 수원시 권선구  세류로 51 1층",
+  "address": "경기 수원시 권선구 세류로 51 1층  ",
   "province": "경기",
   "city": "수원시",
   "phone": null,
@@ -12,13 +12,15 @@
   ],
   "latitude": 37.263879,
   "longitude": 127.007591,
-  "updated_at": "2026-03-05T23:53:14.306379",
-  "first_prize_draws": [],
+  "updated_at": "2026-04-04T13:30:35.899221",
+  "first_prize_draws": [
+    1218
+  ],
   "second_prize_draws": [
     1057,
     1052,
     933
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 3
 }

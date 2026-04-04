@@ -1,7 +1,7 @@
 {
   "store_id": "12790032",
   "name": "돈벼락복권방",
-  "address": "대구 북구  동변로 82-1 1층",
+  "address": "대구 북구 동변로 82-1 1층  ",
   "province": "대구",
   "city": "북구",
   "phone": "053-943-6453",
@@ -12,8 +12,9 @@
   ],
   "latitude": 35.920516,
   "longitude": 128.603852,
-  "updated_at": "2026-03-06T00:00:22.194184",
+  "updated_at": "2026-04-04T13:30:35.893628",
   "first_prize_draws": [
+    1218,
     921,
     720,
     629
@@ -28,6 +29,6 @@
     396,
     368
   ],
-  "first_prize_count": 3,
+  "first_prize_count": 4,
   "second_prize_count": 8
 }

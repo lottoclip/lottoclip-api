@@ -1,7 +1,7 @@
 {
   "store_id": "11100898",
   "name": "가로판매점",
-  "address": "서울 중구  서소문로 109 ",
+  "address": "서울 중구 서소문로 109  ",
   "province": "서울",
   "city": "중구",
   "phone": "02-752-7657",
@@ -12,13 +12,14 @@
   ],
   "latitude": 37.563055,
   "longitude": 126.973257,
-  "updated_at": "2026-03-05T23:53:41.039240",
+  "updated_at": "2026-04-04T13:30:35.887802",
   "first_prize_draws": [
     748,
     575,
     359
   ],
   "second_prize_draws": [
+    1218,
     1066,
     846,
     602,
@@ -27,5 +28,5 @@
     434
   ],
   "first_prize_count": 3,
-  "second_prize_count": 6
+  "second_prize_count": 7
 }

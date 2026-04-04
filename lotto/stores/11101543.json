@@ -1,7 +1,7 @@
 {
   "store_id": "11101543",
   "name": "인더라인25",
-  "address": "서울 마포구  월드컵북로54길 17 132호",
+  "address": "서울 마포구 월드컵북로54길 17 132호  ",
   "province": "서울",
   "city": "마포구",
   "phone": "02-704-4462",
@@ -12,12 +12,13 @@
   ],
   "latitude": 37.581324,
   "longitude": 126.888548,
-  "updated_at": "2026-03-05T23:57:13.046660",
+  "updated_at": "2026-04-04T13:30:35.890739",
   "first_prize_draws": [
     674,
     352
   ],
   "second_prize_draws": [
+    1218,
     1139,
     921,
     822,
@@ -26,5 +27,5 @@
     684
   ],
   "first_prize_count": 2,
-  "second_prize_count": 6
+  "second_prize_count": 7
 }

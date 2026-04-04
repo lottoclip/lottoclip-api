@@ -1,7 +1,7 @@
 {
   "store_id": "11190111",
   "name": "대박찬스",
-  "address": "서울 영등포구  도림로 356 1층복권방",
+  "address": "서울 영등포구 도림로 356 1층복권방  ",
   "province": "서울",
   "city": "영등포구",
   "phone": "02-834-8849",
@@ -12,12 +12,13 @@
   ],
   "latitude": 37.508884,
   "longitude": 126.900068,
-  "updated_at": "2026-03-05T23:59:13.437507",
+  "updated_at": "2026-04-04T13:30:35.889370",
   "first_prize_draws": [
     795,
     359
   ],
   "second_prize_draws": [
+    1218,
     1171,
     1152,
     1018,
@@ -34,5 +35,5 @@
     496
   ],
   "first_prize_count": 2,
-  "second_prize_count": 14
+  "second_prize_count": 15
 }

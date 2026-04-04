@@ -1,7 +1,7 @@
 {
   "store_id": "14140390",
   "name": "로또복권방",
-  "address": "경기 성남시 분당구  대왕판교로 660 1층 136호",
+  "address": "경기 성남시 분당구 대왕판교로 660 1층 136호  ",
   "province": "경기",
   "city": "성남시",
   "phone": null,
@@ -12,8 +12,10 @@
   ],
   "latitude": 37.400686,
   "longitude": 127.106966,
-  "updated_at": "2026-03-05T23:58:59.699030",
-  "first_prize_draws": [],
+  "updated_at": "2026-04-04T13:30:35.900066",
+  "first_prize_draws": [
+    1218
+  ],
   "second_prize_draws": [
     1166,
     1121,
@@ -22,6 +24,6 @@
     978,
     971
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 6
 }

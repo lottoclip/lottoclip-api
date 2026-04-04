@@ -1,7 +1,7 @@
 {
   "store_id": "14190024",
   "name": "명당복권점",
-  "address": "경기 수원시 팔달구  중부대로 50-1 ",
+  "address": "경기 수원시 팔달구 중부대로 50-1  ",
   "province": "경기",
   "city": "수원시",
   "phone": "031-239-8891",
@@ -12,9 +12,10 @@
   ],
   "latitude": 37.275021,
   "longitude": 127.022426,
-  "updated_at": "2026-03-05T23:51:02.292923",
+  "updated_at": "2026-04-04T13:30:35.899010",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1218,
     1024,
     986,
     851,
@@ -24,5 +25,5 @@
     432
   ],
   "first_prize_count": 0,
-  "second_prize_count": 7
+  "second_prize_count": 8
 }

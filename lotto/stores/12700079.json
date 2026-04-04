@@ -1,7 +1,7 @@
 {
   "store_id": "12700079",
   "name": "복권명당(서부점)",
-  "address": "대구 달서구  월배로 452 ",
+  "address": "대구 달서구 월배로 452  ",
   "province": "대구",
   "city": "달서구",
   "phone": "053-628-6450",
@@ -12,8 +12,9 @@
   ],
   "latitude": 35.833632,
   "longitude": 128.554861,
-  "updated_at": "2026-03-06T00:00:28.351760",
+  "updated_at": "2026-04-04T13:30:35.894060",
   "first_prize_draws": [
+    1218,
     1090,
     952,
     941,
@@ -93,6 +94,6 @@
     321,
     294
   ],
-  "first_prize_count": 10,
+  "first_prize_count": 11,
   "second_prize_count": 66
 }

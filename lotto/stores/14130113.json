@@ -1,7 +1,7 @@
 {
   "store_id": "14130113",
   "name": "복돼지",
-  "address": "경기 오산시  원동로 6 113호",
+  "address": "경기 오산시 원동로 6 113호  ",
   "province": "경기",
   "city": "오산시",
   "phone": null,
@@ -12,9 +12,10 @@
   ],
   "latitude": 37.142045,
   "longitude": 127.069637,
-  "updated_at": "2026-03-05T23:57:58.886767",
+  "updated_at": "2026-04-04T13:30:35.897244",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1218,
     1150,
     1070,
     975,
@@ -25,5 +26,5 @@
     769
   ],
   "first_prize_count": 0,
-  "second_prize_count": 8
+  "second_prize_count": 9
 }

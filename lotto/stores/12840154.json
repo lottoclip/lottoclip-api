@@ -1,7 +1,7 @@
 {
   "store_id": "12840154",
   "name": "로또명당 이천쌀유통",
-  "address": "인천 부평구  광장로 34 1층",
+  "address": "인천 부평구 광장로 34 1층  ",
   "province": "인천",
   "city": "부평구",
   "phone": "032-513-2000",
@@ -12,11 +12,12 @@
   ],
   "latitude": 37.490964,
   "longitude": 126.724449,
-  "updated_at": "2026-03-06T00:00:37.539325",
+  "updated_at": "2026-04-04T13:30:35.895604",
   "first_prize_draws": [
     1007
   ],
   "second_prize_draws": [
+    1218,
     1195,
     1118,
     1115,
@@ -27,5 +28,5 @@
     935
   ],
   "first_prize_count": 1,
-  "second_prize_count": 8
+  "second_prize_count": 9
 }

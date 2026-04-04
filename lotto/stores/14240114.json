@@ -1,7 +1,7 @@
 {
   "store_id": "14240114",
   "name": "사북로또",
-  "address": "강원 정선군  사북중앙로 77 1층",
+  "address": "강원 정선군 사북중앙로 77 1층  ",
   "province": "강원",
   "city": "정선군",
   "phone": null,
@@ -12,13 +12,14 @@
   ],
   "latitude": 37.226964,
   "longitude": 128.823198,
-  "updated_at": "2026-03-05T23:51:19.820480",
+  "updated_at": "2026-04-04T13:30:35.902153",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1218,
     1025,
     1022,
     985
   ],
   "first_prize_count": 0,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

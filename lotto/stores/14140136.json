@@ -1,7 +1,7 @@
 {
   "store_id": "14140136",
   "name": "오남 로또택배",
-  "address": "경기 남양주시  진건오남로 814 B동 1층 5호",
+  "address": "경기 남양주시 진건오남로 814 B동 1층 5호  ",
   "province": "경기",
   "city": "남양주시",
   "phone": null,
@@ -12,8 +12,9 @@
   ],
   "latitude": 37.699328,
   "longitude": 127.202433,
-  "updated_at": "2026-03-05T23:57:24.351378",
+  "updated_at": "2026-04-04T13:30:35.900489",
   "first_prize_draws": [
+    1218,
     1019,
     945
   ],
@@ -31,6 +32,6 @@
     853,
     848
   ],
-  "first_prize_count": 2,
+  "first_prize_count": 3,
   "second_prize_count": 12
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "11101010",
   "name": "연초2호 쇼케이스7호",
-  "address": "서울 서초구  신반포로 194 쇼케이스7호",
+  "address": "서울 서초구 신반포로 194 쇼케이스7호  ",
   "province": "서울",
   "city": "서초구",
   "phone": "02-599-4382",
@@ -12,12 +12,13 @@
   ],
   "latitude": 37.505509,
   "longitude": 127.007038,
-  "updated_at": "2026-03-05T23:59:16.697663",
+  "updated_at": "2026-04-04T13:30:35.889884",
   "first_prize_draws": [
     1092,
     615
   ],
   "second_prize_draws": [
+    1218,
     1172,
     1170,
     1157,
@@ -36,5 +37,5 @@
     471
   ],
   "first_prize_count": 2,
-  "second_prize_count": 16
+  "second_prize_count": 17
 }

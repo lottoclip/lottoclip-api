@@ -1,7 +1,7 @@
 {
   "store_id": "12800213",
   "name": "행운 마트",
-  "address": "인천 남동구  만수로 65 ",
+  "address": "인천 남동구 만수로 65  ",
   "province": "인천",
   "city": "남동구",
   "phone": "032-463-6003",
@@ -12,7 +12,7 @@
   ],
   "latitude": 37.461593,
   "longitude": 126.735089,
-  "updated_at": "2026-03-06T00:00:07.966496",
+  "updated_at": "2026-04-04T13:30:35.896020",
   "first_prize_draws": [
     1162,
     1089,
@@ -21,6 +21,7 @@
     457
   ],
   "second_prize_draws": [
+    1218,
     1185,
     1117,
     1032,
@@ -40,5 +41,5 @@
     363
   ],
   "first_prize_count": 5,
-  "second_prize_count": 17
+  "second_prize_count": 18
 }

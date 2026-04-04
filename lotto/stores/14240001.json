@@ -1,7 +1,7 @@
 {
   "store_id": "14240001",
   "name": "우두로또",
-  "address": "강원 춘천시  영서로 2784 예전 로또판매점 바로옆 건물 1층",
+  "address": "강원 춘천시 영서로 2784 예전 로또판매점 바로옆 건물 1층  ",
   "province": "강원",
   "city": "춘천시",
   "phone": null,
@@ -12,7 +12,7 @@
   ],
   "latitude": 37.901866,
   "longitude": 127.728698,
-  "updated_at": "2026-03-06T00:01:02.762645",
+  "updated_at": "2026-04-04T13:30:35.901791",
   "first_prize_draws": [
     1166,
     1016,
@@ -20,6 +20,7 @@
     842
   ],
   "second_prize_draws": [
+    1218,
     1204,
     1198,
     1195,
@@ -41,5 +42,5 @@
     943
   ],
   "first_prize_count": 4,
-  "second_prize_count": 19
+  "second_prize_count": 20
 }

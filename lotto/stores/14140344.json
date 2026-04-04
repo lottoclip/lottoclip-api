@@ -1,23 +1,22 @@
 {
   "store_id": "14140344",
   "name": "산본역 로또명당",
-  "address": "경기 군포시  산본로323번길 16-6 제1층 제1005호(산본동신명타워)",
+  "address": "경기 군포시 산본로323번길 16-6 제1층 제1005호(산본동신명타워)  ",
   "province": "경기",
   "city": "군포시",
   "phone": null,
   "lottery_types": [
-    "lotto645",
-    "pension720",
-    "speetto"
+    "lotto645"
   ],
   "latitude": 37.359255,
   "longitude": 126.932372,
-  "updated_at": "2026-03-06T00:00:48.493376",
+  "updated_at": "2026-04-04T13:30:35.900724",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1218,
     1199,
     1198
   ],
   "first_prize_count": 0,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

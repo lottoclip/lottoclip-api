@@ -1,7 +1,7 @@
 {
   "store_id": "14510026",
   "name": "삼례로또복권",
-  "address": "전북 완주군  동학로 32 ",
+  "address": "전북 완주군 동학로 32  ",
   "province": "전북",
   "city": "완주군",
   "phone": "063-291-8311",
@@ -10,13 +10,14 @@
   ],
   "latitude": 35.910628,
   "longitude": 127.074874,
-  "updated_at": "2026-03-05T23:55:14.555837",
+  "updated_at": "2026-04-04T13:30:35.905359",
   "first_prize_draws": [
     1048,
     546,
     442
   ],
   "second_prize_draws": [
+    1218,
     1098,
     1013,
     952,
@@ -24,5 +25,5 @@
     539
   ],
   "first_prize_count": 3,
-  "second_prize_count": 5
+  "second_prize_count": 6
 }

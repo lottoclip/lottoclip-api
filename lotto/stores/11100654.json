@@ -1,7 +1,7 @@
 {
   "store_id": "11100654",
   "name": "그린슈퍼",
-  "address": "서울 강동구 길동 355-1번지 ",
+  "address": "서울 강동구 천중로52길 15  ",
   "province": "서울",
   "city": "강동구",
   "phone": "02-476-0509",
@@ -12,11 +12,12 @@
   ],
   "latitude": 37.540073,
   "longitude": 127.144204,
-  "updated_at": "2026-03-05T23:43:55.481310",
+  "updated_at": "2026-04-04T13:30:35.891410",
   "first_prize_draws": [
     371
   ],
   "second_prize_draws": [
+    1218,
     892,
     748,
     647,
@@ -26,5 +27,5 @@
     381
   ],
   "first_prize_count": 1,
-  "second_prize_count": 7
+  "second_prize_count": 8
 }

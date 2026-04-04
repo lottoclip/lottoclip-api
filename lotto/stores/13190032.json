@@ -1,7 +1,7 @@
 {
   "store_id": "13190032",
   "name": "보경복권",
-  "address": "울산 북구  명촌6길 7 ",
+  "address": "울산 북구 명촌6길 7  ",
   "province": "울산",
   "city": "북구",
   "phone": "052-289-4503",
@@ -12,7 +12,7 @@
   ],
   "latitude": 35.558064,
   "longitude": 129.360286,
-  "updated_at": "2026-03-06T00:00:31.390813",
+  "updated_at": "2026-04-04T13:30:35.896607",
   "first_prize_draws": [
     1193,
     709,
@@ -20,6 +20,7 @@
     431
   ],
   "second_prize_draws": [
+    1218,
     1180,
     1022,
     1021,
@@ -34,5 +35,5 @@
     265
   ],
   "first_prize_count": 4,
-  "second_prize_count": 12
+  "second_prize_count": 13
 }

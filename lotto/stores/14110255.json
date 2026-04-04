@@ -1,7 +1,7 @@
 {
   "store_id": "14110255",
   "name": "마이더스로또복권방",
-  "address": "경기 안양시 동안구  안양판교로 12-2 ",
+  "address": "경기 안양시 동안구 안양판교로 12-2  ",
   "province": "경기",
   "city": "안양시",
   "phone": "031-421-1311",
@@ -12,13 +12,14 @@
   ],
   "latitude": 37.400824,
   "longitude": 126.977647,
-  "updated_at": "2026-03-05T23:52:56.097066",
+  "updated_at": "2026-04-04T13:30:35.897684",
   "first_prize_draws": [
     991,
     929,
     842
   ],
   "second_prize_draws": [
+    1218,
     1052,
     899,
     832,
@@ -32,5 +33,5 @@
     338
   ],
   "first_prize_count": 3,
-  "second_prize_count": 11
+  "second_prize_count": 12
 }

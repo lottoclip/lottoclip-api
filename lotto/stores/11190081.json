@@ -1,7 +1,7 @@
 {
   "store_id": "11190081",
   "name": "스포츠베팅샵",
-  "address": "서울 서초구  동산로 48 서희빌딩 104호",
+  "address": "서울 서초구 동산로 48 104호  ",
   "province": "서울",
   "city": "서초구",
   "phone": "02-3462-9011",
@@ -12,7 +12,7 @@
   ],
   "latitude": 37.471324,
   "longitude": 127.044343,
-  "updated_at": "2026-03-05T23:52:08.344366",
+  "updated_at": "2026-04-04T13:30:35.890110",
   "first_prize_draws": [
     894,
     660,
@@ -20,6 +20,7 @@
     494
   ],
   "second_prize_draws": [
+    1218,
     1041,
     998,
     773,
@@ -28,5 +29,5 @@
     336
   ],
   "first_prize_count": 4,
-  "second_prize_count": 6
+  "second_prize_count": 7
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14790030",
   "name": "불타는복권",
-  "address": "경북 영주시  기주로 84 ",
+  "address": "경북 영주시 기주로 84  ",
   "province": "경북",
   "city": "영주시",
   "phone": "054-638-3430",
@@ -12,11 +12,12 @@
   ],
   "latitude": 36.86992,
   "longitude": 128.526652,
-  "updated_at": "2026-03-05T23:59:11.188326",
+  "updated_at": "2026-04-04T13:30:35.907012",
   "first_prize_draws": [
     1021
   ],
   "second_prize_draws": [
+    1218,
     1170,
     1154,
     961,
@@ -28,5 +29,5 @@
     429
   ],
   "first_prize_count": 1,
-  "second_prize_count": 9
+  "second_prize_count": 10
 }

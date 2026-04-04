@@ -1,7 +1,7 @@
 {
   "store_id": "11100400",
   "name": "G마트",
-  "address": "서울 영등포구  디지털로 387 ",
+  "address": "서울 영등포구 디지털로 387  ",
   "province": "서울",
   "city": "영등포구",
   "phone": "02-849-8249",
@@ -12,7 +12,7 @@
   ],
   "latitude": 37.491634,
   "longitude": 126.902113,
-  "updated_at": "2026-03-06T00:00:02.011176",
+  "updated_at": "2026-04-04T13:30:35.888858",
   "first_prize_draws": [
     1133,
     1107,
@@ -23,6 +23,7 @@
     401
   ],
   "second_prize_draws": [
+    1218,
     1183,
     1175,
     1169,
@@ -46,5 +47,5 @@
     278
   ],
   "first_prize_count": 7,
-  "second_prize_count": 21
+  "second_prize_count": 22
 }

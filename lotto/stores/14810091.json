@@ -1,7 +1,7 @@
 {
   "store_id": "14810091",
   "name": "로또장",
-  "address": "경남 진주시  창렬로 109 ",
+  "address": "경남 진주시 창렬로 109  ",
   "province": "경남",
   "city": "진주시",
   "phone": "055-748-1845",
@@ -12,9 +12,10 @@
   ],
   "latitude": 35.19802,
   "longitude": 128.069295,
-  "updated_at": "2026-03-05T23:59:49.089329",
+  "updated_at": "2026-04-04T13:30:35.908972",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1218,
     1178,
     1158,
     1078,
@@ -23,5 +24,5 @@
     616
   ],
   "first_prize_count": 0,
-  "second_prize_count": 6
+  "second_prize_count": 7
 }

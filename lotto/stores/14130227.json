@@ -1,7 +1,7 @@
 {
   "store_id": "14130227",
   "name": "설악복권방",
-  "address": "경기 가평군  신천중앙로 80 1층 복권방",
+  "address": "경기 가평군 신천중앙로 80 1층 복권방  ",
   "province": "경기",
   "city": "가평군",
   "phone": null,
@@ -10,12 +10,13 @@
   ],
   "latitude": 37.675832,
   "longitude": 127.494077,
-  "updated_at": "2026-03-06T00:00:53.931179",
+  "updated_at": "2026-04-04T13:30:35.901353",
   "first_prize_draws": [
     1158,
     914
   ],
   "second_prize_draws": [
+    1218,
     1201,
     1191,
     1181,
@@ -23,5 +24,5 @@
     865
   ],
   "first_prize_count": 2,
-  "second_prize_count": 5
+  "second_prize_count": 6
 }
