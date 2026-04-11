@@ -1,23 +1,26 @@
 {
   "store_id": "14140552",
   "name": "아르파",
-  "address": "경기 고양시 일산동구  무궁화로 20-18 101호",
+  "address": "경기 고양시 일산동구 무궁화로 20-18 101호  ",
   "province": "경기",
   "city": "고양시",
   "phone": null,
   "lottery_types": [
-    "lotto645"
+    "lotto645",
+    "pension720",
+    "speetto"
   ],
   "latitude": 37.661272,
   "longitude": 126.767282,
-  "updated_at": "2026-03-05T23:55:08.539332",
+  "updated_at": "2026-04-11T13:32:48.144796",
   "first_prize_draws": [
     990
   ],
   "second_prize_draws": [
+    1219,
     1096,
     1036
   ],
   "first_prize_count": 1,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

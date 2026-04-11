@@ -1,7 +1,7 @@
 {
   "store_id": "11110256",
   "name": "로또수락산점",
-  "address": "서울 노원구  동일로 1689 대덕하이베라스101호",
+  "address": "서울 노원구 동일로 1689 대덕하이베라스101호  ",
   "province": "서울",
   "city": "노원구",
   "phone": "02-939-3352",
@@ -12,12 +12,13 @@
   ],
   "latitude": 37.67911,
   "longitude": 127.054859,
-  "updated_at": "2026-03-06T00:00:15.826701",
+  "updated_at": "2026-04-11T13:32:47.935445",
   "first_prize_draws": [
     943,
     601
   ],
   "second_prize_draws": [
+    1219,
     1188,
     1100,
     1057,
@@ -44,5 +45,5 @@
     279
   ],
   "first_prize_count": 2,
-  "second_prize_count": 24
+  "second_prize_count": 25
 }

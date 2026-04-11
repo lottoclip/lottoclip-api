@@ -1,7 +1,7 @@
 {
   "store_id": "14300022",
   "name": "복권나라",
-  "address": "충북 증평군  중앙로 199-1 ",
+  "address": "충북 증평군 중앙로 199-1  ",
   "province": "충북",
   "city": "증평군",
   "phone": "043-836-1113",
@@ -12,7 +12,7 @@
   ],
   "latitude": 36.783937,
   "longitude": 127.58088,
-  "updated_at": "2026-03-06T00:00:53.963575",
+  "updated_at": "2026-04-11T13:32:48.146046",
   "first_prize_draws": [
     1084,
     1063,
@@ -21,6 +21,7 @@
     707
   ],
   "second_prize_draws": [
+    1219,
     1201,
     1192,
     1176,
@@ -57,5 +58,5 @@
     290
   ],
   "first_prize_count": 5,
-  "second_prize_count": 34
+  "second_prize_count": 35
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14190015",
   "name": "대박",
-  "address": "경기 구리시  안골로103번길 46 ",
+  "address": "경기 구리시 안골로103번길 46 1층  ",
   "province": "경기",
   "city": "구리시",
   "phone": "031-557-5647",
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.599423,
-  "longitude": 127.141537,
-  "updated_at": "2026-03-05T23:59:54.238639",
+  "latitude": 37.599435,
+  "longitude": 127.14156,
+  "updated_at": "2026-04-11T13:32:48.144400",
   "first_prize_draws": [
     1180,
     1137,
@@ -21,6 +21,7 @@
     605
   ],
   "second_prize_draws": [
+    1219,
     1170,
     1053,
     876,
@@ -31,5 +32,5 @@
     464
   ],
   "first_prize_count": 5,
-  "second_prize_count": 8
+  "second_prize_count": 9
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "12640350",
   "name": "복권판매점",
-  "address": "부산 중구  흑교로 67-2 ",
+  "address": "부산 중구 흑교로 67-2  ",
   "province": "부산",
   "city": "중구",
   "phone": null,
@@ -12,11 +12,12 @@
   ],
   "latitude": 35.105452,
   "longitude": 129.023973,
-  "updated_at": "2026-03-06T00:00:34.669543",
+  "updated_at": "2026-04-11T13:32:47.937029",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1219,
     1194
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

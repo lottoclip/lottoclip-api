@@ -1,7 +1,7 @@
 {
   "store_id": "12790066",
   "name": "로또명당",
-  "address": "대구 남구 이천동 193-19번지 ",
+  "address": "대구 남구 명덕로 322  ",
   "province": "대구",
   "city": "남구",
   "phone": "053-471-0645",
@@ -12,11 +12,12 @@
   ],
   "latitude": 35.854874,
   "longitude": 128.605117,
-  "updated_at": "2026-03-05T23:39:42.656214",
+  "updated_at": "2026-04-11T13:32:47.938808",
   "first_prize_draws": [
     382
   ],
   "second_prize_draws": [
+    1219,
     809,
     565,
     518,
@@ -24,5 +25,5 @@
     414
   ],
   "first_prize_count": 1,
-  "second_prize_count": 5
+  "second_prize_count": 6
 }

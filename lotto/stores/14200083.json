@@ -1,7 +1,7 @@
 {
   "store_id": "14200083",
   "name": "창원편의점",
-  "address": "강원 원주시  모란1길 69 1층",
+  "address": "강원 원주시 모란1길 69 1층  ",
   "province": "강원",
   "city": "원주시",
   "phone": "033-743-4991",
@@ -12,9 +12,10 @@
   ],
   "latitude": 37.361582,
   "longitude": 127.932959,
-  "updated_at": "2026-03-05T23:54:45.084745",
+  "updated_at": "2026-04-11T13:32:48.145553",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1219,
     1088,
     977,
     933,
@@ -22,5 +23,5 @@
     314
   ],
   "first_prize_count": 0,
-  "second_prize_count": 5
+  "second_prize_count": 6
 }

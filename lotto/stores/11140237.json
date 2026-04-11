@@ -1,7 +1,7 @@
 {
   "store_id": "11140237",
   "name": "도깨비로또명당",
-  "address": "서울 도봉구  도당로 77 1층",
+  "address": "서울 도봉구 도당로 77 1층  ",
   "province": "서울",
   "city": "도봉구",
   "phone": null,
@@ -12,14 +12,15 @@
   ],
   "latitude": 37.664865,
   "longitude": 127.03574,
-  "updated_at": "2026-03-05T23:57:23.856472",
+  "updated_at": "2026-04-11T13:32:47.934958",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1219,
     1143,
     1081,
     1052,
     967
   ],
   "first_prize_count": 0,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }

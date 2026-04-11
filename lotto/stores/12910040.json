@@ -1,7 +1,7 @@
 {
   "store_id": "12910040",
   "name": "행복로또",
-  "address": "광주 동구  남문로 699 행복로또",
+  "address": "광주 동구 남문로 699 행복로또  ",
   "province": "광주",
   "city": "동구",
   "phone": null,
@@ -12,12 +12,13 @@
   ],
   "latitude": 35.132962,
   "longitude": 126.928019,
-  "updated_at": "2026-03-05T23:56:09.603060",
+  "updated_at": "2026-04-11T13:32:48.092709",
   "first_prize_draws": [
     835,
     547
   ],
   "second_prize_draws": [
+    1219,
     1117,
     1092,
     1057,
@@ -26,5 +27,5 @@
     295
   ],
   "first_prize_count": 2,
-  "second_prize_count": 6
+  "second_prize_count": 7
 }

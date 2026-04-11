@@ -1,7 +1,7 @@
 {
   "store_id": "14141157",
   "name": "복권방",
-  "address": "경기 남양주시  덕송2로10번길 27-16 ",
+  "address": "경기 남양주시 덕송2로10번길 27-16  ",
   "province": "경기",
   "city": "남양주시",
   "phone": null,
@@ -12,15 +12,16 @@
   ],
   "latitude": 37.667453,
   "longitude": 127.116168,
-  "updated_at": "2026-03-06T00:00:19.487413",
+  "updated_at": "2026-04-11T13:32:48.144083",
   "first_prize_draws": [
     1105
   ],
   "second_prize_draws": [
+    1219,
     1189,
     1156,
     1120
   ],
   "first_prize_count": 1,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

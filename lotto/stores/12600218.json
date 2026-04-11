@@ -1,7 +1,7 @@
 {
   "store_id": "12600218",
   "name": "이마트24 광안리굿-7",
-  "address": "부산 수영구  광안로 49 ",
+  "address": "부산 수영구 광안로 49  ",
   "province": "부산",
   "city": "수영구",
   "phone": "051-752-4743",
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.155301,
-  "longitude": 129.117706,
-  "updated_at": "2026-03-06T00:00:37.450295",
+  "latitude": 35.155287,
+  "longitude": 129.11766,
+  "updated_at": "2026-04-11T13:32:47.937212",
   "first_prize_draws": [
     924,
     895,
@@ -20,6 +20,7 @@
     484
   ],
   "second_prize_draws": [
+    1219,
     1195,
     1144,
     1134,
@@ -36,5 +37,5 @@
     302
   ],
   "first_prize_count": 4,
-  "second_prize_count": 14
+  "second_prize_count": 15
 }

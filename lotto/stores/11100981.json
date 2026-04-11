@@ -1,7 +1,7 @@
 {
   "store_id": "11100981",
   "name": "가판점",
-  "address": "서울 서초구  효령로 283 가판",
+  "address": "서울 서초구 효령로 283 가판  ",
   "province": "서울",
   "city": "서초구",
   "phone": "02-525-5609",
@@ -12,7 +12,7 @@
   ],
   "latitude": 37.485101,
   "longitude": 127.014967,
-  "updated_at": "2026-03-05T23:56:48.420912",
+  "updated_at": "2026-04-11T13:32:47.934111",
   "first_prize_draws": [
     1084,
     897,
@@ -20,6 +20,7 @@
     819
   ],
   "second_prize_draws": [
+    1219,
     1130,
     1082,
     937,
@@ -28,5 +29,5 @@
     299
   ],
   "first_prize_count": 4,
-  "second_prize_count": 6
+  "second_prize_count": 7
 }

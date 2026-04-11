@@ -1,7 +1,7 @@
 {
   "store_id": "12840203",
   "name": "행복드림로또판매점",
-  "address": "인천 강화군  중앙로 68 1층 101-1호 하나로마트",
+  "address": "인천 강화군 중앙로 68 1층 101-1호 하나로마트  ",
   "province": "인천",
   "city": "강화군",
   "phone": null,
@@ -12,8 +12,9 @@
   ],
   "latitude": 37.737664,
   "longitude": 126.48689,
-  "updated_at": "2026-03-05T23:59:10.699020",
+  "updated_at": "2026-04-11T13:32:48.092146",
   "first_prize_draws": [
+    1219,
     1089
   ],
   "second_prize_draws": [
@@ -21,6 +22,6 @@
     1119,
     1029
   ],
-  "first_prize_count": 1,
+  "first_prize_count": 2,
   "second_prize_count": 3
 }

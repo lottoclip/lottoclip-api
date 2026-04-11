@@ -1,20 +1,23 @@
 {
   "store_id": "11141338",
   "name": "군음식과 로또",
-  "address": "서울 성동구  동일로 223-1 1층",
+  "address": "서울 성동구 동일로 223-1 1층  ",
   "province": "서울",
   "city": "성동구",
   "phone": null,
   "lottery_types": [
-    "lotto645"
+    "lotto645",
+    "pension720",
+    "speetto"
   ],
   "latitude": 37.551926,
   "longitude": 127.069235,
-  "updated_at": "2026-03-05T23:59:13.468103",
+  "updated_at": "2026-04-11T13:32:47.399970",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1219,
     1171
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

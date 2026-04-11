@@ -1,7 +1,7 @@
 {
   "store_id": "11100180",
   "name": "신명",
-  "address": "서울 강서구  방화동로3길 1 ",
+  "address": "서울 강서구 방화동로 10-2 1층  ",
   "province": "서울",
   "city": "강서구",
   "phone": "02-2663-6500",
@@ -12,7 +12,7 @@
   ],
   "latitude": 37.562246,
   "longitude": 126.80904,
-  "updated_at": "2026-03-05T23:59:45.903642",
+  "updated_at": "2026-04-11T13:32:47.936341",
   "first_prize_draws": [
     956,
     393,
@@ -20,6 +20,7 @@
     291
   ],
   "second_prize_draws": [
+    1219,
     1177,
     1135,
     1077,
@@ -36,5 +37,5 @@
     325
   ],
   "first_prize_count": 4,
-  "second_prize_count": 14
+  "second_prize_count": 15
 }
