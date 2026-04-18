@@ -1,7 +1,7 @@
 {
   "store_id": "11101239",
   "name": "아차산역가로판매점",
-  "address": "서울 광진구  천호대로 665 ",
+  "address": "서울 광진구 천호대로 665  ",
   "province": "서울",
   "city": "광진구",
   "phone": "02-456-6324",
@@ -12,9 +12,10 @@
   ],
   "latitude": 37.551611,
   "longitude": 127.09016,
-  "updated_at": "2026-03-05T23:58:33.531326",
+  "updated_at": "2026-04-18T13:37:49.538651",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1220,
     1157,
     1138,
     1032,
@@ -22,5 +23,5 @@
     502
   ],
   "first_prize_count": 0,
-  "second_prize_count": 5
+  "second_prize_count": 6
 }

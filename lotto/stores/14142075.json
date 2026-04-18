@@ -1,7 +1,7 @@
 {
   "store_id": "14142075",
   "name": "행운드림복권",
-  "address": "경기 부천시  조마루로105번길 8-12 103호",
+  "address": "경기 부천시 조마루로105번길 8-12 103호  ",
   "province": "경기",
   "city": "부천시",
   "phone": null,
@@ -11,14 +11,15 @@
     "speetto"
   ],
   "latitude": 37.500273,
-  "longitude": 126.756157,
-  "updated_at": "2026-03-06T00:00:56.718068",
+  "longitude": 126.75615,
+  "updated_at": "2026-04-18T13:37:49.546381",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1220,
     1202,
     1138,
     1115
   ],
   "first_prize_count": 0,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "13140001",
   "name": "또로또",
-  "address": "울산 남구  신정로68번길 47 ",
+  "address": "울산 남구 신정로68번길 47 1층 신화부동산  ",
   "province": "울산",
   "city": "남구",
   "phone": "052-257-6980",
@@ -10,10 +10,11 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.539279,
-  "longitude": 129.326159,
-  "updated_at": "2026-03-05T23:54:05.255060",
+  "latitude": 35.539259,
+  "longitude": 129.3261,
+  "updated_at": "2026-04-18T13:37:49.541865",
   "first_prize_draws": [
+    1220,
     1074
   ],
   "second_prize_draws": [
@@ -22,6 +23,6 @@
     949,
     865
   ],
-  "first_prize_count": 1,
+  "first_prize_count": 2,
   "second_prize_count": 4
 }

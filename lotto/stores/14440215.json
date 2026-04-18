@@ -1,7 +1,7 @@
 {
   "store_id": "14440215",
   "name": "로또 계룡에스파",
-  "address": "충남 계룡시  대실남북3길 16 계룡 한라비발디센트럴 상가 5호",
+  "address": "충남 계룡시 대실남북3길 16 계룡 한라비발디센트럴 상가 5호  ",
   "province": "충남",
   "city": "계룡시",
   "phone": null,
@@ -11,13 +11,15 @@
     "speetto"
   ],
   "latitude": 36.265475,
-  "longitude": 127.258714,
-  "updated_at": "2026-03-05T23:56:42.608959",
-  "first_prize_draws": [],
+  "longitude": 127.25871,
+  "updated_at": "2026-04-18T13:37:49.548686",
+  "first_prize_draws": [
+    1220
+  ],
   "second_prize_draws": [
     1128,
     1050
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 2
 }

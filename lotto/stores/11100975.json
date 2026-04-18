@@ -1,7 +1,7 @@
 {
   "store_id": "11100975",
   "name": "교통카드판매대",
-  "address": "서울 영등포구  여의나루로 71 동화빌딩 ",
+  "address": "서울 영등포구 여의나루로 71  ",
   "province": "서울",
   "city": "영등포구",
   "phone": "02-786-2480",
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.523926,
-  "longitude": 126.926698,
-  "updated_at": "2026-03-05T23:55:59.872956",
+  "latitude": 37.523777,
+  "longitude": 126.92687,
+  "updated_at": "2026-04-18T13:37:49.537332",
   "first_prize_draws": [
     894
   ],
   "second_prize_draws": [
+    1220,
     1114,
     1096,
     1046,
@@ -29,5 +30,5 @@
     291
   ],
   "first_prize_count": 1,
-  "second_prize_count": 10
+  "second_prize_count": 11
 }

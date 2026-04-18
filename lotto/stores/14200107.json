@@ -1,7 +1,7 @@
 {
   "store_id": "14200107",
   "name": "일등유통",
-  "address": "강원 속초시  중앙로 274 1층",
+  "address": "강원 속초시 중앙로 274 1층  ",
   "province": "강원",
   "city": "속초시",
   "phone": "033-633-8157",
@@ -10,16 +10,17 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 38.213942,
-  "longitude": 128.596379,
-  "updated_at": "2026-03-05T23:50:29.304811",
+  "latitude": 38.213934,
+  "longitude": 128.59641,
+  "updated_at": "2026-04-18T13:37:49.547493",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1220,
     1012,
     952,
     937,
     488
   ],
   "first_prize_count": 0,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }

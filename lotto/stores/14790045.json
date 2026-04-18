@@ -1,7 +1,7 @@
 {
   "store_id": "14790045",
   "name": "복권나라",
-  "address": "경북 포항시 북구  장량로140번길 9 ",
+  "address": "경북 포항시 북구 장량로140번길 9  ",
   "province": "경북",
   "city": "포항시",
   "phone": "054-255-3074",
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 36.080859,
-  "longitude": 129.396027,
-  "updated_at": "2026-03-06T00:00:35.259806",
+  "latitude": 36.08079,
+  "longitude": 129.39602,
+  "updated_at": "2026-04-18T13:37:49.549775",
   "first_prize_draws": [
     1194,
     1094,
     996
   ],
   "second_prize_draws": [
+    1220,
     918,
     892,
     854,
@@ -27,5 +28,5 @@
     553
   ],
   "first_prize_count": 3,
-  "second_prize_count": 6
+  "second_prize_count": 7
 }

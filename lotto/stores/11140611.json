@@ -1,7 +1,7 @@
 {
   "store_id": "11140611",
   "name": "로그인편의점",
-  "address": "서울 성동구  천호대로 430 103호 로그인편의점",
+  "address": "서울 성동구 천호대로 430 103호 로그인편의점  ",
   "province": "서울",
   "city": "성동구",
   "phone": null,
@@ -10,14 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.5608,
-  "longitude": 127.066529,
-  "updated_at": "2026-03-05T23:54:04.888792",
+  "latitude": 37.560824,
+  "longitude": 127.06655,
+  "updated_at": "2026-04-18T13:37:49.537487",
   "first_prize_draws": [
     1074,
     1040
   ],
-  "second_prize_draws": [],
+  "second_prize_draws": [
+    1220
+  ],
   "first_prize_count": 2,
-  "second_prize_count": 0
+  "second_prize_count": 1
 }

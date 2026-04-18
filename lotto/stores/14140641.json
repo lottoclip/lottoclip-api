@@ -1,7 +1,7 @@
 {
   "store_id": "14140641",
   "name": "한아름 복권",
-  "address": "경기 김포시  장차로 19 102호",
+  "address": "경기 김포시 장차로 19 102호  ",
   "province": "경기",
   "city": "김포시",
   "phone": null,
@@ -10,10 +10,11 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.603812,
-  "longitude": 126.770535,
-  "updated_at": "2026-03-05T23:58:48.831039",
+  "latitude": 37.60372,
+  "longitude": 126.77057,
+  "updated_at": "2026-04-18T13:37:49.546646",
   "first_prize_draws": [
+    1220,
     1162,
     1049
   ],
@@ -25,6 +26,6 @@
     1030,
     953
   ],
-  "first_prize_count": 2,
+  "first_prize_count": 3,
   "second_prize_count": 6
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "11101507",
   "name": "노다지로또",
-  "address": "서울 중랑구  겸재로 217 ",
+  "address": "서울 중랑구 겸재로 217  ",
   "province": "서울",
   "city": "중랑구",
   "phone": "02-434-3020",
@@ -12,12 +12,13 @@
   ],
   "latitude": 37.589488,
   "longitude": 127.091767,
-  "updated_at": "2026-03-05T23:56:56.108490",
+  "updated_at": "2026-04-18T13:37:49.536225",
   "first_prize_draws": [
     1104,
     425
   ],
   "second_prize_draws": [
+    1220,
     1133,
     873,
     828,
@@ -33,5 +34,5 @@
     409
   ],
   "first_prize_count": 2,
-  "second_prize_count": 13
+  "second_prize_count": 14
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14200031",
   "name": "복권명가",
-  "address": "강원 동해시  송정로 47-1 102호",
+  "address": "강원 동해시 송정로 47-1 102호  ",
   "province": "강원",
   "city": "동해시",
   "phone": null,
@@ -10,16 +10,17 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.497462,
-  "longitude": 129.124955,
-  "updated_at": "2026-03-05T23:53:47.676511",
+  "latitude": 37.497387,
+  "longitude": 129.12488,
+  "updated_at": "2026-04-18T13:37:49.547629",
   "first_prize_draws": [
     1068
   ],
   "second_prize_draws": [
+    1220,
     860,
     840
   ],
   "first_prize_count": 1,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

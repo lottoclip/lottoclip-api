@@ -1,7 +1,7 @@
 {
   "store_id": "14340006",
   "name": "도깨비",
-  "address": "충북 청주시 흥덕구  사운로 330 ",
+  "address": "충북 청주시 흥덕구 사운로 330  ",
   "province": "충북",
   "city": "청주시",
   "phone": "043-265-7727",
@@ -10,11 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 36.656291,
-  "longitude": 127.469396,
-  "updated_at": "2026-03-05T23:51:46.738342",
+  "latitude": 36.656214,
+  "longitude": 127.46928,
+  "updated_at": "2026-04-18T13:37:49.547761",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1220,
     1034,
     943,
     925,
@@ -23,5 +24,5 @@
     862
   ],
   "first_prize_count": 0,
-  "second_prize_count": 6
+  "second_prize_count": 7
 }

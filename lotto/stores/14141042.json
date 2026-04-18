@@ -1,7 +1,7 @@
 {
   "store_id": "14141042",
   "name": "대박복권방",
-  "address": "경기 고양시 일산서구  경의로 823 1층",
+  "address": "경기 고양시 일산서구 경의로 823 1층  ",
   "province": "경기",
   "city": "고양시",
   "phone": null,
@@ -10,16 +10,17 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.691026,
-  "longitude": 126.759126,
-  "updated_at": "2026-03-05T23:55:23.156122",
+  "latitude": 37.691027,
+  "longitude": 126.75917,
+  "updated_at": "2026-04-18T13:37:49.547099",
   "first_prize_draws": [
     1101
   ],
   "second_prize_draws": [
+    1220,
     1033,
     1028
   ],
   "first_prize_count": 1,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

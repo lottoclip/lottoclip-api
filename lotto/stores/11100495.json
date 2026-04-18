@@ -1,7 +1,7 @@
 {
   "store_id": "11100495",
   "name": "또와식품",
-  "address": "서울 강서구  양천로 694 ",
+  "address": "서울 강서구 양천로 694  ",
   "province": "서울",
   "city": "강서구",
   "phone": "02-3665-4377",
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.550079,
-  "longitude": 126.872827,
-  "updated_at": "2026-03-05T23:57:07.601353",
+  "latitude": 37.550114,
+  "longitude": 126.87285,
+  "updated_at": "2026-04-18T13:37:49.538793",
   "first_prize_draws": [
     1096,
     566,
@@ -20,6 +20,7 @@
     437
   ],
   "second_prize_draws": [
+    1220,
     1137,
     1129,
     1076,
@@ -38,5 +39,5 @@
     313
   ],
   "first_prize_count": 4,
-  "second_prize_count": 16
+  "second_prize_count": 17
 }

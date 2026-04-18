@@ -1,7 +1,7 @@
 {
   "store_id": "14740208",
   "name": "로또명당",
-  "address": "경북 의성군  중앙길 10-1 1층",
+  "address": "경북 의성군 중앙길 10-1 1층  ",
   "province": "경북",
   "city": "의성군",
   "phone": null,
@@ -10,16 +10,17 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 36.34501,
-  "longitude": 128.69894,
-  "updated_at": "2026-03-06T00:00:48.625969",
+  "latitude": 36.345303,
+  "longitude": 128.69848,
+  "updated_at": "2026-04-18T13:37:49.550060",
   "first_prize_draws": [
+    1220,
     1199
   ],
   "second_prize_draws": [
     1146,
     1008
   ],
-  "first_prize_count": 1,
+  "first_prize_count": 2,
   "second_prize_count": 2
 }

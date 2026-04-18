@@ -1,18 +1,21 @@
 {
   "store_id": "14710103",
   "name": "로또복권보성점",
-  "address": "경북 포항시 북구  용흥로 126 보성아파트상가101호",
+  "address": "경북 포항시 북구 용흥로 126 보성아파트상가101호  ",
   "province": "경북",
   "city": "포항시",
   "phone": "054-247-8239",
   "lottery_types": [
     "lotto645",
+    "pension720",
     "speetto"
   ],
-  "latitude": 36.0397,
-  "longitude": 129.348,
-  "updated_at": "2026-03-05T23:59:40.855350",
-  "first_prize_draws": [],
+  "latitude": 36.039135,
+  "longitude": 129.3482,
+  "updated_at": "2026-04-18T13:37:49.549640",
+  "first_prize_draws": [
+    1220
+  ],
   "second_prize_draws": [
     1175,
     1161,
@@ -21,6 +24,6 @@
     806,
     647
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 6
 }

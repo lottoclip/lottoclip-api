@@ -1,7 +1,7 @@
 {
   "store_id": "14141385",
   "name": "희망복권",
-  "address": "경기 시흥시  월곶중앙로14번길 68 1동 104호",
+  "address": "경기 시흥시 월곶중앙로14번길 68 1동 104호  ",
   "province": "경기",
   "city": "시흥시",
   "phone": null,
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.392129,
+  "latitude": 37.392128,
   "longitude": 126.74172,
-  "updated_at": "2026-03-05T23:51:25.350054",
+  "updated_at": "2026-04-18T13:37:49.545517",
   "first_prize_draws": [
     1024
   ],
   "second_prize_draws": [
+    1220,
     1027
   ],
   "first_prize_count": 1,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

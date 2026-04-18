@@ -1,7 +1,7 @@
 {
   "store_id": "14420002",
   "name": "유구복권방",
-  "address": "충남 공주시  중앙2길 70 1층",
+  "address": "충남 공주시 중앙2길 70 1층  ",
   "province": "충남",
   "city": "공주시",
   "phone": "041-841-4777",
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 36.550592,
-  "longitude": 126.952601,
-  "updated_at": "2026-03-06T00:00:16.507816",
+  "latitude": 36.550635,
+  "longitude": 126.95251,
+  "updated_at": "2026-04-18T13:37:49.548551",
   "first_prize_draws": [
     821
   ],
   "second_prize_draws": [
+    1220,
     1188,
     1158,
     1119,
@@ -26,5 +27,5 @@
     661
   ],
   "first_prize_count": 1,
-  "second_prize_count": 7
+  "second_prize_count": 8
 }

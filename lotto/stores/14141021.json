@@ -1,7 +1,7 @@
 {
   "store_id": "14141021",
   "name": "동탄호수복권",
-  "address": "경기 화성시  동탄순환대로 127-5 1층 101호",
+  "address": "경기 화성시 동탄순환대로 127-5 1층 101호  ",
   "province": "경기",
   "city": "화성시",
   "phone": null,
@@ -12,11 +12,12 @@
   ],
   "latitude": 37.166089,
   "longitude": 127.10728,
-  "updated_at": "2026-03-06T00:00:56.558644",
+  "updated_at": "2026-04-18T13:37:49.542147",
   "first_prize_draws": [
     1192
   ],
   "second_prize_draws": [
+    1220,
     1202,
     1101,
     1081,
@@ -31,5 +32,5 @@
     918
   ],
   "first_prize_count": 1,
-  "second_prize_count": 12
+  "second_prize_count": 13
 }

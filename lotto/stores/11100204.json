@@ -1,7 +1,7 @@
 {
   "store_id": "11100204",
   "name": "복권백화점",
-  "address": "서울 마포구  월드컵로 157 ",
+  "address": "서울 마포구 월드컵로 157  ",
   "province": "서울",
   "city": "마포구",
   "phone": "02-3142-6478",
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.561568,
-  "longitude": 126.9047,
-  "updated_at": "2026-03-05T23:58:33.487183",
+  "latitude": 37.561607,
+  "longitude": 126.90478,
+  "updated_at": "2026-04-18T13:37:49.538104",
   "first_prize_draws": [
     924
   ],
   "second_prize_draws": [
+    1220,
     1157,
     1076,
     1005,
@@ -29,5 +30,5 @@
     362
   ],
   "first_prize_count": 1,
-  "second_prize_count": 10
+  "second_prize_count": 11
 }

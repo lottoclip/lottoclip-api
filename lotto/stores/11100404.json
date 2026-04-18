@@ -1,7 +1,7 @@
 {
   "store_id": "11100404",
   "name": "우선식품",
-  "address": "서울 영등포구  도신로 231-2 ",
+  "address": "서울 영등포구 도신로 231-2  ",
   "province": "서울",
   "city": "영등포구",
   "phone": "02-833-0049",
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.512468,
-  "longitude": 126.916657,
-  "updated_at": "2026-03-06T00:00:40.100074",
+  "latitude": 37.512497,
+  "longitude": 126.91667,
+  "updated_at": "2026-04-18T13:37:49.537168",
   "first_prize_draws": [
     310
   ],
   "second_prize_draws": [
+    1220,
     1196,
     1088,
     1083,
@@ -36,5 +37,5 @@
     368
   ],
   "first_prize_count": 1,
-  "second_prize_count": 17
+  "second_prize_count": 18
 }

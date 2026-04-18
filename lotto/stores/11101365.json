@@ -1,7 +1,7 @@
 {
   "store_id": "11101365",
   "name": "미래복권",
-  "address": "서울 노원구  동일로191길 7 1층",
+  "address": "서울 노원구 동일로191길 7 1층  ",
   "province": "서울",
   "city": "노원구",
   "phone": "02-978-2011",
@@ -10,16 +10,17 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.625191,
-  "longitude": 127.072624,
-  "updated_at": "2026-03-05T23:57:07.578087",
+  "latitude": 37.62519,
+  "longitude": 127.07262,
+  "updated_at": "2026-04-18T13:37:49.538509",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1220,
     1137,
     1057,
     905,
     301
   ],
   "first_prize_count": 0,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }
