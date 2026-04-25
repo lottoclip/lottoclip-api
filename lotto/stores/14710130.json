@@ -1,22 +1,23 @@
 {
   "store_id": "14710130",
   "name": "중앙로또",
-  "address": "경북 칠곡군  북삼로 41 복권판매점",
+  "address": "경북 칠곡군 북삼로 41 복권판매점  ",
   "province": "경북",
   "city": "칠곡군",
   "phone": "054-975-1666",
   "lottery_types": [
     "lotto645"
   ],
-  "latitude": 36.071458,
-  "longitude": 128.342786,
-  "updated_at": "2026-03-06T00:00:51.496688",
+  "latitude": 36.071485,
+  "longitude": 128.34281,
+  "updated_at": "2026-04-25T13:41:01.359484",
   "first_prize_draws": [
     1116,
     1042,
     719
   ],
   "second_prize_draws": [
+    1221,
     1200,
     1129,
     1002,
@@ -27,5 +28,5 @@
     318
   ],
   "first_prize_count": 3,
-  "second_prize_count": 8
+  "second_prize_count": 9
 }

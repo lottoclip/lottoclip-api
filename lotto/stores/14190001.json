@@ -1,7 +1,7 @@
 {
   "store_id": "14190001",
   "name": "천하명당복권방",
-  "address": "경기 안성시  중앙로 424 ",
+  "address": "경기 안성시 중앙로 424  ",
   "province": "경기",
   "city": "안성시",
   "phone": "031-674-8267",
@@ -10,14 +10,15 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.006596,
-  "longitude": 127.273687,
-  "updated_at": "2026-03-05T23:57:07.975828",
+  "latitude": 37.0066,
+  "longitude": 127.27375,
+  "updated_at": "2026-04-25T13:41:01.353762",
   "first_prize_draws": [
     877,
     659
   ],
   "second_prize_draws": [
+    1221,
     1137,
     940,
     844,
@@ -30,5 +31,5 @@
     266
   ],
   "first_prize_count": 2,
-  "second_prize_count": 10
+  "second_prize_count": 11
 }

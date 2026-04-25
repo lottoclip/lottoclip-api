@@ -1,7 +1,7 @@
 {
   "store_id": "11100205",
   "name": "한삼인 홍제역점",
-  "address": "서울 서대문구  통일로 457 ",
+  "address": "서울 서대문구 통일로 457  ",
   "province": "서울",
   "city": "서대문구",
   "phone": "02-3217-6698",
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.589219,
-  "longitude": 126.943214,
-  "updated_at": "2026-03-05T23:59:45.855731",
+  "latitude": 37.589208,
+  "longitude": 126.94324,
+  "updated_at": "2026-04-25T13:41:01.346047",
   "first_prize_draws": [
     407
   ],
   "second_prize_draws": [
+    1221,
     1177,
     1012,
     972,
@@ -29,5 +30,5 @@
     420
   ],
   "first_prize_count": 1,
-  "second_prize_count": 10
+  "second_prize_count": 11
 }

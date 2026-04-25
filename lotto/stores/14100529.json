@@ -1,16 +1,18 @@
 {
   "store_id": "14100529",
   "name": "버스표판매소",
-  "address": "경기 고양시 덕양구  화신로 76 샘터마을1단지아파트 971번지선",
+  "address": "경기 고양시 덕양구 화신로 76 가라뫼 사거리 변전소 앞 버스정류장 앞 가판대  ",
   "province": "경기",
   "city": "고양시",
   "phone": "031-978-1143",
   "lottery_types": [
-    "lotto645"
+    "lotto645",
+    "pension720",
+    "speetto"
   ],
-  "latitude": 37.618288,
-  "longitude": 126.843001,
-  "updated_at": "2026-03-05T23:54:56.803217",
+  "latitude": 37.619658,
+  "longitude": 126.83906,
+  "updated_at": "2026-04-25T13:41:01.356180",
   "first_prize_draws": [
     1092,
     1090,
@@ -21,6 +23,7 @@
     840
   ],
   "second_prize_draws": [
+    1221,
     1061,
     1022,
     1015,
@@ -37,5 +40,5 @@
     278
   ],
   "first_prize_count": 7,
-  "second_prize_count": 14
+  "second_prize_count": 15
 }

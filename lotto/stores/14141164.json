@@ -1,7 +1,7 @@
 {
   "store_id": "14141164",
   "name": "대운상사",
-  "address": "경기 남양주시  장현로 178 장현리 229-4외 1필지 주2동 106호",
+  "address": "경기 남양주시 장현로 178 장현리 229-4외 1필지 주2동 106호  ",
   "province": "경기",
   "city": "남양주시",
   "phone": null,
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.723353,
-  "longitude": 127.190033,
-  "updated_at": "2026-03-05T23:49:11.114733",
+  "latitude": 37.723409,
+  "longitude": 127.18993,
+  "updated_at": "2026-04-25T13:41:01.354798",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1221,
     984
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "11100918",
   "name": "중구-가로가판대-37",
-  "address": "서울 중구  남대문로 20-2 ",
+  "address": "서울 중구 남대문로 20-2  ",
   "province": "서울",
   "city": "중구",
   "phone": "02-773-8798",
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.560831,
-  "longitude": 126.978048,
-  "updated_at": "2026-03-06T00:00:22.017365",
+  "latitude": 37.56083,
+  "longitude": 126.97806,
+  "updated_at": "2026-04-25T13:41:01.344866",
   "first_prize_draws": [
     1189,
     959,
@@ -22,6 +22,7 @@
     455
   ],
   "second_prize_draws": [
+    1221,
     1190,
     1144,
     1076,
@@ -43,5 +44,5 @@
     333
   ],
   "first_prize_count": 6,
-  "second_prize_count": 19
+  "second_prize_count": 20
 }

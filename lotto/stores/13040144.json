@@ -6,17 +6,20 @@
   "city": "서구",
   "phone": null,
   "lottery_types": [
-    "lotto645"
+    "lotto645",
+    "pension720",
+    "speetto"
   ],
-  "latitude": 36.362502,
-  "longitude": 127.376811,
-  "updated_at": "2026-03-06T00:01:22.570464",
+  "latitude": 36.362462,
+  "longitude": 127.37688,
+  "updated_at": "2026-04-25T13:41:01.350789",
   "first_prize_draws": [
     1211,
     1183,
     1160
   ],
   "second_prize_draws": [
+    1221,
     1205,
     1185,
     1180,
@@ -24,5 +27,5 @@
     1107
   ],
   "first_prize_count": 3,
-  "second_prize_count": 5
+  "second_prize_count": 6
 }

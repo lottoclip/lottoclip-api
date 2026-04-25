@@ -1,18 +1,18 @@
 {
   "store_id": "14290046",
   "name": "대박의터",
-  "address": "강원 춘천시 영서로 1786  ",
+  "address": "강원 춘천시 영서로 1786 1층  ",
   "province": "강원",
   "city": "춘천시",
-  "phone": "033-264-8818",
+  "phone": null,
   "lottery_types": [
     "lotto645",
     "pension720",
     "speetto"
   ],
-  "latitude": 37.836243,
-  "longitude": 127.760082,
-  "updated_at": "2026-03-06T00:01:19.459104",
+  "latitude": 37.836273,
+  "longitude": 127.76013,
+  "updated_at": "2026-04-25T13:41:01.356347",
   "first_prize_draws": [
     1196,
     1166,
@@ -20,6 +20,7 @@
     916
   ],
   "second_prize_draws": [
+    1221,
     1210,
     1206,
     1177,
@@ -41,5 +42,5 @@
     509
   ],
   "first_prize_count": 4,
-  "second_prize_count": 19
+  "second_prize_count": 20
 }

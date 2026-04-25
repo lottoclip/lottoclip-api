@@ -1,7 +1,7 @@
 {
   "store_id": "14740203",
   "name": "완산로또방",
-  "address": "경북 영천시  대경로 1260 ",
+  "address": "경북 영천시 대경로 1260  ",
   "province": "경북",
   "city": "영천시",
   "phone": null,
@@ -11,9 +11,10 @@
     "speetto"
   ],
   "latitude": 35.934788,
-  "longitude": 128.871089,
-  "updated_at": "2026-03-06T00:00:57.135941",
+  "longitude": 128.87108,
+  "updated_at": "2026-04-25T13:41:01.359715",
   "first_prize_draws": [
+    1221,
     1075
   ],
   "second_prize_draws": [
@@ -21,6 +22,6 @@
     1115,
     1108
   ],
-  "first_prize_count": 1,
+  "first_prize_count": 2,
   "second_prize_count": 3
 }

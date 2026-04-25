@@ -1,7 +1,7 @@
 {
   "store_id": "12700075",
   "name": "천하명당복권",
-  "address": "대구 북구  칠곡중앙대로 545 ",
+  "address": "대구 북구 칠곡중앙대로 545  ",
   "province": "대구",
   "city": "북구",
   "phone": "053-311-0645",
@@ -10,10 +10,11 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.944319,
-  "longitude": 128.550637,
-  "updated_at": "2026-03-06T00:01:02.438279",
+  "latitude": 35.944288,
+  "longitude": 128.55065,
+  "updated_at": "2026-04-25T13:41:01.349157",
   "first_prize_draws": [
+    1221,
     1160,
     1119,
     1107,
@@ -71,6 +72,6 @@
     319,
     283
   ],
-  "first_prize_count": 9,
+  "first_prize_count": 10,
   "second_prize_count": 45
 }

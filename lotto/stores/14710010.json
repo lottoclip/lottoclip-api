@@ -1,7 +1,7 @@
 {
   "store_id": "14710010",
   "name": "불국사명당복권",
-  "address": "경북 경주시  산업로 3033 ",
+  "address": "경북 경주시 산업로 3033  ",
   "province": "경북",
   "city": "경주시",
   "phone": "054-743-3450",
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.776501,
-  "longitude": 129.298133,
-  "updated_at": "2026-03-06T00:00:48.806554",
+  "latitude": 35.776509,
+  "longitude": 129.29815,
+  "updated_at": "2026-04-25T13:41:01.360378",
   "first_prize_draws": [
     1115,
     1105,
@@ -21,6 +21,7 @@
     531
   ],
   "second_prize_draws": [
+    1221,
     1199,
     1188,
     1184,
@@ -60,5 +61,5 @@
     279
   ],
   "first_prize_count": 5,
-  "second_prize_count": 37
+  "second_prize_count": 38
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14710186",
   "name": "미래복권방",
-  "address": "경북 영천시  시장2길 7 5호",
+  "address": "경북 영천시 시장2길 7 5호  ",
   "province": "경북",
   "city": "영천시",
   "phone": "054-333-8000",
@@ -10,11 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.963707,
-  "longitude": 128.937192,
-  "updated_at": "2026-03-05T23:54:42.420663",
+  "latitude": 35.963744,
+  "longitude": 128.93715,
+  "updated_at": "2026-04-25T13:41:01.359927",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1221,
     1087,
     878,
     747,
@@ -25,5 +26,5 @@
     272
   ],
   "first_prize_count": 0,
-  "second_prize_count": 8
+  "second_prize_count": 9
 }

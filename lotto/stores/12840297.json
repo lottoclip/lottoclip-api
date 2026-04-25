@@ -1,7 +1,7 @@
 {
   "store_id": "12840297",
   "name": "이유복권",
-  "address": "인천 서구  이음대로 388 117호",
+  "address": "인천 서구 이음대로 388 117호  ",
   "province": "인천",
   "city": "서구",
   "phone": null,
@@ -11,15 +11,16 @@
     "speetto"
   ],
   "latitude": 37.593077,
-  "longitude": 126.712703,
-  "updated_at": "2026-03-06T00:00:34.786265",
+  "longitude": 126.7127,
+  "updated_at": "2026-04-25T13:41:01.350012",
   "first_prize_draws": [
     1182
   ],
   "second_prize_draws": [
+    1221,
     1194,
     1051
   ],
   "first_prize_count": 1,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

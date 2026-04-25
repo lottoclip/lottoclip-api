@@ -1,7 +1,7 @@
 {
   "store_id": "12800212",
   "name": "명동럭키로또",
-  "address": "인천 연수구  경원대로483번길 6 103호",
+  "address": "인천 연수구 경원대로483번길 6 103호  ",
   "province": "인천",
   "city": "연수구",
   "phone": "032-811-1145",
@@ -10,10 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.427313,
-  "longitude": 126.698052,
-  "updated_at": "2026-03-05T23:59:10.650059",
-  "first_prize_draws": [],
+  "latitude": 37.427527,
+  "longitude": 126.69848,
+  "updated_at": "2026-04-25T13:41:01.349867",
+  "first_prize_draws": [
+    1221
+  ],
   "second_prize_draws": [
     1170,
     942,
@@ -21,6 +23,6 @@
     596,
     538
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 5
 }

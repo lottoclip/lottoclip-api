@@ -1,7 +1,7 @@
 {
   "store_id": "14110473",
   "name": "복권방",
-  "address": "경기 하남시  신장로 122 ",
+  "address": "경기 하남시 신장로 122  ",
   "province": "경기",
   "city": "하남시",
   "phone": "031-792-2774",
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.538039,
-  "longitude": 127.204779,
-  "updated_at": "2026-03-06T00:00:48.392043",
+  "latitude": 37.538071,
+  "longitude": 127.2048,
+  "updated_at": "2026-04-25T13:41:01.352078",
   "first_prize_draws": [
     940,
     581,
@@ -20,6 +20,7 @@
     313
   ],
   "second_prize_draws": [
+    1221,
     1199,
     1191,
     1124,
@@ -43,5 +44,5 @@
     295
   ],
   "first_prize_count": 4,
-  "second_prize_count": 21
+  "second_prize_count": 22
 }

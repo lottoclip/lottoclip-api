@@ -1,7 +1,7 @@
 {
   "store_id": "14840508",
   "name": "복연 복권방",
-  "address": "경남 거제시  아주로 66 1층",
+  "address": "경남 거제시 아주로 66 1층  ",
   "province": "경남",
   "city": "거제시",
   "phone": null,
@@ -11,12 +11,13 @@
     "speetto"
   ],
   "latitude": 34.864951,
-  "longitude": 128.687602,
-  "updated_at": "2026-03-05T23:56:36.903675",
+  "longitude": 128.6876,
+  "updated_at": "2026-04-25T13:41:01.362234",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1221,
     1126
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

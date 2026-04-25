@@ -1,7 +1,7 @@
 {
   "store_id": "14190137",
   "name": "대박복권방",
-  "address": "경기 연천군 온골로 57-1  ",
+  "address": "경기 연천군 온골로 57-1 1층  ",
   "province": "경기",
   "city": "연천군",
   "phone": "031-835-2010",
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 38.02602,
-  "longitude": 127.067657,
-  "updated_at": "2026-03-06T00:01:25.582756",
+  "latitude": 38.026063,
+  "longitude": 127.06772,
+  "updated_at": "2026-04-25T13:41:01.353134",
   "first_prize_draws": [
     1122,
     905,
@@ -23,6 +23,7 @@
     315
   ],
   "second_prize_draws": [
+    1221,
     1212,
     1170,
     1108,
@@ -42,5 +43,5 @@
     325
   ],
   "first_prize_count": 7,
-  "second_prize_count": 17
+  "second_prize_count": 18
 }

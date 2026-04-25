@@ -1,7 +1,7 @@
 {
   "store_id": "12600063",
   "name": "복권방",
-  "address": "부산 사하구  장림번영로 25 ",
+  "address": "부산 사하구 장림번영로 25  ",
   "province": "부산",
   "city": "사하구",
   "phone": "051-265-9677",
@@ -10,10 +10,11 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.081006,
-  "longitude": 128.968224,
-  "updated_at": "2026-03-06T00:00:31.256115",
+  "latitude": 35.080979,
+  "longitude": 128.96818,
+  "updated_at": "2026-04-25T13:41:01.347992",
   "first_prize_draws": [
+    1221,
     1084,
     1068,
     931,
@@ -48,6 +49,6 @@
     409,
     356
   ],
-  "first_prize_count": 7,
+  "first_prize_count": 8,
   "second_prize_count": 24
 }

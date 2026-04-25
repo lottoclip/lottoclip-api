@@ -1,7 +1,7 @@
 {
   "store_id": "14410057",
   "name": "로또복권방",
-  "address": "충남 천안시 서북구  쌍용대로 190 상가3호",
+  "address": "충남 천안시 서북구 쌍용대로 190 상가3호  ",
   "province": "충남",
   "city": "천안시",
   "phone": "041-579-3377",
@@ -10,14 +10,15 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 36.8143,
-  "longitude": 127.134848,
-  "updated_at": "2026-03-06T00:00:57.009634",
+  "latitude": 36.814253,
+  "longitude": 127.13492,
+  "updated_at": "2026-04-25T13:41:01.357724",
   "first_prize_draws": [
     1014,
     418
   ],
   "second_prize_draws": [
+    1221,
     1202,
     1009,
     997,
@@ -30,5 +31,5 @@
     348
   ],
   "first_prize_count": 2,
-  "second_prize_count": 10
+  "second_prize_count": 11
 }

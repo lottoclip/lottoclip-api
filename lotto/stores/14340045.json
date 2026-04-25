@@ -1,7 +1,7 @@
 {
   "store_id": "14340045",
   "name": "오송팡팡복권방",
-  "address": "충북 청주시 흥덕구  봉산2길 20-9 ",
+  "address": "충북 청주시 흥덕구 봉산2길 20-9  ",
   "province": "충북",
   "city": "청주시",
   "phone": null,
@@ -12,11 +12,12 @@
   ],
   "latitude": 36.61961,
   "longitude": 127.31829,
-  "updated_at": "2026-03-06T00:00:59.911990",
+  "updated_at": "2026-04-25T13:41:01.357118",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1221,
     1203
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

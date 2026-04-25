@@ -1,7 +1,7 @@
 {
   "store_id": "13140146",
   "name": "행운로또",
-  "address": "울산 남구  중앙로 20 ",
+  "address": "울산 남구 중앙로 20  ",
   "province": "울산",
   "city": "남구",
   "phone": null,
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.5237,
-  "longitude": 129.318053,
-  "updated_at": "2026-03-05T23:56:33.773772",
+  "latitude": 35.523389,
+  "longitude": 129.31871,
+  "updated_at": "2026-04-25T13:41:01.351567",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1221,
     1125
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

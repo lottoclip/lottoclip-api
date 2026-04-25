@@ -1,20 +1,23 @@
 {
   "store_id": "14142695",
   "name": "새 녹원마트",
-  "address": "경기 용인시 기흥구  새천년로16번길 18 신갈동 새천년상가 102호",
+  "address": "경기 용인시 기흥구 새천년로16번길 18 신갈동 새천년상가 102호  ",
   "province": "경기",
   "city": "용인시",
   "phone": null,
   "lottery_types": [
-    "lotto645"
+    "lotto645",
+    "pension720",
+    "speetto"
   ],
   "latitude": 37.287885,
-  "longitude": 127.111164,
-  "updated_at": "2026-03-06T00:00:56.601721",
+  "longitude": 127.11116,
+  "updated_at": "2026-04-25T13:41:01.352697",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1221,
     1202
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "12800200",
   "name": "버스매표소",
-  "address": "인천 부평구  부평대로 3 가판",
+  "address": "인천 부평구 부평대로 3 가판  ",
   "province": "인천",
   "city": "부평구",
   "phone": "032-523-6498",
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.49181,
-  "longitude": 126.722722,
-  "updated_at": "2026-03-06T00:00:40.274499",
+  "latitude": 37.491828,
+  "longitude": 126.72272,
+  "updated_at": "2026-04-25T13:41:01.350174",
   "first_prize_draws": [
     1159,
     1003,
@@ -23,6 +23,7 @@
     316
   ],
   "second_prize_draws": [
+    1221,
     1196,
     1189,
     1170,
@@ -48,5 +49,5 @@
     498
   ],
   "first_prize_count": 7,
-  "second_prize_count": 23
+  "second_prize_count": 24
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "12640115",
   "name": "로또 명당",
-  "address": "부산 동구  범일로 64-1 1층",
+  "address": "부산 동구 범일로 64-1 1층  ",
   "province": "부산",
   "city": "동구",
   "phone": "051-633-0108",
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.135756,
-  "longitude": 129.05969,
-  "updated_at": "2026-03-05T23:55:14.289640",
+  "latitude": 35.135769,
+  "longitude": 129.05968,
+  "updated_at": "2026-04-25T13:41:01.348848",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1221,
     1098,
     1041,
     955
   ],
   "first_prize_count": 0,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

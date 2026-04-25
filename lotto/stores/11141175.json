@@ -1,7 +1,7 @@
 {
   "store_id": "11141175",
   "name": "행운당",
-  "address": "서울 노원구  노해로 506 바상가동 106호",
+  "address": "서울 노원구 노해로 506 바상가동 106호  ",
   "province": "서울",
   "city": "노원구",
   "phone": null,
@@ -10,13 +10,15 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.654827,
-  "longitude": 127.064207,
-  "updated_at": "2026-03-05T23:55:59.936791",
-  "first_prize_draws": [],
+  "latitude": 37.654826,
+  "longitude": 127.0642,
+  "updated_at": "2026-04-25T13:41:01.347091",
+  "first_prize_draws": [
+    1221
+  ],
   "second_prize_draws": [
     1114
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 1
 }

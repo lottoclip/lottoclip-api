@@ -1,7 +1,7 @@
 {
   "store_id": "14110187",
   "name": "행운복권방",
-  "address": "경기 김포시  김포대로 1764 누산마트내",
+  "address": "경기 김포시 김포대로 1764 누산마트내  ",
   "province": "경기",
   "city": "김포시",
   "phone": "031-986-3108",
@@ -10,10 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.615246,
-  "longitude": 126.715633,
-  "updated_at": "2026-03-05T23:53:24.667092",
-  "first_prize_draws": [],
+  "latitude": 37.670371,
+  "longitude": 126.64414,
+  "updated_at": "2026-04-25T13:41:01.355087",
+  "first_prize_draws": [
+    1221
+  ],
   "second_prize_draws": [
     1060,
     1046,
@@ -29,6 +31,6 @@
     418,
     396
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 13
 }
