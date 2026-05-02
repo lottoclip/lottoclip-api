@@ -1,7 +1,7 @@
 {
   "store_id": "14141800",
   "name": "또와복권",
-  "address": "경기 수원시 권선구  구운로 46-1 1층 103호",
+  "address": "경기 수원시 권선구 구운로 46-1 1층 103호  ",
   "province": "경기",
   "city": "수원시",
   "phone": null,
@@ -10,16 +10,17 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.27797,
-  "longitude": 126.97356,
-  "updated_at": "2026-03-05T23:59:37.837728",
+  "latitude": 37.27795,
+  "longitude": 126.97345,
+  "updated_at": "2026-05-02T13:51:37.064714",
   "first_prize_draws": [
     1085
   ],
   "second_prize_draws": [
+    1222,
     1174,
     1055
   ],
   "first_prize_count": 1,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

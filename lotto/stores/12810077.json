@@ -1,7 +1,7 @@
 {
   "store_id": "12810077",
   "name": "천하복권방",
-  "address": "인천 중구  신포로 19 ",
+  "address": "인천 중구 신포로 19  ",
   "province": "인천",
   "city": "중구",
   "phone": "032-764-1600",
@@ -10,11 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.470813,
-  "longitude": 126.624389,
-  "updated_at": "2026-03-05T23:58:48.507575",
+  "latitude": 37.470814,
+  "longitude": 126.6244,
+  "updated_at": "2026-05-02T13:51:37.056358",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1222,
     1162,
     1121,
     1085,
@@ -31,5 +32,5 @@
     269
   ],
   "first_prize_count": 0,
-  "second_prize_count": 14
+  "second_prize_count": 15
 }

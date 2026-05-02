@@ -1,7 +1,7 @@
 {
   "store_id": "11100653",
   "name": "동원마트",
-  "address": "서울 강동구  풍성로 209 ",
+  "address": "서울 강동구 풍성로 209  ",
   "province": "서울",
   "city": "강동구",
   "phone": "02-476-4756",
@@ -10,14 +10,15 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.529347,
-  "longitude": 127.135098,
-  "updated_at": "2026-03-05T23:58:36.584302",
+  "latitude": 37.52936,
+  "longitude": 127.1351,
+  "updated_at": "2026-05-02T13:51:37.053207",
   "first_prize_draws": [
     945,
     876
   ],
   "second_prize_draws": [
+    1222,
     1158,
     1055,
     925,
@@ -28,5 +29,5 @@
     311
   ],
   "first_prize_count": 2,
-  "second_prize_count": 8
+  "second_prize_count": 9
 }

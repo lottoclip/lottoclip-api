@@ -1,7 +1,7 @@
 {
   "store_id": "11101705",
   "name": "명당마트",
-  "address": "서울 강서구  양천로 91 ",
+  "address": "서울 강서구 양천로 91  ",
   "province": "서울",
   "city": "강서구",
   "phone": "02-6212-4665",
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.573604,
-  "longitude": 126.814046,
-  "updated_at": "2026-03-05T23:59:53.953829",
+  "latitude": 37.573603,
+  "longitude": 126.81405,
+  "updated_at": "2026-05-02T13:51:37.052438",
   "first_prize_draws": [
     1153,
     989,
@@ -21,6 +21,7 @@
     760
   ],
   "second_prize_draws": [
+    1222,
     1180,
     1168,
     1068,
@@ -32,5 +33,5 @@
     638
   ],
   "first_prize_count": 5,
-  "second_prize_count": 9
+  "second_prize_count": 10
 }

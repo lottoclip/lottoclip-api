@@ -1,7 +1,7 @@
 {
   "store_id": "11100236",
   "name": "복권방",
-  "address": "서울 금천구  시흥대로 90 정송빌딩 정송빌딩1층",
+  "address": "서울 금천구 시흥대로 90 정송빌딩1층  ",
   "province": "서울",
   "city": "금천구",
   "phone": "02-895-7695",
@@ -12,9 +12,10 @@
   ],
   "latitude": 37.442095,
   "longitude": 126.903949,
-  "updated_at": "2026-03-05T23:54:47.820902",
+  "updated_at": "2026-05-02T13:51:37.051867",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1222,
     1089,
     1010,
     997,
@@ -28,5 +29,5 @@
     544
   ],
   "first_prize_count": 0,
-  "second_prize_count": 11
+  "second_prize_count": 12
 }

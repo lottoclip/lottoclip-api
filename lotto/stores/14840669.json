@@ -1,7 +1,7 @@
 {
   "store_id": "14840669",
   "name": "도항로또",
-  "address": "경남 함안군  함마대로 1499-1 1층",
+  "address": "경남 함안군 함마대로 1499-1 1층  ",
   "province": "경남",
   "city": "함안군",
   "phone": null,
@@ -11,14 +11,15 @@
     "speetto"
   ],
   "latitude": 35.275601,
-  "longitude": 128.399552,
-  "updated_at": "2026-03-05T23:58:54.405932",
+  "longitude": 128.39955,
+  "updated_at": "2026-05-02T13:51:37.079267",
   "first_prize_draws": [
     1148
   ],
   "second_prize_draws": [
+    1222,
     1164
   ],
   "first_prize_count": 1,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

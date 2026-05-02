@@ -1,7 +1,7 @@
 {
   "store_id": "12600156",
   "name": "과정미니슈퍼",
-  "address": "부산 연제구  과정로 234-1 ",
+  "address": "부산 연제구 과정로 234-1  ",
   "province": "부산",
   "city": "연제구",
   "phone": null,
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.187852,
-  "longitude": 129.101618,
-  "updated_at": "2026-03-06T00:00:10.518329",
+  "latitude": 35.18786,
+  "longitude": 129.10162,
+  "updated_at": "2026-05-02T13:51:37.053387",
   "first_prize_draws": [
     818
   ],
   "second_prize_draws": [
+    1222,
     1186,
     1130,
     1080,
@@ -31,5 +32,5 @@
     270
   ],
   "first_prize_count": 1,
-  "second_prize_count": 12
+  "second_prize_count": 13
 }

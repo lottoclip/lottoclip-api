@@ -1,7 +1,7 @@
 {
   "store_id": "14640100",
   "name": "황금알복권",
-  "address": "전남 광양시  광포로 39 1층 (광영동)",
+  "address": "전남 광양시 광포로 39 1층 (광영동)  ",
   "province": "전남",
   "city": "광양시",
   "phone": null,
@@ -10,14 +10,15 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 34.962803,
-  "longitude": 127.722842,
-  "updated_at": "2026-03-06T00:01:00.051602",
+  "latitude": 34.962794,
+  "longitude": 127.72274,
+  "updated_at": "2026-05-02T13:51:37.078253",
   "first_prize_draws": [
     1203,
     1141
   ],
   "second_prize_draws": [
+    1222,
     1167,
     1163,
     1112,
@@ -25,5 +26,5 @@
     1014
   ],
   "first_prize_count": 2,
-  "second_prize_count": 5
+  "second_prize_count": 6
 }

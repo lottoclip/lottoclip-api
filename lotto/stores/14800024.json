@@ -1,7 +1,7 @@
 {
   "store_id": "14800024",
   "name": "복권방",
-  "address": "경남 사천시  수남길 17 ",
+  "address": "경남 사천시 수남길 17 1층  ",
   "province": "경남",
   "city": "사천시",
   "phone": null,
@@ -10,11 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 34.928425,
-  "longitude": 128.073197,
-  "updated_at": "2026-03-05T23:56:00.487084",
+  "latitude": 34.928438,
+  "longitude": 128.07317,
+  "updated_at": "2026-05-02T13:51:37.081147",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1222,
     1114,
     1080,
     999,
@@ -27,5 +28,5 @@
     463
   ],
   "first_prize_count": 0,
-  "second_prize_count": 10
+  "second_prize_count": 11
 }

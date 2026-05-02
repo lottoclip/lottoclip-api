@@ -1,7 +1,7 @@
 {
   "store_id": "11100285",
   "name": "보경식품",
-  "address": "서울 강북구  도봉로 211 1층",
+  "address": "서울 강북구 도봉로 211 1층  ",
   "province": "서울",
   "city": "강북구",
   "phone": "02-988-2487",
@@ -11,9 +11,10 @@
     "speetto"
   ],
   "latitude": 37.627505,
-  "longitude": 127.025415,
-  "updated_at": "2026-03-05T23:58:39.395583",
+  "longitude": 127.02541,
+  "updated_at": "2026-05-02T13:51:37.052833",
   "first_prize_draws": [
+    1222,
     775,
     648,
     589
@@ -34,6 +35,6 @@
     496,
     363
   ],
-  "first_prize_count": 3,
+  "first_prize_count": 4,
   "second_prize_count": 14
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14100446",
   "name": "노다지복권방",
-  "address": "경기 부천시  양지로 205 1층 118호",
+  "address": "경기 부천시 양지로 205 1층 118호  ",
   "province": "경기",
   "city": "부천시",
   "phone": "032-657-9290",
@@ -10,14 +10,15 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.467977,
-  "longitude": 126.822465,
-  "updated_at": "2026-03-05T23:57:16.172120",
+  "latitude": 37.467715,
+  "longitude": 126.82409,
+  "updated_at": "2026-05-02T13:51:37.065256",
   "first_prize_draws": [
     1090,
     635
   ],
   "second_prize_draws": [
+    1222,
     1140,
     938,
     904,
@@ -27,5 +28,5 @@
     297
   ],
   "first_prize_count": 2,
-  "second_prize_count": 7
+  "second_prize_count": 8
 }

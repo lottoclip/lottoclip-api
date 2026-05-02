@@ -1,7 +1,7 @@
 {
   "store_id": "14140618",
   "name": "돈벼락",
-  "address": "경기 군포시  금당로 112 101호(당동)",
+  "address": "경기 군포시 금당로 112 101호(당동)  ",
   "province": "경기",
   "city": "군포시",
   "phone": null,
@@ -10,14 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.355819,
-  "longitude": 126.943303,
-  "updated_at": "2026-03-05T23:49:47.656367",
-  "first_prize_draws": [],
+  "latitude": 37.355865,
+  "longitude": 126.94331,
+  "updated_at": "2026-05-02T13:51:37.066382",
+  "first_prize_draws": [
+    1222
+  ],
   "second_prize_draws": [
     997,
     940
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 2
 }

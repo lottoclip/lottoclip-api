@@ -1,7 +1,7 @@
 {
   "store_id": "12840341",
   "name": "1등 로또복권",
-  "address": "인천 남동구  매소홀로 1127 1층 102호",
+  "address": "인천 남동구 매소홀로 1127 1층 102호  ",
   "province": "인천",
   "city": "남동구",
   "phone": null,
@@ -11,10 +11,11 @@
     "speetto"
   ],
   "latitude": 37.438588,
-  "longitude": 126.748146,
-  "updated_at": "2026-03-06T00:01:02.524459",
+  "longitude": 126.74814,
+  "updated_at": "2026-05-02T13:51:37.057154",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1222,
     1204,
     1144,
     1097,
@@ -22,5 +23,5 @@
     1067
   ],
   "first_prize_count": 0,
-  "second_prize_count": 5
+  "second_prize_count": 6
 }

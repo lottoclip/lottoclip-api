@@ -1,7 +1,7 @@
 {
   "store_id": "14340126",
   "name": "빙아&로또통신",
-  "address": "충북 충주시  사직로 257-1 1층 2호",
+  "address": "충북 충주시 사직로 257-1 1층 2호  ",
   "province": "충북",
   "city": "충주시",
   "phone": null,
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 36.969174,
-  "longitude": 127.939805,
-  "updated_at": "2026-03-05T23:59:20.177589",
+  "latitude": 36.96917,
+  "longitude": 127.9398,
+  "updated_at": "2026-05-02T13:51:37.069221",
   "first_prize_draws": [
     1068
   ],
   "second_prize_draws": [
+    1222,
     1173
   ],
   "first_prize_count": 1,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

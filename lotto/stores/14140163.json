@@ -6,13 +6,11 @@
   "city": "군포시",
   "phone": null,
   "lottery_types": [
-    "lotto645",
-    "pension720",
-    "speetto"
+    "lotto645"
   ],
-  "latitude": 37.326381,
-  "longitude": 126.918909,
-  "updated_at": "2026-03-06T00:01:25.644795",
+  "latitude": 37.32652,
+  "longitude": 126.91895,
+  "updated_at": "2026-05-02T13:51:37.066564",
   "first_prize_draws": [
     1212,
     1129,
@@ -22,6 +20,7 @@
     774
   ],
   "second_prize_draws": [
+    1222,
     1189,
     1175,
     1159,
@@ -44,5 +43,5 @@
     794
   ],
   "first_prize_count": 6,
-  "second_prize_count": 20
+  "second_prize_count": 21
 }

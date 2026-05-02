@@ -1,7 +1,7 @@
 {
   "store_id": "11101063",
   "name": "까치복권",
-  "address": "서울 양천구  화곡로 103 1층 (신월동)",
+  "address": "서울 양천구 화곡로 103 1층  ",
   "province": "서울",
   "city": "양천구",
   "phone": "02-2698-1677",
@@ -10,11 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.539965,
-  "longitude": 126.83328,
-  "updated_at": "2026-03-05T23:59:53.851492",
+  "latitude": 37.539954,
+  "longitude": 126.83334,
+  "updated_at": "2026-05-02T13:51:37.046365",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1222,
     1180,
     1154,
     964,
@@ -27,5 +28,5 @@
     299
   ],
   "first_prize_count": 0,
-  "second_prize_count": 10
+  "second_prize_count": 11
 }

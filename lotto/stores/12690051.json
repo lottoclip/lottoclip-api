@@ -1,7 +1,7 @@
 {
   "store_id": "12690051",
   "name": "명문슈퍼",
-  "address": "부산 북구  만덕대로 82 ",
+  "address": "부산 북구 만덕대로 82  ",
   "province": "부산",
   "city": "북구",
   "phone": "051-342-1409",
@@ -10,10 +10,11 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.212012,
-  "longitude": 129.013771,
-  "updated_at": "2026-03-06T00:00:04.969135",
+  "latitude": 35.212014,
+  "longitude": 129.01377,
+  "updated_at": "2026-05-02T13:51:37.053743",
   "first_prize_draws": [
+    1222,
     773
   ],
   "second_prize_draws": [
@@ -29,6 +30,6 @@
     395,
     281
   ],
-  "first_prize_count": 1,
+  "first_prize_count": 2,
   "second_prize_count": 11
 }

@@ -4,7 +4,7 @@
   "address": "대구 달성군 서재로 172  ",
   "province": "대구",
   "city": "달성군",
-  "phone": "053-591-3747",
+  "phone": null,
   "lottery_types": [
     "lotto645",
     "pension720",
@@ -12,7 +12,7 @@
   ],
   "latitude": 35.878706,
   "longitude": 128.497475,
-  "updated_at": "2026-04-18T14:31:55.930431",
+  "updated_at": "2026-05-02T13:51:37.055551",
   "first_prize_draws": [
     1220,
     1173,
@@ -25,6 +25,7 @@
     280
   ],
   "second_prize_draws": [
+    1222,
     1213,
     1201,
     1099,
@@ -56,5 +57,5 @@
     351
   ],
   "first_prize_count": 9,
-  "second_prize_count": 29
+  "second_prize_count": 30
 }

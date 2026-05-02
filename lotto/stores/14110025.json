@@ -1,7 +1,7 @@
 {
   "store_id": "14110025",
   "name": "은미복권방",
-  "address": "경기 부천시  소사로794번길 6 ",
+  "address": "경기 부천시 소사로794번길 6  ",
   "province": "경기",
   "city": "부천시",
   "phone": "032-682-0570",
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.52689,
-  "longitude": 126.805128,
-  "updated_at": "2026-03-05T23:55:48.112174",
+  "latitude": 37.526979,
+  "longitude": 126.80514,
+  "updated_at": "2026-05-02T13:51:37.065621",
   "first_prize_draws": [
     1039,
     832,
@@ -20,6 +20,7 @@
     537
   ],
   "second_prize_draws": [
+    1222,
     1110,
     998,
     959,
@@ -28,5 +29,5 @@
     275
   ],
   "first_prize_count": 4,
-  "second_prize_count": 6
+  "second_prize_count": 7
 }

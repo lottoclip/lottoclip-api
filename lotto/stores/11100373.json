@@ -1,7 +1,7 @@
 {
   "store_id": "11100373",
   "name": "굿데이",
-  "address": "서울 노원구  화랑로 421 106호",
+  "address": "서울 노원구 화랑로 421  ",
   "province": "서울",
   "city": "노원구",
   "phone": "02-915-5119",
@@ -11,15 +11,16 @@
     "speetto"
   ],
   "latitude": 37.617521,
-  "longitude": 127.074331,
-  "updated_at": "2026-03-05T23:51:39.151885",
+  "longitude": 127.07433,
+  "updated_at": "2026-05-02T13:51:37.051590",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1222,
     1032,
     951,
     898,
     313
   ],
   "first_prize_count": 0,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }

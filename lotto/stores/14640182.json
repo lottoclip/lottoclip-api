@@ -1,7 +1,7 @@
 {
   "store_id": "14640182",
   "name": "추섬로또",
-  "address": "전남 완도군  개포로145번길 44-4 제2호",
+  "address": "전남 완도군 개포로145번길 44-4 제2호  ",
   "province": "전남",
   "city": "완도군",
   "phone": null,
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 34.322742,
-  "longitude": 126.742556,
-  "updated_at": "2026-03-05T23:54:50.848419",
+  "latitude": 34.322788,
+  "longitude": 126.74253,
+  "updated_at": "2026-05-02T13:51:37.077728",
   "first_prize_draws": [
+    1222,
     1058
   ],
   "second_prize_draws": [
     1090
   ],
-  "first_prize_count": 1,
+  "first_prize_count": 2,
   "second_prize_count": 1
 }

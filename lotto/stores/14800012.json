@@ -1,7 +1,7 @@
 {
   "store_id": "14800012",
   "name": "서창복권나라",
-  "address": "경남 양산시  서창서2길 3 ",
+  "address": "경남 양산시 서창서2길 3  ",
   "province": "경남",
   "city": "양산시",
   "phone": "055-386-0645",
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.416226,
-  "longitude": 129.172261,
-  "updated_at": "2026-03-05T23:59:17.459236",
+  "latitude": 35.416202,
+  "longitude": 129.17224,
+  "updated_at": "2026-05-02T13:51:37.080494",
   "first_prize_draws": [
     1172,
     1152,
     330
   ],
   "second_prize_draws": [
+    1222,
     1143,
     1091,
     1082,
@@ -35,5 +36,5 @@
     345
   ],
   "first_prize_count": 3,
-  "second_prize_count": 14
+  "second_prize_count": 15
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "11100226",
   "name": "복권방",
-  "address": "서울 강동구  천호대로176길 10-3 ",
+  "address": "서울 강동구 천호대로176길 10-3  ",
   "province": "서울",
   "city": "강동구",
   "phone": null,
@@ -10,10 +10,11 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.533828,
-  "longitude": 127.136029,
-  "updated_at": "2026-03-05T23:57:10.491952",
+  "latitude": 37.53384,
+  "longitude": 127.13607,
+  "updated_at": "2026-05-02T13:51:37.053021",
   "first_prize_draws": [
+    1222,
     808,
     335
   ],
@@ -36,6 +37,6 @@
     339,
     336
   ],
-  "first_prize_count": 2,
+  "first_prize_count": 3,
   "second_prize_count": 17
 }

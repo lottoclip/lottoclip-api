@@ -1,7 +1,7 @@
 {
   "store_id": "12740054",
   "name": "대박로또복권",
-  "address": "대구 동구  메디밸리로 5-21 ",
+  "address": "대구 동구 메디밸리로 5-21  ",
   "province": "대구",
   "city": "동구",
   "phone": "053-963-1715",
@@ -10,18 +10,19 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.874181,
-  "longitude": 128.748453,
-  "updated_at": "2026-03-06T00:00:51.023736",
+  "latitude": 35.874185,
+  "longitude": 128.74846,
+  "updated_at": "2026-05-02T13:51:37.055367",
   "first_prize_draws": [
     997
   ],
   "second_prize_draws": [
+    1222,
     1200,
     1196,
     1144,
     972
   ],
   "first_prize_count": 1,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }

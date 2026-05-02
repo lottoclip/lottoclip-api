@@ -1,7 +1,7 @@
 {
   "store_id": "11190091",
   "name": "Proto샵종암점",
-  "address": "서울 성북구  종암로19길 7 큰 길쪽 복권방",
+  "address": "서울 성북구 종암로19길 7 큰 길쪽 복권방  ",
   "province": "서울",
   "city": "성북구",
   "phone": "02-927-7880",
@@ -10,18 +10,19 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.598377,
-  "longitude": 127.034327,
-  "updated_at": "2026-03-05T23:56:30.727528",
+  "latitude": 37.598415,
+  "longitude": 127.03424,
+  "updated_at": "2026-05-02T13:51:37.046826",
   "first_prize_draws": [
     965
   ],
   "second_prize_draws": [
+    1222,
     1124,
     1033,
     986,
     848
   ],
   "first_prize_count": 1,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }

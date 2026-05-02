@@ -1,7 +1,7 @@
 {
   "store_id": "14640014",
   "name": "희망전파사",
-  "address": "전남 해남군  중앙2로 133 희망전파사 희망전파사",
+  "address": "전남 해남군 중앙2로 133 희망전파사  ",
   "province": "전남",
   "city": "해남군",
   "phone": "061-536-4418",
@@ -10,15 +10,17 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 34.566674,
-  "longitude": 126.595389,
-  "updated_at": "2026-03-05T23:55:31.524539",
-  "first_prize_draws": [],
+  "latitude": 34.566677,
+  "longitude": 126.59537,
+  "updated_at": "2026-05-02T13:51:37.077526",
+  "first_prize_draws": [
+    1222
+  ],
   "second_prize_draws": [
     1104,
     940,
     843
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 3
 }

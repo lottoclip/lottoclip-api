@@ -1,7 +1,7 @@
 {
   "store_id": "14500066",
   "name": "천하명당복권방",
-  "address": "전북 익산시  선화로 130 ",
+  "address": "전북 익산시 선화로 130  ",
   "province": "전북",
   "city": "익산시",
   "phone": "063-858-3274",
@@ -10,14 +10,15 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.947891,
-  "longitude": 126.945004,
-  "updated_at": "2026-03-05T23:59:14.306774",
+  "latitude": 35.947903,
+  "longitude": 126.94502,
+  "updated_at": "2026-05-02T13:51:37.076561",
   "first_prize_draws": [
     713,
     604
   ],
   "second_prize_draws": [
+    1222,
     1171,
     1110,
     1025,
@@ -27,5 +28,5 @@
     300
   ],
   "first_prize_count": 2,
-  "second_prize_count": 7
+  "second_prize_count": 8
 }

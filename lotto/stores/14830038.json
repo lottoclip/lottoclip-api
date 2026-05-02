@@ -1,7 +1,7 @@
 {
   "store_id": "14830038",
   "name": "운수대통복권판매점",
-  "address": "경남 거제시  능포로 108 동헌하이츠 102동 109호",
+  "address": "경남 거제시 능포로 108 102동 109호  ",
   "province": "경남",
   "city": "거제시",
   "phone": "055-635-5058",
@@ -10,17 +10,18 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 34.873497,
-  "longitude": 128.73126,
-  "updated_at": "2026-03-05T23:54:42.494634",
+  "latitude": 34.873355,
+  "longitude": 128.73099,
+  "updated_at": "2026-05-02T13:51:37.081426",
   "first_prize_draws": [
     994
   ],
   "second_prize_draws": [
+    1222,
     1087,
     1024,
     757
   ],
   "first_prize_count": 1,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

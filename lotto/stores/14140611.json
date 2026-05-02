@@ -1,7 +1,7 @@
 {
   "store_id": "14140611",
   "name": "일등스팟",
-  "address": "경기 광주시  새말길 77 ",
+  "address": "경기 광주시 새말길 77  ",
   "province": "경기",
   "city": "광주시",
   "phone": null,
@@ -10,16 +10,17 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.366853,
-  "longitude": 127.159661,
-  "updated_at": "2026-03-06T00:00:10.812369",
+  "latitude": 37.366641,
+  "longitude": 127.15962,
+  "updated_at": "2026-05-02T13:51:37.067157",
   "first_prize_draws": [
     1128
   ],
   "second_prize_draws": [
+    1222,
     1186,
     1169
   ],
   "first_prize_count": 1,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

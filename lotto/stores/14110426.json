@@ -1,7 +1,7 @@
 {
   "store_id": "14110426",
   "name": "로또유통",
-  "address": "경기 안산시 단원구  광덕2로 193-3 광장타운1층108호",
+  "address": "경기 안산시 단원구 광덕2로 193-3 광장타운1층108호  ",
   "province": "경기",
   "city": "안산시",
   "phone": "031-414-3435",
@@ -11,9 +11,10 @@
     "speetto"
   ],
   "latitude": 37.310028,
-  "longitude": 126.831842,
-  "updated_at": "2026-03-05T23:58:56.775521",
+  "longitude": 126.83185,
+  "updated_at": "2026-05-02T13:51:37.063778",
   "first_prize_draws": [
+    1222,
     1057
   ],
   "second_prize_draws": [
@@ -32,6 +33,6 @@
     449,
     400
   ],
-  "first_prize_count": 1,
+  "first_prize_count": 2,
   "second_prize_count": 14
 }

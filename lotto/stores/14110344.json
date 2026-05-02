@@ -1,7 +1,7 @@
 {
   "store_id": "14110344",
   "name": "백마 사거리 로또판매점",
-  "address": "경기 고양시 일산동구  일산로 196 1층 104호",
+  "address": "경기 고양시 일산동구 일산로 196 1층 104호  ",
   "province": "경기",
   "city": "고양시",
   "phone": null,
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.65395,
-  "longitude": 126.790727,
-  "updated_at": "2026-03-06T00:00:05.426482",
+  "latitude": 37.653962,
+  "longitude": 126.79074,
+  "updated_at": "2026-05-02T13:51:37.067345",
   "first_prize_draws": [
     836
   ],
   "second_prize_draws": [
+    1222,
     1184,
     1059,
     1031,
@@ -28,5 +29,5 @@
     329
   ],
   "first_prize_count": 1,
-  "second_prize_count": 9
+  "second_prize_count": 10
 }
