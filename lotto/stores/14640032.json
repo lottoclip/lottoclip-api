@@ -1,7 +1,7 @@
 {
   "store_id": "14640032",
   "name": "금당로또복권",
-  "address": "전남 순천시  대석길 8 ",
+  "address": "전남 순천시 대석길 8  ",
   "province": "전남",
   "city": "순천시",
   "phone": "061-727-0985",
@@ -10,16 +10,17 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 34.945581,
-  "longitude": 127.523565,
-  "updated_at": "2026-03-06T00:00:16.529823",
+  "latitude": 34.945594,
+  "longitude": 127.52354,
+  "updated_at": "2026-05-09T13:55:44.565165",
   "first_prize_draws": [
     1080
   ],
   "second_prize_draws": [
+    1223,
     1188,
     1075
   ],
   "first_prize_count": 1,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14840126",
   "name": "로또명당",
-  "address": "경남 거제시  아주1로3길 37-1 102호",
+  "address": "경남 거제시 아주1로3길 37-1 102호  ",
   "province": "경남",
   "city": "거제시",
   "phone": null,
@@ -10,11 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 34.863988,
-  "longitude": 128.6916,
-  "updated_at": "2026-03-05T23:55:48.377207",
+  "latitude": 34.865548,
+  "longitude": 128.69018,
+  "updated_at": "2026-05-09T13:55:44.573493",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1223,
     1110,
     1107,
     1063,
@@ -22,5 +23,5 @@
     956
   ],
   "first_prize_count": 0,
-  "second_prize_count": 5
+  "second_prize_count": 6
 }

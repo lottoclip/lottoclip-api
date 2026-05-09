@@ -1,7 +1,7 @@
 {
   "store_id": "14740278",
   "name": "행운드림복권",
-  "address": "경북 안동시  경동로 465 ",
+  "address": "경북 안동시 경동로 465  ",
   "province": "경북",
   "city": "안동시",
   "phone": null,
@@ -11,12 +11,14 @@
     "speetto"
   ],
   "latitude": 36.567175,
-  "longitude": 128.709968,
-  "updated_at": "2026-03-05T23:55:42.584379",
-  "first_prize_draws": [],
+  "longitude": 128.70996,
+  "updated_at": "2026-05-09T13:55:44.565804",
+  "first_prize_draws": [
+    1223
+  ],
   "second_prize_draws": [
     1108
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 1
 }

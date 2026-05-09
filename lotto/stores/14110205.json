@@ -1,7 +1,7 @@
 {
   "store_id": "14110205",
   "name": "패밀리복권방",
-  "address": "경기 남양주시  늘을1로16번길 29 늘봄타워 107호",
+  "address": "경기 남양주시 늘을1로16번길 29 늘봄타워 107호  ",
   "province": "경기",
   "city": "남양주시",
   "phone": null,
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.654083,
-  "longitude": 127.243325,
-  "updated_at": "2026-03-06T00:00:56.739199",
+  "latitude": 37.654082,
+  "longitude": 127.24333,
+  "updated_at": "2026-05-09T13:55:44.561358",
   "first_prize_draws": [
     1154,
     1144,
@@ -23,6 +23,7 @@
     769
   ],
   "second_prize_draws": [
+    1223,
     1202,
     1198,
     1176,
@@ -53,5 +54,5 @@
     422
   ],
   "first_prize_count": 7,
-  "second_prize_count": 28
+  "second_prize_count": 29
 }

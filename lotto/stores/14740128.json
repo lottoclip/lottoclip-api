@@ -1,7 +1,7 @@
 {
   "store_id": "14740128",
   "name": "로또판매점(무지개점)",
-  "address": "경북 포항시 남구  중앙로 110 중간 상가",
+  "address": "경북 포항시 남구 중앙로 110 중간 상가  ",
   "province": "경북",
   "city": "포항시",
   "phone": "054-614-0029",
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 36.023009,
-  "longitude": 129.368821,
-  "updated_at": "2026-03-06T00:00:40.766250",
+  "latitude": 36.022997,
+  "longitude": 129.36882,
+  "updated_at": "2026-05-09T13:55:44.565437",
   "first_prize_draws": [
     991
   ],
   "second_prize_draws": [
+    1223,
     1196,
     1168,
     1128,
@@ -27,5 +28,5 @@
     929
   ],
   "first_prize_count": 1,
-  "second_prize_count": 8
+  "second_prize_count": 9
 }

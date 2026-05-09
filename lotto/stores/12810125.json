@@ -1,7 +1,7 @@
 {
   "store_id": "12810125",
   "name": "대박로또",
-  "address": "인천 계양구  아나지로 417 106호",
+  "address": "인천 계양구 아나지로 417 106호  ",
   "province": "인천",
   "city": "계양구",
   "phone": "032-545-1139",
@@ -10,11 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.525868,
-  "longitude": 126.73875,
-  "updated_at": "2026-03-06T00:00:19.126005",
+  "latitude": 37.52582,
+  "longitude": 126.73877,
+  "updated_at": "2026-05-09T13:55:44.556238",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1223,
     1189,
     1167,
     1151,
@@ -27,5 +28,5 @@
     379
   ],
   "first_prize_count": 0,
-  "second_prize_count": 10
+  "second_prize_count": 11
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14130139",
   "name": "하남시청 세븐일레븐 로또",
-  "address": "경기 하남시  대청로 15 103호 세븐일레븐 편의점",
+  "address": "경기 하남시 대청로 15 103호 세븐일레븐 편의점  ",
   "province": "경기",
   "city": "하남시",
   "phone": null,
@@ -10,10 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.540572,
-  "longitude": 127.213901,
-  "updated_at": "2026-03-06T00:00:40.348036",
-  "first_prize_draws": [],
+  "latitude": 37.540579,
+  "longitude": 127.21392,
+  "updated_at": "2026-05-09T13:55:44.558526",
+  "first_prize_draws": [
+    1223
+  ],
   "second_prize_draws": [
     1196,
     1157,
@@ -23,6 +25,6 @@
     897,
     827
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 7
 }

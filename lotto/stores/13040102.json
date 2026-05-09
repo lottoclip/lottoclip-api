@@ -1,7 +1,7 @@
 {
   "store_id": "13040102",
   "name": "카페브라운",
-  "address": "대전 동구  대전로 436-12 103호",
+  "address": "대전 동구 대전로 436-12 103호  ",
   "province": "대전",
   "city": "동구",
   "phone": null,
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 36.30505,
-  "longitude": 127.453742,
-  "updated_at": "2026-03-05T23:53:41.335900",
+  "latitude": 36.305035,
+  "longitude": 127.45375,
+  "updated_at": "2026-05-09T13:55:44.557282",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1223,
     1066
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

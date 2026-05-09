@@ -1,7 +1,7 @@
 {
   "store_id": "14110286",
   "name": "열두보석복권방",
-  "address": "경기 용인시 기흥구  구갈로 74 구갈스포츠센터106호",
+  "address": "경기 용인시 기흥구 구갈로 74 구갈스포츠센터106호  ",
   "province": "경기",
   "city": "용인시",
   "phone": "031-274-1916",
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.281134,
-  "longitude": 127.111805,
-  "updated_at": "2026-03-05T23:58:42.914878",
+  "latitude": 37.28113,
+  "longitude": 127.11181,
+  "updated_at": "2026-05-09T13:55:44.559636",
   "first_prize_draws": [
     1028,
     1024,
@@ -23,6 +23,7 @@
     543
   ],
   "second_prize_draws": [
+    1223,
     1160,
     1109,
     1106,
@@ -50,5 +51,5 @@
     411
   ],
   "first_prize_count": 7,
-  "second_prize_count": 25
+  "second_prize_count": 26
 }

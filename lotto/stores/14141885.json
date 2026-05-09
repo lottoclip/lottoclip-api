@@ -1,7 +1,7 @@
 {
   "store_id": "14141885",
   "name": "영웅복권",
-  "address": "경기 용인시 기흥구  흥덕1로 52 1층 103호",
+  "address": "경기 용인시 기흥구 흥덕1로 52 1층 103호  ",
   "province": "경기",
   "city": "용인시",
   "phone": null,
@@ -10,14 +10,15 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.27319,
-  "longitude": 127.06913,
-  "updated_at": "2026-03-06T00:00:05.257832",
+  "latitude": 37.273238,
+  "longitude": 127.06914,
+  "updated_at": "2026-05-09T13:55:44.559499",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1223,
     1184,
     1144
   ],
   "first_prize_count": 0,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "12800190",
   "name": "한마음병원앞버스매표소",
-  "address": "인천 계양구 작전동 865-34번지 ",
+  "address": "인천 계양구 계양대로 53  ",
   "province": "인천",
   "city": "계양구",
   "phone": null,
@@ -10,10 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.528564,
-  "longitude": 126.72203,
-  "updated_at": "2026-03-05T23:45:54.951377",
-  "first_prize_draws": [],
+  "latitude": 37.528579,
+  "longitude": 126.72211,
+  "updated_at": "2026-05-09T13:55:44.556096",
+  "first_prize_draws": [
+    1223
+  ],
   "second_prize_draws": [
     925,
     902,
@@ -24,6 +26,6 @@
     419,
     313
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 8
 }

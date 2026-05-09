@@ -4,17 +4,20 @@
   "address": "서울 도봉구 도당로9길 63 나동 1층  ",
   "phone": null,
   "lottery_types": [
-    "lotto645"
+    "lotto645",
+    "pension720",
+    "speetto"
   ],
   "latitude": 37.662682,
-  "longitude": 127.031088,
-  "updated_at": "2026-03-21T14:15:33.588139",
+  "longitude": 127.03108,
+  "updated_at": "2026-05-09T13:55:44.537127",
   "first_prize_draws": [
     1214
   ],
   "second_prize_draws": [
+    1223,
     1216
   ],
   "first_prize_count": 1,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

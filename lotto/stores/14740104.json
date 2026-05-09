@@ -1,7 +1,7 @@
 {
   "store_id": "14740104",
   "name": "패밀리로또",
-  "address": "경북 안동시  제비원로 112 ",
+  "address": "경북 안동시 제비원로 112  ",
   "province": "경북",
   "city": "안동시",
   "phone": null,
@@ -10,14 +10,15 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 36.562413,
-  "longitude": 128.721015,
-  "updated_at": "2026-03-05T23:54:22.762816",
+  "latitude": 36.562186,
+  "longitude": 128.72095,
+  "updated_at": "2026-05-09T13:55:44.565680",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1223,
     1080,
     979
   ],
   "first_prize_count": 0,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

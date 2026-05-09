@@ -1,7 +1,7 @@
 {
   "store_id": "14190023",
   "name": "북문복권방",
-  "address": "경기 수원시 장안구  정조로 927-1 ",
+  "address": "경기 수원시 장안구 정조로 927-1  ",
   "province": "경기",
   "city": "수원시",
   "phone": "031-242-4556",
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.29028,
-  "longitude": 127.01279,
-  "updated_at": "2026-03-05T23:58:48.795747",
+  "latitude": 37.290297,
+  "longitude": 127.01282,
+  "updated_at": "2026-05-09T13:55:44.560221",
   "first_prize_draws": [
     1057,
     1055,
@@ -24,6 +24,7 @@
     631
   ],
   "second_prize_draws": [
+    1223,
     1162,
     1160,
     1152,
@@ -54,5 +55,5 @@
     443
   ],
   "first_prize_count": 8,
-  "second_prize_count": 28
+  "second_prize_count": 29
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "11100251",
   "name": "주택복권사랑방",
-  "address": "서울 관악구  난곡로 363-1 ",
+  "address": "서울 관악구 난곡로 363-1 1층  ",
   "province": "서울",
   "city": "관악구",
   "phone": "02-861-7849",
@@ -10,14 +10,15 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.486427,
-  "longitude": 126.913404,
-  "updated_at": "2026-03-06T00:00:10.449930",
+  "latitude": 37.486436,
+  "longitude": 126.91343,
+  "updated_at": "2026-05-09T13:55:44.537678",
   "first_prize_draws": [
     969,
     614
   ],
   "second_prize_draws": [
+    1223,
     1186,
     1116,
     991,
@@ -36,5 +37,5 @@
     452
   ],
   "first_prize_count": 2,
-  "second_prize_count": 16
+  "second_prize_count": 17
 }

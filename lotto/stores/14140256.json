@@ -1,7 +1,7 @@
 {
   "store_id": "14140256",
-  "name": "정현로또",
-  "address": "경기 화성시  3.1만세로 655 1층 GS25편의점",
+  "name": "행운복권방",
+  "address": "경기 화성시 시청로 52 1층 GS25편의점  ",
   "province": "경기",
   "city": "화성시",
   "phone": "031-353-3061",
@@ -10,9 +10,10 @@
   ],
   "latitude": 37.204995,
   "longitude": 126.82098,
-  "updated_at": "2026-03-05T23:53:55.967886",
+  "updated_at": "2026-05-09T13:55:44.558240",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1223,
     1071,
     1070,
     1013,
@@ -20,5 +21,5 @@
     777
   ],
   "first_prize_count": 0,
-  "second_prize_count": 5
+  "second_prize_count": 6
 }

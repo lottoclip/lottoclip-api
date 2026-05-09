@@ -1,7 +1,7 @@
 {
   "store_id": "14300021",
   "name": "복권왕국",
-  "address": "충북 제천시  풍양로 108 지하145",
+  "address": "충북 제천시 풍양로 108 지하145  ",
   "province": "충북",
   "city": "제천시",
   "phone": "043-646-1842",
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.136655,
-  "longitude": 128.211309,
-  "updated_at": "2026-03-05T23:58:43.051427",
+  "latitude": 37.136637,
+  "longitude": 128.21126,
+  "updated_at": "2026-05-09T13:55:44.563297",
   "first_prize_draws": [
     1075,
     912,
@@ -21,6 +21,7 @@
     425
   ],
   "second_prize_draws": [
+    1223,
     1160,
     1125,
     1115,
@@ -38,5 +39,5 @@
     531
   ],
   "first_prize_count": 5,
-  "second_prize_count": 15
+  "second_prize_count": 16
 }

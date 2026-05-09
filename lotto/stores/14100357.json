@@ -1,7 +1,7 @@
 {
   "store_id": "14100357",
   "name": "차부상회",
-  "address": "경기 김포시  조강로 50 ",
+  "address": "경기 김포시 조강로 50  ",
   "province": "경기",
   "city": "김포시",
   "phone": "031-988-0204",
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.690342,
-  "longitude": 126.600314,
-  "updated_at": "2026-03-05T23:58:39.803602",
+  "latitude": 37.690348,
+  "longitude": 126.60033,
+  "updated_at": "2026-05-09T13:55:44.561782",
   "first_prize_draws": [
     1123,
     1053,
@@ -21,6 +21,7 @@
     416
   ],
   "second_prize_draws": [
+    1223,
     1159,
     1148,
     1137,
@@ -42,5 +43,5 @@
     413
   ],
   "first_prize_count": 5,
-  "second_prize_count": 19
+  "second_prize_count": 20
 }

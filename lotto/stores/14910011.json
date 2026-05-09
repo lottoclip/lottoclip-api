@@ -1,7 +1,7 @@
 {
   "store_id": "14910011",
   "name": "환타지아복권방",
-  "address": "제주 제주시  번영로 518 대기마트 내",
+  "address": "제주 제주시 번영로 518 대기마트 내  ",
   "province": "제주",
   "city": "제주시",
   "phone": "064-722-2737",
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 33.489189,
-  "longitude": 126.596588,
-  "updated_at": "2026-03-05T23:57:56.016794",
+  "latitude": 33.489169,
+  "longitude": 126.59648,
+  "updated_at": "2026-05-09T13:55:44.573659",
   "first_prize_draws": [
     452
   ],
   "second_prize_draws": [
+    1223,
     1149,
     1115,
     1063,
@@ -28,5 +29,5 @@
     595
   ],
   "first_prize_count": 1,
-  "second_prize_count": 9
+  "second_prize_count": 10
 }

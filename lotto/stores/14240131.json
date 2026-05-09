@@ -1,7 +1,7 @@
 {
   "store_id": "14240131",
   "name": "행운로또방",
-  "address": "강원 화천군  상승로 46 1층",
+  "address": "강원 화천군 상승로 46 1층  ",
   "province": "강원",
   "city": "화천군",
   "phone": null,
@@ -10,16 +10,17 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 38.104891,
-  "longitude": 127.704471,
-  "updated_at": "2026-03-06T00:00:19.547632",
+  "latitude": 38.104864,
+  "longitude": 127.70453,
+  "updated_at": "2026-05-09T13:55:44.562628",
   "first_prize_draws": [
+    1223,
     1087
   ],
   "second_prize_draws": [
     1189,
     1183
   ],
-  "first_prize_count": 1,
+  "first_prize_count": 2,
   "second_prize_count": 2
 }

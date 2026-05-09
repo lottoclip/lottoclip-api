@@ -1,7 +1,7 @@
 {
   "store_id": "14110302",
   "name": "미니슈퍼",
-  "address": "경기 의정부시  시민로 269 장령상가 1층",
+  "address": "경기 의정부시 시민로 269 장령상가 1층  ",
   "province": "경기",
   "city": "의정부시",
   "phone": "031-842-5078",
@@ -10,19 +10,20 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.735577,
-  "longitude": 127.060794,
-  "updated_at": "2026-03-05T23:53:24.572440",
+  "latitude": 37.7365,
+  "longitude": 127.06476,
+  "updated_at": "2026-05-09T13:55:44.559084",
   "first_prize_draws": [
     1060,
     892
   ],
   "second_prize_draws": [
+    1223,
     792,
     615,
     541,
     373
   ],
   "first_prize_count": 2,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }

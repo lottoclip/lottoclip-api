@@ -1,7 +1,7 @@
 {
   "store_id": "12790030",
   "name": "로또복권(연경 뉴웰시티점)",
-  "address": "대구 동구  동화천로 405 104호(지묘동)",
+  "address": "대구 동구 동화천로 405 104호(지묘동)  ",
   "province": "대구",
   "city": "동구",
   "phone": null,
@@ -11,13 +11,14 @@
     "speetto"
   ],
   "latitude": 35.941509,
-  "longitude": 128.630924,
-  "updated_at": "2026-03-05T23:51:25.181097",
+  "longitude": 128.63092,
+  "updated_at": "2026-05-09T13:55:44.539391",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1223,
     1027,
     1002
   ],
   "first_prize_count": 0,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

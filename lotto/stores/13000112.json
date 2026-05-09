@@ -1,7 +1,7 @@
 {
   "store_id": "13000112",
   "name": "스카이25",
-  "address": "대전 서구  둔산중로 40 리치빌빌딩117호",
+  "address": "대전 서구 둔산중로 40 리치빌빌딩117호  ",
   "province": "대전",
   "city": "서구",
   "phone": "042-484-4669",
@@ -10,18 +10,19 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 36.350308,
-  "longitude": 127.387231,
-  "updated_at": "2026-03-05T23:54:47.960985",
+  "latitude": 36.350313,
+  "longitude": 127.38725,
+  "updated_at": "2026-05-09T13:55:44.556796",
   "first_prize_draws": [
     1053
   ],
   "second_prize_draws": [
+    1223,
     1089,
     1057,
     1049,
     1035
   ],
   "first_prize_count": 1,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }

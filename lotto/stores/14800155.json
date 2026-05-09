@@ -1,7 +1,7 @@
 {
   "store_id": "14800155",
   "name": "천하명당",
-  "address": "경남 양산시  연호로 46 복권판매점",
+  "address": "경남 양산시 연호로 46 복권판매점  ",
   "province": "경남",
   "city": "양산시",
   "phone": null,
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.41573,
-  "longitude": 129.175237,
-  "updated_at": "2026-03-05T23:58:20.434495",
+  "latitude": 35.415706,
+  "longitude": 129.17524,
+  "updated_at": "2026-05-09T13:55:44.566614",
   "first_prize_draws": [
     1152,
     1049,
     788
   ],
   "second_prize_draws": [
+    1223,
     976,
     916,
     856,
@@ -31,5 +32,5 @@
     354
   ],
   "first_prize_count": 3,
-  "second_prize_count": 10
+  "second_prize_count": 11
 }

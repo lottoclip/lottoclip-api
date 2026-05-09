@@ -1,7 +1,7 @@
 {
   "store_id": "14140872",
   "name": "성공복권방",
-  "address": "경기 여주시  청심로 96 1층",
+  "address": "경기 여주시 청심로 96 1층  ",
   "province": "경기",
   "city": "여주시",
   "phone": "031-882-2612",
@@ -10,11 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.301269,
-  "longitude": 127.647573,
-  "updated_at": "2026-03-05T23:56:42.320969",
+  "latitude": 37.299463,
+  "longitude": 127.63109,
+  "updated_at": "2026-05-09T13:55:44.559781",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1223,
     1128,
     1122,
     1113,
@@ -22,5 +23,5 @@
     944
   ],
   "first_prize_count": 0,
-  "second_prize_count": 5
+  "second_prize_count": 6
 }

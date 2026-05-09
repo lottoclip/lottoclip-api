@@ -1,7 +1,7 @@
 {
   "store_id": "14110060",
   "name": "명당골복권방",
-  "address": "경기 수원시 권선구  동수원로242번길 15 104호",
+  "address": "경기 수원시 권선구 동수원로242번길 15 104호  ",
   "province": "경기",
   "city": "수원시",
   "phone": "031-235-4223",
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.251094,
-  "longitude": 127.03546,
-  "updated_at": "2026-03-06T00:01:02.717994",
+  "latitude": 37.251097,
+  "longitude": 127.03548,
+  "updated_at": "2026-05-09T13:55:44.560377",
   "first_prize_draws": [
     1198,
     1108,
@@ -25,6 +25,7 @@
     372
   ],
   "second_prize_draws": [
+    1223,
     1204,
     1186,
     1149,
@@ -57,5 +58,5 @@
     355
   ],
   "first_prize_count": 9,
-  "second_prize_count": 30
+  "second_prize_count": 31
 }

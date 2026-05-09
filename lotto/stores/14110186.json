@@ -1,7 +1,7 @@
 {
   "store_id": "14110186",
   "name": "김포로또",
-  "address": "경기 김포시  돌문로 48 한솔프라자101",
+  "address": "경기 김포시 돌문로 48 한솔프라자101  ",
   "province": "경기",
   "city": "김포시",
   "phone": "031-982-7011",
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.619402,
-  "longitude": 126.718021,
-  "updated_at": "2026-03-06T00:00:35.144347",
+  "latitude": 37.619414,
+  "longitude": 126.71805,
+  "updated_at": "2026-05-09T13:55:44.561956",
   "first_prize_draws": [
     1046,
     1030,
@@ -25,6 +25,7 @@
     433
   ],
   "second_prize_draws": [
+    1223,
     1194,
     1153,
     1145,
@@ -40,5 +41,5 @@
     337
   ],
   "first_prize_count": 9,
-  "second_prize_count": 13
+  "second_prize_count": 14
 }

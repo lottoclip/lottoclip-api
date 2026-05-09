@@ -1,7 +1,7 @@
 {
   "store_id": "11100936",
   "name": "황금대박점",
-  "address": "서울 노원구  공릉로 328 ",
+  "address": "서울 노원구 공릉로 328  ",
   "province": "서울",
   "city": "노원구",
   "phone": "02-948-7116",
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.635977,
-  "longitude": 127.070989,
-  "updated_at": "2026-03-05T23:59:13.648246",
+  "latitude": 37.636002,
+  "longitude": 127.07103,
+  "updated_at": "2026-05-09T13:55:44.537271",
   "first_prize_draws": [
     1127,
     1044,
     1021
   ],
   "second_prize_draws": [
+    1223,
     1171,
     1121,
     1083,
@@ -40,5 +41,5 @@
     323
   ],
   "first_prize_count": 3,
-  "second_prize_count": 19
+  "second_prize_count": 20
 }

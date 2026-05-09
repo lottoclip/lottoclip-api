@@ -1,7 +1,7 @@
 {
   "store_id": "14110213",
   "name": "세희사랑방",
-  "address": "경기 남양주시  경춘로1350번길 35 리치플러스빌딩 110",
+  "address": "경기 남양주시 경춘로1350번길 35 리치플러스빌딩 110  ",
   "province": "경기",
   "city": "남양주시",
   "phone": null,
@@ -10,11 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.650364,
-  "longitude": 127.243188,
-  "updated_at": "2026-03-06T00:00:45.846324",
+  "latitude": 37.65034,
+  "longitude": 127.24329,
+  "updated_at": "2026-05-09T13:55:44.561510",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1223,
     1198,
     1147,
     976,
@@ -25,5 +26,5 @@
     512
   ],
   "first_prize_count": 0,
-  "second_prize_count": 8
+  "second_prize_count": 9
 }

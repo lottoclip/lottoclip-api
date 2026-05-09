@@ -1,7 +1,7 @@
 {
   "store_id": "11110183",
-  "name": "로또판매 강남역삼점",
-  "address": "서울 강남구  언주로 510 효림빌딩 지하 1층",
+  "name": "로또 강남스타일",
+  "address": "서울 강남구 테헤란로14길 31 1층  ",
   "province": "서울",
   "city": "강남구",
   "phone": "02-557-2214",
@@ -12,14 +12,15 @@
   ],
   "latitude": 37.49733,
   "longitude": 127.033969,
-  "updated_at": "2026-03-05T23:47:14.052853",
+  "updated_at": "2026-05-09T13:55:44.538177",
   "first_prize_draws": [
     897
   ],
   "second_prize_draws": [
+    1223,
     953,
     348
   ],
   "first_prize_count": 1,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "12600184",
   "name": "대구연쇄점",
-  "address": "부산 부산진구  중앙대로783번길 8 ",
+  "address": "부산 부산진구 중앙대로783번길 8  ",
   "province": "부산",
   "city": "부산진구",
   "phone": "051-807-1682",
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.162385,
-  "longitude": 129.062377,
-  "updated_at": "2026-03-06T00:00:25.203840",
+  "latitude": 35.16237,
+  "longitude": 129.06236,
+  "updated_at": "2026-05-09T13:55:44.538743",
   "first_prize_draws": [
     1175,
     1162,
     570
   ],
   "second_prize_draws": [
+    1223,
     1191,
     1190,
     1158,
@@ -35,5 +36,5 @@
     328
   ],
   "first_prize_count": 3,
-  "second_prize_count": 14
+  "second_prize_count": 15
 }

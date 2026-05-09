@@ -1,7 +1,7 @@
 {
   "store_id": "14100841",
   "name": "송내매표소",
-  "address": "경기 부천시  송내대로 37 104호",
+  "address": "경기 부천시 송내대로 37 104호  ",
   "province": "경기",
   "city": "부천시",
   "phone": "032-654-3320",
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.48689,
-  "longitude": 126.752828,
-  "updated_at": "2026-03-06T00:00:59.748888",
+  "latitude": 37.486888,
+  "longitude": 126.75285,
+  "updated_at": "2026-05-09T13:55:44.560752",
   "first_prize_draws": [
     1162,
     716,
@@ -20,6 +20,7 @@
     670
   ],
   "second_prize_draws": [
+    1223,
     1203,
     1125,
     1109,
@@ -47,5 +48,5 @@
     330
   ],
   "first_prize_count": 4,
-  "second_prize_count": 25
+  "second_prize_count": 26
 }

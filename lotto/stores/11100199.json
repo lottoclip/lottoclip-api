@@ -1,7 +1,7 @@
 {
   "store_id": "11100199",
   "name": "복권천국방",
-  "address": "서울 마포구  동교로 92 1층",
+  "address": "서울 마포구 동교로 92 1층  ",
   "province": "서울",
   "city": "마포구",
   "phone": "02-337-3259",
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.554207,
-  "longitude": 126.912367,
-  "updated_at": "2026-03-05T23:58:22.580229",
+  "latitude": 37.554236,
+  "longitude": 126.9124,
+  "updated_at": "2026-05-09T13:55:44.536552",
   "first_prize_draws": [
     750,
     672,
     502
   ],
   "second_prize_draws": [
+    1223,
     1153,
     1090,
     1065,
@@ -41,5 +42,5 @@
     267
   ],
   "first_prize_count": 3,
-  "second_prize_count": 20
+  "second_prize_count": 21
 }
