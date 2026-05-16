@@ -1,7 +1,7 @@
 {
   "store_id": "14840186",
   "name": "금산복권방",
-  "address": "경남 진주시  금산순환로 3 102호",
+  "address": "경남 진주시 금산순환로 3 102호  ",
   "province": "경남",
   "city": "진주시",
   "phone": null,
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.214768,
-  "longitude": 128.1462,
-  "updated_at": "2026-03-05T23:54:37.076570",
+  "latitude": 35.214766,
+  "longitude": 128.14618,
+  "updated_at": "2026-05-16T14:02:10.323570",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1224,
     1085,
     1040,
     1030
   ],
   "first_prize_count": 0,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14140831",
   "name": "칠성슈퍼",
-  "address": "경기 안산시 단원구  선부광장1로 32 칠성프러스타운 111호",
+  "address": "경기 안산시 단원구 선부광장1로 32 111호  ",
   "province": "경기",
   "city": "안산시",
   "phone": "031-486-3933",
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.33648,
-  "longitude": 126.80892,
-  "updated_at": "2026-03-05T23:55:00.114009",
+  "latitude": 37.336402,
+  "longitude": 126.80879,
+  "updated_at": "2026-05-16T14:02:10.315777",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1224,
     1093,
     1047,
     963
   ],
   "first_prize_count": 0,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

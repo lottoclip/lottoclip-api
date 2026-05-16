@@ -1,7 +1,7 @@
 {
   "store_id": "14640119",
   "name": "드림복권방",
-  "address": "전남 보성군  봉화로 166-11 1층",
+  "address": "전남 보성군 봉화로 166-11 1층  ",
   "province": "전남",
   "city": "보성군",
   "phone": null,
@@ -10,11 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 34.768201,
-  "longitude": 127.088047,
-  "updated_at": "2026-03-06T00:00:10.944670",
+  "latitude": 34.768203,
+  "longitude": 127.0879,
+  "updated_at": "2026-05-16T14:02:10.320686",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1224,
     1186,
     1096,
     1061,
@@ -22,5 +23,5 @@
     1005
   ],
   "first_prize_count": 0,
-  "second_prize_count": 5
+  "second_prize_count": 6
 }

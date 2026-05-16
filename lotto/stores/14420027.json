@@ -1,18 +1,19 @@
 {
   "store_id": "14420027",
   "name": "위드미아산용화센터점",
-  "address": "충남 아산시  용화로9번길 3-48 101호",
+  "address": "충남 아산시 용화로9번길 3-48 101호  ",
   "province": "충남",
   "city": "아산시",
   "phone": null,
   "lottery_types": [
     "lotto645"
   ],
-  "latitude": 36.771614,
-  "longitude": 127.008341,
-  "updated_at": "2026-03-05T23:56:59.482794",
+  "latitude": 36.771647,
+  "longitude": 127.00834,
+  "updated_at": "2026-05-16T14:02:10.320171",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1224,
     1134,
     1055,
     969,
@@ -20,5 +21,5 @@
     794
   ],
   "first_prize_count": 0,
-  "second_prize_count": 5
+  "second_prize_count": 6
 }

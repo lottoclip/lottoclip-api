@@ -1,7 +1,7 @@
 {
   "store_id": "11101099",
   "name": "서교동가판점",
-  "address": "서울 마포구  양화로 115 ",
+  "address": "서울 마포구 양화로 115  ",
   "province": "서울",
   "city": "마포구",
   "phone": "02-337-5065",
@@ -10,14 +10,15 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.554047,
-  "longitude": 126.919508,
-  "updated_at": "2026-03-05T23:54:56.444440",
+  "latitude": 37.554119,
+  "longitude": 126.91947,
+  "updated_at": "2026-05-16T14:02:10.306376",
   "first_prize_draws": [
     944,
     768
   ],
   "second_prize_draws": [
+    1224,
     1092,
     1059,
     1057,
@@ -28,5 +29,5 @@
     316
   ],
   "first_prize_count": 2,
-  "second_prize_count": 8
+  "second_prize_count": 9
 }

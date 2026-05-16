@@ -1,25 +1,26 @@
 {
   "store_id": "14120109",
   "name": "이천대박로또",
-  "address": "경기 이천시  경충대로 1830 가산삼거리",
+  "address": "경기 이천시 경충대로 1830 가산삼거리 CU이천응암점  ",
   "province": "경기",
   "city": "이천시",
   "phone": "031-638-4947",
   "lottery_types": [
     "lotto645"
   ],
-  "latitude": 37.239482,
-  "longitude": 127.512519,
-  "updated_at": "2026-03-06T00:00:19.253695",
+  "latitude": 37.239448,
+  "longitude": 127.51246,
+  "updated_at": "2026-05-16T14:02:10.313493",
   "first_prize_draws": [
     889
   ],
   "second_prize_draws": [
+    1224,
     1189,
     1174,
     1143,
     982
   ],
   "first_prize_count": 1,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "12810168",
   "name": "포시즌마전점",
-  "address": "인천 서구  완정로10번길 6-6 검단2지구37블록1롯트",
+  "address": "인천 서구 완정로10번길 6-6 검단2지구37블록1롯트  ",
   "province": "인천",
   "city": "서구",
   "phone": "032-564-0662",
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.594511,
-  "longitude": 126.67347,
-  "updated_at": "2026-03-05T23:58:39.511513",
+  "latitude": 37.594575,
+  "longitude": 126.67337,
+  "updated_at": "2026-05-16T14:02:10.310101",
   "first_prize_draws": [
     997,
     761,
@@ -21,6 +21,7 @@
     420
   ],
   "second_prize_draws": [
+    1224,
     1159,
     1084,
     962,
@@ -35,5 +36,5 @@
     391
   ],
   "first_prize_count": 5,
-  "second_prize_count": 12
+  "second_prize_count": 13
 }

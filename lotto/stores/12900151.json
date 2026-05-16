@@ -1,7 +1,7 @@
 {
   "store_id": "12900151",
   "name": "영화복권(버들점)",
-  "address": "광주 서구  상무버들로 32 ",
+  "address": "광주 서구 상무버들로 32  ",
   "province": "광주",
   "city": "서구",
   "phone": "062-381-7145",
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.164614,
-  "longitude": 126.860024,
-  "updated_at": "2026-03-05T23:57:38.073432",
+  "latitude": 35.164624,
+  "longitude": 126.86001,
+  "updated_at": "2026-05-16T14:02:10.311642",
   "first_prize_draws": [
     1085,
     1005,
     771
   ],
   "second_prize_draws": [
+    1224,
     1148,
     1137,
     1106,
@@ -32,5 +33,5 @@
     431
   ],
   "first_prize_count": 3,
-  "second_prize_count": 11
+  "second_prize_count": 12
 }

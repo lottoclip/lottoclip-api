@@ -1,7 +1,7 @@
 {
   "store_id": "11101133",
   "name": "토큰박스",
-  "address": "서울 동작구  흑석로 106-5 가판점",
+  "address": "서울 동작구 흑석로 106-5 가판점  ",
   "province": "서울",
   "city": "동작구",
   "phone": "02-825-4555",
@@ -12,8 +12,9 @@
   ],
   "latitude": 37.507879,
   "longitude": 126.961438,
-  "updated_at": "2026-03-05T23:55:05.542365",
+  "updated_at": "2026-05-16T14:02:10.306611",
   "first_prize_draws": [
+    1224,
     916
   ],
   "second_prize_draws": [
@@ -26,6 +27,6 @@
     456,
     442
   ],
-  "first_prize_count": 1,
+  "first_prize_count": 2,
   "second_prize_count": 8
 }

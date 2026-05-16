@@ -1,25 +1,26 @@
 {
   "store_id": "13000106",
   "name": "씨유 대전태평점",
-  "address": "대전 중구  동서대로 1193 ",
+  "address": "대전 중구 동서대로 1193  ",
   "province": "대전",
   "city": "중구",
-  "phone": "042-524-9613",
+  "phone": null,
   "lottery_types": [
     "lotto645",
     "pension720",
     "speetto"
   ],
-  "latitude": 36.326677,
-  "longitude": 127.392787,
-  "updated_at": "2026-03-05T23:54:33.905072",
+  "latitude": 36.326671,
+  "longitude": 127.39278,
+  "updated_at": "2026-05-16T14:02:10.312094",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1224,
     1084,
     1009,
     927,
     862
   ],
   "first_prize_count": 0,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }

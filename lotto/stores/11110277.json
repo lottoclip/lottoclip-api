@@ -1,7 +1,7 @@
 {
   "store_id": "11110277",
   "name": "행운마트",
-  "address": "서울 노원구  중계로 96 ",
+  "address": "서울 노원구 중계로 96  ",
   "province": "서울",
   "city": "노원구",
   "phone": null,
@@ -10,14 +10,15 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.644422,
-  "longitude": 127.083302,
-  "updated_at": "2026-03-06T00:00:40.162419",
+  "latitude": 37.644409,
+  "longitude": 127.0833,
+  "updated_at": "2026-05-16T14:02:10.307072",
   "first_prize_draws": [
     935,
     757
   ],
   "second_prize_draws": [
+    1224,
     1196,
     1191,
     1080,
@@ -30,5 +31,5 @@
     417
   ],
   "first_prize_count": 2,
-  "second_prize_count": 10
+  "second_prize_count": 11
 }

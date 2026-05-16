@@ -1,7 +1,7 @@
 {
   "store_id": "14141537",
   "name": "천운로또",
-  "address": "경기 의정부시  장곡로 620 1층 107호",
+  "address": "경기 의정부시 장곡로 620 1층 107호  ",
   "province": "경기",
   "city": "의정부시",
   "phone": null,
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.750356,
-  "longitude": 127.071672,
-  "updated_at": "2026-03-05T23:52:12.718362",
+  "latitude": 37.750359,
+  "longitude": 127.07166,
+  "updated_at": "2026-05-16T14:02:10.313924",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1224,
     1042
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

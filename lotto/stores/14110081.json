@@ -1,7 +1,7 @@
 {
   "store_id": "14110081",
   "name": "로또복권방",
-  "address": "경기 시흥시  은계호수로 31 그린타워 1층 112호",
+  "address": "경기 시흥시 은계로338번길 56 1층  ",
   "province": "경기",
   "city": "시흥시",
   "phone": null,
@@ -10,10 +10,11 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.450321,
-  "longitude": 126.795882,
-  "updated_at": "2026-03-05T23:46:18.065974",
+  "latitude": 37.450322,
+  "longitude": 126.79588,
+  "updated_at": "2026-05-16T14:02:10.316487",
   "first_prize_draws": [
+    1224,
     655
   ],
   "second_prize_draws": [
@@ -23,6 +24,6 @@
     350,
     339
   ],
-  "first_prize_count": 1,
+  "first_prize_count": 2,
   "second_prize_count": 5
 }

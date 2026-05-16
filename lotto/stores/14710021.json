@@ -1,7 +1,7 @@
 {
   "store_id": "14710021",
   "name": "홈런복권방",
-  "address": "경북 영덕군  남석길 57 ",
+  "address": "경북 영덕군 남석길 57  ",
   "province": "경북",
   "city": "영덕군",
   "phone": "054-732-0219",
@@ -10,18 +10,19 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 36.409187,
-  "longitude": 129.368201,
-  "updated_at": "2026-03-05T23:56:28.447143",
+  "latitude": 36.409132,
+  "longitude": 129.36826,
+  "updated_at": "2026-05-16T14:02:10.321742",
   "first_prize_draws": [
     1123,
     764
   ],
   "second_prize_draws": [
+    1224,
     1061,
     292,
     277
   ],
   "first_prize_count": 2,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

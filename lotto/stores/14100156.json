@@ -1,21 +1,24 @@
 {
   "store_id": "14100156",
   "name": "1등 복권",
-  "address": "경기 시흥시  배곧4로 32-27 105호",
+  "address": "경기 시흥시 배곧4로 32-27 105호  ",
   "province": "경기",
   "city": "시흥시",
   "phone": "031-488-8090",
   "lottery_types": [
-    "lotto645"
+    "lotto645",
+    "pension720",
+    "speetto"
   ],
-  "latitude": 37.3777,
-  "longitude": 126.725519,
-  "updated_at": "2026-03-06T00:00:16.293276",
+  "latitude": 37.377688,
+  "longitude": 126.72556,
+  "updated_at": "2026-05-16T14:02:10.316000",
   "first_prize_draws": [
     1153,
     936
   ],
   "second_prize_draws": [
+    1224,
     1188,
     1162,
     1097,
@@ -29,5 +32,5 @@
     332
   ],
   "first_prize_count": 2,
-  "second_prize_count": 11
+  "second_prize_count": 12
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14710084",
   "name": "로또기획",
-  "address": "경북 안동시  경북대로 443 ",
+  "address": "경북 안동시 경북대로 443  ",
   "province": "경북",
   "city": "안동시",
   "phone": "070-8936-5302",
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 36.568048,
-  "longitude": 128.697858,
-  "updated_at": "2026-03-06T00:00:35.271005",
+  "latitude": 36.568095,
+  "longitude": 128.69785,
+  "updated_at": "2026-05-16T14:02:10.321960",
   "first_prize_draws": [
     910
   ],
   "second_prize_draws": [
+    1224,
     1194,
     1122,
     1075,
@@ -29,5 +30,5 @@
     568
   ],
   "first_prize_count": 1,
-  "second_prize_count": 10
+  "second_prize_count": 11
 }

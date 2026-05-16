@@ -1,7 +1,7 @@
 {
   "store_id": "12840102",
   "name": "일등다방 복권판매점",
-  "address": "인천 계양구  오조산로45번길 16 107호",
+  "address": "인천 계양구 오조산로45번길 16 107호  ",
   "province": "인천",
   "city": "계양구",
   "phone": null,
@@ -10,16 +10,17 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.535166,
-  "longitude": 126.7368,
-  "updated_at": "2026-03-05T23:58:45.568058",
+  "latitude": 37.535215,
+  "longitude": 126.73679,
+  "updated_at": "2026-05-16T14:02:10.311419",
   "first_prize_draws": [
     996
   ],
   "second_prize_draws": [
+    1224,
     1161,
     1019
   ],
   "first_prize_count": 1,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

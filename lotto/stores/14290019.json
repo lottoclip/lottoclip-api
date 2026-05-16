@@ -1,7 +1,7 @@
 {
   "store_id": "14290019",
   "name": "왕대박복권전문점",
-  "address": "강원 동해시  중앙로 234 이주민상가1층18호",
+  "address": "강원 동해시 중앙로 234 이주민상가1층18호  ",
   "province": "강원",
   "city": "동해시",
   "phone": "033-531-5767",
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.521708,
-  "longitude": 129.115005,
-  "updated_at": "2026-03-06T00:00:35.175003",
+  "latitude": 37.521491,
+  "longitude": 129.11508,
+  "updated_at": "2026-05-16T14:02:10.319267",
   "first_prize_draws": [
     1194,
     945,
@@ -20,6 +20,7 @@
     700
   ],
   "second_prize_draws": [
+    1224,
     1087,
     1072,
     1032,
@@ -31,5 +32,5 @@
     524
   ],
   "first_prize_count": 4,
-  "second_prize_count": 9
+  "second_prize_count": 10
 }

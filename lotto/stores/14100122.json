@@ -1,7 +1,7 @@
 {
   "store_id": "14100122",
   "name": "해피타임",
-  "address": "경기 평택시  서동대로 2044 ",
+  "address": "경기 평택시 서동대로 2044  ",
   "province": "경기",
   "city": "평택시",
   "phone": "031-652-9664",
@@ -10,14 +10,15 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.006854,
-  "longitude": 126.969568,
-  "updated_at": "2026-03-06T00:00:10.736066",
+  "latitude": 37.006869,
+  "longitude": 126.96958,
+  "updated_at": "2026-05-16T14:02:10.313010",
   "first_prize_draws": [
     913,
     392
   ],
   "second_prize_draws": [
+    1224,
     1186,
     1182,
     1082,
@@ -38,5 +39,5 @@
     344
   ],
   "first_prize_count": 2,
-  "second_prize_count": 18
+  "second_prize_count": 19
 }

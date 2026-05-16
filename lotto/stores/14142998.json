@@ -1,22 +1,23 @@
 {
   "store_id": "14142998",
   "name": "로또명장",
-  "address": "경기 양주시  고읍로35번길 29-21 ",
+  "address": "경기 양주시 고읍로35번길 29-21 1층 (피자명장)  ",
   "province": "경기",
   "city": "양주시",
-  "phone": "031-847-4900",
+  "phone": null,
   "lottery_types": [
     "lotto645",
     "pension720",
     "speetto"
   ],
   "latitude": 37.800567,
-  "longitude": 127.081849,
-  "updated_at": "2026-03-06T00:00:53.846785",
+  "longitude": 127.08184,
+  "updated_at": "2026-05-16T14:02:10.315202",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1224,
     1201
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

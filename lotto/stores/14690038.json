@@ -1,7 +1,7 @@
 {
   "store_id": "14690038",
   "name": "복권판매점(담양)",
-  "address": "전남 담양군  중앙로 32-1 ",
+  "address": "전남 담양군 중앙로 32-1  ",
   "province": "전남",
   "city": "담양군",
   "phone": "061-383-1006",
@@ -10,14 +10,15 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.316164,
-  "longitude": 126.983644,
-  "updated_at": "2026-03-05T23:59:49.012110",
+  "latitude": 35.316069,
+  "longitude": 126.98345,
+  "updated_at": "2026-05-16T14:02:10.320907",
   "first_prize_draws": [
     1109,
     800
   ],
   "second_prize_draws": [
+    1224,
     1178,
     1169,
     1164,
@@ -35,5 +36,5 @@
     402
   ],
   "first_prize_count": 2,
-  "second_prize_count": 15
+  "second_prize_count": 16
 }
