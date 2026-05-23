@@ -1,7 +1,7 @@
 {
   "store_id": "14141922",
   "name": "신가네",
-  "address": "경기 파주시  다락고개길 113 1층 일부",
+  "address": "경기 파주시 다락고개길 113 1층 일부  ",
   "province": "경기",
   "city": "파주시",
   "phone": null,
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.795049,
-  "longitude": 126.791063,
-  "updated_at": "2026-03-05T23:54:50.581059",
+  "latitude": 37.795072,
+  "longitude": 126.7911,
+  "updated_at": "2026-05-23T14:05:44.705685",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1225,
     1090
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

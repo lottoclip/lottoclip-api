@@ -1,7 +1,7 @@
 {
   "store_id": "11100194",
   "name": "복권명당",
-  "address": "서울 중랑구  면목로 362 1층",
+  "address": "서울 중랑구 면목로 362 1층  ",
   "province": "서울",
   "city": "중랑구",
   "phone": "02-434-2446",
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.58428,
-  "longitude": 127.088584,
-  "updated_at": "2026-03-06T00:00:59.246222",
+  "latitude": 37.584289,
+  "longitude": 127.08861,
+  "updated_at": "2026-05-23T14:05:44.696310",
   "first_prize_draws": [
     857
   ],
   "second_prize_draws": [
+    1225,
     1203,
     1154,
     1076,
@@ -33,5 +34,5 @@
     381
   ],
   "first_prize_count": 1,
-  "second_prize_count": 14
+  "second_prize_count": 15
 }

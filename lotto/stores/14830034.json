@@ -1,7 +1,7 @@
 {
   "store_id": "14830034",
   "name": "빙그레 돈벼락 맞는곳",
-  "address": "경남 김해시  김해대로 910 좌측 복권판매점",
+  "address": "경남 김해시 김해대로 910 좌측 복권판매점  ",
   "province": "경남",
   "city": "김해시",
   "phone": null,
@@ -12,8 +12,9 @@
   ],
   "latitude": 35.293264,
   "longitude": 128.782964,
-  "updated_at": "2026-03-06T00:01:00.143132",
+  "updated_at": "2026-05-23T14:05:44.714486",
   "first_prize_draws": [
+    1225,
     1122,
     895,
     800
@@ -41,6 +42,6 @@
     820,
     814
   ],
-  "first_prize_count": 3,
+  "first_prize_count": 4,
   "second_prize_count": 21
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14310064",
   "name": "보은로또판매점",
-  "address": "충북 보은군  보청대로 1892 식자재마트 앞 가판",
+  "address": "충북 보은군 보청대로 1892 식자재마트 앞 가판  ",
   "province": "충북",
   "city": "보은군",
   "phone": "043-544-1708",
@@ -10,20 +10,21 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 36.489137,
-  "longitude": 127.71749,
-  "updated_at": "2026-03-05T23:50:56.851330",
+  "latitude": 36.489113,
+  "longitude": 127.71715,
+  "updated_at": "2026-05-23T14:05:44.710077",
   "first_prize_draws": [
     979,
     871,
     715
   ],
   "second_prize_draws": [
+    1225,
     1022,
     1019,
     889,
     360
   ],
   "first_prize_count": 3,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }

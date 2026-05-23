@@ -1,7 +1,7 @@
 {
   "store_id": "12640148",
   "name": "대천로또",
-  "address": "부산 북구  산성로 37 1층 오른쪽",
+  "address": "부산 북구 산성로 37 1층 오른쪽  ",
   "province": "부산",
   "city": "북구",
   "phone": null,
@@ -10,16 +10,17 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.240391,
-  "longitude": 129.017417,
-  "updated_at": "2026-03-05T23:58:19.741927",
+  "latitude": 35.24038,
+  "longitude": 129.01742,
+  "updated_at": "2026-05-23T14:05:44.702980",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1225,
     1152,
     1117,
     1012,
     971
   ],
   "first_prize_count": 0,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }

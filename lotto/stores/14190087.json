@@ -1,7 +1,7 @@
 {
   "store_id": "14190087",
   "name": "피여리",
-  "address": "경기 성남시 수정구  성남대로1416번길 12 101호(복정동)",
+  "address": "경기 성남시 수정구 성남대로1416번길 12 101호(복정동)  ",
   "province": "경기",
   "city": "성남시",
   "phone": "031-756-5534",
@@ -10,16 +10,17 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.4562,
+  "latitude": 37.456208,
   "longitude": 127.1277,
-  "updated_at": "2026-03-05T23:57:59.044248",
+  "updated_at": "2026-05-23T14:05:44.707241",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1225,
     1150,
     1095,
     662,
     643
   ],
   "first_prize_count": 0,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }

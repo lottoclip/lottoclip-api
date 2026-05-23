@@ -1,7 +1,7 @@
 {
   "store_id": "12740361",
   "name": "황금복권(로또점)",
-  "address": "대구 동구  아양로 20 상가 제109호",
+  "address": "대구 동구 아양로 20 상가 제109호  ",
   "province": "대구",
   "city": "동구",
   "phone": null,
@@ -12,11 +12,12 @@
   ],
   "latitude": 35.881205,
   "longitude": 128.61648,
-  "updated_at": "2026-03-06T00:00:43.081188",
+  "updated_at": "2026-05-23T14:05:44.703429",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1225,
     1197
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

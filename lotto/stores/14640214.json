@@ -1,7 +1,7 @@
 {
   "store_id": "14640214",
   "name": "터미널",
-  "address": "전남 진도군  남문길 5 진도공용버스터미널",
+  "address": "전남 진도군 남문길 5 진도공용버스터미널  ",
   "province": "전남",
   "city": "진도군",
   "phone": null,
@@ -12,15 +12,16 @@
   ],
   "latitude": 34.47865,
   "longitude": 126.261573,
-  "updated_at": "2026-03-05T23:58:31.193001",
+  "updated_at": "2026-05-23T14:05:44.710905",
   "first_prize_draws": [
     1156
   ],
   "second_prize_draws": [
+    1225,
     1129,
     1105,
     1104
   ],
   "first_prize_count": 1,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

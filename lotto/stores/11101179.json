@@ -1,7 +1,7 @@
 {
   "store_id": "11101179",
   "name": "로또 명당 가판점",
-  "address": "서울 금천구  남부순환로 1390 가판",
+  "address": "서울 금천구 남부순환로 1390 가판  ",
   "province": "서울",
   "city": "금천구",
   "phone": "02-858-5793",
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.479815,
-  "longitude": 126.905181,
-  "updated_at": "2026-03-06T00:00:45.623485",
+  "latitude": 37.479838,
+  "longitude": 126.90521,
+  "updated_at": "2026-05-23T14:05:44.700391",
   "first_prize_draws": [
     1111,
     1078,
@@ -21,6 +21,7 @@
     634
   ],
   "second_prize_draws": [
+    1225,
     1198,
     1145,
     1129,
@@ -42,5 +43,5 @@
     299
   ],
   "first_prize_count": 5,
-  "second_prize_count": 19
+  "second_prize_count": 20
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14900005",
   "name": "돌하르방복권",
-  "address": "제주 서귀포시  태평로353번길 9 ",
+  "address": "제주 서귀포시 태평로353번길 9  ",
   "province": "제주",
   "city": "서귀포시",
   "phone": "064-762-5735",
@@ -10,14 +10,15 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 33.246986,
-  "longitude": 126.56006,
-  "updated_at": "2026-03-06T00:00:43.496628",
+  "latitude": 33.246989,
+  "longitude": 126.55996,
+  "updated_at": "2026-05-23T14:05:44.715207",
   "first_prize_draws": [
     1072,
     511
   ],
   "second_prize_draws": [
+    1225,
     1197,
     1160,
     1149,
@@ -29,5 +30,5 @@
     397
   ],
   "first_prize_count": 2,
-  "second_prize_count": 9
+  "second_prize_count": 10
 }

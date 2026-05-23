@@ -1,7 +1,7 @@
 {
   "store_id": "14790042",
   "name": "GMART",
-  "address": "경북 구미시  구미중앙로 57-3 ",
+  "address": "경북 구미시 구미중앙로 57-3  ",
   "province": "경북",
   "city": "구미시",
   "phone": "054-457-8488",
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 36.130029,
-  "longitude": 128.329052,
-  "updated_at": "2026-03-06T00:00:08.286774",
+  "latitude": 36.130007,
+  "longitude": 128.32905,
+  "updated_at": "2026-05-23T14:05:44.713105",
   "first_prize_draws": [
     1185,
     972,
     943
   ],
   "second_prize_draws": [
+    1225,
     1164,
     1022,
     968,
@@ -30,5 +31,5 @@
     370
   ],
   "first_prize_count": 3,
-  "second_prize_count": 9
+  "second_prize_count": 10
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14141148",
   "name": "스마일복권",
-  "address": "경기 김포시  중봉1로 12 1층 104-2호",
+  "address": "경기 김포시 중봉1로 12 1층 104-2호  ",
   "province": "경기",
   "city": "김포시",
   "phone": null,
@@ -10,11 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.622769,
-  "longitude": 126.699272,
-  "updated_at": "2026-03-05T23:59:14.168306",
+  "latitude": 37.622516,
+  "longitude": 126.69955,
+  "updated_at": "2026-05-23T14:05:44.707837",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1225,
     1171,
     1161,
     1160,
@@ -22,5 +23,5 @@
     1075
   ],
   "first_prize_count": 0,
-  "second_prize_count": 5
+  "second_prize_count": 6
 }

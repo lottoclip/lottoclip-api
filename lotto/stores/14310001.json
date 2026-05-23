@@ -1,7 +1,7 @@
 {
   "store_id": "14310001",
   "name": "만복편의점",
-  "address": "충북 청주시 흥덕구  1순환로 595 ",
+  "address": "충북 청주시 흥덕구 1순환로 595  ",
   "province": "충북",
   "city": "청주시",
   "phone": "043-238-1515",
@@ -10,15 +10,17 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 36.64026,
-  "longitude": 127.460855,
-  "updated_at": "2026-03-05T23:56:42.541353",
-  "first_prize_draws": [],
+  "latitude": 36.640272,
+  "longitude": 127.46084,
+  "updated_at": "2026-05-23T14:05:44.709491",
+  "first_prize_draws": [
+    1225
+  ],
   "second_prize_draws": [
     1128,
     1084,
     615
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 3
 }

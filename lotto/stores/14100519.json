@@ -1,7 +1,7 @@
 {
   "store_id": "14100519",
   "name": "가판점",
-  "address": "경기 부천시  자유로 33 이마트앞 지하도입구",
+  "address": "경기 부천시 자유로 33 이마트앞 지하도입구  ",
   "province": "경기",
   "city": "부천시",
   "phone": "032-663-9602",
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.483965,
-  "longitude": 126.779876,
-  "updated_at": "2026-03-06T00:00:40.522456",
+  "latitude": 37.483779,
+  "longitude": 126.77984,
+  "updated_at": "2026-05-23T14:05:44.707433",
   "first_prize_draws": [
     997,
     941,
     529
   ],
   "second_prize_draws": [
+    1225,
     1196,
     1093,
     1027,
@@ -39,5 +40,5 @@
     351
   ],
   "first_prize_count": 3,
-  "second_prize_count": 18
+  "second_prize_count": 19
 }

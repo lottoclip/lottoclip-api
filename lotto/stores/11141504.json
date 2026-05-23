@@ -1,22 +1,23 @@
 {
   "store_id": "11141504",
   "name": "무지개로또",
-  "address": "서울 중구  다산로33길 13 1층",
+  "address": "서울 중구 다산로33길 13 1층  ",
   "province": "서울",
   "city": "중구",
   "phone": null,
   "lottery_types": [
     "lotto645",
-    "pension720",
-    "speetto"
+    "pension720"
   ],
-  "latitude": 37.562322,
-  "longitude": 127.014044,
-  "updated_at": "2026-03-06T00:00:45.542641",
-  "first_prize_draws": [],
+  "latitude": 37.562323,
+  "longitude": 127.01404,
+  "updated_at": "2026-05-23T14:05:44.696825",
+  "first_prize_draws": [
+    1225
+  ],
   "second_prize_draws": [
     1198
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 1
 }

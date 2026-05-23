@@ -1,17 +1,18 @@
 {
   "store_id": "14110093",
   "name": "로또명당",
-  "address": "경기 시흥시  신현로 21-1 101호",
+  "address": "경기 시흥시 신현로 21-1 101호  ",
   "province": "경기",
   "city": "시흥시",
   "phone": "031-315-7303",
   "lottery_types": [
     "lotto645"
   ],
-  "latitude": 37.407072,
-  "longitude": 126.78708,
-  "updated_at": "2026-03-05T23:59:40.638246",
+  "latitude": 37.407069,
+  "longitude": 126.7871,
+  "updated_at": "2026-05-23T14:05:44.706725",
   "first_prize_draws": [
+    1225,
     1043,
     986,
     963,
@@ -35,6 +36,6 @@
     429,
     411
   ],
-  "first_prize_count": 6,
+  "first_prize_count": 7,
   "second_prize_count": 14
 }

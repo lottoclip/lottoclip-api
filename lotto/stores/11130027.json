@@ -1,7 +1,7 @@
 {
   "store_id": "11130027",
   "name": "행운복권방",
-  "address": "서울 금천구  가산디지털1로 168 A동 103호",
+  "address": "서울 금천구 가산디지털1로 168 A동 103호  ",
   "province": "서울",
   "city": "금천구",
   "phone": null,
@@ -10,10 +10,11 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.479959,
-  "longitude": 126.882484,
-  "updated_at": "2026-03-06T00:00:40.168254",
+  "latitude": 37.47999,
+  "longitude": 126.88259,
+  "updated_at": "2026-05-23T14:05:44.700168",
   "first_prize_draws": [
+    1225,
     1196
   ],
   "second_prize_draws": [
@@ -30,6 +31,6 @@
     749,
     706
   ],
-  "first_prize_count": 1,
+  "first_prize_count": 2,
   "second_prize_count": 12
 }

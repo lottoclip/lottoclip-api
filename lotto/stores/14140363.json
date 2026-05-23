@@ -1,7 +1,7 @@
 {
   "store_id": "14140363",
   "name": "월산리주고받는로또",
-  "address": "경기 남양주시  경춘로 2244 1층 CU내",
+  "address": "경기 남양주시 경춘로 2244 1층 CU내  ",
   "province": "경기",
   "city": "남양주시",
   "phone": null,
@@ -11,9 +11,10 @@
     "speetto"
   ],
   "latitude": 37.655907,
-  "longitude": 127.336796,
-  "updated_at": "2026-03-05T23:54:48.098968",
+  "longitude": 127.33679,
+  "updated_at": "2026-05-23T14:05:44.707629",
   "first_prize_draws": [
+    1225,
     1001
   ],
   "second_prize_draws": [
@@ -21,6 +22,6 @@
     1060,
     1046
   ],
-  "first_prize_count": 1,
+  "first_prize_count": 2,
   "second_prize_count": 3
 }

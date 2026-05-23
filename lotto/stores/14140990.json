@@ -1,7 +1,7 @@
 {
   "store_id": "14140990",
   "name": "다올 복권판매점",
-  "address": "경기 포천시  수입로 204 GS편의점 포천일동점",
+  "address": "경기 포천시 수입로 204 GS편의점 포천일동점  ",
   "province": "경기",
   "city": "포천시",
   "phone": null,
@@ -10,14 +10,15 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 38.009492,
-  "longitude": 127.341406,
-  "updated_at": "2026-03-06T00:00:16.153633",
+  "latitude": 37.985175,
+  "longitude": 127.32186,
+  "updated_at": "2026-05-23T14:05:44.705359",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1225,
     1188,
     1114
   ],
   "first_prize_count": 0,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

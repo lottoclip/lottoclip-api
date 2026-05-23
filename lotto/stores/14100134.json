@@ -1,7 +1,7 @@
 {
   "store_id": "14100134",
   "name": "행운복권방",
-  "address": "경기 성남시 중원구  금상로 118 1층",
+  "address": "경기 성남시 중원구 금상로 118 1층  ",
   "province": "경기",
   "city": "성남시",
   "phone": "031-744-4709",
@@ -12,11 +12,12 @@
   ],
   "latitude": 37.442444,
   "longitude": 127.167931,
-  "updated_at": "2026-03-06T00:00:25.646606",
+  "updated_at": "2026-05-23T14:05:44.707041",
   "first_prize_draws": [
     381
   ],
   "second_prize_draws": [
+    1225,
     1191,
     1114,
     1094,
@@ -32,5 +33,5 @@
     338
   ],
   "first_prize_count": 1,
-  "second_prize_count": 13
+  "second_prize_count": 14
 }
