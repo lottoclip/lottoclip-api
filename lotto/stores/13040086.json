@@ -1,7 +1,7 @@
 {
   "store_id": "13040086",
   "name": "기운복권",
-  "address": "대전 유성구  유성대로654번길 27 ",
+  "address": "대전 유성구 유성대로654번길 27  ",
   "province": "대전",
   "city": "유성구",
   "phone": null,
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 36.352098,
-  "longitude": 127.330706,
-  "updated_at": "2026-03-05T23:49:44.691419",
+  "latitude": 36.352119,
+  "longitude": 127.33071,
+  "updated_at": "2026-05-30T14:09:37.539358",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1226,
     996
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

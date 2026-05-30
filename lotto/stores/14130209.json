@@ -1,7 +1,7 @@
 {
   "store_id": "14130209",
   "name": "두꺼비복권방",
-  "address": "경기 광주시  능평로 214 ",
+  "address": "경기 광주시 능평로 214  ",
   "province": "경기",
   "city": "광주시",
   "phone": null,
@@ -10,14 +10,15 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.345232,
-  "longitude": 127.177251,
-  "updated_at": "2026-03-06T00:00:16.387431",
+  "latitude": 37.344283,
+  "longitude": 127.17823,
+  "updated_at": "2026-05-30T14:09:37.543656",
   "first_prize_draws": [
     833,
     818
   ],
   "second_prize_draws": [
+    1226,
     1188,
     1169,
     1166,
@@ -29,5 +30,5 @@
     816
   ],
   "first_prize_count": 2,
-  "second_prize_count": 9
+  "second_prize_count": 10
 }

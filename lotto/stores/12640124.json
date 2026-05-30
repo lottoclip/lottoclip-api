@@ -1,7 +1,7 @@
 {
   "store_id": "12640124",
   "name": "골든복권방",
-  "address": "부산 동래구  수안로8번길 35 17 18호",
+  "address": "부산 동래구 수안로8번길 35 17 18호  ",
   "province": "부산",
   "city": "동래구",
   "phone": "051-502-9003",
@@ -10,11 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.194979,
-  "longitude": 129.089715,
-  "updated_at": "2026-03-05T23:52:58.996981",
+  "latitude": 35.194781,
+  "longitude": 129.08969,
+  "updated_at": "2026-05-30T14:09:37.536873",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1226,
     1053,
     965,
     956,
@@ -22,5 +23,5 @@
     935
   ],
   "first_prize_count": 0,
-  "second_prize_count": 5
+  "second_prize_count": 6
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "11140641",
   "name": "로또복권판매점",
-  "address": "서울 양천구  남부순환로79길 11 1층 103호",
+  "address": "서울 양천구 남부순환로79길 11 1층 103호  ",
   "province": "서울",
   "city": "양천구",
   "phone": null,
@@ -10,16 +10,17 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.516993,
-  "longitude": 126.841109,
-  "updated_at": "2026-03-05T23:58:19.686240",
+  "latitude": 37.516992,
+  "longitude": 126.8411,
+  "updated_at": "2026-05-30T14:09:37.383477",
   "first_prize_draws": [
     1152
   ],
   "second_prize_draws": [
+    1226,
     1033,
     991
   ],
   "first_prize_count": 1,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

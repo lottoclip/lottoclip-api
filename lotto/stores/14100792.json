@@ -1,7 +1,7 @@
 {
   "store_id": "14100792",
   "name": "대박찬스",
-  "address": "경기 광주시  송정로 69 나산상가1층4호",
+  "address": "경기 광주시 송정로 69 나산상가1층4호  ",
   "province": "경기",
   "city": "광주시",
   "phone": "031-761-5729",
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.416191,
-  "longitude": 127.252888,
-  "updated_at": "2026-03-05T23:59:10.999608",
+  "latitude": 37.416686,
+  "longitude": 127.25211,
+  "updated_at": "2026-05-30T14:09:37.543835",
   "first_prize_draws": [
     839
   ],
   "second_prize_draws": [
+    1226,
     1170,
     1158,
     1134,
@@ -34,5 +35,5 @@
     270
   ],
   "first_prize_count": 1,
-  "second_prize_count": 15
+  "second_prize_count": 16
 }

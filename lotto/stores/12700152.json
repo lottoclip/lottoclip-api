@@ -1,7 +1,7 @@
 {
   "store_id": "12700152",
   "name": "거봉마트(원고개시장)",
-  "address": "대구 서구  북비산로 310 ",
+  "address": "대구 서구 북비산로 310  ",
   "province": "대구",
   "city": "서구",
   "phone": "053-561-9393",
@@ -10,10 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.8793,
-  "longitude": 128.567214,
-  "updated_at": "2026-03-05T23:49:39.059779",
-  "first_prize_draws": [],
+  "latitude": 35.879259,
+  "longitude": 128.56724,
+  "updated_at": "2026-05-30T14:09:37.537300",
+  "first_prize_draws": [
+    1226
+  ],
   "second_prize_draws": [
     994,
     948,
@@ -31,6 +33,6 @@
     379,
     302
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 15
 }

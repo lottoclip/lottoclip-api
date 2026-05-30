@@ -1,7 +1,7 @@
 {
   "store_id": "14940094",
   "name": "일등복권방",
-  "address": "제주 제주시  신대로 119 중간건물",
+  "address": "제주 제주시 신대로 119 중간건물  ",
   "province": "제주",
   "city": "제주시",
   "phone": null,
@@ -11,14 +11,15 @@
     "speetto"
   ],
   "latitude": 33.486584,
-  "longitude": 126.496771,
-  "updated_at": "2026-03-06T00:00:43.490211",
+  "longitude": 126.49677,
+  "updated_at": "2026-05-30T14:09:37.549068",
   "first_prize_draws": [
     1095
   ],
   "second_prize_draws": [
+    1226,
     1197
   ],
   "first_prize_count": 1,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

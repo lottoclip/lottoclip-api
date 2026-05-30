@@ -1,7 +1,7 @@
 {
   "store_id": "14141017",
   "name": "황금로또복권방",
-  "address": "경기 화성시  만년로 472 4호",
+  "address": "경기 화성시 만년로 472 4호  ",
   "province": "경기",
   "city": "화성시",
   "phone": null,
@@ -10,16 +10,17 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.16317,
-  "longitude": 126.98401,
-  "updated_at": "2026-03-05T23:56:31.176155",
+  "latitude": 37.163497,
+  "longitude": 126.98392,
+  "updated_at": "2026-05-30T14:09:37.540474",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1226,
     1124,
     1042,
     1010,
     981
   ],
   "first_prize_count": 0,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14820010",
   "name": "대풍로또판매점",
-  "address": "경남 김해시  번화2로 36 ",
+  "address": "경남 김해시 번화2로 36  ",
   "province": "경남",
   "city": "김해시",
   "phone": "055-337-4380",
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.192285,
-  "longitude": 128.805245,
-  "updated_at": "2026-03-06T00:00:19.826149",
+  "latitude": 35.192269,
+  "longitude": 128.80517,
+  "updated_at": "2026-05-30T14:09:37.548665",
   "first_prize_draws": [
     1187,
     1102,
     790
   ],
   "second_prize_draws": [
+    1226,
     1189,
     1165,
     1144,
@@ -36,5 +37,5 @@
     686
   ],
   "first_prize_count": 3,
-  "second_prize_count": 15
+  "second_prize_count": 16
 }

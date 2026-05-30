@@ -1,7 +1,7 @@
 {
   "store_id": "14141558",
   "name": "오늘또로또",
-  "address": "경기 이천시  중앙로 92 1층 101호",
+  "address": "경기 이천시 중앙로 92 1층 101호  ",
   "province": "경기",
   "city": "이천시",
   "phone": null,
@@ -10,16 +10,17 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.249768,
-  "longitude": 127.357351,
-  "updated_at": "2026-03-05T23:53:05.198064",
+  "latitude": 37.249767,
+  "longitude": 127.35735,
+  "updated_at": "2026-05-30T14:09:37.541296",
   "first_prize_draws": [
     1025
   ],
   "second_prize_draws": [
+    1226,
     1055,
     1037
   ],
   "first_prize_count": 1,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

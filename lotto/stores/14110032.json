@@ -1,7 +1,7 @@
 {
   "store_id": "14110032",
   "name": "로또명당상동점",
-  "address": "경기 부천시 원미구 상동 538-1번지 효성프라자108호",
+  "address": "경기 부천시 송내대로265번길 17 효성프라자108호  ",
   "province": "경기",
   "city": "부천시",
   "phone": "032-212-8282",
@@ -9,10 +9,11 @@
     "lotto645",
     "speetto"
   ],
-  "latitude": 37.506847,
-  "longitude": 126.757951,
-  "updated_at": "2026-03-05T23:43:11.711059",
+  "latitude": 37.506865,
+  "longitude": 126.75796,
+  "updated_at": "2026-05-30T14:09:37.542924",
   "first_prize_draws": [
+    1226,
     576,
     468
   ],
@@ -25,6 +26,6 @@
     388,
     343
   ],
-  "first_prize_count": 2,
+  "first_prize_count": 3,
   "second_prize_count": 7
 }

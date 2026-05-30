@@ -1,7 +1,7 @@
 {
   "store_id": "12920003",
   "name": "드림",
-  "address": "광주 광산구  선운로20번길 64 104호",
+  "address": "광주 광산구 선운로20번길 64 104호  ",
   "province": "광주",
   "city": "광산구",
   "phone": "062-941-1357",
@@ -10,10 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.146506,
-  "longitude": 126.777452,
-  "updated_at": "2026-03-05T23:54:50.522870",
-  "first_prize_draws": [],
+  "latitude": 35.146542,
+  "longitude": 126.77744,
+  "updated_at": "2026-05-30T14:09:37.538927",
+  "first_prize_draws": [
+    1226
+  ],
   "second_prize_draws": [
     1090,
     1064,
@@ -24,6 +26,6 @@
     820,
     704
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 8
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "13140253",
   "name": "굿럭복권",
-  "address": "울산 동구  꽃바위2길 23 ",
+  "address": "울산 동구 꽃바위2길 23  ",
   "province": "울산",
   "city": "동구",
   "phone": null,
@@ -11,12 +11,13 @@
     "speetto"
   ],
   "latitude": 35.481524,
-  "longitude": 129.413489,
-  "updated_at": "2026-03-06T00:00:48.351344",
+  "longitude": 129.41348,
+  "updated_at": "2026-05-30T14:09:37.539792",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1226,
     1199
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

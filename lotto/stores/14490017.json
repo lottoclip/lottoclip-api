@@ -1,7 +1,7 @@
 {
   "store_id": "14490017",
   "name": "충청복권전문점",
-  "address": "충남 천안시 서북구  성환2로 108 ",
+  "address": "충남 천안시 서북구 성환2로 108  ",
   "province": "충남",
   "city": "천안시",
   "phone": "041-584-3740",
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 36.91694,
-  "longitude": 127.132839,
-  "updated_at": "2026-03-05T23:58:59.794418",
+  "latitude": 36.916957,
+  "longitude": 127.13285,
+  "updated_at": "2026-05-30T14:09:37.545817",
   "first_prize_draws": [
     1162,
     933,
@@ -20,6 +20,7 @@
     594
   ],
   "second_prize_draws": [
+    1226,
     1166,
     1135,
     1079,
@@ -42,5 +43,5 @@
     297
   ],
   "first_prize_count": 4,
-  "second_prize_count": 20
+  "second_prize_count": 21
 }

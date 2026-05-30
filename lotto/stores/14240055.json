@@ -1,7 +1,7 @@
 {
   "store_id": "14240055",
   "name": "영월명당복권",
-  "address": "강원 영월군  중앙로 124 ",
+  "address": "강원 영월군 중앙로 124 (덕포리)  ",
   "province": "강원",
   "city": "영월군",
   "phone": null,
@@ -11,14 +11,15 @@
     "speetto"
   ],
   "latitude": 37.18108,
-  "longitude": 128.476121,
-  "updated_at": "2026-03-05T23:58:48.880035",
+  "longitude": 128.47612,
+  "updated_at": "2026-05-30T14:09:37.544643",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1226,
     1162,
     1134,
     1037
   ],
   "first_prize_count": 0,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

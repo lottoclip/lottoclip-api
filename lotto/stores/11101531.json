@@ -1,7 +1,7 @@
 {
   "store_id": "11101531",
   "name": "장보고복권방",
-  "address": "서울 중랑구  면목로 288 ",
+  "address": "서울 중랑구 면목로 288  ",
   "province": "서울",
   "city": "중랑구",
   "phone": "02-2208-0911",
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.578384,
-  "longitude": 127.086186,
-  "updated_at": "2026-03-05T23:58:22.533478",
+  "latitude": 37.578381,
+  "longitude": 127.08622,
+  "updated_at": "2026-05-30T14:09:37.382662",
   "first_prize_draws": [
     1109,
     1051,
@@ -20,6 +20,7 @@
     704
   ],
   "second_prize_draws": [
+    1226,
     1153,
     1146,
     1059,
@@ -32,5 +33,5 @@
     687
   ],
   "first_prize_count": 4,
-  "second_prize_count": 10
+  "second_prize_count": 11
 }

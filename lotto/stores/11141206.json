@@ -1,25 +1,28 @@
 {
   "store_id": "11141206",
   "name": "장안평역 3번출구 가판대",
-  "address": "서울 동대문구  장한로 6-1 장한평역 3번출구 앞 가판대",
+  "address": "서울 동대문구 장한로 6-1 장한평역 3번출구 앞 가판대  ",
   "province": "서울",
   "city": "동대문구",
   "phone": null,
   "lottery_types": [
-    "lotto645"
+    "lotto645",
+    "pension720",
+    "speetto"
   ],
   "latitude": 37.561967,
-  "longitude": 127.065106,
-  "updated_at": "2026-03-06T00:00:28.176648",
+  "longitude": 127.0651,
+  "updated_at": "2026-05-30T14:09:37.534304",
   "first_prize_draws": [
     1192,
     1139
   ],
   "second_prize_draws": [
+    1226,
     1155,
     1119,
     1102
   ],
   "first_prize_count": 2,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14820013",
   "name": "365팡팡복권",
-  "address": "경남 김해시  장등로 53 상가136동108호",
+  "address": "경남 김해시 장등로 53 상가136동108호  ",
   "province": "경남",
   "city": "김해시",
   "phone": "055-342-3688",
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.3121,
-  "longitude": 128.7335,
-  "updated_at": "2026-03-05T23:59:57.232387",
+  "latitude": 35.311331,
+  "longitude": 128.73533,
+  "updated_at": "2026-05-30T14:09:37.548453",
   "first_prize_draws": [
     931
   ],
   "second_prize_draws": [
+    1226,
     1181,
     1175,
     1112,
@@ -34,5 +35,5 @@
     669
   ],
   "first_prize_count": 1,
-  "second_prize_count": 15
+  "second_prize_count": 16
 }

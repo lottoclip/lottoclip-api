@@ -1,7 +1,7 @@
 {
   "store_id": "14141025",
   "name": "로또명당",
-  "address": "경기 화성시  동탄대로시범길 148-22 103호",
+  "address": "경기 화성시 동탄대로시범길 148-22 103호  ",
   "province": "경기",
   "city": "화성시",
   "phone": null,
@@ -10,11 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.200404,
-  "longitude": 127.114998,
-  "updated_at": "2026-03-05T23:56:31.182779",
+  "latitude": 37.200476,
+  "longitude": 127.11489,
+  "updated_at": "2026-05-30T14:09:37.540237",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1226,
     1124,
     1044,
     999,
@@ -22,5 +23,5 @@
     959
   ],
   "first_prize_count": 0,
-  "second_prize_count": 5
+  "second_prize_count": 6
 }

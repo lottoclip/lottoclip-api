@@ -1,7 +1,7 @@
 {
   "store_id": "14790012",
   "name": "왕대박복권고령점",
-  "address": "경북 고령군  중앙로 15 ",
+  "address": "경북 고령군 중앙로 15  ",
   "province": "경북",
   "city": "고령군",
   "phone": "054-954-1183",
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.729746,
-  "longitude": 128.269418,
-  "updated_at": "2026-03-05T23:54:05.486012",
+  "latitude": 35.729804,
+  "longitude": 128.2696,
+  "updated_at": "2026-05-30T14:09:37.547210",
   "first_prize_draws": [
     580
   ],
   "second_prize_draws": [
+    1226,
     1074,
     1031,
     1009,
@@ -30,5 +31,5 @@
     299
   ],
   "first_prize_count": 1,
-  "second_prize_count": 11
+  "second_prize_count": 12
 }

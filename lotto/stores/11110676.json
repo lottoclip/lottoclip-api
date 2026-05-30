@@ -1,7 +1,7 @@
 {
   "store_id": "11110676",
   "name": "로또플러스",
-  "address": "서울 강북구  도봉로50길 11 1층",
+  "address": "서울 강북구 도봉로50길 11 1층  ",
   "province": "서울",
   "city": "강북구",
   "phone": null,
@@ -11,12 +11,13 @@
     "speetto"
   ],
   "latitude": 37.625604,
-  "longitude": 127.027345,
-  "updated_at": "2026-03-05T23:53:04.877787",
+  "longitude": 127.02734,
+  "updated_at": "2026-05-30T14:09:37.535911",
   "first_prize_draws": [
     609
   ],
   "second_prize_draws": [
+    1226,
     1055,
     1029,
     1026,
@@ -26,5 +27,5 @@
     339
   ],
   "first_prize_count": 1,
-  "second_prize_count": 7
+  "second_prize_count": 8
 }

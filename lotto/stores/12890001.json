@@ -1,7 +1,7 @@
 {
   "store_id": "12890001",
   "name": "찬스센터",
-  "address": "인천 남동구  남동대로370번길 114 상가동 1층 101호",
+  "address": "인천 남동구 남동대로370번길 114 상가동 1층 101호  ",
   "province": "인천",
   "city": "남동구",
   "phone": null,
@@ -10,14 +10,15 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.412737,
-  "longitude": 126.712243,
-  "updated_at": "2026-03-06T00:00:34.821488",
+  "latitude": 37.413414,
+  "longitude": 126.71183,
+  "updated_at": "2026-05-30T14:09:37.538359",
   "first_prize_draws": [
     1087,
     732
   ],
   "second_prize_draws": [
+    1226,
     1194,
     960,
     947,
@@ -33,5 +34,5 @@
     306
   ],
   "first_prize_count": 2,
-  "second_prize_count": 13
+  "second_prize_count": 14
 }

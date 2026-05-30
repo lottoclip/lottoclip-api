@@ -1,7 +1,7 @@
 {
   "store_id": "11100513",
   "name": "강서슈퍼",
-  "address": "서울 강서구  공항대로59길 29 ",
+  "address": "서울 강서구 공항대로59길 29  ",
   "province": "서울",
   "city": "강서구",
   "phone": "02-3661-4256",
@@ -10,11 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.552977,
-  "longitude": 126.863467,
-  "updated_at": "2026-03-06T00:00:56.356553",
+  "latitude": 37.55298,
+  "longitude": 126.8635,
+  "updated_at": "2026-05-30T14:09:37.535212",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1226,
     1202,
     1124,
     807,
@@ -22,5 +23,5 @@
     325
   ],
   "first_prize_count": 0,
-  "second_prize_count": 5
+  "second_prize_count": 6
 }

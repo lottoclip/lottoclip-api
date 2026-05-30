@@ -1,7 +1,7 @@
 {
   "store_id": "14130141",
   "name": "교통카드충전소",
-  "address": "경기 용인시 처인구  명지로 29 가판점",
+  "address": "경기 용인시 처인구 명지로 31 가판점  ",
   "province": "경기",
   "city": "용인시",
   "phone": "031-322-7420",
@@ -10,15 +10,17 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.233426,
-  "longitude": 127.188977,
-  "updated_at": "2026-03-05T23:49:39.177148",
-  "first_prize_draws": [],
+  "latitude": 37.233214,
+  "longitude": 127.1889,
+  "updated_at": "2026-05-30T14:09:37.541618",
+  "first_prize_draws": [
+    1226
+  ],
   "second_prize_draws": [
     994,
     934,
     757
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 3
 }
