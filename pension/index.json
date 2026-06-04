@@ -1,6 +1,11 @@
 {
   "draws": [
     {
+      "draw_no": 318,
+      "draw_date": "2026-06-04",
+      "file": "draws/pension_318.json"
+    },
+    {
       "draw_no": 317,
       "draw_date": "2026-05-28",
       "file": "draws/pension_317.json"
@@ -1586,5 +1591,5 @@
       "file": "draws/pension_1.json"
     }
   ],
-  "last_updated": "2026-05-29T06:42:37.106301"
+  "last_updated": "2026-06-04T16:32:06.371486"
 }
