@@ -1,7 +1,7 @@
 {
   "store_id": "13020005",
   "name": "로또편의점",
-  "address": "대전 유성구  진잠로 146 교촌빌딩",
+  "address": "대전 유성구 진잠로 146 교촌빌딩  ",
   "province": "대전",
   "city": "유성구",
   "phone": null,
@@ -10,14 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 36.303303,
-  "longitude": 127.317607,
-  "updated_at": "2026-03-06T00:00:45.751338",
-  "first_prize_draws": [],
+  "latitude": 36.303307,
+  "longitude": 127.31761,
+  "updated_at": "2026-06-06T14:13:00.609882",
+  "first_prize_draws": [
+    1227
+  ],
   "second_prize_draws": [
     1198,
     1074
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 2
 }

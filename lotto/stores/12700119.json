@@ -1,7 +1,7 @@
 {
   "store_id": "12700119",
   "name": "진슈퍼",
-  "address": "대구 수성구  무열로 159 (만촌동)1층우측상가",
+  "address": "대구 수성구 무열로 159 (만촌동)1층우측상가  ",
   "province": "대구",
   "city": "수성구",
   "phone": "053-764-8856",
@@ -10,11 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.872471,
-  "longitude": 128.647394,
-  "updated_at": "2026-03-05T23:59:40.425046",
+  "latitude": 35.87247,
+  "longitude": 128.64738,
+  "updated_at": "2026-06-06T14:13:00.607726",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1227,
     1175,
     1171,
     1126,
@@ -27,5 +28,5 @@
     370
   ],
   "first_prize_count": 0,
-  "second_prize_count": 10
+  "second_prize_count": 11
 }

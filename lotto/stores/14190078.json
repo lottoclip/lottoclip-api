@@ -1,7 +1,7 @@
 {
   "store_id": "14190078",
   "name": "복권닷컴",
-  "address": "경기 성남시 수정구  탄리로 79 ",
+  "address": "경기 성남시 수정구 탄리로 79 1층  ",
   "province": "경기",
   "city": "성남시",
   "phone": "031-721-9767",
@@ -10,14 +10,15 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.442996,
-  "longitude": 127.135578,
-  "updated_at": "2026-03-06T00:00:13.473287",
+  "latitude": 37.443002,
+  "longitude": 127.1356,
+  "updated_at": "2026-06-06T14:13:00.612117",
   "first_prize_draws": [
     999,
     914
   ],
   "second_prize_draws": [
+    1227,
     1187,
     1181,
     1157,
@@ -30,5 +31,5 @@
     290
   ],
   "first_prize_count": 2,
-  "second_prize_count": 10
+  "second_prize_count": 11
 }

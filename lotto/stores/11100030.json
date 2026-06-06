@@ -1,7 +1,7 @@
 {
   "store_id": "11100030",
   "name": "노다지복권방",
-  "address": "서울 성북구  화랑로13길 20 ",
+  "address": "서울 성북구 화랑로13길 20  ",
   "province": "서울",
   "city": "성북구",
   "phone": "02-941-1606",
@@ -10,11 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.604344,
-  "longitude": 127.042499,
-  "updated_at": "2026-03-06T00:00:34.608832",
+  "latitude": 37.604331,
+  "longitude": 127.0425,
+  "updated_at": "2026-06-06T14:13:00.605531",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1227,
     1194,
     1163,
     1065,
@@ -27,5 +28,5 @@
     330
   ],
   "first_prize_count": 0,
-  "second_prize_count": 10
+  "second_prize_count": 11
 }

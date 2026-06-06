@@ -1,19 +1,20 @@
 {
   "store_id": "11100323",
-  "name": "진흥슈퍼",
-  "address": "서울 강남구  논현로150길 31 ",
+  "name": "진흥수퍼",
+  "address": "서울 강남구 논현로150길 31  ",
   "province": "서울",
   "city": "강남구",
-  "phone": "02-546-9053",
+  "phone": null,
   "lottery_types": [
     "lotto645",
     "pension720",
     "speetto"
   ],
   "latitude": 37.519838,
-  "longitude": 127.030928,
-  "updated_at": "2026-03-05T23:56:27.826063",
+  "longitude": 127.03092,
+  "updated_at": "2026-06-06T14:13:00.607077",
   "first_prize_draws": [
+    1227,
     767,
     611
   ],
@@ -28,6 +29,6 @@
     544,
     412
   ],
-  "first_prize_count": 2,
+  "first_prize_count": 3,
   "second_prize_count": 9
 }

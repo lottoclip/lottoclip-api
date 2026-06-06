@@ -1,7 +1,7 @@
 {
   "store_id": "12940045",
   "name": "아름복권",
-  "address": "광주 광산구  임방울대로 154-24 우방아이유쉘 상가 B동 102호",
+  "address": "광주 광산구 임방울대로 154-24 상가 B동 102호  ",
   "province": "광주",
   "city": "광산구",
   "phone": null,
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.174915,
-  "longitude": 126.819774,
-  "updated_at": "2026-03-05T23:54:13.968921",
+  "latitude": 35.174861,
+  "longitude": 126.81967,
+  "updated_at": "2026-06-06T14:13:00.609749",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1227,
     1077
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

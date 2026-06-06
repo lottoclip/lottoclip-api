@@ -1,22 +1,24 @@
 {
   "store_id": "12710068",
   "name": "세븐일레븐대구만촌타운점(로또복권)",
-  "address": "대구 수성구  국채보상로 1050 세븐일레븐 대구만촌타운점",
+  "address": "대구 수성구 국채보상로 1050 세븐일레븐 대구만촌타운점  ",
   "province": "대구",
   "city": "수성구",
   "phone": null,
   "lottery_types": [
     "lotto645",
-    "pension720"
+    "pension720",
+    "speetto"
   ],
-  "latitude": 35.866995,
-  "longitude": 128.644956,
-  "updated_at": "2026-03-06T00:00:51.012276",
+  "latitude": 35.866985,
+  "longitude": 128.64496,
+  "updated_at": "2026-06-06T14:13:00.608133",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1227,
     1200,
     1157
   ],
   "first_prize_count": 0,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

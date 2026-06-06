@@ -1,7 +1,7 @@
 {
   "store_id": "14840268",
   "name": "소망복권판매점",
-  "address": "경남 거제시  옥포대첩로7길 23 1층",
+  "address": "경남 거제시 옥포대첩로7길 23 1층  ",
   "province": "경남",
   "city": "거제시",
   "phone": null,
@@ -10,16 +10,17 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 34.89526,
-  "longitude": 128.693694,
-  "updated_at": "2026-03-05T23:57:56.006402",
+  "latitude": 34.895103,
+  "longitude": 128.69368,
+  "updated_at": "2026-06-06T14:13:00.616831",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1227,
     1149,
     1119,
     1108,
     1072
   ],
   "first_prize_count": 0,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }

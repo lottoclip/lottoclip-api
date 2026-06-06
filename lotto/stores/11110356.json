@@ -1,7 +1,7 @@
 {
   "store_id": "11110356",
   "name": "행복복권방",
-  "address": "서울 양천구  신목로6길 41 ",
+  "address": "서울 양천구 신목로6길 41 1층  ",
   "province": "서울",
   "city": "양천구",
   "phone": null,
@@ -10,11 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.522194,
-  "longitude": 126.875765,
-  "updated_at": "2026-03-06T00:00:07.797781",
+  "latitude": 37.522177,
+  "longitude": 126.87577,
+  "updated_at": "2026-06-06T14:13:00.604993",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1227,
     1185,
     695,
     590,
@@ -22,5 +23,5 @@
     391
   ],
   "first_prize_count": 0,
-  "second_prize_count": 5
+  "second_prize_count": 6
 }

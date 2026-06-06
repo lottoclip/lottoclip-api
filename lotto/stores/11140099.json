@@ -1,7 +1,7 @@
 {
   "store_id": "11140099",
-  "name": "대박복권",
-  "address": "서울 성북구  장월로 103 1층",
+  "name": "수연대박",
+  "address": "서울 성북구 화랑로 240 1층  ",
   "province": "서울",
   "city": "성북구",
   "phone": null,
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.605368,
-  "longitude": 127.044124,
-  "updated_at": "2026-03-05T23:55:44.806569",
+  "latitude": 37.61007,
+  "longitude": 127.05603,
+  "updated_at": "2026-06-06T14:13:00.605693",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1227,
     1109,
     976,
     896
   ],
   "first_prize_count": 0,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

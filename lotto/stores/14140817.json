@@ -1,7 +1,7 @@
 {
   "store_id": "14140817",
   "name": "드루아",
-  "address": "경기 안산시 단원구  대남로 9 103호",
+  "address": "경기 안산시 단원구 대남로 9 103호  ",
   "province": "경기",
   "city": "안산시",
   "phone": null,
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.24178,
+  "latitude": 37.241778,
   "longitude": 126.58473,
-  "updated_at": "2026-03-06T00:00:28.610868",
+  "updated_at": "2026-06-06T14:13:00.611620",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1227,
     1192,
     1051,
     969
   ],
   "first_prize_count": 0,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14100268",
   "name": "하나로슈퍼복권방",
-  "address": "경기 성남시 분당구  정자로 78 104호 (정자동 영동프라자)",
+  "address": "경기 성남시 분당구 정자로 78 104호 (정자동 영동프라자)  ",
   "province": "경기",
   "city": "성남시",
   "phone": "031-732-4289",
@@ -12,12 +12,13 @@
   ],
   "latitude": 37.36312,
   "longitude": 127.11351,
-  "updated_at": "2026-03-06T00:00:08.081267",
+  "updated_at": "2026-06-06T14:13:00.612256",
   "first_prize_draws": [
     930,
     691
   ],
   "second_prize_draws": [
+    1227,
     1185,
     1103,
     1030,
@@ -26,5 +27,5 @@
     474
   ],
   "first_prize_count": 2,
-  "second_prize_count": 6
+  "second_prize_count": 7
 }

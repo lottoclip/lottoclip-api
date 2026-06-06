@@ -1,7 +1,7 @@
 {
   "store_id": "14740302",
   "name": "공단로또명당",
-  "address": "경북 포항시 남구  철강로 200 1층(장흥동)",
+  "address": "경북 포항시 남구 철강로 200 1층(장흥동)  ",
   "province": "경북",
   "city": "포항시",
   "phone": null,
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.986109,
-  "longitude": 129.363796,
-  "updated_at": "2026-03-06T00:01:02.930264",
+  "latitude": 35.986106,
+  "longitude": 129.3638,
+  "updated_at": "2026-06-06T14:13:00.614971",
   "first_prize_draws": [
     1180
   ],
   "second_prize_draws": [
+    1227,
     1204,
     1186,
     1162,
@@ -24,5 +25,5 @@
     1126
   ],
   "first_prize_count": 1,
-  "second_prize_count": 5
+  "second_prize_count": 6
 }

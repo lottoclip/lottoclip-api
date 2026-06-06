@@ -1,7 +1,7 @@
 {
   "store_id": "14100051",
   "name": "현대할인마트",
-  "address": "경기 이천시 경충대로 3142  ",
+  "address": "경기 이천시 경충대로 3142 1층  ",
   "province": "경기",
   "city": "이천시",
   "phone": "031-632-7010",
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.306846,
-  "longitude": 127.403112,
-  "updated_at": "2026-03-21T14:15:33.596517",
+  "latitude": 37.306823,
+  "longitude": 127.40306,
+  "updated_at": "2026-06-06T14:13:00.610450",
   "first_prize_draws": [
     804,
     765,
     618
   ],
   "second_prize_draws": [
+    1227,
     1216,
     1215,
     1212,
@@ -36,5 +37,5 @@
     394
   ],
   "first_prize_count": 3,
-  "second_prize_count": 15
+  "second_prize_count": 16
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "12840371",
   "name": "홍이복권방",
-  "address": "인천 서구  중봉대로 759 D동 101호(경서동)",
+  "address": "인천 서구 중봉대로 759 D동 101호(경서동)  ",
   "province": "인천",
   "city": "서구",
   "phone": null,
@@ -10,14 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.54769,
-  "longitude": 126.649757,
-  "updated_at": "2026-03-06T00:00:10.621025",
-  "first_prize_draws": [],
+  "latitude": 37.547596,
+  "longitude": 126.64983,
+  "updated_at": "2026-06-06T14:13:00.608627",
+  "first_prize_draws": [
+    1227
+  ],
   "second_prize_draws": [
     1186,
     1143
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 2
 }

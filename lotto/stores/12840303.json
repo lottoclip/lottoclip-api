@@ -1,7 +1,7 @@
 {
   "store_id": "12840303",
   "name": "수 로또 대박점",
-  "address": "인천 서구  석남로 78 1층",
+  "address": "인천 서구 석남로 78 1층  ",
   "province": "인천",
   "city": "서구",
   "phone": null,
@@ -10,13 +10,15 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.500993,
-  "longitude": 126.670342,
-  "updated_at": "2026-03-05T23:52:53.107683",
+  "latitude": 37.500785,
+  "longitude": 126.67019,
+  "updated_at": "2026-06-06T14:13:00.609207",
   "first_prize_draws": [
     1051
   ],
-  "second_prize_draws": [],
+  "second_prize_draws": [
+    1227
+  ],
   "first_prize_count": 1,
-  "second_prize_count": 0
+  "second_prize_count": 1
 }
