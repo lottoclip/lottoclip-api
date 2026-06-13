@@ -1,7 +1,7 @@
 {
   "store_id": "11101372",
   "name": "비디오카페(성수점)",
-  "address": "서울 성동구  성덕정길 84 1층",
+  "address": "서울 성동구 성덕정길 84 1층  ",
   "province": "서울",
   "city": "성동구",
   "phone": "02-499-7331",
@@ -11,12 +11,13 @@
     "speetto"
   ],
   "latitude": 37.53776,
-  "longitude": 127.052762,
-  "updated_at": "2026-03-05T23:54:16.812243",
+  "longitude": 127.05276,
+  "updated_at": "2026-06-13T14:31:50.257792",
   "first_prize_draws": [
     774
   ],
   "second_prize_draws": [
+    1228,
     1078,
     1016,
     886,
@@ -25,5 +26,5 @@
     565
   ],
   "first_prize_count": 1,
-  "second_prize_count": 6
+  "second_prize_count": 7
 }

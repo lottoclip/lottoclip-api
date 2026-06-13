@@ -1,7 +1,7 @@
 {
   "store_id": "14790041",
   "name": "행복편의점",
-  "address": "경북 경주시  산업로 1762 부성상가102호",
+  "address": "경북 경주시 산업로 1762 1층 102호(부성상가)  ",
   "province": "경북",
   "city": "경주시",
   "phone": "054-776-3389",
@@ -10,11 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.671881,
-  "longitude": 129.336369,
-  "updated_at": "2026-03-05T23:59:08.317356",
+  "latitude": 35.671653,
+  "longitude": 129.336,
+  "updated_at": "2026-06-13T14:31:50.277589",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1228,
     1169,
     1099,
     1055,
@@ -25,5 +26,5 @@
     379
   ],
   "first_prize_count": 0,
-  "second_prize_count": 8
+  "second_prize_count": 9
 }

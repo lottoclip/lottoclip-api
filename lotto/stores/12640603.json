@@ -1,7 +1,7 @@
 {
   "store_id": "12640603",
   "name": "행운로또",
-  "address": "부산 서구  대영로45번길 39-3 ",
+  "address": "부산 서구 대영로45번길 39-3  ",
   "province": "부산",
   "city": "서구",
   "phone": null,
@@ -12,11 +12,12 @@
   ],
   "latitude": 35.111163,
   "longitude": 129.015479,
-  "updated_at": "2026-03-05T23:56:06.431128",
+  "updated_at": "2026-06-13T14:31:50.261077",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1228,
     1116
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

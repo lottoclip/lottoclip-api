@@ -1,7 +1,7 @@
 {
   "store_id": "12600345",
   "name": "감만정보통신",
-  "address": "부산 남구 감만동 138-21번지 ",
+  "address": "부산 남구 우암로 150 복권판매점  ",
   "province": "부산",
   "city": "남구",
   "phone": "051-645-9573",
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.123595,
-  "longitude": 129.080198,
-  "updated_at": "2026-03-05T23:37:31.726640",
+  "latitude": 35.123599,
+  "longitude": 129.08018,
+  "updated_at": "2026-06-13T14:31:50.262088",
   "first_prize_draws": [
+    1228,
     712
   ],
   "second_prize_draws": [
     765
   ],
-  "first_prize_count": 1,
+  "first_prize_count": 2,
   "second_prize_count": 1
 }

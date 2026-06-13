@@ -1,20 +1,21 @@
 {
   "store_id": "12910017",
   "name": "행복드림로또",
-  "address": "광주 광산구  왕버들로 265 1층 103-1호",
+  "address": "광주 광산구 왕버들로 265 1층 103-1호  ",
   "province": "광주",
   "city": "광산구",
   "phone": "070-8846-1282",
   "lottery_types": [
     "lotto645"
   ],
-  "latitude": 35.196249,
-  "longitude": 126.837702,
-  "updated_at": "2026-03-05T23:59:43.294343",
+  "latitude": 35.196246,
+  "longitude": 126.83767,
+  "updated_at": "2026-06-13T14:31:50.265696",
   "first_prize_draws": [
     996
   ],
   "second_prize_draws": [
+    1228,
     1176,
     1129,
     1075,
@@ -31,5 +32,5 @@
     305
   ],
   "first_prize_count": 1,
-  "second_prize_count": 14
+  "second_prize_count": 15
 }

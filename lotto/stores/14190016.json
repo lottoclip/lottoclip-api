@@ -1,7 +1,7 @@
 {
   "store_id": "14190016",
   "name": "행운슈퍼 복권사는날",
-  "address": "경기 부천시  경인로 148 ",
+  "address": "경기 부천시 경인로 148  ",
   "province": "경기",
   "city": "부천시",
   "phone": "032-656-5128",
@@ -10,14 +10,15 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.483769,
-  "longitude": 126.77174,
-  "updated_at": "2026-03-06T00:00:40.529217",
+  "latitude": 37.483719,
+  "longitude": 126.77179,
+  "updated_at": "2026-06-13T14:31:50.271125",
   "first_prize_draws": [
     653,
     507
   ],
   "second_prize_draws": [
+    1228,
     1196,
     1128,
     1092,
@@ -31,5 +32,5 @@
     326
   ],
   "first_prize_count": 2,
-  "second_prize_count": 11
+  "second_prize_count": 12
 }

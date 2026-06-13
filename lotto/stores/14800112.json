@@ -1,7 +1,7 @@
 {
   "store_id": "14800112",
   "name": "채널큐",
-  "address": "경남 창원시 마산합포구  산호남로 11-1 ",
+  "address": "경남 창원시 마산합포구 산호남로 11-1  ",
   "province": "경남",
   "city": "창원시",
   "phone": "055-222-6695",
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.217547,
-  "longitude": 128.581454,
-  "updated_at": "2026-03-06T00:00:54.209557",
+  "latitude": 35.217526,
+  "longitude": 128.58142,
+  "updated_at": "2026-06-13T14:31:50.278634",
   "first_prize_draws": [
     1090,
     995,
     411
   ],
   "second_prize_draws": [
+    1228,
     1201,
     1055,
     886,
@@ -30,5 +31,5 @@
     684
   ],
   "first_prize_count": 3,
-  "second_prize_count": 9
+  "second_prize_count": 10
 }

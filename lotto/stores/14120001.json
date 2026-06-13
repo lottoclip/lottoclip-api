@@ -1,7 +1,7 @@
 {
   "store_id": "14120001",
   "name": "복권사랑",
-  "address": "경기 가평군  청평중앙로 24 1층",
+  "address": "경기 가평군 청평중앙로 24 1층  ",
   "province": "경기",
   "city": "가평군",
   "phone": "031-582-7832",
@@ -10,19 +10,20 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.736507,
-  "longitude": 127.417555,
-  "updated_at": "2026-03-05T23:58:25.797900",
+  "latitude": 37.736504,
+  "longitude": 127.41757,
+  "updated_at": "2026-06-13T14:31:50.272780",
   "first_prize_draws": [
     1030,
     888
   ],
   "second_prize_draws": [
+    1228,
     1154,
     988,
     948,
     945
   ],
   "first_prize_count": 2,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14120143",
   "name": "바른",
-  "address": "경기 하남시  신장로 68 ",
+  "address": "경기 하남시 신장로 68  ",
   "province": "경기",
   "city": "하남시",
   "phone": null,
@@ -10,10 +10,11 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.53573,
-  "longitude": 127.210053,
-  "updated_at": "2026-03-06T00:00:28.500311",
+  "latitude": 37.535698,
+  "longitude": 127.21004,
+  "updated_at": "2026-06-13T14:31:50.267282",
   "first_prize_draws": [
+    1228,
     1192
   ],
   "second_prize_draws": [
@@ -28,6 +29,6 @@
     715,
     687
   ],
-  "first_prize_count": 1,
+  "first_prize_count": 2,
   "second_prize_count": 10
 }

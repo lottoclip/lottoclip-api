@@ -1,7 +1,7 @@
 {
   "store_id": "12600287",
   "name": "동일통신",
-  "address": "부산 해운대구  선수촌로 16 ",
+  "address": "부산 해운대구 선수촌로 16  ",
   "province": "부산",
   "city": "해운대구",
   "phone": "051-528-7207",
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.19541,
-  "longitude": 129.118557,
-  "updated_at": "2026-03-05T23:56:15.950236",
+  "latitude": 35.195415,
+  "longitude": 129.11856,
+  "updated_at": "2026-06-13T14:31:50.260103",
   "first_prize_draws": [
     902,
     783,
     615
   ],
   "second_prize_draws": [
+    1228,
     1119,
     1059,
     1032,
@@ -29,5 +30,5 @@
     475
   ],
   "first_prize_count": 3,
-  "second_prize_count": 8
+  "second_prize_count": 9
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "13000171",
   "name": "대박마트",
-  "address": "대전 중구 대사동 69-59번지 ",
+  "address": "대전 중구 충무로 124  ",
   "province": "대전",
   "city": "중구",
   "phone": "042-257-4959",
@@ -10,18 +10,19 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 36.318713,
-  "longitude": 127.430582,
-  "updated_at": "2026-03-05T23:42:16.591643",
+  "latitude": 36.318754,
+  "longitude": 127.43063,
+  "updated_at": "2026-06-13T14:31:50.265943",
   "first_prize_draws": [
     855,
     388
   ],
   "second_prize_draws": [
+    1228,
     545,
     464,
     291
   ],
   "first_prize_count": 2,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

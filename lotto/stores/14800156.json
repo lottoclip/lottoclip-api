@@ -1,7 +1,7 @@
 {
   "store_id": "14800156",
   "name": "기적의복권",
-  "address": "경남 창원시 진해구  진해대로776번길 15 501동 102호",
+  "address": "경남 창원시 진해구 진해대로776번길 15 501동 102호  ",
   "province": "경남",
   "city": "창원시",
   "phone": "070-7744-6006",
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.157035,
-  "longitude": 128.699008,
-  "updated_at": "2026-03-05T23:58:37.073484",
+  "latitude": 35.157116,
+  "longitude": 128.69919,
+  "updated_at": "2026-06-13T14:31:50.278074",
   "first_prize_draws": [
     764
   ],
   "second_prize_draws": [
+    1228,
     1158,
     831,
     661,
@@ -25,5 +26,5 @@
     435
   ],
   "first_prize_count": 1,
-  "second_prize_count": 6
+  "second_prize_count": 7
 }

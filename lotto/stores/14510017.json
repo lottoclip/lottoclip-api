@@ -1,7 +1,7 @@
 {
   "store_id": "14510017",
   "name": "월드복권방",
-  "address": "전북 익산시  서동로 59 ",
+  "address": "전북 익산시 서동로 59  ",
   "province": "전북",
   "city": "익산시",
   "phone": null,
@@ -10,11 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.93243,
-  "longitude": 126.9585,
-  "updated_at": "2026-03-06T00:00:54.046474",
+  "latitude": 35.932415,
+  "longitude": 126.95849,
+  "updated_at": "2026-06-13T14:31:50.275276",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1228,
     1201,
     1193,
     1191,
@@ -35,5 +36,5 @@
     402
   ],
   "first_prize_count": 0,
-  "second_prize_count": 18
+  "second_prize_count": 19
 }

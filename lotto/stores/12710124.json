@@ -1,7 +1,7 @@
 {
   "store_id": "12710124",
   "name": "로또나라",
-  "address": "대구 남구  장전1길 30-21 ",
+  "address": "대구 남구 장전1길 30-21  ",
   "province": "대구",
   "city": "남구",
   "phone": "053-652-1819",
@@ -10,19 +10,20 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.841961,
-  "longitude": 128.572885,
-  "updated_at": "2026-03-05T23:57:58.470868",
+  "latitude": 35.841933,
+  "longitude": 128.57285,
+  "updated_at": "2026-06-13T14:31:50.263407",
   "first_prize_draws": [
     1150,
     839
   ],
   "second_prize_draws": [
+    1228,
     919,
     916,
     551,
     494
   ],
   "first_prize_count": 2,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14900009",
   "name": "제주대림점",
-  "address": "제주 제주시  과원북2길 48 ",
+  "address": "제주 제주시 과원북2길 48  ",
   "province": "제주",
   "city": "제주시",
   "phone": "064-746-5525",
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 33.478713,
-  "longitude": 126.487658,
-  "updated_at": "2026-03-06T00:00:16.637849",
+  "latitude": 33.478722,
+  "longitude": 126.4876,
+  "updated_at": "2026-06-13T14:31:50.278899",
   "first_prize_draws": [
     1118,
     1048,
@@ -21,6 +21,7 @@
     430
   ],
   "second_prize_draws": [
+    1228,
     1188,
     1149,
     1137,
@@ -43,5 +44,5 @@
     640
   ],
   "first_prize_count": 5,
-  "second_prize_count": 20
+  "second_prize_count": 21
 }

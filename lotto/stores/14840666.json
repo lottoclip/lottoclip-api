@@ -1,7 +1,7 @@
 {
   "store_id": "14840666",
   "name": "로또명당",
-  "address": "경남 하동군  진교중앙길 22 ",
+  "address": "경남 하동군 진교중앙길 22  ",
   "province": "경남",
   "city": "하동군",
   "phone": null,
@@ -11,12 +11,14 @@
     "speetto"
   ],
   "latitude": 35.028888,
-  "longitude": 127.902419,
-  "updated_at": "2026-03-06T00:00:05.541084",
-  "first_prize_draws": [],
+  "longitude": 127.90241,
+  "updated_at": "2026-06-13T14:31:50.277840",
+  "first_prize_draws": [
+    1228
+  ],
   "second_prize_draws": [
     1184
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 1
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "12600300",
   "name": "싱글벙글 6/45",
-  "address": "부산 연제구  중앙대로 1041 좌측 싱글벙글복권방",
+  "address": "부산 연제구 중앙대로 1041 좌측 싱글벙글복권방  ",
   "province": "부산",
   "city": "연제구",
   "phone": "051-751-0010",
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.181577,
-  "longitude": 129.077781,
-  "updated_at": "2026-03-05T23:47:02.334367",
+  "latitude": 35.181543,
+  "longitude": 129.07777,
+  "updated_at": "2026-06-13T14:31:50.260313",
   "first_prize_draws": [
     920,
     843,
     770
   ],
   "second_prize_draws": [
+    1228,
     949,
     808,
     770,
@@ -30,5 +31,5 @@
     571
   ],
   "first_prize_count": 3,
-  "second_prize_count": 9
+  "second_prize_count": 10
 }

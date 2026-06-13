@@ -1,7 +1,7 @@
 {
   "store_id": "14140465",
   "name": "대박복권 판매점",
-  "address": "경기 양주시 은현면 선암리 475-8 ",
+  "address": "경기 양주시 은현로 67  ",
   "province": "경기",
   "city": "양주시",
   "phone": null,
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.874945,
-  "longitude": 127.023989,
-  "updated_at": "2026-03-05T23:44:56.476650",
+  "latitude": 37.874953,
+  "longitude": 127.02402,
+  "updated_at": "2026-06-13T14:31:50.269266",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1228,
     909
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

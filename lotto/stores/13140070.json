@@ -1,7 +1,7 @@
 {
   "store_id": "13140070",
   "name": "나이스로또복권",
-  "address": "울산 울주군  덕망로 93 1층",
+  "address": "울산 울주군 덕망로 93 1층  ",
   "province": "울산",
   "city": "울주군",
   "phone": null,
@@ -10,16 +10,17 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.440615,
-  "longitude": 129.304765,
-  "updated_at": "2026-03-05T23:58:45.623094",
+  "latitude": 35.440683,
+  "longitude": 129.30478,
+  "updated_at": "2026-06-13T14:31:50.266330",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1228,
     1161,
     1060,
     1050,
     1004
   ],
   "first_prize_count": 0,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }

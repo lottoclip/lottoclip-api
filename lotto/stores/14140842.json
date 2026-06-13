@@ -1,7 +1,7 @@
 {
   "store_id": "14140842",
   "name": "예원로또복권판매점",
-  "address": "경기 안양시 만안구  만안로 461 제1호",
+  "address": "경기 안양시 만안구 만안로 461 제1호  ",
   "province": "경기",
   "city": "안양시",
   "phone": null,
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.4186,
-  "longitude": 126.90874,
-  "updated_at": "2026-03-06T00:00:05.307482",
+  "latitude": 37.418639,
+  "longitude": 126.90875,
+  "updated_at": "2026-06-13T14:31:50.269500",
   "first_prize_draws": [
     1085
   ],
   "second_prize_draws": [
+    1228,
     1184
   ],
   "first_prize_count": 1,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

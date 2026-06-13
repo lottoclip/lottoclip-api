@@ -1,7 +1,7 @@
 {
   "store_id": "14310051",
   "name": "충주복권명당",
-  "address": "충북 충주시  예성로 23 ",
+  "address": "충북 충주시 예성로 23  ",
   "province": "충북",
   "city": "충주시",
   "phone": null,
@@ -10,14 +10,15 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 36.961074,
-  "longitude": 127.929124,
-  "updated_at": "2026-03-06T00:00:25.794849",
+  "latitude": 36.961016,
+  "longitude": 127.92913,
+  "updated_at": "2026-06-13T14:31:50.273549",
   "first_prize_draws": [
     773,
     738
   ],
   "second_prize_draws": [
+    1228,
     1191,
     1066,
     1043,
@@ -35,5 +36,5 @@
     285
   ],
   "first_prize_count": 2,
-  "second_prize_count": 15
+  "second_prize_count": 16
 }

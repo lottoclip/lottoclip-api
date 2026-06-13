@@ -1,7 +1,7 @@
 {
   "store_id": "11100688",
   "name": "보원상회",
-  "address": "서울 성북구  보문로 56 ",
+  "address": "서울 성북구 보문로 56  ",
   "province": "서울",
   "city": "성북구",
   "phone": "02-923-2136",
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.580453,
-  "longitude": 127.02225,
-  "updated_at": "2026-03-06T00:00:18.776455",
+  "latitude": 37.580457,
+  "longitude": 127.02226,
+  "updated_at": "2026-06-13T14:31:50.257501",
   "first_prize_draws": [
     1111
   ],
   "second_prize_draws": [
+    1228,
     1189,
     1157,
     761,
@@ -25,5 +26,5 @@
     461
   ],
   "first_prize_count": 1,
-  "second_prize_count": 6
+  "second_prize_count": 7
 }

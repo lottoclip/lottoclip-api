@@ -1,7 +1,7 @@
 {
   "store_id": "14610023",
   "name": "로또복권",
-  "address": "전남 영광군 영광읍 백학리 6-2번지 문구점",
+  "address": "전남 영광군 물무로 106-5 문구점  ",
   "province": "전남",
   "city": "영광군",
   "phone": "061-351-4873",
@@ -10,14 +10,15 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.276292,
-  "longitude": 126.512011,
-  "updated_at": "2026-03-05T23:39:51.597946",
+  "latitude": 35.276308,
+  "longitude": 126.51199,
+  "updated_at": "2026-06-13T14:31:50.276103",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1228,
     812,
     486
   ],
   "first_prize_count": 0,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }
