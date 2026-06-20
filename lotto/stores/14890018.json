@@ -1,7 +1,7 @@
 {
   "store_id": "14890018",
   "name": "로또냉동",
-  "address": "경남 김해시  장유로 331-1 좌측 복권판매점",
+  "address": "경남 김해시 장유로 331-1 좌측 복권판매점  ",
   "province": "경남",
   "city": "김해시",
   "phone": null,
@@ -10,10 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.197191,
-  "longitude": 128.81665,
-  "updated_at": "2026-03-05T23:48:17.333392",
-  "first_prize_draws": [],
+  "latitude": 35.197175,
+  "longitude": 128.81663,
+  "updated_at": "2026-06-20T14:35:05.232516",
+  "first_prize_draws": [
+    1229
+  ],
   "second_prize_draws": [
     970,
     946,
@@ -23,6 +25,6 @@
     588,
     312
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 7
 }

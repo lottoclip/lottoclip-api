@@ -1,7 +1,7 @@
 {
   "store_id": "14800043",
   "name": "북마산복권전문점",
-  "address": "경남 창원시 마산합포구  북성로 98 ",
+  "address": "경남 창원시 마산합포구 북성로 98  ",
   "province": "경남",
   "city": "창원시",
   "phone": "055-244-3626",
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.215974,
-  "longitude": 128.570798,
-  "updated_at": "2026-03-06T00:00:22.859366",
+  "latitude": 35.215965,
+  "longitude": 128.57054,
+  "updated_at": "2026-06-20T14:35:05.231948",
   "first_prize_draws": [
     1146,
     1105,
@@ -27,6 +27,7 @@
     274
   ],
   "second_prize_draws": [
+    1229,
     1190,
     1181,
     1163,
@@ -76,5 +77,5 @@
     285
   ],
   "first_prize_count": 11,
-  "second_prize_count": 47
+  "second_prize_count": 48
 }

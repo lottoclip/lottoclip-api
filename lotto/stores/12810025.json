@@ -1,7 +1,7 @@
 {
   "store_id": "12810025",
   "name": "로또복권",
-  "address": "인천 연수구  원인재로 180 우성2차아파트 앞 도로",
+  "address": "인천 연수구 원인재로 180 우성2차아파트 앞 도로  ",
   "province": "인천",
   "city": "연수구",
   "phone": "032-812-7580",
@@ -10,11 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.411893,
-  "longitude": 126.68501,
-  "updated_at": "2026-03-05T23:59:13.838982",
+  "latitude": 37.412861,
+  "longitude": 126.68386,
+  "updated_at": "2026-06-20T14:35:05.221954",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1229,
     1171,
     1109,
     995,
@@ -22,5 +23,5 @@
     414
   ],
   "first_prize_count": 0,
-  "second_prize_count": 5
+  "second_prize_count": 6
 }

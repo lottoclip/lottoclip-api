@@ -1,7 +1,7 @@
 {
   "store_id": "14890021",
   "name": "플러스로터리",
-  "address": "경남 양산시  범어로 28 103호 복권판매점",
+  "address": "경남 양산시 범어로 28 103호 복권판매점  ",
   "province": "경남",
   "city": "양산시",
   "phone": "055-366-6393",
@@ -10,11 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.331075,
-  "longitude": 129.011776,
-  "updated_at": "2026-03-06T00:00:46.118063",
+  "latitude": 35.331073,
+  "longitude": 129.01177,
+  "updated_at": "2026-06-20T14:35:05.232193",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1229,
     1198,
     1145,
     1035,
@@ -27,5 +28,5 @@
     376
   ],
   "first_prize_count": 0,
-  "second_prize_count": 10
+  "second_prize_count": 11
 }

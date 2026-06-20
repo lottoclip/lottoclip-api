@@ -1,7 +1,7 @@
 {
   "store_id": "14840136",
   "name": "명당복권방",
-  "address": "경남 거제시  장평로 37 154호(장평동장평종합상가)",
+  "address": "경남 거제시 장평로 37 154호(장평동장평종합상가)  ",
   "province": "경남",
   "city": "거제시",
   "phone": null,
@@ -10,16 +10,17 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 34.890875,
-  "longitude": 128.613266,
-  "updated_at": "2026-03-05T23:58:31.273053",
+  "latitude": 34.890858,
+  "longitude": 128.6131,
+  "updated_at": "2026-06-20T14:35:05.233208",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1229,
     1156,
     978,
     972,
     953
   ],
   "first_prize_count": 0,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }

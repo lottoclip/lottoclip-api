@@ -1,7 +1,7 @@
 {
   "store_id": "12840048",
   "name": "당하복권명당",
-  "address": "인천 서구  서곶로 788 ",
+  "address": "인천 서구 서곶로 788  ",
   "province": "인천",
   "city": "서구",
   "phone": "032-566-1471",
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.587938,
-  "longitude": 126.67538,
-  "updated_at": "2026-03-06T00:00:37.530809",
+  "latitude": 37.58812,
+  "longitude": 126.67535,
+  "updated_at": "2026-06-20T14:35:05.222730",
   "first_prize_draws": [
     1157,
     1127,
@@ -20,6 +20,7 @@
     969
   ],
   "second_prize_draws": [
+    1229,
     1195,
     1186,
     1137,
@@ -33,5 +34,5 @@
     968
   ],
   "first_prize_count": 4,
-  "second_prize_count": 11
+  "second_prize_count": 12
 }

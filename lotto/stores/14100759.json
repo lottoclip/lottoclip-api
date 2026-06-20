@@ -1,23 +1,25 @@
 {
   "store_id": "14100759",
   "name": "대한통신",
-  "address": "경기 의정부시  청사로 49 105호",
+  "address": "경기 의정부시 청사로 49 105호  ",
   "province": "경기",
   "city": "의정부시",
   "phone": "031-851-0016",
   "lottery_types": [
     "lotto645",
+    "pension720",
     "speetto"
   ],
-  "latitude": 37.752653,
-  "longitude": 127.069404,
-  "updated_at": "2026-03-05T23:56:33.799931",
+  "latitude": 37.752671,
+  "longitude": 127.06944,
+  "updated_at": "2026-06-20T14:35:05.225261",
   "first_prize_draws": [
     1124
   ],
   "second_prize_draws": [
+    1229,
     1125
   ],
   "first_prize_count": 1,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

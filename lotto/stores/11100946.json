@@ -1,7 +1,7 @@
 {
   "store_id": "11100946",
   "name": "운수대통가판점",
-  "address": "서울 성동구  왕십리로 327 ",
+  "address": "서울 성동구 왕십리로 327  ",
   "province": "서울",
   "city": "성동구",
   "phone": "02-2281-7211",
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.562363,
-  "longitude": 127.033182,
-  "updated_at": "2026-03-05T23:58:27.985147",
+  "latitude": 37.562394,
+  "longitude": 127.03322,
+  "updated_at": "2026-06-20T14:35:05.212975",
   "first_prize_draws": [
     1155,
     847,
@@ -20,6 +20,7 @@
     711
   ],
   "second_prize_draws": [
+    1229,
     1111,
     1072,
     1063,
@@ -29,5 +30,5 @@
     644
   ],
   "first_prize_count": 4,
-  "second_prize_count": 7
+  "second_prize_count": 8
 }

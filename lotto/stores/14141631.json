@@ -1,7 +1,7 @@
 {
   "store_id": "14141631",
   "name": "도깨비",
-  "address": "경기 하남시  서하남로 136 ",
+  "address": "경기 하남시 서하남로 136  ",
   "province": "경기",
   "city": "하남시",
   "phone": null,
@@ -10,16 +10,17 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.514194,
-  "longitude": 127.158943,
-  "updated_at": "2026-03-05T23:59:59.553986",
+  "latitude": 37.514193,
+  "longitude": 127.15895,
+  "updated_at": "2026-06-20T14:35:05.224885",
   "first_prize_draws": [
     1171
   ],
   "second_prize_draws": [
+    1229,
     1182,
     1049
   ],
   "first_prize_count": 1,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

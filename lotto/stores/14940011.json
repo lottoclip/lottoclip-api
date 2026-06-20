@@ -1,7 +1,7 @@
 {
   "store_id": "14940011",
   "name": "서귀포복권",
-  "address": "제주 서귀포시  일주동로 9217 1층",
+  "address": "제주 서귀포시 일주동로 9217 1층  ",
   "province": "제주",
   "city": "서귀포시",
   "phone": null,
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 33.24902,
-  "longitude": 126.50834,
-  "updated_at": "2026-03-05T23:57:02.729207",
+  "latitude": 33.248993,
+  "longitude": 126.50822,
+  "updated_at": "2026-06-20T14:35:05.233423",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1229,
     1135
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

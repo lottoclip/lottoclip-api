@@ -1,7 +1,7 @@
 {
   "store_id": "12600349",
   "name": "팬레코드",
-  "address": "부산 남구  수영로 253 ",
+  "address": "부산 남구 수영로 253  ",
   "province": "부산",
   "city": "남구",
   "phone": "051-628-3848",
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.135507,
-  "longitude": 129.094169,
-  "updated_at": "2026-03-05T23:51:59.522428",
+  "latitude": 35.135509,
+  "longitude": 129.09417,
+  "updated_at": "2026-06-20T14:35:05.219928",
   "first_prize_draws": [
     994,
     954,
     271
   ],
   "second_prize_draws": [
+    1229,
     1038,
     940,
     923,
@@ -30,5 +31,5 @@
     272
   ],
   "first_prize_count": 3,
-  "second_prize_count": 9
+  "second_prize_count": 10
 }

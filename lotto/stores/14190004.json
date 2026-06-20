@@ -1,7 +1,7 @@
 {
   "store_id": "14190004",
   "name": "로또복권방",
-  "address": "경기 안양시 만안구  경수대로 1265 103호",
+  "address": "경기 안양시 만안구 경수대로 1265 103호  ",
   "province": "경기",
   "city": "안양시",
   "phone": "031-472-5677",
@@ -10,14 +10,15 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.42011,
-  "longitude": 126.908886,
-  "updated_at": "2026-03-06T00:00:59.679478",
+  "latitude": 37.42015,
+  "longitude": 126.90889,
+  "updated_at": "2026-06-20T14:35:05.226334",
   "first_prize_draws": [
     940,
     745
   ],
   "second_prize_draws": [
+    1229,
     1203,
     1186,
     1161,
@@ -37,5 +38,5 @@
     392
   ],
   "first_prize_count": 2,
-  "second_prize_count": 17
+  "second_prize_count": 18
 }

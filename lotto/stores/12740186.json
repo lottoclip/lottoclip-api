@@ -1,7 +1,7 @@
 {
   "store_id": "12740186",
   "name": "대박로또",
-  "address": "대구 달성군  현풍로 102 1층 복권방",
+  "address": "대구 달성군 현풍로 102 1층 복권방  ",
   "province": "대구",
   "city": "달성군",
   "phone": null,
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.696617,
-  "longitude": 128.450376,
-  "updated_at": "2026-03-06T00:00:02.160363",
+  "latitude": 35.696475,
+  "longitude": 128.45034,
+  "updated_at": "2026-06-20T14:35:05.221014",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1229,
     1183
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

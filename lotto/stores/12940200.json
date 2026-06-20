@@ -1,21 +1,24 @@
 {
   "store_id": "12940200",
   "name": "1등태양복권",
-  "address": "광주 서구  내방로306번길 3 ",
+  "address": "광주 서구 내방로306번길 3  ",
   "province": "광주",
   "city": "서구",
   "phone": null,
   "lottery_types": [
-    "lotto645"
+    "lotto645",
+    "pension720",
+    "speetto"
   ],
   "latitude": 35.157366,
-  "longitude": 126.874035,
-  "updated_at": "2026-03-05T23:59:19.918178",
+  "longitude": 126.87403,
+  "updated_at": "2026-06-20T14:35:05.223188",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1229,
     1173,
     1098
   ],
   "first_prize_count": 0,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }
