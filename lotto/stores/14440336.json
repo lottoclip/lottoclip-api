@@ -1,7 +1,7 @@
 {
   "store_id": "14440336",
   "name": "해안로또복권방",
-  "address": "충남 당진시  송악로 620-31 ",
+  "address": "충남 당진시 서해로 6049 B동 301호  ",
   "province": "충남",
   "city": "당진시",
   "phone": null,
@@ -11,12 +11,13 @@
     "speetto"
   ],
   "latitude": 36.904018,
-  "longitude": 126.657672,
-  "updated_at": "2026-03-05T23:54:08.784337",
+  "longitude": 126.65767,
+  "updated_at": "2026-06-27T14:10:32.176562",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1230,
     1075
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

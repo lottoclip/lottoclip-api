@@ -1,7 +1,7 @@
 {
   "store_id": "14142406",
   "name": "행운드림",
-  "address": "경기 구리시  동구릉로 88 1층",
+  "address": "경기 구리시 동구릉로 88 1층  ",
   "province": "경기",
   "city": "구리시",
   "phone": null,
@@ -11,12 +11,13 @@
     "speetto"
   ],
   "latitude": 37.607887,
-  "longitude": 127.134317,
-  "updated_at": "2026-03-05T23:59:20.118223",
+  "longitude": 127.13431,
+  "updated_at": "2026-06-27T14:10:32.172587",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1230,
     1173
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

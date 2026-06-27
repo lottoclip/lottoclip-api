@@ -1,7 +1,7 @@
 {
   "store_id": "14610085",
   "name": "제철로또대리점",
-  "address": "전남 광양시  광장로 125 시티프라자A동116호",
+  "address": "전남 광양시 광장로 125 시티프라자A동116호  ",
   "province": "전남",
   "city": "광양시",
   "phone": "061-795-5500",
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 34.935415,
-  "longitude": 127.693982,
-  "updated_at": "2026-03-05T23:58:43.138488",
+  "latitude": 34.935433,
+  "longitude": 127.69425,
+  "updated_at": "2026-06-27T14:10:32.178444",
   "first_prize_draws": [
     1078,
     846,
     264
   ],
   "second_prize_draws": [
+    1230,
     1160,
     1149,
     1143,
@@ -28,5 +29,5 @@
     468
   ],
   "first_prize_count": 3,
-  "second_prize_count": 7
+  "second_prize_count": 8
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "11100612",
   "name": "제일슈퍼",
-  "address": "서울 서대문구  응암로 79 ",
+  "address": "서울 서대문구 응암로 79  ",
   "province": "서울",
   "city": "서대문구",
   "phone": "02-373-8084",
@@ -11,17 +11,18 @@
     "speetto"
   ],
   "latitude": 37.580252,
-  "longitude": 126.911292,
-  "updated_at": "2026-03-05T23:56:51.041538",
+  "longitude": 126.91129,
+  "updated_at": "2026-06-27T14:10:32.158945",
   "first_prize_draws": [
     1131,
     804
   ],
   "second_prize_draws": [
+    1230,
     991,
     708,
     704
   ],
   "first_prize_count": 2,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

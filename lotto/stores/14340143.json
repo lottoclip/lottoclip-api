@@ -1,7 +1,7 @@
 {
   "store_id": "14340143",
   "name": "오징어게임복권방",
-  "address": "충북 음성군  대금로 602 101호",
+  "address": "충북 음성군 대금로 602 101호  ",
   "province": "충북",
   "city": "음성군",
   "phone": null,
@@ -12,12 +12,14 @@
   ],
   "latitude": 36.96752,
   "longitude": 127.505235,
-  "updated_at": "2026-03-05T23:59:20.199821",
-  "first_prize_draws": [],
+  "updated_at": "2026-06-27T14:10:32.175228",
+  "first_prize_draws": [
+    1230
+  ],
   "second_prize_draws": [
     1173,
     1145
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 2
 }

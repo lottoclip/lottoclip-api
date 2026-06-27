@@ -1,7 +1,7 @@
 {
   "store_id": "14300097",
   "name": "해적책대여점 복권방",
-  "address": "충북 청주시 서원구  대원로 28 ",
+  "address": "충북 청주시 서원구 대원로 28  ",
   "province": "충북",
   "city": "청주시",
   "phone": "043-268-4578",
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 36.639974,
-  "longitude": 127.479354,
-  "updated_at": "2026-03-06T00:00:25.805811",
+  "latitude": 36.639976,
+  "longitude": 127.47936,
+  "updated_at": "2026-06-27T14:10:32.174799",
   "first_prize_draws": [
     1149,
     992,
@@ -20,6 +20,7 @@
     680
   ],
   "second_prize_draws": [
+    1230,
     1191,
     1170,
     1146,
@@ -33,5 +34,5 @@
     311
   ],
   "first_prize_count": 4,
-  "second_prize_count": 11
+  "second_prize_count": 12
 }

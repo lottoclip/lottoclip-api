@@ -1,7 +1,7 @@
 {
   "store_id": "14630016",
   "name": "대불로또판매점",
-  "address": "전남 영암군  대불주거1로9길 3 1층 101호",
+  "address": "전남 영암군 대불주거1로9길 3 1층 101호  ",
   "province": "전남",
   "city": "영암군",
   "phone": "070-7721-1770",
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 34.751569,
-  "longitude": 126.455391,
-  "updated_at": "2026-03-06T00:00:54.052865",
+  "latitude": 34.751584,
+  "longitude": 126.45544,
+  "updated_at": "2026-06-27T14:10:32.177980",
   "first_prize_draws": [
     1201
   ],
   "second_prize_draws": [
+    1230,
     887,
     868,
     725,
@@ -24,5 +25,5 @@
     704
   ],
   "first_prize_count": 1,
-  "second_prize_count": 5
+  "second_prize_count": 6
 }

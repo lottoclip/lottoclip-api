@@ -1,7 +1,7 @@
 {
   "store_id": "14700019",
   "name": "복권명당울진점",
-  "address": "경북 울진군  울진중앙로 79 ",
+  "address": "경북 울진군 울진중앙로 79 1층  ",
   "province": "경북",
   "city": "울진군",
   "phone": "054-781-3177",
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 36.989258,
-  "longitude": 129.39883,
-  "updated_at": "2026-03-05T23:56:56.566752",
+  "latitude": 36.989247,
+  "longitude": 129.39884,
+  "updated_at": "2026-06-27T14:10:32.178703",
   "first_prize_draws": [
     1133
   ],
   "second_prize_draws": [
+    1230,
     1115,
     1089,
     1077,
@@ -32,5 +33,5 @@
     395
   ],
   "first_prize_count": 1,
-  "second_prize_count": 13
+  "second_prize_count": 14
 }

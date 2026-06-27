@@ -1,7 +1,7 @@
 {
   "store_id": "14140957",
   "name": "원로또",
-  "address": "경기 파주시  파발로 1 1층",
+  "address": "경기 파주시 파발로 1 1층  ",
   "province": "경기",
   "city": "파주시",
   "phone": null,
@@ -10,14 +10,15 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.83269,
-  "longitude": 126.817605,
-  "updated_at": "2026-03-05T23:53:53.327883",
+  "latitude": 37.832702,
+  "longitude": 126.8176,
+  "updated_at": "2026-06-27T14:10:32.167041",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1230,
     1070,
     1062
   ],
   "first_prize_count": 0,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

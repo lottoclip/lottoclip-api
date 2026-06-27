@@ -1,7 +1,7 @@
 {
   "store_id": "11100683",
   "name": "데이앤나잇",
-  "address": "서울 성북구  종암로 132 종암우림카이저팰리스 1층 101호",
+  "address": "서울 성북구 종암로 132 종암우림카이저팰리스 1층 101호  ",
   "province": "서울",
   "city": "성북구",
   "phone": "02-916-6584",
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.601955,
-  "longitude": 127.033463,
-  "updated_at": "2026-03-05T23:58:42.697968",
+  "latitude": 37.601919,
+  "longitude": 127.03351,
+  "updated_at": "2026-06-27T14:10:32.157199",
   "first_prize_draws": [
     1158,
     1063,
@@ -20,6 +20,7 @@
     510
   ],
   "second_prize_draws": [
+    1230,
     1160,
     1158,
     1122,
@@ -41,5 +42,5 @@
     345
   ],
   "first_prize_count": 4,
-  "second_prize_count": 19
+  "second_prize_count": 20
 }

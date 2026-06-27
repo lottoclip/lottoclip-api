@@ -1,7 +1,7 @@
 {
   "store_id": "13040004",
   "name": "로또기업",
-  "address": "대전 동구  동서대로 1684 복합터미널 건너편",
+  "address": "대전 동구 동서대로 1684 복합터미널 건너편  ",
   "province": "대전",
   "city": "동구",
   "phone": "042-719-7777",
@@ -10,10 +10,11 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 36.348796,
-  "longitude": 127.43712,
-  "updated_at": "2026-03-05T23:57:10.659075",
+  "latitude": 36.34879,
+  "longitude": 127.43706,
+  "updated_at": "2026-06-27T14:10:32.165739",
   "first_prize_draws": [
+    1230,
     955,
     879
   ],
@@ -22,6 +23,6 @@
     805,
     803
   ],
-  "first_prize_count": 2,
+  "first_prize_count": 3,
   "second_prize_count": 3
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14142117",
   "name": "스마일로또＆셀프카페",
-  "address": "경기 성남시 중원구  둔촌대로 431 1층",
+  "address": "경기 성남시 중원구 둔촌대로 431 1층  ",
   "province": "경기",
   "city": "성남시",
   "phone": null,
@@ -12,11 +12,12 @@
   ],
   "latitude": 37.433079,
   "longitude": 127.164988,
-  "updated_at": "2026-03-06T00:00:45.828061",
+  "updated_at": "2026-06-27T14:10:32.171179",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1230,
     1198
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

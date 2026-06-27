@@ -1,7 +1,7 @@
 {
   "store_id": "14140555",
   "name": "스팟로또",
-  "address": "경기 고양시 일산서구  킨텍스로 240 판매시설동 1층 232호",
+  "address": "경기 고양시 일산서구 킨텍스로 240 233-1호  ",
   "province": "경기",
   "city": "고양시",
   "phone": null,
@@ -10,16 +10,17 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.666637,
-  "longitude": 126.749664,
-  "updated_at": "2026-03-05T23:54:42.315090",
+  "latitude": 37.66659,
+  "longitude": 126.750548,
+  "updated_at": "2026-06-27T14:10:32.173042",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1230,
     1087,
     1046,
     1035,
     1022
   ],
   "first_prize_count": 0,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14120130",
   "name": "프림",
-  "address": "경기 평택시  서해로 1402 GS편의점 내",
+  "address": "경기 평택시 서해로 1402 GS편의점 내  ",
   "province": "경기",
   "city": "평택시",
   "phone": null,
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.017501,
-  "longitude": 126.94532,
-  "updated_at": "2026-03-05T23:59:10.801956",
+  "latitude": 37.017451,
+  "longitude": 126.94537,
+  "updated_at": "2026-06-27T14:10:32.166807",
   "first_prize_draws": [
     1066,
     838,
     717
   ],
   "second_prize_draws": [
+    1230,
     1170,
     1122,
     1071,
@@ -30,5 +31,5 @@
     775
   ],
   "first_prize_count": 3,
-  "second_prize_count": 9
+  "second_prize_count": 10
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "11100561",
   "name": "대박드림복권",
-  "address": "서울 중랑구  망우로 203 동양엔파트131호",
+  "address": "서울 중랑구 망우로 203 동양엔파트131호  ",
   "province": "서울",
   "city": "중랑구",
   "phone": "070-4145-2553",
@@ -10,11 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.593984,
-  "longitude": 127.074997,
-  "updated_at": "2026-03-05T23:59:53.824401",
+  "latitude": 37.594009,
+  "longitude": 127.07494,
+  "updated_at": "2026-06-27T14:10:32.156068",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1230,
     1180,
     1145,
     1137,
@@ -22,5 +23,5 @@
     369
   ],
   "first_prize_count": 0,
-  "second_prize_count": 5
+  "second_prize_count": 6
 }

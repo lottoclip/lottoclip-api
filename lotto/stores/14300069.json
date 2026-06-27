@@ -1,7 +1,7 @@
 {
   "store_id": "14300069",
   "name": "세명24시로또",
-  "address": "충북 제천시  바이오밸리로 211 3호",
+  "address": "충북 제천시 바이오밸리로 211 3호  ",
   "province": "충북",
   "city": "제천시",
   "phone": "043-642-8249",
@@ -12,8 +12,9 @@
   ],
   "latitude": 37.156239,
   "longitude": 128.17348,
-  "updated_at": "2026-03-06T00:00:56.996564",
+  "updated_at": "2026-06-27T14:10:32.175016",
   "first_prize_draws": [
+    1230,
     973
   ],
   "second_prize_draws": [
@@ -29,6 +30,6 @@
     429,
     415
   ],
-  "first_prize_count": 1,
+  "first_prize_count": 2,
   "second_prize_count": 11
 }

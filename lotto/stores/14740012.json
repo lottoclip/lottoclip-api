@@ -1,7 +1,7 @@
 {
   "store_id": "14740012",
   "name": "나누리로또",
-  "address": "경북 경산시  성암로15길 4 1층",
+  "address": "경북 경산시 성암로15길 4 1층  ",
   "province": "경북",
   "city": "경산시",
   "phone": null,
@@ -10,16 +10,18 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.824356,
-  "longitude": 128.724296,
-  "updated_at": "2026-03-05T23:47:32.291923",
-  "first_prize_draws": [],
+  "latitude": 35.824324,
+  "longitude": 128.72427,
+  "updated_at": "2026-06-27T14:10:32.179080",
+  "first_prize_draws": [
+    1230
+  ],
   "second_prize_draws": [
     959,
     897,
     836,
     773
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 4
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14140977",
   "name": "럭키",
-  "address": "경기 평택시  서동대로 1866 ",
+  "address": "경기 평택시 서동대로 1207 1층  ",
   "province": "경기",
   "city": "평택시",
   "phone": null,
@@ -11,12 +11,14 @@
     "speetto"
   ],
   "latitude": 36.985649,
-  "longitude": 126.887211,
-  "updated_at": "2026-03-05T23:57:58.627490",
-  "first_prize_draws": [],
+  "longitude": 126.88721,
+  "updated_at": "2026-06-27T14:10:32.166617",
+  "first_prize_draws": [
+    1230
+  ],
   "second_prize_draws": [
     1150
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 1
 }

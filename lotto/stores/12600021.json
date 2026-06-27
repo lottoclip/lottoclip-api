@@ -1,7 +1,7 @@
 {
   "store_id": "12600021",
   "name": "노다지복권방",
-  "address": "부산 금정구  금사로 75 ",
+  "address": "부산 금정구 금사로 75  ",
   "province": "부산",
   "city": "금정구",
   "phone": "051-524-9287",
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.21961,
-  "longitude": 129.110978,
-  "updated_at": "2026-03-05T23:56:24.541537",
+  "latitude": 35.21958,
+  "longitude": 129.11099,
+  "updated_at": "2026-06-27T14:10:32.162848",
   "first_prize_draws": [
     434
   ],
   "second_prize_draws": [
+    1230,
     1122,
     1038,
     1000,
@@ -30,5 +31,5 @@
     410
   ],
   "first_prize_count": 1,
-  "second_prize_count": 11
+  "second_prize_count": 12
 }

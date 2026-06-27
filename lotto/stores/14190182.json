@@ -1,7 +1,7 @@
 {
   "store_id": "14190182",
   "name": "ALWAYS MART",
-  "address": "경기 고양시 일산동구 백마로 501-2  ",
+  "address": "경기 고양시 일산동구 백마로 501-2 1층  ",
   "province": "경기",
   "city": "고양시",
   "phone": "031-903-1720",
@@ -11,18 +11,19 @@
     "speetto"
   ],
   "latitude": 37.663228,
-  "longitude": 126.803708,
-  "updated_at": "2026-03-07T13:10:24.788717",
+  "longitude": 126.8037,
+  "updated_at": "2026-06-27T14:10:32.173514",
   "first_prize_draws": [
     862,
     540,
     369
   ],
   "second_prize_draws": [
+    1230,
     1213,
     698,
     676
   ],
   "first_prize_count": 3,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

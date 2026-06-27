@@ -1,7 +1,7 @@
 {
   "store_id": "14100173",
   "name": "종합복권나라",
-  "address": "경기 양평군  북한강로 12 1층",
+  "address": "경기 양평군 북한강로 12 1층  ",
   "province": "경기",
   "city": "양평군",
   "phone": "031-774-7950",
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.54495,
-  "longitude": 127.32051,
-  "updated_at": "2026-03-05T23:55:48.024548",
+  "latitude": 37.544945,
+  "longitude": 127.32053,
+  "updated_at": "2026-06-27T14:10:32.170074",
   "first_prize_draws": [
     329
   ],
   "second_prize_draws": [
+    1230,
     1110,
     1017,
     989,
@@ -31,5 +32,5 @@
     298
   ],
   "first_prize_count": 1,
-  "second_prize_count": 12
+  "second_prize_count": 13
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "12910012",
   "name": "대박찬스(화정)",
-  "address": "광주 서구  상무대로 1059 ",
+  "address": "광주 서구 상무대로 1059  ",
   "province": "광주",
   "city": "서구",
   "phone": "062-432-7002",
@@ -10,11 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.152385,
-  "longitude": 126.877782,
-  "updated_at": "2026-03-06T00:00:16.111273",
+  "latitude": 35.152379,
+  "longitude": 126.87775,
+  "updated_at": "2026-06-27T14:10:32.164440",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1230,
     1188,
     1107,
     919,
@@ -22,5 +23,5 @@
     547
   ],
   "first_prize_count": 0,
-  "second_prize_count": 5
+  "second_prize_count": 6
 }

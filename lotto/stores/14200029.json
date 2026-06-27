@@ -1,7 +1,7 @@
 {
   "store_id": "14200029",
   "name": "동해복권방",
-  "address": "강원 강릉시  하평길 40 ",
+  "address": "강원 강릉시 하평길 40 1층  ",
   "province": "강원",
   "city": "강릉시",
   "phone": "033-652-4989",
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.770156,
-  "longitude": 128.912977,
-  "updated_at": "2026-03-06T00:00:19.572563",
+  "latitude": 37.770152,
+  "longitude": 128.91304,
+  "updated_at": "2026-06-27T14:10:32.174135",
   "first_prize_draws": [
     1141,
     1064,
     565
   ],
   "second_prize_draws": [
+    1230,
     1189,
     1143,
     1133,
@@ -34,5 +35,5 @@
     479
   ],
   "first_prize_count": 3,
-  "second_prize_count": 13
+  "second_prize_count": 14
 }

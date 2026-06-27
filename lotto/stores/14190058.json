@@ -1,7 +1,7 @@
 {
   "store_id": "14190058",
   "name": "복권세상",
-  "address": "경기 남양주시  청학로 97 현대빌딩 ",
+  "address": "경기 남양주시 청학로 97  ",
   "province": "경기",
   "city": "남양주시",
   "phone": "031-846-6334",
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.707881,
-  "longitude": 127.116243,
-  "updated_at": "2026-03-05T23:47:17.346420",
+  "latitude": 37.707903,
+  "longitude": 127.11627,
+  "updated_at": "2026-06-27T14:10:32.172054",
   "first_prize_draws": [
     351
   ],
   "second_prize_draws": [
+    1230,
     954,
     676,
     618,
@@ -25,5 +26,5 @@
     379
   ],
   "first_prize_count": 1,
-  "second_prize_count": 6
+  "second_prize_count": 7
 }

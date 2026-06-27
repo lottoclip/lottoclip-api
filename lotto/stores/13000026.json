@@ -1,7 +1,7 @@
 {
   "store_id": "13000026",
   "name": "천하명당복권방역전점",
-  "address": "대전 동구  대전로 815 ",
+  "address": "대전 동구 대전로 815  ",
   "province": "대전",
   "city": "동구",
   "phone": "042-257-2006",
@@ -10,10 +10,11 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 36.332387,
-  "longitude": 127.431875,
-  "updated_at": "2026-03-05T23:57:35.178279",
+  "latitude": 36.332404,
+  "longitude": 127.43188,
+  "updated_at": "2026-06-27T14:10:32.165521",
   "first_prize_draws": [
+    1230,
     987,
     876,
     744
@@ -36,6 +37,6 @@
     319,
     302
   ],
-  "first_prize_count": 3,
+  "first_prize_count": 4,
   "second_prize_count": 16
 }

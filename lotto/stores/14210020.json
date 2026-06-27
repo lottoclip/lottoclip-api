@@ -1,7 +1,7 @@
 {
   "store_id": "14210020",
   "name": "꿈로또복권전문점",
-  "address": "강원 강릉시  옥천로 47 ",
+  "address": "강원 강릉시 옥천로 47 1층  ",
   "province": "강원",
   "city": "강릉시",
   "phone": "033-645-4643",
@@ -10,19 +10,20 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.759296,
-  "longitude": 128.900572,
-  "updated_at": "2026-03-06T00:00:02.529073",
+  "latitude": 37.759307,
+  "longitude": 128.90051,
+  "updated_at": "2026-06-27T14:10:32.174375",
   "first_prize_draws": [
     1042,
     849
   ],
   "second_prize_draws": [
+    1230,
     1183,
     1141,
     1072,
     1038
   ],
   "first_prize_count": 2,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }
