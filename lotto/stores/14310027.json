@@ -1,7 +1,7 @@
 {
   "store_id": "14310027",
   "name": "서울로또방",
-  "address": "충북 옥천군  삼금로 8 ",
+  "address": "충북 옥천군 삼금로 8  ",
   "province": "충북",
   "city": "옥천군",
   "phone": "043-733-5550",
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 36.299492,
-  "longitude": 127.566681,
-  "updated_at": "2026-03-06T00:00:59.927161",
+  "latitude": 36.299557,
+  "longitude": 127.56668,
+  "updated_at": "2026-07-04T14:03:27.046397",
   "first_prize_draws": [
     1162,
     1109,
@@ -23,6 +23,7 @@
     435
   ],
   "second_prize_draws": [
+    1231,
     1203,
     1199,
     1158,
@@ -48,5 +49,5 @@
     276
   ],
   "first_prize_count": 7,
-  "second_prize_count": 23
+  "second_prize_count": 24
 }

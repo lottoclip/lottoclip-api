@@ -1,7 +1,7 @@
 {
   "store_id": "11101174",
   "name": "가로판매점",
-  "address": "서울 관악구  과천대로 955 ",
+  "address": "서울 관악구 과천대로 955  ",
   "province": "서울",
   "city": "관악구",
   "phone": "02-588-6999",
@@ -10,10 +10,11 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.475948,
-  "longitude": 126.981151,
-  "updated_at": "2026-03-06T00:00:13.153622",
+  "latitude": 37.475956,
+  "longitude": 126.98117,
+  "updated_at": "2026-07-04T14:03:27.031106",
   "first_prize_draws": [
+    1231,
     1147,
     657
   ],
@@ -37,6 +38,6 @@
     286,
     272
   ],
-  "first_prize_count": 2,
+  "first_prize_count": 3,
   "second_prize_count": 18
 }

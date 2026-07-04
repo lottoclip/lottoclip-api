@@ -1,7 +1,7 @@
 {
   "store_id": "14100755",
   "name": "다올마트",
-  "address": "경기 의정부시  용민로 9 1층",
+  "address": "경기 의정부시 용민로 9 1층  ",
   "province": "경기",
   "city": "의정부시",
   "phone": "031-874-5508",
@@ -11,10 +11,11 @@
     "speetto"
   ],
   "latitude": 37.73464,
-  "longitude": 127.080086,
-  "updated_at": "2026-03-06T00:00:53.834649",
+  "longitude": 127.08008,
+  "updated_at": "2026-07-04T14:03:27.039561",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1231,
     1201,
     1164,
     1121,
@@ -31,5 +32,5 @@
     299
   ],
   "first_prize_count": 0,
-  "second_prize_count": 14
+  "second_prize_count": 15
 }

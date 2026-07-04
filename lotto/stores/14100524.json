@@ -1,7 +1,7 @@
 {
   "store_id": "14100524",
   "name": "토큰박스",
-  "address": "경기 남양주시  진건오남로 109 동양할인마트 앞 로또판매점",
+  "address": "경기 남양주시 진건오남로 109 동양할인마트 앞 로또판매점  ",
   "province": "경기",
   "city": "남양주시",
   "phone": "031-573-8634",
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.660786,
-  "longitude": 127.179692,
-  "updated_at": "2026-03-05T23:58:45.809014",
+  "latitude": 37.660583,
+  "longitude": 127.17845,
+  "updated_at": "2026-07-04T14:03:27.043176",
   "first_prize_draws": [
     1039,
     1006,
@@ -20,6 +20,7 @@
     865
   ],
   "second_prize_draws": [
+    1231,
     1161,
     1155,
     1134,
@@ -31,5 +32,5 @@
     283
   ],
   "first_prize_count": 4,
-  "second_prize_count": 9
+  "second_prize_count": 10
 }

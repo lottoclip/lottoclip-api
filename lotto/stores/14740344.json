@@ -1,7 +1,7 @@
 {
   "store_id": "14740344",
   "name": "황금 복권방",
-  "address": "경북 문경시  당교로 200 ",
+  "address": "경북 문경시 당교로 200  ",
   "province": "경북",
   "city": "문경시",
   "phone": null,
@@ -11,12 +11,13 @@
     "speetto"
   ],
   "latitude": 36.584921,
-  "longitude": 128.185075,
-  "updated_at": "2026-03-05T23:58:28.498209",
+  "longitude": 128.18507,
+  "updated_at": "2026-07-04T14:03:27.051139",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1231,
     1155
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

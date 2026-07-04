@@ -1,7 +1,7 @@
 {
   "store_id": "11140426",
   "name": "운좋은날",
-  "address": "서울 강동구  풍성로 187 102호",
+  "address": "서울 강동구 풍성로 187 102호  ",
   "province": "서울",
   "city": "강동구",
   "phone": null,
@@ -11,16 +11,17 @@
     "speetto"
   ],
   "latitude": 37.53006,
-  "longitude": 127.132873,
-  "updated_at": "2026-03-06T00:00:25.169267",
+  "longitude": 127.13287,
+  "updated_at": "2026-07-04T14:03:27.032053",
   "first_prize_draws": [
     1191,
     1131
   ],
   "second_prize_draws": [
+    1231,
     1088,
     1035
   ],
   "first_prize_count": 2,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14430003",
   "name": "로또신방통정점",
-  "address": "충남 천안시 동남구  통정9로 33 1층 101호 CU편의점",
+  "address": "충남 천안시 동남구 통정9로 33 1층 101호 CU편의점  ",
   "province": "충남",
   "city": "천안시",
   "phone": "041-576-4422",
@@ -10,14 +10,15 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 36.772993,
-  "longitude": 127.129657,
-  "updated_at": "2026-03-05T23:50:40.238838",
+  "latitude": 36.773009,
+  "longitude": 127.12968,
+  "updated_at": "2026-07-04T14:03:27.047208",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1231,
     1016,
     850
   ],
   "first_prize_count": 0,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

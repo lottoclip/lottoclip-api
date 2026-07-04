@@ -1,7 +1,7 @@
 {
   "store_id": "11101658",
   "name": "후레쉬마트",
-  "address": "서울 강동구  천호대로 1476 ",
+  "address": "서울 강동구 천호대로 1476  ",
   "province": "서울",
   "city": "강동구",
   "phone": "02-426-7999",
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.545947,
-  "longitude": 127.172205,
-  "updated_at": "2026-03-05T23:57:34.945687",
+  "latitude": 37.545946,
+  "longitude": 127.17222,
+  "updated_at": "2026-07-04T14:03:27.031781",
   "first_prize_draws": [
     456
   ],
   "second_prize_draws": [
+    1231,
     1147,
     1017,
     887,
@@ -27,5 +28,5 @@
     304
   ],
   "first_prize_count": 1,
-  "second_prize_count": 8
+  "second_prize_count": 9
 }

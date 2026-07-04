@@ -1,7 +1,7 @@
 {
   "store_id": "13140023",
   "name": "복권방",
-  "address": "울산 울주군  덕남로 87 ",
+  "address": "울산 울주군 덕남로 87  ",
   "province": "울산",
   "city": "울주군",
   "phone": null,
@@ -10,10 +10,11 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.429322,
-  "longitude": 129.306781,
-  "updated_at": "2026-03-05T23:58:45.629198",
+  "latitude": 35.429342,
+  "longitude": 129.30668,
+  "updated_at": "2026-07-04T14:03:27.038252",
   "first_prize_draws": [
+    1231,
     1062,
     1019
   ],
@@ -22,6 +23,6 @@
     1084,
     1072
   ],
-  "first_prize_count": 2,
+  "first_prize_count": 3,
   "second_prize_count": 3
 }

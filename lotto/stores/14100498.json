@@ -1,7 +1,7 @@
 {
   "store_id": "14100498",
   "name": "국민가판점",
-  "address": "경기 성남시 수정구  산성대로 305 ",
+  "address": "경기 성남시 수정구 산성대로 305  ",
   "province": "경기",
   "city": "성남시",
   "phone": "031-731-8977",
@@ -10,11 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.442334,
-  "longitude": 127.150395,
-  "updated_at": "2026-03-05T23:53:24.635783",
+  "latitude": 37.442466,
+  "longitude": 127.1506,
+  "updated_at": "2026-07-04T14:03:27.042210",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1231,
     1060,
     1048,
     1003,
@@ -23,5 +24,5 @@
     354
   ],
   "first_prize_count": 0,
-  "second_prize_count": 6
+  "second_prize_count": 7
 }

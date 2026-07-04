@@ -1,7 +1,7 @@
 {
   "store_id": "14440092",
   "name": "내포복권방",
-  "address": "충남 예산군  덕산온천로 387 ",
+  "address": "충남 예산군 덕산온천로 387  ",
   "province": "충남",
   "city": "예산군",
   "phone": null,
@@ -12,13 +12,14 @@
   ],
   "latitude": 36.701049,
   "longitude": 126.665614,
-  "updated_at": "2026-03-05T23:58:51.566925",
+  "updated_at": "2026-07-04T14:03:27.047633",
   "first_prize_draws": [
     1163
   ],
   "second_prize_draws": [
+    1231,
     898
   ],
   "first_prize_count": 1,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

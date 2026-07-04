@@ -1,7 +1,7 @@
 {
   "store_id": "11100686",
   "name": "일공일사(1014)",
-  "address": "서울 성북구  성북로 31 ",
+  "address": "서울 성북구 성북로 31  ",
   "province": "서울",
   "city": "성북구",
   "phone": "02-3443-0022",
@@ -11,14 +11,15 @@
     "speetto"
   ],
   "latitude": 37.590705,
-  "longitude": 127.00359,
-  "updated_at": "2026-03-05T23:55:50.746197",
+  "longitude": 127.00362,
+  "updated_at": "2026-07-04T14:03:27.028142",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1231,
     1111,
     902,
     883
   ],
   "first_prize_count": 0,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

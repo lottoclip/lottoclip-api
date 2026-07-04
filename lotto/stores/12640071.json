@@ -1,7 +1,7 @@
 {
   "store_id": "12640071",
   "name": "거제로또판매점",
-  "address": "부산 연제구  거제시장로14번길 28 (주)거제시장 112호120호",
+  "address": "부산 연제구 거제시장로14번길 28 112호120호  ",
   "province": "부산",
   "city": "연제구",
   "phone": null,
@@ -10,11 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.181921,
-  "longitude": 129.072838,
-  "updated_at": "2026-03-05T23:55:39.292971",
+  "latitude": 35.181918,
+  "longitude": 129.0728,
+  "updated_at": "2026-07-04T14:03:27.032853",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1231,
     1107,
     1096,
     1052,
@@ -25,5 +26,5 @@
     919
   ],
   "first_prize_count": 0,
-  "second_prize_count": 8
+  "second_prize_count": 9
 }

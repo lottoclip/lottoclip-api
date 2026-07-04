@@ -1,7 +1,7 @@
 {
   "store_id": "14100241",
   "name": "복권왕국",
-  "address": "경기 부천시  조마루로105번길 34-7 ",
+  "address": "경기 부천시 조마루로105번길 34-7  ",
   "province": "경기",
   "city": "부천시",
   "phone": "032-668-8494",
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.501697,
-  "longitude": 126.756268,
-  "updated_at": "2026-03-06T00:00:53.881167",
+  "latitude": 37.501719,
+  "longitude": 126.75629,
+  "updated_at": "2026-07-04T14:03:27.042449",
   "first_prize_draws": [
     540
   ],
   "second_prize_draws": [
+    1231,
     1201,
     973,
     818,
@@ -27,5 +28,5 @@
     546
   ],
   "first_prize_count": 1,
-  "second_prize_count": 8
+  "second_prize_count": 9
 }

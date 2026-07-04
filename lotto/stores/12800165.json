@@ -1,7 +1,7 @@
 {
   "store_id": "12800165",
   "name": "욱일슈퍼",
-  "address": "인천 부평구  경인로 1144 ",
+  "address": "인천 부평구 경인로 1144  ",
   "province": "인천",
   "city": "부평구",
   "phone": "032-514-3255",
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.484602,
-  "longitude": 126.746707,
-  "updated_at": "2026-03-05T23:58:53.969256",
+  "latitude": 37.484629,
+  "longitude": 126.74672,
+  "updated_at": "2026-07-04T14:03:27.035512",
   "first_prize_draws": [
     691,
     414,
     330
   ],
   "second_prize_draws": [
+    1231,
     1164,
     1044,
     1038,
@@ -45,5 +46,5 @@
     443
   ],
   "first_prize_count": 3,
-  "second_prize_count": 24
+  "second_prize_count": 25
 }

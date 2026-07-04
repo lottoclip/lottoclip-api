@@ -1,7 +1,7 @@
 {
   "store_id": "14440001",
   "name": "통정로또명당마트",
-  "address": "충남 천안시 동남구  통정4로 49 위너타워 맞은편",
+  "address": "충남 천안시 동남구 통정4로 49 위너타워 맞은편  ",
   "province": "충남",
   "city": "천안시",
   "phone": null,
@@ -10,10 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 36.774766,
-  "longitude": 127.134778,
-  "updated_at": "2026-03-05T23:58:23.143269",
-  "first_prize_draws": [],
+  "latitude": 36.774988,
+  "longitude": 127.13471,
+  "updated_at": "2026-07-04T14:03:27.047443",
+  "first_prize_draws": [
+    1231
+  ],
   "second_prize_draws": [
     1153,
     1112,
@@ -26,6 +28,6 @@
     894,
     859
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 10
 }

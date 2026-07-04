@@ -1,7 +1,7 @@
 {
   "store_id": "14140158",
   "name": "능곡나눔로또복권방",
-  "address": "경기 시흥시  장현능곡로 178 104호",
+  "address": "경기 시흥시 장현능곡로 178 104호  ",
   "province": "경기",
   "city": "시흥시",
   "phone": "031-311-5525",
@@ -10,11 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.369568,
-  "longitude": 126.809915,
-  "updated_at": "2026-03-06T00:00:28.633546",
+  "latitude": 37.369608,
+  "longitude": 126.80991,
+  "updated_at": "2026-07-04T14:03:27.041212",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1231,
     1192,
     1077,
     1040,
@@ -25,5 +26,5 @@
     747
   ],
   "first_prize_count": 0,
-  "second_prize_count": 8
+  "second_prize_count": 9
 }

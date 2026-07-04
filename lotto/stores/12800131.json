@@ -1,7 +1,7 @@
 {
   "store_id": "12800131",
   "name": "행운마트",
-  "address": "인천 부평구  배곶남로9번길 4 ",
+  "address": "인천 부평구 배곶남로9번길 4  ",
   "province": "인천",
   "city": "부평구",
   "phone": "032-429-3278",
@@ -10,14 +10,15 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.471792,
-  "longitude": 126.695352,
-  "updated_at": "2026-03-05T23:57:23.970902",
+  "latitude": 37.471799,
+  "longitude": 126.69536,
+  "updated_at": "2026-07-04T14:03:27.035265",
   "first_prize_draws": [
     650,
     437
   ],
   "second_prize_draws": [
+    1231,
     1143,
     1039,
     871,
@@ -35,5 +36,5 @@
     266
   ],
   "first_prize_count": 2,
-  "second_prize_count": 15
+  "second_prize_count": 16
 }
