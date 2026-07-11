@@ -1,7 +1,7 @@
 {
   "store_id": "14500044",
   "name": "여기있었네복권방",
-  "address": "전북 김제시  남북로 171 ",
+  "address": "전북 김제시 남북로 171  ",
   "province": "전북",
   "city": "김제시",
   "phone": "063-546-6452",
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.79936,
-  "longitude": 126.884563,
-  "updated_at": "2026-03-06T00:00:40.707094",
+  "latitude": 35.799391,
+  "longitude": 126.88457,
+  "updated_at": "2026-07-11T13:58:06.348347",
   "first_prize_draws": [
     1144,
     1096,
@@ -21,6 +21,7 @@
     596
   ],
   "second_prize_draws": [
+    1232,
     1196,
     1194,
     1191,
@@ -42,5 +43,5 @@
     286
   ],
   "first_prize_count": 5,
-  "second_prize_count": 19
+  "second_prize_count": 20
 }

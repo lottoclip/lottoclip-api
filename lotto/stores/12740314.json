@@ -1,7 +1,7 @@
 {
   "store_id": "12740314",
   "name": "드림로또",
-  "address": "대구 중구  동성로 80-27 태평로1가",
+  "address": "대구 중구 동성로 80-27 태평로1가  ",
   "province": "대구",
   "city": "중구",
   "phone": null,
@@ -11,12 +11,13 @@
     "speetto"
   ],
   "latitude": 35.874362,
-  "longitude": 128.596788,
-  "updated_at": "2026-03-05T23:59:07.636740",
+  "longitude": 128.59678,
+  "updated_at": "2026-07-11T13:58:06.334243",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1232,
     1169
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14290021",
   "name": "동해복권전문점",
-  "address": "강원 동해시  발한로 226-1 ",
+  "address": "강원 동해시 발한로 226-1  ",
   "province": "강원",
   "city": "동해시",
   "phone": "033-531-8241",
@@ -10,19 +10,20 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.549697,
-  "longitude": 129.108607,
-  "updated_at": "2026-03-05T23:56:39.581010",
+  "latitude": 37.549712,
+  "longitude": 129.1086,
+  "updated_at": "2026-07-11T13:58:06.344717",
   "first_prize_draws": [
     1067,
     852
   ],
   "second_prize_draws": [
+    1232,
     1127,
     1023,
     951,
     936
   ],
   "first_prize_count": 2,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }

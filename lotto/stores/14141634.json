@@ -1,7 +1,7 @@
 {
   "store_id": "14141634",
   "name": "복권명당 은하점",
-  "address": "경기 하남시  미사강변대로54번길 75 ",
+  "address": "경기 하남시 미사강변대로54번길 75  ",
   "province": "경기",
   "city": "하남시",
   "phone": null,
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.556207,
-  "longitude": 127.188747,
-  "updated_at": "2026-03-05T23:57:05.183615",
+  "latitude": 37.556206,
+  "longitude": 127.18874,
+  "updated_at": "2026-07-11T13:58:06.340027",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1232,
     1136,
     1027,
     1009
   ],
   "first_prize_count": 0,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

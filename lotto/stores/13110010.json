@@ -1,7 +1,7 @@
 {
   "store_id": "13110010",
   "name": "대박복권방",
-  "address": "울산 동구  진성8길 133 ",
+  "address": "울산 동구 진성8길 133  ",
   "province": "울산",
   "city": "동구",
   "phone": "052-236-3377",
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.511424,
-  "longitude": 129.429749,
-  "updated_at": "2026-03-05T23:54:19.714523",
+  "latitude": 35.511402,
+  "longitude": 129.42973,
+  "updated_at": "2026-07-11T13:58:06.338160",
   "first_prize_draws": [
     272
   ],
   "second_prize_draws": [
+    1232,
     1079,
     1044,
     935,
@@ -33,5 +34,5 @@
     274
   ],
   "first_prize_count": 1,
-  "second_prize_count": 14
+  "second_prize_count": 15
 }

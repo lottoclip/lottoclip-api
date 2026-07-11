@@ -1,7 +1,7 @@
 {
   "store_id": "12600126",
   "name": "대원슈퍼마켓",
-  "address": "부산 수영구  수영로 524 ",
+  "address": "부산 수영구 수영로 524  ",
   "province": "부산",
   "city": "수영구",
   "phone": "051-753-2655",
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.152473,
-  "longitude": 129.111995,
-  "updated_at": "2026-03-05T23:57:13.112229",
+  "latitude": 35.152468,
+  "longitude": 129.11199,
+  "updated_at": "2026-07-11T13:58:06.333246",
   "first_prize_draws": [
     1009,
     969,
@@ -22,6 +22,7 @@
     271
   ],
   "second_prize_draws": [
+    1232,
     1139,
     1130,
     1088,
@@ -53,5 +54,5 @@
     391
   ],
   "first_prize_count": 6,
-  "second_prize_count": 29
+  "second_prize_count": 30
 }

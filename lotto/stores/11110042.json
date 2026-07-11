@@ -1,7 +1,7 @@
 {
   "store_id": "11110042",
   "name": "로또복권",
-  "address": "서울 관악구  장군봉1길 29 ",
+  "address": "서울 관악구 남부순환로 1728 1층(재가 복지센터)  ",
   "province": "서울",
   "city": "관악구",
   "phone": "02-884-6128",
@@ -10,14 +10,15 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.481812,
-  "longitude": 126.941674,
-  "updated_at": "2026-03-05T23:58:19.721022",
+  "latitude": 37.482127,
+  "longitude": 126.94201,
+  "updated_at": "2026-07-11T13:58:06.331929",
   "first_prize_draws": [
     1152,
     1055
   ],
   "second_prize_draws": [
+    1232,
     1049,
     910,
     903,
@@ -26,5 +27,5 @@
     296
   ],
   "first_prize_count": 2,
-  "second_prize_count": 6
+  "second_prize_count": 7
 }

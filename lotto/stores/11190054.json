@@ -1,7 +1,7 @@
 {
   "store_id": "11190054",
   "name": "서하네",
-  "address": "서울 구로구  개봉로20길 66 ",
+  "address": "서울 구로구 개봉로20길 66  ",
   "province": "서울",
   "city": "구로구",
   "phone": "02-2685-1135",
@@ -10,14 +10,15 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.493345,
-  "longitude": 126.858009,
-  "updated_at": "2026-03-05T23:59:02.030210",
+  "latitude": 37.493373,
+  "longitude": 126.85803,
+  "updated_at": "2026-07-11T13:58:06.331489",
   "first_prize_draws": [
     1167,
     842
   ],
   "second_prize_draws": [
+    1232,
     1145,
     1127,
     1126,
@@ -37,5 +38,5 @@
     292
   ],
   "first_prize_count": 2,
-  "second_prize_count": 17
+  "second_prize_count": 18
 }

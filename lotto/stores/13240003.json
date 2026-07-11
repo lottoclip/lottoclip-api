@@ -1,7 +1,7 @@
 {
   "store_id": "13240003",
-  "name": "세종청사로또",
-  "address": "세종  절재로 194 중앙타운 114호  ",
+  "name": "청사로또",
+  "address": "세종  절재로 194 세종중앙타운 110호  ",
   "province": "세종",
   "city": "절재로",
   "phone": "044-864-0401",
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 36.508392,
-  "longitude": 127.262204,
-  "updated_at": "2026-03-06T00:01:08.142570",
+  "latitude": 36.508307,
+  "longitude": 127.26244,
+  "updated_at": "2026-07-11T13:58:06.338864",
   "first_prize_draws": [
     1178
   ],
   "second_prize_draws": [
+    1232,
     1206,
     1189,
     1185,
@@ -27,5 +28,5 @@
     879
   ],
   "first_prize_count": 1,
-  "second_prize_count": 8
+  "second_prize_count": 9
 }

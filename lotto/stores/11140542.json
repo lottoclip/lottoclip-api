@@ -1,7 +1,7 @@
 {
   "store_id": "11140542",
   "name": "경아로또 판매점",
-  "address": "서울 동작구  사당로16길 40 1층",
+  "address": "서울 동작구 사당로16길 40 1층  ",
   "province": "서울",
   "city": "동작구",
   "phone": null,
@@ -12,14 +12,15 @@
   ],
   "latitude": 37.481924,
   "longitude": 126.972493,
-  "updated_at": "2026-03-05T23:56:48.454602",
+  "updated_at": "2026-07-11T13:58:06.330888",
   "first_prize_draws": [
     1122
   ],
   "second_prize_draws": [
+    1232,
     1130,
     1025
   ],
   "first_prize_count": 1,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

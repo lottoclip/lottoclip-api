@@ -1,7 +1,7 @@
 {
   "store_id": "14190132",
   "name": "대박복권방",
-  "address": "경기 양주시 가래비길 33  ",
+  "address": "경기 양주시 가래비길 33 1층  ",
   "province": "경기",
   "city": "양주시",
   "phone": "031-855-8560",
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.822462,
-  "longitude": 126.986694,
-  "updated_at": "2026-03-07T13:10:24.784776",
+  "latitude": 37.8225,
+  "longitude": 126.98673,
+  "updated_at": "2026-07-11T13:58:06.341107",
   "first_prize_draws": [
     917,
     809,
@@ -20,6 +20,7 @@
     696
   ],
   "second_prize_draws": [
+    1232,
     1213,
     1189,
     1184,
@@ -54,5 +55,5 @@
     321
   ],
   "first_prize_count": 4,
-  "second_prize_count": 32
+  "second_prize_count": 33
 }

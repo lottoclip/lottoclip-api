@@ -1,7 +1,7 @@
 {
   "store_id": "12640637",
   "name": "다윤",
-  "address": "부산 영도구  절영로13번길 57 1층",
+  "address": "부산 영도구 절영로13번길 57 1층  ",
   "province": "부산",
   "city": "영도구",
   "phone": null,
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.0921,
-  "longitude": 129.0431,
-  "updated_at": "2026-03-06T00:00:07.858862",
+  "latitude": 35.092071,
+  "longitude": 129.04309,
+  "updated_at": "2026-07-11T13:58:06.332733",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1232,
     1185
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

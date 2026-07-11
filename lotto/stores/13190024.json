@@ -1,7 +1,7 @@
 {
   "store_id": "13190024",
   "name": "조은복권방",
-  "address": "울산 남구  수암로 124 ",
+  "address": "울산 남구 수암로 128-1  ",
   "province": "울산",
   "city": "남구",
   "phone": "052-257-9868",
@@ -11,13 +11,14 @@
     "speetto"
   ],
   "latitude": 35.527505,
-  "longitude": 129.321004,
-  "updated_at": "2026-03-05T23:57:55.694142",
+  "longitude": 129.321,
+  "updated_at": "2026-07-11T13:58:06.338369",
   "first_prize_draws": [
     697,
     466
   ],
   "second_prize_draws": [
+    1232,
     1149,
     884,
     737,
@@ -25,5 +26,5 @@
     374
   ],
   "first_prize_count": 2,
-  "second_prize_count": 5
+  "second_prize_count": 6
 }

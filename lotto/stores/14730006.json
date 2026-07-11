@@ -1,7 +1,7 @@
 {
   "store_id": "14730006",
   "name": "창신로또",
-  "address": "경북 영천시  언하공단로 83 ",
+  "address": "경북 영천시 언하공단로 83  ",
   "province": "경북",
   "city": "영천시",
   "phone": null,
@@ -11,9 +11,11 @@
     "speetto"
   ],
   "latitude": 35.985909,
-  "longitude": 128.954547,
-  "updated_at": "2026-03-05T23:59:11.182513",
-  "first_prize_draws": [],
+  "longitude": 128.95454,
+  "updated_at": "2026-07-11T13:58:06.349237",
+  "first_prize_draws": [
+    1232
+  ],
   "second_prize_draws": [
     1170,
     1166,
@@ -23,6 +25,6 @@
     971,
     862
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 7
 }

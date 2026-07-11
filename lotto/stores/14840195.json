@@ -1,7 +1,7 @@
 {
   "store_id": "14840195",
   "name": "로또 복권방",
-  "address": "경남 창녕군  남지중앙로 42 ",
+  "address": "경남 창녕군 남지중앙로 42  ",
   "province": "경남",
   "city": "창녕군",
   "phone": null,
@@ -10,14 +10,15 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.391473,
-  "longitude": 128.474545,
-  "updated_at": "2026-03-05T23:57:21.758566",
+  "latitude": 35.390563,
+  "longitude": 128.47429,
+  "updated_at": "2026-07-11T13:58:06.351045",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1232,
     1142,
     1057
   ],
   "first_prize_count": 0,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

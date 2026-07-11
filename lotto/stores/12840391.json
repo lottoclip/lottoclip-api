@@ -1,7 +1,7 @@
 {
   "store_id": "12840391",
   "name": "설렘로또",
-  "address": "인천 중구  자연대로 41 108호",
+  "address": "인천 중구 자연대로 41 108호  ",
   "province": "인천",
   "city": "중구",
   "phone": null,
@@ -11,13 +11,14 @@
     "speetto"
   ],
   "latitude": 37.488401,
-  "longitude": 126.559567,
-  "updated_at": "2026-03-05T23:55:02.650265",
+  "longitude": 126.55956,
+  "updated_at": "2026-07-11T13:58:06.335275",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1232,
     1094,
     1039
   ],
   "first_prize_count": 0,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

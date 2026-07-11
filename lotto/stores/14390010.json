@@ -1,7 +1,7 @@
 {
   "store_id": "14390010",
   "name": "팡팡복권방",
-  "address": "충북 진천군  장기길 102 ",
+  "address": "충북 진천군 장기길 102  ",
   "province": "충북",
   "city": "진천군",
   "phone": "043-535-5358",
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 36.990017,
-  "longitude": 127.445277,
-  "updated_at": "2026-03-06T00:00:16.433152",
+  "latitude": 36.990042,
+  "longitude": 127.44531,
+  "updated_at": "2026-07-11T13:58:06.346008",
   "first_prize_draws": [
     1162,
     1098,
@@ -20,6 +20,7 @@
     869
   ],
   "second_prize_draws": [
+    1232,
     1188,
     1178,
     1172,
@@ -54,5 +55,5 @@
     302
   ],
   "first_prize_count": 4,
-  "second_prize_count": 32
+  "second_prize_count": 33
 }

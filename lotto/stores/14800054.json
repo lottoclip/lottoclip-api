@@ -1,7 +1,7 @@
 {
   "store_id": "14800054",
   "name": "오복할인마트",
-  "address": "경남 창원시 의창구  차상로150번길 44 팔용유통단지",
+  "address": "경남 창원시 의창구 차상로150번길 44 팔용유통단지  ",
   "province": "경남",
   "city": "창원시",
   "phone": "055-265-1477",
@@ -12,9 +12,10 @@
   ],
   "latitude": 35.235417,
   "longitude": 128.637266,
-  "updated_at": "2026-03-06T00:00:26.002938",
+  "updated_at": "2026-07-11T13:58:06.350807",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1232,
     1191,
     871,
     812,
@@ -25,5 +26,5 @@
     353
   ],
   "first_prize_count": 0,
-  "second_prize_count": 8
+  "second_prize_count": 9
 }
