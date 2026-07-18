@@ -1,7 +1,7 @@
 {
   "store_id": "11100934",
   "name": "가로대가판점",
-  "address": "서울 은평구  통일로 741 롯데리아앞가판",
+  "address": "서울 은평구 통일로 741 롯데리아앞가판  ",
   "province": "서울",
   "city": "은평구",
   "phone": "02-355-8760",
@@ -10,10 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.611383,
-  "longitude": 126.928492,
-  "updated_at": "2026-03-05T23:58:33.330140",
-  "first_prize_draws": [],
+  "latitude": 37.611426,
+  "longitude": 126.92861,
+  "updated_at": "2026-07-18T13:53:30.093296",
+  "first_prize_draws": [
+    1233
+  ],
   "second_prize_draws": [
     1157,
     1125,
@@ -26,6 +28,6 @@
     450,
     302
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 10
 }

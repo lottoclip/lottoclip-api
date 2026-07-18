@@ -1,7 +1,7 @@
 {
   "store_id": "14810063",
   "name": "로또행운마트",
-  "address": "경남 김해시  능동로 177 복권판매점",
+  "address": "경남 김해시 능동로 177 복권판매점  ",
   "province": "경남",
   "city": "김해시",
   "phone": "055-313-2345",
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.203791,
-  "longitude": 128.810017,
-  "updated_at": "2026-03-06T00:00:35.328316",
+  "latitude": 35.203783,
+  "longitude": 128.81001,
+  "updated_at": "2026-07-18T13:53:30.116073",
   "first_prize_draws": [
     1194,
     1123,
@@ -21,6 +21,7 @@
     668
   ],
   "second_prize_draws": [
+    1233,
     1173,
     1034,
     1003,
@@ -41,5 +42,5 @@
     291
   ],
   "first_prize_count": 5,
-  "second_prize_count": 18
+  "second_prize_count": 19
 }

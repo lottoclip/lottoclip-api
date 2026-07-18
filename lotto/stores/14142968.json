@@ -4,15 +4,19 @@
   "address": "경기 안산시 상록구 광덕1로 326 102호  ",
   "phone": null,
   "lottery_types": [
-    "lotto645"
+    "lotto645",
+    "pension720",
+    "speetto"
   ],
   "latitude": 37.306658,
   "longitude": 126.84609,
-  "updated_at": "2026-03-21T14:15:33.598041",
-  "first_prize_draws": [],
+  "updated_at": "2026-07-18T13:53:30.106553",
+  "first_prize_draws": [
+    1233
+  ],
   "second_prize_draws": [
     1216
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 1
 }

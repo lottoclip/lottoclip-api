@@ -1,18 +1,19 @@
 {
   "store_id": "11190124",
   "name": "로또와토토",
-  "address": "서울 중구  세종대로18길 10 ",
+  "address": "서울 중구 세종대로18길 10 1층  ",
   "province": "서울",
   "city": "중구",
   "phone": "02-776-2010",
   "lottery_types": [
     "lotto645"
   ],
-  "latitude": 37.563694,
-  "longitude": 126.977594,
-  "updated_at": "2026-03-05T23:57:26.632853",
+  "latitude": 37.563709,
+  "longitude": 126.97761,
+  "updated_at": "2026-07-18T13:53:30.092808",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1233,
     1144,
     874,
     838,
@@ -20,5 +21,5 @@
     397
   ],
   "first_prize_count": 0,
-  "second_prize_count": 5
+  "second_prize_count": 6
 }

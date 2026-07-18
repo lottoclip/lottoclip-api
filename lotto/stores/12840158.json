@@ -1,7 +1,7 @@
 {
   "store_id": "12840158",
   "name": "행운미니슈퍼",
-  "address": "인천 부평구  수변로 64 1층 102호",
+  "address": "인천 부평구 수변로 64 1층 102호  ",
   "province": "인천",
   "city": "부평구",
   "phone": null,
@@ -10,16 +10,17 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.492195,
-  "longitude": 126.740893,
-  "updated_at": "2026-03-05T23:55:31.213317",
+  "latitude": 37.492129,
+  "longitude": 126.74086,
+  "updated_at": "2026-07-18T13:53:30.101095",
   "first_prize_draws": [
+    1233,
     1104
   ],
   "second_prize_draws": [
     1006,
     998
   ],
-  "first_prize_count": 1,
+  "first_prize_count": 2,
   "second_prize_count": 2
 }

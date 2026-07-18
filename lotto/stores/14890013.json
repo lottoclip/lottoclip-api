@@ -1,7 +1,7 @@
 {
   "store_id": "14890013",
   "name": "대박복권방",
-  "address": "경남 김해시  활천로36번길 28-6 복권판매점",
+  "address": "경남 김해시 활천로36번길 28-6 복권판매점  ",
   "province": "경남",
   "city": "김해시",
   "phone": "055-339-1843",
@@ -10,10 +10,11 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.23212,
-  "longitude": 128.896068,
-  "updated_at": "2026-03-05T23:56:28.484401",
+  "latitude": 35.232085,
+  "longitude": 128.89611,
+  "updated_at": "2026-07-18T13:53:30.116286",
   "first_prize_draws": [
+    1233,
     381
   ],
   "second_prize_draws": [
@@ -35,6 +36,6 @@
     326,
     289
   ],
-  "first_prize_count": 1,
+  "first_prize_count": 2,
   "second_prize_count": 17
 }

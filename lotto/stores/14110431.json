@@ -1,7 +1,7 @@
 {
   "store_id": "14110431",
   "name": "로또24시편의점",
-  "address": "경기 안산시 단원구  달미로 85 1층101호",
+  "address": "경기 안산시 단원구 달미로 85 1층101호  ",
   "province": "경기",
   "city": "안산시",
   "phone": "031-480-5380",
@@ -10,14 +10,15 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.343453,
-  "longitude": 126.81495,
-  "updated_at": "2026-03-05T23:58:02.162887",
+  "latitude": 37.343466,
+  "longitude": 126.81496,
+  "updated_at": "2026-07-18T13:53:30.106939",
   "first_prize_draws": [
     751,
     468
   ],
   "second_prize_draws": [
+    1233,
     1151,
     613,
     569,
@@ -29,5 +30,5 @@
     301
   ],
   "first_prize_count": 2,
-  "second_prize_count": 9
+  "second_prize_count": 10
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14141407",
   "name": "월드로또복권방",
-  "address": "경기 안산시 상록구  본삼로 60 136호",
+  "address": "경기 안산시 상록구 본삼로 60 136호  ",
   "province": "경기",
   "city": "안산시",
   "phone": null,
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.30064,
+  "latitude": 37.300687,
   "longitude": 126.86659,
-  "updated_at": "2026-03-05T23:51:19.780004",
+  "updated_at": "2026-07-18T13:53:30.106743",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1233,
     1025
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

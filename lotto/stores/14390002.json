@@ -1,7 +1,7 @@
 {
   "store_id": "14390002",
   "name": "복권나라",
-  "address": "충북 제천시  청풍호로 52 1층",
+  "address": "충북 제천시 청풍호로 52 1층  ",
   "province": "충북",
   "city": "제천시",
   "phone": "043-646-5708",
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.126525,
-  "longitude": 128.202722,
-  "updated_at": "2026-03-05T23:59:43.551486",
+  "latitude": 37.126526,
+  "longitude": 128.20275,
+  "updated_at": "2026-07-18T13:53:30.110671",
   "first_prize_draws": [
     1025
   ],
   "second_prize_draws": [
+    1233,
     1176,
     1168,
     1167,
@@ -29,5 +30,5 @@
     426
   ],
   "first_prize_count": 1,
-  "second_prize_count": 10
+  "second_prize_count": 11
 }

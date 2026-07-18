@@ -1,7 +1,7 @@
 {
   "store_id": "14130021",
   "name": "장원로또",
-  "address": "경기 수원시 영통구  중부대로246번길 10 1층 3호",
+  "address": "경기 수원시 영통구 중부대로246번길 10 1층 3호  ",
   "province": "경기",
   "city": "수원시",
   "phone": "070-7622-3869",
@@ -10,14 +10,15 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.27466,
-  "longitude": 127.042328,
-  "updated_at": "2026-03-06T00:00:51.202526",
+  "latitude": 37.274656,
+  "longitude": 127.04236,
+  "updated_at": "2026-07-18T13:53:30.108050",
   "first_prize_draws": [
     1013,
     775
   ],
   "second_prize_draws": [
+    1233,
     1200,
     1189,
     1088,
@@ -29,5 +30,5 @@
     954
   ],
   "first_prize_count": 2,
-  "second_prize_count": 9
+  "second_prize_count": 10
 }

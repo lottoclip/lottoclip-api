@@ -1,7 +1,7 @@
 {
   "store_id": "14700062",
   "name": "부흥청과식품점",
-  "address": "경북 경산시  하양로 35 우방3차상가",
+  "address": "경북 경산시 하양로 35 우방3차상가  ",
   "province": "경북",
   "city": "경산시",
   "phone": "053-853-2809",
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.909261,
-  "longitude": 128.813538,
-  "updated_at": "2026-03-06T00:00:54.181206",
+  "latitude": 35.890538,
+  "longitude": 128.77821,
+  "updated_at": "2026-07-18T13:53:30.114624",
   "first_prize_draws": [
     721,
     560,
@@ -20,6 +20,7 @@
     443
   ],
   "second_prize_draws": [
+    1233,
     1201,
     1150,
     1128,
@@ -46,5 +47,5 @@
     328
   ],
   "first_prize_count": 4,
-  "second_prize_count": 24
+  "second_prize_count": 25
 }

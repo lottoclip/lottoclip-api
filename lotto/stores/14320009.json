@@ -1,7 +1,7 @@
 {
   "store_id": "14320009",
   "name": "럭키로또복권판매점",
-  "address": "충북 청주시 상당구  무농정로 10-1 ",
+  "address": "충북 청주시 상당구 무농정로 10-1  ",
   "province": "충북",
   "city": "청주시",
   "phone": null,
@@ -12,13 +12,14 @@
   ],
   "latitude": 36.605875,
   "longitude": 127.504284,
-  "updated_at": "2026-03-05T23:59:46.338065",
+  "updated_at": "2026-07-18T13:53:30.110258",
   "first_prize_draws": [
     1177,
     1151,
     758
   ],
   "second_prize_draws": [
+    1233,
     1172,
     1086,
     1070,
@@ -29,5 +30,5 @@
     700
   ],
   "first_prize_count": 3,
-  "second_prize_count": 8
+  "second_prize_count": 9
 }

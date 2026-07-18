@@ -1,7 +1,7 @@
 {
   "store_id": "14340066",
   "name": "동다리복권",
-  "address": "충북 보은군  삼산로 4 ",
+  "address": "충북 보은군 삼산로 4  ",
   "province": "충북",
   "city": "보은군",
   "phone": null,
@@ -10,14 +10,15 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 36.485099,
-  "longitude": 127.721285,
-  "updated_at": "2026-03-05T23:54:19.927946",
+  "latitude": 36.48519,
+  "longitude": 127.72124,
+  "updated_at": "2026-07-18T13:53:30.110873",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1233,
     1079,
     1071
   ],
   "first_prize_count": 0,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

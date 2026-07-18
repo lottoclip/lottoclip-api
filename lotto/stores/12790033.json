@@ -1,7 +1,7 @@
 {
   "store_id": "12790033",
   "name": "왕대박복권방",
-  "address": "대구 북구  태전로 27-1 ",
+  "address": "대구 북구 태전로 27-1  ",
   "province": "대구",
   "city": "북구",
   "phone": "053-313-1011",
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.922871,
-  "longitude": 128.544601,
-  "updated_at": "2026-03-05T23:57:18.681040",
+  "latitude": 35.922862,
+  "longitude": 128.54456,
+  "updated_at": "2026-07-18T13:53:30.099560",
   "first_prize_draws": [
     476
   ],
   "second_prize_draws": [
+    1233,
     1141,
     1119,
     1107,
@@ -31,5 +32,5 @@
     375
   ],
   "first_prize_count": 1,
-  "second_prize_count": 12
+  "second_prize_count": 13
 }

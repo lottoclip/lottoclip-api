@@ -1,7 +1,7 @@
 {
   "store_id": "14300077",
   "name": "현대복권방",
-  "address": "충북 청주시 청원구  향군로 140-1 ",
+  "address": "충북 청주시 청원구 향군로 140-1  ",
   "province": "충북",
   "city": "청주시",
   "phone": "043-252-8345",
@@ -12,11 +12,12 @@
   ],
   "latitude": 36.656839,
   "longitude": 127.480028,
-  "updated_at": "2026-03-05T23:59:57.122512",
+  "updated_at": "2026-07-18T13:53:30.110054",
   "first_prize_draws": [
     660
   ],
   "second_prize_draws": [
+    1233,
     1181,
     1156,
     919,
@@ -25,5 +26,5 @@
     474
   ],
   "first_prize_count": 1,
-  "second_prize_count": 6
+  "second_prize_count": 7
 }

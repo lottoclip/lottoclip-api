@@ -1,7 +1,7 @@
 {
   "store_id": "13040049",
   "name": "로또방(복권판매점)",
-  "address": "대전 서구  갈마로 193 ",
+  "address": "대전 서구 갈마로 193  ",
   "province": "대전",
   "city": "서구",
   "phone": null,
@@ -10,13 +10,15 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 36.337469,
-  "longitude": 127.377413,
-  "updated_at": "2026-03-05T23:53:13.655209",
-  "first_prize_draws": [],
+  "latitude": 36.337507,
+  "longitude": 127.37744,
+  "updated_at": "2026-07-18T13:53:30.103309",
+  "first_prize_draws": [
+    1233
+  ],
   "second_prize_draws": [
     1057
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 1
 }

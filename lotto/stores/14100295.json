@@ -10,10 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.384363,
-  "longitude": 126.860005,
-  "updated_at": "2026-03-07T14:13:23.498333",
-  "first_prize_draws": [],
+  "latitude": 37.384357,
+  "longitude": 126.86003,
+  "updated_at": "2026-07-18T13:53:30.107380",
+  "first_prize_draws": [
+    1233
+  ],
   "second_prize_draws": [
     1214,
     1044,
@@ -26,6 +28,6 @@
     501,
     324
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 10
 }

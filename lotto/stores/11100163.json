@@ -1,7 +1,7 @@
 {
   "store_id": "11100163",
   "name": "천하명당복권방",
-  "address": "서울 은평구  은평로 51 ",
+  "address": "서울 은평구 은평로 51 1층  ",
   "province": "서울",
   "city": "은평구",
   "phone": "02-355-0277",
@@ -10,11 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.59878,
-  "longitude": 126.913435,
-  "updated_at": "2026-03-05T23:55:47.541476",
+  "latitude": 37.598776,
+  "longitude": 126.91345,
+  "updated_at": "2026-07-18T13:53:30.093069",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1233,
     1110,
     1098,
     1005,
@@ -26,5 +27,5 @@
     395
   ],
   "first_prize_count": 0,
-  "second_prize_count": 9
+  "second_prize_count": 10
 }

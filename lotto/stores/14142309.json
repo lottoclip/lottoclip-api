@@ -1,21 +1,24 @@
 {
   "store_id": "14142309",
   "name": "행운의순간복권방",
-  "address": "경기 파주시  경의로 1218 제1층 제113호",
+  "address": "경기 파주시 경의로 1218 제1층 제113호  ",
   "province": "경기",
   "city": "파주시",
   "phone": null,
   "lottery_types": [
-    "lotto645"
+    "lotto645",
+    "pension720",
+    "speetto"
   ],
-  "latitude": 37.726073,
-  "longitude": 126.761441,
-  "updated_at": "2026-03-05T23:59:10.808715",
+  "latitude": 37.726072,
+  "longitude": 126.76144,
+  "updated_at": "2026-07-18T13:53:30.105504",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1233,
     1170,
     1102
   ],
   "first_prize_count": 0,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

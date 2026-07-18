@@ -1,7 +1,7 @@
 {
   "store_id": "14130094",
   "name": "복권방",
-  "address": "경기 고양시 덕양구  권율대로 671 127호",
+  "address": "경기 고양시 덕양구 권율대로 671 127호  ",
   "province": "경기",
   "city": "고양시",
   "phone": null,
@@ -11,13 +11,14 @@
     "speetto"
   ],
   "latitude": 37.649797,
-  "longitude": 126.872994,
-  "updated_at": "2026-03-05T23:59:37.899893",
+  "longitude": 126.87299,
+  "updated_at": "2026-07-18T13:53:30.109087",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1233,
     1174,
     984
   ],
   "first_prize_count": 0,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }
