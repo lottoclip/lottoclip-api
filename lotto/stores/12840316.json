@@ -1,7 +1,7 @@
 {
   "store_id": "12840316",
   "name": "행복복권방",
-  "address": "인천 연수구  벚꽃로 114 1층 111호",
+  "address": "인천 연수구 벚꽃로 114 1층 111호  ",
   "province": "인천",
   "city": "연수구",
   "phone": null,
@@ -11,14 +11,15 @@
     "speetto"
   ],
   "latitude": 37.417075,
-  "longitude": 126.678126,
-  "updated_at": "2026-03-06T00:00:19.024226",
+  "longitude": 126.67812,
+  "updated_at": "2026-07-25T14:06:02.855352",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1234,
     1189,
     1118,
     1112
   ],
   "first_prize_count": 0,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

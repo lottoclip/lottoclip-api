@@ -1,7 +1,7 @@
 {
   "store_id": "14141014",
   "name": "로또동탄호수공원점",
-  "address": "경기 화성시 동탄대로5길 21 156호  ",
+  "address": "경기 화성시 동탄구 동탄대로5길 21 156호  ",
   "province": "경기",
   "city": "화성시",
   "phone": null,
@@ -12,12 +12,14 @@
   ],
   "latitude": 37.166891,
   "longitude": 127.10515,
-  "updated_at": "2026-07-18T14:42:18.705183",
-  "first_prize_draws": [],
+  "updated_at": "2026-07-25T14:06:02.856598",
+  "first_prize_draws": [
+    1234
+  ],
   "second_prize_draws": [
     1233,
     1207
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 2
 }

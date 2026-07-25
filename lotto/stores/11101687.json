@@ -1,7 +1,7 @@
 {
   "store_id": "11101687",
   "name": "노다지복권방",
-  "address": "서울 종로구  종로 331 1층",
+  "address": "서울 종로구 종로 331 1층  ",
   "province": "서울",
   "city": "종로구",
   "phone": "02-744-2992",
@@ -11,9 +11,10 @@
     "speetto"
   ],
   "latitude": 37.572859,
-  "longitude": 127.014382,
-  "updated_at": "2026-03-06T00:00:18.738925",
+  "longitude": 127.01438,
+  "updated_at": "2026-07-25T14:06:02.847633",
   "first_prize_draws": [
+    1234,
     721,
     646,
     597,
@@ -58,6 +59,6 @@
     387,
     293
   ],
-  "first_prize_count": 4,
+  "first_prize_count": 5,
   "second_prize_count": 37
 }

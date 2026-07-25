@@ -1,7 +1,7 @@
 {
   "store_id": "14190166",
   "name": "예인기획",
-  "address": "경기 화성시 3.1만세로 1127  ",
+  "address": "경기 화성시 만세구 3.1만세로 1127  ",
   "province": "경기",
   "city": "화성시",
   "phone": "031-353-9841",
@@ -10,10 +10,11 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.133818,
-  "longitude": 126.909749,
-  "updated_at": "2026-03-07T13:10:24.782515",
+  "latitude": 37.133904,
+  "longitude": 126.90977,
+  "updated_at": "2026-07-25T14:06:02.856434",
   "first_prize_draws": [
+    1234,
     996,
     472
   ],
@@ -36,6 +37,6 @@
     473,
     405
   ],
-  "first_prize_count": 2,
+  "first_prize_count": 3,
   "second_prize_count": 17
 }

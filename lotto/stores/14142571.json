@@ -6,15 +6,19 @@
   "city": "수원시",
   "phone": null,
   "lottery_types": [
-    "lotto645"
+    "lotto645",
+    "pension720",
+    "speetto"
   ],
-  "latitude": 37.297135,
-  "longitude": 127.005301,
-  "updated_at": "2026-03-06T00:01:22.904994",
+  "latitude": 37.297137,
+  "longitude": 127.00529,
+  "updated_at": "2026-07-25T14:06:02.858890",
   "first_prize_draws": [
     1211
   ],
-  "second_prize_draws": [],
+  "second_prize_draws": [
+    1234
+  ],
   "first_prize_count": 1,
-  "second_prize_count": 0
+  "second_prize_count": 1
 }

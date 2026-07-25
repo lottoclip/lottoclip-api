@@ -1,7 +1,7 @@
 {
   "store_id": "12610159",
   "name": "제일복권",
-  "address": "부산 서구  충무대로 35-1 1층 복권방",
+  "address": "부산 서구 충무대로 35-1 1층 복권방  ",
   "province": "부산",
   "city": "서구",
   "phone": "051-243-4691",
@@ -10,19 +10,20 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.078842,
-  "longitude": 129.016585,
-  "updated_at": "2026-03-05T23:53:44.017318",
+  "latitude": 35.078813,
+  "longitude": 129.01652,
+  "updated_at": "2026-07-25T14:06:02.852957",
   "first_prize_draws": [
     1024,
     468
   ],
   "second_prize_draws": [
+    1234,
     1067,
     937,
     560,
     538
   ],
   "first_prize_count": 2,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }

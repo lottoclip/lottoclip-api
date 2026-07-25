@@ -1,7 +1,7 @@
 {
   "store_id": "14141012",
   "name": "대흥복권",
-  "address": "경기 화성시 행정서로3길 4-46 101호  ",
+  "address": "경기 화성시 만세구 행정서로3길 4-46 101호  ",
   "province": "경기",
   "city": "화성시",
   "phone": null,
@@ -10,10 +10,11 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.130063,
-  "longitude": 126.917227,
-  "updated_at": "2026-03-06T00:01:05.333522",
+  "latitude": 37.1301,
+  "longitude": 126.91723,
+  "updated_at": "2026-07-25T14:06:02.856245",
   "first_prize_draws": [
+    1234,
     1093
   ],
   "second_prize_draws": [
@@ -25,6 +26,6 @@
     1065,
     935
   ],
-  "first_prize_count": 1,
+  "first_prize_count": 2,
   "second_prize_count": 7
 }

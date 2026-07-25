@@ -1,21 +1,22 @@
 {
   "store_id": "12690050",
   "name": "복권방",
-  "address": "부산 부산진구  당감서로 84 202호",
+  "address": "부산 부산진구 당감서로 84 202호  ",
   "province": "부산",
   "city": "부산진구",
   "phone": null,
   "lottery_types": [
     "lotto645"
   ],
-  "latitude": 35.167697,
-  "longitude": 129.037347,
-  "updated_at": "2026-03-05T23:58:53.842992",
+  "latitude": 35.167777,
+  "longitude": 129.03715,
+  "updated_at": "2026-07-25T14:06:02.853619",
   "first_prize_draws": [
     870,
     601
   ],
   "second_prize_draws": [
+    1234,
     1164,
     1121,
     888,
@@ -24,5 +25,5 @@
     380
   ],
   "first_prize_count": 2,
-  "second_prize_count": 6
+  "second_prize_count": 7
 }

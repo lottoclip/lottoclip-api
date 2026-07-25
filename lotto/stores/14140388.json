@@ -1,7 +1,7 @@
 {
   "store_id": "14140388",
   "name": "크로바쉼터",
-  "address": "경기 성남시 수정구  대왕판교로 1289 1층 5호",
+  "address": "경기 성남시 수정구 대왕판교로 1289 1층 5호  ",
   "province": "경기",
   "city": "성남시",
   "phone": null,
@@ -10,17 +10,18 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.455133,
-  "longitude": 127.106506,
-  "updated_at": "2026-03-05T23:50:48.789870",
+  "latitude": 37.455088,
+  "longitude": 127.10657,
+  "updated_at": "2026-07-25T14:06:02.859558",
   "first_prize_draws": [
     1019
   ],
   "second_prize_draws": [
+    1234,
     1001,
     983,
     973
   ],
   "first_prize_count": 1,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

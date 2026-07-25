@@ -1,7 +1,7 @@
 {
   "store_id": "12810022",
   "name": "무한대박",
-  "address": "인천 연수구  새말로 107 ",
+  "address": "인천 연수구 새말로 107  ",
   "province": "인천",
   "city": "연수구",
   "phone": "032-811-0752",
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.41867,
-  "longitude": 126.681149,
-  "updated_at": "2026-03-06T00:00:19.018002",
+  "latitude": 37.418674,
+  "longitude": 126.68116,
+  "updated_at": "2026-07-25T14:06:02.855159",
   "first_prize_draws": [
     707
   ],
   "second_prize_draws": [
+    1234,
     1189,
     1141,
     1115,
@@ -29,5 +30,5 @@
     284
   ],
   "first_prize_count": 1,
-  "second_prize_count": 10
+  "second_prize_count": 11
 }

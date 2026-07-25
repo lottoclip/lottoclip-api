@@ -8,15 +8,16 @@
   "lottery_types": [
     "lotto645"
   ],
-  "latitude": 35.870601,
-  "longitude": 127.076554,
-  "updated_at": "2026-04-04T14:23:14.308115",
+  "latitude": 35.870609,
+  "longitude": 127.07653,
+  "updated_at": "2026-07-25T14:06:02.863515",
   "first_prize_draws": [
     1116,
     904,
     620
   ],
   "second_prize_draws": [
+    1234,
     1218,
     1217,
     1077,
@@ -31,5 +32,5 @@
     395
   ],
   "first_prize_count": 3,
-  "second_prize_count": 12
+  "second_prize_count": 13
 }

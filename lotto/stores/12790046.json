@@ -1,7 +1,7 @@
 {
   "store_id": "12790046",
   "name": "복권명당",
-  "address": "대구 서구 비산동 151-28번지 ",
+  "address": "대구 서구 국채보상로 419  ",
   "province": "대구",
   "city": "서구",
   "phone": "053-525-0354",
@@ -10,10 +10,11 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.871938,
-  "longitude": 128.576968,
-  "updated_at": "2026-03-05T23:44:42.254070",
+  "latitude": 35.871833,
+  "longitude": 128.57695,
+  "updated_at": "2026-07-25T14:06:02.854367",
   "first_prize_draws": [
+    1234,
     481
   ],
   "second_prize_draws": [
@@ -26,6 +27,6 @@
     358,
     312
   ],
-  "first_prize_count": 1,
+  "first_prize_count": 2,
   "second_prize_count": 8
 }

@@ -1,6 +1,28 @@
 {
   "draws": [
     {
+      "draw_no": 1234,
+      "draw_date": "2026-07-25",
+      "file": "draws/lotto_1234.json",
+      "numbers": [
+        1,
+        15,
+        19,
+        31,
+        35,
+        43
+      ],
+      "bonus_number": 27,
+      "prize_info": [
+        {
+          "rank": "1등",
+          "total_prize": "28712332134",
+          "winner_count": "18",
+          "prize_per_winner": "1595129563"
+        }
+      ]
+    },
+    {
       "draw_no": 1233,
       "draw_date": "2026-07-18",
       "file": "draws/lotto_1233.json",
@@ -27127,5 +27149,5 @@
       ]
     }
   ],
-  "last_updated": "2026-07-18T14:42:19.281913"
+  "last_updated": "2026-07-25T14:06:03.377577"
 }

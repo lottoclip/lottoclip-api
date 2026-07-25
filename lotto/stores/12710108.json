@@ -1,7 +1,7 @@
 {
   "store_id": "12710108",
   "name": "로또일도점",
-  "address": "대구 북구  학정로 421 일도프라자101호",
+  "address": "대구 북구 학정로 421 일도프라자101호  ",
   "province": "대구",
   "city": "북구",
   "phone": "053-321-7491",
@@ -10,10 +10,11 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.942388,
-  "longitude": 128.563091,
-  "updated_at": "2026-03-06T00:00:22.181007",
+  "latitude": 35.942375,
+  "longitude": 128.56308,
+  "updated_at": "2026-07-25T14:06:02.854560",
   "first_prize_draws": [
+    1234,
     673
   ],
   "second_prize_draws": [
@@ -26,6 +27,6 @@
     478,
     431
   ],
-  "first_prize_count": 1,
+  "first_prize_count": 2,
   "second_prize_count": 8
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14340061",
   "name": "대박나라",
-  "address": "충북 괴산군  괴강로 9 충북 괴산군 괴강로 9 1층",
+  "address": "충북 괴산군 괴강로 9 충북 괴산군 괴강로 9 1층  ",
   "province": "충북",
   "city": "괴산군",
   "phone": null,
@@ -11,14 +11,15 @@
     "speetto"
   ],
   "latitude": 36.809459,
-  "longitude": 127.795329,
-  "updated_at": "2026-03-05T23:59:59.867414",
+  "longitude": 127.79532,
+  "updated_at": "2026-07-25T14:06:02.862429",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1234,
     1182,
     1050,
     962
   ],
   "first_prize_count": 0,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

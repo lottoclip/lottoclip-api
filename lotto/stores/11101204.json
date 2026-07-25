@@ -1,7 +1,7 @@
 {
   "store_id": "11101204",
   "name": "신림마트",
-  "address": "서울 관악구  남부순환로 1588 ",
+  "address": "서울 관악구 남부순환로 1588  ",
   "province": "서울",
   "city": "관악구",
   "phone": "02-872-9026",
@@ -10,11 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.48365,
-  "longitude": 126.927056,
-  "updated_at": "2026-03-05T23:59:56.596140",
+  "latitude": 37.483662,
+  "longitude": 126.92706,
+  "updated_at": "2026-07-25T14:06:02.852440",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1234,
     1181,
     1132,
     1046,
@@ -34,5 +35,5 @@
     431
   ],
   "first_prize_count": 0,
-  "second_prize_count": 17
+  "second_prize_count": 18
 }

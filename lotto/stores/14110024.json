@@ -1,7 +1,7 @@
 {
   "store_id": "14110024",
   "name": "황금당",
-  "address": "경기 부천시  원종로 37 ",
+  "address": "경기 부천시 오정구 소사로 759  ",
   "province": "경기",
   "city": "부천시",
   "phone": "032-674-8984",
@@ -11,16 +11,17 @@
     "speetto"
   ],
   "latitude": 37.523882,
-  "longitude": 126.804558,
-  "updated_at": "2026-03-05T23:58:25.751596",
+  "longitude": 126.80455,
+  "updated_at": "2026-07-25T14:06:02.859896",
   "first_prize_draws": [
     1154
   ],
   "second_prize_draws": [
+    1234,
     1049,
     983,
     654
   ],
   "first_prize_count": 1,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }
