@@ -1,7 +1,7 @@
 {
   "store_id": "11140802",
   "name": "행운이있는 복권방",
-  "address": "서울 광진구  군자로 173 1층",
+  "address": "서울 광진구 군자로 173 1층  ",
   "province": "서울",
   "city": "광진구",
   "phone": null,
@@ -11,15 +11,16 @@
     "speetto"
   ],
   "latitude": 37.556248,
-  "longitude": 127.077558,
-  "updated_at": "2026-03-05T23:57:37.952955",
+  "longitude": 127.07755,
+  "updated_at": "2026-08-01T14:01:22.020290",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1235,
     1148,
     1099,
     1092,
     1075
   ],
   "first_prize_count": 0,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }

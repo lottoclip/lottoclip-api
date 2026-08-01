@@ -1,7 +1,7 @@
 {
   "store_id": "14630017",
   "name": "기찬복권방",
-  "address": "전남 영암군  삼호중앙로 203 1층",
+  "address": "전남광주 영암군 삼호중앙로 203 1층  ",
   "province": "전남",
   "city": "영암군",
   "phone": "061-471-1420",
@@ -10,18 +10,19 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 34.745523,
-  "longitude": 126.472973,
-  "updated_at": "2026-03-05T23:57:38.371381",
+  "latitude": 34.745535,
+  "longitude": 126.47298,
+  "updated_at": "2026-08-01T14:01:22.035223",
   "first_prize_draws": [
     851
   ],
   "second_prize_draws": [
+    1235,
     1148,
     1099,
     925,
     841
   ],
   "first_prize_count": 1,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }

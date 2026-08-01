@@ -1,7 +1,7 @@
 {
   "store_id": "12990039",
   "name": "줄리아나마트",
-  "address": "광주 동구  충장로 73 1층 줄리아나마트",
+  "address": "전남광주 동구 충장로 73 1층 줄리아나마트  ",
   "province": "광주",
   "city": "동구",
   "phone": "062-234-3658",
@@ -12,11 +12,13 @@
   ],
   "latitude": 35.148796,
   "longitude": 126.915664,
-  "updated_at": "2026-03-05T23:46:59.549724",
-  "first_prize_draws": [],
+  "updated_at": "2026-08-01T14:01:22.025872",
+  "first_prize_draws": [
+    1235
+  ],
   "second_prize_draws": [
     948
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 1
 }

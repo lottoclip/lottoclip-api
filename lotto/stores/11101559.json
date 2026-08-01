@@ -1,7 +1,7 @@
 {
   "store_id": "11101559",
   "name": "현대서점",
-  "address": "서울 동작구 대방동 502 103동 2호",
+  "address": "서울 동작구 등용로 127 103동 2호  ",
   "province": "서울",
   "city": "동작구",
   "phone": "02-814-9389",
@@ -12,16 +12,17 @@
   ],
   "latitude": 37.513,
   "longitude": 126.931,
-  "updated_at": "2026-03-05T23:36:25.830316",
+  "updated_at": "2026-08-01T14:01:22.019444",
   "first_prize_draws": [
     554,
     385
   ],
   "second_prize_draws": [
+    1235,
     740,
     684,
     640
   ],
   "first_prize_count": 2,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

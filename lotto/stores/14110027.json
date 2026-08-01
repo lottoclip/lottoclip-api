@@ -1,7 +1,7 @@
 {
   "store_id": "14110027",
   "name": "행운 아이스크림 로또 판매점",
-  "address": "경기 부천시  부일로 434-1 1층",
+  "address": "경기 부천시 부일로 434-1 1층  ",
   "province": "경기",
   "city": "부천시",
   "phone": "032-667-6001",
@@ -10,10 +10,11 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.486342,
-  "longitude": 126.778366,
-  "updated_at": "2026-03-05T23:57:08.044576",
+  "latitude": 37.486341,
+  "longitude": 126.77836,
+  "updated_at": "2026-08-01T14:01:22.030704",
   "first_prize_draws": [
+    1235,
     1000
   ],
   "second_prize_draws": [
@@ -23,6 +24,6 @@
     522,
     415
   ],
-  "first_prize_count": 1,
+  "first_prize_count": 2,
   "second_prize_count": 5
 }

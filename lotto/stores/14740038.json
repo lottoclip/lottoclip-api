@@ -1,7 +1,7 @@
 {
   "store_id": "14740038",
-  "name": "로또카페",
-  "address": "경북 김천시  혁신4로 1 ",
+  "name": "아포중앙로또",
+  "address": "경북 김천시 국사길 202  ",
   "province": "경북",
   "city": "김천시",
   "phone": null,
@@ -12,13 +12,14 @@
   ],
   "latitude": 36.160661,
   "longitude": 128.25968,
-  "updated_at": "2026-03-05T23:59:08.312147",
+  "updated_at": "2026-08-01T14:01:22.036147",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1235,
     1169,
     1080,
     988
   ],
   "first_prize_count": 0,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

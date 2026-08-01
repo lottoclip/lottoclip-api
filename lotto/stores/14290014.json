@@ -1,7 +1,7 @@
 {
   "store_id": "14290014",
   "name": "진평양행",
-  "address": "강원 강릉시 임영로 107  ",
+  "address": "강원 강릉시 임영로 107 1층  ",
   "province": "강원",
   "city": "강릉시",
   "phone": "033-646-1384",
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.751261,
-  "longitude": 128.894075,
-  "updated_at": "2026-03-07T14:13:23.501171",
+  "latitude": 37.751254,
+  "longitude": 128.89409,
+  "updated_at": "2026-08-01T14:01:22.031674",
   "first_prize_draws": [
     1203,
     1199,
@@ -23,6 +23,7 @@
     895
   ],
   "second_prize_draws": [
+    1235,
     1214,
     1212,
     1175,
@@ -66,5 +67,5 @@
     282
   ],
   "first_prize_count": 7,
-  "second_prize_count": 41
+  "second_prize_count": 42
 }

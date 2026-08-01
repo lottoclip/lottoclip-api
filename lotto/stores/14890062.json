@@ -1,7 +1,7 @@
 {
   "store_id": "14890062",
   "name": "코리아슈퍼",
-  "address": "경남 통영시  안개로 42 수아지오아파트 상가1층 103호",
+  "address": "경남 통영시 안개로 42 상가1층 103호  ",
   "province": "경남",
   "city": "통영시",
   "phone": "055-644-6362",
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 34.859119,
-  "longitude": 128.431226,
-  "updated_at": "2026-03-05T23:55:36.918360",
+  "latitude": 34.859094,
+  "longitude": 128.43119,
+  "updated_at": "2026-08-01T14:01:22.036840",
   "first_prize_draws": [
     886,
     361,
     344
   ],
   "second_prize_draws": [
+    1235,
     1106,
     1088,
     996,
@@ -33,5 +34,5 @@
     533
   ],
   "first_prize_count": 3,
-  "second_prize_count": 12
+  "second_prize_count": 13
 }

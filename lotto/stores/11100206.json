@@ -1,7 +1,7 @@
 {
   "store_id": "11100206",
   "name": "복권마트",
-  "address": "서울 서대문구  세검정로 31 ",
+  "address": "서울 서대문구 세검정로 31  ",
   "province": "서울",
   "city": "서대문구",
   "phone": "02-396-9195",
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.591907,
-  "longitude": 126.944885,
-  "updated_at": "2026-03-05T23:57:55.512315",
+  "latitude": 37.591951,
+  "longitude": 126.94492,
+  "updated_at": "2026-08-01T14:01:22.019206",
   "first_prize_draws": [
     865
   ],
   "second_prize_draws": [
+    1235,
     1149,
     1061,
     673,
@@ -27,5 +28,5 @@
     328
   ],
   "first_prize_count": 1,
-  "second_prize_count": 8
+  "second_prize_count": 9
 }

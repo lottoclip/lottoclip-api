@@ -1,7 +1,7 @@
 {
   "store_id": "14190231",
   "name": "운정대박마트 복권",
-  "address": "경기 파주시  가람로 20 가람마을1단지 벽산한라아파트상가102호",
+  "address": "경기 파주시 가람로 20 가람마을1단지 벽산한라아파트상가102호  ",
   "province": "경기",
   "city": "파주시",
   "phone": "070-8163-0022",
@@ -10,11 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.73303,
-  "longitude": 126.75377,
-  "updated_at": "2026-03-06T00:00:37.705028",
+  "latitude": 37.733693,
+  "longitude": 126.75229,
+  "updated_at": "2026-08-01T14:01:22.027437",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1235,
     1195,
     1188,
     1174,
@@ -35,5 +36,5 @@
     597
   ],
   "first_prize_count": 0,
-  "second_prize_count": 18
+  "second_prize_count": 19
 }

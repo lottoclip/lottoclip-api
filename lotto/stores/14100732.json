@@ -1,7 +1,7 @@
 {
   "store_id": "14100732",
   "name": "홈돌이로또복권",
-  "address": "경기 김포시  중봉로 14 삼성홈플러스2층",
+  "address": "경기 김포시 중봉로 14 삼성홈플러스2층  ",
   "province": "경기",
   "city": "김포시",
   "phone": "031-999-8082",
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.623865,
-  "longitude": 126.698634,
-  "updated_at": "2026-03-06T00:00:31.501421",
+  "latitude": 37.624003,
+  "longitude": 126.69802,
+  "updated_at": "2026-08-01T14:01:22.031195",
   "first_prize_draws": [
     997,
     960,
@@ -21,6 +21,7 @@
     619
   ],
   "second_prize_draws": [
+    1235,
     1193,
     1143,
     1142,
@@ -40,5 +41,5 @@
     321
   ],
   "first_prize_count": 5,
-  "second_prize_count": 17
+  "second_prize_count": 18
 }

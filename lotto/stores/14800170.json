@@ -1,7 +1,7 @@
 {
   "store_id": "14800170",
   "name": "경일통신",
-  "address": "경남 창원시 마산회원구  북성로 340 ",
+  "address": "경남 창원시 마산회원구 북성로 340  ",
   "province": "경남",
   "city": "창원시",
   "phone": "055-251-6500",
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.233823,
-  "longitude": 128.56064,
-  "updated_at": "2026-03-05T23:58:40.018837",
+  "latitude": 35.233815,
+  "longitude": 128.5606,
+  "updated_at": "2026-08-01T14:01:22.037094",
   "first_prize_draws": [
     1159,
     949,
@@ -21,6 +21,7 @@
     386
   ],
   "second_prize_draws": [
+    1235,
     1084,
     1043,
     967,
@@ -36,5 +37,5 @@
     266
   ],
   "first_prize_count": 5,
-  "second_prize_count": 13
+  "second_prize_count": 14
 }

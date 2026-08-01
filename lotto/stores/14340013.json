@@ -1,7 +1,7 @@
 {
   "store_id": "14340013",
   "name": "로또다 로또",
-  "address": "충북 청주시 청원구  2산단1로 14 편의점",
+  "address": "충북 청주시 청원구 2산단1로 14 편의점  ",
   "province": "충북",
   "city": "청주시",
   "phone": "043-211-1179",
@@ -12,14 +12,15 @@
   ],
   "latitude": 36.731723,
   "longitude": 127.450472,
-  "updated_at": "2026-03-06T00:00:43.400374",
+  "updated_at": "2026-08-01T14:01:22.033425",
   "first_prize_draws": [
     742
   ],
   "second_prize_draws": [
+    1235,
     1197,
     1067
   ],
   "first_prize_count": 1,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "12610173",
   "name": "롯데무역",
-  "address": "부산 영도구  꿈나무길 197 1층 복권방",
+  "address": "부산 영도구 꿈나무길 197 1층 복권방  ",
   "province": "부산",
   "city": "영도구",
   "phone": null,
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.087285,
-  "longitude": 129.04375,
-  "updated_at": "2026-03-05T23:59:43.110129",
+  "latitude": 35.087282,
+  "longitude": 129.04372,
+  "updated_at": "2026-08-01T14:01:22.021048",
   "first_prize_draws": [
     1153,
     1130,
@@ -20,6 +20,7 @@
     918
   ],
   "second_prize_draws": [
+    1235,
     1176,
     1076,
     1010,
@@ -29,5 +30,5 @@
     448
   ],
   "first_prize_count": 4,
-  "second_prize_count": 7
+  "second_prize_count": 8
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "12610197",
   "name": "복권방",
-  "address": "부산 사상구  백양대로 430 2동 111호",
+  "address": "부산 사상구 백양대로 430 2동 111호  ",
   "province": "부산",
   "city": "사상구",
   "phone": null,
@@ -10,11 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.153198,
-  "longitude": 129.004424,
-  "updated_at": "2026-03-05T23:57:10.509881",
+  "latitude": 35.152686,
+  "longitude": 129.00497,
+  "updated_at": "2026-08-01T14:01:22.021767",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1235,
     1138,
     1103,
     1057,
@@ -26,5 +27,5 @@
     558
   ],
   "first_prize_count": 0,
-  "second_prize_count": 9
+  "second_prize_count": 10
 }

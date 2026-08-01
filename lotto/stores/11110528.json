@@ -1,7 +1,7 @@
 {
   "store_id": "11110528",
   "name": "씨스페이스 역촌점",
-  "address": "서울 은평구  갈현로 88 1층 우측 두번째 점포",
+  "address": "서울 은평구 갈현로 88 1층 우측 두번째 점포  ",
   "province": "서울",
   "city": "은평구",
   "phone": "02-351-9810",
@@ -10,14 +10,15 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.605751,
-  "longitude": 126.910725,
-  "updated_at": "2026-03-06T00:00:31.121740",
+  "latitude": 37.605619,
+  "longitude": 126.91074,
+  "updated_at": "2026-08-01T14:01:22.016329",
   "first_prize_draws": [
     831,
     474
   ],
   "second_prize_draws": [
+    1235,
     1193,
     1058,
     956,
@@ -26,5 +27,5 @@
     387
   ],
   "first_prize_count": 2,
-  "second_prize_count": 6
+  "second_prize_count": 7
 }

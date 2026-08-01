@@ -1,7 +1,7 @@
 {
   "store_id": "11100244",
   "name": "복권나라",
-  "address": "서울 관악구  남부순환로 1739-9 ",
+  "address": "서울 관악구 남부순환로 1739-9 1층  ",
   "province": "서울",
   "city": "관악구",
   "phone": "02-889-1355",
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.482788,
-  "longitude": 126.943475,
-  "updated_at": "2026-03-05T23:59:10.552156",
+  "latitude": 37.482804,
+  "longitude": 126.9435,
+  "updated_at": "2026-08-01T14:01:22.020522",
   "first_prize_draws": [
     1167,
     1163,
@@ -27,6 +27,7 @@
     378
   ],
   "second_prize_draws": [
+    1235,
     1170,
     1156,
     1083,
@@ -66,5 +67,5 @@
     271
   ],
   "first_prize_count": 11,
-  "second_prize_count": 37
+  "second_prize_count": 38
 }

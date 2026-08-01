@@ -1,7 +1,7 @@
 {
   "store_id": "13040109",
   "name": "진 복권판매점",
-  "address": "대전 서구  계백로1286번길 32 ",
+  "address": "대전 서구 계백로1286번길 32  ",
   "province": "대전",
   "city": "서구",
   "phone": null,
@@ -11,12 +11,13 @@
     "speetto"
   ],
   "latitude": 36.306578,
-  "longitude": 127.366165,
-  "updated_at": "2026-03-05T23:55:56.393642",
+  "longitude": 127.36616,
+  "updated_at": "2026-08-01T14:01:22.026349",
   "first_prize_draws": [
+    1235,
     1113
   ],
   "second_prize_draws": [],
-  "first_prize_count": 1,
+  "first_prize_count": 2,
   "second_prize_count": 0
 }
