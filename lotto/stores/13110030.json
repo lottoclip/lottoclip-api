@@ -1,7 +1,7 @@
 {
   "store_id": "13110030",
   "name": "복받는복권방",
-  "address": "울산 중구  중앙길 77-1 ",
+  "address": "울산 중구 중앙길 77-1  ",
   "province": "울산",
   "city": "중구",
   "phone": "052-246-2442",
@@ -10,18 +10,19 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.555425,
-  "longitude": 129.317998,
-  "updated_at": "2026-03-05T23:59:48.634862",
+  "latitude": 35.555294,
+  "longitude": 129.31789,
+  "updated_at": "2026-08-08T14:20:14.244919",
   "first_prize_draws": [
     774
   ],
   "second_prize_draws": [
+    1236,
     1178,
     853,
     620,
     485
   ],
   "first_prize_count": 1,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }

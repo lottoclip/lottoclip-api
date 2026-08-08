@@ -1,7 +1,7 @@
 {
   "store_id": "14240153",
   "name": "떡두꺼비복권방",
-  "address": "강원 원주시  원문로 641 1층",
+  "address": "강원 원주시 원문로 641 1층  ",
   "province": "강원",
   "city": "원주시",
   "phone": null,
@@ -10,18 +10,19 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.353002,
-  "longitude": 127.899531,
-  "updated_at": "2026-03-06T00:00:45.970316",
+  "latitude": 37.353057,
+  "longitude": 127.89957,
+  "updated_at": "2026-08-08T14:20:14.252303",
   "first_prize_draws": [
     1080
   ],
   "second_prize_draws": [
+    1236,
     1198,
     1192,
     1063,
     1048
   ],
   "first_prize_count": 1,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }

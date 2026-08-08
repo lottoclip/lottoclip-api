@@ -1,7 +1,7 @@
 {
   "store_id": "13090040",
   "name": "대일슈퍼",
-  "address": "대전 서구  월평중로24번길 48 ",
+  "address": "대전 서구 월평중로24번길 48  ",
   "province": "대전",
   "city": "서구",
   "phone": "042-486-2710",
@@ -10,10 +10,11 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 36.35651,
-  "longitude": 127.366513,
-  "updated_at": "2026-03-05T23:56:59.219832",
+  "latitude": 36.356517,
+  "longitude": 127.36651,
+  "updated_at": "2026-08-08T14:20:14.244437",
   "first_prize_draws": [
+    1236,
     872,
     840
   ],
@@ -22,6 +23,6 @@
     737,
     605
   ],
-  "first_prize_count": 2,
+  "first_prize_count": 3,
   "second_prize_count": 3
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "13000093",
   "name": "태양마트",
-  "address": "대전 유성구  노은로 157 골드프라자 106호",
+  "address": "대전 유성구 노은로 157 골드프라자 106호  ",
   "province": "대전",
   "city": "유성구",
   "phone": "042-477-6236",
@@ -11,14 +11,15 @@
     "speetto"
   ],
   "latitude": 36.373706,
-  "longitude": 127.317372,
-  "updated_at": "2026-03-05T23:59:10.720343",
+  "longitude": 127.31737,
+  "updated_at": "2026-08-08T14:20:14.244188",
   "first_prize_draws": [
     877,
     789,
     620
   ],
   "second_prize_draws": [
+    1236,
     1170,
     1162,
     1161,
@@ -46,5 +47,5 @@
     334
   ],
   "first_prize_count": 3,
-  "second_prize_count": 25
+  "second_prize_count": 26
 }

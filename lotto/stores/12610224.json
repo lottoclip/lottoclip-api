@@ -1,7 +1,7 @@
 {
   "store_id": "12610224",
   "name": "대박유통",
-  "address": "부산 중구  구덕로 80 1층",
+  "address": "부산 중구 구덕로 80 1층  ",
   "province": "부산",
   "city": "중구",
   "phone": null,
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.097703,
-  "longitude": 129.027162,
-  "updated_at": "2026-03-05T23:56:53.705336",
+  "latitude": 35.097755,
+  "longitude": 129.02711,
+  "updated_at": "2026-08-08T14:20:14.240194",
   "first_prize_draws": [
     1099,
     979,
@@ -20,6 +20,7 @@
     504
   ],
   "second_prize_draws": [
+    1236,
     1132,
     1109,
     1070,
@@ -35,5 +36,5 @@
     475
   ],
   "first_prize_count": 4,
-  "second_prize_count": 13
+  "second_prize_count": 14
 }

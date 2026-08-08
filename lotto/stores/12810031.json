@@ -1,20 +1,21 @@
 {
   "store_id": "12810031",
   "name": "김영로또",
-  "address": "인천 옹진군  영흥북로 3 105호",
+  "address": "인천 옹진군 영흥북로 3 105호  ",
   "province": "인천",
   "city": "옹진군",
   "phone": "032-886-0523",
   "lottery_types": [
     "lotto645"
   ],
-  "latitude": 37.25634,
-  "longitude": 126.49667,
-  "updated_at": "2026-03-05T23:57:07.693291",
+  "latitude": 37.256472,
+  "longitude": 126.49672,
+  "updated_at": "2026-08-08T14:20:14.242552",
   "first_prize_draws": [
     332
   ],
   "second_prize_draws": [
+    1236,
     1137,
     923,
     577,
@@ -23,5 +24,5 @@
     356
   ],
   "first_prize_count": 1,
-  "second_prize_count": 6
+  "second_prize_count": 7
 }

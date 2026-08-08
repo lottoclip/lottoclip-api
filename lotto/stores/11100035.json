@@ -1,7 +1,7 @@
 {
   "store_id": "11100035",
   "name": "노다지복권방",
-  "address": "서울 서초구  남부순환로356길 26 1층",
+  "address": "서울 서초구 남부순환로356길 26 1층  ",
   "province": "서울",
   "city": "서초구",
   "phone": "02-3471-9957",
@@ -12,13 +12,14 @@
   ],
   "latitude": 37.483728,
   "longitude": 127.037843,
-  "updated_at": "2026-03-05T23:58:22.573618",
+  "updated_at": "2026-08-08T14:20:14.236320",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1236,
     1153,
     935,
     790
   ],
   "first_prize_count": 0,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14800071",
   "name": "오도르캔들",
-  "address": "경남 창원시 의창구  명지로63번길 2 ",
+  "address": "경남 창원시 의창구 명지로63번길 2  ",
   "province": "경남",
   "city": "창원시",
   "phone": "055-252-4458",
@@ -10,11 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.250429,
-  "longitude": 128.646083,
-  "updated_at": "2026-03-05T23:55:56.620714",
+  "latitude": 35.250413,
+  "longitude": 128.64604,
+  "updated_at": "2026-08-08T14:20:14.258126",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1236,
     1113,
     840,
     815,
@@ -24,5 +25,5 @@
     338
   ],
   "first_prize_count": 0,
-  "second_prize_count": 7
+  "second_prize_count": 8
 }

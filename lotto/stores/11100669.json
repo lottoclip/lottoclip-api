@@ -1,7 +1,7 @@
 {
   "store_id": "11100669",
   "name": "혜성슈퍼",
-  "address": "서울 관악구 호암로24길 42  ",
+  "address": "서울 관악구 호암로24길 42 1층  ",
   "province": "서울",
   "city": "관악구",
   "phone": "02-877-5707",
@@ -10,11 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.469404,
-  "longitude": 126.935433,
-  "updated_at": "2026-03-06T00:01:18.792935",
+  "latitude": 37.469414,
+  "longitude": 126.93546,
+  "updated_at": "2026-08-08T14:20:14.239199",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1236,
     1210,
     1173,
     1168,
@@ -29,5 +30,5 @@
     402
   ],
   "first_prize_count": 0,
-  "second_prize_count": 12
+  "second_prize_count": 13
 }

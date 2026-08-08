@@ -1,7 +1,7 @@
 {
   "store_id": "14100340",
   "name": "월드컵",
-  "address": "경기 수원시 팔달구  월드컵로 299-1 ",
+  "address": "경기 수원시 팔달구 월드컵로 299-1  ",
   "province": "경기",
   "city": "수원시",
   "phone": "031-256-6883",
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.285312,
-  "longitude": 127.035053,
-  "updated_at": "2026-03-06T00:00:53.864595",
+  "latitude": 37.285326,
+  "longitude": 127.0351,
+  "updated_at": "2026-08-08T14:20:14.248933",
   "first_prize_draws": [
     885,
     800,
     337
   ],
   "second_prize_draws": [
+    1236,
     1201,
     1105,
     972,
@@ -28,5 +29,5 @@
     621
   ],
   "first_prize_count": 3,
-  "second_prize_count": 7
+  "second_prize_count": 8
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "13140022",
   "name": "진승복권방",
-  "address": "울산 울주군  신온4길 3-16 ",
+  "address": "울산 울주군 신온4길 3-16  ",
   "province": "울산",
   "city": "울주군",
   "phone": null,
@@ -10,10 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.431037,
-  "longitude": 129.309338,
-  "updated_at": "2026-03-06T00:00:43.169771",
-  "first_prize_draws": [],
+  "latitude": 35.431007,
+  "longitude": 129.30931,
+  "updated_at": "2026-08-08T14:20:14.245154",
+  "first_prize_draws": [
+    1236
+  ],
   "second_prize_draws": [
     1197,
     1183,
@@ -21,6 +23,6 @@
     994,
     920
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 5
 }

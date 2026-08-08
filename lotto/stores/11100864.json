@@ -1,7 +1,7 @@
 {
   "store_id": "11100864",
   "name": "선릉가판점",
-  "address": "서울 강남구  선릉로 519 삼능빌딩 ",
+  "address": "서울 강남구 선릉로 519  ",
   "province": "서울",
   "city": "강남구",
   "phone": "02-557-3866",
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.505876,
-  "longitude": 127.048007,
-  "updated_at": "2026-03-05T23:53:50.172831",
+  "latitude": 37.505872,
+  "longitude": 127.048,
+  "updated_at": "2026-08-08T14:20:14.240002",
   "first_prize_draws": [
     354
   ],
   "second_prize_draws": [
+    1236,
     1069,
     784,
     667,
@@ -26,5 +27,5 @@
     415
   ],
   "first_prize_count": 1,
-  "second_prize_count": 7
+  "second_prize_count": 8
 }

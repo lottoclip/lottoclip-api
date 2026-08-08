@@ -1,7 +1,7 @@
 {
   "store_id": "13100082",
   "name": "수암완구",
-  "address": "울산 남구  수암로 118 ",
+  "address": "울산 남구 수암로 118  ",
   "province": "울산",
   "city": "남구",
   "phone": "052-275-6832",
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.528092,
-  "longitude": 129.320212,
-  "updated_at": "2026-03-05T23:59:07.851311",
+  "latitude": 35.528076,
+  "longitude": 129.32019,
+  "updated_at": "2026-08-08T14:20:14.245631",
   "first_prize_draws": [
     880
   ],
   "second_prize_draws": [
+    1236,
     1169,
     1097,
     1068,
@@ -40,5 +41,5 @@
     327
   ],
   "first_prize_count": 1,
-  "second_prize_count": 21
+  "second_prize_count": 22
 }

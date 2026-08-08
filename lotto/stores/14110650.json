@@ -1,7 +1,7 @@
 {
   "store_id": "14110650",
   "name": "복권방",
-  "address": "경기 수원시 팔달구  권광로 213 ",
+  "address": "경기 수원시 팔달구 권광로 213  ",
   "province": "경기",
   "city": "수원시",
   "phone": "031-239-0128",
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.266621,
-  "longitude": 127.033202,
-  "updated_at": "2026-03-05T23:59:20.078224",
+  "latitude": 37.26658,
+  "longitude": 127.03345,
+  "updated_at": "2026-08-08T14:20:14.249317",
   "first_prize_draws": [
     1079,
     999,
@@ -20,6 +20,7 @@
     669
   ],
   "second_prize_draws": [
+    1236,
     1173,
     1171,
     1132,
@@ -36,5 +37,5 @@
     453
   ],
   "first_prize_count": 4,
-  "second_prize_count": 14
+  "second_prize_count": 15
 }

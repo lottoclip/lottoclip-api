@@ -1,7 +1,7 @@
 {
   "store_id": "14340239",
   "name": "로또판매 행운점",
-  "address": "충북 청주시 청원구  충청대로 97 ",
+  "address": "충북 청주시 청원구 충청대로 97  ",
   "province": "충북",
   "city": "청주시",
   "phone": null,
@@ -12,13 +12,14 @@
   ],
   "latitude": 36.665315,
   "longitude": 127.492956,
-  "updated_at": "2026-03-05T23:59:43.528880",
+  "updated_at": "2026-08-08T14:20:14.253353",
   "first_prize_draws": [
     1140
   ],
   "second_prize_draws": [
+    1236,
     1176
   ],
   "first_prize_count": 1,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

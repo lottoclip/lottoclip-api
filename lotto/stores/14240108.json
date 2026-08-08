@@ -1,7 +1,7 @@
 {
   "store_id": "14240108",
   "name": "예지몽 로또",
-  "address": "강원 원주시  남원로 272 1층",
+  "address": "강원 원주시 남원로 272 1층  ",
   "province": "강원",
   "city": "원주시",
   "phone": null,
@@ -10,17 +10,18 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.312872,
-  "longitude": 127.932368,
-  "updated_at": "2026-03-06T00:00:22.583773",
+  "latitude": 37.312842,
+  "longitude": 127.93239,
+  "updated_at": "2026-08-08T14:20:14.252072",
   "first_prize_draws": [
     1126
   ],
   "second_prize_draws": [
+    1236,
     1190,
     1073,
     996
   ],
   "first_prize_count": 1,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14590037",
   "name": "황금복권마트",
-  "address": "전북 전주시 덕진구  솔내로 148 ",
+  "address": "전북 전주시 덕진구 솔내로 148  ",
   "province": "전북",
   "city": "전주시",
   "phone": "063-276-9888",
@@ -10,10 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.86334,
-  "longitude": 127.127326,
-  "updated_at": "2026-03-05T23:56:54.022443",
-  "first_prize_draws": [],
+  "latitude": 35.863334,
+  "longitude": 127.12733,
+  "updated_at": "2026-08-08T14:20:14.255185",
+  "first_prize_draws": [
+    1236
+  ],
   "second_prize_draws": [
     1132,
     1002,
@@ -24,6 +26,6 @@
     363,
     327
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 8
 }

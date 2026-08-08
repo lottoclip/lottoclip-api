@@ -1,7 +1,7 @@
 {
   "store_id": "12840099",
   "name": "무지개로또방",
-  "address": "인천 계양구  양지로 30 102호",
+  "address": "인천 계양구 양지로 30 102호  ",
   "province": "인천",
   "city": "계양구",
   "phone": null,
@@ -10,18 +10,19 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.56159,
-  "longitude": 126.755388,
-  "updated_at": "2026-03-05T23:58:56.616315",
+  "latitude": 37.561402,
+  "longitude": 126.75538,
+  "updated_at": "2026-08-08T14:20:14.243206",
   "first_prize_draws": [
     1059
   ],
   "second_prize_draws": [
+    1236,
     1165,
     1065,
     959,
     935
   ],
   "first_prize_count": 1,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }

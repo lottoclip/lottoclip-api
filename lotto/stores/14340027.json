@@ -1,7 +1,7 @@
 {
   "store_id": "14340027",
   "name": "혁신대박",
-  "address": "충북 음성군  원중로 1434 103호(에스타워)",
+  "address": "충북 음성군 원중로 1434 103호(에스타워)  ",
   "province": "충북",
   "city": "음성군",
   "phone": null,
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 36.909523,
-  "longitude": 127.541078,
-  "updated_at": "2026-03-05T23:58:20.260099",
+  "latitude": 36.909505,
+  "longitude": 127.54107,
+  "updated_at": "2026-08-08T14:20:14.253583",
   "first_prize_draws": [
     1152,
     1086,
     952
   ],
   "second_prize_draws": [
+    1236,
     1106,
     1017,
     1011,
@@ -27,5 +28,5 @@
     866
   ],
   "first_prize_count": 3,
-  "second_prize_count": 6
+  "second_prize_count": 7
 }

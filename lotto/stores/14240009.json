@@ -1,7 +1,7 @@
 {
   "store_id": "14240009",
   "name": "부경로또방",
-  "address": "강원 동해시  효자남길 4 나동 1층 105호",
+  "address": "강원 동해시 효자남길 4 나동 1층 105호  ",
   "province": "강원",
   "city": "동해시",
   "phone": null,
@@ -10,11 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.486628,
-  "longitude": 129.108546,
-  "updated_at": "2026-03-06T00:00:13.529809",
+  "latitude": 37.486539,
+  "longitude": 129.10857,
+  "updated_at": "2026-08-08T14:20:14.253118",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1236,
     1187,
     1105,
     1015,
@@ -22,5 +23,5 @@
     781
   ],
   "first_prize_count": 0,
-  "second_prize_count": 5
+  "second_prize_count": 6
 }

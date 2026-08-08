@@ -1,7 +1,7 @@
 {
   "store_id": "14141694",
   "name": "황금알 복권",
-  "address": "경기 광명시  안현로 52 1층 9호(하안동 중앙상가)",
+  "address": "경기 광명시 안현로 52 1층 9호(하안동 중앙상가)  ",
   "province": "경기",
   "city": "광명시",
   "phone": null,
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.465564,
-  "longitude": 126.877459,
-  "updated_at": "2026-03-05T23:53:59.055918",
+  "latitude": 37.465569,
+  "longitude": 126.87748,
+  "updated_at": "2026-08-08T14:20:14.251070",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1236,
     1072,
     1055,
     1044
   ],
   "first_prize_count": 0,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }
