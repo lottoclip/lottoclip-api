@@ -1,7 +1,7 @@
 {
   "store_id": "14940049",
   "name": "노형로또마트",
-  "address": "제주 제주시  수덕로 6 ",
+  "address": "제주 제주시 수덕로 6  ",
   "province": "제주",
   "city": "제주시",
   "phone": null,
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 33.488562,
-  "longitude": 126.47531,
-  "updated_at": "2026-03-05T23:56:56.596526",
+  "latitude": 33.488664,
+  "longitude": 126.4753,
+  "updated_at": "2026-08-15T13:02:40.583925",
   "first_prize_draws": [
     1008
   ],
   "second_prize_draws": [
+    1237,
     1133,
     1129,
     1108,
@@ -26,5 +27,5 @@
     1007
   ],
   "first_prize_count": 1,
-  "second_prize_count": 7
+  "second_prize_count": 8
 }

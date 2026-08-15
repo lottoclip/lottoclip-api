@@ -1,7 +1,7 @@
 {
   "store_id": "14840200",
   "name": "리이지복권",
-  "address": "경남 창원시 성산구  동산로 156 1층 14호 삼익종합상가",
+  "address": "경남 창원시 성산구 동산로 156 1층 14호 삼익종합상가  ",
   "province": "경남",
   "city": "창원시",
   "phone": null,
@@ -10,14 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.221812,
-  "longitude": 128.693432,
-  "updated_at": "2026-03-05T23:52:53.462122",
-  "first_prize_draws": [],
+  "latitude": 35.221658,
+  "longitude": 128.69341,
+  "updated_at": "2026-08-15T13:02:40.582630",
+  "first_prize_draws": [
+    1237
+  ],
   "second_prize_draws": [
     1051,
     956
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 2
 }

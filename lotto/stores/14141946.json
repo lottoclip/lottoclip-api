@@ -1,7 +1,7 @@
 {
   "store_id": "14141946",
   "name": "상신복권판매점&셀프카페",
-  "address": "경기 화성시  신광길 21 102호",
+  "address": "경기 화성시 만세구 신광길 21 102호  ",
   "province": "경기",
   "city": "화성시",
   "phone": null,
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.104303,
-  "longitude": 126.903257,
-  "updated_at": "2026-03-05T23:57:07.784354",
+  "latitude": 37.104243,
+  "longitude": 126.90308,
+  "updated_at": "2026-08-15T13:02:40.572826",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1237,
     1137
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14300029",
   "name": "럭키뱅크복권방",
-  "address": "충북 청주시 서원구  청남로 2092-1 ",
+  "address": "충북 청주시 서원구 청남로 2092-1  ",
   "province": "충북",
   "city": "청주시",
   "phone": "043-288-2628",
@@ -10,10 +10,11 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 36.618839,
-  "longitude": 127.487292,
-  "updated_at": "2026-03-06T00:00:16.425661",
+  "latitude": 36.618842,
+  "longitude": 127.48728,
+  "updated_at": "2026-08-15T13:02:40.578430",
   "first_prize_draws": [
+    1237,
     474
   ],
   "second_prize_draws": [
@@ -24,6 +25,6 @@
     881,
     634
   ],
-  "first_prize_count": 1,
+  "first_prize_count": 2,
   "second_prize_count": 6
 }

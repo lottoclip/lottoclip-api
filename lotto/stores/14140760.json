@@ -1,7 +1,7 @@
 {
   "store_id": "14140760",
   "name": "복돼지 복권방",
-  "address": "경기 수원시 팔달구  동말로25번길 65 1층(화서동)",
+  "address": "경기 수원시 팔달구 동말로25번길 65 1층(화서동)  ",
   "province": "경기",
   "city": "수원시",
   "phone": null,
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.280411,
-  "longitude": 126.995374,
-  "updated_at": "2026-03-05T23:51:33.830054",
+  "latitude": 37.280447,
+  "longitude": 126.99538,
+  "updated_at": "2026-08-15T13:02:40.575824",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1237,
     1030
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

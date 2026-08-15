@@ -1,7 +1,7 @@
 {
   "store_id": "14340160",
   "name": "청미보",
-  "address": "충북 청주시 상당구  단재로 2416 102호",
+  "address": "충북 청주시 상당구 단재로 2416 102호  ",
   "province": "충북",
   "city": "청주시",
   "phone": null,
@@ -12,9 +12,10 @@
   ],
   "latitude": 36.632081,
   "longitude": 127.655056,
-  "updated_at": "2026-03-06T00:00:10.861189",
+  "updated_at": "2026-08-15T13:02:40.579005",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1237,
     1186,
     1153,
     1117,
@@ -22,5 +23,5 @@
     1005
   ],
   "first_prize_count": 0,
-  "second_prize_count": 5
+  "second_prize_count": 6
 }

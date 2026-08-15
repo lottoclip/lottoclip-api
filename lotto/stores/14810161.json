@@ -1,7 +1,7 @@
 {
   "store_id": "14810161",
   "name": "로또명당",
-  "address": "경남 창원시 마산합포구  문화동13길 17 ",
+  "address": "경남 창원시 마산합포구 문화동13길 17  ",
   "province": "경남",
   "city": "창원시",
   "phone": "055-224-1506",
@@ -10,14 +10,15 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.181427,
-  "longitude": 128.559716,
-  "updated_at": "2026-03-05T23:54:11.479152",
+  "latitude": 35.181409,
+  "longitude": 128.55969,
+  "updated_at": "2026-08-15T13:02:40.583043",
   "first_prize_draws": [
     906,
     494
   ],
   "second_prize_draws": [
+    1237,
     1076,
     1057,
     1040,
@@ -33,5 +34,5 @@
     680
   ],
   "first_prize_count": 2,
-  "second_prize_count": 13
+  "second_prize_count": 14
 }

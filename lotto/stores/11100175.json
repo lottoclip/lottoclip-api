@@ -1,24 +1,25 @@
 {
   "store_id": "11100175",
-  "name": "캐논종합",
-  "address": "서울 용산구  새창로 156 3층큰길가장오른쪽네번째칸",
+  "name": "종합",
+  "address": "서울 용산구 새창로 156 3층큰길가장오른쪽네번째칸  ",
   "province": "서울",
   "city": "용산구",
-  "phone": "02-6733-8949",
+  "phone": "02-702-5546",
   "lottery_types": [
     "lotto645",
     "pension720",
     "speetto"
   ],
   "latitude": 37.533767,
-  "longitude": 126.962472,
-  "updated_at": "2026-03-06T00:00:59.280259",
+  "longitude": 126.96247,
+  "updated_at": "2026-08-15T13:02:40.563057",
   "first_prize_draws": [
     959,
     724,
     535
   ],
   "second_prize_draws": [
+    1237,
     1203,
     1171,
     1096,
@@ -40,5 +41,5 @@
     411
   ],
   "first_prize_count": 3,
-  "second_prize_count": 19
+  "second_prize_count": 20
 }

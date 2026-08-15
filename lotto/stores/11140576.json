@@ -1,7 +1,7 @@
 {
   "store_id": "11140576",
   "name": "드림",
-  "address": "서울 서대문구  증가로 247 1층",
+  "address": "서울 서대문구 증가로 247 1층  ",
   "province": "서울",
   "city": "서대문구",
   "phone": "02-6012-9898",
@@ -11,14 +11,15 @@
     "speetto"
   ],
   "latitude": 37.582941,
-  "longitude": 126.912252,
-  "updated_at": "2026-03-05T23:54:44.616358",
+  "longitude": 126.91225,
+  "updated_at": "2026-08-15T13:02:40.566297",
   "first_prize_draws": [
+    1237,
     994
   ],
   "second_prize_draws": [
     1088
   ],
-  "first_prize_count": 1,
+  "first_prize_count": 2,
   "second_prize_count": 1
 }

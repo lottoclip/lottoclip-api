@@ -1,7 +1,7 @@
 {
   "store_id": "14100311",
   "name": "스카이25",
-  "address": "경기 남양주시  미금로 26-2 ",
+  "address": "경기 남양주시 미금로 26-2  ",
   "province": "경기",
   "city": "남양주시",
   "phone": "031-566-3761",
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.607316,
-  "longitude": 127.152277,
-  "updated_at": "2026-03-06T00:00:25.681859",
+  "latitude": 37.607343,
+  "longitude": 127.15236,
+  "updated_at": "2026-08-15T13:02:40.576517",
   "first_prize_draws": [
     711
   ],
   "second_prize_draws": [
+    1237,
     1191,
     1079,
     703,
@@ -26,5 +27,5 @@
     431
   ],
   "first_prize_count": 1,
-  "second_prize_count": 7
+  "second_prize_count": 8
 }

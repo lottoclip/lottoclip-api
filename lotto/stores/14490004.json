@@ -1,7 +1,7 @@
 {
   "store_id": "14490004",
   "name": "복권명당",
-  "address": "충남 공주시  번영1로 41 ",
+  "address": "충남 공주시 번영1로 41  ",
   "province": "충남",
   "city": "공주시",
   "phone": "041-857-8252",
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 36.471832,
-  "longitude": 127.133132,
-  "updated_at": "2026-03-06T00:00:57.064796",
+  "latitude": 36.471857,
+  "longitude": 127.13309,
+  "updated_at": "2026-08-15T13:02:40.580880",
   "first_prize_draws": [
     1044,
     1012,
@@ -23,6 +23,7 @@
     270
   ],
   "second_prize_draws": [
+    1237,
     1202,
     1185,
     1174,
@@ -56,5 +57,5 @@
     456
   ],
   "first_prize_count": 7,
-  "second_prize_count": 31
+  "second_prize_count": 32
 }

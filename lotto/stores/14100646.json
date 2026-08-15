@@ -1,7 +1,7 @@
 {
   "store_id": "14100646",
   "name": "바로전산",
-  "address": "경기 광명시  오리로 1000 (광명동)",
+  "address": "경기 광명시 오리로 1000 (광명동)  ",
   "province": "경기",
   "city": "광명시",
   "phone": "02-2685-4525",
@@ -10,10 +10,11 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.480212,
-  "longitude": 126.852363,
-  "updated_at": "2026-03-06T00:00:51.278416",
+  "latitude": 37.480211,
+  "longitude": 126.85236,
+  "updated_at": "2026-08-15T13:02:40.576711",
   "first_prize_draws": [
+    1237,
     1200,
     1145,
     976,
@@ -34,6 +35,6 @@
     656,
     298
   ],
-  "first_prize_count": 5,
+  "first_prize_count": 6,
   "second_prize_count": 12
 }

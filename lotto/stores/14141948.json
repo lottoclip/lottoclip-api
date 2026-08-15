@@ -1,7 +1,7 @@
 {
   "store_id": "14141948",
-  "name": "행운나눔점(로또복권)",
-  "address": "경기 화성시  와우로 74-1 101호",
+  "name": "행운나눔점 (로또복권)",
+  "address": "경기 화성시 효행구 와우로 74-1 101호  ",
   "province": "경기",
   "city": "화성시",
   "phone": null,
@@ -10,14 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.213618,
-  "longitude": 126.973929,
-  "updated_at": "2026-03-05T23:55:39.470244",
-  "first_prize_draws": [],
+  "latitude": 37.213591,
+  "longitude": 126.97404,
+  "updated_at": "2026-08-15T13:02:40.572499",
+  "first_prize_draws": [
+    1237
+  ],
   "second_prize_draws": [
     1107,
     1057
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 2
 }

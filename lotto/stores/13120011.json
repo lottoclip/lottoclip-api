@@ -1,7 +1,7 @@
 {
   "store_id": "13120011",
   "name": "일등복권마트",
-  "address": "울산 동구  학문로 13 ",
+  "address": "울산 동구 학문로 13  ",
   "province": "울산",
   "city": "동구",
   "phone": "052-986-9429",
@@ -10,14 +10,15 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.502668,
-  "longitude": 129.427598,
-  "updated_at": "2026-03-05T23:59:59.536904",
+  "latitude": 35.502648,
+  "longitude": 129.42759,
+  "updated_at": "2026-08-15T13:02:40.572309",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1237,
     1182,
     969
   ],
   "first_prize_count": 0,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

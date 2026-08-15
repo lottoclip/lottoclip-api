@@ -1,7 +1,7 @@
 {
   "store_id": "14500053",
   "name": "운수대통복권방",
-  "address": "전북 익산시  무왕로23길 3 ",
+  "address": "전북 익산시 무왕로23길 3  ",
   "province": "전북",
   "city": "익산시",
   "phone": "063-833-0533",
@@ -10,14 +10,15 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.959702,
-  "longitude": 126.988418,
-  "updated_at": "2026-03-05T23:53:28.161308",
+  "latitude": 35.959717,
+  "longitude": 126.98842,
+  "updated_at": "2026-08-15T13:02:40.581337",
   "first_prize_draws": [
     934,
     907
   ],
   "second_prize_draws": [
+    1237,
     1061,
     975,
     954,
@@ -31,5 +32,5 @@
     358
   ],
   "first_prize_count": 2,
-  "second_prize_count": 11
+  "second_prize_count": 12
 }

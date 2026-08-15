@@ -1,23 +1,22 @@
 {
   "store_id": "14340104",
   "name": "쎄븐로또",
-  "address": "충북 청주시 청원구  청암로 106 편의점",
+  "address": "충북 청주시 청원구 청암로 106 편의점  ",
   "province": "충북",
   "city": "청주시",
   "phone": null,
   "lottery_types": [
-    "lotto645",
-    "pension720",
-    "speetto"
+    "lotto645"
   ],
-  "latitude": 36.631577,
-  "longitude": 127.490818,
-  "updated_at": "2026-03-05T23:55:56.545763",
+  "latitude": 36.724534,
+  "longitude": 127.541403,
+  "updated_at": "2026-08-15T13:02:40.578240",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1237,
     1113,
     1088
   ],
   "first_prize_count": 0,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

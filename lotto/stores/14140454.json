@@ -1,7 +1,7 @@
 {
   "store_id": "14140454",
   "name": "수리산 복권방",
-  "address": "경기 안양시 만안구  병목안로 55 1층",
+  "address": "경기 안양시 만안구 병목안로 55 1층  ",
   "province": "경기",
   "city": "안양시",
   "phone": "031-459-0888",
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.396342,
-  "longitude": 126.915896,
-  "updated_at": "2026-03-05T23:58:22.950667",
+  "latitude": 37.396333,
+  "longitude": 126.91595,
+  "updated_at": "2026-08-15T13:02:40.575057",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1237,
     1153
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

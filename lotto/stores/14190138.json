@@ -1,7 +1,7 @@
 {
   "store_id": "14190138",
   "name": "복권마당",
-  "address": "경기 연천군  전곡읍 전곡로144번길 10 1층",
+  "address": "경기 연천군 전곡로144번길 10 1층  ",
   "province": "경기",
   "city": "연천군",
   "phone": "031-832-3004",
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 38.02512,
-  "longitude": 127.069397,
-  "updated_at": "2026-03-05T23:48:50.213487",
+  "latitude": 38.025165,
+  "longitude": 127.06947,
+  "updated_at": "2026-08-15T13:02:40.574280",
   "first_prize_draws": [
     573
   ],
   "second_prize_draws": [
+    1237,
     982,
     899,
     512,
@@ -25,5 +26,5 @@
     281
   ],
   "first_prize_count": 1,
-  "second_prize_count": 6
+  "second_prize_count": 7
 }

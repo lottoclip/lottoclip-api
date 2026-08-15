@@ -1,7 +1,7 @@
 {
   "store_id": "12940010",
   "name": "대박복권방",
-  "address": "광주 북구  동배마을길 29 하늘채 118동 1층 5호 상가건물",
+  "address": "전남광주 북구 동배마을길 29 하늘채 118동 1층 5호 상가건물  ",
   "province": "광주",
   "city": "북구",
   "phone": null,
@@ -10,14 +10,15 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.180179,
-  "longitude": 126.860342,
-  "updated_at": "2026-03-06T00:00:53.756504",
+  "latitude": 35.179098,
+  "longitude": 126.86116,
+  "updated_at": "2026-08-15T13:02:40.570726",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1237,
     1201,
     925
   ],
   "first_prize_count": 0,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }
