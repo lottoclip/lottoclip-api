@@ -1,7 +1,7 @@
 {
   "store_id": "13190043",
   "name": "모닝마트학성점",
-  "address": "울산 중구  학성로 189 ",
+  "address": "울산 중구 학성로 189  ",
   "province": "울산",
   "city": "중구",
   "phone": "052-297-1273",
@@ -10,14 +10,15 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.557096,
-  "longitude": 129.331674,
-  "updated_at": "2026-03-06T00:00:59.496655",
+  "latitude": 35.556988,
+  "longitude": 129.33165,
+  "updated_at": "2026-08-22T13:04:42.592655",
   "first_prize_draws": [
     997,
     405
   ],
   "second_prize_draws": [
+    1238,
     1203,
     1120,
     1052,
@@ -26,5 +27,5 @@
     573
   ],
   "first_prize_count": 2,
-  "second_prize_count": 6
+  "second_prize_count": 7
 }

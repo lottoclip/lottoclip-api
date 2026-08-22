@@ -1,7 +1,7 @@
 {
   "store_id": "14800031",
   "name": "로또통신",
-  "address": "경남 김해시  함박로101번길 22 삼우빌딩104호 복권판매점",
+  "address": "경남 김해시 함박로101번길 22 삼우빌딩104호 복권판매점  ",
   "province": "경남",
   "city": "김해시",
   "phone": null,
@@ -12,7 +12,7 @@
   ],
   "latitude": 35.234216,
   "longitude": 128.865837,
-  "updated_at": "2026-03-06T00:00:26.036048",
+  "updated_at": "2026-08-22T13:04:42.607605",
   "first_prize_draws": [
     1185,
     1068,
@@ -21,6 +21,7 @@
     411
   ],
   "second_prize_draws": [
+    1238,
     1191,
     1183,
     1165,
@@ -38,5 +39,5 @@
     269
   ],
   "first_prize_count": 5,
-  "second_prize_count": 15
+  "second_prize_count": 16
 }

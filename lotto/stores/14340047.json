@@ -1,7 +1,7 @@
 {
   "store_id": "14340047",
   "name": "1등복권청주점",
-  "address": "충북 청주시 서원구  무심서로 509 ",
+  "address": "충북 청주시 서원구 무심서로 509  ",
   "province": "충북",
   "city": "청주시",
   "phone": null,
@@ -10,16 +10,18 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 36.636571,
-  "longitude": 127.482654,
-  "updated_at": "2026-03-05T23:56:59.463611",
-  "first_prize_draws": [],
+  "latitude": 36.636575,
+  "longitude": 127.48267,
+  "updated_at": "2026-08-22T13:04:42.601053",
+  "first_prize_draws": [
+    1238
+  ],
   "second_prize_draws": [
     1134,
     1126,
     1006,
     1000
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 4
 }

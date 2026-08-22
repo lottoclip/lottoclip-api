@@ -1,20 +1,21 @@
 {
   "store_id": "12940059",
   "name": "행운로또복권",
-  "address": "광주 북구 북문대로 19  ",
+  "address": "전남광주 북구 북문대로 19  ",
   "phone": null,
   "lottery_types": [
     "lotto645",
     "pension720",
     "speetto"
   ],
-  "latitude": 35.172964,
-  "longitude": 126.882691,
-  "updated_at": "2026-03-07T13:10:24.781076",
+  "latitude": 35.174016,
+  "longitude": 126.88271,
+  "updated_at": "2026-08-22T13:04:42.591292",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1238,
     1213
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

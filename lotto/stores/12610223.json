@@ -1,7 +1,7 @@
 {
   "store_id": "12610223",
   "name": "백금당",
-  "address": "부산 중구  중구로29번길 26 ",
+  "address": "부산 중구 중구로29번길 26  ",
   "province": "부산",
   "city": "중구",
   "phone": null,
@@ -10,10 +10,11 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.100512,
-  "longitude": 129.027307,
-  "updated_at": "2026-03-06T00:00:53.616570",
+  "latitude": 35.100521,
+  "longitude": 129.02653,
+  "updated_at": "2026-08-22T13:04:42.587988",
   "first_prize_draws": [
+    1238,
     1201,
     1086,
     549
@@ -31,6 +32,6 @@
     947,
     521
   ],
-  "first_prize_count": 3,
+  "first_prize_count": 4,
   "second_prize_count": 11
 }

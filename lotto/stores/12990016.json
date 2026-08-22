@@ -1,7 +1,7 @@
 {
   "store_id": "12990016",
   "name": "노다지복권방진월점",
-  "address": "광주 남구  서문대로 649 1층2호",
+  "address": "전남광주 남구 서문대로 649 1층2호  ",
   "province": "광주",
   "city": "남구",
   "phone": "062-674-3613",
@@ -12,11 +12,12 @@
   ],
   "latitude": 35.117505,
   "longitude": 126.898235,
-  "updated_at": "2026-03-06T00:00:59.478964",
+  "updated_at": "2026-08-22T13:04:42.591491",
   "first_prize_draws": [
     1068
   ],
   "second_prize_draws": [
+    1238,
     1203,
     1189,
     1143,
@@ -34,5 +35,5 @@
     331
   ],
   "first_prize_count": 1,
-  "second_prize_count": 15
+  "second_prize_count": 16
 }

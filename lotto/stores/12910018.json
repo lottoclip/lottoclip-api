@@ -1,7 +1,7 @@
 {
   "store_id": "12910018",
   "name": "대박나라",
-  "address": "광주 광산구  월곡산정로 7 1층",
+  "address": "전남광주 광산구 월곡산정로 7 1층  ",
   "province": "광주",
   "city": "광산구",
   "phone": "062-952-7142",
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.166821,
-  "longitude": 126.802999,
-  "updated_at": "2026-03-05T23:57:58.528778",
+  "latitude": 35.166792,
+  "longitude": 126.80292,
+  "updated_at": "2026-08-22T13:04:42.591741",
   "first_prize_draws": [
     638
   ],
   "second_prize_draws": [
+    1238,
     1150,
     898,
     756,
@@ -24,5 +25,5 @@
     470
   ],
   "first_prize_count": 1,
-  "second_prize_count": 5
+  "second_prize_count": 6
 }

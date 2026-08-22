@@ -1,7 +1,7 @@
 {
   "store_id": "11100641",
   "name": "인동상회",
-  "address": "서울 노원구  한글비석로 396 벽산아파트상가108-116",
+  "address": "서울 노원구 한글비석로 396 벽산아파트상가108-116  ",
   "province": "서울",
   "city": "노원구",
   "phone": "02-951-0303",
@@ -11,13 +11,14 @@
     "speetto"
   ],
   "latitude": 37.660472,
-  "longitude": 127.072206,
-  "updated_at": "2026-03-06T00:00:02.083368",
+  "longitude": 127.0722,
+  "updated_at": "2026-08-22T13:04:42.586228",
   "first_prize_draws": [
     1068,
     526
   ],
   "second_prize_draws": [
+    1238,
     1183,
     1101,
     1061,
@@ -35,5 +36,5 @@
     588
   ],
   "first_prize_count": 2,
-  "second_prize_count": 15
+  "second_prize_count": 16
 }

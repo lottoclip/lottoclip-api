@@ -1,7 +1,7 @@
 {
   "store_id": "14840605",
   "name": "김해명당복권",
-  "address": "경남 김해시  김해대로2715번길 36 104호",
+  "address": "경남 김해시 김해대로2715번길 36 104호  ",
   "province": "경남",
   "city": "김해시",
   "phone": null,
@@ -11,13 +11,14 @@
     "speetto"
   ],
   "latitude": 35.230538,
-  "longitude": 128.923063,
-  "updated_at": "2026-03-06T00:00:38.042589",
+  "longitude": 128.92306,
+  "updated_at": "2026-08-22T13:04:42.607393",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1238,
     1195,
     1172
   ],
   "first_prize_count": 0,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

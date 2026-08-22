@@ -1,7 +1,7 @@
 {
   "store_id": "14130152",
   "name": "서울복권",
-  "address": "경기 파주시  평화로 723 ",
+  "address": "경기 파주시 평화로 723  ",
   "province": "경기",
   "city": "파주시",
   "phone": "031-945-6053",
@@ -10,16 +10,17 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.779151,
-  "longitude": 126.706878,
-  "updated_at": "2026-03-05T23:58:02.089094",
+  "latitude": 37.779217,
+  "longitude": 126.70711,
+  "updated_at": "2026-08-22T13:04:42.594488",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1238,
     1151,
     1136,
     879,
     707
   ],
   "first_prize_count": 0,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }

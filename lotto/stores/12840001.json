@@ -1,7 +1,7 @@
 {
   "store_id": "12840001",
   "name": "NBA(엔비에이)",
-  "address": "인천 중구 신도시남로142번길 6 1동 1층 128호  ",
+  "address": "인천 영종구 신도시남로142번길 6 1동 1층 128호  ",
   "province": "인천",
   "city": "중구",
   "phone": "032-752-6716",
@@ -12,8 +12,9 @@
   ],
   "latitude": 37.49342,
   "longitude": 126.49148,
-  "updated_at": "2026-07-04T14:55:33.580518",
+  "updated_at": "2026-08-22T13:04:42.590614",
   "first_prize_draws": [
+    1238,
     1157,
     1152,
     1097,
@@ -35,6 +36,6 @@
     957,
     946
   ],
-  "first_prize_count": 5,
+  "first_prize_count": 6,
   "second_prize_count": 13
 }

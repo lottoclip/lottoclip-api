@@ -1,7 +1,7 @@
 {
   "store_id": "11100328",
   "name": "과자종합상사",
-  "address": "서울 구로구  경인로33길 82 ",
+  "address": "서울 구로구 경인로33길 82  ",
   "province": "서울",
   "city": "구로구",
   "phone": "02-2618-3236",
@@ -12,13 +12,14 @@
   ],
   "latitude": 37.501505,
   "longitude": 126.850853,
-  "updated_at": "2026-03-05T23:52:21.051679",
+  "updated_at": "2026-08-22T13:04:42.586737",
   "first_prize_draws": [
     1045
   ],
   "second_prize_draws": [
+    1238,
     925
   ],
   "first_prize_count": 1,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14390037",
   "name": "부영상회",
-  "address": "충북 충주시  칠금중앙로 38 1층",
+  "address": "충북 충주시 칠금중앙로 38 1층  ",
   "province": "충북",
   "city": "충주시",
   "phone": "043-845-3374",
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 36.982098,
-  "longitude": 127.917965,
-  "updated_at": "2026-03-06T00:00:22.601377",
+  "latitude": 36.98178,
+  "longitude": 127.91909,
+  "updated_at": "2026-08-22T13:04:42.600841",
   "first_prize_draws": [
     1190
   ],
   "second_prize_draws": [
+    1238,
     1159,
     1046,
     953,
@@ -24,5 +25,5 @@
     500
   ],
   "first_prize_count": 1,
-  "second_prize_count": 5
+  "second_prize_count": 6
 }

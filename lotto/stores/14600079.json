@@ -1,7 +1,7 @@
 {
   "store_id": "14600079",
   "name": "나눔로또편의점",
-  "address": "전남 광양시 공영로 90  ",
+  "address": "전남광주 광양시 공영로 90  ",
   "province": "전남",
   "city": "광양시",
   "phone": "061-795-3364",
@@ -10,10 +10,11 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 34.935659,
-  "longitude": 127.699065,
-  "updated_at": "2026-03-07T14:13:23.505600",
+  "latitude": 34.935658,
+  "longitude": 127.69904,
+  "updated_at": "2026-08-22T13:04:42.604304",
   "first_prize_draws": [
+    1238,
     1211,
     1158,
     1042,
@@ -37,6 +38,6 @@
     711,
     710
   ],
-  "first_prize_count": 4,
+  "first_prize_count": 5,
   "second_prize_count": 16
 }

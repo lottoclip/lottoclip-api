@@ -1,7 +1,7 @@
 {
   "store_id": "13090027",
   "name": "코만도",
-  "address": "대전 대덕구  석봉로43번길 1 ",
+  "address": "대전 대덕구 석봉로43번길 1  ",
   "province": "대전",
   "city": "대덕구",
   "phone": "042-936-0026",
@@ -12,11 +12,12 @@
   ],
   "latitude": 36.447592,
   "longitude": 127.426497,
-  "updated_at": "2026-03-05T23:54:05.220483",
+  "updated_at": "2026-08-22T13:04:42.592160",
   "first_prize_draws": [
     422
   ],
   "second_prize_draws": [
+    1238,
     1074,
     1044,
     962,
@@ -31,5 +32,5 @@
     395
   ],
   "first_prize_count": 1,
-  "second_prize_count": 12
+  "second_prize_count": 13
 }

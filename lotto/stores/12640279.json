@@ -1,7 +1,7 @@
 {
   "store_id": "12640279",
   "name": "금두꺼비 복권방",
-  "address": "부산 동래구  안남로 89-1 1층(안락동)",
+  "address": "부산 동래구 안남로 89-1 1층(안락동)  ",
   "province": "부산",
   "city": "동래구",
   "phone": null,
@@ -10,17 +10,18 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.193627,
-  "longitude": 129.101838,
-  "updated_at": "2026-03-06T00:00:37.467452",
+  "latitude": 35.193629,
+  "longitude": 129.10185,
+  "updated_at": "2026-08-22T13:04:42.589814",
   "first_prize_draws": [
     1195
   ],
   "second_prize_draws": [
+    1238,
     1119,
     1041,
     1030
   ],
   "first_prize_count": 1,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

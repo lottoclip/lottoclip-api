@@ -1,7 +1,7 @@
 {
   "store_id": "14590047",
   "name": "우정슈퍼",
-  "address": "전북 군산시  공항로 61 ",
+  "address": "전북 군산시 공항로 61  ",
   "province": "전북",
   "city": "군산시",
   "phone": "063-466-4570",
@@ -10,11 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.97298,
-  "longitude": 126.680728,
-  "updated_at": "2026-03-05T23:59:54.333016",
+  "latitude": 35.977368,
+  "longitude": 126.68104,
+  "updated_at": "2026-08-22T13:04:42.603086",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1238,
     1180,
     1081,
     1055,
@@ -24,5 +25,5 @@
     288
   ],
   "first_prize_count": 0,
-  "second_prize_count": 7
+  "second_prize_count": 8
 }

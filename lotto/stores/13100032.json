@@ -1,7 +1,7 @@
 {
   "store_id": "13100032",
   "name": "영24시",
-  "address": "울산 동구  월봉로 60 ",
+  "address": "울산 동구 월봉로 60  ",
   "province": "울산",
   "city": "동구",
   "phone": "052-235-9188",
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.493959,
-  "longitude": 129.424541,
-  "updated_at": "2026-03-05T23:59:37.697675",
+  "latitude": 35.493961,
+  "longitude": 129.42454,
+  "updated_at": "2026-08-22T13:04:42.592899",
   "first_prize_draws": [
     1174
   ],
   "second_prize_draws": [
+    1238,
     1172,
     1053,
     983,
@@ -25,5 +26,5 @@
     579
   ],
   "first_prize_count": 1,
-  "second_prize_count": 6
+  "second_prize_count": 7
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14440069",
   "name": "청룡로또판매점",
-  "address": "충남 당진시  청룡길 159 용기빌딩",
+  "address": "충남 당진시 청룡길 159 용기빌딩  ",
   "province": "충남",
   "city": "당진시",
   "phone": null,
@@ -10,16 +10,17 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 36.888615,
-  "longitude": 126.632627,
-  "updated_at": "2026-03-05T23:56:59.501482",
+  "latitude": 36.888592,
+  "longitude": 126.63265,
+  "updated_at": "2026-08-22T13:04:42.602287",
   "first_prize_draws": [
     1073
   ],
   "second_prize_draws": [
+    1238,
     1134,
     1080
   ],
   "first_prize_count": 1,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

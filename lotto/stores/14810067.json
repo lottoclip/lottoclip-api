@@ -1,7 +1,7 @@
 {
   "store_id": "14810067",
   "name": "끌레리띠",
-  "address": "경남 창원시 마산회원구  구암서6길 12 ",
+  "address": "경남 창원시 마산회원구 구암서6길 12  ",
   "province": "경남",
   "city": "창원시",
   "phone": "055-294-6693",
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.2483,
-  "longitude": 128.592138,
-  "updated_at": "2026-03-05T23:53:38.967813",
+  "latitude": 35.248287,
+  "longitude": 128.59211,
+  "updated_at": "2026-08-22T13:04:42.605917",
   "first_prize_draws": [
     583
   ],
   "second_prize_draws": [
+    1238,
     1065,
     987,
     962,
@@ -29,5 +30,5 @@
     362
   ],
   "first_prize_count": 1,
-  "second_prize_count": 10
+  "second_prize_count": 11
 }
