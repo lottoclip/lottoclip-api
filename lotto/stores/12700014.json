@@ -1,7 +1,7 @@
 {
   "store_id": "12700014",
   "name": "로또명당",
-  "address": "대구 달서구  월성로 20 건도파라다이스 105-1호건도파라다이스",
+  "address": "대구 달서구 월성로 36 월성주공4단지 상가 나동 104호  ",
   "province": "대구",
   "city": "달서구",
   "phone": "053-0000-0000",
@@ -11,16 +11,17 @@
     "speetto"
   ],
   "latitude": 35.831669,
-  "longitude": 128.531627,
-  "updated_at": "2026-03-05T23:53:50.231982",
+  "longitude": 128.53162,
+  "updated_at": "2026-08-29T16:47:26.375138",
   "first_prize_draws": [
     939
   ],
   "second_prize_draws": [
+    1239,
     1069,
     1010,
     278
   ],
   "first_prize_count": 1,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

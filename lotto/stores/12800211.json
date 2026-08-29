@@ -1,7 +1,7 @@
 {
   "store_id": "12800211",
   "name": "삼정텔레콤",
-  "address": "인천 서구 마전동 911-6번지 ",
+  "address": "인천 검단구 검단로487번길 1  ",
   "province": "인천",
   "city": "서구",
   "phone": "032-564-2019",
@@ -10,11 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.602653,
-  "longitude": 126.658315,
-  "updated_at": "2026-03-05T23:43:30.734569",
+  "latitude": 37.602675,
+  "longitude": 126.65833,
+  "updated_at": "2026-08-29T16:47:26.376960",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1239,
     883,
     819,
     806,
@@ -27,5 +28,5 @@
     290
   ],
   "first_prize_count": 0,
-  "second_prize_count": 10
+  "second_prize_count": 11
 }

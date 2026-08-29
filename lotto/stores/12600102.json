@@ -1,7 +1,7 @@
 {
   "store_id": "12600102",
   "name": "영일슈퍼",
-  "address": "부산 북구  만덕2로 31 ",
+  "address": "부산 북구 만덕2로 31  ",
   "province": "부산",
   "city": "북구",
   "phone": "051-338-0143",
@@ -10,11 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.210504,
-  "longitude": 129.038164,
-  "updated_at": "2026-03-05T23:49:16.609813",
+  "latitude": 35.2105,
+  "longitude": 129.03816,
+  "updated_at": "2026-08-29T16:47:26.374368",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1239,
     986,
     950,
     922,
@@ -23,5 +24,5 @@
     397
   ],
   "first_prize_count": 0,
-  "second_prize_count": 6
+  "second_prize_count": 7
 }

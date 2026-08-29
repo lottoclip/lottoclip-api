@@ -1,7 +1,7 @@
 {
   "store_id": "14340032",
   "name": "대소잭팟로또",
-  "address": "충북 음성군  오산로 52 1층",
+  "address": "충북 음성군 오산로 52 1층  ",
   "province": "충북",
   "city": "음성군",
   "phone": null,
@@ -12,9 +12,10 @@
   ],
   "latitude": 36.967923,
   "longitude": 127.485864,
-  "updated_at": "2026-03-05T23:58:36.908472",
+  "updated_at": "2026-08-29T16:47:26.382216",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1239,
     1158,
     1140,
     1100,
@@ -23,5 +24,5 @@
     972
   ],
   "first_prize_count": 0,
-  "second_prize_count": 6
+  "second_prize_count": 7
 }

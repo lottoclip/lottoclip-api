@@ -1,7 +1,7 @@
 {
   "store_id": "13090022",
   "name": "천하제일복권명당유성점",
-  "address": "대전 유성구  유성대로654번길 111 ",
+  "address": "대전 유성구 유성대로654번길 111  ",
   "province": "대전",
   "city": "유성구",
   "phone": "042-822-3536",
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 36.350956,
-  "longitude": 127.33514,
-  "updated_at": "2026-03-05T23:59:59.519848",
+  "latitude": 36.350953,
+  "longitude": 127.33513,
+  "updated_at": "2026-08-29T16:47:26.378315",
   "first_prize_draws": [
     1127,
     831,
@@ -20,6 +20,7 @@
     417
   ],
   "second_prize_draws": [
+    1239,
     1182,
     1165,
     1084,
@@ -39,5 +40,5 @@
     496
   ],
   "first_prize_count": 4,
-  "second_prize_count": 17
+  "second_prize_count": 18
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14110615",
   "name": "행복한집",
-  "address": "경기 오산시  경기대로148번길 8 ",
+  "address": "경기 오산시 경기대로148번길 8  ",
   "province": "경기",
   "city": "오산시",
   "phone": "031-376-0645",
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.137781,
-  "longitude": 127.074194,
-  "updated_at": "2026-03-05T23:57:58.968236",
+  "latitude": 37.137782,
+  "longitude": 127.07411,
+  "updated_at": "2026-08-29T16:47:26.379332",
   "first_prize_draws": [
     644,
     581,
     451
   ],
   "second_prize_draws": [
+    1239,
     1150,
     1068,
     973,
@@ -41,5 +42,5 @@
     443
   ],
   "first_prize_count": 3,
-  "second_prize_count": 20
+  "second_prize_count": 21
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "12600059",
   "name": "행운복권방",
-  "address": "부산 사상구  사상로 527 ",
+  "address": "부산 사상구 사상로 527  ",
   "province": "부산",
   "city": "사상구",
   "phone": "051-303-7439",
@@ -10,10 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.19155,
-  "longitude": 128.989015,
-  "updated_at": "2026-03-05T23:48:11.016270",
-  "first_prize_draws": [],
+  "latitude": 35.191262,
+  "longitude": 128.98922,
+  "updated_at": "2026-08-29T16:47:26.374186",
+  "first_prize_draws": [
+    1239
+  ],
   "second_prize_draws": [
     968,
     612,
@@ -27,6 +29,6 @@
     382,
     291
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 11
 }

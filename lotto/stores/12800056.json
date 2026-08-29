@@ -1,7 +1,7 @@
 {
   "store_id": "12800056",
   "name": "즐거운복권방",
-  "address": "인천 미추홀구 인천  ",
+  "address": "인천 미추홀구 미추홀대로 541  ",
   "province": "인천",
   "city": "미추홀구",
   "phone": "032-867-1033",
@@ -10,10 +10,11 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.445677,
-  "longitude": 126.678613,
-  "updated_at": "2026-03-05T23:44:34.043068",
+  "latitude": 37.445694,
+  "longitude": 126.67859,
+  "updated_at": "2026-08-29T16:47:26.376586",
   "first_prize_draws": [
+    1239,
     790,
     628
   ],
@@ -26,6 +27,6 @@
     632,
     613
   ],
-  "first_prize_count": 2,
+  "first_prize_count": 3,
   "second_prize_count": 7
 }

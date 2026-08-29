@@ -1,7 +1,7 @@
 {
   "store_id": "12900077",
   "name": "우리동네마트(무한유통)",
-  "address": "광주 광산구  장신로 68 101호",
+  "address": "전남광주 광산구 장신로 68 101호  ",
   "province": "광주",
   "city": "광산구",
   "phone": null,
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.190486,
-  "longitude": 126.817688,
-  "updated_at": "2026-03-05T23:58:48.553989",
+  "latitude": 35.190502,
+  "longitude": 126.81766,
+  "updated_at": "2026-08-29T16:47:26.377736",
   "first_prize_draws": [
     1118,
     744,
@@ -20,6 +20,7 @@
     471
   ],
   "second_prize_draws": [
+    1239,
     1162,
     1097,
     1040,
@@ -32,5 +33,5 @@
     453
   ],
   "first_prize_count": 4,
-  "second_prize_count": 10
+  "second_prize_count": 11
 }

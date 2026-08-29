@@ -1,7 +1,7 @@
 {
   "store_id": "12710170",
   "name": "평화(북구사수점)",
-  "address": "대구 북구  한강로 92 1층 101호",
+  "address": "대구 북구 한강로 92 1층 101호  ",
   "province": "대구",
   "city": "북구",
   "phone": null,
@@ -10,10 +10,11 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.896555,
-  "longitude": 128.519573,
-  "updated_at": "2026-03-05T23:54:50.486664",
+  "latitude": 35.896554,
+  "longitude": 128.51956,
+  "updated_at": "2026-08-29T16:47:26.374770",
   "first_prize_draws": [
+    1239,
     1090
   ],
   "second_prize_draws": [
@@ -27,6 +28,6 @@
     593,
     367
   ],
-  "first_prize_count": 1,
+  "first_prize_count": 2,
   "second_prize_count": 9
 }

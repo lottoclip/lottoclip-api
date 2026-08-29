@@ -1,21 +1,23 @@
 {
   "store_id": "14540254",
   "name": "사자복권방",
-  "address": "전북 전주시 덕진구  송천로 39 ",
+  "address": "전북 전주시 덕진구 팽나무4길 13 1층  ",
   "province": "전북",
   "city": "전주시",
   "phone": null,
   "lottery_types": [
     "lotto645",
+    "pension720",
     "speetto"
   ],
-  "latitude": 35.856728,
-  "longitude": 127.118361,
-  "updated_at": "2026-03-06T00:00:08.214837",
+  "latitude": 35.835367,
+  "longitude": 127.1546,
+  "updated_at": "2026-08-29T16:47:26.383878",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1239,
     1185
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }
