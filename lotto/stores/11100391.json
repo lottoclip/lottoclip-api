@@ -1,7 +1,7 @@
 {
   "store_id": "11100391",
   "name": "무지개슈퍼",
-  "address": "서울 영등포구  영등포로 379-1 (신길동)",
+  "address": "서울 영등포구 영등포로 379-1 (신길동)  ",
   "province": "서울",
   "city": "영등포구",
   "phone": "02-842-2910",
@@ -10,17 +10,18 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.513967,
-  "longitude": 126.920417,
-  "updated_at": "2026-03-05T23:57:34.834376",
+  "latitude": 37.513964,
+  "longitude": 126.92043,
+  "updated_at": "2026-09-05T15:20:26.307575",
   "first_prize_draws": [
     769
   ],
   "second_prize_draws": [
+    1240,
     1147,
     891,
     680
   ],
   "first_prize_count": 1,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

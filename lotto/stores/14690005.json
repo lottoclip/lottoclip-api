@@ -1,7 +1,7 @@
 {
   "store_id": "14690005",
   "name": "복권나라",
-  "address": "전남 순천시  중앙로 61 복권나라",
+  "address": "전남광주 순천시 중앙로 61 복권나라  ",
   "province": "전남",
   "city": "순천시",
   "phone": "061-744-7063",
@@ -10,11 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 34.951232,
-  "longitude": 127.483583,
-  "updated_at": "2026-03-06T00:00:02.647909",
+  "latitude": 34.951257,
+  "longitude": 127.48357,
+  "updated_at": "2026-09-05T15:20:26.316450",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1240,
     1183,
     1149,
     1128,
@@ -26,5 +27,5 @@
     476
   ],
   "first_prize_count": 0,
-  "second_prize_count": 9
+  "second_prize_count": 10
 }

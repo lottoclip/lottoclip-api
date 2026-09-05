@@ -1,7 +1,7 @@
 {
   "store_id": "14141716",
   "name": "홈런 복권방",
-  "address": "경기 군포시  군포로 521 1층 101호",
+  "address": "경기 군포시 군포로 521 1층 101호  ",
   "province": "경기",
   "city": "군포시",
   "phone": null,
@@ -11,12 +11,13 @@
     "speetto"
   ],
   "latitude": 37.352895,
-  "longitude": 126.945115,
-  "updated_at": "2026-03-06T00:00:08.111352",
+  "longitude": 126.94511,
+  "updated_at": "2026-09-05T15:20:26.314169",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1240,
     1185
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

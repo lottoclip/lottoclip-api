@@ -1,7 +1,7 @@
 {
   "store_id": "14440315",
   "name": "복권아저씨",
-  "address": "충남 태안군  동문4길 11 1층",
+  "address": "충남 태안군 동문4길 11 1층  ",
   "province": "충남",
   "city": "태안군",
   "phone": null,
@@ -12,11 +12,12 @@
   ],
   "latitude": 36.748646,
   "longitude": 126.306436,
-  "updated_at": "2026-03-05T23:57:13.572376",
+  "updated_at": "2026-09-05T15:20:26.314909",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1240,
     1139
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14340178",
   "name": "청남로또",
-  "address": "충북 청주시 상당구  단재로 742 ",
+  "address": "충북 청주시 상당구 단재로 742  ",
   "province": "충북",
   "city": "청주시",
   "phone": null,
@@ -12,16 +12,17 @@
   ],
   "latitude": 36.565523,
   "longitude": 127.509564,
-  "updated_at": "2026-03-05T23:59:48.916247",
+  "updated_at": "2026-09-05T15:20:26.314619",
   "first_prize_draws": [
     1178
   ],
   "second_prize_draws": [
+    1240,
     1119,
     1106,
     1105,
     1020
   ],
   "first_prize_count": 1,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }

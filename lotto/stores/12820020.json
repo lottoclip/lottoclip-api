@@ -1,7 +1,7 @@
 {
   "store_id": "12820020",
   "name": "희망복권",
-  "address": "인천 서구 가정로151번길 11 삼성홈플러스가좌점1층  ",
+  "address": "인천 서해구 가정로151번길 11 삼성홈플러스가좌점1층  ",
   "province": "인천",
   "city": "서구",
   "phone": null,
@@ -12,11 +12,12 @@
   ],
   "latitude": 37.497647,
   "longitude": 126.67073,
-  "updated_at": "2026-06-20T15:26:26.081326",
+  "updated_at": "2026-09-05T15:20:26.311454",
   "first_prize_draws": [
     1193
   ],
   "second_prize_draws": [
+    1240,
     1229,
     1220,
     1133,
@@ -27,5 +28,5 @@
     689
   ],
   "first_prize_count": 1,
-  "second_prize_count": 8
+  "second_prize_count": 9
 }

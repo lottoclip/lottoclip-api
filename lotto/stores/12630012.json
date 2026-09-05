@@ -1,7 +1,7 @@
 {
   "store_id": "12630012",
   "name": "황금코끼리로또점",
-  "address": "부산 북구  금곡대로 318 ",
+  "address": "부산 북구 금곡대로 318  ",
   "province": "부산",
   "city": "북구",
   "phone": null,
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.236715,
-  "longitude": 129.014156,
-  "updated_at": "2026-03-06T00:00:31.262375",
+  "latitude": 35.236707,
+  "longitude": 129.01416,
+  "updated_at": "2026-09-05T15:20:26.310013",
   "first_prize_draws": [
     1070
   ],
   "second_prize_draws": [
+    1240,
     1193,
     1192,
     1189,
@@ -27,5 +28,5 @@
     812
   ],
   "first_prize_count": 1,
-  "second_prize_count": 8
+  "second_prize_count": 9
 }

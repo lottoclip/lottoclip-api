@@ -1,7 +1,7 @@
 {
   "store_id": "11101005",
   "name": "우리샵",
-  "address": "서울 서초구  강남대로 405 ",
+  "address": "서울 서초구 강남대로 405  ",
   "province": "서울",
   "city": "서초구",
   "phone": "02-532-9471",
@@ -10,14 +10,15 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.498775,
-  "longitude": 127.026691,
-  "updated_at": "2026-03-06T00:00:45.593244",
+  "latitude": 37.498698,
+  "longitude": 127.027,
+  "updated_at": "2026-09-05T15:20:26.308131",
   "first_prize_draws": [
     1108,
     699
   ],
   "second_prize_draws": [
+    1240,
     1198,
     1164,
     1130,
@@ -33,5 +34,5 @@
     277
   ],
   "first_prize_count": 2,
-  "second_prize_count": 13
+  "second_prize_count": 14
 }

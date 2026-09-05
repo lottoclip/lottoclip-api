@@ -1,7 +1,7 @@
 {
   "store_id": "14200053",
   "name": "나눔로또왕대박",
-  "address": "강원 원주시  남원로 70 1층",
+  "address": "강원 원주시 남원로 70 1층  ",
   "province": "강원",
   "city": "원주시",
   "phone": "033-762-1036",
@@ -10,11 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.302179,
-  "longitude": 127.920122,
-  "updated_at": "2026-03-05T23:58:31.095795",
+  "latitude": 37.30212,
+  "longitude": 127.92002,
+  "updated_at": "2026-09-05T15:20:26.314425",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1240,
     1156,
     1135,
     1073,
@@ -25,5 +26,5 @@
     272
   ],
   "first_prize_count": 0,
-  "second_prize_count": 8
+  "second_prize_count": 9
 }

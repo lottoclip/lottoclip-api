@@ -1,7 +1,7 @@
 {
   "store_id": "12900076",
   "name": "백송마트",
-  "address": "광주 광산구 월계로 110 104호  ",
+  "address": "전남광주 광산구 월계로 110 104호  ",
   "province": "광주",
   "city": "광산구",
   "phone": "062-972-7766",
@@ -12,12 +12,13 @@
   ],
   "latitude": 35.213482,
   "longitude": 126.83741,
-  "updated_at": "2026-05-30T14:56:43.853963",
+  "updated_at": "2026-09-05T15:20:26.311815",
   "first_prize_draws": [
     1097,
     865
   ],
   "second_prize_draws": [
+    1240,
     1226,
     1214,
     1155,
@@ -36,5 +37,5 @@
     279
   ],
   "first_prize_count": 2,
-  "second_prize_count": 16
+  "second_prize_count": 17
 }

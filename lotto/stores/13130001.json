@@ -1,7 +1,7 @@
 {
   "store_id": "13130001",
   "name": "복드림로또방",
-  "address": "울산 중구  유곡로 70 ",
+  "address": "울산 중구 유곡로 70  ",
   "province": "울산",
   "city": "중구",
   "phone": null,
@@ -10,16 +10,17 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.557748,
-  "longitude": 129.302402,
-  "updated_at": "2026-03-05T23:52:53.131655",
+  "latitude": 35.557641,
+  "longitude": 129.30244,
+  "updated_at": "2026-09-05T15:20:26.312191",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1240,
     1051,
     930,
     821,
     788
   ],
   "first_prize_count": 0,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }

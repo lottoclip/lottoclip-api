@@ -1,7 +1,7 @@
 {
   "store_id": "11110718",
   "name": "천하명당로또복권",
-  "address": "서울 서대문구  세무서길 12 ",
+  "address": "서울 서대문구 세무서길 12  ",
   "province": "서울",
   "city": "서대문구",
   "phone": "02-394-0645",
@@ -11,9 +11,10 @@
     "speetto"
   ],
   "latitude": 37.588523,
-  "longitude": 126.945642,
-  "updated_at": "2026-03-05T23:59:10.520217",
+  "longitude": 126.94564,
+  "updated_at": "2026-09-05T15:20:26.308560",
   "first_prize_draws": [
+    1240,
     1049,
     1024
   ],
@@ -27,6 +28,6 @@
     980,
     291
   ],
-  "first_prize_count": 2,
+  "first_prize_count": 3,
   "second_prize_count": 8
 }

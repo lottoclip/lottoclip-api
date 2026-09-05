@@ -1,7 +1,7 @@
 {
   "store_id": "14140475",
   "name": "홈런복권판매점",
-  "address": "경기 오산시  내삼미로 93 제1층 109호",
+  "address": "경기 오산시 내삼미로 93 제1층 109호  ",
   "province": "경기",
   "city": "오산시",
   "phone": null,
@@ -10,10 +10,11 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.170529,
-  "longitude": 127.065771,
-  "updated_at": "2026-03-05T23:58:56.746505",
+  "latitude": 37.170535,
+  "longitude": 127.06578,
+  "updated_at": "2026-09-05T15:20:26.313142",
   "first_prize_draws": [
+    1240,
     1165
   ],
   "second_prize_draws": [
@@ -21,6 +22,6 @@
     965,
     941
   ],
-  "first_prize_count": 1,
+  "first_prize_count": 2,
   "second_prize_count": 3
 }

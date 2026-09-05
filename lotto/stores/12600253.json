@@ -1,7 +1,7 @@
 {
   "store_id": "12600253",
   "name": "로또온천장점",
-  "address": "부산 동래구  중앙대로 1520 북쪽출구 빵집",
+  "address": "부산 동래구 중앙대로 1520 북쪽출구 빵집  ",
   "province": "부산",
   "city": "동래구",
   "phone": "051-513-9147",
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.213892,
-  "longitude": 129.081341,
-  "updated_at": "2026-03-05T23:59:56.650080",
+  "latitude": 35.220275,
+  "longitude": 129.08639,
+  "updated_at": "2026-09-05T15:20:26.310276",
   "first_prize_draws": [
     893,
     860,
@@ -21,6 +21,7 @@
     290
   ],
   "second_prize_draws": [
+    1240,
     1181,
     1137,
     1076,
@@ -41,5 +42,5 @@
     305
   ],
   "first_prize_count": 5,
-  "second_prize_count": 18
+  "second_prize_count": 19
 }

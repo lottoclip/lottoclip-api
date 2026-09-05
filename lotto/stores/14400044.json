@@ -1,7 +1,7 @@
 {
   "store_id": "14400044",
   "name": "서산로또명당점",
-  "address": "충남 서산시  서해로 3207 세븐일레븐편의점 옆",
+  "address": "충남 서산시 서해로 3207 공림삼거리  ",
   "province": "충남",
   "city": "서산시",
   "phone": null,
@@ -12,11 +12,12 @@
   ],
   "latitude": 36.771279,
   "longitude": 126.43668,
-  "updated_at": "2026-03-05T23:54:50.829096",
+  "updated_at": "2026-09-05T15:20:26.315474",
   "first_prize_draws": [
     996
   ],
   "second_prize_draws": [
+    1240,
     1090,
     1013,
     1003,
@@ -24,5 +25,5 @@
     273
   ],
   "first_prize_count": 1,
-  "second_prize_count": 5
+  "second_prize_count": 6
 }

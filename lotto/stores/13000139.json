@@ -1,7 +1,7 @@
 {
   "store_id": "13000139",
   "name": "파워로또",
-  "address": "대전 동구  동서대로 1677 복합터미널 앞 버스정류장",
+  "address": "대전 동구 동서대로 1677 복합터미널 앞 버스정류장  ",
   "province": "대전",
   "city": "동구",
   "phone": null,
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 36.349404,
-  "longitude": 127.435824,
-  "updated_at": "2026-03-05T23:56:36.442749",
+  "latitude": 36.349217,
+  "longitude": 127.435804,
+  "updated_at": "2026-09-05T15:20:26.312004",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1240,
     1126,
     831,
     450
   ],
   "first_prize_count": 0,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14690038",
   "name": "복권판매점(담양)",
-  "address": "전남 담양군 중앙로 32-1  ",
+  "address": "전남광주 담양군 중앙로 32-1  ",
   "province": "전남",
   "city": "담양군",
   "phone": "061-383-1006",
@@ -12,12 +12,13 @@
   ],
   "latitude": 35.316069,
   "longitude": 126.98345,
-  "updated_at": "2026-05-16T14:44:53.915368",
+  "updated_at": "2026-09-05T15:20:26.316638",
   "first_prize_draws": [
     1109,
     800
   ],
   "second_prize_draws": [
+    1240,
     1224,
     1178,
     1169,
@@ -36,5 +37,5 @@
     402
   ],
   "first_prize_count": 2,
-  "second_prize_count": 16
+  "second_prize_count": 17
 }

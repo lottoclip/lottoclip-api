@@ -1,7 +1,7 @@
 {
   "store_id": "12600257",
   "name": "복권1번",
-  "address": "부산 부산진구  서면로 56 서면시장1층46호",
+  "address": "부산 부산진구 서면로 56 서면시장1층46호  ",
   "province": "부산",
   "city": "부산진구",
   "phone": "051-809-7366",
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.155641,
-  "longitude": 129.05816,
-  "updated_at": "2026-03-05T23:53:21.222499",
+  "latitude": 35.15589,
+  "longitude": 129.058364,
+  "updated_at": "2026-09-05T15:20:26.310184",
   "first_prize_draws": [
     644
   ],
   "second_prize_draws": [
+    1240,
     1059,
     947,
     667,
@@ -25,5 +26,5 @@
     301
   ],
   "first_prize_count": 1,
-  "second_prize_count": 6
+  "second_prize_count": 7
 }

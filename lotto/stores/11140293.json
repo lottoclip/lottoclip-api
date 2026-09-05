@@ -1,7 +1,7 @@
 {
   "store_id": "11140293",
   "name": "규림",
-  "address": "서울 서초구  방배로 81 1층",
+  "address": "서울 서초구 방배로 81 1층  ",
   "province": "서울",
   "city": "서초구",
   "phone": "02-578-0705",
@@ -12,11 +12,13 @@
   ],
   "latitude": 37.481649,
   "longitude": 126.997114,
-  "updated_at": "2026-03-05T23:59:13.550276",
-  "first_prize_draws": [],
+  "updated_at": "2026-09-05T15:20:26.308468",
+  "first_prize_draws": [
+    1240
+  ],
   "second_prize_draws": [
     1171
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 1
 }

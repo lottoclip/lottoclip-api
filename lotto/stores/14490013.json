@@ -1,7 +1,7 @@
 {
   "store_id": "14490013",
   "name": "조치원복권방",
-  "address": "세종   조치원로 9-1 ",
+  "address": "세종  조치원로 9-1  ",
   "province": "세종",
   "city": "조치원로",
   "phone": "044-863-7776",
@@ -11,13 +11,14 @@
     "speetto"
   ],
   "latitude": 36.601537,
-  "longitude": 127.297877,
-  "updated_at": "2026-03-05T23:56:13.681706",
+  "longitude": 127.29787,
+  "updated_at": "2026-09-05T15:20:26.314816",
   "first_prize_draws": [
     747,
     595
   ],
   "second_prize_draws": [
+    1240,
     1118,
     1066,
     956,
@@ -28,5 +29,5 @@
     290
   ],
   "first_prize_count": 2,
-  "second_prize_count": 8
+  "second_prize_count": 9
 }
