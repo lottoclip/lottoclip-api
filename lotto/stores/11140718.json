@@ -1,7 +1,7 @@
 {
   "store_id": "11140718",
   "name": "에스비 상사",
-  "address": "서울 중구 퇴계로86길 29 1층  ",
+  "address": "서울 중구 퇴계로86길 29 1층",
   "province": "서울",
   "city": "중구",
   "phone": null,
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.564253,
-  "longitude": 127.019804,
-  "updated_at": "2026-03-06T00:01:07.778942",
+  "latitude": 37.564249,
+  "longitude": 127.01981,
+  "updated_at": "2026-09-12T15:37:27.519659",
   "first_prize_draws": [
     1206,
     1110,
@@ -21,11 +21,12 @@
     1053
   ],
   "second_prize_draws": [
+    1241,
     1191,
     1175,
     1128,
     1112
   ],
   "first_prize_count": 5,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }

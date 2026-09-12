@@ -1,7 +1,7 @@
 {
   "store_id": "12600054",
   "name": "부일카서비스",
-  "address": "부산 동구 자성로133번길 35  ",
+  "address": "부산 동구 자성로133번길 35",
   "province": "부산",
   "city": "동구",
   "phone": "051-637-7747",
@@ -12,7 +12,7 @@
   ],
   "latitude": 35.140055,
   "longitude": 129.06305,
-  "updated_at": "2026-09-05T15:20:26.310382",
+  "updated_at": "2026-09-12T15:37:27.523824",
   "first_prize_draws": [
     1210,
     1205,
@@ -57,6 +57,7 @@
     300
   ],
   "second_prize_draws": [
+    1241,
     1240,
     1236,
     1235,
@@ -252,5 +253,5 @@
     276
   ],
   "first_prize_count": 41,
-  "second_prize_count": 193
+  "second_prize_count": 194
 }

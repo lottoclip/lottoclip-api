@@ -1,7 +1,7 @@
 {
   "store_id": "14130095",
   "name": "로또모형방",
-  "address": "경기 고양시 일산서구  송포로 35 1층",
+  "address": "경기 고양시 일산서구 송포로 35 1층",
   "province": "경기",
   "city": "고양시",
   "phone": "031-911-5732",
@@ -10,16 +10,17 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.669573,
-  "longitude": 126.732304,
-  "updated_at": "2026-03-06T00:00:53.910632",
+  "latitude": 37.669633,
+  "longitude": 126.73237,
+  "updated_at": "2026-09-12T15:37:27.528432",
   "first_prize_draws": [
+    1241,
     802
   ],
   "second_prize_draws": [
     1201,
     1117
   ],
-  "first_prize_count": 1,
+  "first_prize_count": 2,
   "second_prize_count": 2
 }

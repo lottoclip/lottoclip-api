@@ -1,7 +1,7 @@
 {
   "store_id": "14100587",
   "name": "로또명당가두판매점",
-  "address": "경기 안양시 동안구 경수대로 848-2  ",
+  "address": "경기 안양시 동안구 경수대로 848-2",
   "province": "경기",
   "city": "안양시",
   "phone": "031-388-4427",
@@ -10,7 +10,7 @@
   ],
   "latitude": 37.394617,
   "longitude": 126.941416,
-  "updated_at": "2026-08-22T14:08:49.512517",
+  "updated_at": "2026-09-12T15:37:27.527489",
   "first_prize_draws": [
     1065,
     1035,
@@ -21,6 +21,7 @@
     466
   ],
   "second_prize_draws": [
+    1241,
     1238,
     1149,
     1071,
@@ -66,5 +67,5 @@
     279
   ],
   "first_prize_count": 7,
-  "second_prize_count": 43
+  "second_prize_count": 44
 }

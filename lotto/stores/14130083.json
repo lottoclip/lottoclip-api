@@ -1,7 +1,7 @@
 {
   "store_id": "14130083",
   "name": "(I.A) 로또마트",
-  "address": "경기 안산시 단원구  신길로 9-4 ",
+  "address": "경기 안산시 단원구 신길로 9-4",
   "province": "경기",
   "city": "안산시",
   "phone": null,
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.33149,
-  "longitude": 126.786369,
-  "updated_at": "2026-03-06T00:00:28.622408",
+  "latitude": 37.331462,
+  "longitude": 126.78646,
+  "updated_at": "2026-09-12T15:37:27.527580",
   "first_prize_draws": [
     1116,
     1023,
     912
   ],
   "second_prize_draws": [
+    1241,
     1192,
     1188,
     1139,
@@ -30,5 +31,5 @@
     797
   ],
   "first_prize_count": 3,
-  "second_prize_count": 9
+  "second_prize_count": 10
 }

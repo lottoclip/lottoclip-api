@@ -1,7 +1,7 @@
 {
   "store_id": "14140612",
   "name": "복래로또",
-  "address": "경기 광주시  태재로 133 1층",
+  "address": "경기 광주시 태재로 133 1층",
   "province": "경기",
   "city": "광주시",
   "phone": null,
@@ -10,14 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.377149,
-  "longitude": 127.259531,
-  "updated_at": "2026-03-06T00:00:59.836816",
-  "first_prize_draws": [],
+  "latitude": 37.357945,
+  "longitude": 127.16399,
+  "updated_at": "2026-09-12T15:37:27.528253",
+  "first_prize_draws": [
+    1241
+  ],
   "second_prize_draws": [
     1203,
     1047
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 2
 }

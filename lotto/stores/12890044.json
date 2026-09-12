@@ -1,7 +1,7 @@
 {
   "store_id": "12890044",
   "name": "도깨비복권방",
-  "address": "인천 계양구 봉오대로 677  ",
+  "address": "인천 계양구 봉오대로 677",
   "province": "인천",
   "city": "계양구",
   "phone": "032-544-3558",
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.530942,
-  "longitude": 126.724,
-  "updated_at": "2026-03-06T00:01:05.275668",
+  "latitude": 37.530955,
+  "longitude": 126.72398,
+  "updated_at": "2026-09-12T15:37:27.525554",
   "first_prize_draws": [
     442
   ],
   "second_prize_draws": [
+    1241,
     1205,
     1157,
     1042,
@@ -27,5 +28,5 @@
     378
   ],
   "first_prize_count": 1,
-  "second_prize_count": 8
+  "second_prize_count": 9
 }

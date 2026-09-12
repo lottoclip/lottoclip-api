@@ -1,7 +1,7 @@
 {
   "store_id": "12810056",
   "name": "만복래",
-  "address": "인천 부평구  주부토로 20-2 1층",
+  "address": "인천 부평구 주부토로 20-2 1층",
   "province": "인천",
   "city": "부평구",
   "phone": "032-528-5599",
@@ -10,14 +10,15 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.496824,
-  "longitude": 126.724825,
-  "updated_at": "2026-03-06T00:00:37.546071",
+  "latitude": 37.496833,
+  "longitude": 126.72483,
+  "updated_at": "2026-09-12T15:37:27.525241",
   "first_prize_draws": [
     1004,
     862
   ],
   "second_prize_draws": [
+    1241,
     1195,
     1104,
     1072,
@@ -26,5 +27,5 @@
     452
   ],
   "first_prize_count": 2,
-  "second_prize_count": 6
+  "second_prize_count": 7
 }

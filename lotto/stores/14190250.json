@@ -1,7 +1,7 @@
 {
   "store_id": "14190250",
   "name": "대박예감",
-  "address": "경기 화성시  영통로 36 1층",
+  "address": "경기 화성시 병점구 영통로 36 1층",
   "province": "경기",
   "city": "화성시",
   "phone": "031-205-2729",
@@ -11,12 +11,13 @@
     "speetto"
   ],
   "latitude": 37.233971,
-  "longitude": 127.063985,
-  "updated_at": "2026-03-06T00:00:48.374562",
+  "longitude": 127.06398,
+  "updated_at": "2026-09-12T15:37:27.526668",
   "first_prize_draws": [
     267
   ],
   "second_prize_draws": [
+    1241,
     1199,
     1190,
     1178,
@@ -46,5 +47,5 @@
     331
   ],
   "first_prize_count": 1,
-  "second_prize_count": 27
+  "second_prize_count": 28
 }

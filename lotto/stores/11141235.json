@@ -1,7 +1,7 @@
 {
   "store_id": "11141235",
   "name": "천하통일",
-  "address": "서울 동작구 성대로1길 11 1층 103호  ",
+  "address": "서울 동작구 성대로1길 11 1층 103호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,11 +10,12 @@
   ],
   "latitude": 37.500855,
   "longitude": 126.933312,
-  "updated_at": "2026-05-23T14:52:06.045305",
+  "updated_at": "2026-09-12T15:37:27.522574",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1241,
     1225
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14440404",
   "name": "참사랑복권방",
-  "address": "충남 천안시 서북구  백석3로 134 대건프라자 109호",
+  "address": "충남 천안시 서북구 백석3로 134 대건프라자 109호",
   "province": "충남",
   "city": "천안시",
   "phone": null,
@@ -11,14 +11,15 @@
     "speetto"
   ],
   "latitude": 36.822196,
-  "longitude": 127.125018,
-  "updated_at": "2026-03-05T23:56:48.835850",
+  "longitude": 127.12501,
+  "updated_at": "2026-09-12T15:37:27.529264",
   "first_prize_draws": [
     1130
   ],
   "second_prize_draws": [
+    1241,
     1129
   ],
   "first_prize_count": 1,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14120076",
   "name": "일등복권",
-  "address": "경기 양주시 송랑로 223  ",
+  "address": "경기 양주시 송랑로 223",
   "province": "경기",
   "city": "양주시",
   "phone": null,
@@ -12,13 +12,14 @@
   ],
   "latitude": 37.804485,
   "longitude": 127.08531,
-  "updated_at": "2026-08-15T14:09:27.837435",
+  "updated_at": "2026-09-12T15:37:27.527398",
   "first_prize_draws": [
     1149,
     1139,
     968
   ],
   "second_prize_draws": [
+    1241,
     1237,
     1200,
     1199,
@@ -41,5 +42,5 @@
     793
   ],
   "first_prize_count": 3,
-  "second_prize_count": 20
+  "second_prize_count": 21
 }

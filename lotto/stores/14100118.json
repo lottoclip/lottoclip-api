@@ -1,7 +1,7 @@
 {
   "store_id": "14100118",
   "name": "천하명당복권방",
-  "address": "경기 수원시 팔달구 매산로 2  ",
+  "address": "경기 수원시 팔달구 매산로 2",
   "province": "경기",
   "city": "수원시",
   "phone": "031-246-1266",
@@ -12,7 +12,7 @@
   ],
   "latitude": 37.266647,
   "longitude": 127.00188,
-  "updated_at": "2026-09-05T15:20:26.313659",
+  "updated_at": "2026-09-12T15:37:27.527747",
   "first_prize_draws": [
     1239,
     1233,
@@ -29,6 +29,7 @@
     402
   ],
   "second_prize_draws": [
+    1241,
     1240,
     1239,
     1235,
@@ -101,5 +102,5 @@
     405
   ],
   "first_prize_count": 13,
-  "second_prize_count": 70
+  "second_prize_count": 71
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "12640684",
   "name": "플러스 복권방",
-  "address": "부산 남구 수영로39번나길 11  ",
+  "address": "부산 남구 수영로39번나길 11",
   "province": "부산",
   "city": "남구",
   "phone": null,
@@ -11,15 +11,16 @@
     "speetto"
   ],
   "latitude": 35.140385,
-  "longitude": 129.072385,
-  "updated_at": "2026-03-06T00:01:13.396992",
+  "longitude": 129.07238,
+  "updated_at": "2026-09-12T15:37:27.524169",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1241,
     1208,
     1189,
     1181,
     1140
   ],
   "first_prize_count": 0,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }

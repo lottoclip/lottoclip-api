@@ -1,7 +1,7 @@
 {
   "store_id": "14100388",
   "name": "터미널식품",
-  "address": "경기 의정부시  동일로 640 ",
+  "address": "경기 의정부시 동일로 640",
   "province": "경기",
   "city": "의정부시",
   "phone": "031-845-3983",
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.745458,
-  "longitude": 127.055053,
-  "updated_at": "2026-03-06T00:00:59.646587",
+  "latitude": 37.745207,
+  "longitude": 127.05509,
+  "updated_at": "2026-09-12T15:37:27.527131",
   "first_prize_draws": [
     1203,
     720,
@@ -20,6 +20,7 @@
     476
   ],
   "second_prize_draws": [
+    1241,
     1129,
     1069,
     1002,
@@ -36,5 +37,5 @@
     266
   ],
   "first_prize_count": 4,
-  "second_prize_count": 14
+  "second_prize_count": 15
 }

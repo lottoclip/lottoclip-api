@@ -1,7 +1,7 @@
 {
   "store_id": "14190012",
   "name": "럭키로또",
-  "address": "경기 이천시  이섭대천로 1226 1층",
+  "address": "경기 이천시 이섭대천로 1226 1층",
   "province": "경기",
   "city": "이천시",
   "phone": "031-631-0711",
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.279691,
-  "longitude": 127.447053,
-  "updated_at": "2026-03-05T23:54:48.041770",
+  "latitude": 37.279677,
+  "longitude": 127.447,
+  "updated_at": "2026-09-12T15:37:27.527048",
   "first_prize_draws": [
     1049
   ],
   "second_prize_draws": [
+    1241,
     1089,
     1020,
     1008,
@@ -25,5 +26,5 @@
     532
   ],
   "first_prize_count": 1,
-  "second_prize_count": 6
+  "second_prize_count": 7
 }

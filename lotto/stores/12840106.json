@@ -1,7 +1,7 @@
 {
   "store_id": "12840106",
   "name": "로또맛집",
-  "address": "인천 남동구  소래역남로16번길 29 103호",
+  "address": "인천 남동구 소래역남로16번길 29 1층 108호",
   "province": "인천",
   "city": "남동구",
   "phone": null,
@@ -11,12 +11,13 @@
     "speetto"
   ],
   "latitude": 37.398589,
-  "longitude": 126.735086,
-  "updated_at": "2026-03-05T23:54:39.352889",
+  "longitude": 126.73508,
+  "updated_at": "2026-09-12T15:37:27.525468",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1241,
     1086
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

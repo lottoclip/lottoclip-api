@@ -1,7 +1,7 @@
 {
   "store_id": "13100028",
   "name": "복권방(행운열차)",
-  "address": "울산 중구 다운로 114  ",
+  "address": "울산 중구 다운로 114",
   "province": "울산",
   "city": "중구",
   "phone": "052-222-3382",
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.563121,
-  "longitude": 129.267293,
-  "updated_at": "2026-03-07T13:10:24.782108",
+  "latitude": 35.563092,
+  "longitude": 129.26726,
+  "updated_at": "2026-09-12T15:37:27.526571",
   "first_prize_draws": [
     676
   ],
   "second_prize_draws": [
+    1241,
     1213,
     1208,
     1207,
@@ -34,5 +35,5 @@
     501
   ],
   "first_prize_count": 1,
-  "second_prize_count": 15
+  "second_prize_count": 16
 }

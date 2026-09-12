@@ -1,7 +1,7 @@
 {
   "store_id": "14240093",
   "name": "더블로또",
-  "address": "강원 양구군  양구새싹로 22 1층 GS25",
+  "address": "강원 양구군 양구새싹로 22 1층 GS25",
   "province": "강원",
   "city": "양구군",
   "phone": null,
@@ -11,15 +11,16 @@
     "speetto"
   ],
   "latitude": 38.102083,
-  "longitude": 127.987883,
-  "updated_at": "2026-03-05T23:59:14.218235",
+  "longitude": 127.98788,
+  "updated_at": "2026-09-12T15:37:27.528833",
   "first_prize_draws": [
     1000
   ],
   "second_prize_draws": [
+    1241,
     1171,
     1068
   ],
   "first_prize_count": 1,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

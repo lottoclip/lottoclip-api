@@ -1,7 +1,7 @@
 {
   "store_id": "14142703",
   "name": "칠성복권방",
-  "address": "경기 용인시 처인구 금령로 99-1 1층 101호  ",
+  "address": "경기 용인시 처인구 금령로 99-1 1층 101호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,11 +10,13 @@
   ],
   "latitude": 37.235736,
   "longitude": 127.20738,
-  "updated_at": "2026-04-18T14:31:55.936346",
-  "first_prize_draws": [],
+  "updated_at": "2026-09-12T15:37:27.527303",
+  "first_prize_draws": [
+    1241
+  ],
   "second_prize_draws": [
     1220
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 1
 }

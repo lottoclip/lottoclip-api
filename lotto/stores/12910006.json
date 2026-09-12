@@ -1,7 +1,7 @@
 {
   "store_id": "12910006",
   "name": "새상무복권",
-  "address": "광주 서구  치평로 30 수암빌딩 1층 102호",
+  "address": "전남광주 서구 치평로 30 수암빌딩 1층 102호",
   "province": "광주",
   "city": "서구",
   "phone": null,
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.149943,
-  "longitude": 126.847684,
-  "updated_at": "2026-03-06T00:00:59.466127",
+  "latitude": 35.149953,
+  "longitude": 126.84766,
+  "updated_at": "2026-09-12T15:37:27.525963",
   "first_prize_draws": [
     1146,
     1040,
@@ -21,6 +21,7 @@
     781
   ],
   "second_prize_draws": [
+    1241,
     1203,
     1201,
     1157,
@@ -41,5 +42,5 @@
     536
   ],
   "first_prize_count": 5,
-  "second_prize_count": 18
+  "second_prize_count": 19
 }

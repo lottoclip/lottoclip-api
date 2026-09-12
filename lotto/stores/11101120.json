@@ -1,7 +1,7 @@
 {
   "store_id": "11101120",
   "name": "대박종합복권가로판매점",
-  "address": "서울 서대문구 신촌로 75 가로판매대  ",
+  "address": "서울 서대문구 신촌로 75-2 가로판매대",
   "province": "서울",
   "city": "서대문구",
   "phone": "02-324-9175",
@@ -10,14 +10,15 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.556063,
-  "longitude": 126.93479,
-  "updated_at": "2026-03-06T00:01:22.431415",
+  "latitude": 37.556066,
+  "longitude": 126.93474,
+  "updated_at": "2026-09-12T15:37:27.522465",
   "first_prize_draws": [
     964,
     702
   ],
   "second_prize_draws": [
+    1241,
     1211,
     1157,
     1114,
@@ -29,5 +30,5 @@
     474
   ],
   "first_prize_count": 2,
-  "second_prize_count": 9
+  "second_prize_count": 10
 }

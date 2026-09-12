@@ -1,7 +1,7 @@
 {
   "store_id": "11100282",
-  "name": "다온복권",
-  "address": "서울 강북구 번동(번제3동) 306-11 1층 103호",
+  "name": "다온 편의점",
+  "address": "서울 강북구 오현로 190 1층 103호",
   "province": "서울",
   "city": "강북구",
   "phone": "02-987-3611",
@@ -11,13 +11,14 @@
     "speetto"
   ],
   "latitude": 37.628474,
-  "longitude": 127.039412,
-  "updated_at": "2026-03-05T23:42:55.820527",
+  "longitude": 127.03941,
+  "updated_at": "2026-09-12T15:37:27.523007",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1241,
     870,
     840
   ],
   "first_prize_count": 0,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

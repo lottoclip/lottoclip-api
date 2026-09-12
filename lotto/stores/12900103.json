@@ -1,7 +1,7 @@
 {
   "store_id": "12900103",
   "name": "해피+24시편의점",
-  "address": "광주 북구 하서로 330  ",
+  "address": "전남광주 북구 하서로 330",
   "province": "광주",
   "city": "북구",
   "phone": "062-574-1061",
@@ -12,7 +12,7 @@
   ],
   "latitude": 35.20473,
   "longitude": 126.8738,
-  "updated_at": "2026-07-04T14:55:33.581874",
+  "updated_at": "2026-09-12T15:37:27.526066",
   "first_prize_draws": [
     1217,
     1175,
@@ -23,6 +23,7 @@
     771
   ],
   "second_prize_draws": [
+    1241,
     1231,
     1217,
     1194,
@@ -50,5 +51,5 @@
     517
   ],
   "first_prize_count": 7,
-  "second_prize_count": 25
+  "second_prize_count": 26
 }

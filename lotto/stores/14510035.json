@@ -1,7 +1,7 @@
 {
   "store_id": "14510035",
   "name": "돈방석",
-  "address": "전북 전주시 완산구  서신로 35 ",
+  "address": "전북 전주시 완산구 서신로 35",
   "province": "전북",
   "city": "전주시",
   "phone": "063-278-8632",
@@ -10,14 +10,15 @@
   ],
   "latitude": 35.828547,
   "longitude": 127.115581,
-  "updated_at": "2026-03-05T23:58:34.196401",
+  "updated_at": "2026-09-12T15:37:27.530117",
   "first_prize_draws": [
     1157
   ],
   "second_prize_draws": [
+    1241,
     959,
     869
   ],
   "first_prize_count": 1,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

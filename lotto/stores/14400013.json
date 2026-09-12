@@ -1,7 +1,7 @@
 {
   "store_id": "14400013",
   "name": "천하명당복권방",
-  "address": "충남 홍성군 조양로 180  ",
+  "address": "충남 홍성군 조양로 180",
   "province": "충남",
   "city": "홍성군",
   "phone": null,
@@ -11,7 +11,7 @@
   ],
   "latitude": 36.60073,
   "longitude": 126.66948,
-  "updated_at": "2026-06-13T15:23:11.456740",
+  "updated_at": "2026-09-12T15:37:27.529081",
   "first_prize_draws": [
     1210,
     1140,
@@ -23,6 +23,7 @@
     561
   ],
   "second_prize_draws": [
+    1241,
     1228,
     1205,
     1204,
@@ -67,5 +68,5 @@
     286
   ],
   "first_prize_count": 8,
-  "second_prize_count": 42
+  "second_prize_count": 43
 }

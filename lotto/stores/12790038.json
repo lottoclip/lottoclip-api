@@ -1,7 +1,7 @@
 {
   "store_id": "12790038",
   "name": "1등다수복권마트",
-  "address": "대구 북구 팔달로27길 81 1층  ",
+  "address": "대구 북구 팔달로27길 81 1층",
   "province": "대구",
   "city": "북구",
   "phone": "053-283-3033",
@@ -12,12 +12,13 @@
   ],
   "latitude": 35.892204,
   "longitude": 128.56796,
-  "updated_at": "2026-06-27T15:05:55.178239",
+  "updated_at": "2026-09-12T15:37:27.524933",
   "first_prize_draws": [
     1135,
     693
   ],
   "second_prize_draws": [
+    1241,
     1230,
     1224,
     1152,
@@ -35,5 +36,5 @@
     319
   ],
   "first_prize_count": 2,
-  "second_prize_count": 15
+  "second_prize_count": 16
 }

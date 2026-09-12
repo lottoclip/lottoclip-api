@@ -1,7 +1,7 @@
 {
   "store_id": "11101518",
   "name": "리더스",
-  "address": "서울 중랑구  봉화산로 194 신아타운105",
+  "address": "서울 중랑구 봉화산로 194 신아타운105",
   "province": "서울",
   "city": "중랑구",
   "phone": "02-3423-2288",
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.606417,
-  "longitude": 127.094703,
-  "updated_at": "2026-03-06T00:00:15.706595",
+  "latitude": 37.606437,
+  "longitude": 127.09469,
+  "updated_at": "2026-09-12T15:37:27.519207",
   "first_prize_draws": [
     1128
   ],
   "second_prize_draws": [
+    1241,
     1188,
     1137,
     1061,
@@ -30,5 +31,5 @@
     545
   ],
   "first_prize_count": 1,
-  "second_prize_count": 11
+  "second_prize_count": 12
 }

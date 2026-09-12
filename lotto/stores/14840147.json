@@ -1,7 +1,7 @@
 {
   "store_id": "14840147",
   "name": "로또 봉하점",
-  "address": "경남 김해시  봉하로 24 CU편의점 좌측 복권판매점",
+  "address": "경남 김해시 봉하로 24 CU편의점 좌측 복권판매점",
   "province": "경남",
   "city": "김해시",
   "phone": null,
@@ -10,10 +10,11 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.314568,
-  "longitude": 128.760368,
-  "updated_at": "2026-03-05T23:59:38.095203",
+  "latitude": 35.314579,
+  "longitude": 128.76035,
+  "updated_at": "2026-09-12T15:37:27.531014",
   "first_prize_draws": [
+    1241,
     1109
   ],
   "second_prize_draws": [
@@ -25,6 +26,6 @@
     987,
     972
   ],
-  "first_prize_count": 1,
+  "first_prize_count": 2,
   "second_prize_count": 7
 }

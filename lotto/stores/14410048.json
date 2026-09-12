@@ -1,7 +1,7 @@
 {
   "store_id": "14410048",
   "name": "복권명당 신세계",
-  "address": "충남 천안시 동남구 터미널2로 26-1 1층(북쪽)  ",
+  "address": "충남 천안시 동남구 터미널2로 26-1 1층(북쪽)",
   "province": "충남",
   "city": "천안시",
   "phone": "041-558-0645",
@@ -12,11 +12,12 @@
   ],
   "latitude": 36.821312,
   "longitude": 127.15842,
-  "updated_at": "2026-05-16T14:44:53.914217",
+  "updated_at": "2026-09-12T15:37:27.529545",
   "first_prize_draws": [
     732
   ],
   "second_prize_draws": [
+    1241,
     1224,
     1044,
     1030,
@@ -40,5 +41,5 @@
     350
   ],
   "first_prize_count": 1,
-  "second_prize_count": 21
+  "second_prize_count": 22
 }

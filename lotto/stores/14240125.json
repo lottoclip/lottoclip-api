@@ -1,7 +1,7 @@
 {
   "store_id": "14240125",
   "name": "평창로또",
-  "address": "강원 평창군  평창중앙로 42 ",
+  "address": "강원 평창군 평창중앙로 42",
   "province": "강원",
   "city": "평창군",
   "phone": null,
@@ -10,17 +10,18 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.367919,
-  "longitude": 128.395599,
-  "updated_at": "2026-03-06T00:00:40.603582",
+  "latitude": 37.36782,
+  "longitude": 128.39569,
+  "updated_at": "2026-09-12T15:37:27.528691",
   "first_prize_draws": [
     1123
   ],
   "second_prize_draws": [
+    1241,
     1196,
     1174,
     1119
   ],
   "first_prize_count": 1,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

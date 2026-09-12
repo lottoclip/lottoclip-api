@@ -1,7 +1,7 @@
 {
   "store_id": "14700020",
   "name": "하나유통",
-  "address": "경북 경산시  공단2로 7 ",
+  "address": "경북 경산시 공단2로 7",
   "province": "경북",
   "city": "경산시",
   "phone": "053-856-6825",
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.871767,
-  "longitude": 128.819978,
-  "updated_at": "2026-03-05T23:59:49.068230",
+  "latitude": 35.871756,
+  "longitude": 128.81996,
+  "updated_at": "2026-09-12T15:37:27.530696",
   "first_prize_draws": [
     1178
   ],
   "second_prize_draws": [
+    1241,
     1154,
     1143,
     1119,
@@ -42,5 +43,5 @@
     292
   ],
   "first_prize_count": 1,
-  "second_prize_count": 23
+  "second_prize_count": 24
 }

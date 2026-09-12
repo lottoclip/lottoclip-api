@@ -1,7 +1,7 @@
 {
   "store_id": "13000141",
   "name": "돈벼락마트",
-  "address": "대전 중구  충무로 169 1층 슈퍼",
+  "address": "대전 중구 충무로 169 1층 슈퍼",
   "province": "대전",
   "city": "중구",
   "phone": "042-526-6111",
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 36.320898,
+  "latitude": 36.320908,
   "longitude": 127.43496,
-  "updated_at": "2026-03-05T23:56:06.701475",
+  "updated_at": "2026-09-12T15:37:27.526379",
   "first_prize_draws": [
     641
   ],
   "second_prize_draws": [
+    1241,
     1116,
     1088,
     1078,
@@ -27,5 +28,5 @@
     443
   ],
   "first_prize_count": 1,
-  "second_prize_count": 8
+  "second_prize_count": 9
 }

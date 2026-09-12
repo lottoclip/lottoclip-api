@@ -1,7 +1,7 @@
 {
   "store_id": "14410055",
   "name": "로또복권두정점",
-  "address": "충남 천안시 서북구 두정로 251 대원빌딩104호  ",
+  "address": "충남 천안시 서북구 두정로 251 대원빌딩104호",
   "province": "충남",
   "city": "천안시",
   "phone": "041-565-8880",
@@ -12,7 +12,7 @@
   ],
   "latitude": 36.833448,
   "longitude": 127.145,
-  "updated_at": "2026-07-04T14:55:33.589857",
+  "updated_at": "2026-09-12T15:37:27.529174",
   "first_prize_draws": [
     1209,
     1172,
@@ -26,6 +26,7 @@
     462
   ],
   "second_prize_draws": [
+    1241,
     1231,
     1172,
     1139,
@@ -65,5 +66,5 @@
     282
   ],
   "first_prize_count": 10,
-  "second_prize_count": 37
+  "second_prize_count": 38
 }

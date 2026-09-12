@@ -1,7 +1,7 @@
 {
   "store_id": "14141241",
   "name": "1번지복권방",
-  "address": "경기 성남시 중원구  희망로 448 1층일부 (금광동)",
+  "address": "경기 성남시 중원구 희망로 448 1층일부 (금광동)",
   "province": "경기",
   "city": "성남시",
   "phone": "031-734-3737",
@@ -10,20 +10,21 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.444973,
-  "longitude": 127.15739,
-  "updated_at": "2026-03-06T00:00:13.467268",
+  "latitude": 37.444901,
+  "longitude": 127.15729,
+  "updated_at": "2026-09-12T15:37:27.527849",
   "first_prize_draws": [
     1187,
     1128,
     1032
   ],
   "second_prize_draws": [
+    1241,
     1151,
     1078,
     1074,
     1055
   ],
   "first_prize_count": 3,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }

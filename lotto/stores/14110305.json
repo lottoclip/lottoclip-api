@@ -1,7 +1,7 @@
 {
   "store_id": "14110305",
   "name": "행운복권방",
-  "address": "경기 의정부시 충의로 55 1층  ",
+  "address": "경기 의정부시 충의로 55 1층",
   "province": "경기",
   "city": "의정부시",
   "phone": "031-851-1764",
@@ -12,7 +12,7 @@
   ],
   "latitude": 37.736763,
   "longitude": 127.0872,
-  "updated_at": "2026-09-05T15:20:26.312883",
+  "updated_at": "2026-09-12T15:37:27.527217",
   "first_prize_draws": [
     1207,
     1203,
@@ -24,6 +24,7 @@
     395
   ],
   "second_prize_draws": [
+    1241,
     1240,
     1215,
     1204,
@@ -47,5 +48,5 @@
     290
   ],
   "first_prize_count": 8,
-  "second_prize_count": 21
+  "second_prize_count": 22
 }

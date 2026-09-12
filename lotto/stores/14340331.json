@@ -1,7 +1,7 @@
 {
   "store_id": "14340331",
   "name": "빵야복권",
-  "address": "충북 진천군 귀농3길 136 해오름타운 117호  ",
+  "address": "충북 진천군 귀농3길 136 해오름타운, 117호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,11 +10,12 @@
   ],
   "latitude": 36.90857,
   "longitude": 127.4878,
-  "updated_at": "2026-03-07T13:10:24.790898",
+  "updated_at": "2026-09-12T15:37:27.528917",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1241,
     1213
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

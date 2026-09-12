@@ -1,7 +1,7 @@
 {
   "store_id": "11190060",
   "name": "유성포장",
-  "address": "서울 구로구 도림로 85 1층코너  ",
+  "address": "서울 구로구 도림로 85 1층코너",
   "province": "서울",
   "city": "구로구",
   "phone": "02-853-1114",
@@ -12,8 +12,10 @@
   ],
   "latitude": 37.490443,
   "longitude": 126.8926,
-  "updated_at": "2026-05-16T14:44:53.903490",
-  "first_prize_draws": [],
+  "updated_at": "2026-09-12T15:37:27.522799",
+  "first_prize_draws": [
+    1241
+  ],
   "second_prize_draws": [
     1224,
     1099,
@@ -21,6 +23,6 @@
     632,
     291
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 5
 }
