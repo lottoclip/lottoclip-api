@@ -1,7 +1,7 @@
 {
   "store_id": "14190115",
   "name": "송가상사",
-  "address": "경기 안산시 단원구  중앙대로 462 안산역사쇼핑몰1층131-3호",
+  "address": "경기 안산시 단원구 중앙대로 462 안산역사쇼핑몰1층131-3호",
   "province": "경기",
   "city": "안산시",
   "phone": "031-493-3359",
@@ -9,13 +9,14 @@
     "lotto645",
     "pension720"
   ],
-  "latitude": 37.327017,
-  "longitude": 126.789549,
-  "updated_at": "2026-03-05T23:58:48.779269",
+  "latitude": 37.327306,
+  "longitude": 126.7896,
+  "updated_at": "2026-09-19T15:57:15.982288",
   "first_prize_draws": [
     795
   ],
   "second_prize_draws": [
+    1242,
     1162,
     1103,
     924,
@@ -30,5 +31,5 @@
     343
   ],
   "first_prize_count": 1,
-  "second_prize_count": 12
+  "second_prize_count": 13
 }

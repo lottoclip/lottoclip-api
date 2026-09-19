@@ -1,7 +1,7 @@
 {
   "store_id": "11100250",
   "name": "복권나라",
-  "address": "서울 관악구  은천로 40-1 ",
+  "address": "서울 관악구 은천로 40-1 1층",
   "province": "서울",
   "city": "관악구",
   "phone": "02-882-5077",
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.485988,
-  "longitude": 126.939821,
-  "updated_at": "2026-03-06T00:00:45.641527",
+  "latitude": 37.486017,
+  "longitude": 126.93984,
+  "updated_at": "2026-09-19T15:57:15.974644",
   "first_prize_draws": [
     1142,
     1100,
@@ -21,6 +21,7 @@
     784
   ],
   "second_prize_draws": [
+    1242,
     1198,
     1179,
     1077,
@@ -36,5 +37,5 @@
     268
   ],
   "first_prize_count": 5,
-  "second_prize_count": 13
+  "second_prize_count": 14
 }

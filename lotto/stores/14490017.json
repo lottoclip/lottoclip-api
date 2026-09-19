@@ -1,7 +1,7 @@
 {
   "store_id": "14490017",
   "name": "충청복권전문점",
-  "address": "충남 천안시 서북구 성환2로 108  ",
+  "address": "충남 천안시 서북구 성환2로 108",
   "province": "충남",
   "city": "천안시",
   "phone": "041-584-3740",
@@ -12,7 +12,7 @@
   ],
   "latitude": 36.916957,
   "longitude": 127.13285,
-  "updated_at": "2026-08-15T14:09:27.849129",
+  "updated_at": "2026-09-19T15:57:15.987726",
   "first_prize_draws": [
     1162,
     933,
@@ -20,6 +20,7 @@
     594
   ],
   "second_prize_draws": [
+    1242,
     1237,
     1226,
     1166,
@@ -44,5 +45,5 @@
     297
   ],
   "first_prize_count": 4,
-  "second_prize_count": 22
+  "second_prize_count": 23
 }

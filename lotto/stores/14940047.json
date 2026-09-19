@@ -1,7 +1,7 @@
 {
   "store_id": "14940047",
   "name": "로또 휴게",
-  "address": "제주 제주시 연삼로 626  ",
+  "address": "제주 제주시 연삼로 626",
   "province": "제주",
   "city": "제주시",
   "phone": null,
@@ -12,12 +12,13 @@
   ],
   "latitude": 33.506299,
   "longitude": 126.55472,
-  "updated_at": "2026-07-04T14:55:33.595555",
+  "updated_at": "2026-09-19T15:57:15.993070",
   "first_prize_draws": [
     1231,
     1031
   ],
   "second_prize_draws": [
+    1242,
     1226,
     1190,
     1175,
@@ -29,5 +30,5 @@
     935
   ],
   "first_prize_count": 2,
-  "second_prize_count": 9
+  "second_prize_count": 10
 }

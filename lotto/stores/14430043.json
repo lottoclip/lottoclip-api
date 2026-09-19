@@ -1,7 +1,7 @@
 {
   "store_id": "14430043",
   "name": "GS25 당진서해로점",
-  "address": "충남 당진시  서해로 6869 ",
+  "address": "충남 당진시 서해로 6869 1층",
   "province": "충남",
   "city": "당진시",
   "phone": null,
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 36.8866,
-  "longitude": 126.740257,
-  "updated_at": "2026-03-06T00:00:43.429164",
+  "latitude": 36.886581,
+  "longitude": 126.74027,
+  "updated_at": "2026-09-19T15:57:15.988117",
   "first_prize_draws": [
     1004
   ],
   "second_prize_draws": [
+    1242,
     1197,
     1125,
     1098,
@@ -27,5 +28,5 @@
     949
   ],
   "first_prize_count": 1,
-  "second_prize_count": 8
+  "second_prize_count": 9
 }

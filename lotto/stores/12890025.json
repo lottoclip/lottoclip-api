@@ -1,7 +1,7 @@
 {
   "store_id": "12890025",
   "name": "대박천하마트",
-  "address": "인천 부평구 굴포로 48  ",
+  "address": "인천 부평구 굴포로 48",
   "province": "인천",
   "city": "부평구",
   "phone": "032-507-2505",
@@ -12,7 +12,7 @@
   ],
   "latitude": 37.511576,
   "longitude": 126.7263,
-  "updated_at": "2026-08-29T17:25:28.630059",
+  "updated_at": "2026-09-19T15:57:15.977531",
   "first_prize_draws": [
     1170,
     1125,
@@ -28,6 +28,7 @@
     569
   ],
   "second_prize_draws": [
+    1242,
     1239,
     1229,
     1228,
@@ -105,5 +106,5 @@
     305
   ],
   "first_prize_count": 12,
-  "second_prize_count": 75
+  "second_prize_count": 76
 }

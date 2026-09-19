@@ -1,7 +1,7 @@
 {
   "store_id": "12940148",
   "name": "열정복권",
-  "address": "광주 북구 하남대로 821 1층  ",
+  "address": "전남광주 북구 하남대로 821 1층",
   "province": "광주",
   "city": "북구",
   "phone": null,
@@ -12,15 +12,16 @@
   ],
   "latitude": 35.171238,
   "longitude": 126.88249,
-  "updated_at": "2026-07-11T14:42:32.902339",
+  "updated_at": "2026-09-19T15:57:15.978605",
   "first_prize_draws": [
     1160
   ],
   "second_prize_draws": [
+    1242,
     1232,
     1216,
     1211
   ],
   "first_prize_count": 1,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

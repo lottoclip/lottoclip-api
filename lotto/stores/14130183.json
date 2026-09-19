@@ -1,7 +1,7 @@
 {
   "store_id": "14130183",
   "name": "한길",
-  "address": "경기 화성시  삼천병마로 709 ",
+  "address": "경기 화성시 효행구 삼천병마로 709",
   "province": "경기",
   "city": "화성시",
   "phone": "070-8845-6041",
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.17124,
-  "longitude": 126.935964,
-  "updated_at": "2026-03-06T00:01:02.666688",
+  "latitude": 37.171155,
+  "longitude": 126.93593,
+  "updated_at": "2026-09-19T15:57:15.980665",
   "first_prize_draws": [
     1009
   ],
   "second_prize_draws": [
+    1242,
     1204,
     1191,
     1128,
@@ -30,5 +31,5 @@
     815
   ],
   "first_prize_count": 1,
-  "second_prize_count": 11
+  "second_prize_count": 12
 }

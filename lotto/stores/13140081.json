@@ -1,7 +1,7 @@
 {
   "store_id": "13140081",
   "name": "새희망로또",
-  "address": "울산 중구  백양로 47 ",
+  "address": "울산 중구 백양로 47 CU편의점 내",
   "province": "울산",
   "city": "중구",
   "phone": "052-243-8058",
@@ -10,13 +10,15 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.574466,
-  "longitude": 129.311693,
-  "updated_at": "2026-03-05T23:55:42.228253",
+  "latitude": 35.574477,
+  "longitude": 129.31169,
+  "updated_at": "2026-09-19T15:57:15.979849",
   "first_prize_draws": [
     1108
   ],
-  "second_prize_draws": [],
+  "second_prize_draws": [
+    1242
+  ],
   "first_prize_count": 1,
-  "second_prize_count": 0
+  "second_prize_count": 1
 }

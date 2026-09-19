@@ -1,7 +1,7 @@
 {
   "store_id": "12840083",
   "name": "검단1등로또(주인공)",
-  "address": "인천 서구 이음5로 65 검단 금호어울림센트럴 상가동 제지2층 제102호  ",
+  "address": "인천 검단구 원당대로 865 1층",
   "province": "인천",
   "city": "서구",
   "phone": "032-563-8303",
@@ -12,8 +12,9 @@
   ],
   "latitude": 37.593892,
   "longitude": 126.69774,
-  "updated_at": "2026-03-06T00:01:05.252850",
+  "updated_at": "2026-09-19T15:57:15.978174",
   "first_prize_draws": [
+    1242,
     1073
   ],
   "second_prize_draws": [
@@ -21,6 +22,6 @@
     1153,
     953
   ],
-  "first_prize_count": 1,
+  "first_prize_count": 2,
   "second_prize_count": 3
 }

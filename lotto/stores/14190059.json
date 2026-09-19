@@ -1,7 +1,7 @@
 {
   "store_id": "14190059",
   "name": "전인정보통신",
-  "address": "경기 남양주시  진건오남로 658 외1필지1층101",
+  "address": "경기 남양주시 진건오남로 658 1층",
   "province": "경기",
   "city": "남양주시",
   "phone": "031-575-2181",
@@ -10,14 +10,15 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.69125,
-  "longitude": 127.214507,
-  "updated_at": "2026-03-05T23:58:20.047624",
+  "latitude": 37.691356,
+  "longitude": 127.21463,
+  "updated_at": "2026-09-19T15:57:15.984948",
   "first_prize_draws": [
     1152,
     757
   ],
   "second_prize_draws": [
+    1242,
     1053,
     1003,
     946,
@@ -28,5 +29,5 @@
     368
   ],
   "first_prize_count": 2,
-  "second_prize_count": 8
+  "second_prize_count": 9
 }

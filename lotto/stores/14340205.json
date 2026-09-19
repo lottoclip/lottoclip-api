@@ -1,7 +1,7 @@
 {
   "store_id": "14340205",
   "name": "영광로또",
-  "address": "충북 충주시  충청대로 2220-2 1층",
+  "address": "충북 충주시 중원대로 3822 1층",
   "province": "충북",
   "city": "충주시",
   "phone": null,
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 36.959223,
-  "longitude": 127.768539,
-  "updated_at": "2026-03-05T23:56:46.156640",
+  "latitude": 36.962311,
+  "longitude": 127.88233,
+  "updated_at": "2026-09-19T15:57:15.987129",
   "first_prize_draws": [
     993
   ],
   "second_prize_draws": [
+    1242,
     1129,
     1065,
     1057,
@@ -24,5 +25,5 @@
     1003
   ],
   "first_prize_count": 1,
-  "second_prize_count": 5
+  "second_prize_count": 6
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "12600007",
   "name": "노다지복권방",
-  "address": "부산 북구 덕천로 287  ",
+  "address": "부산 북구 덕천로 287",
   "province": "부산",
   "city": "북구",
   "phone": "051-337-2134",
@@ -11,8 +11,8 @@
     "speetto"
   ],
   "latitude": 35.20986,
-  "longitude": 129.035352,
-  "updated_at": "2026-03-21T14:15:33.589625",
+  "longitude": 129.03535,
+  "updated_at": "2026-09-19T15:57:15.976275",
   "first_prize_draws": [
     1144,
     1055,
@@ -21,6 +21,7 @@
     431
   ],
   "second_prize_draws": [
+    1242,
     1216,
     1190,
     1188,
@@ -41,5 +42,5 @@
     435
   ],
   "first_prize_count": 5,
-  "second_prize_count": 18
+  "second_prize_count": 19
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "12620004",
   "name": "돼지복권명당",
-  "address": "부산 기장군  해맞이로 365-1 ",
+  "address": "부산 기장군 해맞이로 365-1",
   "province": "부산",
   "city": "기장군",
   "phone": null,
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.326549,
-  "longitude": 129.276677,
-  "updated_at": "2026-03-06T00:00:15.886220",
+  "latitude": 35.32653,
+  "longitude": 129.27667,
+  "updated_at": "2026-09-19T15:57:15.976899",
   "first_prize_draws": [
     1176,
     1152,
     969
   ],
   "second_prize_draws": [
+    1242,
     1188,
     1158,
     1153,
@@ -28,5 +29,5 @@
     735
   ],
   "first_prize_count": 3,
-  "second_prize_count": 7
+  "second_prize_count": 8
 }

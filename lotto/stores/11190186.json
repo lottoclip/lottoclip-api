@@ -1,7 +1,7 @@
 {
   "store_id": "11190186",
   "name": "나인투화이브양재점",
-  "address": "서울 서초구  동산로 18 ",
+  "address": "서울 서초구 동산로 18",
   "province": "서울",
   "city": "서초구",
   "phone": "02-578-8187",
@@ -12,9 +12,10 @@
   ],
   "latitude": 37.469591,
   "longitude": 127.04169,
-  "updated_at": "2026-03-06T00:00:25.064781",
+  "updated_at": "2026-09-19T15:57:15.973152",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1242,
     1191,
     1096,
     970,
@@ -24,5 +25,5 @@
     424
   ],
   "first_prize_count": 0,
-  "second_prize_count": 7
+  "second_prize_count": 8
 }

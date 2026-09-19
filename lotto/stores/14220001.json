@@ -1,7 +1,7 @@
 {
   "store_id": "14220001",
   "name": "행운복권",
-  "address": "강원 고성군 간성로 17 102호  ",
+  "address": "강원 고성군 간성로 17 102호",
   "province": "강원",
   "city": "고성군",
   "phone": "033-681-2233",
@@ -12,9 +12,10 @@
   ],
   "latitude": 38.378575,
   "longitude": 128.47312,
-  "updated_at": "2026-06-13T15:23:11.456096",
+  "updated_at": "2026-09-19T15:57:15.986939",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1242,
     1228,
     1193,
     1186,
@@ -26,5 +27,5 @@
     774
   ],
   "first_prize_count": 0,
-  "second_prize_count": 9
+  "second_prize_count": 10
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14141827",
   "name": "로또명당카페",
-  "address": "경기 시흥시 거북섬2길 21 1층 103호  ",
+  "address": "경기 시흥시 거북섬2길 21 1층 103호",
   "province": "경기",
   "city": "시흥시",
   "phone": null,
@@ -12,13 +12,14 @@
   ],
   "latitude": 37.326875,
   "longitude": 126.67705,
-  "updated_at": "2026-04-18T14:31:55.937182",
+  "updated_at": "2026-09-19T15:57:15.982492",
   "first_prize_draws": [
     1163
   ],
   "second_prize_draws": [
+    1242,
     1220
   ],
   "first_prize_count": 1,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

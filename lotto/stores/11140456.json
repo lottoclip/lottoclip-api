@@ -1,7 +1,7 @@
 {
   "store_id": "11140456",
   "name": "차오르다",
-  "address": "서울 강서구  강서로54길 11 가동1층",
+  "address": "서울 강서구 강서로54길 11 가동1층",
   "province": "서울",
   "city": "강서구",
   "phone": null,
@@ -10,10 +10,11 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.559306,
-  "longitude": 126.839317,
-  "updated_at": "2026-03-05T23:58:48.413635",
+  "latitude": 37.559184,
+  "longitude": 126.83923,
+  "updated_at": "2026-09-19T15:57:15.975176",
   "first_prize_draws": [
+    1242,
     1121
   ],
   "second_prize_draws": [
@@ -23,6 +24,6 @@
     1136,
     1059
   ],
-  "first_prize_count": 1,
+  "first_prize_count": 2,
   "second_prize_count": 5
 }

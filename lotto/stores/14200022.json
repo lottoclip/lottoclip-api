@@ -1,7 +1,7 @@
 {
   "store_id": "14200022",
   "name": "행운복권방",
-  "address": "강원 인제군  금강로 23 1층",
+  "address": "강원 인제군 금강로 23 1층",
   "province": "강원",
   "city": "인제군",
   "phone": "033-461-1536",
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 38.122443,
-  "longitude": 128.206809,
-  "updated_at": "2026-03-05T23:59:51.588769",
+  "latitude": 38.122464,
+  "longitude": 128.2069,
+  "updated_at": "2026-09-19T15:57:15.986539",
   "first_prize_draws": [
     730,
     623,
@@ -21,6 +21,7 @@
     477
   ],
   "second_prize_draws": [
+    1242,
     1179,
     1165,
     1138,
@@ -42,5 +43,5 @@
     436
   ],
   "first_prize_count": 5,
-  "second_prize_count": 19
+  "second_prize_count": 20
 }

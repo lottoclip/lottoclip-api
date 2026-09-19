@@ -1,7 +1,7 @@
 {
   "store_id": "14130002",
   "name": "선택복권방",
-  "address": "경기 수원시 장안구  조원로 99-2 1층 101호",
+  "address": "경기 수원시 장안구 조원로 99-2 1층 101호",
   "province": "경기",
   "city": "수원시",
   "phone": null,
@@ -10,11 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.301556,
-  "longitude": 127.014804,
-  "updated_at": "2026-03-05T23:58:30.892544",
+  "latitude": 37.301593,
+  "longitude": 127.01481,
+  "updated_at": "2026-09-19T15:57:15.983078",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1242,
     1156,
     1122,
     929,
@@ -23,5 +24,5 @@
     783
   ],
   "first_prize_count": 0,
-  "second_prize_count": 6
+  "second_prize_count": 7
 }

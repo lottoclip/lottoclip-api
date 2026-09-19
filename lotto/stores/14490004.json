@@ -1,7 +1,7 @@
 {
   "store_id": "14490004",
   "name": "복권명당",
-  "address": "충남 공주시 번영1로 41  ",
+  "address": "충남 공주시 번영1로 41",
   "province": "충남",
   "city": "공주시",
   "phone": "041-857-8252",
@@ -12,7 +12,7 @@
   ],
   "latitude": 36.471857,
   "longitude": 127.13309,
-  "updated_at": "2026-08-15T14:09:27.850440",
+  "updated_at": "2026-09-19T15:57:15.988536",
   "first_prize_draws": [
     1044,
     1012,
@@ -23,6 +23,7 @@
     270
   ],
   "second_prize_draws": [
+    1242,
     1237,
     1202,
     1185,
@@ -57,5 +58,5 @@
     456
   ],
   "first_prize_count": 7,
-  "second_prize_count": 32
+  "second_prize_count": 33
 }

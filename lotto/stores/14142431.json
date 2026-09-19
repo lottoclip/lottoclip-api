@@ -1,7 +1,7 @@
 {
   "store_id": "14142431",
   "name": "달려라 복권방",
-  "address": "경기 남양주시  남가로 1821 104호",
+  "address": "경기 남양주시 남가로 1821 104호",
   "province": "경기",
   "city": "남양주시",
   "phone": null,
@@ -11,15 +11,16 @@
     "speetto"
   ],
   "latitude": 37.694669,
-  "longitude": 127.356259,
-  "updated_at": "2026-03-06T00:00:43.354020",
+  "longitude": 127.35625,
+  "updated_at": "2026-09-19T15:57:15.984752",
   "first_prize_draws": [
     1196
   ],
   "second_prize_draws": [
+    1242,
     1197,
     1194
   ],
   "first_prize_count": 1,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

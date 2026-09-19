@@ -1,7 +1,7 @@
 {
   "store_id": "11100021",
   "name": "꽃길복권방",
-  "address": "서울 강북구  덕릉로 140 ",
+  "address": "서울 강북구 덕릉로 140",
   "province": "서울",
   "city": "강북구",
   "phone": null,
@@ -11,12 +11,13 @@
     "speetto"
   ],
   "latitude": 37.634962,
-  "longitude": 127.029439,
-  "updated_at": "2026-03-05T23:59:43.096552",
+  "longitude": 127.02943,
+  "updated_at": "2026-09-19T15:57:15.975390",
   "first_prize_draws": [
     539
   ],
   "second_prize_draws": [
+    1242,
     1176,
     1150,
     1010,
@@ -26,5 +27,5 @@
     561
   ],
   "first_prize_count": 1,
-  "second_prize_count": 7
+  "second_prize_count": 8
 }

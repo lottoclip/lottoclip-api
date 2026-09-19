@@ -1,7 +1,7 @@
 {
   "store_id": "14600079",
   "name": "나눔로또편의점",
-  "address": "전남광주 광양시 공영로 90  ",
+  "address": "전남광주 광양시 공영로 90",
   "province": "전남",
   "city": "광양시",
   "phone": "061-795-3364",
@@ -12,7 +12,7 @@
   ],
   "latitude": 34.935658,
   "longitude": 127.69904,
-  "updated_at": "2026-08-22T14:08:49.520397",
+  "updated_at": "2026-09-19T15:57:15.990698",
   "first_prize_draws": [
     1238,
     1211,
@@ -21,6 +21,7 @@
     410
   ],
   "second_prize_draws": [
+    1242,
     1214,
     1141,
     1096,
@@ -39,5 +40,5 @@
     710
   ],
   "first_prize_count": 5,
-  "second_prize_count": 16
+  "second_prize_count": 17
 }

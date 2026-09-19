@@ -1,7 +1,7 @@
 {
   "store_id": "14141695",
   "name": "허브",
-  "address": "경기 광명시  신촌북로 9 101호(소하동)",
+  "address": "경기 광명시 신촌북로 9 101호(소하동)",
   "province": "경기",
   "city": "광명시",
   "phone": null,
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.450621,
-  "longitude": 126.890948,
-  "updated_at": "2026-03-05T23:57:05.272993",
+  "latitude": 37.450627,
+  "longitude": 126.89105,
+  "updated_at": "2026-09-19T15:57:15.985507",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1242,
     1136,
     1121,
     1110
   ],
   "first_prize_count": 0,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14710110",
   "name": "로또복권",
-  "address": "경북 김천시 신음새동네길 13  ",
+  "address": "경북 김천시 신음새동네길 13",
   "province": "경북",
   "city": "김천시",
   "phone": "054-433-5989",
@@ -12,13 +12,14 @@
   ],
   "latitude": 36.134779,
   "longitude": 128.1185,
-  "updated_at": "2026-06-13T15:23:11.459957",
+  "updated_at": "2026-09-19T15:57:15.991516",
   "first_prize_draws": [
     1217,
     892,
     861
   ],
   "second_prize_draws": [
+    1242,
     1228,
     1219,
     1179,
@@ -39,5 +40,5 @@
     390
   ],
   "first_prize_count": 3,
-  "second_prize_count": 18
+  "second_prize_count": 19
 }

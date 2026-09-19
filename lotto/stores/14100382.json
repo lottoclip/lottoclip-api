@@ -1,7 +1,7 @@
 {
   "store_id": "14100382",
   "name": "센타슈퍼",
-  "address": "경기 안산시 상록구  광덕1로 369 센타프라자115호",
+  "address": "경기 안산시 상록구 광덕1로 369 센타프라자115호",
   "province": "경기",
   "city": "안산시",
   "phone": null,
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.308115,
-  "longitude": 126.850441,
-  "updated_at": "2026-03-06T00:00:37.807816",
+  "latitude": 37.30815,
+  "longitude": 126.85045,
+  "updated_at": "2026-09-19T15:57:15.982075",
   "first_prize_draws": [
     579
   ],
   "second_prize_draws": [
+    1242,
     1195,
     920,
     867,
@@ -26,5 +27,5 @@
     470
   ],
   "first_prize_count": 1,
-  "second_prize_count": 7
+  "second_prize_count": 8
 }

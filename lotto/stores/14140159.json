@@ -1,20 +1,23 @@
 {
   "store_id": "14140159",
   "name": "행운로또판매점",
-  "address": "경기 시흥시  서울대학로278번길 25-8 112호",
+  "address": "경기 시흥시 서울대학로278번길 25-8 112호",
   "province": "경기",
   "city": "시흥시",
   "phone": "031-433-0883",
   "lottery_types": [
-    "lotto645"
+    "lotto645",
+    "pension720",
+    "speetto"
   ],
-  "latitude": 37.37014,
-  "longitude": 126.728628,
-  "updated_at": "2026-03-05T23:56:59.300928",
+  "latitude": 37.369495,
+  "longitude": 126.72887,
+  "updated_at": "2026-09-19T15:57:15.982682",
   "first_prize_draws": [
     842
   ],
   "second_prize_draws": [
+    1242,
     1134,
     1012,
     986,
@@ -22,5 +25,5 @@
     780
   ],
   "first_prize_count": 1,
-  "second_prize_count": 5
+  "second_prize_count": 6
 }

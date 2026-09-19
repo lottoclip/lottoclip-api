@@ -1,7 +1,7 @@
 {
   "store_id": "11140004",
-  "name": "로또복권",
-  "address": "서울 중랑구 면목동(면목본동) 68-2 105호",
+  "name": "로또복권(서일타운)",
+  "address": "서울 중랑구 상봉로 7 105호",
   "province": "서울",
   "city": "중랑구",
   "phone": null,
@@ -12,11 +12,12 @@
   ],
   "latitude": 37.586577,
   "longitude": 127.094315,
-  "updated_at": "2026-03-05T23:44:36.610692",
+  "updated_at": "2026-09-19T15:57:15.968784",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1242,
     902
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

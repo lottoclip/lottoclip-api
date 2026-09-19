@@ -1,7 +1,7 @@
 {
   "store_id": "11100494",
   "name": "삼육구마트",
-  "address": "서울 양천구  목동중앙본로1길 48 ",
+  "address": "서울 양천구 목동중앙서로 15-1 1층",
   "province": "서울",
   "city": "양천구",
   "phone": "02-2651-1687",
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.537381,
-  "longitude": 126.86832,
-  "updated_at": "2026-03-05T23:47:37.543382",
+  "latitude": 37.532789,
+  "longitude": 126.86552,
+  "updated_at": "2026-09-19T15:57:15.970012",
   "first_prize_draws": [
     693
   ],
   "second_prize_draws": [
+    1242,
     961
   ],
   "first_prize_count": 1,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

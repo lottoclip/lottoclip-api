@@ -1,23 +1,24 @@
 {
   "store_id": "14200114",
   "name": "바른손(퇴계점)",
-  "address": "강원 춘천시  퇴계로 168 주공2단지상가101호",
+  "address": "강원 춘천시 퇴계로 168 주공2단지상가101호",
   "province": "강원",
   "city": "춘천시",
-  "phone": "033-261-9638",
+  "phone": null,
   "lottery_types": [
     "lotto645",
     "pension720",
     "speetto"
   ],
-  "latitude": 37.857913,
-  "longitude": 127.736408,
-  "updated_at": "2026-03-06T00:00:51.301376",
+  "latitude": 37.858123,
+  "longitude": 127.73763,
+  "updated_at": "2026-09-19T15:57:15.986330",
   "first_prize_draws": [
     788,
     492
   ],
   "second_prize_draws": [
+    1242,
     1200,
     1156,
     1150,
@@ -47,5 +48,5 @@
     270
   ],
   "first_prize_count": 2,
-  "second_prize_count": 27
+  "second_prize_count": 28
 }

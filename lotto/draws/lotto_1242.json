@@ -1,0 +1,540 @@
+{
+  "draw_no": 1242,
+  "draw_date": "2026-09-19",
+  "numbers": [
+    2,
+    4,
+    10,
+    16,
+    31,
+    41
+  ],
+  "bonus_number": 9,
+  "prize_info": [
+    {
+      "rank": "1등",
+      "total_prize": "29529263250",
+      "winner_count": "9",
+      "prize_per_winner": "3281029250"
+    },
+    {
+      "rank": "2등",
+      "total_prize": "4921543952",
+      "winner_count": "104",
+      "prize_per_winner": "47322538"
+    },
+    {
+      "rank": "3등",
+      "total_prize": "4921546630",
+      "winner_count": "3206",
+      "prize_per_winner": "1535105"
+    },
+    {
+      "rank": "4등",
+      "total_prize": "8268850000",
+      "winner_count": "165377",
+      "prize_per_winner": "50000"
+    },
+    {
+      "rank": "5등",
+      "total_prize": "13645725000",
+      "winner_count": "2729145",
+      "prize_per_winner": "5000"
+    }
+  ],
+  "total_sales_amount": "122573852000",
+  "first_prize_store_info": [
+    {
+      "store_id": "11141860",
+      "type": "자동"
+    },
+    {
+      "store_id": "51100000",
+      "type": "자동"
+    },
+    {
+      "store_id": "11100130",
+      "type": "자동"
+    },
+    {
+      "store_id": "11140456",
+      "type": "자동"
+    },
+    {
+      "store_id": "12840083",
+      "type": "수동"
+    },
+    {
+      "store_id": "13090003",
+      "type": "자동"
+    },
+    {
+      "store_id": "13000026",
+      "type": "자동"
+    },
+    {
+      "store_id": "14190159",
+      "type": "자동"
+    },
+    {
+      "store_id": "14590017",
+      "type": "자동"
+    }
+  ],
+  "second_prize_store_info": [
+    {
+      "store_id": "11140004",
+      "type": "자동"
+    },
+    {
+      "store_id": "11100163",
+      "type": "자동"
+    },
+    {
+      "store_id": "11190138",
+      "type": "수동"
+    },
+    {
+      "store_id": "11100494",
+      "type": "자동"
+    },
+    {
+      "store_id": "11101710",
+      "type": "자동"
+    },
+    {
+      "store_id": "11141339",
+      "type": "자동"
+    },
+    {
+      "store_id": "11101005",
+      "type": "자동"
+    },
+    {
+      "store_id": "51100000",
+      "type": "수동"
+    },
+    {
+      "store_id": "51100000",
+      "type": "자동"
+    },
+    {
+      "store_id": "51100000",
+      "type": "수동"
+    },
+    {
+      "store_id": "51100000",
+      "type": "자동"
+    },
+    {
+      "store_id": "11141739",
+      "type": "자동"
+    },
+    {
+      "store_id": "11190186",
+      "type": "수동"
+    },
+    {
+      "store_id": "11101337",
+      "type": "자동"
+    },
+    {
+      "store_id": "11190173",
+      "type": "자동"
+    },
+    {
+      "store_id": "11141199",
+      "type": "자동"
+    },
+    {
+      "store_id": "11141167",
+      "type": "자동"
+    },
+    {
+      "store_id": "11130022",
+      "type": "자동"
+    },
+    {
+      "store_id": "11100250",
+      "type": "수동"
+    },
+    {
+      "store_id": "11101475",
+      "type": "자동"
+    },
+    {
+      "store_id": "11100021",
+      "type": "자동"
+    },
+    {
+      "store_id": "11100551",
+      "type": "자동"
+    },
+    {
+      "store_id": "12610223",
+      "type": "자동"
+    },
+    {
+      "store_id": "12640602",
+      "type": "자동"
+    },
+    {
+      "store_id": "12600007",
+      "type": "자동"
+    },
+    {
+      "store_id": "12690049",
+      "type": "자동"
+    },
+    {
+      "store_id": "12600344",
+      "type": "반자동"
+    },
+    {
+      "store_id": "12620004",
+      "type": "자동"
+    },
+    {
+      "store_id": "12840194",
+      "type": "자동"
+    },
+    {
+      "store_id": "12800200",
+      "type": "수동"
+    },
+    {
+      "store_id": "12890025",
+      "type": "자동"
+    },
+    {
+      "store_id": "12840337",
+      "type": "자동"
+    },
+    {
+      "store_id": "12840591",
+      "type": "자동"
+    },
+    {
+      "store_id": "12900033",
+      "type": "자동"
+    },
+    {
+      "store_id": "12940148",
+      "type": "자동"
+    },
+    {
+      "store_id": "12900017",
+      "type": "자동"
+    },
+    {
+      "store_id": "13040179",
+      "type": "자동"
+    },
+    {
+      "store_id": "13040028",
+      "type": "자동"
+    },
+    {
+      "store_id": "13140081",
+      "type": "자동"
+    },
+    {
+      "store_id": "13140073",
+      "type": "자동"
+    },
+    {
+      "store_id": "13240034",
+      "type": "자동"
+    },
+    {
+      "store_id": "14190167",
+      "type": "자동"
+    },
+    {
+      "store_id": "14130183",
+      "type": "자동"
+    },
+    {
+      "store_id": "14130139",
+      "type": "자동"
+    },
+    {
+      "store_id": "14100788",
+      "type": "자동"
+    },
+    {
+      "store_id": "14143080",
+      "type": "자동"
+    },
+    {
+      "store_id": "14110105",
+      "type": "자동"
+    },
+    {
+      "store_id": "14141426",
+      "type": "자동"
+    },
+    {
+      "store_id": "14100382",
+      "type": "자동"
+    },
+    {
+      "store_id": "14190115",
+      "type": "수동"
+    },
+    {
+      "store_id": "14141827",
+      "type": "자동"
+    },
+    {
+      "store_id": "14140159",
+      "type": "자동"
+    },
+    {
+      "store_id": "14100335",
+      "type": "자동"
+    },
+    {
+      "store_id": "14130002",
+      "type": "자동"
+    },
+    {
+      "store_id": "14110406",
+      "type": "수동"
+    },
+    {
+      "store_id": "14142927",
+      "type": "자동"
+    },
+    {
+      "store_id": "14100271",
+      "type": "자동"
+    },
+    {
+      "store_id": "14100519",
+      "type": "자동"
+    },
+    {
+      "store_id": "14100411",
+      "type": "자동"
+    },
+    {
+      "store_id": "14142046",
+      "type": "자동"
+    },
+    {
+      "store_id": "14141737",
+      "type": "수동"
+    },
+    {
+      "store_id": "14142431",
+      "type": "자동"
+    },
+    {
+      "store_id": "14190059",
+      "type": "자동"
+    },
+    {
+      "store_id": "14142018",
+      "type": "자동"
+    },
+    {
+      "store_id": "14190046",
+      "type": "자동"
+    },
+    {
+      "store_id": "14141695",
+      "type": "자동"
+    },
+    {
+      "store_id": "14190176",
+      "type": "자동"
+    },
+    {
+      "store_id": "14140577",
+      "type": "자동"
+    },
+    {
+      "store_id": "14100538",
+      "type": "자동"
+    },
+    {
+      "store_id": "14200114",
+      "type": "자동"
+    },
+    {
+      "store_id": "14200022",
+      "type": "자동"
+    },
+    {
+      "store_id": "14200034",
+      "type": "자동"
+    },
+    {
+      "store_id": "14220001",
+      "type": "자동"
+    },
+    {
+      "store_id": "14340205",
+      "type": "자동"
+    },
+    {
+      "store_id": "14340243",
+      "type": "자동"
+    },
+    {
+      "store_id": "14310100",
+      "type": "자동"
+    },
+    {
+      "store_id": "14490017",
+      "type": "자동"
+    },
+    {
+      "store_id": "14440255",
+      "type": "자동"
+    },
+    {
+      "store_id": "14430043",
+      "type": "자동"
+    },
+    {
+      "store_id": "14440039",
+      "type": "자동"
+    },
+    {
+      "store_id": "14490004",
+      "type": "자동"
+    },
+    {
+      "store_id": "14590073",
+      "type": "수동"
+    },
+    {
+      "store_id": "14590073",
+      "type": "수동"
+    },
+    {
+      "store_id": "14590073",
+      "type": "수동"
+    },
+    {
+      "store_id": "14590073",
+      "type": "수동"
+    },
+    {
+      "store_id": "14600049",
+      "type": "자동"
+    },
+    {
+      "store_id": "14600074",
+      "type": "자동"
+    },
+    {
+      "store_id": "14640275",
+      "type": "자동"
+    },
+    {
+      "store_id": "14640018",
+      "type": "자동"
+    },
+    {
+      "store_id": "14600079",
+      "type": "자동"
+    },
+    {
+      "store_id": "14740237",
+      "type": "자동"
+    },
+    {
+      "store_id": "14700070",
+      "type": "자동"
+    },
+    {
+      "store_id": "14710170",
+      "type": "자동"
+    },
+    {
+      "store_id": "14710110",
+      "type": "자동"
+    },
+    {
+      "store_id": "14740149",
+      "type": "자동"
+    },
+    {
+      "store_id": "14740401",
+      "type": "자동"
+    },
+    {
+      "store_id": "14810197",
+      "type": "수동"
+    },
+    {
+      "store_id": "14800125",
+      "type": "자동"
+    },
+    {
+      "store_id": "14810127",
+      "type": "자동"
+    },
+    {
+      "store_id": "14890017",
+      "type": "자동"
+    },
+    {
+      "store_id": "14830043",
+      "type": "자동"
+    },
+    {
+      "store_id": "14940047",
+      "type": "반자동"
+    },
+    {
+      "store_id": "14940097",
+      "type": "자동"
+    },
+    {
+      "store_id": "14940084",
+      "type": "자동"
+    }
+  ],
+  "analysis_stats": {
+    "number_properties": {
+      "sum_total": 104,
+      "odd_even_pattern": "2:4",
+      "high_low_pattern": "4:2",
+      "ac_value": 9,
+      "prime_count": 3
+    },
+    "range_and_sequence": {
+      "section_counts": {
+        "unit": 3,
+        "ten": 1,
+        "twenty": 0,
+        "thirty": 1,
+        "forty": 1
+      },
+      "consecutive_sets": 0,
+      "missing_sections": [
+        "20"
+      ]
+    },
+    "last_digit_stats": {
+      "last_digit_sum": 14,
+      "duplicate_last_digits": [
+        1
+      ]
+    },
+    "winner_insight": {
+      "total_payout_rate": 50.0,
+      "winner_method_rate": {
+        "auto": 88.9,
+        "manual": 11.1,
+        "semi": 0.0
+      },
+      "tax_adjusted_prize": 2231289930
+    }
+  },
+  "updated_at": "2026-09-19T15:57:16.416524"
+}

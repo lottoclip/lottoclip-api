@@ -1,7 +1,7 @@
 {
   "store_id": "14890017",
   "name": "수퍼복권나라",
-  "address": "경남 김해시  율하1로 110 101호 복권판매점",
+  "address": "경남 김해시 율하1로 110 101호 복권판매점",
   "province": "경남",
   "city": "김해시",
   "phone": "055-327-5825",
@@ -10,18 +10,19 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.17281,
-  "longitude": 128.815658,
-  "updated_at": "2026-03-05T23:57:19.242682",
+  "latitude": 35.172788,
+  "longitude": 128.81563,
+  "updated_at": "2026-09-19T15:57:15.992673",
   "first_prize_draws": [
     928
   ],
   "second_prize_draws": [
+    1242,
     1141,
     849,
     705,
     679
   ],
   "first_prize_count": 1,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }

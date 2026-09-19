@@ -1,7 +1,7 @@
 {
   "store_id": "11141739",
   "name": "오케이상사",
-  "address": "서울 서초구 신반포로 176 센트럴시티내100호매점  ",
+  "address": "서울 서초구 신반포로 176 센트럴시티내100호매점",
   "province": "서울",
   "city": "서초구",
   "phone": null,
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.505552,
-  "longitude": 127.003566,
-  "updated_at": "2026-08-01T14:49:57.864773",
+  "latitude": 37.504916,
+  "longitude": 127.003696,
+  "updated_at": "2026-09-19T15:57:15.972914",
   "first_prize_draws": [
     1219,
     1197,
@@ -20,6 +20,7 @@
     1162
   ],
   "second_prize_draws": [
+    1242,
     1235,
     1231,
     1228,
@@ -37,5 +38,5 @@
     1166
   ],
   "first_prize_count": 4,
-  "second_prize_count": 15
+  "second_prize_count": 16
 }

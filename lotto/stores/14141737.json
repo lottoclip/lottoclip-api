@@ -1,7 +1,7 @@
 {
   "store_id": "14141737",
   "name": "민복권",
-  "address": "경기 동두천시 지행로 96-14 1층(지행동)  ",
+  "address": "경기 동두천시 지행로 96-14 1층(지행동)",
   "province": "경기",
   "city": "동두천시",
   "phone": null,
@@ -12,12 +12,14 @@
   ],
   "latitude": 37.892297,
   "longitude": 127.0587,
-  "updated_at": "2026-04-25T14:34:00.455641",
+  "updated_at": "2026-09-19T15:57:15.984570",
   "first_prize_draws": [
     1221,
     1138
   ],
-  "second_prize_draws": [],
+  "second_prize_draws": [
+    1242
+  ],
   "first_prize_count": 2,
-  "second_prize_count": 0
+  "second_prize_count": 1
 }

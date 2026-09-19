@@ -1,7 +1,7 @@
 {
   "store_id": "11101710",
   "name": "크로바쎄븐",
-  "address": "서울 송파구 법원로11길 7 1층 128호  ",
+  "address": "서울 송파구 법원로11길 7 1층 128호",
   "province": "서울",
   "city": "송파구",
   "phone": "02-3431-1089",
@@ -12,13 +12,14 @@
   ],
   "latitude": 37.485354,
   "longitude": 127.11922,
-  "updated_at": "2026-08-15T14:09:27.810827",
+  "updated_at": "2026-09-19T15:57:15.970256",
   "first_prize_draws": [
     1147,
     1028,
     817
   ],
   "second_prize_draws": [
+    1242,
     1237,
     1156,
     1094,
@@ -33,5 +34,5 @@
     403
   ],
   "first_prize_count": 3,
-  "second_prize_count": 12
+  "second_prize_count": 13
 }

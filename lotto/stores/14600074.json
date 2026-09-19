@@ -1,7 +1,7 @@
 {
   "store_id": "14600074",
   "name": "제이스테이션",
-  "address": "전남 여수시 문수로 118  ",
+  "address": "전남광주 여수시 문수로 118",
   "province": "전남",
   "city": "여수시",
   "phone": "061-653-8875",
@@ -10,11 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 34.755191,
-  "longitude": 127.707594,
-  "updated_at": "2026-03-06T00:01:16.431134",
+  "latitude": 34.755216,
+  "longitude": 127.70754,
+  "updated_at": "2026-09-19T15:57:15.990094",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1242,
     1209,
     1193,
     1029,
@@ -24,5 +25,5 @@
     465
   ],
   "first_prize_count": 0,
-  "second_prize_count": 7
+  "second_prize_count": 8
 }

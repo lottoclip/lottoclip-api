@@ -1,7 +1,7 @@
 {
   "store_id": "12840194",
   "name": "수퍼복권대박",
-  "address": "인천 연수구 용담로 60 1층  ",
+  "address": "인천 연수구 용담로 60 1층",
   "province": "인천",
   "city": "연수구",
   "phone": null,
@@ -12,7 +12,7 @@
   ],
   "latitude": 37.418665,
   "longitude": 126.67359,
-  "updated_at": "2026-08-01T14:49:57.868967",
+  "updated_at": "2026-09-19T15:57:15.977098",
   "first_prize_draws": [
     1055,
     1026,
@@ -20,6 +20,7 @@
     996
   ],
   "second_prize_draws": [
+    1242,
     1235,
     1212,
     1117,
@@ -29,5 +30,5 @@
     944
   ],
   "first_prize_count": 4,
-  "second_prize_count": 7
+  "second_prize_count": 8
 }

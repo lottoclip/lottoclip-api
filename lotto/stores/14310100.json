@@ -1,7 +1,7 @@
 {
   "store_id": "14310100",
   "name": "선경로또",
-  "address": "충북 제천시 용두대로 59 1층  ",
+  "address": "충북 제천시 용두대로 59 1층",
   "province": "충북",
   "city": "제천시",
   "phone": "043-642-2002",
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.136219,
-  "longitude": 128.199362,
-  "updated_at": "2026-03-28T14:21:12.084792",
+  "latitude": 37.136294,
+  "longitude": 128.19934,
+  "updated_at": "2026-09-19T15:57:15.987534",
   "first_prize_draws": [
     1202,
     1131,
@@ -21,6 +21,7 @@
     291
   ],
   "second_prize_draws": [
+    1242,
     1217,
     1212,
     1170,
@@ -30,5 +31,5 @@
     586
   ],
   "first_prize_count": 5,
-  "second_prize_count": 7
+  "second_prize_count": 8
 }

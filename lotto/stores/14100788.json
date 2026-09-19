@@ -1,7 +1,7 @@
 {
   "store_id": "14100788",
   "name": "내츄럴하우스복권판매점",
-  "address": "경기 평택시 중앙로 1 1층 상가  ",
+  "address": "경기 평택시 중앙로 1 1층 상가",
   "province": "경기",
   "city": "평택시",
   "phone": "031-652-9767",
@@ -10,14 +10,15 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 36.995721,
-  "longitude": 127.083582,
-  "updated_at": "2026-03-14T14:17:15.825120",
+  "latitude": 36.995638,
+  "longitude": 127.08359,
+  "updated_at": "2026-09-19T15:57:15.981290",
   "first_prize_draws": [
     1215,
     1180
   ],
   "second_prize_draws": [
+    1242,
     1201,
     1177,
     1081,
@@ -33,5 +34,5 @@
     567
   ],
   "first_prize_count": 2,
-  "second_prize_count": 13
+  "second_prize_count": 14
 }
