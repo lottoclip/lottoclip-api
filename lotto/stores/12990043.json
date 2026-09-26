@@ -1,7 +1,7 @@
 {
   "store_id": "12990043",
   "name": "오픈마트",
-  "address": "광주 북구  서암대로 111 ",
+  "address": "전남광주 북구 서암대로 111",
   "province": "광주",
   "city": "북구",
   "phone": "062-525-0662",
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.170869,
-  "longitude": 126.896813,
-  "updated_at": "2026-03-05T23:56:30.971042",
+  "latitude": 35.170838,
+  "longitude": 126.89676,
+  "updated_at": "2026-09-26T16:30:34.948424",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1243,
     1124,
     619,
     576
   ],
   "first_prize_count": 0,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

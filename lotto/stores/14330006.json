@@ -1,7 +1,7 @@
 {
   "store_id": "14330006",
   "name": "1등복권마트",
-  "address": "충북 청주시 흥덕구  청주역로 661-2 ",
+  "address": "충북 청주시 흥덕구 청주역로 661-2",
   "province": "충북",
   "city": "청주시",
   "phone": null,
@@ -12,12 +12,13 @@
   ],
   "latitude": 36.665693,
   "longitude": 127.373191,
-  "updated_at": "2026-03-05T23:55:45.246536",
+  "updated_at": "2026-09-26T16:30:34.958374",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1243,
     1109,
     721
   ],
   "first_prize_count": 0,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

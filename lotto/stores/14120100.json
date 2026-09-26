@@ -1,7 +1,7 @@
 {
   "store_id": "14120100",
   "name": "주몽동명",
-  "address": "경기 용인시 수지구 포은대로 319 중앙빌딩 104호  ",
+  "address": "경기 용인시 수지구 포은대로 319 중앙빌딩 104호",
   "province": "경기",
   "city": "용인시",
   "phone": null,
@@ -12,7 +12,7 @@
   ],
   "latitude": 37.315683,
   "longitude": 127.08765,
-  "updated_at": "2026-07-18T14:42:18.706827",
+  "updated_at": "2026-09-26T16:30:34.951910",
   "first_prize_draws": [
     1195,
     1140,
@@ -20,6 +20,7 @@
     694
   ],
   "second_prize_draws": [
+    1243,
     1233,
     1210,
     1131,
@@ -31,5 +32,5 @@
     726
   ],
   "first_prize_count": 4,
-  "second_prize_count": 9
+  "second_prize_count": 10
 }

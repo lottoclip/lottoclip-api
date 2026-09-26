@@ -1,7 +1,7 @@
 {
   "store_id": "14140055",
   "name": "걸작로또",
-  "address": "경기 안양시 동안구  평촌대로223번길 65 1층 112호",
+  "address": "경기 안양시 동안구 평촌대로223번길 65 104호",
   "province": "경기",
   "city": "안양시",
   "phone": null,
@@ -12,13 +12,14 @@
   ],
   "latitude": 37.39006,
   "longitude": 126.95222,
-  "updated_at": "2026-03-05T23:58:59.566212",
+  "updated_at": "2026-09-26T16:30:34.952689",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1243,
     1166,
     1126,
     1121
   ],
   "first_prize_count": 0,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

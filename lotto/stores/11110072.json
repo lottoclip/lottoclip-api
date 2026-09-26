@@ -1,22 +1,23 @@
 {
   "store_id": "11110072",
   "name": "성동약국",
-  "address": "서울 광진구  자양번영로 11 ",
+  "address": "서울 광진구 자양번영로 11",
   "province": "서울",
   "city": "광진구",
   "phone": "02-452-1809",
   "lottery_types": [
     "lotto645"
   ],
-  "latitude": 37.530698,
-  "longitude": 127.074674,
-  "updated_at": "2026-03-05T23:59:04.672437",
+  "latitude": 37.530702,
+  "longitude": 127.07472,
+  "updated_at": "2026-09-26T16:30:34.941618",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1243,
     1168,
     955,
     935
   ],
   "first_prize_count": 0,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

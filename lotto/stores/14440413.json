@@ -1,7 +1,7 @@
 {
   "store_id": "14440413",
   "name": "한방로또대리점",
-  "address": "충남 태안군  중앙로 12-2 101호",
+  "address": "충남 태안군 중앙로 12-2 101호",
   "province": "충남",
   "city": "태안군",
   "phone": null,
@@ -12,14 +12,15 @@
   ],
   "latitude": 36.756972,
   "longitude": 126.291228,
-  "updated_at": "2026-03-06T00:00:22.636008",
+  "updated_at": "2026-09-26T16:30:34.959803",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1243,
     1190,
     1132,
     1120,
     1095
   ],
   "first_prize_count": 0,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }

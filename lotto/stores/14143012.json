@@ -1,7 +1,7 @@
 {
   "store_id": "14143012",
   "name": "연천역 복권판매점",
-  "address": "경기 연천군  연천로 281 상가 2호",
+  "address": "경기 연천군 연천로 281 상가 2호",
   "province": "경기",
   "city": "연천군",
   "phone": null,
@@ -11,12 +11,13 @@
     "speetto"
   ],
   "latitude": 38.102071,
-  "longitude": 127.074792,
-  "updated_at": "2026-03-06T00:00:34.988416",
+  "longitude": 127.07479,
+  "updated_at": "2026-09-26T16:30:34.952342",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1243,
     1194
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

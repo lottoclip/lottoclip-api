@@ -1,7 +1,7 @@
 {
   "store_id": "13090030",
   "name": "베스토아(용전2호)",
-  "address": "대전 동구 동서대로 1689 복합터미널서관 1층 59호  ",
+  "address": "대전 동구 동서대로 1689 복합터미널서관 1층 59호",
   "province": "대전",
   "city": "동구",
   "phone": null,
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 36.350379,
-  "longitude": 127.436635,
-  "updated_at": "2026-03-07T13:10:24.781874",
+  "latitude": 36.350311,
+  "longitude": 127.43671,
+  "updated_at": "2026-09-26T16:30:34.949459",
   "first_prize_draws": [
     1210,
     1135,
@@ -23,6 +23,7 @@
     790
   ],
   "second_prize_draws": [
+    1243,
     1213,
     1212,
     1210,
@@ -56,5 +57,5 @@
     274
   ],
   "first_prize_count": 7,
-  "second_prize_count": 31
+  "second_prize_count": 32
 }

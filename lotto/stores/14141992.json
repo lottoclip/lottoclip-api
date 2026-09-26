@@ -1,7 +1,7 @@
 {
   "store_id": "14141992",
   "name": "로또킹",
-  "address": "경기 광명시  기아로 46 1층 108-1호(소하동)",
+  "address": "경기 광명시 기아로 46 1층 108-1호(소하동)",
   "province": "경기",
   "city": "광명시",
   "phone": null,
@@ -10,14 +10,15 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.435968,
+  "latitude": 37.435971,
   "longitude": 126.88459,
-  "updated_at": "2026-03-05T23:57:08.093094",
+  "updated_at": "2026-09-26T16:30:34.956284",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1243,
     1137,
     1136
   ],
   "first_prize_count": 0,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

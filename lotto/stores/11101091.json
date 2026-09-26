@@ -1,7 +1,7 @@
 {
   "store_id": "11101091",
   "name": "교통카드충전소",
-  "address": "서울 강남구  선릉로 309 ",
+  "address": "서울 강남구 선릉로 309-2",
   "province": "서울",
   "city": "강남구",
   "phone": "02-508-2680",
@@ -10,14 +10,15 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.497185,
-  "longitude": 127.052159,
-  "updated_at": "2026-03-05T23:55:42.071649",
+  "latitude": 37.497145,
+  "longitude": 127.05235,
+  "updated_at": "2026-09-26T16:30:34.943524",
   "first_prize_draws": [
     1107,
     935
   ],
   "second_prize_draws": [
+    1243,
     1108,
     1107,
     970,
@@ -27,5 +28,5 @@
     341
   ],
   "first_prize_count": 2,
-  "second_prize_count": 7
+  "second_prize_count": 8
 }

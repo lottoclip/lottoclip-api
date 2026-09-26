@@ -1,7 +1,7 @@
 {
   "store_id": "14100303",
   "name": "마리오슈퍼",
-  "address": "경기 부천시 송내대로265번길 85 1층 118호  ",
+  "address": "경기 부천시 송내대로265번길 85 1층 118호",
   "province": "경기",
   "city": "부천시",
   "phone": "032-667-5368",
@@ -12,7 +12,7 @@
   ],
   "latitude": 37.507361,
   "longitude": 126.75391,
-  "updated_at": "2026-08-01T14:49:57.874917",
+  "updated_at": "2026-09-26T16:30:34.955100",
   "first_prize_draws": [
     1005,
     895,
@@ -20,6 +20,7 @@
     566
   ],
   "second_prize_draws": [
+    1243,
     1235,
     1208,
     1200,
@@ -38,5 +39,5 @@
     420
   ],
   "first_prize_count": 4,
-  "second_prize_count": 16
+  "second_prize_count": 17
 }

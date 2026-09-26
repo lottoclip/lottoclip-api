@@ -1,7 +1,7 @@
 {
   "store_id": "14340183",
   "name": "로또 가경뜨란채",
-  "address": "충북 청주시 흥덕구  풍년로 58 편의점",
+  "address": "충북 청주시 흥덕구 풍년로 58 편의점",
   "province": "충북",
   "city": "청주시",
   "phone": null,
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 36.61866,
-  "longitude": 127.43876,
-  "updated_at": "2026-03-05T23:59:20.187497",
+  "latitude": 36.618744,
+  "longitude": 127.4388,
+  "updated_at": "2026-09-26T16:30:34.958588",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1243,
     1173
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

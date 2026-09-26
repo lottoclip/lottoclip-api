@@ -1,7 +1,7 @@
 {
   "store_id": "13140044",
   "name": "초이스 로또",
-  "address": "울산 남구  화합로125번길 9 CU달동초이스점내",
+  "address": "울산 남구 화합로125번길 9 CU달동초이스점내",
   "province": "울산",
   "city": "남구",
   "phone": "052-271-6764",
@@ -10,14 +10,15 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.535621,
-  "longitude": 129.339248,
-  "updated_at": "2026-03-06T00:00:51.123807",
+  "latitude": 35.535593,
+  "longitude": 129.33924,
+  "updated_at": "2026-09-26T16:30:34.950639",
   "first_prize_draws": [
     1168,
     1044
   ],
   "second_prize_draws": [
+    1243,
     1200,
     1198,
     1187,
@@ -27,5 +28,5 @@
     1041
   ],
   "first_prize_count": 2,
-  "second_prize_count": 7
+  "second_prize_count": 8
 }

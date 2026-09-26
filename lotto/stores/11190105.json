@@ -1,7 +1,7 @@
 {
   "store_id": "11190105",
   "name": "천안문복권방",
-  "address": "서울 영등포구  도림로 124 1층 103호",
+  "address": "서울 영등포구 도림로 124 1층 103호",
   "province": "서울",
   "city": "영등포구",
   "phone": "02-832-9821",
@@ -9,11 +9,12 @@
     "lotto645",
     "speetto"
   ],
-  "latitude": 37.492288,
-  "longitude": 126.896211,
-  "updated_at": "2026-03-05T23:58:39.283674",
+  "latitude": 37.492294,
+  "longitude": 126.89621,
+  "updated_at": "2026-09-26T16:30:34.935328",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1243,
     1159,
     810,
     753,
@@ -24,5 +25,5 @@
     464
   ],
   "first_prize_count": 0,
-  "second_prize_count": 8
+  "second_prize_count": 9
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "12940007",
   "name": "행운 복권방",
-  "address": "광주 북구  우치로331번길 13 로얄타운상가 105호 황금공인중개사 옆",
+  "address": "전남광주 북구 우치로331번길 13 로얄타운상가 105호, 황금공인중개사 옆",
   "province": "광주",
   "city": "북구",
   "phone": null,
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.193374,
-  "longitude": 126.90271,
-  "updated_at": "2026-03-05T23:57:02.151276",
+  "latitude": 35.193838,
+  "longitude": 126.90277,
+  "updated_at": "2026-09-26T16:30:34.948210",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1243,
     1135,
     1084,
     802
   ],
   "first_prize_count": 0,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

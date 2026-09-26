@@ -1,7 +1,7 @@
 {
   "store_id": "14610062",
   "name": "현아비디오로또",
-  "address": "전남 순천시  풍덕주택길 90 현아복권방",
+  "address": "전남광주 순천시 풍덕주택길 90 현아복권방",
   "province": "전남",
   "city": "순천시",
   "phone": "061-741-8224",
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 34.940002,
-  "longitude": 127.503811,
-  "updated_at": "2026-03-05T23:56:56.553680",
+  "latitude": 34.939993,
+  "longitude": 127.5038,
+  "updated_at": "2026-09-26T16:30:34.963251",
   "first_prize_draws": [
     849
   ],
   "second_prize_draws": [
+    1243,
     1133,
     1090,
     1036,
@@ -26,5 +27,5 @@
     333
   ],
   "first_prize_count": 1,
-  "second_prize_count": 7
+  "second_prize_count": 8
 }

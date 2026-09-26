@@ -1,7 +1,7 @@
 {
   "store_id": "14190239",
   "name": "한방복권방",
-  "address": "경기 화성시 용주로 25  ",
+  "address": "경기 화성시 병점구 용주로 25",
   "province": "경기",
   "city": "화성시",
   "phone": "031-267-1019",
@@ -12,13 +12,14 @@
   ],
   "latitude": 37.205192,
   "longitude": 127.01398,
-  "updated_at": "2026-05-02T14:39:19.133881",
+  "updated_at": "2026-09-26T16:30:34.950878",
   "first_prize_draws": [
     1054,
     1043,
     913
   ],
   "second_prize_draws": [
+    1243,
     1222,
     1207,
     1185,
@@ -36,5 +37,5 @@
     337
   ],
   "first_prize_count": 3,
-  "second_prize_count": 15
+  "second_prize_count": 16
 }

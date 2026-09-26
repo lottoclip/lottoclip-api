@@ -1,7 +1,7 @@
 {
   "store_id": "11100891",
   "name": "종합가판점",
-  "address": "서울 동대문구 왕산로40길 6 건물 앞쪽 가판점 청량리역 5번출구 앞쪽  ",
+  "address": "서울 동대문구 왕산로40길 6 건물 앞쪽 가판점 청량리역 5번출구 앞쪽",
   "province": "서울",
   "city": "동대문구",
   "phone": "02-959-5686",
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.579699,
-  "longitude": 127.04497,
-  "updated_at": "2026-07-25T14:53:15.429172",
+  "latitude": 37.579785,
+  "longitude": 127.045071,
+  "updated_at": "2026-09-26T16:30:34.939793",
   "first_prize_draws": [
     1234,
     1133,
@@ -27,6 +27,7 @@
     334
   ],
   "second_prize_draws": [
+    1243,
     1231,
     1216,
     1204,
@@ -110,5 +111,5 @@
     331
   ],
   "first_prize_count": 11,
-  "second_prize_count": 81
+  "second_prize_count": 82
 }

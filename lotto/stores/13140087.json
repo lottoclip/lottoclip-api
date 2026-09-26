@@ -1,7 +1,7 @@
 {
   "store_id": "13140087",
   "name": "영규복권방",
-  "address": "울산 중구 곽남길 27  ",
+  "address": "울산 중구 곽남길 27",
   "province": "울산",
   "city": "중구",
   "phone": "052-254-2000",
@@ -12,9 +12,10 @@
   ],
   "latitude": 35.568658,
   "longitude": 129.34106,
-  "updated_at": "2026-08-15T14:09:27.832666",
+  "updated_at": "2026-09-26T16:30:34.949923",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1243,
     1237,
     1236,
     1173,
@@ -24,5 +25,5 @@
     1007
   ],
   "first_prize_count": 0,
-  "second_prize_count": 7
+  "second_prize_count": 8
 }

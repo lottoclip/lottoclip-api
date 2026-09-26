@@ -1,7 +1,7 @@
 {
   "store_id": "12600086",
   "name": "돈벼락맞는곳",
-  "address": "부산 동구 조방로49번길 18-1  ",
+  "address": "부산 동구 조방로49번길 18-1",
   "province": "부산",
   "city": "동구",
   "phone": "051-636-3669",
@@ -12,7 +12,7 @@
   ],
   "latitude": 35.139161,
   "longitude": 129.05993,
-  "updated_at": "2026-08-15T14:09:27.826566",
+  "updated_at": "2026-09-26T16:30:34.945619",
   "first_prize_draws": [
     1231,
     1190,
@@ -30,6 +30,7 @@
     467
   ],
   "second_prize_draws": [
+    1243,
     1237,
     1236,
     1233,
@@ -124,5 +125,5 @@
     274
   ],
   "first_prize_count": 14,
-  "second_prize_count": 92
+  "second_prize_count": 93
 }

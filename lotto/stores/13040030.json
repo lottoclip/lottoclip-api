@@ -1,7 +1,7 @@
 {
   "store_id": "13040030",
   "name": "성호복권방",
-  "address": "대전 대덕구 신일동로 1  ",
+  "address": "대전 대덕구 신일동로 1",
   "province": "대전",
   "city": "대덕구",
   "phone": null,
@@ -12,7 +12,7 @@
   ],
   "latitude": 36.444743,
   "longitude": 127.405115,
-  "updated_at": "2026-08-01T14:49:57.871760",
+  "updated_at": "2026-09-26T16:30:34.949707",
   "first_prize_draws": [
     1178,
     1111,
@@ -20,6 +20,7 @@
     970
   ],
   "second_prize_draws": [
+    1243,
     1235,
     1206,
     1203,
@@ -28,5 +29,5 @@
     935
   ],
   "first_prize_count": 4,
-  "second_prize_count": 6
+  "second_prize_count": 7
 }

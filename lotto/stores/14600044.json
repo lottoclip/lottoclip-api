@@ -1,7 +1,7 @@
 {
   "store_id": "14600044",
   "name": "서부슈퍼",
-  "address": "전남 여수시  좌수영로 14 ",
+  "address": "전남광주 여수시 좌수영로 14",
   "province": "전남",
   "city": "여수시",
   "phone": "061-642-4716",
@@ -10,11 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 34.741479,
-  "longitude": 127.728163,
-  "updated_at": "2026-03-05T23:58:39.970937",
+  "latitude": 34.741477,
+  "longitude": 127.72814,
+  "updated_at": "2026-09-26T16:30:34.963040",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1243,
     1159,
     974,
     839,
@@ -24,5 +25,5 @@
     317
   ],
   "first_prize_count": 0,
-  "second_prize_count": 7
+  "second_prize_count": 8
 }

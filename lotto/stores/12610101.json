@@ -1,7 +1,7 @@
 {
   "store_id": "12610101",
   "name": "G마트",
-  "address": "부산 북구 백양대로 1024  ",
+  "address": "부산 북구 백양대로 1024",
   "province": "부산",
   "city": "북구",
   "phone": "051-365-0182",
@@ -12,12 +12,13 @@
   ],
   "latitude": 35.197043,
   "longitude": 128.99535,
-  "updated_at": "2026-05-16T14:44:53.904259",
+  "updated_at": "2026-09-26T16:30:34.945184",
   "first_prize_draws": [
     1083,
     956
   ],
   "second_prize_draws": [
+    1243,
     1224,
     1185,
     1149,
@@ -29,5 +30,5 @@
     492
   ],
   "first_prize_count": 2,
-  "second_prize_count": 9
+  "second_prize_count": 10
 }

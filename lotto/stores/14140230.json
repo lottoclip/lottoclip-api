@@ -1,7 +1,7 @@
 {
   "store_id": "14140230",
   "name": "로또또",
-  "address": "경기 김포시 봉수대로 1704 102호  ",
+  "address": "경기 김포시 봉수대로 1704 동신상가a동101호",
   "province": "경기",
   "city": "김포시",
   "phone": "031-986-1020",
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.62097,
-  "longitude": 126.63304,
-  "updated_at": "2026-03-06T00:01:19.363299",
+  "latitude": 37.620897,
+  "longitude": 126.63273,
+  "updated_at": "2026-09-26T16:30:34.955769",
   "first_prize_draws": [
     1179,
     947,
@@ -20,6 +20,7 @@
     752
   ],
   "second_prize_draws": [
+    1243,
     1210,
     1203,
     1188,
@@ -32,5 +33,5 @@
     812
   ],
   "first_prize_count": 4,
-  "second_prize_count": 10
+  "second_prize_count": 11
 }

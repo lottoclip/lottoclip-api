@@ -1,7 +1,7 @@
 {
   "store_id": "14600083",
   "name": "알리바이(나주점)",
-  "address": "전남 나주시 나주로 142 알리바이  ",
+  "address": "전남광주 나주시 나주로 142 알리바이",
   "province": "전남",
   "city": "나주시",
   "phone": "061-334-7179",
@@ -12,7 +12,7 @@
   ],
   "latitude": 35.031329,
   "longitude": 126.71715,
-  "updated_at": "2026-06-13T15:23:11.459307",
+  "updated_at": "2026-09-26T16:30:34.963708",
   "first_prize_draws": [
     1139,
     1138,
@@ -28,6 +28,7 @@
     320
   ],
   "second_prize_draws": [
+    1243,
     1228,
     1224,
     1205,
@@ -75,5 +76,5 @@
     355
   ],
   "first_prize_count": 12,
-  "second_prize_count": 45
+  "second_prize_count": 46
 }

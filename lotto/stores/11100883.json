@@ -1,7 +1,7 @@
 {
   "store_id": "11100883",
   "name": "서울구가-17가판",
-  "address": "서울 구로구 구로동로 130-2 구로4동우체국앞가판  ",
+  "address": "서울 구로구 구로동로 130-3 구로4동우체국앞가판",
   "province": "서울",
   "city": "구로구",
   "phone": "02-868-2488",
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.490325,
-  "longitude": 126.88439,
-  "updated_at": "2026-07-11T14:42:32.896761",
+  "latitude": 37.490263,
+  "longitude": 126.88423,
+  "updated_at": "2026-09-26T16:30:34.940288",
   "first_prize_draws": [
     1118,
     1106,
@@ -21,6 +21,7 @@
     318
   ],
   "second_prize_draws": [
+    1243,
     1232,
     1229,
     1225,
@@ -40,5 +41,5 @@
     375
   ],
   "first_prize_count": 5,
-  "second_prize_count": 17
+  "second_prize_count": 18
 }

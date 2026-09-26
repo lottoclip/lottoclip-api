@@ -1,7 +1,7 @@
 {
   "store_id": "14830044",
   "name": "대복로또",
-  "address": "경남 양산시  대운로 338 대동이미지타운 상가동101호 복권판매점",
+  "address": "경남 양산시 청운로 46-1 복권판매점",
   "province": "경남",
   "city": "양산시",
   "phone": null,
@@ -10,16 +10,17 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.307914,
-  "longitude": 128.99241,
-  "updated_at": "2026-03-05T23:49:52.966126",
+  "latitude": 35.307915,
+  "longitude": 128.99237,
+  "updated_at": "2026-09-26T16:30:34.965604",
   "first_prize_draws": [
     737
   ],
   "second_prize_draws": [
+    1243,
     999,
     752
   ],
   "first_prize_count": 1,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

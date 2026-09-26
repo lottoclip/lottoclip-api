@@ -1,7 +1,7 @@
 {
   "store_id": "14830016",
   "name": "남문복권판매점",
-  "address": "경남 창원시 진해구  웅천동로 126 상가107호",
+  "address": "경남 창원시 진해구 웅천동로 126 상가107호",
   "province": "경남",
   "city": "창원시",
   "phone": null,
@@ -10,18 +10,19 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.106489,
-  "longitude": 128.75104,
-  "updated_at": "2026-03-06T00:00:19.758681",
+  "latitude": 35.106453,
+  "longitude": 128.75101,
+  "updated_at": "2026-09-26T16:30:34.964944",
   "first_prize_draws": [
     1060
   ],
   "second_prize_draws": [
+    1243,
     1189,
     953,
     942,
     878
   ],
   "first_prize_count": 1,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }

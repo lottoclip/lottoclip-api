@@ -1,7 +1,7 @@
 {
   "store_id": "14230003",
   "name": "복돼지복권방",
-  "address": "강원 춘천시  후석로 288 1층 9호",
+  "address": "강원 춘천시 후석로 288 1층",
   "province": "강원",
   "city": "춘천시",
   "phone": null,
@@ -10,16 +10,17 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.877164,
-  "longitude": 127.752175,
-  "updated_at": "2026-03-05T23:51:56.751539",
+  "latitude": 37.877153,
+  "longitude": 127.7522,
+  "updated_at": "2026-09-26T16:30:34.956955",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1243,
     1037,
     959,
     925,
     803
   ],
   "first_prize_count": 0,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }
