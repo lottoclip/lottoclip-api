@@ -19,6 +19,39 @@
     "2",
     "3"
   ],
-  "prize_info": [],
-  "updated_at": "2026-10-01T19:01:01.927578"
+  "prize_info": [
+    {
+      "rank": "1등",
+      "winner_count": "2"
+    },
+    {
+      "rank": "2등",
+      "winner_count": "8"
+    },
+    {
+      "rank": "3등",
+      "winner_count": "58"
+    },
+    {
+      "rank": "4등",
+      "winner_count": "650"
+    },
+    {
+      "rank": "5등",
+      "winner_count": "6614"
+    },
+    {
+      "rank": "6등",
+      "winner_count": "63649"
+    },
+    {
+      "rank": "7등",
+      "winner_count": "651915"
+    },
+    {
+      "rank": "보너스",
+      "winner_count": "5"
+    }
+  ],
+  "updated_at": "2026-10-01T19:39:45.727454"
 }
