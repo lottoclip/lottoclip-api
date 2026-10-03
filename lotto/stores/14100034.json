@@ -1,7 +1,7 @@
 {
   "store_id": "14100034",
   "name": "대박찬스",
-  "address": "경기 남양주시  장현로 111 1층1호",
+  "address": "경기 남양주시 장현로 111 1층1호",
   "province": "경기",
   "city": "남양주시",
   "phone": "031-528-5530",
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.719795,
-  "longitude": 127.183933,
-  "updated_at": "2026-03-06T00:00:56.746455",
+  "latitude": 37.71977,
+  "longitude": 127.18394,
+  "updated_at": "2026-10-03T16:31:19.309975",
   "first_prize_draws": [
     986,
     719,
@@ -20,6 +20,7 @@
     486
   ],
   "second_prize_draws": [
+    1244,
     1202,
     1164,
     1161,
@@ -42,5 +43,5 @@
     279
   ],
   "first_prize_count": 4,
-  "second_prize_count": 20
+  "second_prize_count": 21
 }

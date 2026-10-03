@@ -1,7 +1,7 @@
 {
   "store_id": "14141022",
-  "name": "지에스25 송산프라자점",
-  "address": "경기 화성시 수노을중앙로 156 101102호  ",
+  "name": "지에스25 송산중앙",
+  "address": "경기 화성시 만세구 수노을중앙로 156 104호, 105호",
   "province": "경기",
   "city": "화성시",
   "phone": null,
@@ -10,11 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.2833,
+  "latitude": 37.283304,
   "longitude": 126.81902,
-  "updated_at": "2026-03-06T00:01:16.180030",
+  "updated_at": "2026-10-03T16:31:19.306457",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1244,
     1209,
     1157,
     1140,
@@ -22,5 +23,5 @@
     1081
   ],
   "first_prize_count": 0,
-  "second_prize_count": 5
+  "second_prize_count": 6
 }

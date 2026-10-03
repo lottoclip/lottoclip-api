@@ -1,7 +1,7 @@
 {
   "store_id": "12690009",
   "name": "돈벼락맞는곳",
-  "address": "부산 기장군 읍내로 109  ",
+  "address": "부산 기장군 읍내로 109",
   "province": "부산",
   "city": "기장군",
   "phone": "051-723-0244",
@@ -12,7 +12,7 @@
   ],
   "latitude": 35.245199,
   "longitude": 129.21633,
-  "updated_at": "2026-08-08T14:20:14.241433",
+  "updated_at": "2026-10-03T16:31:19.300997",
   "first_prize_draws": [
     1108,
     1092,
@@ -21,6 +21,7 @@
     720
   ],
   "second_prize_draws": [
+    1244,
     1236,
     1232,
     1228,
@@ -31,5 +32,5 @@
     381
   ],
   "first_prize_count": 5,
-  "second_prize_count": 8
+  "second_prize_count": 9
 }

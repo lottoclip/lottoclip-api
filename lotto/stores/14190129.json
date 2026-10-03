@@ -1,7 +1,7 @@
 {
   "store_id": "14190129",
   "name": "휴먼복권방",
-  "address": "경기 안양시 만안구  장내로140번길 36 ",
+  "address": "경기 안양시 만안구 장내로140번길 36",
   "province": "경기",
   "city": "안양시",
   "phone": "031-441-6334",
@@ -10,16 +10,17 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.396314,
-  "longitude": 126.924184,
-  "updated_at": "2026-03-06T00:00:10.753672",
+  "latitude": 37.396324,
+  "longitude": 126.9243,
+  "updated_at": "2026-10-03T16:31:19.308056",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1244,
     1186,
     1042,
     896,
     877
   ],
   "first_prize_count": 0,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }

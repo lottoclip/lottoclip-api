@@ -1,7 +1,7 @@
 {
   "store_id": "13140063",
   "name": "네잎클로버",
-  "address": "울산 북구  당수골6길 20 1층",
+  "address": "울산 북구 당수골6길 20",
   "province": "울산",
   "city": "북구",
   "phone": null,
@@ -10,14 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.634733,
-  "longitude": 129.360653,
-  "updated_at": "2026-03-06T00:00:10.724844",
+  "latitude": 35.634688,
+  "longitude": 129.36063,
+  "updated_at": "2026-10-03T16:31:19.305230",
   "first_prize_draws": [
     1186,
     999
   ],
-  "second_prize_draws": [],
+  "second_prize_draws": [
+    1244
+  ],
   "first_prize_count": 2,
-  "second_prize_count": 0
+  "second_prize_count": 1
 }

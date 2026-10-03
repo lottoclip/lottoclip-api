@@ -1,7 +1,7 @@
 {
   "store_id": "14740201",
   "name": "택지 복권방",
-  "address": "경북 영주시  대학로 240 1층 102호(가흥동)",
+  "address": "경북 영주시 대학로 240 1층 102호(가흥동)",
   "province": "경북",
   "city": "영주시",
   "phone": null,
@@ -10,11 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 36.816803,
-  "longitude": 128.604973,
-  "updated_at": "2026-03-05T23:57:19.162498",
+  "latitude": 36.816778,
+  "longitude": 128.605,
+  "updated_at": "2026-10-03T16:31:19.315369",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1244,
     1141,
     1099,
     1062,
@@ -22,5 +23,5 @@
     1050
   ],
   "first_prize_count": 0,
-  "second_prize_count": 5
+  "second_prize_count": 6
 }

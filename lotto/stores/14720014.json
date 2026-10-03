@@ -1,7 +1,7 @@
 {
   "store_id": "14720014",
   "name": "로또복권4공단점",
-  "address": "경북 구미시  첨단기업1로 18 ",
+  "address": "경북 구미시 첨단기업1로 18",
   "province": "경북",
   "city": "구미시",
   "phone": null,
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 36.140464,
-  "longitude": 128.439425,
-  "updated_at": "2026-03-06T00:00:43.462477",
+  "latitude": 36.140491,
+  "longitude": 128.43939,
+  "updated_at": "2026-10-03T16:31:19.315840",
   "first_prize_draws": [
     1066,
     923,
     888
   ],
   "second_prize_draws": [
+    1244,
     1197,
     1148,
     1138,
@@ -32,5 +33,5 @@
     725
   ],
   "first_prize_count": 3,
-  "second_prize_count": 11
+  "second_prize_count": 12
 }

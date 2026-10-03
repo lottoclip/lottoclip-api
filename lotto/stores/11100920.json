@@ -1,7 +1,7 @@
 {
   "store_id": "11100920",
   "name": "가판14호",
-  "address": "서울 중구 퇴계로 35-1 가판  ",
+  "address": "서울 중구 퇴계로 35-1 가판",
   "province": "서울",
   "city": "중구",
   "phone": "02-778-8638",
@@ -12,7 +12,7 @@
   ],
   "latitude": 37.557738,
   "longitude": 126.97676,
-  "updated_at": "2026-08-01T14:49:57.861763",
+  "updated_at": "2026-10-03T16:31:19.292651",
   "first_prize_draws": [
     1222,
     1123,
@@ -23,6 +23,7 @@
     522
   ],
   "second_prize_draws": [
+    1244,
     1235,
     1226,
     1220,
@@ -50,5 +51,5 @@
     390
   ],
   "first_prize_count": 7,
-  "second_prize_count": 25
+  "second_prize_count": 26
 }

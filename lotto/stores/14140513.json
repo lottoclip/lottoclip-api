@@ -1,7 +1,7 @@
 {
   "store_id": "14140513",
   "name": "씨유오성IC점",
-  "address": "경기 평택시  서동대로 2346 (502-5502-7(3필지))",
+  "address": "경기 평택시 서동대로 2346 (502-5,502-7(3필지))",
   "province": "경기",
   "city": "평택시",
   "phone": null,
@@ -9,13 +9,14 @@
     "lotto645",
     "speetto"
   ],
-  "latitude": 37.01326,
-  "longitude": 127.0012,
-  "updated_at": "2026-03-05T23:55:31.297892",
+  "latitude": 37.013193,
+  "longitude": 127.00136,
+  "updated_at": "2026-10-03T16:31:19.306908",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1244,
     1104
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

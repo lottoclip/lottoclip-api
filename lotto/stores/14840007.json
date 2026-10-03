@@ -1,7 +1,7 @@
 {
   "store_id": "14840007",
   "name": "승원롯또판매",
-  "address": "경남 창원시 의창구  천주로 506 복권판매점",
+  "address": "경남 창원시 의창구 천주로 506 복권판매점",
   "province": "경남",
   "city": "창원시",
   "phone": null,
@@ -10,17 +10,18 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.301727,
-  "longitude": 128.601962,
-  "updated_at": "2026-03-06T00:00:48.822645",
+  "latitude": 35.301621,
+  "longitude": 128.60204,
+  "updated_at": "2026-10-03T16:31:19.316167",
   "first_prize_draws": [
     1199
   ],
   "second_prize_draws": [
+    1244,
     1189,
     1118,
     867
   ],
   "first_prize_count": 1,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14390015",
   "name": "천하제일복권방",
-  "address": "충북 청주시 서원구  매봉로 208 삼호상가1-105",
+  "address": "충북 청주시 서원구 매봉로 208 삼호상가1-105",
   "province": "충북",
   "city": "청주시",
   "phone": "043-272-4697",
@@ -12,9 +12,10 @@
   ],
   "latitude": 36.627509,
   "longitude": 127.47575,
-  "updated_at": "2026-03-05T23:56:56.501576",
+  "updated_at": "2026-10-03T16:31:19.311764",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1244,
     1133,
     1098,
     985,
@@ -23,5 +24,5 @@
     289
   ],
   "first_prize_count": 0,
-  "second_prize_count": 6
+  "second_prize_count": 7
 }

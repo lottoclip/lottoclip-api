@@ -1,7 +1,7 @@
 {
   "store_id": "12600126",
   "name": "대원슈퍼마켓",
-  "address": "부산 수영구 수영로 524  ",
+  "address": "부산 수영구 수영로 524",
   "province": "부산",
   "city": "수영구",
   "phone": "051-753-2655",
@@ -12,8 +12,9 @@
   ],
   "latitude": 35.152468,
   "longitude": 129.11199,
-  "updated_at": "2026-09-05T15:20:26.309907",
+  "updated_at": "2026-10-03T16:31:19.300343",
   "first_prize_draws": [
+    1244,
     1009,
     969,
     859,
@@ -54,6 +55,6 @@
     445,
     391
   ],
-  "first_prize_count": 6,
+  "first_prize_count": 7,
   "second_prize_count": 31
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "11110387",
   "name": "대박천하복권방",
-  "address": "서울 은평구 연서로 150 1층 1호  ",
+  "address": "서울 은평구 연서로 150 1층 1호",
   "province": "서울",
   "city": "은평구",
   "phone": "02-356-0645",
@@ -10,10 +10,11 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.603518,
-  "longitude": 126.91597,
-  "updated_at": "2026-03-06T00:01:07.973328",
+  "latitude": 37.612189,
+  "longitude": 126.91766,
+  "updated_at": "2026-10-03T16:31:19.293161",
   "first_prize_draws": [
+    1244,
     1206,
     622
   ],
@@ -30,6 +31,6 @@
     474,
     398
   ],
-  "first_prize_count": 2,
+  "first_prize_count": 3,
   "second_prize_count": 11
 }

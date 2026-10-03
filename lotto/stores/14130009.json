@@ -1,7 +1,7 @@
 {
   "store_id": "14130009",
-  "name": "힐링로또마트",
-  "address": "경기 수원시 권선구 당수동(입북동) 158-2 104호",
+  "name": "된다로또",
+  "address": "경기 수원시 장안구 서부로2181번길 28 1층 1층전부(율전동, (주)산요테크)",
   "province": "경기",
   "city": "수원시",
   "phone": "031-252-5651",
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.30304,
+  "latitude": 37.303082,
   "longitude": 126.97138,
-  "updated_at": "2026-03-05T23:40:26.437125",
+  "updated_at": "2026-10-03T16:31:19.308918",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1244,
     825
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

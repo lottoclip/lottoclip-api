@@ -114,7 +114,7 @@
   "12840524": {
     "store_id": "12840524",
     "name": "드림복권방",
-    "address": "인천 연수구 아트센터대로168번길 100 G동 180호(송도동한라 웨스턴파크 송도)  ",
+    "address": "인천 연수구 아트센터대로168번길 100 G동 180호(송도동,한라 웨스턴파크 송도)",
     "province": "인천",
     "city": "연수구",
     "phone": null,
@@ -125,18 +125,19 @@
     ],
     "latitude": 37.405178,
     "longitude": 126.62886,
-    "updated_at": "2026-05-09T14:41:00.371832",
+    "updated_at": "2026-10-03T16:31:19.303557",
     "first_prize_draws": [
       1161
     ],
     "second_prize_draws": [
+      1244,
       1223,
       1213,
       1173,
       1160
     ],
     "first_prize_count": 1,
-    "second_prize_count": 4
+    "second_prize_count": 5
   },
   "13100061": {
     "store_id": "13100061",
@@ -2309,7 +2310,7 @@
   "12600126": {
     "store_id": "12600126",
     "name": "대원슈퍼마켓",
-    "address": "부산 수영구 수영로 524  ",
+    "address": "부산 수영구 수영로 524",
     "province": "부산",
     "city": "수영구",
     "phone": "051-753-2655",
@@ -2320,8 +2321,9 @@
     ],
     "latitude": 35.152468,
     "longitude": 129.11199,
-    "updated_at": "2026-09-05T15:20:26.309907",
+    "updated_at": "2026-10-03T16:31:19.300343",
     "first_prize_draws": [
+      1244,
       1009,
       969,
       859,
@@ -2362,7 +2364,7 @@
       445,
       391
     ],
-    "first_prize_count": 6,
+    "first_prize_count": 7,
     "second_prize_count": 31
   },
   "12710133": {
@@ -4176,7 +4178,7 @@
   "14100793": {
     "store_id": "14100793",
     "name": "행복한사람들 (흥부네)",
-    "address": "경기 광주시 경충대로 1014  ",
+    "address": "경기 광주시 경충대로 1014",
     "province": "경기",
     "city": "광주시",
     "phone": "031-763-7781",
@@ -4187,7 +4189,7 @@
     ],
     "latitude": 37.369896,
     "longitude": 127.3039,
-    "updated_at": "2026-06-27T15:05:55.187643",
+    "updated_at": "2026-10-03T16:31:19.310788",
     "first_prize_draws": [
       1164,
       1162,
@@ -4201,6 +4203,7 @@
       282
     ],
     "second_prize_draws": [
+      1244,
       1230,
       1224,
       1220,
@@ -4249,7 +4252,7 @@
       276
     ],
     "first_prize_count": 10,
-    "second_prize_count": 46
+    "second_prize_count": 47
   },
   "14190032": {
     "store_id": "14190032",
@@ -6718,7 +6721,7 @@
     ],
     "latitude": 37.497089,
     "longitude": 126.79116,
-    "updated_at": "2026-09-19T16:51:00.744905",
+    "updated_at": "2026-10-03T16:31:19.309729",
     "first_prize_draws": [
       1150,
       955,
@@ -6728,6 +6731,7 @@
       296
     ],
     "second_prize_draws": [
+      1244,
       1242,
       1220,
       1157,
@@ -6766,7 +6770,7 @@
       321
     ],
     "first_prize_count": 6,
-    "second_prize_count": 36
+    "second_prize_count": 37
   },
   "14100179": {
     "store_id": "14100179",
@@ -8151,7 +8155,7 @@
   "14110557": {
     "store_id": "14110557",
     "name": "로또왕대박",
-    "address": "경기 화성시  와우안길 46 1층",
+    "address": "경기 화성시 효행구 와우안길 46 1층",
     "province": "경기",
     "city": "화성시",
     "phone": "031-222-1816",
@@ -8160,10 +8164,11 @@
       "pension720",
       "speetto"
     ],
-    "latitude": 37.21573,
-    "longitude": 126.9766,
-    "updated_at": "2026-03-05T23:56:56.322973",
+    "latitude": 37.215842,
+    "longitude": 126.97665,
+    "updated_at": "2026-10-03T16:31:19.305972",
     "first_prize_draws": [
+      1244,
       940,
       301
     ],
@@ -8189,7 +8194,7 @@
       298,
       272
     ],
-    "first_prize_count": 2,
+    "first_prize_count": 3,
     "second_prize_count": 20
   },
   "14210063": {
@@ -15322,7 +15327,7 @@
   "14410015": {
     "store_id": "14410015",
     "name": "로또명당인주점",
-    "address": "충남 아산시 서해로 519-2  ",
+    "address": "충남 아산시 서해로 519-2",
     "province": "충남",
     "city": "아산시",
     "phone": "041-533-0449",
@@ -15333,7 +15338,7 @@
     ],
     "latitude": 36.877624,
     "longitude": 126.89693,
-    "updated_at": "2026-08-29T17:25:28.634730",
+    "updated_at": "2026-10-03T16:31:19.312962",
     "first_prize_draws": [
       1235,
       1206,
@@ -15371,6 +15376,7 @@
       334
     ],
     "second_prize_draws": [
+      1244,
       1239,
       1238,
       1226,
@@ -15502,7 +15508,7 @@
       369
     ],
     "first_prize_count": 34,
-    "second_prize_count": 129
+    "second_prize_count": 130
   },
   "14600060": {
     "store_id": "14600060",
@@ -20975,7 +20981,7 @@
   "11101169": {
     "store_id": "11101169",
     "name": "가로판매대",
-    "address": "서울 강동구 올림픽로 648 천호역 3번 출구 앞(가판점)  ",
+    "address": "서울 강동구 올림픽로 648 천호역 3번 출구 앞(가판점)",
     "province": "서울",
     "city": "강동구",
     "phone": "02-486-0580",
@@ -20986,8 +20992,9 @@
     ],
     "latitude": 37.539291,
     "longitude": 127.12386,
-    "updated_at": "2026-07-25T14:53:15.431887",
+    "updated_at": "2026-10-03T16:31:19.299140",
     "first_prize_draws": [
+      1244,
       1061,
       1042,
       1003,
@@ -21020,7 +21027,7 @@
       402,
       385
     ],
-    "first_prize_count": 4,
+    "first_prize_count": 5,
     "second_prize_count": 25
   },
   "12990034": {
@@ -24456,8 +24463,8 @@
   },
   "14190049": {
     "store_id": "14190049",
-    "name": "행복을 드립니다 (흥부네)",
-    "address": "경기 광주시  광여로 713 좌측1벌",
+    "name": "행복을드립니다(건업리)",
+    "address": "경기 광주시 광여로 713 좌측1벌",
     "province": "경기",
     "city": "광주시",
     "phone": "031-765-3007",
@@ -24466,13 +24473,14 @@
       "pension720",
       "speetto"
     ],
-    "latitude": 37.376216,
-    "longitude": 127.404481,
-    "updated_at": "2026-03-05T23:59:54.245857",
+    "latitude": 37.376233,
+    "longitude": 127.40452,
+    "updated_at": "2026-10-03T16:31:19.310472",
     "first_prize_draws": [
       392
     ],
     "second_prize_draws": [
+      1244,
       1180,
       1148,
       971,
@@ -24482,7 +24490,7 @@
       342
     ],
     "first_prize_count": 1,
-    "second_prize_count": 7
+    "second_prize_count": 8
   },
   "14100122": {
     "store_id": "14100122",
@@ -24662,7 +24670,7 @@
     ],
     "latitude": 35.871898,
     "longitude": 128.55519,
-    "updated_at": "2026-09-26T17:26:30.852580",
+    "updated_at": "2026-10-03T16:31:19.302785",
     "first_prize_draws": [
       1173,
       1112,
@@ -24688,6 +24696,7 @@
       393
     ],
     "second_prize_draws": [
+      1244,
       1243,
       1232,
       1230,
@@ -24795,7 +24804,7 @@
       279
     ],
     "first_prize_count": 22,
-    "second_prize_count": 105
+    "second_prize_count": 106
   },
   "14190019": {
     "store_id": "14190019",
@@ -25299,7 +25308,7 @@
   "14210115": {
     "store_id": "14210115",
     "name": "흥양마중물",
-    "address": "강원 원주시 치악로 2334 1층  ",
+    "address": "강원 원주시 치악로 2334 1층",
     "province": "강원",
     "city": "원주시",
     "phone": null,
@@ -25310,7 +25319,7 @@
     ],
     "latitude": 37.383351,
     "longitude": 127.97573,
-    "updated_at": "2026-05-09T14:41:00.378921",
+    "updated_at": "2026-10-03T16:31:19.311044",
     "first_prize_draws": [
       1190,
       1139,
@@ -25322,6 +25331,7 @@
       398
     ],
     "second_prize_draws": [
+      1244,
       1223,
       1217,
       1216,
@@ -25346,7 +25356,7 @@
       565
     ],
     "first_prize_count": 8,
-    "second_prize_count": 22
+    "second_prize_count": 23
   },
   "11100956": {
     "store_id": "11100956",
@@ -26939,7 +26949,7 @@
   "13100080": {
     "store_id": "13100080",
     "name": "로또25시",
-    "address": "울산 남구  수암로288번길 1 1층",
+    "address": "울산 남구 수암로288번길 1",
     "province": "울산",
     "city": "남구",
     "phone": "052-274-2892",
@@ -26949,9 +26959,10 @@
       "speetto"
     ],
     "latitude": 35.521146,
-    "longitude": 129.336028,
-    "updated_at": "2026-03-06T00:00:28.447118",
+    "longitude": 129.33602,
+    "updated_at": "2026-10-03T16:31:19.305741",
     "first_prize_draws": [
+      1244,
       1192,
       467,
       409
@@ -26963,7 +26974,7 @@
       517,
       403
     ],
-    "first_prize_count": 3,
+    "first_prize_count": 4,
     "second_prize_count": 5
   },
   "12610124": {
@@ -27094,7 +27105,7 @@
     ],
     "latitude": 34.935658,
     "longitude": 127.69904,
-    "updated_at": "2026-09-19T16:51:00.752223",
+    "updated_at": "2026-10-03T16:31:19.314472",
     "first_prize_draws": [
       1238,
       1211,
@@ -27103,6 +27114,7 @@
       410
     ],
     "second_prize_draws": [
+      1244,
       1242,
       1214,
       1141,
@@ -27122,7 +27134,7 @@
       710
     ],
     "first_prize_count": 5,
-    "second_prize_count": 17
+    "second_prize_count": 18
   },
   "11100424": {
     "store_id": "11100424",
@@ -27701,7 +27713,7 @@
   "14200032": {
     "store_id": "14200032",
     "name": "용꿈돼지꿈복권전문점",
-    "address": "강원 동해시 중앙로 234 이주민상가1층15호  ",
+    "address": "강원 동해시 중앙로 234 이주민상가1층15호",
     "province": "강원",
     "city": "동해시",
     "phone": "033-531-5535",
@@ -27712,7 +27724,7 @@
     ],
     "latitude": 37.521491,
     "longitude": 129.11508,
-    "updated_at": "2026-07-18T14:42:18.710769",
+    "updated_at": "2026-10-03T16:31:19.311300",
     "first_prize_draws": [
       1096,
       995,
@@ -27720,6 +27732,7 @@
       415
     ],
     "second_prize_draws": [
+      1244,
       1233,
       1226,
       1222,
@@ -27749,7 +27762,7 @@
       390
     ],
     "first_prize_count": 4,
-    "second_prize_count": 27
+    "second_prize_count": 28
   },
   "14700154": {
     "store_id": "14700154",
@@ -28483,7 +28496,7 @@
   "12900125": {
     "store_id": "12900125",
     "name": "천국열쇠",
-    "address": "광주 북구  북문대로 157 ",
+    "address": "전남광주 북구 북문대로 157",
     "province": "광주",
     "city": "북구",
     "phone": "062-523-2282",
@@ -28492,10 +28505,11 @@
       "pension720",
       "speetto"
     ],
-    "latitude": 35.182515,
-    "longitude": 126.872062,
-    "updated_at": "2026-03-06T00:00:02.197681",
+    "latitude": 35.182484,
+    "longitude": 126.87204,
+    "updated_at": "2026-10-03T16:31:19.304814",
     "first_prize_draws": [
+      1244,
       882,
       867,
       419
@@ -28526,7 +28540,7 @@
       311,
       301
     ],
-    "first_prize_count": 3,
+    "first_prize_count": 4,
     "second_prize_count": 24
   },
   "14200134": {
@@ -30165,7 +30179,7 @@
   "11100835": {
     "store_id": "11100835",
     "name": "종로3가1호선역2번출구가로판매점82호",
-    "address": "서울 종로구 돈화문로 23 가판  ",
+    "address": "서울 종로구 돈화문로 23 가판",
     "province": "서울",
     "city": "종로구",
     "phone": "02-743-6544",
@@ -30176,7 +30190,7 @@
     ],
     "latitude": 37.570706,
     "longitude": 126.99191,
-    "updated_at": "2026-08-22T14:08:49.500760",
+    "updated_at": "2026-10-03T16:31:19.292921",
     "first_prize_draws": [
       1238,
       1194,
@@ -30188,6 +30202,7 @@
       429
     ],
     "second_prize_draws": [
+      1244,
       1237,
       1222,
       1219,
@@ -30238,7 +30253,7 @@
       281
     ],
     "first_prize_count": 8,
-    "second_prize_count": 48
+    "second_prize_count": 49
   },
   "12900084": {
     "store_id": "12900084",
@@ -32767,7 +32782,7 @@
     ],
     "latitude": 35.152922,
     "longitude": 126.88072,
-    "updated_at": "2026-09-19T16:51:00.738628",
+    "updated_at": "2026-10-03T16:31:19.304549",
     "first_prize_draws": [
       1239,
       1222,
@@ -32790,6 +32805,7 @@
       441
     ],
     "second_prize_draws": [
+      1244,
       1242,
       1241,
       1239,
@@ -32855,7 +32871,7 @@
       296
     ],
     "first_prize_count": 19,
-    "second_prize_count": 63
+    "second_prize_count": 64
   },
   "14110364": {
     "store_id": "14110364",
@@ -33761,7 +33777,7 @@
   "14810173": {
     "store_id": "14810173",
     "name": "외동복권",
-    "address": "경남 김해시  동남로49번길 83 GS25 김해대동점",
+    "address": "경남 김해시 동남로49번길 83 GS25 김해대동점",
     "province": "경남",
     "city": "김해시",
     "phone": "055-328-2508",
@@ -33770,9 +33786,9 @@
       "pension720",
       "speetto"
     ],
-    "latitude": 35.236356,
-    "longitude": 128.985981,
-    "updated_at": "2026-03-05T23:57:05.429162",
+    "latitude": 35.236387,
+    "longitude": 128.98599,
+    "updated_at": "2026-10-03T16:31:19.317102",
     "first_prize_draws": [
       1066,
       696,
@@ -33780,6 +33796,7 @@
       447
     ],
     "second_prize_draws": [
+      1244,
       1136,
       1105,
       803,
@@ -33788,7 +33805,7 @@
       502
     ],
     "first_prize_count": 4,
-    "second_prize_count": 6
+    "second_prize_count": 7
   },
   "23000049": {
     "store_id": "23000049",
@@ -40337,7 +40354,7 @@
   "14100034": {
     "store_id": "14100034",
     "name": "대박찬스",
-    "address": "경기 남양주시  장현로 111 1층1호",
+    "address": "경기 남양주시 장현로 111 1층1호",
     "province": "경기",
     "city": "남양주시",
     "phone": "031-528-5530",
@@ -40346,9 +40363,9 @@
       "pension720",
       "speetto"
     ],
-    "latitude": 37.719795,
-    "longitude": 127.183933,
-    "updated_at": "2026-03-06T00:00:56.746455",
+    "latitude": 37.71977,
+    "longitude": 127.18394,
+    "updated_at": "2026-10-03T16:31:19.309975",
     "first_prize_draws": [
       986,
       719,
@@ -40356,6 +40373,7 @@
       486
     ],
     "second_prize_draws": [
+      1244,
       1202,
       1164,
       1161,
@@ -40378,7 +40396,7 @@
       279
     ],
     "first_prize_count": 4,
-    "second_prize_count": 20
+    "second_prize_count": 21
   },
   "14100649": {
     "store_id": "14100649",
@@ -42145,7 +42163,7 @@
     ],
     "latitude": 35.321095,
     "longitude": 129.17927,
-    "updated_at": "2026-09-26T17:26:30.852120",
+    "updated_at": "2026-10-03T16:31:19.301220",
     "first_prize_draws": [
       1196,
       1185,
@@ -42171,6 +42189,7 @@
       498
     ],
     "second_prize_draws": [
+      1244,
       1243,
       1240,
       1218,
@@ -42244,7 +42263,7 @@
       500
     ],
     "first_prize_count": 22,
-    "second_prize_count": 71
+    "second_prize_count": 72
   },
   "12810032": {
     "store_id": "12810032",
@@ -43121,7 +43140,7 @@
   "14700097": {
     "store_id": "14700097",
     "name": "노다지구미황상",
-    "address": "경북 구미시 수출대로 555  ",
+    "address": "경북 구미시 수출대로 555",
     "province": "경북",
     "city": "구미시",
     "phone": "054-474-2551",
@@ -43132,7 +43151,7 @@
     ],
     "latitude": 36.110894,
     "longitude": 128.42572,
-    "updated_at": "2026-05-16T14:44:53.916675",
+    "updated_at": "2026-10-03T16:31:19.315597",
     "first_prize_draws": [
       1201,
       860,
@@ -43140,6 +43159,7 @@
       504
     ],
     "second_prize_draws": [
+      1244,
       1224,
       1153,
       1137,
@@ -43165,7 +43185,7 @@
       628
     ],
     "first_prize_count": 4,
-    "second_prize_count": 23
+    "second_prize_count": 24
   },
   "14800079": {
     "store_id": "14800079",
@@ -44181,7 +44201,7 @@
   "11101572": {
     "store_id": "11101572",
     "name": "복사문구",
-    "address": "서울 강동구  양재대로 1549 ",
+    "address": "서울 강동구 양재대로 1549",
     "province": "서울",
     "city": "강동구",
     "phone": "02-485-6852",
@@ -44191,19 +44211,20 @@
       "speetto"
     ],
     "latitude": 37.544048,
-    "longitude": 127.142054,
-    "updated_at": "2026-03-05T23:58:36.578742",
+    "longitude": 127.14205,
+    "updated_at": "2026-10-03T16:31:19.299403",
     "first_prize_draws": [
       512
     ],
     "second_prize_draws": [
+      1244,
       1158,
       1000,
       600,
       569
     ],
     "first_prize_count": 1,
-    "second_prize_count": 4
+    "second_prize_count": 5
   },
   "11110283": {
     "store_id": "11110283",
@@ -45491,7 +45512,7 @@
   "11100920": {
     "store_id": "11100920",
     "name": "가판14호",
-    "address": "서울 중구 퇴계로 35-1 가판  ",
+    "address": "서울 중구 퇴계로 35-1 가판",
     "province": "서울",
     "city": "중구",
     "phone": "02-778-8638",
@@ -45502,7 +45523,7 @@
     ],
     "latitude": 37.557738,
     "longitude": 126.97676,
-    "updated_at": "2026-08-01T14:49:57.861763",
+    "updated_at": "2026-10-03T16:31:19.292651",
     "first_prize_draws": [
       1222,
       1123,
@@ -45513,6 +45534,7 @@
       522
     ],
     "second_prize_draws": [
+      1244,
       1235,
       1226,
       1220,
@@ -45540,7 +45562,7 @@
       390
     ],
     "first_prize_count": 7,
-    "second_prize_count": 25
+    "second_prize_count": 26
   },
   "14410064": {
     "store_id": "14410064",
@@ -48986,7 +49008,7 @@
   "14110286": {
     "store_id": "14110286",
     "name": "열두보석복권방",
-    "address": "경기 용인시 기흥구 구갈로 74 구갈스포츠센터106호  ",
+    "address": "경기 용인시 기흥구 구갈로 74 구갈스포츠센터106호",
     "province": "경기",
     "city": "용인시",
     "phone": "031-274-1916",
@@ -48997,7 +49019,7 @@
     ],
     "latitude": 37.28113,
     "longitude": 127.11181,
-    "updated_at": "2026-05-09T14:41:00.375876",
+    "updated_at": "2026-10-03T16:31:19.307127",
     "first_prize_draws": [
       1028,
       1024,
@@ -49008,6 +49030,7 @@
       543
     ],
     "second_prize_draws": [
+      1244,
       1223,
       1160,
       1109,
@@ -49036,7 +49059,7 @@
       411
     ],
     "first_prize_count": 7,
-    "second_prize_count": 26
+    "second_prize_count": 27
   },
   "11100305": {
     "store_id": "11100305",
@@ -51270,7 +51293,7 @@
   "14490014": {
     "store_id": "14490014",
     "name": "천안역아시아마트",
-    "address": "충남 천안시 동남구  대흥로 237 아시아마트내",
+    "address": "충남 천안시 동남구 대흥로 237 아시아마트내",
     "province": "충남",
     "city": "천안시",
     "phone": "041-555-9280",
@@ -51279,9 +51302,9 @@
       "pension720",
       "speetto"
     ],
-    "latitude": 36.809165,
-    "longitude": 127.147747,
-    "updated_at": "2026-03-06T00:00:46.001479",
+    "latitude": 36.809119,
+    "longitude": 127.14776,
+    "updated_at": "2026-10-03T16:31:19.312724",
     "first_prize_draws": [
       903,
       821,
@@ -51289,6 +51312,7 @@
       558
     ],
     "second_prize_draws": [
+      1244,
       1198,
       1190,
       1163,
@@ -51308,7 +51332,7 @@
       367
     ],
     "first_prize_count": 4,
-    "second_prize_count": 17
+    "second_prize_count": 18
   },
   "14610119": {
     "store_id": "14610119",
@@ -58001,7 +58025,7 @@
   "11190016": {
     "store_id": "11190016",
     "name": "미나식품(로또판매점)",
-    "address": "서울 강서구 금낭화로 91-12  ",
+    "address": "서울 강서구 금낭화로 91-12",
     "province": "서울",
     "city": "강서구",
     "phone": "02-2664-6793",
@@ -58012,7 +58036,7 @@
     ],
     "latitude": 37.573514,
     "longitude": 126.81068,
-    "updated_at": "2026-06-06T15:02:48.495302",
+    "updated_at": "2026-10-03T16:31:19.298666",
     "first_prize_draws": [
       1194,
       1193,
@@ -58026,6 +58050,7 @@
       605
     ],
     "second_prize_draws": [
+      1244,
       1227,
       1171,
       1162,
@@ -58074,7 +58099,7 @@
       270
     ],
     "first_prize_count": 10,
-    "second_prize_count": 46
+    "second_prize_count": 47
   },
   "14190015": {
     "store_id": "14190015",
@@ -60383,7 +60408,7 @@
   "11110387": {
     "store_id": "11110387",
     "name": "대박천하복권방",
-    "address": "서울 은평구 연서로 150 1층 1호  ",
+    "address": "서울 은평구 연서로 150 1층 1호",
     "province": "서울",
     "city": "은평구",
     "phone": "02-356-0645",
@@ -60392,10 +60417,11 @@
       "pension720",
       "speetto"
     ],
-    "latitude": 37.603518,
-    "longitude": 126.91597,
-    "updated_at": "2026-03-06T00:01:07.973328",
+    "latitude": 37.612189,
+    "longitude": 126.91766,
+    "updated_at": "2026-10-03T16:31:19.293161",
     "first_prize_draws": [
+      1244,
       1206,
       622
     ],
@@ -60412,7 +60438,7 @@
       474,
       398
     ],
-    "first_prize_count": 2,
+    "first_prize_count": 3,
     "second_prize_count": 11
   },
   "22800045": {
@@ -63457,7 +63483,7 @@
   "14100443": {
     "store_id": "14100443",
     "name": "프리웨이스토어",
-    "address": "경기 광주시 회안대로 605 1층  ",
+    "address": "경기 광주시 회안대로 605 1층",
     "province": "경기",
     "city": "광주시",
     "phone": "031-763-5369",
@@ -63468,12 +63494,13 @@
     ],
     "latitude": 37.406817,
     "longitude": 127.237947,
-    "updated_at": "2026-08-22T14:08:49.516086",
+    "updated_at": "2026-10-03T16:31:19.310223",
     "first_prize_draws": [
       728,
       647
     ],
     "second_prize_draws": [
+      1244,
       1238,
       1221,
       1210,
@@ -63501,7 +63528,7 @@
       271
     ],
     "first_prize_count": 2,
-    "second_prize_count": 25
+    "second_prize_count": 26
   },
   "14700074": {
     "store_id": "14700074",
@@ -64507,7 +64534,7 @@
   "12710037": {
     "store_id": "12710037",
     "name": "세븐일레븐 현풍대로점",
-    "address": "대구 달성군 비슬로 581 세븐일레븐현풍대로점  ",
+    "address": "대구 달성군 비슬로 581 세븐일레븐현풍대로점",
     "province": "대구",
     "city": "달성군",
     "phone": "053-617-7997",
@@ -64517,7 +64544,7 @@
     ],
     "latitude": 35.690539,
     "longitude": 128.44447,
-    "updated_at": "2026-07-18T14:42:18.701406",
+    "updated_at": "2026-10-03T16:31:19.303076",
     "first_prize_draws": [
       1167,
       964,
@@ -64525,6 +64552,7 @@
       657
     ],
     "second_prize_draws": [
+      1244,
       1233,
       1206,
       1177,
@@ -64553,7 +64581,7 @@
       367
     ],
     "first_prize_count": 4,
-    "second_prize_count": 26
+    "second_prize_count": 27
   },
   "12700324": {
     "store_id": "12700324",
@@ -70359,7 +70387,7 @@
   "11101531": {
     "store_id": "11101531",
     "name": "장보고복권방",
-    "address": "서울 중랑구 면목로 288  ",
+    "address": "서울 중랑구 면목로 288",
     "province": "서울",
     "city": "중랑구",
     "phone": "02-2208-0911",
@@ -70370,7 +70398,7 @@
     ],
     "latitude": 37.578381,
     "longitude": 127.08622,
-    "updated_at": "2026-05-30T14:56:43.846582",
+    "updated_at": "2026-10-03T16:31:19.292107",
     "first_prize_draws": [
       1109,
       1051,
@@ -70378,6 +70406,7 @@
       704
     ],
     "second_prize_draws": [
+      1244,
       1226,
       1153,
       1146,
@@ -70391,7 +70420,7 @@
       687
     ],
     "first_prize_count": 4,
-    "second_prize_count": 11
+    "second_prize_count": 12
   },
   "14130101": {
     "store_id": "14130101",
@@ -72482,7 +72511,7 @@
   "12690009": {
     "store_id": "12690009",
     "name": "돈벼락맞는곳",
-    "address": "부산 기장군 읍내로 109  ",
+    "address": "부산 기장군 읍내로 109",
     "province": "부산",
     "city": "기장군",
     "phone": "051-723-0244",
@@ -72493,7 +72522,7 @@
     ],
     "latitude": 35.245199,
     "longitude": 129.21633,
-    "updated_at": "2026-08-08T14:20:14.241433",
+    "updated_at": "2026-10-03T16:31:19.300997",
     "first_prize_draws": [
       1108,
       1092,
@@ -72502,6 +72531,7 @@
       720
     ],
     "second_prize_draws": [
+      1244,
       1236,
       1232,
       1228,
@@ -72512,7 +72542,7 @@
       381
     ],
     "first_prize_count": 5,
-    "second_prize_count": 8
+    "second_prize_count": 9
   },
   "12910021": {
     "store_id": "12910021",
@@ -73637,7 +73667,7 @@
   "14590035": {
     "store_id": "14590035",
     "name": "뉴팡팡복권",
-    "address": "전북 전주시 덕진구  쪽구름로 117 ",
+    "address": "전북 전주시 덕진구 쪽구름로 117",
     "province": "전북",
     "city": "전주시",
     "phone": "063-212-5382",
@@ -73646,13 +73676,14 @@
       "pension720",
       "speetto"
     ],
-    "latitude": 35.873689,
-    "longitude": 127.072432,
-    "updated_at": "2026-03-05T23:59:14.294460",
+    "latitude": 35.873843,
+    "longitude": 127.07249,
+    "updated_at": "2026-10-03T16:31:19.313978",
     "first_prize_draws": [
       727
     ],
     "second_prize_draws": [
+      1244,
       1171,
       1160,
       1149,
@@ -73668,7 +73699,7 @@
       398
     ],
     "first_prize_count": 1,
-    "second_prize_count": 13
+    "second_prize_count": 14
   },
   "14890056": {
     "store_id": "14890056",
@@ -75297,7 +75328,7 @@
   "12610132": {
     "store_id": "12610132",
     "name": "빅세일복권방",
-    "address": "부산 부산진구  서면문화로 6 ",
+    "address": "부산 부산진구 서면문화로 6",
     "province": "부산",
     "city": "부산진구",
     "phone": "051-819-2221",
@@ -75306,10 +75337,11 @@
       "pension720",
       "speetto"
     ],
-    "latitude": 35.158302,
-    "longitude": 129.058097,
-    "updated_at": "2026-03-06T00:00:45.664745",
+    "latitude": 35.158289,
+    "longitude": 129.05807,
+    "updated_at": "2026-10-03T16:31:19.300586",
     "first_prize_draws": [
+      1244,
       1181,
       1151,
       1118,
@@ -75353,7 +75385,7 @@
       607,
       410
     ],
-    "first_prize_count": 8,
+    "first_prize_count": 9,
     "second_prize_count": 32
   },
   "14140262": {
@@ -75939,7 +75971,7 @@
   "14190004": {
     "store_id": "14190004",
     "name": "로또복권방",
-    "address": "경기 안양시 만안구 경수대로 1265 103호  ",
+    "address": "경기 안양시 만안구 경수대로 1265 103호",
     "province": "경기",
     "city": "안양시",
     "phone": "031-472-5677",
@@ -75950,8 +75982,9 @@
     ],
     "latitude": 37.42015,
     "longitude": 126.90889,
-    "updated_at": "2026-08-15T14:09:27.838672",
+    "updated_at": "2026-10-03T16:31:19.307829",
     "first_prize_draws": [
+      1244,
       940,
       745
     ],
@@ -75976,7 +76009,7 @@
       472,
       392
     ],
-    "first_prize_count": 2,
+    "first_prize_count": 3,
     "second_prize_count": 19
   },
   "12830017": {
@@ -77715,7 +77748,7 @@
   "11120020": {
     "store_id": "11120020",
     "name": "행운로또복권판매점",
-    "address": "서울 구로구 고척로 123-2  ",
+    "address": "서울 구로구 고척로 123-2",
     "province": "서울",
     "city": "구로구",
     "phone": "02-2066-0645",
@@ -77726,12 +77759,13 @@
     ],
     "latitude": 37.502303,
     "longitude": 126.847978,
-    "updated_at": "2026-03-06T00:01:10.607314",
+    "updated_at": "2026-10-03T16:31:19.298174",
     "first_prize_draws": [
       898,
       761
     ],
     "second_prize_draws": [
+      1244,
       1207,
       1036,
       1034,
@@ -77741,7 +77775,7 @@
       761
     ],
     "first_prize_count": 2,
-    "second_prize_count": 7
+    "second_prize_count": 8
   },
   "11101105": {
     "store_id": "11101105",
@@ -89313,8 +89347,9 @@
     ],
     "latitude": 37.482063,
     "longitude": 127.015788,
-    "updated_at": "2026-09-26T17:26:30.844684",
+    "updated_at": "2026-10-03T16:31:19.297463",
     "first_prize_draws": [
+      1244,
       1243,
       1242,
       1241,
@@ -89413,6 +89448,7 @@
       849
     ],
     "second_prize_draws": [
+      1244,
       1243,
       1242,
       1241,
@@ -89713,8 +89749,8 @@
       837,
       836
     ],
-    "first_prize_count": 96,
-    "second_prize_count": 299
+    "first_prize_count": 97,
+    "second_prize_count": 300
   },
   "13000082": {
     "store_id": "13000082",
@@ -91272,7 +91308,7 @@
   "11100206": {
     "store_id": "11100206",
     "name": "복권마트",
-    "address": "서울 서대문구 세검정로 31  ",
+    "address": "서울 서대문구 세검정로 31",
     "province": "서울",
     "city": "서대문구",
     "phone": "02-396-9195",
@@ -91283,8 +91319,9 @@
     ],
     "latitude": 37.591951,
     "longitude": 126.94492,
-    "updated_at": "2026-08-01T14:49:57.865006",
+    "updated_at": "2026-10-03T16:31:19.297942",
     "first_prize_draws": [
+      1244,
       865
     ],
     "second_prize_draws": [
@@ -91298,7 +91335,7 @@
       454,
       328
     ],
-    "first_prize_count": 1,
+    "first_prize_count": 2,
     "second_prize_count": 9
   },
   "12700238": {
@@ -94329,7 +94366,7 @@
   "14720014": {
     "store_id": "14720014",
     "name": "로또복권4공단점",
-    "address": "경북 구미시  첨단기업1로 18 ",
+    "address": "경북 구미시 첨단기업1로 18",
     "province": "경북",
     "city": "구미시",
     "phone": null,
@@ -94338,15 +94375,16 @@
       "pension720",
       "speetto"
     ],
-    "latitude": 36.140464,
-    "longitude": 128.439425,
-    "updated_at": "2026-03-06T00:00:43.462477",
+    "latitude": 36.140491,
+    "longitude": 128.43939,
+    "updated_at": "2026-10-03T16:31:19.315840",
     "first_prize_draws": [
       1066,
       923,
       888
     ],
     "second_prize_draws": [
+      1244,
       1197,
       1148,
       1138,
@@ -94360,7 +94398,7 @@
       725
     ],
     "first_prize_count": 3,
-    "second_prize_count": 11
+    "second_prize_count": 12
   },
   "22800002": {
     "store_id": "22800002",
@@ -98428,7 +98466,7 @@
   "12610173": {
     "store_id": "12610173",
     "name": "롯데무역",
-    "address": "부산 영도구 꿈나무길 197 1층 복권방  ",
+    "address": "부산 영도구 꿈나무길 197 1층 복권방",
     "province": "부산",
     "city": "영도구",
     "phone": null,
@@ -98439,8 +98477,9 @@
     ],
     "latitude": 35.087282,
     "longitude": 129.04372,
-    "updated_at": "2026-08-01T14:49:57.866634",
+    "updated_at": "2026-10-03T16:31:19.300089",
     "first_prize_draws": [
+      1244,
       1153,
       1130,
       1119,
@@ -98456,7 +98495,7 @@
       455,
       448
     ],
-    "first_prize_count": 4,
+    "first_prize_count": 5,
     "second_prize_count": 8
   },
   "23000021": {
@@ -108882,7 +108921,7 @@
   "13140063": {
     "store_id": "13140063",
     "name": "네잎클로버",
-    "address": "울산 북구  당수골6길 20 1층",
+    "address": "울산 북구 당수골6길 20",
     "province": "울산",
     "city": "북구",
     "phone": null,
@@ -108891,16 +108930,18 @@
       "pension720",
       "speetto"
     ],
-    "latitude": 35.634733,
-    "longitude": 129.360653,
-    "updated_at": "2026-03-06T00:00:10.724844",
+    "latitude": 35.634688,
+    "longitude": 129.36063,
+    "updated_at": "2026-10-03T16:31:19.305230",
     "first_prize_draws": [
       1186,
       999
     ],
-    "second_prize_draws": [],
+    "second_prize_draws": [
+      1244
+    ],
     "first_prize_count": 2,
-    "second_prize_count": 0
+    "second_prize_count": 1
   },
   "14140258": {
     "store_id": "14140258",
@@ -110067,7 +110108,7 @@
   "14140879": {
     "store_id": "14140879",
     "name": "지니로또복권방",
-    "address": "경기 오산시 대호로 70  ",
+    "address": "경기 오산시 대호로 70",
     "province": "경기",
     "city": "오산시",
     "phone": null,
@@ -110076,10 +110117,11 @@
       "pension720",
       "speetto"
     ],
-    "latitude": 37.15661,
-    "longitude": 127.05448,
-    "updated_at": "2026-03-28T14:21:12.080477",
+    "latitude": 37.156655,
+    "longitude": 127.05452,
+    "updated_at": "2026-10-03T16:31:19.307411",
     "first_prize_draws": [
+      1244,
       1006
     ],
     "second_prize_draws": [
@@ -110087,7 +110129,7 @@
       1079,
       1022
     ],
-    "first_prize_count": 1,
+    "first_prize_count": 2,
     "second_prize_count": 3
   },
   "14840223": {
@@ -110528,11 +110570,12 @@
     ],
     "latitude": 37.171155,
     "longitude": 126.93593,
-    "updated_at": "2026-09-19T16:51:00.741145",
+    "updated_at": "2026-10-03T16:31:19.306219",
     "first_prize_draws": [
       1009
     ],
     "second_prize_draws": [
+      1244,
       1242,
       1204,
       1191,
@@ -110547,7 +110590,7 @@
       815
     ],
     "first_prize_count": 1,
-    "second_prize_count": 12
+    "second_prize_count": 13
   },
   "14290047": {
     "store_id": "14290047",
@@ -113513,7 +113556,7 @@
   "13140066": {
     "store_id": "13140066",
     "name": "인생로또",
-    "address": "울산 북구 천곡남로 33 삼성코아루상가내  ",
+    "address": "울산 북구 천곡남로 33",
     "province": "울산",
     "city": "북구",
     "phone": "052-288-3708",
@@ -113524,8 +113567,9 @@
     ],
     "latitude": 35.63067,
     "longitude": 129.33482,
-    "updated_at": "2026-05-02T14:39:19.129467",
+    "updated_at": "2026-10-03T16:31:19.305520",
     "first_prize_draws": [
+      1244,
       1030
     ],
     "second_prize_draws": [
@@ -113534,7 +113578,7 @@
       1188,
       1075
     ],
-    "first_prize_count": 1,
+    "first_prize_count": 2,
     "second_prize_count": 4
   },
   "14140352": {
@@ -118952,7 +118996,7 @@
   "12630017": {
     "store_id": "12630017",
     "name": "공항상회로또판매점",
-    "address": "부산 강서구  평강로 185-1 ",
+    "address": "부산 강서구 평강로 185-1",
     "province": "부산",
     "city": "강서구",
     "phone": "051-971-2453",
@@ -118961,13 +119005,14 @@
       "pension720",
       "speetto"
     ],
-    "latitude": 35.202528,
-    "longitude": 128.940993,
-    "updated_at": "2026-03-05T23:59:19.792505",
+    "latitude": 35.202514,
+    "longitude": 128.94098,
+    "updated_at": "2026-10-03T16:31:19.301486",
     "first_prize_draws": [
       1069
     ],
     "second_prize_draws": [
+      1244,
       1173,
       1148,
       1133,
@@ -118984,7 +119029,7 @@
       872
     ],
     "first_prize_count": 1,
-    "second_prize_count": 14
+    "second_prize_count": 15
   },
   "14140627": {
     "store_id": "14140627",
@@ -119833,7 +119878,7 @@
   "14740203": {
     "store_id": "14740203",
     "name": "완산로또방",
-    "address": "경북 영천시 대경로 1260  ",
+    "address": "경북 영천시 대경로 1260 GS편의점 내",
     "province": "경북",
     "city": "영천시",
     "phone": null,
@@ -119844,18 +119889,19 @@
     ],
     "latitude": 35.934788,
     "longitude": 128.87108,
-    "updated_at": "2026-04-25T14:34:00.462570",
+    "updated_at": "2026-10-03T16:31:19.315126",
     "first_prize_draws": [
       1221,
       1075
     ],
     "second_prize_draws": [
+      1244,
       1202,
       1115,
       1108
     ],
     "first_prize_count": 2,
-    "second_prize_count": 3
+    "second_prize_count": 4
   },
   "14100530": {
     "store_id": "14100530",
@@ -122453,7 +122499,7 @@
   "12640475": {
     "store_id": "12640475",
     "name": "자갈치도깨비명당",
-    "address": "부산 중구  자갈치로 33 501502호",
+    "address": "부산 중구 자갈치로 33 501,502호",
     "province": "부산",
     "city": "중구",
     "phone": null,
@@ -122464,17 +122510,18 @@
     ],
     "latitude": 35.097173,
     "longitude": 129.028312,
-    "updated_at": "2026-03-06T00:00:02.105828",
+    "updated_at": "2026-10-03T16:31:19.299819",
     "first_prize_draws": [
       1183,
       1097
     ],
     "second_prize_draws": [
+      1244,
       1065,
       1060
     ],
     "first_prize_count": 2,
-    "second_prize_count": 2
+    "second_prize_count": 3
   },
   "14130061": {
     "store_id": "14130061",
@@ -126043,12 +126090,13 @@
     ],
     "latitude": 37.559184,
     "longitude": 126.83923,
-    "updated_at": "2026-09-19T16:51:00.735349",
+    "updated_at": "2026-10-03T16:31:19.298916",
     "first_prize_draws": [
       1242,
       1121
     ],
     "second_prize_draws": [
+      1244,
       1162,
       1160,
       1157,
@@ -126056,7 +126104,7 @@
       1059
     ],
     "first_prize_count": 2,
-    "second_prize_count": 5
+    "second_prize_count": 6
   },
   "12840120": {
     "store_id": "12840120",
@@ -127868,15 +127916,16 @@
     ],
     "latitude": 36.822196,
     "longitude": 127.12501,
-    "updated_at": "2026-09-12T16:34:46.226649",
+    "updated_at": "2026-10-03T16:31:19.311973",
     "first_prize_draws": [
+      1244,
       1130
     ],
     "second_prize_draws": [
       1241,
       1129
     ],
-    "first_prize_count": 1,
+    "first_prize_count": 2,
     "second_prize_count": 2
   },
   "14940053": {
@@ -129290,7 +129339,7 @@
   "14340239": {
     "store_id": "14340239",
     "name": "로또판매 행운점",
-    "address": "충북 청주시 청원구 충청대로 97  ",
+    "address": "충북 청주시 청원구 충청대로 97",
     "province": "충북",
     "city": "청주시",
     "phone": null,
@@ -129301,16 +129350,17 @@
     ],
     "latitude": 36.665315,
     "longitude": 127.492956,
-    "updated_at": "2026-08-08T14:20:14.253353",
+    "updated_at": "2026-10-03T16:31:19.311540",
     "first_prize_draws": [
       1140
     ],
     "second_prize_draws": [
+      1244,
       1236,
       1176
     ],
     "first_prize_count": 1,
-    "second_prize_count": 2
+    "second_prize_count": 3
   },
   "14740339": {
     "store_id": "14740339",
@@ -129673,7 +129723,7 @@
   "14130228": {
     "store_id": "14130228",
     "name": "경서로또",
-    "address": "경기 양평군  경강로 1039 1층",
+    "address": "경기 양평군 경강로 1039 1층",
     "province": "경기",
     "city": "양평군",
     "phone": "031-774-8219",
@@ -129682,17 +129732,18 @@
       "pension720",
       "speetto"
     ],
-    "latitude": 37.512129,
-    "longitude": 127.401662,
-    "updated_at": "2026-03-05T23:57:27.147887",
+    "latitude": 37.512126,
+    "longitude": 127.40169,
+    "updated_at": "2026-10-03T16:31:19.307637",
     "first_prize_draws": [
       1144
     ],
     "second_prize_draws": [
+      1244,
       807
     ],
     "first_prize_count": 1,
-    "second_prize_count": 1
+    "second_prize_count": 2
   },
   "14340243": {
     "store_id": "14340243",
@@ -130010,7 +130061,7 @@
   "14440081": {
     "store_id": "14440081",
     "name": "도고로또판매점",
-    "address": "충남 아산시 온천대로 170 이마트24시편의점  ",
+    "address": "충남 아산시 온천대로 170 이마트24시편의점",
     "province": "충남",
     "city": "아산시",
     "phone": null,
@@ -130019,18 +130070,19 @@
       "pension720",
       "speetto"
     ],
-    "latitude": 36.747288,
-    "longitude": 126.873454,
-    "updated_at": "2026-03-06T00:01:05.559738",
+    "latitude": 36.747275,
+    "longitude": 126.87351,
+    "updated_at": "2026-10-03T16:31:19.313293",
     "first_prize_draws": [
       1147
     ],
     "second_prize_draws": [
+      1244,
       1205,
       1156
     ],
     "first_prize_count": 1,
-    "second_prize_count": 2
+    "second_prize_count": 3
   },
   "11100628": {
     "store_id": "11100628",
@@ -137351,7 +137403,7 @@
   "14840007": {
     "store_id": "14840007",
     "name": "승원롯또판매",
-    "address": "경남 창원시 의창구  천주로 506 복권판매점",
+    "address": "경남 창원시 의창구 천주로 506 복권판매점",
     "province": "경남",
     "city": "창원시",
     "phone": null,
@@ -137360,19 +137412,20 @@
       "pension720",
       "speetto"
     ],
-    "latitude": 35.301727,
-    "longitude": 128.601962,
-    "updated_at": "2026-03-06T00:00:48.822645",
+    "latitude": 35.301621,
+    "longitude": 128.60204,
+    "updated_at": "2026-10-03T16:31:19.316167",
     "first_prize_draws": [
       1199
     ],
     "second_prize_draws": [
+      1244,
       1189,
       1118,
       867
     ],
     "first_prize_count": 1,
-    "second_prize_count": 3
+    "second_prize_count": 4
   },
   "11110635": {
     "store_id": "11110635",
@@ -147651,7 +147704,7 @@
   "14390015": {
     "store_id": "14390015",
     "name": "천하제일복권방",
-    "address": "충북 청주시 서원구  매봉로 208 삼호상가1-105",
+    "address": "충북 청주시 서원구 매봉로 208 삼호상가1-105",
     "province": "충북",
     "city": "청주시",
     "phone": "043-272-4697",
@@ -147662,9 +147715,10 @@
     ],
     "latitude": 36.627509,
     "longitude": 127.47575,
-    "updated_at": "2026-03-05T23:56:56.501576",
+    "updated_at": "2026-10-03T16:31:19.311764",
     "first_prize_draws": [],
     "second_prize_draws": [
+      1244,
       1133,
       1098,
       985,
@@ -147673,7 +147727,7 @@
       289
     ],
     "first_prize_count": 0,
-    "second_prize_count": 6
+    "second_prize_count": 7
   },
   "14410022": {
     "store_id": "14410022",
@@ -160053,7 +160107,7 @@
   "12800181": {
     "store_id": "12800181",
     "name": "매표소",
-    "address": "인천 중구  제물량로 165 ",
+    "address": "인천 제물포구 제물량로 165",
     "province": "인천",
     "city": "중구",
     "phone": "032-763-6542",
@@ -160062,18 +160116,19 @@
       "pension720",
       "speetto"
     ],
-    "latitude": 37.469907,
-    "longitude": 126.625514,
-    "updated_at": "2026-03-05T23:48:27.806391",
+    "latitude": 37.469931,
+    "longitude": 126.62553,
+    "updated_at": "2026-10-03T16:31:19.303331",
     "first_prize_draws": [],
     "second_prize_draws": [
+      1244,
       974,
       813,
       358,
       336
     ],
     "first_prize_count": 0,
-    "second_prize_count": 4
+    "second_prize_count": 5
   },
   "14110336": {
     "store_id": "14110336",
@@ -171794,7 +171849,7 @@
   "14100669": {
     "store_id": "14100669",
     "name": "삼일사",
-    "address": "경기 성남시 중원구  희망로344번길 3 ",
+    "address": "경기 성남시 중원구 희망로344번길 3",
     "province": "경기",
     "city": "성남시",
     "phone": "031-746-1304",
@@ -171805,9 +171860,10 @@
     ],
     "latitude": 37.436422,
     "longitude": 127.158438,
-    "updated_at": "2026-03-06T00:00:25.641939",
+    "updated_at": "2026-10-03T16:31:19.309525",
     "first_prize_draws": [],
     "second_prize_draws": [
+      1244,
       1191,
       1153,
       1145,
@@ -171821,7 +171877,7 @@
       398
     ],
     "first_prize_count": 0,
-    "second_prize_count": 11
+    "second_prize_count": 12
   },
   "14490003": {
     "store_id": "14490003",
@@ -183764,7 +183820,7 @@
   "14410105": {
     "store_id": "14410105",
     "name": "노다지복권방",
-    "address": "충남 보령시  신설6길 88 ",
+    "address": "충남 보령시 신설6길 88",
     "province": "충남",
     "city": "보령시",
     "phone": "041-931-6161",
@@ -183774,10 +183830,11 @@
       "speetto"
     ],
     "latitude": 36.353841,
-    "longitude": 126.605433,
-    "updated_at": "2026-03-05T23:54:36.997686",
+    "longitude": 126.60543,
+    "updated_at": "2026-10-03T16:31:19.313525",
     "first_prize_draws": [],
     "second_prize_draws": [
+      1244,
       1085,
       742,
       627,
@@ -183787,7 +183844,7 @@
       484
     ],
     "first_prize_count": 0,
-    "second_prize_count": 7
+    "second_prize_count": 8
   },
   "11110435": {
     "store_id": "11110435",
@@ -201289,7 +201346,7 @@
   "14430038": {
     "store_id": "14430038",
     "name": "지에스25서해휴게소",
-    "address": "충남 당진시  막부리길 218-1 서해휴게소 상가 1호",
+    "address": "충남 당진시 막부리길 218-1 서해휴게소 상가 1호",
     "province": "충남",
     "city": "당진시",
     "phone": null,
@@ -201298,18 +201355,19 @@
       "pension720",
       "speetto"
     ],
-    "latitude": 36.97894,
-    "longitude": 126.71103,
-    "updated_at": "2026-03-05T23:56:24.988419",
+    "latitude": 36.978867,
+    "longitude": 126.71053,
+    "updated_at": "2026-10-03T16:31:19.313750",
     "first_prize_draws": [],
     "second_prize_draws": [
+      1244,
       1122,
       1057,
       819,
       695
     ],
     "first_prize_count": 0,
-    "second_prize_count": 4
+    "second_prize_count": 5
   },
   "11101662": {
     "store_id": "11101662",
@@ -202303,26 +202361,27 @@
   "12800015": {
     "store_id": "12800015",
     "name": "복권판매점",
-    "address": "인천 남동구  경인로 595 1층 1호",
+    "address": "인천 남동구 석산로 175 정문프라자 111호",
     "province": "인천",
     "city": "남동구",
-    "phone": "032-424-0907",
+    "phone": null,
     "lottery_types": [
       "lotto645",
       "pension720",
       "speetto"
     ],
     "latitude": 37.460722,
-    "longitude": 126.711473,
-    "updated_at": "2026-03-05T23:51:39.291722",
+    "longitude": 126.71147,
+    "updated_at": "2026-10-03T16:31:19.304324",
     "first_prize_draws": [],
     "second_prize_draws": [
+      1244,
       1032,
       815,
       706
     ],
     "first_prize_count": 0,
-    "second_prize_count": 3
+    "second_prize_count": 4
   },
   "12990020": {
     "store_id": "12990020",
@@ -206764,7 +206823,7 @@
   "14100629": {
     "store_id": "14100629",
     "name": "가두판매점",
-    "address": "경기 수원시 영통구  덕영대로 1529 ",
+    "address": "경기 수원시 영통구 덕영대로 1529",
     "province": "경기",
     "city": "수원시",
     "phone": "031-205-2660",
@@ -206773,17 +206832,18 @@
       "pension720",
       "speetto"
     ],
-    "latitude": 37.24628,
-    "longitude": 127.05923,
-    "updated_at": "2026-03-05T23:55:51.192861",
+    "latitude": 37.246241,
+    "longitude": 127.05825,
+    "updated_at": "2026-10-03T16:31:19.309116",
     "first_prize_draws": [],
     "second_prize_draws": [
+      1244,
       1111,
       1008,
       749
     ],
     "first_prize_count": 0,
-    "second_prize_count": 3
+    "second_prize_count": 4
   },
   "14120074": {
     "store_id": "14120074",
@@ -211698,7 +211758,7 @@
   "14640017": {
     "store_id": "14640017",
     "name": "황금로또복권",
-    "address": "전남 영암군  삼호중앙로 157 1층",
+    "address": "전남광주 영암군 삼호중앙로 157 1층",
     "province": "전남",
     "city": "영암군",
     "phone": null,
@@ -211707,18 +211767,19 @@
       "pension720",
       "speetto"
     ],
-    "latitude": 34.745697,
-    "longitude": 126.468255,
-    "updated_at": "2026-03-06T00:00:57.101211",
+    "latitude": 34.745631,
+    "longitude": 126.46824,
+    "updated_at": "2026-10-03T16:31:19.314243",
     "first_prize_draws": [],
     "second_prize_draws": [
+      1244,
       1202,
       1127,
       991,
       795
     ],
     "first_prize_count": 0,
-    "second_prize_count": 4
+    "second_prize_count": 5
   },
   "14100791": {
     "store_id": "14100791",
@@ -214337,8 +214398,8 @@
   },
   "14130009": {
     "store_id": "14130009",
-    "name": "힐링로또마트",
-    "address": "경기 수원시 권선구 당수동(입북동) 158-2 104호",
+    "name": "된다로또",
+    "address": "경기 수원시 장안구 서부로2181번길 28 1층 1층전부(율전동, (주)산요테크)",
     "province": "경기",
     "city": "수원시",
     "phone": "031-252-5651",
@@ -214347,15 +214408,16 @@
       "pension720",
       "speetto"
     ],
-    "latitude": 37.30304,
+    "latitude": 37.303082,
     "longitude": 126.97138,
-    "updated_at": "2026-03-05T23:40:26.437125",
+    "updated_at": "2026-10-03T16:31:19.308918",
     "first_prize_draws": [],
     "second_prize_draws": [
+      1244,
       825
     ],
     "first_prize_count": 0,
-    "second_prize_count": 1
+    "second_prize_count": 2
   },
   "11110704": {
     "store_id": "11110704",
@@ -218741,7 +218803,7 @@
   "14190129": {
     "store_id": "14190129",
     "name": "휴먼복권방",
-    "address": "경기 안양시 만안구  장내로140번길 36 ",
+    "address": "경기 안양시 만안구 장내로140번길 36",
     "province": "경기",
     "city": "안양시",
     "phone": "031-441-6334",
@@ -218750,18 +218812,19 @@
       "pension720",
       "speetto"
     ],
-    "latitude": 37.396314,
-    "longitude": 126.924184,
-    "updated_at": "2026-03-06T00:00:10.753672",
+    "latitude": 37.396324,
+    "longitude": 126.9243,
+    "updated_at": "2026-10-03T16:31:19.308056",
     "first_prize_draws": [],
     "second_prize_draws": [
+      1244,
       1186,
       1042,
       896,
       877
     ],
     "first_prize_count": 0,
-    "second_prize_count": 4
+    "second_prize_count": 5
   },
   "14140195": {
     "store_id": "14140195",
@@ -226447,7 +226510,7 @@
   "14840126": {
     "store_id": "14840126",
     "name": "로또명당",
-    "address": "경남 거제시 아주1로3길 37-1 102호  ",
+    "address": "경남 거제시 아주1로3길 37-1 102호",
     "province": "경남",
     "city": "거제시",
     "phone": null,
@@ -226458,9 +226521,10 @@
     ],
     "latitude": 34.865548,
     "longitude": 128.69018,
-    "updated_at": "2026-05-09T14:41:00.391270",
+    "updated_at": "2026-10-03T16:31:19.317363",
     "first_prize_draws": [],
     "second_prize_draws": [
+      1244,
       1223,
       1110,
       1107,
@@ -226469,7 +226533,7 @@
       956
     ],
     "first_prize_count": 0,
-    "second_prize_count": 6
+    "second_prize_count": 7
   },
   "14840072": {
     "store_id": "14840072",
@@ -234819,7 +234883,7 @@
   "14640091": {
     "store_id": "14640091",
     "name": "대광복권판매점",
-    "address": "전남 강진군 중앙로 83 1층  ",
+    "address": "전남광주 강진군 중앙로 83 1층",
     "province": "전남",
     "city": "강진군",
     "phone": null,
@@ -234829,16 +234893,17 @@
       "speetto"
     ],
     "latitude": 34.63793,
-    "longitude": 126.766631,
-    "updated_at": "2026-03-06T00:01:19.604027",
+    "longitude": 126.76663,
+    "updated_at": "2026-10-03T16:31:19.314733",
     "first_prize_draws": [
       1210
     ],
     "second_prize_draws": [
+      1244,
       1014
     ],
     "first_prize_count": 1,
-    "second_prize_count": 1
+    "second_prize_count": 2
   },
   "14740057": {
     "store_id": "14740057",
@@ -237053,7 +237118,7 @@
   "11140189": {
     "store_id": "11140189",
     "name": "정우로또",
-    "address": "서울 관악구  남부순환로 1814-2 우리은행 앞 가로노점(봉천동)",
+    "address": "서울 관악구 남부순환로 1814-2 우리은행 앞 가로노점(봉천동)",
     "province": "서울",
     "city": "관악구",
     "phone": null,
@@ -237062,17 +237127,18 @@
       "pension720",
       "speetto"
     ],
-    "latitude": 37.48122,
-    "longitude": 126.95157,
-    "updated_at": "2026-03-05T23:57:29.703596",
+    "latitude": 37.481269,
+    "longitude": 126.95172,
+    "updated_at": "2026-10-03T16:31:19.298435",
     "first_prize_draws": [],
     "second_prize_draws": [
+      1244,
       1145,
       1116,
       1027
     ],
     "first_prize_count": 0,
-    "second_prize_count": 3
+    "second_prize_count": 4
   },
   "11140212": {
     "store_id": "11140212",
@@ -241791,7 +241857,7 @@
   "14740201": {
     "store_id": "14740201",
     "name": "택지 복권방",
-    "address": "경북 영주시  대학로 240 1층 102호(가흥동)",
+    "address": "경북 영주시 대학로 240 1층 102호(가흥동)",
     "province": "경북",
     "city": "영주시",
     "phone": null,
@@ -241800,11 +241866,12 @@
       "pension720",
       "speetto"
     ],
-    "latitude": 36.816803,
-    "longitude": 128.604973,
-    "updated_at": "2026-03-05T23:57:19.162498",
+    "latitude": 36.816778,
+    "longitude": 128.605,
+    "updated_at": "2026-10-03T16:31:19.315369",
     "first_prize_draws": [],
     "second_prize_draws": [
+      1244,
       1141,
       1099,
       1062,
@@ -241812,7 +241879,7 @@
       1050
     ],
     "first_prize_count": 0,
-    "second_prize_count": 5
+    "second_prize_count": 6
   },
   "14140605": {
     "store_id": "14140605",
@@ -248834,8 +248901,8 @@
   },
   "14141022": {
     "store_id": "14141022",
-    "name": "지에스25 송산프라자점",
-    "address": "경기 화성시 수노을중앙로 156 101102호  ",
+    "name": "지에스25 송산중앙",
+    "address": "경기 화성시 만세구 수노을중앙로 156 104호, 105호",
     "province": "경기",
     "city": "화성시",
     "phone": null,
@@ -248844,11 +248911,12 @@
       "pension720",
       "speetto"
     ],
-    "latitude": 37.2833,
+    "latitude": 37.283304,
     "longitude": 126.81902,
-    "updated_at": "2026-03-06T00:01:16.180030",
+    "updated_at": "2026-10-03T16:31:19.306457",
     "first_prize_draws": [],
     "second_prize_draws": [
+      1244,
       1209,
       1157,
       1140,
@@ -248856,7 +248924,7 @@
       1081
     ],
     "first_prize_count": 0,
-    "second_prize_count": 5
+    "second_prize_count": 6
   },
   "14340117": {
     "store_id": "14340117",
@@ -253008,7 +253076,7 @@
   "14141924": {
     "store_id": "14141924",
     "name": "지제역로또",
-    "address": "경기 평택시 모산영신1길 39 1층 102호  ",
+    "address": "경기 평택시 모산영신1길 39 1층 102호",
     "province": "경기",
     "city": "평택시",
     "phone": null,
@@ -253019,13 +253087,15 @@
     ],
     "latitude": 37.020603,
     "longitude": 127.08875,
-    "updated_at": "2026-04-11T14:25:55.220411",
-    "first_prize_draws": [],
+    "updated_at": "2026-10-03T16:31:19.306686",
+    "first_prize_draws": [
+      1244
+    ],
     "second_prize_draws": [
       1219,
       1101
     ],
-    "first_prize_count": 0,
+    "first_prize_count": 1,
     "second_prize_count": 2
   },
   "14240198": {
@@ -253602,7 +253672,7 @@
   "14840421": {
     "store_id": "14840421",
     "name": "대박천국",
-    "address": "경남 거제시 옥포로10길 3 102호  ",
+    "address": "경남 거제시 옥포로10길 3 102호",
     "province": "경남",
     "city": "거제시",
     "phone": null,
@@ -253613,15 +253683,16 @@
     ],
     "latitude": 34.891281,
     "longitude": 128.69183,
-    "updated_at": "2026-05-16T14:44:53.918545",
+    "updated_at": "2026-10-03T16:31:19.317592",
     "first_prize_draws": [],
     "second_prize_draws": [
+      1244,
       1224,
       1123,
       1103
     ],
     "first_prize_count": 0,
-    "second_prize_count": 3
+    "second_prize_count": 4
   },
   "11140783": {
     "store_id": "11140783",
@@ -253785,7 +253856,7 @@
   "14140513": {
     "store_id": "14140513",
     "name": "씨유오성IC점",
-    "address": "경기 평택시  서동대로 2346 (502-5502-7(3필지))",
+    "address": "경기 평택시 서동대로 2346 (502-5,502-7(3필지))",
     "province": "경기",
     "city": "평택시",
     "phone": null,
@@ -253793,15 +253864,16 @@
       "lotto645",
       "speetto"
     ],
-    "latitude": 37.01326,
-    "longitude": 127.0012,
-    "updated_at": "2026-03-05T23:55:31.297892",
+    "latitude": 37.013193,
+    "longitude": 127.00136,
+    "updated_at": "2026-10-03T16:31:19.306908",
     "first_prize_draws": [],
     "second_prize_draws": [
+      1244,
       1104
     ],
     "first_prize_count": 0,
-    "second_prize_count": 1
+    "second_prize_count": 2
   },
   "11140167": {
     "store_id": "11140167",
@@ -262790,16 +262862,17 @@
     ],
     "latitude": 37.039745,
     "longitude": 127.13169,
-    "updated_at": "2026-09-19T16:51:00.742516",
+    "updated_at": "2026-10-03T16:31:19.308531",
     "first_prize_draws": [],
     "second_prize_draws": [
+      1244,
       1242,
       1209,
       1171,
       1150
     ],
     "first_prize_count": 0,
-    "second_prize_count": 4
+    "second_prize_count": 5
   },
   "14140958": {
     "store_id": "14140958",
@@ -263927,7 +264000,7 @@
   "14840539": {
     "store_id": "14840539",
     "name": "대원마트",
-    "address": "경남 밀양시  표충로 876 대원마트",
+    "address": "경남 밀양시 표충로 876 대원마트",
     "province": "경남",
     "city": "밀양시",
     "phone": "055-352-1125",
@@ -263938,14 +264011,15 @@
     ],
     "latitude": 35.524141,
     "longitude": 128.911342,
-    "updated_at": "2026-03-06T00:00:08.314629",
+    "updated_at": "2026-10-03T16:31:19.316783",
     "first_prize_draws": [],
     "second_prize_draws": [
+      1244,
       1185,
       1156
     ],
     "first_prize_count": 0,
-    "second_prize_count": 2
+    "second_prize_count": 3
   },
   "11141752": {
     "store_id": "11141752",
@@ -264221,8 +264295,8 @@
   },
   "14440473": {
     "store_id": "14440473",
-    "name": "동행복권남천안아이씨점",
-    "address": "충남 천안시 동남구  세종로 4928 씨동 1층 104호",
+    "name": "동행복권 남천안 IC점",
+    "address": "충남 천안시 동남구 세종로 4928 씨동 1층 104호",
     "province": "충남",
     "city": "천안시",
     "phone": null,
@@ -264232,14 +264306,15 @@
       "speetto"
     ],
     "latitude": 36.749042,
-    "longitude": 127.171517,
-    "updated_at": "2026-03-05T23:58:34.142618",
+    "longitude": 127.17151,
+    "updated_at": "2026-10-03T16:31:19.312529",
     "first_prize_draws": [],
     "second_prize_draws": [
+      1244,
       1157
     ],
     "first_prize_count": 0,
-    "second_prize_count": 1
+    "second_prize_count": 2
   },
   "14640219": {
     "store_id": "14640219",
@@ -272753,7 +272828,7 @@
   "14142647": {
     "store_id": "14142647",
     "name": "평촌역 명당복권방(2번출구)",
-    "address": "경기 안양시 동안구 관평로186번길 53 1층 101-2호(관양동씨티빌딩)  ",
+    "address": "경기 안양시 동안구 관평로186번길 53 1층 101-2호(관양동,씨티빌딩)",
     "province": "경기",
     "city": "안양시",
     "phone": null,
@@ -272764,14 +272839,15 @@
     ],
     "latitude": 37.394567,
     "longitude": 126.96287,
-    "updated_at": "2026-08-22T14:08:49.512333",
+    "updated_at": "2026-10-03T16:31:19.308294",
     "first_prize_draws": [
+      1244,
       1238
     ],
     "second_prize_draws": [
       1196
     ],
-    "first_prize_count": 1,
+    "first_prize_count": 2,
     "second_prize_count": 1
   },
   "14141854": {
@@ -277942,22 +278018,23 @@
   "12840272": {
     "store_id": "12840272",
     "name": "찐로또복권방 원적산점",
-    "address": "인천 부평구 세월천로 111 1층  ",
+    "address": "인천 부평구 세월천로 111 1층",
     "phone": null,
     "lottery_types": [
       "lotto645",
       "pension720",
       "speetto"
     ],
-    "latitude": 37.514244,
-    "longitude": 126.697307,
-    "updated_at": "2026-04-11T14:25:55.219137",
+    "latitude": 37.514311,
+    "longitude": 126.69733,
+    "updated_at": "2026-10-03T16:31:19.304095",
     "first_prize_draws": [],
     "second_prize_draws": [
+      1244,
       1219
     ],
     "first_prize_count": 0,
-    "second_prize_count": 1
+    "second_prize_count": 2
   },
   "13040037": {
     "store_id": "13040037",
@@ -282862,5 +282939,245 @@
     "second_prize_draws": [],
     "first_prize_count": 1,
     "second_prize_count": 0
+  },
+  "11141543": {
+    "store_id": "11141543",
+    "name": "논현복권",
+    "address": "서울 강남구 강남대로122길 50 103호",
+    "phone": null,
+    "lottery_types": [
+      "lotto645",
+      "pension720",
+      "speetto"
+    ],
+    "latitude": 37.508914,
+    "longitude": 127.02707,
+    "updated_at": "2026-10-03T16:31:19.299630",
+    "first_prize_draws": [],
+    "second_prize_draws": [
+      1244
+    ],
+    "first_prize_count": 0,
+    "second_prize_count": 1
+  },
+  "12640289": {
+    "store_id": "12640289",
+    "name": "꿈꾸는 로또",
+    "address": "부산 부산진구 동평로 84-1",
+    "phone": null,
+    "lottery_types": [
+      "lotto645",
+      "pension720",
+      "speetto"
+    ],
+    "latitude": 35.165207,
+    "longitude": 129.03876,
+    "updated_at": "2026-10-03T16:31:19.300831",
+    "first_prize_draws": [
+      1244
+    ],
+    "second_prize_draws": [],
+    "first_prize_count": 1,
+    "second_prize_count": 0
+  },
+  "12740377": {
+    "store_id": "12740377",
+    "name": "지에스25만촌메트로점",
+    "address": "대구 수성구 동원로 100 1층 104호",
+    "phone": null,
+    "lottery_types": [
+      "lotto645",
+      "pension720",
+      "speetto"
+    ],
+    "latitude": 35.869027,
+    "longitude": 128.64039,
+    "updated_at": "2026-10-03T16:31:19.302459",
+    "first_prize_draws": [],
+    "second_prize_draws": [
+      1244
+    ],
+    "first_prize_count": 0,
+    "second_prize_count": 1
+  },
+  "12840604": {
+    "store_id": "12840604",
+    "name": "송도제일복권방",
+    "address": "인천 연수구 송도미래로11번길 27 송도스마트스퀘어 B동 122호",
+    "phone": null,
+    "lottery_types": [
+      "lotto645",
+      "pension720",
+      "speetto"
+    ],
+    "latitude": 37.371056,
+    "longitude": 126.64888,
+    "updated_at": "2026-10-03T16:31:19.303784",
+    "first_prize_draws": [],
+    "second_prize_draws": [
+      1244
+    ],
+    "first_prize_count": 0,
+    "second_prize_count": 1
+  },
+  "12840450": {
+    "store_id": "12840450",
+    "name": "천복복권방",
+    "address": "인천 연수구 먼우금로 302 유천상가 1층 133호",
+    "phone": null,
+    "lottery_types": [
+      "lotto645",
+      "pension720",
+      "speetto"
+    ],
+    "latitude": 37.422961,
+    "longitude": 126.68279,
+    "updated_at": "2026-10-03T16:31:19.303956",
+    "first_prize_draws": [],
+    "second_prize_draws": [
+      1244
+    ],
+    "first_prize_count": 0,
+    "second_prize_count": 1
+  },
+  "13120021": {
+    "store_id": "13120021",
+    "name": "무지개마트",
+    "address": "울산 울주군 덕신로 488",
+    "phone": "052-239-1808",
+    "lottery_types": [
+      "lotto645",
+      "pension720",
+      "speetto"
+    ],
+    "latitude": 35.439493,
+    "longitude": 129.33248,
+    "updated_at": "2026-10-03T16:31:19.305051",
+    "first_prize_draws": [],
+    "second_prize_draws": [
+      1244
+    ],
+    "first_prize_count": 0,
+    "second_prize_count": 1
+  },
+  "14142193": {
+    "store_id": "14142193",
+    "name": "단비복권방",
+    "address": "경기 시흥시 다솜마을2길 1 101호",
+    "phone": null,
+    "lottery_types": [
+      "lotto645",
+      "pension720",
+      "speetto"
+    ],
+    "latitude": 37.350232,
+    "longitude": 126.73985,
+    "updated_at": "2026-10-03T16:31:19.308753",
+    "first_prize_draws": [
+      1244
+    ],
+    "second_prize_draws": [],
+    "first_prize_count": 1,
+    "second_prize_count": 0
+  },
+  "14142545": {
+    "store_id": "14142545",
+    "name": "수원로또명당복권방",
+    "address": "경기 수원시 권선구 평동로79번길 45 125호 일부(평동, 수원 SK V1 motors)",
+    "phone": null,
+    "lottery_types": [
+      "lotto645",
+      "pension720",
+      "speetto"
+    ],
+    "latitude": 37.259876,
+    "longitude": 126.99277,
+    "updated_at": "2026-10-03T16:31:19.309361",
+    "first_prize_draws": [],
+    "second_prize_draws": [
+      1244
+    ],
+    "first_prize_count": 0,
+    "second_prize_count": 1
+  },
+  "14440487": {
+    "store_id": "14440487",
+    "name": "로또리아",
+    "address": "충남 천안시 서북구 불당22대로 86 102호(마블러스 에스타워)",
+    "phone": null,
+    "lottery_types": [
+      "lotto645",
+      "pension720",
+      "speetto"
+    ],
+    "latitude": 36.815292,
+    "longitude": 127.108096,
+    "updated_at": "2026-10-03T16:31:19.312221",
+    "first_prize_draws": [],
+    "second_prize_draws": [
+      1244
+    ],
+    "first_prize_count": 0,
+    "second_prize_count": 1
+  },
+  "14440188": {
+    "store_id": "14440188",
+    "name": "명품복권",
+    "address": "충남 천안시 동남구 풍세로 965 아트빌아파트 상가 내",
+    "phone": null,
+    "lottery_types": [
+      "lotto645",
+      "pension720",
+      "speetto"
+    ],
+    "latitude": 36.794027,
+    "longitude": 127.15076,
+    "updated_at": "2026-10-03T16:31:19.312391",
+    "first_prize_draws": [],
+    "second_prize_draws": [
+      1244
+    ],
+    "first_prize_count": 0,
+    "second_prize_count": 1
+  },
+  "14740433": {
+    "store_id": "14740433",
+    "name": "명궁복권",
+    "address": "경북 청송군 경동로 5156 1층",
+    "phone": null,
+    "lottery_types": [
+      "lotto645",
+      "pension720",
+      "speetto"
+    ],
+    "latitude": 36.506298,
+    "longitude": 129.11973,
+    "updated_at": "2026-10-03T16:31:19.314976",
+    "first_prize_draws": [],
+    "second_prize_draws": [
+      1244
+    ],
+    "first_prize_count": 0,
+    "second_prize_count": 1
+  },
+  "14840183": {
+    "store_id": "14840183",
+    "name": "복권방 쉼터",
+    "address": "경남 진주시 진양호로 187 1층",
+    "phone": null,
+    "lottery_types": [
+      "lotto645",
+      "pension720",
+      "speetto"
+    ],
+    "latitude": 35.171596,
+    "longitude": 128.05861,
+    "updated_at": "2026-10-03T16:31:19.316419",
+    "first_prize_draws": [],
+    "second_prize_draws": [
+      1244
+    ],
+    "first_prize_count": 0,
+    "second_prize_count": 1
   }
 }

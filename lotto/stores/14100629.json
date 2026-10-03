@@ -1,7 +1,7 @@
 {
   "store_id": "14100629",
   "name": "가두판매점",
-  "address": "경기 수원시 영통구  덕영대로 1529 ",
+  "address": "경기 수원시 영통구 덕영대로 1529",
   "province": "경기",
   "city": "수원시",
   "phone": "031-205-2660",
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.24628,
-  "longitude": 127.05923,
-  "updated_at": "2026-03-05T23:55:51.192861",
+  "latitude": 37.246241,
+  "longitude": 127.05825,
+  "updated_at": "2026-10-03T16:31:19.309116",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1244,
     1111,
     1008,
     749
   ],
   "first_prize_count": 0,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

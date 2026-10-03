@@ -1,7 +1,7 @@
 {
   "store_id": "11101531",
   "name": "장보고복권방",
-  "address": "서울 중랑구 면목로 288  ",
+  "address": "서울 중랑구 면목로 288",
   "province": "서울",
   "city": "중랑구",
   "phone": "02-2208-0911",
@@ -12,7 +12,7 @@
   ],
   "latitude": 37.578381,
   "longitude": 127.08622,
-  "updated_at": "2026-05-30T14:56:43.846582",
+  "updated_at": "2026-10-03T16:31:19.292107",
   "first_prize_draws": [
     1109,
     1051,
@@ -20,6 +20,7 @@
     704
   ],
   "second_prize_draws": [
+    1244,
     1226,
     1153,
     1146,
@@ -33,5 +34,5 @@
     687
   ],
   "first_prize_count": 4,
-  "second_prize_count": 11
+  "second_prize_count": 12
 }

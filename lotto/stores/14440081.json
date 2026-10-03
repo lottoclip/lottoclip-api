@@ -1,7 +1,7 @@
 {
   "store_id": "14440081",
   "name": "도고로또판매점",
-  "address": "충남 아산시 온천대로 170 이마트24시편의점  ",
+  "address": "충남 아산시 온천대로 170 이마트24시편의점",
   "province": "충남",
   "city": "아산시",
   "phone": null,
@@ -10,16 +10,17 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 36.747288,
-  "longitude": 126.873454,
-  "updated_at": "2026-03-06T00:01:05.559738",
+  "latitude": 36.747275,
+  "longitude": 126.87351,
+  "updated_at": "2026-10-03T16:31:19.313293",
   "first_prize_draws": [
     1147
   ],
   "second_prize_draws": [
+    1244,
     1205,
     1156
   ],
   "first_prize_count": 1,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

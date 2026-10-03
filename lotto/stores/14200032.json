@@ -1,7 +1,7 @@
 {
   "store_id": "14200032",
   "name": "용꿈돼지꿈복권전문점",
-  "address": "강원 동해시 중앙로 234 이주민상가1층15호  ",
+  "address": "강원 동해시 중앙로 234 이주민상가1층15호",
   "province": "강원",
   "city": "동해시",
   "phone": "033-531-5535",
@@ -12,7 +12,7 @@
   ],
   "latitude": 37.521491,
   "longitude": 129.11508,
-  "updated_at": "2026-07-18T14:42:18.710769",
+  "updated_at": "2026-10-03T16:31:19.311300",
   "first_prize_draws": [
     1096,
     995,
@@ -20,6 +20,7 @@
     415
   ],
   "second_prize_draws": [
+    1244,
     1233,
     1226,
     1222,
@@ -49,5 +50,5 @@
     390
   ],
   "first_prize_count": 4,
-  "second_prize_count": 27
+  "second_prize_count": 28
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14840539",
   "name": "대원마트",
-  "address": "경남 밀양시  표충로 876 대원마트",
+  "address": "경남 밀양시 표충로 876 대원마트",
   "province": "경남",
   "city": "밀양시",
   "phone": "055-352-1125",
@@ -12,12 +12,13 @@
   ],
   "latitude": 35.524141,
   "longitude": 128.911342,
-  "updated_at": "2026-03-06T00:00:08.314629",
+  "updated_at": "2026-10-03T16:31:19.316783",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1244,
     1185,
     1156
   ],
   "first_prize_count": 0,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

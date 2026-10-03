@@ -1,7 +1,7 @@
 {
   "store_id": "11101572",
   "name": "복사문구",
-  "address": "서울 강동구  양재대로 1549 ",
+  "address": "서울 강동구 양재대로 1549",
   "province": "서울",
   "city": "강동구",
   "phone": "02-485-6852",
@@ -11,17 +11,18 @@
     "speetto"
   ],
   "latitude": 37.544048,
-  "longitude": 127.142054,
-  "updated_at": "2026-03-05T23:58:36.578742",
+  "longitude": 127.14205,
+  "updated_at": "2026-10-03T16:31:19.299403",
   "first_prize_draws": [
     512
   ],
   "second_prize_draws": [
+    1244,
     1158,
     1000,
     600,
     569
   ],
   "first_prize_count": 1,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }

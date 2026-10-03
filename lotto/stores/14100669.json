@@ -1,7 +1,7 @@
 {
   "store_id": "14100669",
   "name": "삼일사",
-  "address": "경기 성남시 중원구  희망로344번길 3 ",
+  "address": "경기 성남시 중원구 희망로344번길 3",
   "province": "경기",
   "city": "성남시",
   "phone": "031-746-1304",
@@ -12,9 +12,10 @@
   ],
   "latitude": 37.436422,
   "longitude": 127.158438,
-  "updated_at": "2026-03-06T00:00:25.641939",
+  "updated_at": "2026-10-03T16:31:19.309525",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1244,
     1191,
     1153,
     1145,
@@ -28,5 +29,5 @@
     398
   ],
   "first_prize_count": 0,
-  "second_prize_count": 11
+  "second_prize_count": 12
 }

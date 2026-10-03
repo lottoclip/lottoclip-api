@@ -1,7 +1,7 @@
 {
   "store_id": "14410105",
   "name": "노다지복권방",
-  "address": "충남 보령시  신설6길 88 ",
+  "address": "충남 보령시 신설6길 88",
   "province": "충남",
   "city": "보령시",
   "phone": "041-931-6161",
@@ -11,10 +11,11 @@
     "speetto"
   ],
   "latitude": 36.353841,
-  "longitude": 126.605433,
-  "updated_at": "2026-03-05T23:54:36.997686",
+  "longitude": 126.60543,
+  "updated_at": "2026-10-03T16:31:19.313525",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1244,
     1085,
     742,
     627,
@@ -24,5 +25,5 @@
     484
   ],
   "first_prize_count": 0,
-  "second_prize_count": 7
+  "second_prize_count": 8
 }

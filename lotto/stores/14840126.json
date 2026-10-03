@@ -1,7 +1,7 @@
 {
   "store_id": "14840126",
   "name": "로또명당",
-  "address": "경남 거제시 아주1로3길 37-1 102호  ",
+  "address": "경남 거제시 아주1로3길 37-1 102호",
   "province": "경남",
   "city": "거제시",
   "phone": null,
@@ -12,9 +12,10 @@
   ],
   "latitude": 34.865548,
   "longitude": 128.69018,
-  "updated_at": "2026-05-09T14:41:00.391270",
+  "updated_at": "2026-10-03T16:31:19.317363",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1244,
     1223,
     1110,
     1107,
@@ -23,5 +24,5 @@
     956
   ],
   "first_prize_count": 0,
-  "second_prize_count": 6
+  "second_prize_count": 7
 }

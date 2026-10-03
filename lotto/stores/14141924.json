@@ -1,7 +1,7 @@
 {
   "store_id": "14141924",
   "name": "지제역로또",
-  "address": "경기 평택시 모산영신1길 39 1층 102호  ",
+  "address": "경기 평택시 모산영신1길 39 1층 102호",
   "province": "경기",
   "city": "평택시",
   "phone": null,
@@ -12,12 +12,14 @@
   ],
   "latitude": 37.020603,
   "longitude": 127.08875,
-  "updated_at": "2026-04-11T14:25:55.220411",
-  "first_prize_draws": [],
+  "updated_at": "2026-10-03T16:31:19.306686",
+  "first_prize_draws": [
+    1244
+  ],
   "second_prize_draws": [
     1219,
     1101
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 2
 }
