@@ -1,7 +1,7 @@
 {
   "store_id": "11100713",
   "name": "제일유통",
-  "address": "서울 송파구  중대로9길 27 ",
+  "address": "서울 송파구 중대로9길 27",
   "province": "서울",
   "city": "송파구",
   "phone": "02-470-8052",
@@ -10,11 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.495508,
-  "longitude": 127.118643,
-  "updated_at": "2026-03-05T23:57:21.280393",
+  "latitude": 37.4955,
+  "longitude": 127.11866,
+  "updated_at": "2026-10-10T17:23:00.469301",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1245,
     1142,
     1130,
     891,
@@ -22,5 +23,5 @@
     565
   ],
   "first_prize_count": 0,
-  "second_prize_count": 5
+  "second_prize_count": 6
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "12640611",
   "name": "승리복권판매점",
-  "address": "부산 수영구  좌수영로101번길 52 ",
+  "address": "부산 수영구 좌수영로101번길 52",
   "province": "부산",
   "city": "수영구",
   "phone": null,
@@ -10,13 +10,15 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.173916,
-  "longitude": 129.117157,
-  "updated_at": "2026-03-05T23:56:42.056495",
+  "latitude": 35.173886,
+  "longitude": 129.11716,
+  "updated_at": "2026-10-10T17:23:00.474215",
   "first_prize_draws": [
     1128
   ],
-  "second_prize_draws": [],
+  "second_prize_draws": [
+    1245
+  ],
   "first_prize_count": 1,
-  "second_prize_count": 0
+  "second_prize_count": 1
 }

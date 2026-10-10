@@ -1,7 +1,7 @@
 {
   "store_id": "14190199",
   "name": "대한복권",
-  "address": "경기 부천시  부천로 52 ",
+  "address": "경기 부천시 부천로 52",
   "province": "경기",
   "city": "부천시",
   "phone": "032-655-2744",
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.489606,
-  "longitude": 126.784199,
-  "updated_at": "2026-03-06T00:00:28.668389",
+  "latitude": 37.488838,
+  "longitude": 126.784,
+  "updated_at": "2026-10-10T17:23:00.522301",
   "first_prize_draws": [
     1038,
     894,
     312
   ],
   "second_prize_draws": [
+    1245,
     1192,
     1126,
     1063,
@@ -30,5 +31,5 @@
     363
   ],
   "first_prize_count": 3,
-  "second_prize_count": 9
+  "second_prize_count": 10
 }

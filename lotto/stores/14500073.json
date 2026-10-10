@@ -1,21 +1,22 @@
 {
   "store_id": "14500073",
   "name": "동서슈퍼",
-  "address": "전북 전주시 완산구  충경로 86-1 ",
+  "address": "전북 전주시 완산구 충경로 86-1",
   "province": "전북",
   "city": "전주시",
   "phone": "063-286-7370",
   "lottery_types": [
     "lotto645"
   ],
-  "latitude": 35.860411,
-  "longitude": 127.045358,
-  "updated_at": "2026-03-06T00:00:35.202857",
+  "latitude": 35.818857,
+  "longitude": 127.148422,
+  "updated_at": "2026-10-10T17:23:00.525216",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1245,
     1194,
     1176
   ],
   "first_prize_count": 0,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

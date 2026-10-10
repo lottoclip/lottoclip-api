@@ -1,7 +1,7 @@
 {
   "store_id": "12800151",
   "name": "나랑유통",
-  "address": "인천 서구 가정로380번길 32 대경무역2빌딩 102호  ",
+  "address": "인천 서해구 가정로380번길 32 대경무역2빌딩 102호",
   "province": "인천",
   "city": "서구",
   "phone": "032-581-5799",
@@ -12,9 +12,10 @@
   ],
   "latitude": 37.518533,
   "longitude": 126.67656,
-  "updated_at": "2026-07-11T14:42:32.901157",
+  "updated_at": "2026-10-10T17:23:00.475517",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1245,
     1232,
     1217,
     1204,
@@ -30,5 +31,5 @@
     296
   ],
   "first_prize_count": 0,
-  "second_prize_count": 13
+  "second_prize_count": 14
 }

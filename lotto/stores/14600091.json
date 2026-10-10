@@ -1,7 +1,7 @@
 {
   "store_id": "14600091",
   "name": "대박복권방",
-  "address": "전남 목포시  원산로 64 대박복권방",
+  "address": "전남광주 목포시 원산로 64 대박복권방",
   "province": "전남",
   "city": "목포시",
   "phone": "061-277-5423",
@@ -10,11 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 34.805137,
-  "longitude": 126.376002,
-  "updated_at": "2026-03-05T23:53:18.923018",
+  "latitude": 34.805159,
+  "longitude": 126.37596,
+  "updated_at": "2026-10-10T17:23:00.525634",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1245,
     1058,
     975,
     928,
@@ -22,5 +23,5 @@
     366
   ],
   "first_prize_count": 0,
-  "second_prize_count": 5
+  "second_prize_count": 6
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "12920003",
   "name": "드림",
-  "address": "광주 광산구 선운로20번길 64 104호  ",
+  "address": "전남광주 광산구 선운로20번길 64 104호",
   "province": "광주",
   "city": "광산구",
   "phone": "062-941-1357",
@@ -12,11 +12,12 @@
   ],
   "latitude": 35.146542,
   "longitude": 126.77744,
-  "updated_at": "2026-05-30T14:56:43.854169",
+  "updated_at": "2026-10-10T17:23:00.476090",
   "first_prize_draws": [
     1226
   ],
   "second_prize_draws": [
+    1245,
     1090,
     1064,
     1011,
@@ -27,5 +28,5 @@
     704
   ],
   "first_prize_count": 1,
-  "second_prize_count": 8
+  "second_prize_count": 9
 }

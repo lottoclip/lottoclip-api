@@ -1,7 +1,7 @@
 {
   "store_id": "14100720",
   "name": "영화모음",
-  "address": "경기 수원시 장안구  금당로39번길 6 뉴타운프라자A-107",
+  "address": "경기 수원시 장안구 금당로39번길 6 뉴타운프라자A-107",
   "province": "경기",
   "city": "수원시",
   "phone": "031-268-7667",
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.30316,
-  "longitude": 127.016096,
-  "updated_at": "2026-03-05T23:59:04.950300",
+  "latitude": 37.303194,
+  "longitude": 127.0161,
+  "updated_at": "2026-10-10T17:23:00.521153",
   "first_prize_draws": [
     983,
     930,
     572
   ],
   "second_prize_draws": [
+    1245,
     1168,
     1082,
     1080,
@@ -37,5 +38,5 @@
     298
   ],
   "first_prize_count": 3,
-  "second_prize_count": 16
+  "second_prize_count": 17
 }

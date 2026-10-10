@@ -1,7 +1,7 @@
 {
   "store_id": "14640103",
   "name": "알리바이한전공대점",
-  "address": "전남 나주시 빛가람로 793 1층  ",
+  "address": "전남광주 나주시 빛가람로 793 1층",
   "province": "전남",
   "city": "나주시",
   "phone": null,
@@ -12,15 +12,16 @@
   ],
   "latitude": 35.021459,
   "longitude": 126.79868,
-  "updated_at": "2026-06-20T15:26:26.089141",
+  "updated_at": "2026-10-10T17:23:00.525909",
   "first_prize_draws": [
     1102
   ],
   "second_prize_draws": [
+    1245,
     1229,
     1132,
     1096
   ],
   "first_prize_count": 1,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

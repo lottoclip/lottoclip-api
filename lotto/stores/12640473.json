@@ -1,7 +1,7 @@
 {
   "store_id": "12640473",
-  "name": "인생역전 복권방",
-  "address": "부산 중구  광복로39번길 34 1층",
+  "name": "인생역전복권방",
+  "address": "부산 중구 광복로39번길 34 1층",
   "province": "부산",
   "city": "중구",
   "phone": null,
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 39.102294,
-  "longitude": 129.029207,
-  "updated_at": "2026-03-05T23:54:11.052888",
+  "latitude": 35.102272,
+  "longitude": 129.029222,
+  "updated_at": "2026-10-10T17:23:00.473922",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1245,
     1076
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

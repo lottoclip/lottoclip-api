@@ -1,7 +1,7 @@
 {
   "store_id": "14340197",
   "name": "복앤돈복권방",
-  "address": "충북 충주시 충원대로 948 나동 2호  ",
+  "address": "충북 충주시 충원대로 948 나동 2호",
   "province": "충북",
   "city": "충주시",
   "phone": null,
@@ -12,16 +12,17 @@
   ],
   "latitude": 37.010302,
   "longitude": 127.91592,
-  "updated_at": "2026-08-15T14:09:27.843120",
+  "updated_at": "2026-10-10T17:23:00.524156",
   "first_prize_draws": [
     1237,
     1051
   ],
   "second_prize_draws": [
+    1245,
     1091,
     1076,
     1016
   ],
   "first_prize_count": 2,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

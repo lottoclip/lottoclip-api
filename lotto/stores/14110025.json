@@ -1,7 +1,7 @@
 {
   "store_id": "14110025",
   "name": "은미복권방",
-  "address": "경기 부천시 소사로794번길 6  ",
+  "address": "경기 부천시 소사로794번길 6",
   "province": "경기",
   "city": "부천시",
   "phone": "032-682-0570",
@@ -12,7 +12,7 @@
   ],
   "latitude": 37.526979,
   "longitude": 126.80514,
-  "updated_at": "2026-05-02T14:39:19.138209",
+  "updated_at": "2026-10-10T17:23:00.522160",
   "first_prize_draws": [
     1039,
     832,
@@ -20,6 +20,7 @@
     537
   ],
   "second_prize_draws": [
+    1245,
     1222,
     1110,
     998,
@@ -29,5 +30,5 @@
     275
   ],
   "first_prize_count": 4,
-  "second_prize_count": 7
+  "second_prize_count": 8
 }

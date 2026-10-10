@@ -1,7 +1,7 @@
 {
   "store_id": "14900028",
   "name": "세븐",
-  "address": "제주 제주시  동광로 142 ",
+  "address": "제주 제주시 동광로 142",
   "province": "제주",
   "city": "제주시",
   "phone": "064-723-7770",
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 33.508164,
-  "longitude": 126.54173,
-  "updated_at": "2026-03-05T23:53:16.303653",
+  "latitude": 33.508175,
+  "longitude": 126.54166,
+  "updated_at": "2026-10-10T17:23:00.527764",
   "first_prize_draws": [
     465
   ],
   "second_prize_draws": [
+    1245,
     1057,
     979,
     916,
@@ -27,5 +28,5 @@
     401
   ],
   "first_prize_count": 1,
-  "second_prize_count": 8
+  "second_prize_count": 9
 }

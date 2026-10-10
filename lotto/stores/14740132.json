@@ -1,7 +1,7 @@
 {
   "store_id": "14740132",
   "name": "로또복권 포항IC점",
-  "address": "경북 포항시 북구 새마을로 340 세븐일레븐 옆  ",
+  "address": "경북 포항시 북구 새마을로 340 세븐일레븐 옆",
   "province": "경북",
   "city": "포항시",
   "phone": "054-0000-0000",
@@ -12,12 +12,13 @@
   ],
   "latitude": 36.045916,
   "longitude": 129.32791,
-  "updated_at": "2026-07-04T14:55:33.592950",
+  "updated_at": "2026-10-10T17:23:00.526209",
   "first_prize_draws": [
     1161,
     1135
   ],
   "second_prize_draws": [
+    1245,
     1231,
     1189,
     1180,
@@ -29,5 +30,5 @@
     1037
   ],
   "first_prize_count": 2,
-  "second_prize_count": 9
+  "second_prize_count": 10
 }

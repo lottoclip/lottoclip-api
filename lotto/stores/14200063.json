@@ -1,7 +1,7 @@
 {
   "store_id": "14200063",
   "name": "홍익슈퍼",
-  "address": "강원 강릉시  가작로 311 복권판매점",
+  "address": "강원 강릉시 가작로 311 1층",
   "province": "강원",
   "city": "강릉시",
   "phone": "033-651-7650",
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.771345,
-  "longitude": 128.909247,
-  "updated_at": "2026-03-05T23:47:10.885719",
+  "latitude": 37.771273,
+  "longitude": 128.90935,
+  "updated_at": "2026-10-10T17:23:00.524006",
   "first_prize_draws": [
     857
   ],
   "second_prize_draws": [
+    1245,
     952,
     878,
     850,
@@ -27,5 +28,5 @@
     338
   ],
   "first_prize_count": 1,
-  "second_prize_count": 8
+  "second_prize_count": 9
 }

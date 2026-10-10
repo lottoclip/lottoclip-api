@@ -1,7 +1,7 @@
 {
   "store_id": "14100832",
   "name": "금두꺼비복권방",
-  "address": "경기 고양시 일산서구  강성로 263 재성빌딩1층",
+  "address": "경기 고양시 일산서구 강성로 263 재성빌딩1층",
   "province": "경기",
   "city": "고양시",
   "phone": "031-923-0079",
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.67674,
-  "longitude": 126.748031,
-  "updated_at": "2026-03-05T23:58:51.387239",
+  "latitude": 37.676758,
+  "longitude": 126.74805,
+  "updated_at": "2026-10-10T17:23:00.523410",
   "first_prize_draws": [
     1139,
     1125,
     597
   ],
   "second_prize_draws": [
+    1245,
     1163,
     1150,
     1133,
@@ -38,5 +39,5 @@
     282
   ],
   "first_prize_count": 3,
-  "second_prize_count": 17
+  "second_prize_count": 18
 }

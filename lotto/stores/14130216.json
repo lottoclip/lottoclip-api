@@ -1,7 +1,7 @@
 {
   "store_id": "14130216",
   "name": "백억로또",
-  "address": "경기 양주시  옥정동로7가길 30 1층 110호",
+  "address": "경기 양주시 옥정동로7가길 30 1층 110호",
   "province": "경기",
   "city": "양주시",
   "phone": "031-848-7779",
@@ -11,14 +11,15 @@
     "speetto"
   ],
   "latitude": 37.820207,
-  "longitude": 127.094083,
-  "updated_at": "2026-03-06T00:00:45.799036",
+  "longitude": 127.09408,
+  "updated_at": "2026-10-10T17:23:00.520397",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1245,
     1198,
     1044,
     783
   ],
   "first_prize_count": 0,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

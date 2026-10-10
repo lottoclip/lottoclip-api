@@ -1,7 +1,7 @@
 {
   "store_id": "13000178",
   "name": "복권나라",
-  "address": "대전 대덕구  신탄진동로 1 ",
+  "address": "대전 대덕구 신탄진동로 1",
   "province": "대전",
   "city": "대덕구",
   "phone": null,
@@ -12,12 +12,13 @@
   ],
   "latitude": 36.447585,
   "longitude": 127.429902,
-  "updated_at": "2026-03-05T23:47:31.973141",
+  "updated_at": "2026-10-10T17:23:00.476515",
   "first_prize_draws": [
     959,
     947
   ],
   "second_prize_draws": [
+    1245,
     923,
     725,
     624,
@@ -27,5 +28,5 @@
     387
   ],
   "first_prize_count": 2,
-  "second_prize_count": 7
+  "second_prize_count": 8
 }

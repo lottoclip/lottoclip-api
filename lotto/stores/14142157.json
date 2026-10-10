@@ -1,7 +1,7 @@
 {
   "store_id": "14142157",
   "name": "망포역 로또복권방",
-  "address": "경기 수원시 영통구 덕영대로 1478 1동 114호  ",
+  "address": "경기 수원시 영통구 덕영대로 1478 1동 114호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,11 +10,12 @@
   ],
   "latitude": 37.245165,
   "longitude": 127.05248,
-  "updated_at": "2026-05-30T14:56:43.857846",
+  "updated_at": "2026-10-10T17:23:00.521303",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1245,
     1226
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

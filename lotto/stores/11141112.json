@@ -1,7 +1,7 @@
 {
   "store_id": "11141112",
   "name": "구원로또",
-  "address": "서울 강서구  양천로 713 대영빌딩 1층 CU편의점 내부",
+  "address": "서울 강서구 양천로 713 대영빌딩 1층 CU편의점 내부",
   "province": "서울",
   "city": "강서구",
   "phone": null,
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.54975,
-  "longitude": 126.875222,
-  "updated_at": "2026-03-05T23:56:09.462503",
+  "latitude": 37.549838,
+  "longitude": 126.87524,
+  "updated_at": "2026-10-10T17:23:00.473396",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1245,
     1117
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

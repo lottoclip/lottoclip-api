@@ -1,7 +1,7 @@
 {
   "store_id": "14540064",
   "name": "행복한복권방",
-  "address": "전북 전주시 덕진구 혁신로 465  ",
+  "address": "전북 전주시 덕진구 혁신로 465",
   "province": "전북",
   "city": "전주시",
   "phone": null,
@@ -12,12 +12,13 @@
   ],
   "latitude": 35.854595,
   "longitude": 127.06592,
-  "updated_at": "2026-05-09T14:41:00.380768",
+  "updated_at": "2026-10-10T17:23:00.525354",
   "first_prize_draws": [
     1203,
     1198
   ],
   "second_prize_draws": [
+    1245,
     1223,
     1222,
     1215,
@@ -29,5 +30,5 @@
     1042
   ],
   "first_prize_count": 2,
-  "second_prize_count": 9
+  "second_prize_count": 10
 }

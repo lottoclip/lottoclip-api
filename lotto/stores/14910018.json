@@ -1,7 +1,7 @@
 {
   "store_id": "14910018",
   "name": "행운복권방",
-  "address": "제주 제주시  우정로11길 12 ",
+  "address": "제주 제주시 우정로11길 12",
   "province": "제주",
   "city": "제주시",
   "phone": "064-742-1441",
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 33.487651,
-  "longitude": 126.4322,
-  "updated_at": "2026-03-05T23:52:00.137040",
+  "latitude": 33.487662,
+  "longitude": 126.43214,
+  "updated_at": "2026-10-10T17:23:00.528064",
   "first_prize_draws": [
     1038,
     980,
     511
   ],
   "second_prize_draws": [
+    1245,
     1011,
     979,
     926,
@@ -31,5 +32,5 @@
     303
   ],
   "first_prize_count": 3,
-  "second_prize_count": 10
+  "second_prize_count": 11
 }

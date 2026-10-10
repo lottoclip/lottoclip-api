@@ -1,7 +1,7 @@
 {
   "store_id": "12710129",
   "name": "일등복권편의점",
-  "address": "대구 달서구 대명천로 220 1층  ",
+  "address": "대구 달서구 대명천로 220 1층",
   "province": "대구",
   "city": "달서구",
   "phone": "053-522-6808",
@@ -12,7 +12,7 @@
   ],
   "latitude": 35.842204,
   "longitude": 128.53619,
-  "updated_at": "2026-09-05T15:20:26.311117",
+  "updated_at": "2026-10-10T17:23:00.475309",
   "first_prize_draws": [
     1237,
     1223,
@@ -47,6 +47,7 @@
     300
   ],
   "second_prize_draws": [
+    1245,
     1240,
     1236,
     1229,
@@ -203,5 +204,5 @@
     362
   ],
   "first_prize_count": 31,
-  "second_prize_count": 154
+  "second_prize_count": 155
 }

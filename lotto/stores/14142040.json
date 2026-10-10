@@ -1,7 +1,7 @@
 {
   "store_id": "14142040",
   "name": "테라복권",
-  "address": "경기 남양주시 다산지금로 202 1층 141호  ",
+  "address": "경기 남양주시 다산지금로 202 1층 141호(현대테라타워)",
   "province": "경기",
   "city": "남양주시",
   "phone": null,
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.595646,
-  "longitude": 127.172217,
-  "updated_at": "2026-03-06T00:01:05.456768",
+  "latitude": 37.595645,
+  "longitude": 127.17221,
+  "updated_at": "2026-10-10T17:23:00.522586",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1245,
     1205,
     1187,
     1127
   ],
   "first_prize_count": 0,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

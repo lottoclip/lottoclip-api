@@ -1,7 +1,7 @@
 {
   "store_id": "11110595",
   "name": "대만상사",
-  "address": "서울 성북구  보국문로11길 30 ",
+  "address": "서울 성북구 보국문로11길 30",
   "province": "서울",
   "city": "성북구",
   "phone": "02-6368-5949",
@@ -11,9 +11,10 @@
     "speetto"
   ],
   "latitude": 37.608759,
-  "longitude": 127.008347,
-  "updated_at": "2026-03-05T23:53:11.101415",
+  "longitude": 127.00834,
+  "updated_at": "2026-10-10T17:23:00.469998",
   "first_prize_draws": [
+    1245,
     1021,
     858
   ],
@@ -30,6 +31,6 @@
     547,
     369
   ],
-  "first_prize_count": 2,
+  "first_prize_count": 3,
   "second_prize_count": 11
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "13000175",
   "name": "제우스테크",
-  "address": "대전 서구 원도안로 30  ",
+  "address": "대전 서구 원도안로 30",
   "province": "대전",
   "city": "서구",
   "phone": "042-542-3839",
@@ -12,13 +12,14 @@
   ],
   "latitude": 36.306779,
   "longitude": 127.34865,
-  "updated_at": "2026-05-02T14:39:19.128885",
+  "updated_at": "2026-10-10T17:23:00.476375",
   "first_prize_draws": [
     1222,
     1195,
     1034
   ],
   "second_prize_draws": [
+    1245,
     1143,
     1060,
     1057,
@@ -28,5 +29,5 @@
     493
   ],
   "first_prize_count": 3,
-  "second_prize_count": 7
+  "second_prize_count": 8
 }

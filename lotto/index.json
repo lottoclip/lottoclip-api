@@ -1,6 +1,28 @@
 {
   "draws": [
     {
+      "draw_no": 1245,
+      "draw_date": "2026-10-10",
+      "file": "draws/lotto_1245.json",
+      "numbers": [
+        4,
+        5,
+        25,
+        28,
+        32,
+        42
+      ],
+      "bonus_number": 12,
+      "prize_info": [
+        {
+          "rank": "1등",
+          "total_prize": "30065157750",
+          "winner_count": "10",
+          "prize_per_winner": "3006515775"
+        }
+      ]
+    },
+    {
       "draw_no": 1244,
       "draw_date": "2026-10-03",
       "file": "draws/lotto_1244.json",
@@ -27369,5 +27391,5 @@
       ]
     }
   ],
-  "last_updated": "2026-10-03T17:39:42.479944"
+  "last_updated": "2026-10-10T17:23:00.942965"
 }

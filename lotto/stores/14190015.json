@@ -1,7 +1,7 @@
 {
   "store_id": "14190015",
   "name": "대박",
-  "address": "경기 구리시 안골로103번길 46 1층  ",
+  "address": "경기 구리시 안골로103번길 46 1층",
   "province": "경기",
   "city": "구리시",
   "phone": "031-557-5647",
@@ -12,7 +12,7 @@
   ],
   "latitude": 37.599435,
   "longitude": 127.14156,
-  "updated_at": "2026-08-29T17:25:28.633542",
+  "updated_at": "2026-10-10T17:23:00.522871",
   "first_prize_draws": [
     1180,
     1137,
@@ -21,6 +21,7 @@
     605
   ],
   "second_prize_draws": [
+    1245,
     1239,
     1228,
     1219,
@@ -34,5 +35,5 @@
     464
   ],
   "first_prize_count": 5,
-  "second_prize_count": 11
+  "second_prize_count": 12
 }

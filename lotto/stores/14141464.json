@@ -1,7 +1,7 @@
 {
   "store_id": "14141464",
   "name": "삼군로또",
-  "address": "경기 여주시  가남로 25 1층",
+  "address": "경기 여주시 가남로 25 1층",
   "province": "경기",
   "city": "여주시",
   "phone": null,
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.222598,
-  "longitude": 127.559657,
-  "updated_at": "2026-03-06T00:00:43.296336",
+  "latitude": 37.222597,
+  "longitude": 127.55965,
+  "updated_at": "2026-10-10T17:23:00.520237",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1245,
     1197,
     1188,
     1178
   ],
   "first_prize_count": 0,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

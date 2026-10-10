@@ -1,7 +1,7 @@
 {
   "store_id": "12640634",
   "name": "대교복권판매점",
-  "address": "부산 영도구  절영로13번길 17 ",
+  "address": "부산 영도구 절영로13번길 17",
   "province": "부산",
   "city": "영도구",
   "phone": null,
@@ -10,16 +10,17 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.092839,
-  "longitude": 129.041098,
-  "updated_at": "2026-03-06T00:01:02.409117",
+  "latitude": 35.092842,
+  "longitude": 129.04109,
+  "updated_at": "2026-10-10T17:23:00.474082",
   "first_prize_draws": [
     1162
   ],
   "second_prize_draws": [
+    1245,
     1204,
     1157
   ],
   "first_prize_count": 1,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

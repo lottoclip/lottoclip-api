@@ -1,7 +1,7 @@
 {
   "store_id": "14110322",
   "name": "잘찍어로또방",
-  "address": "경기 평택시 안현로서5길 64  ",
+  "address": "경기 평택시 안현로서5길 64",
   "province": "경기",
   "city": "평택시",
   "phone": "031-683-0708",
@@ -12,7 +12,7 @@
   ],
   "latitude": 36.988481,
   "longitude": 126.92799,
-  "updated_at": "2026-04-18T14:31:55.933157",
+  "updated_at": "2026-10-10T17:23:00.477317",
   "first_prize_draws": [
     1099,
     1070,
@@ -21,6 +21,7 @@
     397
   ],
   "second_prize_draws": [
+    1245,
     1220,
     1187,
     1130,
@@ -32,5 +33,5 @@
     298
   ],
   "first_prize_count": 5,
-  "second_prize_count": 9
+  "second_prize_count": 10
 }

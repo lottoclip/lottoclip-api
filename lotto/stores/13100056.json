@@ -1,7 +1,7 @@
 {
   "store_id": "13100056",
   "name": "CN마트",
-  "address": "울산 중구  곽남4길 2 1층",
+  "address": "울산 중구 곽남4길 2",
   "province": "울산",
   "city": "중구",
   "phone": "052-293-6096",
@@ -10,11 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.570186,
-  "longitude": 129.34038,
-  "updated_at": "2026-03-05T23:53:30.581839",
+  "latitude": 35.570174,
+  "longitude": 129.34037,
+  "updated_at": "2026-10-10T17:23:00.476655",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1245,
     1062,
     1056,
     979,
@@ -32,5 +33,5 @@
     319
   ],
   "first_prize_count": 0,
-  "second_prize_count": 15
+  "second_prize_count": 16
 }
