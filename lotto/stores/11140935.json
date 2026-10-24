@@ -1,7 +1,7 @@
 {
   "store_id": "11140935",
   "name": "스마일복권",
-  "address": "서울 양천구  곰달래로 42 1층",
+  "address": "서울 양천구 곰달래로 42 1층",
   "province": "서울",
   "city": "양천구",
   "phone": null,
@@ -10,16 +10,17 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.529873,
-  "longitude": 126.837438,
-  "updated_at": "2026-03-05T23:58:33.368220",
+  "latitude": 37.529864,
+  "longitude": 126.83742,
+  "updated_at": "2026-10-24T17:02:40.721510",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1247,
     1157,
     1123,
     1084,
     1050
   ],
   "first_prize_count": 0,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }

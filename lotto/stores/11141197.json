@@ -1,7 +1,7 @@
 {
   "store_id": "11141197",
   "name": "신우로또",
-  "address": "서울 도봉구  방학로15길 26-7 ",
+  "address": "서울 도봉구 방학로15길 26-7",
   "province": "서울",
   "city": "도봉구",
   "phone": null,
@@ -11,12 +11,13 @@
     "speetto"
   ],
   "latitude": 37.660332,
-  "longitude": 127.023685,
-  "updated_at": "2026-03-06T00:00:22.083177",
+  "longitude": 127.02368,
+  "updated_at": "2026-10-24T17:02:40.722689",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1247,
     1190
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

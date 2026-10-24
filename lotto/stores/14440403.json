@@ -1,22 +1,22 @@
 {
   "store_id": "14440403",
   "name": "오케이(O.K)복권판매",
-  "address": "충남 천안시 동남구  천안천8길 1 103호",
+  "address": "충남 천안시 동남구 천안천8길 1 103호",
   "province": "충남",
   "city": "천안시",
   "phone": null,
   "lottery_types": [
     "lotto645",
-    "pension720",
     "speetto"
   ],
-  "latitude": 36.819539,
-  "longitude": 127.151848,
-  "updated_at": "2026-03-06T00:00:43.412355",
+  "latitude": 36.819588,
+  "longitude": 127.1519,
+  "updated_at": "2026-10-24T17:02:40.737934",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1247,
     1197
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

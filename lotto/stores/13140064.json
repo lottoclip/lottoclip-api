@@ -1,7 +1,7 @@
 {
   "store_id": "13140064",
   "name": "대박명당",
-  "address": "울산 북구  매곡로 93-2 ",
+  "address": "울산 북구 매곡로 93-2",
   "province": "울산",
   "city": "북구",
   "phone": null,
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.641517,
-  "longitude": 129.35465,
-  "updated_at": "2026-03-06T00:00:02.237995",
+  "latitude": 35.641191,
+  "longitude": 129.35442,
+  "updated_at": "2026-10-24T17:02:40.728311",
   "first_prize_draws": [
     1156
   ],
   "second_prize_draws": [
+    1247,
     1183,
     1167,
     1164,
@@ -25,5 +26,5 @@
     967
   ],
   "first_prize_count": 1,
-  "second_prize_count": 6
+  "second_prize_count": 7
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14110147",
   "name": "로또.토토.블루베리",
-  "address": "경기 평택시 안현로서6길 7 105호  ",
+  "address": "경기 평택시 안현로서6길 7 105호",
   "province": "경기",
   "city": "평택시",
   "phone": "031-683-6542",
@@ -12,13 +12,14 @@
   ],
   "latitude": 36.983335,
   "longitude": 126.92806,
-  "updated_at": "2026-07-18T14:42:18.705990",
+  "updated_at": "2026-10-24T17:02:40.731480",
   "first_prize_draws": [
     1067,
     955,
     657
   ],
   "second_prize_draws": [
+    1247,
     1233,
     1194,
     1182,
@@ -40,5 +41,5 @@
     335
   ],
   "first_prize_count": 3,
-  "second_prize_count": 19
+  "second_prize_count": 20
 }

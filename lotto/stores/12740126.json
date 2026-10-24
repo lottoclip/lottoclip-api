@@ -1,7 +1,7 @@
 {
   "store_id": "12740126",
   "name": "야단법석",
-  "address": "대구 북구  호암로 20 123동112호(성광우방상가 내)",
+  "address": "대구 북구 호암로 20 123동112호(성광우방상가 내)",
   "province": "대구",
   "city": "북구",
   "phone": null,
@@ -10,16 +10,17 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.88199,
-  "longitude": 128.592202,
-  "updated_at": "2026-03-05T23:55:11.625944",
+  "latitude": 35.881719,
+  "longitude": 128.59314,
+  "updated_at": "2026-10-24T17:02:40.726118",
   "first_prize_draws": [
     1021
   ],
   "second_prize_draws": [
+    1247,
     1097,
     1049
   ],
   "first_prize_count": 1,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

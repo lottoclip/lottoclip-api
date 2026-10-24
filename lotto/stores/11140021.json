@@ -1,7 +1,7 @@
 {
   "store_id": "11140021",
   "name": "오피스복권",
-  "address": "서울 강서구  곰달래로 122 101동 1층",
+  "address": "서울 강서구 화곡로 174-2 1층",
   "province": "서울",
   "city": "강서구",
   "phone": null,
@@ -11,12 +11,13 @@
     "speetto"
   ],
   "latitude": 37.54162,
-  "longitude": 126.840987,
-  "updated_at": "2026-03-05T23:55:08.212015",
+  "longitude": 126.84098,
+  "updated_at": "2026-10-24T17:02:40.723316",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1247,
     1096
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

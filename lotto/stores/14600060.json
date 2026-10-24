@@ -1,7 +1,7 @@
 {
   "store_id": "14600060",
   "name": "알짜마트왕지점",
-  "address": "전남 순천시 왕궁길 60 중흥파크상가 309-101호  ",
+  "address": "전남광주 순천시 왕궁길 60 중흥파크상가 309-101호",
   "province": "전남",
   "city": "순천시",
   "phone": "061-725-2990",
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 34.956314,
-  "longitude": 127.53233,
-  "updated_at": "2026-03-06T00:01:25.739723",
+  "latitude": 34.956083,
+  "longitude": 127.53196,
+  "updated_at": "2026-10-24T17:02:40.739609",
   "first_prize_draws": [
     1129,
     745,
     334
   ],
   "second_prize_draws": [
+    1247,
     1212,
     1059,
     1021,
@@ -29,5 +30,5 @@
     271
   ],
   "first_prize_count": 3,
-  "second_prize_count": 8
+  "second_prize_count": 9
 }

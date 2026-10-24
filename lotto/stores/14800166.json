@@ -1,7 +1,7 @@
 {
   "store_id": "14800166",
   "name": "행복마트복권",
-  "address": "경남 진주시  대밭골로 79 상가 102호",
+  "address": "경남 진주시 대밭골로 79 상가 102호",
   "province": "경남",
   "city": "진주시",
   "phone": "055-758-7769",
@@ -10,11 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.181985,
-  "longitude": 128.15186,
-  "updated_at": "2026-03-05T23:54:05.523025",
+  "latitude": 35.181964,
+  "longitude": 128.15184,
+  "updated_at": "2026-10-24T17:02:40.739806",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1247,
     1074,
     954,
     733,
@@ -22,5 +23,5 @@
     418
   ],
   "first_prize_count": 0,
-  "second_prize_count": 5
+  "second_prize_count": 6
 }

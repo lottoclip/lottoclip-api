@@ -1,7 +1,7 @@
 {
   "store_id": "13240022",
   "name": "또또와복권방",
-  "address": "세종  나성북로 30 189호  ",
+  "address": "세종   나성북로 30 189호",
   "province": "세종",
   "city": "나성북로",
   "phone": null,
@@ -12,8 +12,9 @@
   ],
   "latitude": 36.489073,
   "longitude": 127.26024,
-  "updated_at": "2026-05-02T14:39:19.131108",
+  "updated_at": "2026-10-24T17:02:40.729446",
   "first_prize_draws": [
+    1247,
     933
   ],
   "second_prize_draws": [
@@ -28,6 +29,6 @@
     1055,
     1014
   ],
-  "first_prize_count": 1,
+  "first_prize_count": 2,
   "second_prize_count": 10
 }

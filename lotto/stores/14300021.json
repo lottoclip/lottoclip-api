@@ -1,7 +1,7 @@
 {
   "store_id": "14300021",
   "name": "복권왕국",
-  "address": "충북 제천시 풍양로 108 지하145  ",
+  "address": "충북 제천시 풍양로 108 지하145",
   "province": "충북",
   "city": "제천시",
   "phone": "043-646-1842",
@@ -12,7 +12,7 @@
   ],
   "latitude": 37.136637,
   "longitude": 128.21126,
-  "updated_at": "2026-05-09T14:41:00.379466",
+  "updated_at": "2026-10-24T17:02:40.736889",
   "first_prize_draws": [
     1075,
     912,
@@ -21,6 +21,7 @@
     425
   ],
   "second_prize_draws": [
+    1247,
     1223,
     1160,
     1125,
@@ -39,5 +40,5 @@
     531
   ],
   "first_prize_count": 5,
-  "second_prize_count": 16
+  "second_prize_count": 17
 }

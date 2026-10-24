@@ -1,7 +1,7 @@
 {
   "store_id": "14141609",
   "name": "통통복권",
-  "address": "경기 평택시  평남로 686 1층",
+  "address": "경기 평택시 고덕여염8길 43 1층 101호",
   "province": "경기",
   "city": "평택시",
   "phone": null,
@@ -11,14 +11,15 @@
     "speetto"
   ],
   "latitude": 37.040058,
-  "longitude": 127.048092,
-  "updated_at": "2026-03-05T23:53:13.961526",
+  "longitude": 127.04809,
+  "updated_at": "2026-10-24T17:02:40.730862",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1247,
     1057,
     1047,
     1012
   ],
   "first_prize_count": 0,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

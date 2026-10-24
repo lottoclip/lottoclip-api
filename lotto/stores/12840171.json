@@ -1,7 +1,7 @@
 {
   "store_id": "12840171",
   "name": "행복복권",
-  "address": "인천 서구  가정로 198 1층",
+  "address": "인천 서해구 가정로 198 1층",
   "province": "인천",
   "city": "서구",
   "phone": null,
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.502393,
-  "longitude": 126.672286,
-  "updated_at": "2026-03-05T23:58:48.514402",
+  "latitude": 37.502356,
+  "longitude": 126.6722,
+  "updated_at": "2026-10-24T17:02:40.726787",
   "first_prize_draws": [
     1057
   ],
   "second_prize_draws": [
+    1247,
     1162,
     1132,
     1059,
@@ -24,5 +25,5 @@
     963
   ],
   "first_prize_count": 1,
-  "second_prize_count": 5
+  "second_prize_count": 6
 }

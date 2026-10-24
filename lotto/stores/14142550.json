@@ -1,7 +1,7 @@
 {
   "store_id": "14142550",
   "name": "일광 복권",
-  "address": "경기 수원시 권선구 세지로 3 1층 2호  ",
+  "address": "경기 수원시 권선구 세지로 3 1층 2호",
   "province": "경기",
   "city": "수원시",
   "phone": null,
@@ -11,13 +11,15 @@
     "speetto"
   ],
   "latitude": 37.2527,
-  "longitude": 127.014384,
-  "updated_at": "2026-03-06T00:01:08.228277",
-  "first_prize_draws": [],
+  "longitude": 127.01438,
+  "updated_at": "2026-10-24T17:02:40.733936",
+  "first_prize_draws": [
+    1247
+  ],
   "second_prize_draws": [
     1206,
     1189
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 2
 }

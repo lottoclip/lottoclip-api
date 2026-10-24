@@ -1,7 +1,7 @@
 {
   "store_id": "14110334",
   "name": "올인 (all in)",
-  "address": "경기 화성시 3.1만세로 1147  ",
+  "address": "경기 화성시 만세구 3.1만세로 1147",
   "province": "경기",
   "city": "화성시",
   "phone": "031-353-5311",
@@ -10,10 +10,11 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.135285,
-  "longitude": 126.910612,
-  "updated_at": "2026-03-07T14:13:23.492963",
+  "latitude": 37.135324,
+  "longitude": 126.91056,
+  "updated_at": "2026-10-24T17:02:40.730352",
   "first_prize_draws": [
+    1247,
     1209,
     1119,
     938,
@@ -93,6 +94,6 @@
     298,
     294
   ],
-  "first_prize_count": 11,
+  "first_prize_count": 12,
   "second_prize_count": 65
 }

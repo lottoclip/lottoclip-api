@@ -1,7 +1,7 @@
 {
   "store_id": "14390036",
   "name": "썬마트(충주연안점)",
-  "address": "충북 충주시  연원로 27-3 ",
+  "address": "충북 충주시 연원로 27-3 1층",
   "province": "충북",
   "city": "충주시",
   "phone": "043-852-5645",
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 36.988842,
-  "longitude": 127.931142,
-  "updated_at": "2026-03-05T23:58:57.074001",
+  "latitude": 36.988783,
+  "longitude": 127.93112,
+  "updated_at": "2026-10-24T17:02:40.736480",
   "first_prize_draws": [
     456
   ],
   "second_prize_draws": [
+    1247,
     1165,
     1044,
     1032,
@@ -29,5 +30,5 @@
     730
   ],
   "first_prize_count": 1,
-  "second_prize_count": 10
+  "second_prize_count": 11
 }

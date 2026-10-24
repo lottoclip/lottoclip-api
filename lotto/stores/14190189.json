@@ -1,7 +1,7 @@
 {
   "store_id": "14190189",
   "name": "해뜰날",
-  "address": "경기 동두천시  중앙로 134-30 ",
+  "address": "경기 동두천시 중앙로 134-30",
   "province": "경기",
   "city": "동두천시",
   "phone": null,
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.893149,
-  "longitude": 127.054295,
-  "updated_at": "2026-03-06T00:00:28.684850",
+  "latitude": 37.893144,
+  "longitude": 127.05434,
+  "updated_at": "2026-10-24T17:02:40.734776",
   "first_prize_draws": [
     1003
   ],
   "second_prize_draws": [
+    1247,
     1192,
     1144,
     1072,
@@ -26,5 +27,5 @@
     423
   ],
   "first_prize_count": 1,
-  "second_prize_count": 7
+  "second_prize_count": 8
 }

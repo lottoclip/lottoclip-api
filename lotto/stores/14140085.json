@@ -1,7 +1,7 @@
 {
   "store_id": "14140085",
   "name": "스타복권",
-  "address": "경기 평택시  서해로 1534 ",
+  "address": "경기 평택시 서해로 1534",
   "province": "경기",
   "city": "평택시",
   "phone": null,
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.029092,
-  "longitude": 126.942022,
-  "updated_at": "2026-03-05T23:57:27.100405",
+  "latitude": 37.029141,
+  "longitude": 126.94211,
+  "updated_at": "2026-10-24T17:02:40.731285",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1247,
     1144,
     1098,
     813
   ],
   "first_prize_count": 0,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

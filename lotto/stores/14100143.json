@@ -1,7 +1,7 @@
 {
   "store_id": "14100143",
   "name": "곤지암대박복권방",
-  "address": "경기 광주시  곤지암로 51 ",
+  "address": "경기 광주시 곤지암로 51",
   "province": "경기",
   "city": "광주시",
   "phone": "031-797-2511",
@@ -11,10 +11,11 @@
     "speetto"
   ],
   "latitude": 37.349614,
-  "longitude": 127.341039,
-  "updated_at": "2026-03-06T00:00:59.830136",
+  "longitude": 127.34103,
+  "updated_at": "2026-10-24T17:02:40.735197",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1247,
     1203,
     922,
     879,
@@ -27,5 +28,5 @@
     372
   ],
   "first_prize_count": 0,
-  "second_prize_count": 10
+  "second_prize_count": 11
 }

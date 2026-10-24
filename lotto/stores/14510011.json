@@ -1,7 +1,7 @@
 {
   "store_id": "14510011",
   "name": "행운복권방 보생당건강원",
-  "address": "전북 익산시 무왕로 1268  ",
+  "address": "전북 익산시 무왕로 1268",
   "province": "전북",
   "city": "익산시",
   "phone": "063-831-6040",
@@ -12,7 +12,7 @@
   ],
   "latitude": 35.960347,
   "longitude": 126.99724,
-  "updated_at": "2026-09-05T15:20:26.315870",
+  "updated_at": "2026-10-24T17:02:40.739256",
   "first_prize_draws": [
     1240,
     1232,
@@ -29,6 +29,7 @@
     303
   ],
   "second_prize_draws": [
+    1247,
     1238,
     1220,
     1216,
@@ -61,5 +62,5 @@
     360
   ],
   "first_prize_count": 13,
-  "second_prize_count": 30
+  "second_prize_count": 31
 }
