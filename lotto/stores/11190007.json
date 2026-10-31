@@ -1,7 +1,7 @@
 {
   "store_id": "11190007",
   "name": "복권나라",
-  "address": "서울 성동구 용답중앙15길 12-1 1층  ",
+  "address": "서울 성동구 용답중앙15길 12-1 1층",
   "province": "서울",
   "city": "성동구",
   "phone": "02-2245-9298",
@@ -12,7 +12,7 @@
   ],
   "latitude": 37.564452,
   "longitude": 127.05385,
-  "updated_at": "2026-05-16T14:44:53.901238",
+  "updated_at": "2026-10-31T17:16:53.289903",
   "first_prize_draws": [
     1221,
     1000,
@@ -22,6 +22,7 @@
     304
   ],
   "second_prize_draws": [
+    1248,
     1224,
     1223,
     1198,
@@ -51,5 +52,5 @@
     263
   ],
   "first_prize_count": 6,
-  "second_prize_count": 27
+  "second_prize_count": 28
 }

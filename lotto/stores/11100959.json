@@ -12,8 +12,9 @@
   ],
   "latitude": 37.516741,
   "longitude": 126.90673,
-  "updated_at": "2026-10-24T17:02:40.721094",
+  "updated_at": "2026-10-31T17:16:53.288893",
   "first_prize_draws": [
+    1248,
     1229,
     1222,
     1206,
@@ -39,6 +40,7 @@
     292
   ],
   "second_prize_draws": [
+    1248,
     1247,
     1243,
     1241,
@@ -121,6 +123,6 @@
     468,
     361
   ],
-  "first_prize_count": 23,
-  "second_prize_count": 81
+  "first_prize_count": 24,
+  "second_prize_count": 82
 }

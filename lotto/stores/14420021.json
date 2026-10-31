@@ -1,7 +1,7 @@
 {
   "store_id": "14420021",
   "name": "이봉복권방",
-  "address": "충남 아산시  충무로 1150 ",
+  "address": "충남 아산시 충무로 1150",
   "province": "충남",
   "city": "아산시",
   "phone": null,
@@ -10,10 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 36.875691,
-  "longitude": 127.02909,
-  "updated_at": "2026-03-05T23:58:02.317995",
-  "first_prize_draws": [],
+  "latitude": 36.875727,
+  "longitude": 127.02904,
+  "updated_at": "2026-10-31T17:16:53.307473",
+  "first_prize_draws": [
+    1248
+  ],
   "second_prize_draws": [
     1151,
     1115,
@@ -27,6 +29,6 @@
     685,
     653
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 11
 }

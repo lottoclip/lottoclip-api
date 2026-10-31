@@ -1,7 +1,7 @@
 {
   "store_id": "11101010",
   "name": "연초2호 쇼케이스7호",
-  "address": "서울 서초구 신반포로 194 쇼케이스7호  ",
+  "address": "서울 서초구 신반포로 194 쇼케이스7호",
   "province": "서울",
   "city": "서초구",
   "phone": "02-599-4382",
@@ -10,14 +10,15 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.505509,
-  "longitude": 127.007038,
-  "updated_at": "2026-04-04T14:23:14.284407",
+  "latitude": 37.504808,
+  "longitude": 127.005483,
+  "updated_at": "2026-10-31T17:16:53.290387",
   "first_prize_draws": [
     1092,
     615
   ],
   "second_prize_draws": [
+    1248,
     1218,
     1172,
     1170,
@@ -37,5 +38,5 @@
     471
   ],
   "first_prize_count": 2,
-  "second_prize_count": 17
+  "second_prize_count": 18
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "11101001",
   "name": "경부선 하차장로또방",
-  "address": "서울 서초구  신반포로 194 강남고속버스터미널 코너1호점 (하차장로또)",
+  "address": "서울 서초구 신반포로 194 코너1호점 (하차장로또)",
   "province": "서울",
   "city": "서초구",
   "phone": "02-593-1945",
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.505509,
-  "longitude": 127.007038,
-  "updated_at": "2026-03-05T23:53:47.040076",
+  "latitude": 37.506374,
+  "longitude": 127.007778,
+  "updated_at": "2026-10-31T17:16:53.290614",
   "first_prize_draws": [
     742,
     578,
     413
   ],
   "second_prize_draws": [
+    1248,
     1068,
     1066,
     1057,
@@ -29,5 +30,5 @@
     451
   ],
   "first_prize_count": 3,
-  "second_prize_count": 8
+  "second_prize_count": 9
 }

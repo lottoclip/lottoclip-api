@@ -1,7 +1,7 @@
 {
   "store_id": "14140991",
   "name": "포천 돈다발복권",
-  "address": "경기 포천시 호국로 1382 CU편의점  ",
+  "address": "경기 포천시 호국로 1382 CU편의점",
   "province": "경기",
   "city": "포천시",
   "phone": null,
@@ -12,17 +12,18 @@
   ],
   "latitude": 37.882088,
   "longitude": 127.188871,
-  "updated_at": "2026-07-18T14:42:18.705568",
+  "updated_at": "2026-10-31T17:16:53.300131",
   "first_prize_draws": [
     1233,
     1088
   ],
   "second_prize_draws": [
+    1248,
     1210,
     1195,
     1032,
     1015
   ],
   "first_prize_count": 2,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }

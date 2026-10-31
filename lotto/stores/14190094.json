@@ -1,7 +1,7 @@
 {
   "store_id": "14190094",
   "name": "천하명당우만점",
-  "address": "경기 수원시 팔달구  월드컵로369번길 4 ",
+  "address": "경기 수원시 팔달구 월드컵로369번길 4",
   "province": "경기",
   "city": "수원시",
   "phone": "031-257-7769",
@@ -10,14 +10,15 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.290248,
-  "longitude": 127.030127,
-  "updated_at": "2026-03-05T23:56:24.833439",
+  "latitude": 37.290277,
+  "longitude": 127.03017,
+  "updated_at": "2026-10-31T17:16:53.302243",
   "first_prize_draws": [
     664,
     604
   ],
   "second_prize_draws": [
+    1248,
     1122,
     1121,
     1090,
@@ -42,5 +43,5 @@
     356
   ],
   "first_prize_count": 2,
-  "second_prize_count": 22
+  "second_prize_count": 23
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14141584",
   "name": "탄현대박로또복권",
-  "address": "경기 파주시 방촌로 661 1층상가 좌측  ",
+  "address": "경기 파주시 방촌로 661 1층상가 좌측",
   "province": "경기",
   "city": "파주시",
   "phone": null,
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.803196,
-  "longitude": 126.718256,
-  "updated_at": "2026-03-06T00:01:19.188120",
+  "latitude": 37.803292,
+  "longitude": 126.71826,
+  "updated_at": "2026-10-31T17:16:53.300741",
   "first_prize_draws": [
+    1248,
     1210
   ],
   "second_prize_draws": [
     1043
   ],
-  "first_prize_count": 1,
+  "first_prize_count": 2,
   "second_prize_count": 1
 }

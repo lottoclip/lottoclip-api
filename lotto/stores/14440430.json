@@ -1,23 +1,26 @@
 {
   "store_id": "14440430",
   "name": "인생역전 복권방",
-  "address": "충남 논산시  중앙로 168 1층 102호",
+  "address": "충남 논산시 중앙로 168 1층 102호",
   "province": "충남",
   "city": "논산시",
   "phone": "041-732-5858",
   "lottery_types": [
-    "lotto645"
+    "lotto645",
+    "pension720",
+    "speetto"
   ],
-  "latitude": 36.18387,
-  "longitude": 127.105212,
-  "updated_at": "2026-03-05T23:59:08.238309",
+  "latitude": 36.183873,
+  "longitude": 127.10522,
+  "updated_at": "2026-10-31T17:16:53.308805",
   "first_prize_draws": [
     1154
   ],
   "second_prize_draws": [
+    1248,
     1169,
     1158
   ],
   "first_prize_count": 1,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

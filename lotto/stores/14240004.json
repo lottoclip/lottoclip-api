@@ -1,7 +1,7 @@
 {
   "store_id": "14240004",
   "name": "나눔로또판매점",
-  "address": "강원 원주시 원문로 1682 상가 102호  ",
+  "address": "강원 원주시 원문로 1682 상가 102호",
   "province": "강원",
   "city": "원주시",
   "phone": null,
@@ -10,16 +10,17 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.316628,
-  "longitude": 127.827379,
-  "updated_at": "2026-03-28T14:21:12.084031",
+  "latitude": 37.31661,
+  "longitude": 127.82739,
+  "updated_at": "2026-10-31T17:16:53.305592",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1248,
     1217,
     1179,
     1042,
     778
   ],
   "first_prize_count": 0,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }

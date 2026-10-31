@@ -1,7 +1,7 @@
 {
   "store_id": "12840121",
   "name": "으뜸복권방",
-  "address": "인천 남동구  남촌로84번길 1 ",
+  "address": "인천 남동구 남촌로84번길 1",
   "province": "인천",
   "city": "남동구",
   "phone": null,
@@ -10,11 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.428861,
-  "longitude": 126.715035,
-  "updated_at": "2026-03-06T00:00:51.077709",
+  "latitude": 37.428869,
+  "longitude": 126.71501,
+  "updated_at": "2026-10-31T17:16:53.298879",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1248,
     1200,
     1192,
     1152,
@@ -24,5 +25,5 @@
     1042
   ],
   "first_prize_count": 0,
-  "second_prize_count": 7
+  "second_prize_count": 8
 }

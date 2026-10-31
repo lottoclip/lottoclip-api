@@ -1,7 +1,7 @@
 {
   "store_id": "11190142",
   "name": "복권백화점",
-  "address": "서울 은평구  연서로29길 7-2 1층",
+  "address": "서울 은평구 연서로29길 8 1층",
   "province": "서울",
   "city": "은평구",
   "phone": "02-383-7999",
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.618702,
-  "longitude": 126.919139,
-  "updated_at": "2026-03-05T23:50:58.990417",
+  "latitude": 37.618971,
+  "longitude": 126.91926,
+  "updated_at": "2026-10-31T17:16:53.288398",
   "first_prize_draws": [
     1001
   ],
   "second_prize_draws": [
+    1248,
     1023,
     995,
     976,
@@ -27,5 +28,5 @@
     309
   ],
   "first_prize_count": 1,
-  "second_prize_count": 8
+  "second_prize_count": 9
 }

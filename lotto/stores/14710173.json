@@ -1,7 +1,7 @@
 {
   "store_id": "14710173",
   "name": "행복마트",
-  "address": "경북 김천시  혁신로 185 메타폴리스상가 120호",
+  "address": "경북 김천시 혁신로 185 메타폴리스상가 120호",
   "province": "경북",
   "city": "김천시",
   "phone": "054-432-0538",
@@ -10,14 +10,15 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 36.117534,
-  "longitude": 128.183961,
-  "updated_at": "2026-03-06T00:00:19.733747",
+  "latitude": 36.11752,
+  "longitude": 128.18394,
+  "updated_at": "2026-10-31T17:16:53.310317",
   "first_prize_draws": [
     1186,
     1043
   ],
   "second_prize_draws": [
+    1248,
     1189,
     1057,
     1039,
@@ -27,5 +28,5 @@
     280
   ],
   "first_prize_count": 2,
-  "second_prize_count": 7
+  "second_prize_count": 8
 }

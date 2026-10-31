@@ -1,7 +1,7 @@
 {
   "store_id": "11190193",
   "name": "행복슈퍼",
-  "address": "서울 성북구 동소문로 49  ",
+  "address": "서울 성북구 동소문로 49",
   "province": "서울",
   "city": "성북구",
   "phone": "02-741-5788",
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.591005,
-  "longitude": 127.011127,
-  "updated_at": "2026-03-06T00:01:18.683472",
+  "latitude": 37.591021,
+  "longitude": 127.01114,
+  "updated_at": "2026-10-31T17:16:53.289470",
   "first_prize_draws": [
     1025,
     724,
@@ -21,6 +21,7 @@
     338
   ],
   "second_prize_draws": [
+    1248,
     1210,
     1209,
     1195,
@@ -48,5 +49,5 @@
     305
   ],
   "first_prize_count": 5,
-  "second_prize_count": 25
+  "second_prize_count": 26
 }

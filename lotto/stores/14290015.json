@@ -1,7 +1,7 @@
 {
   "store_id": "14290015",
   "name": "슈퍼맨편의점",
-  "address": "강원 강릉시  경강로 2113 꽃사슴복권방",
+  "address": "강원 강릉시 경강로 2113 1층1호, 꽃사슴복권방",
   "province": "강원",
   "city": "강릉시",
   "phone": "033-647-5211",
@@ -10,14 +10,15 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.756041,
-  "longitude": 128.897562,
-  "updated_at": "2026-03-06T00:00:48.527573",
+  "latitude": 37.756088,
+  "longitude": 128.89759,
+  "updated_at": "2026-10-31T17:16:53.306252",
   "first_prize_draws": [
     1128,
     1017
   ],
   "second_prize_draws": [
+    1248,
     1199,
     1177,
     1176,
@@ -38,5 +39,5 @@
     277
   ],
   "first_prize_count": 2,
-  "second_prize_count": 18
+  "second_prize_count": 19
 }

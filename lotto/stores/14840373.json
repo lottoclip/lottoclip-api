@@ -1,7 +1,7 @@
 {
   "store_id": "14840373",
   "name": "창원로또명당",
-  "address": "경남 창원시 성산구  용지로113번길 8 ",
+  "address": "경남 창원시 성산구 용지로113번길 8",
   "province": "경남",
   "city": "창원시",
   "phone": null,
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.226367,
-  "longitude": 128.678266,
-  "updated_at": "2026-03-06T00:00:43.473420",
+  "latitude": 35.226359,
+  "longitude": 128.67825,
+  "updated_at": "2026-10-31T17:16:53.310986",
   "first_prize_draws": [
     1186
   ],
   "second_prize_draws": [
+    1248,
     1197
   ],
   "first_prize_count": 1,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

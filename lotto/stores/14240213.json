@@ -1,7 +1,7 @@
 {
   "store_id": "14240213",
   "name": "아싸복권",
-  "address": "강원 강릉시  용지로 27 1층",
+  "address": "강원 강릉시 용지로 27 1층",
   "province": "강원",
   "city": "강릉시",
   "phone": null,
@@ -11,12 +11,14 @@
     "speetto"
   ],
   "latitude": 37.754223,
-  "longitude": 128.911226,
-  "updated_at": "2026-03-05T23:57:32.589326",
-  "first_prize_draws": [],
+  "longitude": 128.91122,
+  "updated_at": "2026-10-31T17:16:53.306029",
+  "first_prize_draws": [
+    1248
+  ],
   "second_prize_draws": [
     1146
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 1
 }

@@ -1,22 +1,23 @@
 {
   "store_id": "14210030",
-  "name": "일송 로또",
-  "address": "강원 강릉시  하평3길 37 광옥당(일송상가 102호)",
+  "name": "일송로또",
+  "address": "강원 강릉시 하평3길 37 광옥당(일송상가 102호)",
   "province": "강원",
   "city": "강릉시",
   "phone": "033-651-3066",
   "lottery_types": [
     "lotto645"
   ],
-  "latitude": 37.771717,
-  "longitude": 128.914729,
-  "updated_at": "2026-03-05T23:56:24.943282",
+  "latitude": 37.772197,
+  "longitude": 128.91499,
+  "updated_at": "2026-10-31T17:16:53.306448",
   "first_prize_draws": [
+    1248,
     1122
   ],
   "second_prize_draws": [
     1022
   ],
-  "first_prize_count": 1,
+  "first_prize_count": 2,
   "second_prize_count": 1
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14110186",
   "name": "김포로또",
-  "address": "경기 김포시 돌문로 48 한솔프라자101  ",
+  "address": "경기 김포시 돌문로 48 한솔프라자101",
   "province": "경기",
   "city": "김포시",
   "phone": "031-982-7011",
@@ -12,7 +12,7 @@
   ],
   "latitude": 37.619414,
   "longitude": 126.71805,
-  "updated_at": "2026-05-09T14:41:00.378090",
+  "updated_at": "2026-10-31T17:16:53.304084",
   "first_prize_draws": [
     1046,
     1030,
@@ -25,6 +25,7 @@
     433
   ],
   "second_prize_draws": [
+    1248,
     1223,
     1194,
     1153,
@@ -41,5 +42,5 @@
     337
   ],
   "first_prize_count": 9,
-  "second_prize_count": 14
+  "second_prize_count": 15
 }

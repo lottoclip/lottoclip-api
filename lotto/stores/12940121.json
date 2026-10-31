@@ -1,7 +1,7 @@
 {
   "store_id": "12940121",
   "name": "금호동",
-  "address": "광주 서구  화개1로 63 1층 107호",
+  "address": "전남광주 서구 화개1로 63 1층 107호",
   "province": "광주",
   "city": "서구",
   "phone": null,
@@ -10,17 +10,18 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.129517,
-  "longitude": 126.855121,
-  "updated_at": "2026-03-06T00:00:51.089533",
+  "latitude": 35.129654,
+  "longitude": 126.85483,
+  "updated_at": "2026-10-31T17:16:53.299153",
   "first_prize_draws": [
     1132
   ],
   "second_prize_draws": [
+    1248,
     1200,
     1110,
     975
   ],
   "first_prize_count": 1,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

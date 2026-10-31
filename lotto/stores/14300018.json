@@ -1,7 +1,7 @@
 {
   "store_id": "14300018",
   "name": "진성식품",
-  "address": "충북 제천시 의병대로 84 1층  ",
+  "address": "충북 제천시 의병대로 84 1층",
   "province": "충북",
   "city": "제천시",
   "phone": "043-646-4436",
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.136087,
-  "longitude": 128.209953,
-  "updated_at": "2026-03-06T00:01:11.074245",
+  "latitude": 37.136086,
+  "longitude": 128.21001,
+  "updated_at": "2026-10-31T17:16:53.307259",
   "first_prize_draws": [
     864,
     772,
@@ -20,6 +20,7 @@
     491
   ],
   "second_prize_draws": [
+    1248,
     1207,
     1101,
     1082,
@@ -36,5 +37,5 @@
     393
   ],
   "first_prize_count": 4,
-  "second_prize_count": 14
+  "second_prize_count": 15
 }

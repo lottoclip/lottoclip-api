@@ -1,7 +1,7 @@
 {
   "store_id": "13100008",
   "name": "노다지복권방",
-  "address": "울산 울주군  태화8길 57 ",
+  "address": "울산 울주군 태화8길 57",
   "province": "울산",
   "city": "울주군",
   "phone": "052-237-1583",
@@ -10,11 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.415203,
-  "longitude": 129.281291,
-  "updated_at": "2026-03-06T00:01:02.621049",
+  "latitude": 35.41519,
+  "longitude": 129.28128,
+  "updated_at": "2026-10-31T17:16:53.299746",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1248,
     1204,
     1161,
     1147,
@@ -32,5 +33,5 @@
     291
   ],
   "first_prize_count": 0,
-  "second_prize_count": 15
+  "second_prize_count": 16
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14140676",
   "name": "드림 복권판매점",
-  "address": "경기 부천시 계남로 297 1층 102호  ",
+  "address": "경기 부천시 계남로 297 1층 102호",
   "province": "경기",
   "city": "부천시",
   "phone": null,
@@ -11,14 +11,15 @@
     "speetto"
   ],
   "latitude": 37.504391,
-  "longitude": 126.781298,
-  "updated_at": "2026-03-07T13:10:24.786831",
+  "longitude": 126.78129,
+  "updated_at": "2026-10-31T17:16:53.303898",
   "first_prize_draws": [
+    1248,
     1213
   ],
   "second_prize_draws": [
     1131
   ],
-  "first_prize_count": 1,
+  "first_prize_count": 2,
   "second_prize_count": 1
 }

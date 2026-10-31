@@ -1,7 +1,7 @@
 {
   "store_id": "14142202",
   "name": "가람",
-  "address": "경기 안산시 상록구 수인로 1836  ",
+  "address": "경기 안산시 상록구 수인로 1836",
   "province": "경기",
   "city": "안산시",
   "phone": null,
@@ -12,12 +12,13 @@
   ],
   "latitude": 37.347636,
   "longitude": 126.87063,
-  "updated_at": "2026-08-15T14:09:27.839198",
+  "updated_at": "2026-10-31T17:16:53.301871",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1248,
     1237,
     1154
   ],
   "first_prize_count": 0,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

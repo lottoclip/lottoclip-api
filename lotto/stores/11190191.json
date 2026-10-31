@@ -1,7 +1,7 @@
 {
   "store_id": "11190191",
   "name": "부자랑",
-  "address": "서울 성동구  둘레15길 23 ",
+  "address": "서울 성동구 둘레15길 23",
   "province": "서울",
   "city": "성동구",
   "phone": null,
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.536879,
-  "longitude": 127.055227,
-  "updated_at": "2026-03-05T23:51:46.434460",
+  "latitude": 37.536876,
+  "longitude": 127.05533,
+  "updated_at": "2026-10-31T17:16:53.290109",
   "first_prize_draws": [
     1034,
     974,
     955
   ],
   "second_prize_draws": [
+    1248,
     1005,
     938,
     937,
@@ -32,5 +33,5 @@
     296
   ],
   "first_prize_count": 3,
-  "second_prize_count": 11
+  "second_prize_count": 12
 }

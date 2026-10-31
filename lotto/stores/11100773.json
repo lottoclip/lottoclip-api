@@ -1,7 +1,7 @@
 {
   "store_id": "11100773",
   "name": "스파",
-  "address": "서울 노원구 동일로 1493 주공10단지종합상가111  ",
+  "address": "서울 노원구 동일로 1493 주공10단지종합상가111",
   "province": "서울",
   "city": "노원구",
   "phone": "02-951-6465",
@@ -12,7 +12,7 @@
   ],
   "latitude": 37.661671,
   "longitude": 127.05789,
-  "updated_at": "2026-08-22T14:08:49.503795",
+  "updated_at": "2026-10-31T17:16:53.294802",
   "first_prize_draws": [
     1237,
     1234,
@@ -65,6 +65,7 @@
     269
   ],
   "second_prize_draws": [
+    1248,
     1238,
     1237,
     1235,
@@ -281,5 +282,5 @@
     296
   ],
   "first_prize_count": 49,
-  "second_prize_count": 214
+  "second_prize_count": 215
 }

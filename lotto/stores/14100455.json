@@ -1,7 +1,7 @@
 {
   "store_id": "14100455",
   "name": "현대25시편의점",
-  "address": "경기 고양시 일산서구  경의로 914 ",
+  "address": "경기 고양시 일산서구 경의로 862 1층",
   "province": "경기",
   "city": "고양시",
   "phone": "031-911-8743",
@@ -11,12 +11,13 @@
     "speetto"
   ],
   "latitude": 37.694389,
-  "longitude": 126.759917,
-  "updated_at": "2026-03-05T23:50:18.425073",
+  "longitude": 126.75991,
+  "updated_at": "2026-10-31T17:16:53.305127",
   "first_prize_draws": [
     1008
   ],
   "second_prize_draws": [
+    1248,
     944,
     939,
     887,
@@ -31,5 +32,5 @@
     371
   ],
   "first_prize_count": 1,
-  "second_prize_count": 12
+  "second_prize_count": 13
 }

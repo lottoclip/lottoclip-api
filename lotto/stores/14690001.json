@@ -1,7 +1,7 @@
 {
   "store_id": "14690001",
   "name": "복권왕국",
-  "address": "전남 여수시  화산로 134 ",
+  "address": "전남광주 여수시 화산로 134",
   "province": "전남",
   "city": "여수시",
   "phone": "061-691-8457",
@@ -11,14 +11,15 @@
     "speetto"
   ],
   "latitude": 34.777222,
-  "longitude": 127.651118,
-  "updated_at": "2026-03-05T23:56:04.022801",
+  "longitude": 127.65111,
+  "updated_at": "2026-10-31T17:16:53.309360",
   "first_prize_draws": [
     1028,
     996,
     644
   ],
   "second_prize_draws": [
+    1248,
     1115,
     1053,
     933,
@@ -33,5 +34,5 @@
     302
   ],
   "first_prize_count": 3,
-  "second_prize_count": 12
+  "second_prize_count": 13
 }

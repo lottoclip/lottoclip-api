@@ -1,7 +1,7 @@
 {
   "store_id": "11141693",
   "name": "미성복권방",
-  "address": "서울 마포구 월드컵북로 230 현대상가 안 1층3호  ",
+  "address": "서울 마포구 월드컵북로 230 현대상가 안 1층3호",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,11 +10,13 @@
   ],
   "latitude": 37.570125,
   "longitude": 126.90384,
-  "updated_at": "2026-07-11T14:42:32.896082",
+  "updated_at": "2026-10-31T17:16:53.293598",
   "first_prize_draws": [
     1232
   ],
-  "second_prize_draws": [],
+  "second_prize_draws": [
+    1248
+  ],
   "first_prize_count": 1,
-  "second_prize_count": 0
+  "second_prize_count": 1
 }

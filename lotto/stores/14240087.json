@@ -1,7 +1,7 @@
 {
   "store_id": "14240087",
   "name": "고성로또",
-  "address": "강원 고성군  간성로 44-1 1층",
+  "address": "강원 고성군 간성로 44-1 1층",
   "province": "강원",
   "city": "고성군",
   "phone": null,
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 38.379313,
-  "longitude": 128.470119,
-  "updated_at": "2026-03-05T23:54:22.692241",
+  "latitude": 38.379324,
+  "longitude": 128.4701,
+  "updated_at": "2026-10-31T17:16:53.305808",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1248,
     1080
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }
