@@ -1,7 +1,7 @@
 {
   "store_id": "14590060",
   "name": "부업동아리",
-  "address": "전북 전주시 덕진구  송천중앙로 99 ",
+  "address": "전북 전주시 덕진구 송천중앙로 99",
   "province": "전북",
   "city": "전주시",
   "phone": "063-272-5509",
@@ -10,11 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.855944,
-  "longitude": 127.119974,
-  "updated_at": "2026-03-06T00:00:59.996934",
+  "latitude": 35.856011,
+  "longitude": 127.11999,
+  "updated_at": "2026-11-07T17:46:39.948791",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1249,
     1203,
     956,
     936,
@@ -22,5 +23,5 @@
     634
   ],
   "first_prize_count": 0,
-  "second_prize_count": 5
+  "second_prize_count": 6
 }

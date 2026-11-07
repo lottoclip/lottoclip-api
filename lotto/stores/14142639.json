@@ -1,20 +1,23 @@
 {
   "store_id": "14142639",
   "name": "팡팡드림로또",
-  "address": "경기 안양시 만안구 안양로223번길 26 1층  ",
+  "address": "경기 안양시 만안구 안양로223번길 26 1층",
   "province": "경기",
   "city": "안양시",
   "phone": null,
   "lottery_types": [
-    "lotto645"
+    "lotto645",
+    "pension720",
+    "speetto"
   ],
   "latitude": 37.392633,
-  "longitude": 126.924578,
-  "updated_at": "2026-03-06T00:01:22.690866",
+  "longitude": 126.92457,
+  "updated_at": "2026-11-07T17:46:39.943049",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1249,
     1211
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

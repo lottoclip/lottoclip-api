@@ -1,7 +1,7 @@
 {
   "store_id": "11100997",
   "name": "복권판매소",
-  "address": "서울 서초구  서초중앙로 113 ",
+  "address": "서울 서초구 서초중앙로 113",
   "province": "서울",
   "city": "서초구",
   "phone": "02-597-9395",
@@ -10,10 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.491854,
-  "longitude": 127.013698,
-  "updated_at": "2026-03-05T23:52:08.325775",
-  "first_prize_draws": [],
+  "latitude": 37.491877,
+  "longitude": 127.01392,
+  "updated_at": "2026-11-07T17:46:39.933053",
+  "first_prize_draws": [
+    1249
+  ],
   "second_prize_draws": [
     1041,
     1036,
@@ -23,6 +25,6 @@
     774,
     423
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 7
 }

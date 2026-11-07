@@ -1,7 +1,7 @@
 {
   "store_id": "14141169",
   "name": "팡팡마트",
-  "address": "경기 남양주시 진건오남로522번길 3 102호  ",
+  "address": "경기 남양주시 진건오남로522번길 3 102호",
   "province": "경기",
   "city": "남양주시",
   "phone": null,
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.6803,
-  "longitude": 127.210443,
-  "updated_at": "2026-03-06T00:01:16.304491",
+  "latitude": 37.680299,
+  "longitude": 127.21044,
+  "updated_at": "2026-11-07T17:46:39.944923",
   "first_prize_draws": [
     1019
   ],
   "second_prize_draws": [
+    1249,
     1209,
     1166,
     1130,
@@ -26,5 +27,5 @@
     998
   ],
   "first_prize_count": 1,
-  "second_prize_count": 7
+  "second_prize_count": 8
 }

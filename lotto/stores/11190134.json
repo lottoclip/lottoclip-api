@@ -1,7 +1,7 @@
 {
   "store_id": "11190134",
   "name": "길동방",
-  "address": "서울 강동구  진황도로49길 16 3호",
+  "address": "서울 강동구 진황도로49길 16 3호",
   "province": "서울",
   "city": "강동구",
   "phone": "02-482-6831",
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.534372,
-  "longitude": 127.140831,
-  "updated_at": "2026-03-05T23:56:45.594421",
+  "latitude": 37.534393,
+  "longitude": 127.14086,
+  "updated_at": "2026-11-07T17:46:39.936948",
   "first_prize_draws": [
     739
   ],
   "second_prize_draws": [
+    1249,
     1129,
     957,
     898,
@@ -31,5 +32,5 @@
     327
   ],
   "first_prize_count": 1,
-  "second_prize_count": 12
+  "second_prize_count": 13
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "11100647",
   "name": "삼익마트",
-  "address": "서울 강동구  상암로 211 1층",
+  "address": "서울 강동구 상암로 211 1층",
   "province": "서울",
   "city": "강동구",
   "phone": "02-442-8845",
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.546652,
-  "longitude": 127.146137,
-  "updated_at": "2026-03-05T23:55:56.298645",
+  "latitude": 37.546646,
+  "longitude": 127.14615,
+  "updated_at": "2026-11-07T17:46:39.937132",
   "first_prize_draws": [
     1113,
     997,
@@ -20,11 +20,12 @@
     272
   ],
   "second_prize_draws": [
+    1249,
     1000,
     781,
     299,
     286
   ],
   "first_prize_count": 4,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }

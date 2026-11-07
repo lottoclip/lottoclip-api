@@ -1,7 +1,7 @@
 {
   "store_id": "12840361",
   "name": "알파와오메가복권",
-  "address": "인천 부평구  영성서로 38 1층 107호(삼산동 그린프라자)",
+  "address": "인천 부평구 영성서로 38 1층 107호(삼산동, 그린프라자)",
   "province": "인천",
   "city": "부평구",
   "phone": null,
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.52139,
-  "longitude": 126.743009,
-  "updated_at": "2026-03-05T23:59:40.437151",
+  "latitude": 37.521502,
+  "longitude": 126.743,
+  "updated_at": "2026-11-07T17:46:39.939380",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1249,
     1175,
     1107,
     1054
   ],
   "first_prize_count": 0,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

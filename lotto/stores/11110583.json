@@ -1,7 +1,7 @@
 {
   "store_id": "11110583",
   "name": "세명복권",
-  "address": "서울 마포구 월드컵북로7길 26 1호  ",
+  "address": "서울 마포구 월드컵북로7길 26 1호",
   "province": "서울",
   "city": "마포구",
   "phone": "02-392-3458",
@@ -12,11 +12,12 @@
   ],
   "latitude": 37.557988,
   "longitude": 126.91659,
-  "updated_at": "2026-09-05T15:20:26.308688",
+  "updated_at": "2026-11-07T17:46:39.935165",
   "first_prize_draws": [
     1221
   ],
   "second_prize_draws": [
+    1249,
     1240,
     1228,
     941,
@@ -25,5 +26,5 @@
     618
   ],
   "first_prize_count": 1,
-  "second_prize_count": 6
+  "second_prize_count": 7
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "13110030",
   "name": "복받는복권방",
-  "address": "울산 중구 중앙길 77-1  ",
+  "address": "울산 중구 중앙길 77-1",
   "province": "울산",
   "city": "중구",
   "phone": "052-246-2442",
@@ -12,11 +12,12 @@
   ],
   "latitude": 35.555294,
   "longitude": 129.31789,
-  "updated_at": "2026-08-08T14:20:14.244919",
+  "updated_at": "2026-11-07T17:46:39.940749",
   "first_prize_draws": [
     774
   ],
   "second_prize_draws": [
+    1249,
     1236,
     1178,
     853,
@@ -24,5 +25,5 @@
     485
   ],
   "first_prize_count": 1,
-  "second_prize_count": 5
+  "second_prize_count": 6
 }

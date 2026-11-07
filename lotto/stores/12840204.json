@@ -1,7 +1,7 @@
 {
   "store_id": "12840204",
   "name": "마니산 로또",
-  "address": "인천 강화군 마니산로 676  ",
+  "address": "인천 강화군 마니산로 676",
   "province": "인천",
   "city": "강화군",
   "phone": null,
@@ -12,13 +12,14 @@
   ],
   "latitude": 37.634071,
   "longitude": 126.4233,
-  "updated_at": "2026-08-08T14:20:14.243655",
+  "updated_at": "2026-11-07T17:46:39.940039",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1249,
     1236,
     1177,
     1172
   ],
   "first_prize_count": 0,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

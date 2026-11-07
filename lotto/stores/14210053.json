@@ -1,18 +1,18 @@
 {
   "store_id": "14210053",
   "name": "노다지복권",
-  "address": "강원 횡성군  문정로 52 ",
+  "address": "강원 횡성군 문정로 52 1층",
   "province": "강원",
   "city": "횡성군",
-  "phone": "033-344-4404",
+  "phone": null,
   "lottery_types": [
     "lotto645",
     "pension720",
     "speetto"
   ],
-  "latitude": 37.488536,
-  "longitude": 127.988677,
-  "updated_at": "2026-03-06T00:00:59.874149",
+  "latitude": 37.488506,
+  "longitude": 127.98873,
+  "updated_at": "2026-11-07T17:46:39.945835",
   "first_prize_draws": [
     1203,
     1074,
@@ -21,6 +21,7 @@
     873
   ],
   "second_prize_draws": [
+    1249,
     1189,
     1135,
     1120,
@@ -32,5 +33,5 @@
     674
   ],
   "first_prize_count": 5,
-  "second_prize_count": 9
+  "second_prize_count": 10
 }

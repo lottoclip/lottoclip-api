@@ -1,7 +1,7 @@
 {
   "store_id": "14142293",
   "name": "으뜸복권방",
-  "address": "경기 의정부시  효자로 14 ",
+  "address": "경기 의정부시 효자로 14",
   "province": "경기",
   "city": "의정부시",
   "phone": null,
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.743582,
-  "longitude": 127.08666,
-  "updated_at": "2026-03-05T23:56:06.800334",
+  "latitude": 37.743584,
+  "longitude": 127.08665,
+  "updated_at": "2026-11-07T17:46:39.942291",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1249,
     1116
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

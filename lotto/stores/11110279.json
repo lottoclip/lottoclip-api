@@ -1,7 +1,7 @@
 {
   "store_id": "11110279",
   "name": "도봉구청점 GS25",
-  "address": "서울 도봉구  마들로 664 ",
+  "address": "서울 도봉구 마들로 664",
   "province": "서울",
   "city": "도봉구",
   "phone": "02-956-1463",
@@ -11,10 +11,11 @@
     "speetto"
   ],
   "latitude": 37.669428,
-  "longitude": 127.046459,
-  "updated_at": "2026-03-05T23:53:55.765610",
+  "longitude": 127.04645,
+  "updated_at": "2026-11-07T17:46:39.935644",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1249,
     1071,
     1048,
     1004,
@@ -28,5 +29,5 @@
     307
   ],
   "first_prize_count": 0,
-  "second_prize_count": 11
+  "second_prize_count": 12
 }

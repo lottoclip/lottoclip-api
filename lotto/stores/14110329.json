@@ -1,7 +1,7 @@
 {
   "store_id": "14110329",
   "name": "복권나라",
-  "address": "경기 포천시 죽엽산로35번길 1  ",
+  "address": "경기 포천시 죽엽산로35번길 1",
   "province": "경기",
   "city": "포천시",
   "phone": "031-541-1423",
@@ -12,7 +12,7 @@
   ],
   "latitude": 37.826891,
   "longitude": 127.15272,
-  "updated_at": "2026-05-30T14:56:43.855825",
+  "updated_at": "2026-11-07T17:46:39.941690",
   "first_prize_draws": [
     1226,
     1000,
@@ -21,6 +21,7 @@
     552
   ],
   "second_prize_draws": [
+    1249,
     1211,
     1200,
     1158,
@@ -43,5 +44,5 @@
     271
   ],
   "first_prize_count": 5,
-  "second_prize_count": 20
+  "second_prize_count": 21
 }

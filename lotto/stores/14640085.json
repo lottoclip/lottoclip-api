@@ -1,20 +1,21 @@
 {
   "store_id": "14640085",
   "name": "토토복권방",
-  "address": "전남 장흥군  중앙로 53 ",
+  "address": "전남광주 장흥군 중앙로 53",
   "province": "전남",
   "city": "장흥군",
-  "phone": "061-864-5325",
+  "phone": null,
   "lottery_types": [
     "lotto645"
   ],
-  "latitude": 36.680549,
-  "longitude": 126.906816,
-  "updated_at": "2026-03-05T23:54:57.138855",
+  "latitude": 34.680547,
+  "longitude": 126.90699,
+  "updated_at": "2026-11-07T17:46:39.949127",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1249,
     1092
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

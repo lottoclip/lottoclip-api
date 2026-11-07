@@ -1,7 +1,7 @@
 {
   "store_id": "14142309",
   "name": "행운의순간복권방",
-  "address": "경기 파주시 경의로 1218 제1층 제113호  ",
+  "address": "경기 파주시 경의로 1218 제1층 제113호",
   "province": "경기",
   "city": "파주시",
   "phone": null,
@@ -12,13 +12,14 @@
   ],
   "latitude": 37.726072,
   "longitude": 126.76144,
-  "updated_at": "2026-07-18T14:42:18.706423",
+  "updated_at": "2026-11-07T17:46:39.941831",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1249,
     1233,
     1170,
     1102
   ],
   "first_prize_count": 0,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

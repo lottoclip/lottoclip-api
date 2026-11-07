@@ -1,7 +1,7 @@
 {
   "store_id": "12800031",
   "name": "마이복권",
-  "address": "인천 서구 탁옥로 76 한국상가제1층101호  ",
+  "address": "인천 서해구 탁옥로 76 한국상가제1층101호",
   "province": "인천",
   "city": "서구",
   "phone": "032-561-3433",
@@ -12,7 +12,7 @@
   ],
   "latitude": 37.543496,
   "longitude": 126.67774,
-  "updated_at": "2026-06-20T15:26:26.081015",
+  "updated_at": "2026-11-07T17:46:39.939094",
   "first_prize_draws": [
     821,
     450,
@@ -20,6 +20,7 @@
     308
   ],
   "second_prize_draws": [
+    1249,
     1229,
     1211,
     1200,
@@ -40,5 +41,5 @@
     602
   ],
   "first_prize_count": 4,
-  "second_prize_count": 18
+  "second_prize_count": 19
 }

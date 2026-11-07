@@ -1,7 +1,7 @@
 {
   "store_id": "14100834",
   "name": "월드컵복권방",
-  "address": "경기 광주시  경안로 20 ",
+  "address": "경기 광주시 경안로 20",
   "province": "경기",
   "city": "광주시",
   "phone": "031-797-1515",
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.409947,
-  "longitude": 127.258399,
-  "updated_at": "2026-03-05T23:59:14.186677",
+  "latitude": 37.409901,
+  "longitude": 127.25841,
+  "updated_at": "2026-11-07T17:46:39.945216",
   "first_prize_draws": [
     632,
     386,
     266
   ],
   "second_prize_draws": [
+    1249,
     1171,
     1169,
     1127,
@@ -46,5 +47,5 @@
     340
   ],
   "first_prize_count": 3,
-  "second_prize_count": 25
+  "second_prize_count": 26
 }

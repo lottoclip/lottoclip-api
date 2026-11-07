@@ -1,7 +1,7 @@
 {
   "store_id": "14100336",
   "name": "공원슈퍼",
-  "address": "경기 수원시 장안구 팔달로 255 1층(영화동)  ",
+  "address": "경기 수원시 장안구 팔달로 255 1층(영화동)",
   "province": "경기",
   "city": "수원시",
   "phone": "031-246-4278",
@@ -12,7 +12,7 @@
   ],
   "latitude": 37.288826,
   "longitude": 127.01293,
-  "updated_at": "2026-09-05T15:20:26.313868",
+  "updated_at": "2026-11-07T17:46:39.944094",
   "first_prize_draws": [
     1210,
     1170,
@@ -25,6 +25,7 @@
     350
   ],
   "second_prize_draws": [
+    1249,
     1240,
     1179,
     1159,
@@ -48,5 +49,5 @@
     569
   ],
   "first_prize_count": 9,
-  "second_prize_count": 21
+  "second_prize_count": 22
 }

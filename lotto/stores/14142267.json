@@ -1,7 +1,7 @@
 {
   "store_id": "14142267",
   "name": "성복3번출구점",
-  "address": "경기 용인시 수지구  수지로112번길 11 성복프라자주건축물 제1동",
+  "address": "경기 용인시 수지구 수지로112번길 11 성복프라자주건축물 제1동",
   "province": "경기",
   "city": "용인시",
   "phone": null,
@@ -10,16 +10,18 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.31257,
-  "longitude": 127.08044,
-  "updated_at": "2026-03-06T00:00:37.727643",
-  "first_prize_draws": [],
+  "latitude": 37.312493,
+  "longitude": 127.08021,
+  "updated_at": "2026-11-07T17:46:39.942602",
+  "first_prize_draws": [
+    1249
+  ],
   "second_prize_draws": [
     1195,
     1146,
     1118,
     1116
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 4
 }

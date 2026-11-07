@@ -1,7 +1,7 @@
 {
   "store_id": "14141662",
   "name": "신리천왕대박복권",
-  "address": "경기 화성시  왕배산2길 11-1 102호",
+  "address": "경기 화성시 동탄구 왕배산2길 11-1 102호",
   "province": "경기",
   "city": "화성시",
   "phone": null,
@@ -10,16 +10,17 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.180058,
+  "latitude": 37.180054,
   "longitude": 127.1254,
-  "updated_at": "2026-03-05T23:58:48.607006",
+  "updated_at": "2026-11-07T17:46:39.941263",
   "first_prize_draws": [
     1162
   ],
   "second_prize_draws": [
+    1249,
     1156,
     1120
   ],
   "first_prize_count": 1,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

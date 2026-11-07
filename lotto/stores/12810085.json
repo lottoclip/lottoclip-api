@@ -1,7 +1,7 @@
 {
   "store_id": "12810085",
   "name": "삼성로또명당",
-  "address": "인천 계양구  하느재로 14 ",
+  "address": "인천 계양구 하느재로 14",
   "province": "인천",
   "city": "계양구",
   "phone": "032-255-6940",
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.544549,
-  "longitude": 126.725324,
-  "updated_at": "2026-03-05T23:56:45.738331",
+  "latitude": 37.544839,
+  "longitude": 126.72512,
+  "updated_at": "2026-11-07T17:46:39.939863",
   "first_prize_draws": [
     683
   ],
   "second_prize_draws": [
+    1249,
     1129,
     960,
     888,
@@ -28,5 +29,5 @@
     573
   ],
   "first_prize_count": 1,
-  "second_prize_count": 9
+  "second_prize_count": 10
 }

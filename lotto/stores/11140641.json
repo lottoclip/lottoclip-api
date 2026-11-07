@@ -1,7 +1,7 @@
 {
   "store_id": "11140641",
   "name": "로또복권판매점",
-  "address": "서울 양천구 남부순환로79길 11 1층 103호  ",
+  "address": "서울 양천구 남부순환로79길 11 1층 103호",
   "province": "서울",
   "city": "양천구",
   "phone": null,
@@ -12,16 +12,17 @@
   ],
   "latitude": 37.516992,
   "longitude": 126.8411,
-  "updated_at": "2026-07-25T14:53:15.425190",
+  "updated_at": "2026-11-07T17:46:39.932523",
   "first_prize_draws": [
     1152
   ],
   "second_prize_draws": [
+    1249,
     1234,
     1226,
     1033,
     991
   ],
   "first_prize_count": 1,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }

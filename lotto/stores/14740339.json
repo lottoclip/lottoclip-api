@@ -1,7 +1,7 @@
 {
   "store_id": "14740339",
   "name": "팔팔복권",
-  "address": "경북 김천시  시청로 81 (신음동)좌측상가",
+  "address": "경북 김천시 시청로 81 (신음동)좌측상가",
   "province": "경북",
   "city": "김천시",
   "phone": null,
@@ -11,15 +11,16 @@
     "speetto"
   ],
   "latitude": 36.135596,
-  "longitude": 128.117055,
-  "updated_at": "2026-03-05T23:58:37.048187",
+  "longitude": 128.11705,
+  "updated_at": "2026-11-07T17:46:39.949736",
   "first_prize_draws": [
     1140
   ],
   "second_prize_draws": [
+    1249,
     1158,
     1144
   ],
   "first_prize_count": 1,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

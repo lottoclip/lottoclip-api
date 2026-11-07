@@ -1,7 +1,7 @@
 {
   "store_id": "11140852",
   "name": "사당명당 복권방",
-  "address": "서울 동작구  동작대로7길 74 1층 103호",
+  "address": "서울 동작구 동작대로7길 74 1층 103호",
   "province": "서울",
   "city": "동작구",
   "phone": null,
@@ -12,14 +12,15 @@
   ],
   "latitude": 37.4779,
   "longitude": 126.97859,
-  "updated_at": "2026-03-05T23:58:19.709116",
+  "updated_at": "2026-11-07T17:46:39.935332",
   "first_prize_draws": [
     1067
   ],
   "second_prize_draws": [
+    1249,
     1152,
     1119
   ],
   "first_prize_count": 1,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

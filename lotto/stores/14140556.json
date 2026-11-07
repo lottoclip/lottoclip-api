@@ -1,7 +1,7 @@
 {
   "store_id": "14140556",
   "name": "이번주 로또",
-  "address": "경기 고양시 일산동구  중앙로 1036 홈플러스 고양터미널점 B2층 X7Y2호",
+  "address": "경기 고양시 일산동구 중앙로 1036 B1층 S16호",
   "province": "경기",
   "city": "고양시",
   "phone": null,
@@ -10,14 +10,15 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.643201,
-  "longitude": 126.789721,
-  "updated_at": "2026-03-05T23:53:30.718090",
+  "latitude": 37.643178,
+  "longitude": 126.78966,
+  "updated_at": "2026-11-07T17:46:39.945536",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1249,
     1062,
     996
   ],
   "first_prize_count": 0,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

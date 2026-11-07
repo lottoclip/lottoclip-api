@@ -1,7 +1,7 @@
 {
   "store_id": "12600130",
   "name": "복권명당",
-  "address": "부산 해운대구  아랫반송로 11 ",
+  "address": "부산 해운대구 아랫반송로 11",
   "province": "부산",
   "city": "해운대구",
   "phone": "051-545-1873",
@@ -10,11 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.225608,
-  "longitude": 129.147339,
-  "updated_at": "2026-03-05T23:57:26.823267",
+  "latitude": 35.225604,
+  "longitude": 129.14733,
+  "updated_at": "2026-11-07T17:46:39.937398",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1249,
     1144,
     1060,
     928,
@@ -30,5 +31,5 @@
     316
   ],
   "first_prize_count": 0,
-  "second_prize_count": 13
+  "second_prize_count": 14
 }

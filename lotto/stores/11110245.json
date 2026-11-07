@@ -1,7 +1,7 @@
 {
   "store_id": "11110245",
   "name": "해태식품",
-  "address": "서울 금천구 시흥대로50길 9  ",
+  "address": "서울 금천구 시흥대로50길 9",
   "province": "서울",
   "city": "금천구",
   "phone": "02-895-5789",
@@ -12,15 +12,16 @@
   ],
   "latitude": 37.451438,
   "longitude": 126.902533,
-  "updated_at": "2026-05-16T14:44:53.903072",
+  "updated_at": "2026-11-07T17:46:39.936254",
   "first_prize_draws": [
     936
   ],
   "second_prize_draws": [
+    1249,
     1224,
     966,
     927
   ],
   "first_prize_count": 1,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

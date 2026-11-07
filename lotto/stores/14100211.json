@@ -1,7 +1,7 @@
 {
   "store_id": "14100211",
   "name": "주택복권방",
-  "address": "경기 안양시 동안구 흥안대로145번길 77 77  ",
+  "address": "경기 안양시 동안구 흥안대로145번길 77",
   "province": "경기",
   "city": "안양시",
   "phone": "031-429-8281",
@@ -12,7 +12,7 @@
   ],
   "latitude": 37.374129,
   "longitude": 126.95819,
-  "updated_at": "2026-07-04T14:55:33.584978",
+  "updated_at": "2026-11-07T17:46:39.943357",
   "first_prize_draws": [
     1119,
     1020,
@@ -20,6 +20,7 @@
     340
   ],
   "second_prize_draws": [
+    1249,
     1231,
     1188,
     1080,
@@ -32,5 +33,5 @@
     420
   ],
   "first_prize_count": 4,
-  "second_prize_count": 10
+  "second_prize_count": 11
 }

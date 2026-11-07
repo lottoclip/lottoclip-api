@@ -1,7 +1,7 @@
 {
   "store_id": "14141809",
   "name": "대길복권",
-  "address": "경기 수원시 장안구 서부로 2129-1 1층 (율전동)  ",
+  "address": "경기 수원시 장안구 서부로 2129-1 1층 (율전동)",
   "province": "경기",
   "city": "수원시",
   "phone": null,
@@ -12,8 +12,9 @@
   ],
   "latitude": 37.298745,
   "longitude": 126.97129,
-  "updated_at": "2026-05-02T14:39:19.136604",
+  "updated_at": "2026-11-07T17:46:39.944275",
   "first_prize_draws": [
+    1249,
     1161,
     1142
   ],
@@ -24,6 +25,6 @@
     1111,
     1069
   ],
-  "first_prize_count": 2,
+  "first_prize_count": 3,
   "second_prize_count": 5
 }

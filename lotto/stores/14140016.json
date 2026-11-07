@@ -1,7 +1,7 @@
 {
   "store_id": "14140016",
   "name": "정통복권방",
-  "address": "경기 수원시 팔달구  매산로116번길 32 ",
+  "address": "경기 수원시 팔달구 매산로116번길 32",
   "province": "경기",
   "city": "수원시",
   "phone": null,
@@ -10,16 +10,17 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.269805,
-  "longitude": 127.013933,
-  "updated_at": "2026-03-06T00:00:43.314447",
+  "latitude": 37.269859,
+  "longitude": 127.01403,
+  "updated_at": "2026-11-07T17:46:39.943839",
   "first_prize_draws": [
     1197,
     1094
   ],
   "second_prize_draws": [
+    1249,
     921
   ],
   "first_prize_count": 2,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

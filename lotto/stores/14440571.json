@@ -1,7 +1,7 @@
 {
   "store_id": "14440571",
   "name": "행운복권",
-  "address": "충남 천안시 서북구  성성6로 68 레이크3차 푸르지오 상가 602동102호",
+  "address": "충남 천안시 서북구 성성6로 68 레이크3차 푸르지오 상가 602동102호",
   "province": "충남",
   "city": "천안시",
   "phone": null,
@@ -11,12 +11,13 @@
     "speetto"
   ],
   "latitude": 36.841365,
-  "longitude": 127.127065,
-  "updated_at": "2026-03-06T00:00:31.589270",
+  "longitude": 127.12706,
+  "updated_at": "2026-11-07T17:46:39.946766",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1249,
     1193
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

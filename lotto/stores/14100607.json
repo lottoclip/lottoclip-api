@@ -1,7 +1,7 @@
 {
   "store_id": "14100607",
   "name": "버스표가판점",
-  "address": "경기 안양시 동안구  흥안대로 498 ",
+  "address": "경기 안양시 동안구 흥안대로 498",
   "province": "경기",
   "city": "안양시",
   "phone": "031-421-6455",
@@ -10,14 +10,15 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.398513,
-  "longitude": 126.977527,
-  "updated_at": "2026-03-06T00:00:16.241257",
+  "latitude": 37.398261,
+  "longitude": 126.977327,
+  "updated_at": "2026-11-07T17:46:39.943206",
   "first_prize_draws": [
     1056,
     693
   ],
   "second_prize_draws": [
+    1249,
     1188,
     1173,
     1170,
@@ -32,5 +33,5 @@
     567
   ],
   "first_prize_count": 2,
-  "second_prize_count": 12
+  "second_prize_count": 13
 }

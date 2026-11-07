@@ -1,20 +1,21 @@
 {
   "store_id": "14500088",
   "name": "성운슈퍼",
-  "address": "전북 김제시 신풍동  37-3",
+  "address": "전북 김제시 중앙로 287",
   "province": "전북",
   "city": "김제시",
   "phone": "063-547-2084",
   "lottery_types": [
     "lotto645"
   ],
-  "latitude": 35.793314,
-  "longitude": 126.902027,
-  "updated_at": "2026-03-05T23:19:21.373375",
+  "latitude": 35.793332,
+  "longitude": 126.90194,
+  "updated_at": "2026-11-07T17:46:39.948947",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1249,
     410
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

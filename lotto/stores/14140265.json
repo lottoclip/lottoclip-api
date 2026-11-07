@@ -1,7 +1,7 @@
 {
   "store_id": "14140265",
-  "name": "타임로또",
-  "address": "경기 화성시 청계동 535-1 포드센트럴시티 115호 세븐일레븐",
+  "name": "나루로또",
+  "address": "경기 화성시 동탄구 동탄솔빛로 51 112호",
   "province": "경기",
   "city": "화성시",
   "phone": null,
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.193662,
-  "longitude": 127.07302,
-  "updated_at": "2026-03-05T23:42:37.683412",
+  "latitude": 37.193682,
+  "longitude": 127.07304,
+  "updated_at": "2026-11-07T17:46:39.941415",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1249,
     863
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

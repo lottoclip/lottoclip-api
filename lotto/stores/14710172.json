@@ -1,7 +1,7 @@
 {
   "store_id": "14710172",
   "name": "1등로또복권방",
-  "address": "경북 김천시  자산로 115 ",
+  "address": "경북 김천시 자산로 115",
   "province": "경북",
   "city": "김천시",
   "phone": "054-432-7300",
@@ -10,16 +10,17 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 36.120903,
-  "longitude": 128.119374,
-  "updated_at": "2026-03-05T23:57:16.366435",
+  "latitude": 36.120946,
+  "longitude": 128.11945,
+  "updated_at": "2026-11-07T17:46:39.949886",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1249,
     1140,
     1103,
     930,
     640
   ],
   "first_prize_count": 0,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }

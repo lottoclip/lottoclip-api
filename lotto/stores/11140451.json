@@ -1,7 +1,7 @@
 {
   "store_id": "11140451",
   "name": "행복한행운",
-  "address": "서울 강서구 공항대로45길 12 1층  ",
+  "address": "서울 강서구 공항대로45길 12 1층",
   "province": "서울",
   "city": "강서구",
   "phone": null,
@@ -11,14 +11,16 @@
     "speetto"
   ],
   "latitude": 37.555848,
-  "longitude": 126.854622,
-  "updated_at": "2026-03-21T14:15:33.589050",
-  "first_prize_draws": [],
+  "longitude": 126.85462,
+  "updated_at": "2026-11-07T17:46:39.936636",
+  "first_prize_draws": [
+    1249
+  ],
   "second_prize_draws": [
     1216,
     1114,
     1086
   ],
-  "first_prize_count": 0,
+  "first_prize_count": 1,
   "second_prize_count": 3
 }
