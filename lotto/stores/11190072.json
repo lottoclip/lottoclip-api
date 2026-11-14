@@ -1,7 +1,7 @@
 {
   "store_id": "11190072",
   "name": "노다지",
-  "address": "서울 동대문구  한천로 55 ",
+  "address": "서울 동대문구 한천로 55",
   "province": "서울",
   "city": "동대문구",
   "phone": "02-2248-3728",
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.566846,
-  "longitude": 127.061809,
-  "updated_at": "2026-03-05T23:58:39.370987",
+  "latitude": 37.566851,
+  "longitude": 127.06195,
+  "updated_at": "2026-11-14T18:16:52.487496",
   "first_prize_draws": [
     1012
   ],
   "second_prize_draws": [
+    1250,
     1159,
     1040,
     1000,
@@ -26,5 +27,5 @@
     708
   ],
   "first_prize_count": 1,
-  "second_prize_count": 7
+  "second_prize_count": 8
 }

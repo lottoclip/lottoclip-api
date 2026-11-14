@@ -1,7 +1,7 @@
 {
   "store_id": "14141785",
   "name": "럭키복권방",
-  "address": "경기 성남시 분당구  성남대로926번길 12 1층 113호(야탑동 금탑프라자)",
+  "address": "경기 성남시 분당구 정자일로 197 104-1호",
   "province": "경기",
   "city": "성남시",
   "phone": null,
@@ -12,12 +12,13 @@
   ],
   "latitude": 37.368029,
   "longitude": 127.10552,
-  "updated_at": "2026-03-06T00:00:59.720892",
+  "updated_at": "2026-11-14T18:16:52.499251",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1250,
     1203,
     1045
   ],
   "first_prize_count": 0,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

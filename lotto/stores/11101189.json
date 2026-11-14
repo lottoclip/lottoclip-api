@@ -1,7 +1,7 @@
 {
   "store_id": "11101189",
   "name": "가로판매점",
-  "address": "서울 금천구  시흥대로 217 시흥동우체국 ",
+  "address": "서울 금천구 시흥대로 217",
   "province": "서울",
   "city": "금천구",
   "phone": "02-895-0353",
@@ -10,10 +10,11 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.453143,
-  "longitude": 126.900703,
-  "updated_at": "2026-03-05T23:54:25.175768",
+  "latitude": 37.453209,
+  "longitude": 126.900875,
+  "updated_at": "2026-11-14T18:16:52.487590",
   "first_prize_draws": [
+    1250,
     790
   ],
   "second_prize_draws": [
@@ -24,6 +25,6 @@
     630,
     452
   ],
-  "first_prize_count": 1,
+  "first_prize_count": 2,
   "second_prize_count": 6
 }

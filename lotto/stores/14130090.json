@@ -1,7 +1,7 @@
 {
   "store_id": "14130090",
   "name": "밤가시복권방",
-  "address": "경기 고양시 일산동구  일산로 428 101호",
+  "address": "경기 고양시 일산동구 일산로 428 101호",
   "province": "경기",
   "city": "고양시",
   "phone": null,
@@ -11,10 +11,11 @@
     "speetto"
   ],
   "latitude": 37.673008,
-  "longitude": 126.779207,
-  "updated_at": "2026-03-05T23:57:08.105044",
+  "longitude": 126.7792,
+  "updated_at": "2026-11-14T18:16:52.500466",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1250,
     1137,
     1101,
     991,
@@ -22,5 +23,5 @@
     769
   ],
   "first_prize_count": 0,
-  "second_prize_count": 5
+  "second_prize_count": 6
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14141671",
   "name": "행복점빵",
-  "address": "경기 고양시 덕양구  지축1로 41 108호",
+  "address": "경기 고양시 덕양구 지축1로 41 108호",
   "province": "경기",
   "city": "고양시",
   "phone": null,
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.648683,
+  "latitude": 37.648682,
   "longitude": 126.91496,
-  "updated_at": "2026-03-06T00:00:59.867390",
+  "updated_at": "2026-11-14T18:16:52.500713",
   "first_prize_draws": [
     1203
   ],
   "second_prize_draws": [
+    1250,
     1061
   ],
   "first_prize_count": 1,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

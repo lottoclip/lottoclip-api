@@ -1,7 +1,7 @@
 {
   "store_id": "14141510",
-  "name": "행운의 복권판매점",
-  "address": "경기 용인시 기흥구  신갈로124번길 19 1층 103호",
+  "name": "카페 여행가",
+  "address": "경기 용인시 기흥구 신구로53번길 10-7 101호",
   "province": "경기",
   "city": "용인시",
   "phone": null,
@@ -11,13 +11,14 @@
     "speetto"
   ],
   "latitude": 37.277646,
-  "longitude": 127.108235,
-  "updated_at": "2026-03-05T23:58:42.909706",
+  "longitude": 127.10823,
+  "updated_at": "2026-11-14T18:16:52.498575",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1250,
     1160,
     1157
   ],
   "first_prize_count": 0,
-  "second_prize_count": 2
+  "second_prize_count": 3
 }

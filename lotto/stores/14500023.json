@@ -1,7 +1,7 @@
 {
   "store_id": "14500023",
   "name": "아리랑복권방",
-  "address": "전북 전주시 완산구  거마평로 192 ",
+  "address": "전북 전주시 완산구 거마평로 192",
   "province": "전북",
   "city": "전주시",
   "phone": "063-225-1652",
@@ -12,11 +12,12 @@
   ],
   "latitude": 35.809441,
   "longitude": 127.115627,
-  "updated_at": "2026-03-05T23:55:42.442935",
+  "updated_at": "2026-11-14T18:16:52.502108",
   "first_prize_draws": [
     1108
   ],
   "second_prize_draws": [
+    1250,
     1054,
     900,
     802,
@@ -27,5 +28,5 @@
     377
   ],
   "first_prize_count": 1,
-  "second_prize_count": 8
+  "second_prize_count": 9
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "14140309",
   "name": "대박",
-  "address": "경기 고양시 덕양구  원당로 87 1층",
+  "address": "경기 고양시 덕양구 원당로 87 1층",
   "province": "경기",
   "city": "고양시",
   "phone": null,
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.660128,
-  "longitude": 126.836297,
-  "updated_at": "2026-03-05T23:59:37.905844",
+  "latitude": 37.660126,
+  "longitude": 126.8363,
+  "updated_at": "2026-11-14T18:16:52.500630",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1250,
     1174,
     1100,
     1057
   ],
   "first_prize_count": 0,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

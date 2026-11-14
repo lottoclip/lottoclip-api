@@ -1,7 +1,7 @@
 {
   "store_id": "14430012",
   "name": "공주로또",
-  "address": "충남 공주시  웅진로 127 ",
+  "address": "충남 공주시 웅진로 127",
   "province": "충남",
   "city": "공주시",
   "phone": null,
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 36.45178,
-  "longitude": 127.123832,
-  "updated_at": "2026-03-05T23:54:37.003797",
+  "latitude": 36.451818,
+  "longitude": 127.12385,
+  "updated_at": "2026-11-14T18:16:52.502026",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1250,
     1085
   ],
   "first_prize_count": 0,
-  "second_prize_count": 1
+  "second_prize_count": 2
 }

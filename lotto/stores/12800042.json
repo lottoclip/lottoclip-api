@@ -1,7 +1,7 @@
 {
   "store_id": "12800042",
   "name": "한솔복권&마트",
-  "address": "인천 미추홀구 경인로 384 1층 1호  ",
+  "address": "인천 미추홀구 경인로 384 1층 1호",
   "province": "인천",
   "city": "미추홀구",
   "phone": "032-428-2100",
@@ -12,8 +12,9 @@
   ],
   "latitude": 37.458145,
   "longitude": 126.68256,
-  "updated_at": "2026-05-23T14:52:06.048962",
+  "updated_at": "2026-11-14T18:16:52.496836",
   "first_prize_draws": [
+    1250,
     1225,
     1127,
     925,
@@ -38,6 +39,6 @@
     395,
     277
   ],
-  "first_prize_count": 5,
+  "first_prize_count": 6,
   "second_prize_count": 16
 }

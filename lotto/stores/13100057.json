@@ -1,7 +1,7 @@
 {
   "store_id": "13100057",
   "name": "한꿈복권방",
-  "address": "울산 중구 번영로 586  ",
+  "address": "울산 중구 번영로 586",
   "province": "울산",
   "city": "중구",
   "phone": null,
@@ -12,7 +12,7 @@
   ],
   "latitude": 35.568772,
   "longitude": 129.34587,
-  "updated_at": "2026-05-09T14:41:00.373745",
+  "updated_at": "2026-11-14T18:16:52.497691",
   "first_prize_draws": [
     1223,
     1160,
@@ -28,6 +28,7 @@
     372
   ],
   "second_prize_draws": [
+    1250,
     1214,
     1200,
     1195,
@@ -59,5 +60,5 @@
     287
   ],
   "first_prize_count": 12,
-  "second_prize_count": 29
+  "second_prize_count": 30
 }

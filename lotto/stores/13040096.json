@@ -1,7 +1,7 @@
 {
   "store_id": "13040096",
   "name": "조이복권",
-  "address": "대전 대덕구  계족로761번길 24 상가동 115호(읍내동현대아파트)",
+  "address": "대전 대덕구 중리남로 18 1층",
   "province": "대전",
   "city": "대덕구",
   "phone": null,
@@ -12,13 +12,14 @@
   ],
   "latitude": 36.36129,
   "longitude": 127.42939,
-  "updated_at": "2026-03-06T00:00:13.324212",
+  "updated_at": "2026-11-14T18:16:52.497609",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1250,
     1187,
     1104,
     1081
   ],
   "first_prize_count": 0,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "11101383",
   "name": "몽곡사",
-  "address": "서울 영등포구  버드나루로 51 조광빌딩105호",
+  "address": "서울 영등포구 버드나루로 51 조광빌딩105호",
   "province": "서울",
   "city": "영등포구",
   "phone": "02-2634-2281",
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.523068,
-  "longitude": 126.910578,
-  "updated_at": "2026-03-05T23:56:56.136085",
+  "latitude": 37.523073,
+  "longitude": 126.9106,
+  "updated_at": "2026-11-14T18:16:52.486016",
   "first_prize_draws": [
     1133,
     923,
     502
   ],
   "second_prize_draws": [
+    1250,
     1112,
     1099,
     1002,
@@ -31,5 +32,5 @@
     378
   ],
   "first_prize_count": 3,
-  "second_prize_count": 10
+  "second_prize_count": 11
 }

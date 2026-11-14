@@ -1,7 +1,7 @@
 {
   "store_id": "11190117",
   "name": "행운복권방",
-  "address": "서울 은평구  서오릉로 10 ",
+  "address": "서울 은평구 서오릉로 10",
   "province": "서울",
   "city": "은평구",
   "phone": "02-387-2268",
@@ -10,8 +10,8 @@
     "pension720"
   ],
   "latitude": 37.602294,
-  "longitude": 126.926781,
-  "updated_at": "2026-03-05T23:59:19.588286",
+  "longitude": 126.92678,
+  "updated_at": "2026-11-14T18:16:52.485819",
   "first_prize_draws": [
     1173,
     1134,
@@ -20,6 +20,7 @@
     328
   ],
   "second_prize_draws": [
+    1250,
     1128,
     1116,
     1089,
@@ -33,5 +34,5 @@
     318
   ],
   "first_prize_count": 5,
-  "second_prize_count": 11
+  "second_prize_count": 12
 }

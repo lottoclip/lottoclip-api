@@ -1,7 +1,7 @@
 {
   "store_id": "12800203",
   "name": "버스매표소 복권판매소",
-  "address": "인천 중구  우현로 69 중앙로지하상가 163호",
+  "address": "인천 제물포구 우현로 69 중앙로지하상가 163호",
   "province": "인천",
   "city": "중구",
   "phone": "032-761-5555",
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.475539,
-  "longitude": 126.631292,
-  "updated_at": "2026-03-06T00:00:02.164998",
+  "latitude": 37.474084,
+  "longitude": 126.63023,
+  "updated_at": "2026-11-14T18:16:52.496740",
   "first_prize_draws": [
     933,
     855,
     505
   ],
   "second_prize_draws": [
+    1250,
     1183,
     1156,
     1108,
@@ -38,5 +39,5 @@
     505
   ],
   "first_prize_count": 3,
-  "second_prize_count": 17
+  "second_prize_count": 18
 }

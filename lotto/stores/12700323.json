@@ -1,7 +1,7 @@
 {
   "store_id": "12700323",
   "name": "메트로센터점",
-  "address": "대구 중구 달구벌대로 지하 2100 메트로센터C412호  ",
+  "address": "대구 중구 달구벌대로 지하 2100 메트로센터C412호",
   "province": "대구",
   "city": "중구",
   "phone": "053-254-3485",
@@ -12,7 +12,7 @@
   ],
   "latitude": 35.865008,
   "longitude": 128.59372,
-  "updated_at": "2026-09-05T15:20:26.310925",
+  "updated_at": "2026-11-14T18:16:52.488861",
   "first_prize_draws": [
     1240,
     1223,
@@ -28,6 +28,7 @@
     599
   ],
   "second_prize_draws": [
+    1250,
     1239,
     1229,
     1221,
@@ -69,5 +70,5 @@
     312
   ],
   "first_prize_count": 12,
-  "second_prize_count": 39
+  "second_prize_count": 40
 }

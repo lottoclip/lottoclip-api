@@ -1,7 +1,7 @@
 {
   "store_id": "14710068",
   "name": "복권천하명당(선산점)",
-  "address": "경북 구미시  남문로4길 19 ",
+  "address": "경북 구미시 남문로4길 19",
   "province": "경북",
   "city": "구미시",
   "phone": "054-481-7773",
@@ -10,11 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 36.241085,
-  "longitude": 128.303702,
-  "updated_at": "2026-03-05T23:58:43.189254",
+  "latitude": 36.241075,
+  "longitude": 128.30372,
+  "updated_at": "2026-11-14T18:16:52.504074",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1250,
     1160,
     1071,
     1050,
@@ -26,5 +27,5 @@
     697
   ],
   "first_prize_count": 0,
-  "second_prize_count": 9
+  "second_prize_count": 10
 }

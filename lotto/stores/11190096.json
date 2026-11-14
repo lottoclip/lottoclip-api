@@ -1,7 +1,7 @@
 {
   "store_id": "11190096",
   "name": "미래상사",
-  "address": "서울 송파구  오금로 534 104호",
+  "address": "서울 송파구 오금로 534 104호",
   "province": "서울",
   "city": "송파구",
   "phone": "02-404-4313",
@@ -12,9 +12,10 @@
   ],
   "latitude": 37.492744,
   "longitude": 127.14811,
-  "updated_at": "2026-03-05T23:55:22.577431",
+  "updated_at": "2026-11-14T18:16:52.486191",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1250,
     1101,
     979,
     924,
@@ -23,5 +24,5 @@
     376
   ],
   "first_prize_count": 0,
-  "second_prize_count": 6
+  "second_prize_count": 7
 }

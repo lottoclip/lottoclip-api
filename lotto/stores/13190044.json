@@ -1,7 +1,7 @@
 {
   "store_id": "13190044",
   "name": "우리들덕신점",
-  "address": "울산 울주군  덕신로 273 ",
+  "address": "울산 울주군 덕신로 273",
   "province": "울산",
   "city": "울주군",
   "phone": "052-238-2202",
@@ -12,11 +12,12 @@
   ],
   "latitude": 35.434178,
   "longitude": 129.3114,
-  "updated_at": "2026-03-05T23:56:13.465436",
+  "updated_at": "2026-11-14T18:16:52.497790",
   "first_prize_draws": [
     422
   ],
   "second_prize_draws": [
+    1250,
     1118,
     1116,
     1100,
@@ -36,5 +37,5 @@
     327
   ],
   "first_prize_count": 1,
-  "second_prize_count": 17
+  "second_prize_count": 18
 }
