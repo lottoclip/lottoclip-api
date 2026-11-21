@@ -1,7 +1,7 @@
 {
   "store_id": "14890037",
   "name": "블루25복권명당대원점",
-  "address": "경남 창원시 성산구 두대로 57  ",
+  "address": "경남 창원시 성산구 두대로 57",
   "province": "경남",
   "city": "창원시",
   "phone": "055-276-9278",
@@ -12,12 +12,13 @@
   ],
   "latitude": 35.23182,
   "longitude": 128.65057,
-  "updated_at": "2026-04-25T14:34:00.463941",
+  "updated_at": "2026-11-21T19:29:04.838155",
   "first_prize_draws": [
     905,
     634
   ],
   "second_prize_draws": [
+    1251,
     1221,
     1200,
     1178,
@@ -34,5 +35,5 @@
     301
   ],
   "first_prize_count": 2,
-  "second_prize_count": 14
+  "second_prize_count": 15
 }

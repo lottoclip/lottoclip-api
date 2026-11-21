@@ -1,7 +1,7 @@
 {
   "store_id": "12890049",
   "name": "행운복권",
-  "address": "인천 미추홀구  인하로 354 ",
+  "address": "인천 미추홀구 인하로 354",
   "province": "인천",
   "city": "미추홀구",
   "phone": "032-441-8245",
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.447954,
-  "longitude": 126.687632,
-  "updated_at": "2026-03-06T00:00:37.567648",
+  "latitude": 37.447985,
+  "longitude": 126.68764,
+  "updated_at": "2026-11-21T19:29:04.826210",
   "first_prize_draws": [
     1092
   ],
   "second_prize_draws": [
+    1251,
     1195,
     1086,
     1082,
@@ -28,5 +29,5 @@
     297
   ],
   "first_prize_count": 1,
-  "second_prize_count": 9
+  "second_prize_count": 10
 }

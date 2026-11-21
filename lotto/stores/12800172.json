@@ -1,7 +1,7 @@
 {
   "store_id": "12800172",
   "name": "세븐일레븐 인천효성점",
-  "address": "인천 계양구 안남로 551  ",
+  "address": "인천 계양구 안남로 551",
   "province": "인천",
   "city": "계양구",
   "phone": "032-547-9341",
@@ -12,13 +12,14 @@
   ],
   "latitude": 37.532252,
   "longitude": 126.71041,
-  "updated_at": "2026-08-08T14:20:14.242996",
+  "updated_at": "2026-11-21T19:29:04.826591",
   "first_prize_draws": [
     1043,
     874,
     525
   ],
   "second_prize_draws": [
+    1251,
     1236,
     1217,
     1195,
@@ -34,5 +35,5 @@
     422
   ],
   "first_prize_count": 3,
-  "second_prize_count": 13
+  "second_prize_count": 14
 }

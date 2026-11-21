@@ -1,7 +1,7 @@
 {
   "store_id": "13110061",
   "name": "1등복권방",
-  "address": "울산 울주군  동문길 84 ",
+  "address": "울산 울주군 동문길 84",
   "province": "울산",
   "city": "울주군",
   "phone": "052-264-8895",
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.564197,
-  "longitude": 129.124609,
-  "updated_at": "2026-03-05T23:59:37.674539",
+  "latitude": 35.564185,
+  "longitude": 129.12459,
+  "updated_at": "2026-11-21T19:29:04.827554",
   "first_prize_draws": [
     1174,
     695,
     401
   ],
   "second_prize_draws": [
+    1251,
     1135,
     1004,
     1001,
@@ -32,5 +33,5 @@
     371
   ],
   "first_prize_count": 3,
-  "second_prize_count": 11
+  "second_prize_count": 12
 }

@@ -1,7 +1,7 @@
 {
   "store_id": "11130027",
   "name": "행운복권방",
-  "address": "서울 금천구 가산디지털1로 168 A동 103호  ",
+  "address": "서울 금천구 가산디지털1로 168 A동 103호",
   "province": "서울",
   "city": "금천구",
   "phone": null,
@@ -12,12 +12,13 @@
   ],
   "latitude": 37.47999,
   "longitude": 126.88259,
-  "updated_at": "2026-05-23T14:52:06.045721",
+  "updated_at": "2026-11-21T19:29:04.821453",
   "first_prize_draws": [
     1225,
     1196
   ],
   "second_prize_draws": [
+    1251,
     1151,
     1014,
     1010,
@@ -32,5 +33,5 @@
     706
   ],
   "first_prize_count": 2,
-  "second_prize_count": 12
+  "second_prize_count": 13
 }

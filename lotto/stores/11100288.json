@@ -1,7 +1,7 @@
 {
   "store_id": "11100288",
-  "name": "동호슈퍼",
-  "address": "서울 중구  동호로 163 동호빌딩1층",
+  "name": "약수마트",
+  "address": "서울 중구 동호로 163 1층",
   "province": "서울",
   "city": "중구",
   "phone": "02-2231-9244",
@@ -10,11 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.552932,
-  "longitude": 127.01169,
-  "updated_at": "2026-03-05T23:54:07.728799",
+  "latitude": 37.552959,
+  "longitude": 127.01173,
+  "updated_at": "2026-11-21T19:29:04.816565",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1251,
     1075,
     1022,
     1006,
@@ -30,5 +31,5 @@
     452
   ],
   "first_prize_count": 0,
-  "second_prize_count": 13
+  "second_prize_count": 14
 }

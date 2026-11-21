@@ -1,7 +1,7 @@
 {
   "store_id": "14120147",
   "name": "광장복권판매점",
-  "address": "경기 화성시  동탄중심상가2길 37 106호",
+  "address": "경기 화성시 동탄구 동탄중심상가2길 37 106호",
   "province": "경기",
   "city": "화성시",
   "phone": "031-374-0066",
@@ -10,14 +10,15 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.206591,
-  "longitude": 127.074234,
-  "updated_at": "2026-03-05T23:58:45.672532",
+  "latitude": 37.206529,
+  "longitude": 127.07306,
+  "updated_at": "2026-11-21T19:29:04.827999",
   "first_prize_draws": [
     733,
     704
   ],
   "second_prize_draws": [
+    1251,
     1161,
     1152,
     985,
@@ -26,5 +27,5 @@
     707
   ],
   "first_prize_count": 2,
-  "second_prize_count": 6
+  "second_prize_count": 7
 }

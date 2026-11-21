@@ -1,7 +1,7 @@
 {
   "store_id": "14840049",
   "name": "드림로또",
-  "address": "경남 양산시  삼일로 73 CU양산황제점 내",
+  "address": "경남 양산시 삼일로 73 CU양산황제점 내",
   "province": "경남",
   "city": "양산시",
   "phone": "055-365-5556",
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.343975,
-  "longitude": 129.035488,
-  "updated_at": "2026-03-06T00:00:38.017995",
+  "latitude": 35.343954,
+  "longitude": 129.03547,
+  "updated_at": "2026-11-21T19:29:04.838684",
   "first_prize_draws": [
     917
   ],
   "second_prize_draws": [
+    1251,
     1195,
     1141,
     1109,
@@ -29,5 +30,5 @@
     890
   ],
   "first_prize_count": 1,
-  "second_prize_count": 10
+  "second_prize_count": 11
 }

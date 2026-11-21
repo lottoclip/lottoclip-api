@@ -1,7 +1,7 @@
 {
   "store_id": "14610025",
   "name": "베스트원",
-  "address": "전남 영광군 신남로 209-1 1층  ",
+  "address": "전남광주 영광군 신남로 209-1 1층",
   "province": "전남",
   "city": "영광군",
   "phone": null,
@@ -10,15 +10,16 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 35.276035,
-  "longitude": 126.505094,
-  "updated_at": "2026-03-06T00:01:05.594303",
+  "latitude": 35.276008,
+  "longitude": 126.50508,
+  "updated_at": "2026-11-21T19:29:04.834477",
   "first_prize_draws": [
     828,
     693,
     520
   ],
   "second_prize_draws": [
+    1251,
     1205,
     1203,
     1181,
@@ -31,5 +32,5 @@
     824
   ],
   "first_prize_count": 3,
-  "second_prize_count": 10
+  "second_prize_count": 11
 }

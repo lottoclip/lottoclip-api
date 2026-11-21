@@ -1,7 +1,7 @@
 {
   "store_id": "14100397",
   "name": "금성24시편의점",
-  "address": "경기 양주시  화합로 1355 ",
+  "address": "경기 양주시 화합로 1355 1층",
   "province": "경기",
   "city": "양주시",
   "phone": "031-858-0859",
@@ -10,14 +10,15 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.843997,
-  "longitude": 127.062336,
-  "updated_at": "2026-03-06T00:00:22.426234",
+  "latitude": 37.84405,
+  "longitude": 127.06233,
+  "updated_at": "2026-11-21T19:29:04.829397",
   "first_prize_draws": [
     963,
     777
   ],
   "second_prize_draws": [
+    1251,
     1190,
     1171,
     1125,
@@ -30,5 +31,5 @@
     402
   ],
   "first_prize_count": 2,
-  "second_prize_count": 10
+  "second_prize_count": 11
 }

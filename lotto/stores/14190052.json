@@ -1,7 +1,7 @@
 {
   "store_id": "14190052",
   "name": "365복권잔치",
-  "address": "경기 군포시  고산로 166 sk 벤티움 101동 217호",
+  "address": "경기 군포시 고산로 166 sk 벤티움 101동 217호",
   "province": "경기",
   "city": "군포시",
   "phone": "031-427-4496",
@@ -10,13 +10,14 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.348549,
-  "longitude": 126.953678,
-  "updated_at": "2026-03-05T23:58:30.934485",
+  "latitude": 37.348461,
+  "longitude": 126.95308,
+  "updated_at": "2026-11-21T19:29:04.830861",
   "first_prize_draws": [
     475
   ],
   "second_prize_draws": [
+    1251,
     1156,
     1139,
     1109,
@@ -30,5 +31,5 @@
     465
   ],
   "first_prize_count": 1,
-  "second_prize_count": 11
+  "second_prize_count": 12
 }

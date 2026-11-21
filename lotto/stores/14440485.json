@@ -1,7 +1,7 @@
 {
   "store_id": "14440485",
   "name": "대박복권 성점점",
-  "address": "충남 천안시 서북구 성정로 89 1층  ",
+  "address": "충남 천안시 서북구 성정로 89 1층",
   "phone": null,
   "lottery_types": [
     "lotto645",
@@ -10,11 +10,13 @@
   ],
   "latitude": 36.81382,
   "longitude": 127.13996,
-  "updated_at": "2026-05-02T14:39:19.142241",
+  "updated_at": "2026-11-21T19:29:04.832865",
   "first_prize_draws": [
     1222
   ],
-  "second_prize_draws": [],
+  "second_prize_draws": [
+    1251
+  ],
   "first_prize_count": 1,
-  "second_prize_count": 0
+  "second_prize_count": 1
 }

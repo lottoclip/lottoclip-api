@@ -1,7 +1,7 @@
 {
   "store_id": "11100232",
   "name": "삼정그린환경",
-  "address": "서울 강동구 양재대로 1355 오스카상가136호  ",
+  "address": "서울 강동구 양재대로 1355 오스카상가136호",
   "province": "서울",
   "city": "강동구",
   "phone": "02-482-6766",
@@ -12,7 +12,7 @@
   ],
   "latitude": 37.527395,
   "longitude": 127.13561,
-  "updated_at": "2026-07-04T14:55:33.577642",
+  "updated_at": "2026-11-21T19:29:04.822370",
   "first_prize_draws": [
     1231,
     865,
@@ -20,6 +20,7 @@
     603
   ],
   "second_prize_draws": [
+    1251,
     1084,
     1057,
     1052,
@@ -35,5 +36,5 @@
     348
   ],
   "first_prize_count": 4,
-  "second_prize_count": 13
+  "second_prize_count": 14
 }

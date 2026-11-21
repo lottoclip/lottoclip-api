@@ -1,7 +1,7 @@
 {
   "store_id": "14710181",
   "name": "로또복권",
-  "address": "대구 군위군  중앙길 32 ",
+  "address": "대구 군위군 중앙길 32",
   "province": "대구",
   "city": "군위군",
   "phone": "054-383-5942",
@@ -10,9 +10,9 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 36.231489,
-  "longitude": 128.567491,
-  "updated_at": "2026-03-06T00:00:54.081127",
+  "latitude": 36.231366,
+  "longitude": 128.56747,
+  "updated_at": "2026-11-21T19:29:04.835725",
   "first_prize_draws": [
     1201,
     1154,
@@ -20,6 +20,7 @@
     606
   ],
   "second_prize_draws": [
+    1251,
     1087,
     1033,
     956,
@@ -31,5 +32,5 @@
     288
   ],
   "first_prize_count": 4,
-  "second_prize_count": 9
+  "second_prize_count": 10
 }

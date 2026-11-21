@@ -1,7 +1,7 @@
 {
   "store_id": "11110574",
   "name": "행운복권방",
-  "address": "서울 도봉구 노해로63길 79 우림빌딩 112호  ",
+  "address": "서울 도봉구 노해로63길 79 우림빌딩 112호",
   "province": "서울",
   "city": "도봉구",
   "phone": null,
@@ -12,7 +12,7 @@
   ],
   "latitude": 37.653081,
   "longitude": 127.0463,
-  "updated_at": "2026-09-05T15:20:26.308784",
+  "updated_at": "2026-11-21T19:29:04.821054",
   "first_prize_draws": [
     1218,
     1171,
@@ -24,6 +24,7 @@
     604
   ],
   "second_prize_draws": [
+    1251,
     1240,
     1228,
     1204,
@@ -48,5 +49,5 @@
     406
   ],
   "first_prize_count": 8,
-  "second_prize_count": 22
+  "second_prize_count": 23
 }

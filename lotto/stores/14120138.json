@@ -1,7 +1,7 @@
 {
   "store_id": "14120138",
   "name": "내촌복권",
-  "address": "경기 포천시 내촌로 58-1  ",
+  "address": "경기 포천시 내촌로 58-1",
   "province": "경기",
   "city": "포천시",
   "phone": "031-532-2363",
@@ -10,16 +10,17 @@
   ],
   "latitude": 37.785351,
   "longitude": 127.22702,
-  "updated_at": "2026-04-25T14:34:00.452184",
+  "updated_at": "2026-11-21T19:29:04.828197",
   "first_prize_draws": [
     736
   ],
   "second_prize_draws": [
+    1251,
     1221,
     1167,
     1093,
     668
   ],
   "first_prize_count": 1,
-  "second_prize_count": 4
+  "second_prize_count": 5
 }

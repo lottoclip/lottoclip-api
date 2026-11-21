@@ -1,7 +1,7 @@
 {
   "store_id": "13000060",
   "name": "복권전문점",
-  "address": "대전 유성구 유성대로694번길 84  ",
+  "address": "대전 유성구 유성대로694번길 84",
   "province": "대전",
   "city": "유성구",
   "phone": "042-825-8191",
@@ -12,7 +12,7 @@
   ],
   "latitude": 36.354069,
   "longitude": 127.33617,
-  "updated_at": "2026-07-04T14:55:33.582243",
+  "updated_at": "2026-11-21T19:29:04.826992",
   "first_prize_draws": [
     1231,
     885,
@@ -20,6 +20,7 @@
     615
   ],
   "second_prize_draws": [
+    1251,
     1187,
     1177,
     1165,
@@ -34,5 +35,5 @@
     663
   ],
   "first_prize_count": 4,
-  "second_prize_count": 12
+  "second_prize_count": 13
 }

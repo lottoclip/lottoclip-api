@@ -1,7 +1,7 @@
 {
   "store_id": "14190121",
   "name": "운수대통",
-  "address": "경기 안산시 상록구  부곡로 132 102호",
+  "address": "경기 안산시 상록구 부곡로 132 102호",
   "province": "경기",
   "city": "안산시",
   "phone": "031-406-4819",
@@ -10,11 +10,12 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 37.33354,
-  "longitude": 126.864043,
-  "updated_at": "2026-03-05T23:56:42.353630",
+  "latitude": 37.333539,
+  "longitude": 126.86406,
+  "updated_at": "2026-11-21T19:29:04.829586",
   "first_prize_draws": [],
   "second_prize_draws": [
+    1251,
     1128,
     1041,
     997,
@@ -24,5 +25,5 @@
     501
   ],
   "first_prize_count": 0,
-  "second_prize_count": 7
+  "second_prize_count": 8
 }

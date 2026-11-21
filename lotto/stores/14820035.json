@@ -1,7 +1,7 @@
 {
   "store_id": "14820035",
   "name": "행운복권",
-  "address": "경남 통영시  죽림4로 18 ",
+  "address": "경남 통영시 죽림4로 18",
   "province": "경남",
   "city": "통영시",
   "phone": null,
@@ -10,17 +10,18 @@
     "pension720",
     "speetto"
   ],
-  "latitude": 34.885556,
-  "longitude": 128.416461,
-  "updated_at": "2026-03-05T23:55:48.327020",
+  "latitude": 34.885563,
+  "longitude": 128.41663,
+  "updated_at": "2026-11-21T19:29:04.837766",
   "first_prize_draws": [
     741
   ],
   "second_prize_draws": [
+    1251,
     1110,
     1058,
     974
   ],
   "first_prize_count": 1,
-  "second_prize_count": 3
+  "second_prize_count": 4
 }

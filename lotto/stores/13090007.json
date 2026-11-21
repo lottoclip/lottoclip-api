@@ -1,7 +1,7 @@
 {
   "store_id": "13090007",
   "name": "꿈나라복권방",
-  "address": "대전 대덕구  동춘당로 83 5동119호",
+  "address": "대전 대덕구 동춘당로 83 5동119호",
   "province": "대전",
   "city": "대덕구",
   "phone": "042-627-6270",
@@ -12,11 +12,12 @@
   ],
   "latitude": 36.364377,
   "longitude": 127.44023,
-  "updated_at": "2026-03-06T00:00:31.354789",
+  "updated_at": "2026-11-21T19:29:04.827367",
   "first_prize_draws": [
     708
   ],
   "second_prize_draws": [
+    1251,
     1193,
     1119,
     1032,
@@ -27,5 +28,5 @@
     675
   ],
   "first_prize_count": 1,
-  "second_prize_count": 8
+  "second_prize_count": 9
 }

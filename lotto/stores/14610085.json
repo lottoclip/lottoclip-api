@@ -1,7 +1,7 @@
 {
   "store_id": "14610085",
   "name": "제철로또대리점",
-  "address": "전남 광양시 광장로 125 시티프라자A동116호  ",
+  "address": "전남광주 광양시 광장로 125 시티프라자A동116호",
   "province": "전남",
   "city": "광양시",
   "phone": "061-795-5500",
@@ -12,13 +12,14 @@
   ],
   "latitude": 34.935433,
   "longitude": 127.69425,
-  "updated_at": "2026-06-27T15:05:55.193474",
+  "updated_at": "2026-11-21T19:29:04.835148",
   "first_prize_draws": [
     1078,
     846,
     264
   ],
   "second_prize_draws": [
+    1251,
     1230,
     1160,
     1149,
@@ -29,5 +30,5 @@
     468
   ],
   "first_prize_count": 3,
-  "second_prize_count": 8
+  "second_prize_count": 9
 }
